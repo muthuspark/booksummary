@@ -1,0 +1,15 @@
+---
+title: "Book Summaries"
+listing:
+  contents: posts
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  feed: true
+  fields: [title, description, author, reading-time]
+page-layout: full
+title-block-banner: true
+---
+
+

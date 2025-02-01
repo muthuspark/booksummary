@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Book Summaries"
+  site-url: "https://summaries.muthu.co"
+  navbar:
+    search: true
+
+format:
+  html:
+    toc: true
+    page-layout: article
+    toc-location: "left"
+    theme: 
+      light: litera 
+      dark: cyborg
+    css: styles.css
+    minimal: true
+    include-after-body:
+      - text: |
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
+
