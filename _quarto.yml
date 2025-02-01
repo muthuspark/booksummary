@@ -4,19 +4,32 @@ project:
 
 website:
   title: "Book Summaries"
+  twitter-card: true
+  open-graph: true
+  favicon: favicon.ico
   site-url: "https://summaries.muthu.co"
+  sidebar:
+    style: "docked"
+    search: true
   navbar:
     search: true
+  page-navigation: true
+  page-footer: 
+    left: "Made with love using AI" 
+    border: true
 
 format:
   html:
     toc: true
+    default-image: 'image.png'
     page-layout: article
     toc-location: "left"
-    theme: 
-      light: litera 
-      dark: cyborg
+    theme: none
+      # light: litera 
+      # dark: cyborg
     css: styles.css
+    mermaid: 
+      theme: neutral
     minimal: true
     include-after-body:
       - text: |

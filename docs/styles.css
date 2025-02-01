@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
 
 /* Base font settings for the body */
-body, p {
+body,
+p {
     /* Standard base font-size */
     -webkit-font-smoothing: antialiased;
     /* For crisp rendering */
@@ -22,4 +23,12 @@ body, p {
         "YTFI" 738,
         "YTLC" 514,
         "YTUC" 712;
+}
+
+.quarto-title-meta {
+    display: none !important;
+}
+
+.quarto-title-banner {
+    padding-bottom: 0;
 }

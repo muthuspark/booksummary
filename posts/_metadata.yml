@@ -6,4 +6,8 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+title-block-categories: true
 author-title: false
+include-before-body: 
+    - text: |
+        <img src="./image.png" />
