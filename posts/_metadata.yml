@@ -10,4 +10,4 @@ title-block-categories: true
 author-title: false
 include-before-body: 
     - text: |
-        <img src="./image.png" />
+        <img class="heroimage" src="./image.png" />

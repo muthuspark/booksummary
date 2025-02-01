@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400&family=Quicksand:wght@600&display=swap');
 /* Base font settings for the body */
 body,
 p {
@@ -7,10 +6,10 @@ p {
     -webkit-font-smoothing: antialiased;
     /* For crisp rendering */
     text-rendering: optimizeLegibility;
-    font-family: "Roboto Flex", serif;
+    font-family:  "Alegreya", serif;
     font-optical-sizing: auto;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-variation-settings:
         "slnt" 0,
         "wdth" 100,
@@ -31,4 +30,13 @@ p {
 
 .quarto-title-banner {
     padding-bottom: 0;
+}
+.heroimage{
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, .navbar-title, .quarto-grid-item .card-attribution {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
 }

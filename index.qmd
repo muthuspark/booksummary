@@ -1,8 +1,8 @@
 ---
-title: "Book Summaries"
+title: Access summaries of 500+ self-help books, with actionable insights delivered in 15 minutes or less.
 listing:
   contents: posts
-  type: default
+  type: grid
   categories: true
   sort-ui: false
   filter-ui: true

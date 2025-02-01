@@ -4,15 +4,15 @@ project:
 
 website:
   title: "Book Summaries"
+  description: Access summaries of 1000+ self-help books, with actionable insights delivered in 15 minutes or less.
   twitter-card: true
   open-graph: true
-  favicon: favicon.ico
+  favicon: logo.png
   site-url: "https://summaries.muthu.co"
-  sidebar:
-    style: "docked"
-    search: true
   navbar:
+    logo: logo.png
     search: true
+    collapse: false
   page-navigation: true
   page-footer: 
     left: "Made with love using AI" 
@@ -24,9 +24,9 @@ format:
     default-image: 'image.png'
     page-layout: article
     toc-location: "left"
-    theme: none
-      # light: litera 
-      # dark: cyborg
+    theme: 
+      light: litera 
+      dark: cyborg
     css: styles.css
     mermaid: 
       theme: neutral
