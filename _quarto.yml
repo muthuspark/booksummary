@@ -12,11 +12,15 @@ website:
   navbar:
     logo: logo.png
     search: true
-    collapse: false
+  sidebar:
+    style: "docked"
+    search: false
+    contents: auto
   page-navigation: true
   page-footer: 
     left: "Powered by AI" 
     border: true
+  bread-crumbs: false
 
 format:
   html:

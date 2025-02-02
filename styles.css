@@ -40,3 +40,11 @@ h1, h2, h3, h4, h5, .navbar-title, .quarto-grid-item .card-attribution {
   font-optical-sizing: auto;
   font-weight: 600;
 }
+
+@media (max-width: 991.98px) {
+    #quarto-sidebar .sidebar-menu-container {
+        white-space: nowrap;
+        min-width: 225px;
+        width: 96vw;
+    }
+}
