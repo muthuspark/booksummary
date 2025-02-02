@@ -15,7 +15,7 @@ website:
     collapse: false
   page-navigation: true
   page-footer: 
-    left: "Made with love using AI" 
+    left: "Powered by AI" 
     border: true
 
 format:
