@@ -22,11 +22,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
-<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 <meta name="mermaid-theme" content="neutral">
 <script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
@@ -48,35 +87,96 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="floating nav-fixed">
 
-<img src="./image.png">
-
-<header id="title-block-header">
-<h1 class="title">Reasoning by Alec Fisher</h1>
-<p class="author">Alec Fisher</p>
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Book Summaries</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Reasoning by Alec Fisher</h1>
+                  <div>
+        <div class="description">
+          An introduction to critical thinking and logic
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Decision Making And Critical Thinking</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
 
-<nav id="TOC" role="doc-toc">
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Alec Fisher </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#understanding-reasonings-core-argument" id="toc-understanding-reasonings-core-argument">Understanding Reasoning’s Core Argument</a></li>
-  <li><a href="#identifying-and-overcoming-cognitive-biases" id="toc-identifying-and-overcoming-cognitive-biases">Identifying and Overcoming Cognitive Biases</a></li>
-  <li><a href="#the-power-of-critical-thinking" id="toc-the-power-of-critical-thinking">The Power of Critical Thinking</a></li>
-  <li><a href="#improving-decision-making-through-structured-analysis" id="toc-improving-decision-making-through-structured-analysis">Improving Decision-Making Through Structured Analysis</a></li>
-  <li><a href="#the-importance-of-probabilistic-thinking" id="toc-the-importance-of-probabilistic-thinking">The Importance of Probabilistic Thinking</a></li>
-  <li><a href="#developing-effective-communication-skills" id="toc-developing-effective-communication-skills">Developing Effective Communication Skills</a></li>
-  <li><a href="#building-resilience-through-rationality" id="toc-building-resilience-through-rationality">Building Resilience Through Rationality</a></li>
-  <li><a href="#actionable-insights-and-strategies" id="toc-actionable-insights-and-strategies">Actionable Insights and Strategies</a></li>
-  <li><a href="#conclusion-a-journey-of-continuous-improvement" id="toc-conclusion-a-journey-of-continuous-improvement">Conclusion: A Journey of Continuous Improvement</a></li>
+  <li><a href="#understanding-reasonings-core-argument" id="toc-understanding-reasonings-core-argument" class="nav-link active" data-scroll-target="#understanding-reasonings-core-argument">Understanding Reasoning’s Core Argument</a></li>
+  <li><a href="#identifying-and-overcoming-cognitive-biases" id="toc-identifying-and-overcoming-cognitive-biases" class="nav-link" data-scroll-target="#identifying-and-overcoming-cognitive-biases">Identifying and Overcoming Cognitive Biases</a></li>
+  <li><a href="#the-power-of-critical-thinking" id="toc-the-power-of-critical-thinking" class="nav-link" data-scroll-target="#the-power-of-critical-thinking">The Power of Critical Thinking</a></li>
+  <li><a href="#improving-decision-making-through-structured-analysis" id="toc-improving-decision-making-through-structured-analysis" class="nav-link" data-scroll-target="#improving-decision-making-through-structured-analysis">Improving Decision-Making Through Structured Analysis</a></li>
+  <li><a href="#the-importance-of-probabilistic-thinking" id="toc-the-importance-of-probabilistic-thinking" class="nav-link" data-scroll-target="#the-importance-of-probabilistic-thinking">The Importance of Probabilistic Thinking</a></li>
+  <li><a href="#developing-effective-communication-skills" id="toc-developing-effective-communication-skills" class="nav-link" data-scroll-target="#developing-effective-communication-skills">Developing Effective Communication Skills</a></li>
+  <li><a href="#building-resilience-through-rationality" id="toc-building-resilience-through-rationality" class="nav-link" data-scroll-target="#building-resilience-through-rationality">Building Resilience Through Rationality</a></li>
+  <li><a href="#actionable-strategies" id="toc-actionable-strategies" class="nav-link" data-scroll-target="#actionable-strategies">Actionable Strategies</a></li>
+  <li><a href="#a-journey-of-continuous-improvement" id="toc-a-journey-of-continuous-improvement" class="nav-link" data-scroll-target="#a-journey-of-continuous-improvement">A Journey of Continuous Improvement</a></li>
   </ul>
 </nav>
-<h2 id="understanding-reasonings-core-argument">Understanding Reasoning’s Core Argument</h2>
-<p>Alec Fisher’s “Reasoning” isn’t a self-help book in the traditional sense. It’s a deep dive into the mechanics of rational thought, aiming to equip readers with the tools to analyze information effectively, avoid cognitive biases, and make better decisions. The core argument is that improved reasoning skills directly translate to a more fulfilling and successful life, not through magic formulas, but by fostering a more accurate understanding of the world and oneself.</p>
-<h2 id="identifying-and-overcoming-cognitive-biases">Identifying and Overcoming Cognitive Biases</h2>
-<p>A significant portion of the book tackles cognitive biases – systematic errors in thinking that affect our judgments and decisions. Fisher doesn’t simply list these biases; he explains their underlying mechanisms and illustrates how they manifest in everyday life. This section is crucial because recognizing biases is the first step to mitigating their influence.</p>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+<img class="heroimage" src="./image.png">
+
+
+
+
+
+<section id="understanding-reasonings-core-argument" class="level2">
+<h2 data-anchor-id="understanding-reasonings-core-argument">Understanding Reasoning’s Core Argument</h2>
+<p>Alec Fisher’s “Reasoning” isn’t a self-help book in the traditional sense. It’s a study of the mechanics of rational thought, aiming to equip readers with the tools to analyze information effectively, avoid cognitive biases, and make better decisions. The core argument is that improved reasoning skills directly translate to a more fulfilling and successful life, not through magic formulas, but by fostering a more accurate understanding of the world and oneself.</p>
+</section>
+<section id="identifying-and-overcoming-cognitive-biases" class="level2">
+<h2 data-anchor-id="identifying-and-overcoming-cognitive-biases">Identifying and Overcoming Cognitive Biases</h2>
+<p>A significant portion of the book tackles cognitive biases – systematic errors in thinking that affect our judgments and decisions. Fisher doesn’t simply list these biases; he explains their underlying mechanisms and illustrates how they manifest in everyday life. This section is important because recognizing biases is the first step to mitigating their influence.</p>
 <p>Examples include:</p>
 <ul>
 <li><strong>Confirmation bias:</strong> The tendency to seek out and interpret information confirming pre-existing beliefs while ignoring contradictory evidence.</li>
@@ -84,8 +184,10 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Availability heuristic:</strong> Overestimating the likelihood of events that are easily recalled, often due to their vividness or recent occurrence.</li>
 <li><strong>Halo effect:</strong> Letting one positive trait overshadow others, leading to an overly favorable overall assessment.</li>
 </ul>
-<p>Fisher provides practical strategies to counteract these biases, emphasizing the importance of actively seeking diverse perspectives, critically evaluating evidence, and being aware of the emotional influences on judgment.</p>
-<h2 id="the-power-of-critical-thinking">The Power of Critical Thinking</h2>
+<p>Fisher provides practical strategies to counteract these biases, emphasizing the importance of actively seeking various perspectives, critically evaluating evidence, and being aware of the emotional influences on judgment.</p>
+</section>
+<section id="the-power-of-critical-thinking" class="level2">
+<h2 data-anchor-id="the-power-of-critical-thinking">The Power of Critical Thinking</h2>
 <p>Critical thinking is presented not as a set of rigid rules, but as a flexible and adaptable approach to information processing. It involves:</p>
 <ul>
 <li><strong>Questioning assumptions:</strong> Constantly examining the underlying assumptions behind arguments and claims.</li>
@@ -94,7 +196,9 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Considering alternative explanations:</strong> Exploring different interpretations of the same information.</li>
 </ul>
 <p>Fisher stresses the iterative nature of critical thinking. It’s a continuous process of refinement, involving constant reevaluation and adaptation in the face of new information.</p>
-<h2 id="improving-decision-making-through-structured-analysis">Improving Decision-Making Through Structured Analysis</h2>
+</section>
+<section id="improving-decision-making-through-structured-analysis" class="level2">
+<h2 data-anchor-id="improving-decision-making-through-structured-analysis">Improving Decision-Making Through Structured Analysis</h2>
 <p>The book advocates for a more structured approach to decision-making, moving beyond gut feelings and impulsive choices. This involves:</p>
 <ul>
 <li><strong>Clearly defining the problem:</strong> Formulating the decision to be made with precision and clarity.</li>
@@ -106,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph TD
     A[Define Problem] --&gt; B{Brainstorm Solutions};
@@ -121,7 +225,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<h2 id="the-importance-of-probabilistic-thinking">The Importance of Probabilistic Thinking</h2>
+</section>
+<section id="the-importance-of-probabilistic-thinking" class="level2">
+<h2 data-anchor-id="the-importance-of-probabilistic-thinking">The Importance of Probabilistic Thinking</h2>
 <p>Fisher emphasizes the role of probability in decision-making. He argues that understanding probability allows for a more realistic assessment of risks and uncertainties. This involves:</p>
 <ul>
 <li><strong>Recognizing uncertainty:</strong> Accepting that complete certainty is rarely attainable.</li>
@@ -129,34 +235,243 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Understanding base rates:</strong> Considering the overall frequency of an event when assessing its probability.</li>
 <li><strong>Using Bayes’ theorem:</strong> Applying this theorem to update beliefs in light of new evidence.</li>
 </ul>
-<h2 id="developing-effective-communication-skills">Developing Effective Communication Skills</h2>
-<p>Effective communication is crucial for conveying ideas, engaging in productive discussions, and influencing others. Fisher highlights the importance of:</p>
+</section>
+<section id="developing-effective-communication-skills" class="level2">
+<h2 data-anchor-id="developing-effective-communication-skills">Developing Effective Communication Skills</h2>
+<p>Effective communication is for conveying ideas, engaging in productive discussions, and influencing others. Fisher highlights the importance of:</p>
 <ul>
 <li><strong>Clarity and precision:</strong> Expressing ideas with accuracy and avoiding ambiguity.</li>
 <li><strong>Logical structure:</strong> Organizing arguments in a coherent and persuasive manner.</li>
 <li><strong>Active listening:</strong> Paying attention to what others are saying and responding thoughtfully.</li>
-<li><strong>Empathy and understanding:</strong> Considering the perspectives of others and engaging in respectful dialogue.</li>
+<li><strong>Empathy and understanding:</strong> Considering others and engaging in respectful dialogue.</li>
 </ul>
-<h2 id="building-resilience-through-rationality">Building Resilience Through Rationality</h2>
+</section>
+<section id="building-resilience-through-rationality" class="level2">
+<h2 data-anchor-id="building-resilience-through-rationality">Building Resilience Through Rationality</h2>
 <p>The book subtly touches upon the emotional benefits of improved reasoning. By reducing the impact of cognitive biases and making better decisions, individuals can improve their overall well-being and develop greater resilience in the face of challenges. This involves:</p>
 <ul>
 <li><strong>Emotional regulation:</strong> Managing emotions effectively to avoid impulsive reactions.</li>
 <li><strong>Self-awareness:</strong> Recognizing personal biases and limitations.</li>
 <li><strong>Adaptability:</strong> Adjusting strategies and beliefs in response to changing circumstances.</li>
 </ul>
-<h2 id="actionable-insights-and-strategies">Actionable Insights and Strategies</h2>
-<p>The book doesn’t offer quick fixes or simplistic solutions. Instead, it provides a framework for lifelong learning and continuous improvement. The actionable insights include:</p>
+</section>
+<section id="actionable-strategies" class="level2">
+<h2 data-anchor-id="actionable-strategies">Actionable Strategies</h2>
+<p>The book doesn’t offer quick fixes or simplistic solutions. Instead, it provides a framework for lifelong learning and continuous improvement. The actionable items include:</p>
 <ul>
 <li><strong>Keep a journal:</strong> Regularly reflect on decisions made and analyze the reasoning behind them.</li>
-<li><strong>Seek diverse perspectives:</strong> Actively solicit feedback and challenge your own beliefs.</li>
-<li><strong>Practice mindfulness:</strong> Cultivate awareness of your thoughts and emotions.</li>
+<li><strong>Seek various perspectives:</strong> Actively solicit feedback and challenge your own beliefs.</li>
+<li><strong>Practice mindfulness:</strong> Be aware of your thoughts and emotions.</li>
 <li><strong>Engage in critical discussions:</strong> Participate in thoughtful debates and discussions.</li>
 <li><strong>Continuously learn and update your knowledge:</strong> Stay informed about relevant topics and challenge your assumptions.</li>
 </ul>
-<h2 id="conclusion-a-journey-of-continuous-improvement">Conclusion: A Journey of Continuous Improvement</h2>
-<p>“Reasoning” by Alec Fisher isn’t a light read, but it’s a rewarding investment for those committed to improving their thinking skills. It offers a comprehensive and nuanced understanding of how the mind works, equipping readers with the tools to identify and overcome cognitive biases, make better decisions, and live a more fulfilling life. The book’s value lies not in offering quick fixes but in establishing a framework for continuous self-improvement—a journey of ongoing learning and refinement. The true reward is the ability to navigate complexity, make informed choices, and engage more effectively with the world around you.</p>
+</section>
+<section id="a-journey-of-continuous-improvement" class="level2">
+<h2 data-anchor-id="a-journey-of-continuous-improvement">A Journey of Continuous Improvement</h2>
+<p>“Reasoning” by Alec Fisher isn’t a light read, but it’s a rewarding investment for those committed to improving their thinking skills. It offers a detailed understanding of how the mind works, equipping readers with the tools to identify and overcome cognitive biases, make better decisions, and live a more fulfilling life. The book’s value lies not in offering quick fixes but in establishing a framework for continuous self-improvement—a journey of ongoing learning and refinement. The true reward is the ability to navigate complexity, make informed choices, and engage more effectively with the world around you.</p>
 
 
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/summaries\.muthu\.co");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Powered by AI</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
 
 

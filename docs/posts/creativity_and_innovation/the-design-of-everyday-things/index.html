@@ -22,11 +22,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
-<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 <meta name="mermaid-theme" content="neutral">
 <script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
@@ -48,40 +87,101 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="floating nav-fixed">
 
-<img src="./image.png">
-
-<header id="title-block-header">
-<h1 class="title">The Design of Everyday Things by Don Norman</h1>
-<p class="author">Don Norman</p>
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Book Summaries</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">The Design of Everyday Things by Don Norman</h1>
+                  <div>
+        <div class="description">
+          The psychology of innovative design
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Creativity And Innovation</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
 
-<nav id="TOC" role="doc-toc">
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Don Norman </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-psychology-of-everyday-things-understanding-human-centered-design" id="toc-the-psychology-of-everyday-things-understanding-human-centered-design">The Psychology of Everyday Things: Understanding Human-Centered Design</a></li>
-  <li><a href="#the-seven-stages-of-action-a-framework-for-understanding-user-interaction" id="toc-the-seven-stages-of-action-a-framework-for-understanding-user-interaction">The Seven Stages of Action: A Framework for Understanding User Interaction</a></li>
-  <li><a href="#the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps" id="toc-the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps">The Gulf of Execution and the Gulf of Evaluation: Bridging the Gaps</a></li>
-  <li><a href="#affordances-signifiers-and-mappings-designing-for-intuitiveness" id="toc-affordances-signifiers-and-mappings-designing-for-intuitiveness">Affordances, Signifiers, and Mappings: Designing for Intuitiveness</a></li>
-  <li><a href="#conceptual-models-and-mental-models-aligning-expectations" id="toc-conceptual-models-and-mental-models-aligning-expectations">Conceptual Models and Mental Models: Aligning Expectations</a></li>
-  <li><a href="#feedback-and-constraints-guiding-user-actions" id="toc-feedback-and-constraints-guiding-user-actions">Feedback and Constraints: Guiding User Actions</a></li>
-  <li><a href="#error-prevention-and-recovery-designing-for-human-fallibility" id="toc-error-prevention-and-recovery-designing-for-human-fallibility">Error Prevention and Recovery: Designing for Human Fallibility</a></li>
-  <li><a href="#human-centered-design-putting-people-first" id="toc-human-centered-design-putting-people-first">Human-Centered Design: Putting People First</a></li>
-  <li><a href="#beyond-the-physical-applying-the-principles-broadly" id="toc-beyond-the-physical-applying-the-principles-broadly">Beyond the Physical: Applying the Principles Broadly</a></li>
-  <li><a href="#actionable-insights-for-improving-your-life" id="toc-actionable-insights-for-improving-your-life">Actionable Insights for Improving Your Life</a></li>
+  <li><a href="#the-psychology-of-everyday-things-understanding-human-centered-design" id="toc-the-psychology-of-everyday-things-understanding-human-centered-design" class="nav-link active" data-scroll-target="#the-psychology-of-everyday-things-understanding-human-centered-design">The Psychology of Everyday Things: Understanding Human-Centered Design</a></li>
+  <li><a href="#the-seven-stages-of-action-a-framework-for-understanding-user-interaction" id="toc-the-seven-stages-of-action-a-framework-for-understanding-user-interaction" class="nav-link" data-scroll-target="#the-seven-stages-of-action-a-framework-for-understanding-user-interaction">The Seven Stages of Action: A Framework for Understanding User Interaction</a></li>
+  <li><a href="#the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps" id="toc-the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps" class="nav-link" data-scroll-target="#the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps">The Gulf of Execution and the Gulf of Evaluation: Bridging the Gaps</a></li>
+  <li><a href="#affordances-signifiers-and-mappings-designing-for-intuitiveness" id="toc-affordances-signifiers-and-mappings-designing-for-intuitiveness" class="nav-link" data-scroll-target="#affordances-signifiers-and-mappings-designing-for-intuitiveness">Affordances, Signifiers, and Mappings: Designing for Intuitiveness</a></li>
+  <li><a href="#conceptual-models-and-mental-models-aligning-expectations" id="toc-conceptual-models-and-mental-models-aligning-expectations" class="nav-link" data-scroll-target="#conceptual-models-and-mental-models-aligning-expectations">Conceptual Models and Mental Models: Aligning Expectations</a></li>
+  <li><a href="#feedback-and-constraints-guiding-user-actions" id="toc-feedback-and-constraints-guiding-user-actions" class="nav-link" data-scroll-target="#feedback-and-constraints-guiding-user-actions">Feedback and Constraints: Guiding User Actions</a></li>
+  <li><a href="#error-prevention-and-recovery-designing-for-human-fallibility" id="toc-error-prevention-and-recovery-designing-for-human-fallibility" class="nav-link" data-scroll-target="#error-prevention-and-recovery-designing-for-human-fallibility">Error Prevention and Recovery: Designing for Human Fallibility</a></li>
+  <li><a href="#human-centered-design-putting-people-first" id="toc-human-centered-design-putting-people-first" class="nav-link" data-scroll-target="#human-centered-design-putting-people-first">Human-Centered Design: Putting People First</a></li>
+  <li><a href="#beyond-the-physical-applying-the-principles-broadly" id="toc-beyond-the-physical-applying-the-principles-broadly" class="nav-link" data-scroll-target="#beyond-the-physical-applying-the-principles-broadly">Beyond the Physical: Applying the Principles Broadly</a></li>
+  <li><a href="#actionable-steps-for-improving-your-life" id="toc-actionable-steps-for-improving-your-life" class="nav-link" data-scroll-target="#actionable-steps-for-improving-your-life">Actionable Steps for Improving Your Life</a></li>
   </ul>
 </nav>
-<h2 id="the-psychology-of-everyday-things-understanding-human-centered-design">The Psychology of Everyday Things: Understanding Human-Centered Design</h2>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+<img class="heroimage" src="./image.png">
+
+
+
+
+
+<section id="the-psychology-of-everyday-things-understanding-human-centered-design" class="level2">
+<h2 data-anchor-id="the-psychology-of-everyday-things-understanding-human-centered-design">The Psychology of Everyday Things: Understanding Human-Centered Design</h2>
 <p>Don Norman’s “The Design of Everyday Things” isn’t just about design; it’s about understanding human behavior and applying that knowledge to create products and environments that are both usable and enjoyable. The core argument revolves around the idea that good design should be intuitive, allowing users to effortlessly accomplish their goals. Poor design, conversely, leads to frustration, wasted time, and even danger.</p>
-<h2 id="the-seven-stages-of-action-a-framework-for-understanding-user-interaction">The Seven Stages of Action: A Framework for Understanding User Interaction</h2>
-<p>Norman introduces the seven stages of action, a crucial framework for analyzing user interaction. This cycle explains the mental and physical processes involved in achieving a goal. Understanding these stages is paramount to designing effective systems.</p>
+</section>
+<section id="the-seven-stages-of-action-a-framework-for-understanding-user-interaction" class="level2">
+<h2 data-anchor-id="the-seven-stages-of-action-a-framework-for-understanding-user-interaction">The Seven Stages of Action: A Framework for Understanding User Interaction</h2>
+<p>Norman introduces the seven stages of action, a framework for analyzing user interaction. This cycle explains the mental and physical processes involved in achieving a goal. Understanding these stages is critical to designing effective systems.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
 A[Goal] --&gt; B(Plan);
@@ -108,14 +208,18 @@ G --&gt; A;
 <li><strong>Evaluate:</strong> Assessing whether the goal has been achieved.</li>
 </ol>
 <p>A breakdown of any interaction using these stages reveals areas for improvement. For instance, if the “interpret” stage fails, it likely means the design provides insufficient feedback or is poorly understood.</p>
-<h2 id="the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps">The Gulf of Execution and the Gulf of Evaluation: Bridging the Gaps</h2>
+</section>
+<section id="the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps" class="level2">
+<h2 data-anchor-id="the-gulf-of-execution-and-the-gulf-of-evaluation-bridging-the-gaps">The Gulf of Execution and the Gulf of Evaluation: Bridging the Gaps</h2>
 <p>Norman introduces the concepts of the “Gulf of Execution” and the “Gulf of Evaluation” to further explain usability challenges.</p>
 <ul>
 <li><p><strong>The Gulf of Execution:</strong> The difference between the user’s intentions and the actions required to achieve them. A large gulf means the user finds it difficult to figure out how to interact with the system.</p></li>
 <li><p><strong>The Gulf of Evaluation:</strong> The difference between the system’s state and the user’s understanding of that state. A large gulf means the user finds it hard to understand what has happened or what the system is doing.</p></li>
 </ul>
-<p>Bridging these gulfs is crucial for good design. It involves creating clear mappings between intentions and actions (execution) and providing clear and understandable feedback (evaluation).</p>
-<h2 id="affordances-signifiers-and-mappings-designing-for-intuitiveness">Affordances, Signifiers, and Mappings: Designing for Intuitiveness</h2>
+<p>Bridging these gulfs for good design involves creating clear mappings between intentions and actions (execution) and providing clear and understandable feedback (evaluation).</p>
+</section>
+<section id="affordances-signifiers-and-mappings-designing-for-intuitiveness" class="level2">
+<h2 data-anchor-id="affordances-signifiers-and-mappings-designing-for-intuitiveness">Affordances, Signifiers, and Mappings: Designing for Intuitiveness</h2>
 <p>Norman emphasizes the importance of three key concepts:</p>
 <ul>
 <li><p><strong>Affordances:</strong> The perceived and actual properties of an object that determine how it can be used. A button affords pushing, a knob affords turning. Good design makes affordances clear and obvious. However, <em>perceived</em> affordances are key—an object might <em>actually</em> have multiple uses, but the user must perceive the intended use.</p></li>
@@ -123,32 +227,44 @@ G --&gt; A;
 <li><p><strong>Mappings:</strong> The relationship between controls and their effects. A good mapping is intuitive and predictable. For example, the spatial arrangement of stove burners and their controls should be a direct, natural mapping. Poor mapping creates confusion and errors.</p></li>
 </ul>
 <p>Good design uses these elements synergistically to create intuitive and enjoyable interactions.</p>
-<h2 id="conceptual-models-and-mental-models-aligning-expectations">Conceptual Models and Mental Models: Aligning Expectations</h2>
+</section>
+<section id="conceptual-models-and-mental-models-aligning-expectations" class="level2">
+<h2 data-anchor-id="conceptual-models-and-mental-models-aligning-expectations">Conceptual Models and Mental Models: Aligning Expectations</h2>
 <p>A <em>conceptual model</em> represents the designer’s understanding of how a system works. A <em>mental model</em> is the user’s understanding of the system. Effective design bridges the gap between these two models. If they diverge significantly, users become frustrated and make mistakes. The system should provide clear and consistent feedback to help the user build an accurate mental model.</p>
-<h2 id="feedback-and-constraints-guiding-user-actions">Feedback and Constraints: Guiding User Actions</h2>
+</section>
+<section id="feedback-and-constraints-guiding-user-actions" class="level2">
+<h2 data-anchor-id="feedback-and-constraints-guiding-user-actions">Feedback and Constraints: Guiding User Actions</h2>
 <ul>
 <li><p><strong>Feedback:</strong> Information provided to the user about the effects of their actions. Immediate and clear feedback is essential for allowing users to understand the system’s response and adjust their actions accordingly.</p></li>
 <li><p><strong>Constraints:</strong> Limitations on the possible actions a user can take. Well-placed constraints prevent errors and guide the user towards correct actions. Physical constraints (like the shape of a key) and cultural constraints (like conventions for traffic lights) are both effective.</p></li>
 </ul>
-<h2 id="error-prevention-and-recovery-designing-for-human-fallibility">Error Prevention and Recovery: Designing for Human Fallibility</h2>
+</section>
+<section id="error-prevention-and-recovery-designing-for-human-fallibility" class="level2">
+<h2 data-anchor-id="error-prevention-and-recovery-designing-for-human-fallibility">Error Prevention and Recovery: Designing for Human Fallibility</h2>
 <p>Humans make mistakes. Good design anticipates these errors and minimizes their impact. This involves:</p>
 <ul>
 <li><strong>Error prevention:</strong> Designing the system to make errors difficult or impossible.</li>
 <li><strong>Error recovery:</strong> Providing mechanisms for users to easily undo or correct errors.</li>
 </ul>
 <p>Simple, clear, and forgiving interfaces are essential for error management.</p>
-<h2 id="human-centered-design-putting-people-first">Human-Centered Design: Putting People First</h2>
-<p>Norman consistently advocates for a human-centered design approach. This means starting with a deep understanding of the user’s needs, goals, and limitations. It involves:</p>
+</section>
+<section id="human-centered-design-putting-people-first" class="level2">
+<h2 data-anchor-id="human-centered-design-putting-people-first">Human-Centered Design: Putting People First</h2>
+<p>Norman consistently advocates for a human-centered design approach. This means starting with an understanding of the user’s needs, goals, and limitations. It involves:</p>
 <ul>
 <li><strong>User research:</strong> Conducting thorough research to understand the user’s context and requirements.</li>
 <li><strong>Iteration and testing:</strong> Continuously testing and refining the design based on user feedback.</li>
 <li><strong>Simplicity and clarity:</strong> Striving for simplicity and clarity in all aspects of the design.</li>
 </ul>
 <p>By prioritizing the user, designers can create products and systems that are genuinely useful, efficient, and enjoyable.</p>
-<h2 id="beyond-the-physical-applying-the-principles-broadly">Beyond the Physical: Applying the Principles Broadly</h2>
+</section>
+<section id="beyond-the-physical-applying-the-principles-broadly" class="level2">
+<h2 data-anchor-id="beyond-the-physical-applying-the-principles-broadly">Beyond the Physical: Applying the Principles Broadly</h2>
 <p>The principles outlined in “The Design of Everyday Things” aren’t confined to physical objects. They apply equally to software interfaces, websites, and even organizational structures. Consider how a poorly designed workflow in an office can create the same kind of frustration as a poorly designed door handle. The principles of affordances, signifiers, mappings, feedback and constraints are universal.</p>
-<h2 id="actionable-insights-for-improving-your-life">Actionable Insights for Improving Your Life</h2>
-<p>The book offers numerous actionable insights for improving various aspects of life:</p>
+</section>
+<section id="actionable-steps-for-improving-your-life" class="level2">
+<h2 data-anchor-id="actionable-steps-for-improving-your-life">Actionable Steps for Improving Your Life</h2>
+<p>The book offers numerous actionable tips for improving various aspects of life:</p>
 <ul>
 <li><p><strong>Declutter your environment:</strong> Applying principles of affordances and signifiers to your physical space can make it easier to find things and perform tasks.</p></li>
 <li><p><strong>Improve your workspace:</strong> Organize tools and materials to support efficient workflows. Ensure proper mappings between tools and tasks.</p></li>
@@ -157,9 +273,210 @@ G --&gt; A;
 <li><p><strong>Design better instructions:</strong> Create instructions that are clear, concise, and easy to follow.</p></li>
 <li><p><strong>Be a more empathetic designer:</strong> Understand the needs and limitations of those who use what you create. Whether it’s a family member, a colleague, or yourself, good design is about empathy.</p></li>
 </ul>
-<p>By adopting the human-centered approach and applying the principles of usability, you can dramatically improve the effectiveness and enjoyment of your interactions with everyday objects, systems, and the people around you. The book’s enduring legacy lies in its ability to empower readers to become more observant, more thoughtful, and more effective designers of their own lives.</p>
+<p>By adopting the human-centered approach and applying the principles of usability, you can dramatically improve the effectiveness and enjoyment of your interactions with everyday objects, systems, and the people around you. The book’s enduring legacy lies in its ability to make readers more observant, more thoughtful, and more effective designers of their own lives.</p>
 
 
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/summaries\.muthu\.co");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Powered by AI</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
 
 

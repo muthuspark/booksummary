@@ -32,13 +32,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../favicon.ico" rel="icon">
+<link href="../../../logo.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-65aa25432a3320f51f7c8cd0450d331d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/bootstrap/bootstrap-dark-83ab87435b0737574fd2481aa69d0bb6.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -87,13 +87,16 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Book Summaries</span>
     </a>
@@ -104,19 +107,6 @@ ul.task-list li input[type="checkbox"] {
           <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">The Phoenix Project by Gene Kim</li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
@@ -151,12 +141,7 @@ ul.task-list li input[type="checkbox"] {
   
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
@@ -169,9 +154,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#the-second-way-amplifying-feedback-loops" id="toc-the-second-way-amplifying-feedback-loops" class="nav-link" data-scroll-target="#the-second-way-amplifying-feedback-loops">The Second Way: Amplifying Feedback Loops</a></li>
   <li><a href="#the-third-way-continuous-learning-and-experimentation" id="toc-the-third-way-continuous-learning-and-experimentation" class="nav-link" data-scroll-target="#the-third-way-continuous-learning-and-experimentation">The Third Way: Continuous Learning and Experimentation</a></li>
   </ul></li>
-  <li><a href="#actionable-insights-and-strategies" id="toc-actionable-insights-and-strategies" class="nav-link" data-scroll-target="#actionable-insights-and-strategies">Actionable Insights and Strategies</a></li>
+  <li><a href="#actionable-strategies" id="toc-actionable-strategies" class="nav-link" data-scroll-target="#actionable-strategies">Actionable Strategies</a></li>
   <li><a href="#beyond-it-applying-devops-principles-to-life" id="toc-beyond-it-applying-devops-principles-to-life" class="nav-link" data-scroll-target="#beyond-it-applying-devops-principles-to-life">Beyond IT: Applying DevOps Principles to Life</a></li>
-  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
 </nav>
@@ -181,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
-<img src="./image.png">
+<img class="heroimage" src="./image.png">
 
 
 
@@ -215,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="the-three-ways-a-foundation-for-change" class="level2">
 <h2 data-anchor-id="the-three-ways-a-foundation-for-change">The Three Ways: A Foundation for Change</h2>
-<p>The core of the book revolves around “The Three Ways,” a framework for improving IT performance and organizational efficiency. These three ways are interconnected and crucial for achieving sustainable improvement:</p>
+<p>The core of the book revolves around “The Three Ways,” a framework for improving IT performance and organizational efficiency. These three ways are interconnected and essential for achieving sustainable improvement:</p>
 <section id="the-first-way-the-flow-of-work" class="level3">
 <h3 data-anchor-id="the-first-way-the-flow-of-work">The First Way: The Flow of Work</h3>
 <p>The first way focuses on accelerating the flow of work from Development to Operations to the customer. This involves identifying and eliminating bottlenecks that slow down the process. In the book, this translates to streamlining the deployment pipeline, automating repetitive tasks, and improving communication between teams. The goal is to deliver value to the customer faster and more reliably.</p>
@@ -259,16 +243,16 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="the-third-way-continuous-learning-and-experimentation" class="level3">
 <h3 data-anchor-id="the-third-way-continuous-learning-and-experimentation">The Third Way: Continuous Learning and Experimentation</h3>
-<p>The third way focuses on continuous learning and improvement. This involves creating a culture of experimentation and learning from both successes and failures. The goal is to constantly improve processes, tools, and technologies to optimize the flow of work and amplify feedback loops. This requires a willingness to embrace change, learn from mistakes, and continuously adapt.</p>
+<p>The third way focuses on continuous learning and improvement. This involves creating a culture of experimentation and learning from both successes and failures. The goal is to constantly improve processes, tools, and technologies to optimize the flow of work and feedback loops. This requires a willingness to change, learn from mistakes, and continuously adapt.</p>
 </section>
 </section>
-<section id="actionable-insights-and-strategies" class="level2">
-<h2 data-anchor-id="actionable-insights-and-strategies">Actionable Insights and Strategies</h2>
-<p>The novel provides several actionable insights that can be applied to improve various aspects of life, not just IT:</p>
+<section id="actionable-strategies" class="level2">
+<h2 data-anchor-id="actionable-strategies">Actionable Strategies</h2>
+<p>The novel provides many actionable tips that can be applied to improve various aspects of life, not just IT.</p>
 <ul>
 <li><p><strong>Embrace Collaboration:</strong> Breaking down silos and fostering collaboration between teams is paramount. This requires open communication, shared goals, and a willingness to work together. This translates into better teamwork in all aspects of life, whether it’s family, professional projects, or community endeavors.</p></li>
 <li><p><strong>Automate Repetitive Tasks:</strong> Automating mundane and repetitive tasks frees up time and resources to focus on higher-value activities. This improves efficiency and reduces the risk of human error. This applies to anything from household chores to managing personal finances.</p></li>
-<li><p><strong>Improve Communication:</strong> Effective communication is critical for success. This involves using the right channels, providing clear and concise information, and actively listening to others. This is a life skill valuable in all interpersonal interactions.</p></li>
+<li><p><strong>Improve Communication:</strong> Effective communication is critical for success. This involves using the right channels, providing clear and concise information, and actively listening to others. This is a life skill in all interpersonal interactions.</p></li>
 <li><p><strong>Focus on Value:</strong> Prioritize tasks based on their value to the customer or end-user. This prevents wasting time and resources on non-essential activities. This applies to personal projects, career choices, and managing one’s time effectively.</p></li>
 <li><p><strong>Embrace Failure as a Learning Opportunity:</strong> Don’t be afraid to experiment and learn from failures. This builds resilience and fosters a culture of continuous improvement. This life lesson enables adaptability and helps navigate setbacks with grace.</p></li>
 <li><p><strong>Continuous Improvement:</strong> Continuously look for ways to improve processes and systems. This requires a commitment to learning, adapting, and embracing change. This is a key element for personal and professional growth, promoting lifelong learning.</p></li>
@@ -284,10 +268,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Project Management:</strong> Using DevOps principles can help manage projects more efficiently, reducing delays and improving outcomes.</p></li>
 <li><p><strong>Community Involvement:</strong> Applying these principles to community projects can improve collaboration and achieve better results.</p></li>
 </ul>
-</section>
-<section id="conclusion" class="level2">
-<h2 data-anchor-id="conclusion">Conclusion</h2>
-<p>“The Phoenix Project” is a powerful allegory for organizational change and personal growth. By understanding and implementing the Three Ways and the actionable insights it offers, readers can improve not only their professional lives but also their personal lives. The book serves as a powerful reminder that achieving success requires collaboration, continuous improvement, and a focus on delivering value. The core message transcends the IT industry and resonates with anyone striving for greater efficiency, effectiveness, and overall well-being.</p>
+<p>“The Phoenix Project” is a powerful allegory for organizational change and personal growth. By understanding and implementing the Three Ways and the actionable advice it offers, readers can improve not only their professional lives but also their personal lives. The book serves as a powerful reminder that achieving success requires collaboration, continuous improvement, and a focus on delivering value. The core message transcends the IT industry and resonates with anyone striving for greater efficiency, effectiveness, and overall well-being.</p>
 
 
 </section>
@@ -481,7 +462,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Made with love using AI</p>
+<p>Powered by AI</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

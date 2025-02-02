@@ -22,11 +22,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
-<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 <meta name="mermaid-theme" content="neutral">
 <script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
@@ -48,42 +87,103 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="floating nav-fixed">
 
-<img src="./image.png">
-
-<header id="title-block-header">
-<h1 class="title">How to Think About Analysis by Lara Alcock</h1>
-<p class="author">Lara Alcock</p>
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Book Summaries</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">How to Think About Analysis by Lara Alcock</h1>
+                  <div>
+        <div class="description">
+          Framework for developing analytical thinking skills
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Decision Making And Critical Thinking</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
 
-<nav id="TOC" role="doc-toc">
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Lara Alcock </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#understanding-the-core-message" id="toc-understanding-the-core-message">Understanding the Core Message</a></li>
-  <li><a href="#breaking-down-complex-problems" id="toc-breaking-down-complex-problems">Breaking Down Complex Problems</a></li>
-  <li><a href="#identifying-and-challenging-assumptions" id="toc-identifying-and-challenging-assumptions">Identifying and Challenging Assumptions</a></li>
-  <li><a href="#evaluating-evidence-critically" id="toc-evaluating-evidence-critically">Evaluating Evidence Critically</a></li>
-  <li><a href="#recognizing-cognitive-biases" id="toc-recognizing-cognitive-biases">Recognizing Cognitive Biases</a></li>
-  <li><a href="#developing-strong-arguments" id="toc-developing-strong-arguments">Developing Strong Arguments</a></li>
-  <li><a href="#structuring-your-thinking" id="toc-structuring-your-thinking">Structuring Your Thinking</a></li>
-  <li><a href="#the-importance-of-clarity-and-precision" id="toc-the-importance-of-clarity-and-precision">The Importance of Clarity and Precision</a></li>
-  <li><a href="#practicing-self-reflection-and-continuous-improvement" id="toc-practicing-self-reflection-and-continuous-improvement">Practicing Self-Reflection and Continuous Improvement</a></li>
-  <li><a href="#application-in-everyday-life" id="toc-application-in-everyday-life">Application in Everyday Life</a></li>
-  <li><a href="#actionable-insights-and-strategies" id="toc-actionable-insights-and-strategies">Actionable Insights and Strategies</a></li>
-  <li><a href="#conclusion-a-lifelong-pursuit" id="toc-conclusion-a-lifelong-pursuit">Conclusion: A Lifelong Pursuit</a></li>
+  <li><a href="#understanding-the-core-message" id="toc-understanding-the-core-message" class="nav-link active" data-scroll-target="#understanding-the-core-message">Understanding the Core Message</a></li>
+  <li><a href="#breaking-down-complex-problems" id="toc-breaking-down-complex-problems" class="nav-link" data-scroll-target="#breaking-down-complex-problems">Breaking Down Complex Problems</a></li>
+  <li><a href="#identifying-and-challenging-assumptions" id="toc-identifying-and-challenging-assumptions" class="nav-link" data-scroll-target="#identifying-and-challenging-assumptions">Identifying and Challenging Assumptions</a></li>
+  <li><a href="#evaluating-evidence-critically" id="toc-evaluating-evidence-critically" class="nav-link" data-scroll-target="#evaluating-evidence-critically">Evaluating Evidence Critically</a></li>
+  <li><a href="#recognizing-cognitive-biases" id="toc-recognizing-cognitive-biases" class="nav-link" data-scroll-target="#recognizing-cognitive-biases">Recognizing Cognitive Biases</a></li>
+  <li><a href="#developing-strong-arguments" id="toc-developing-strong-arguments" class="nav-link" data-scroll-target="#developing-strong-arguments">Developing Strong Arguments</a></li>
+  <li><a href="#structuring-your-thinking" id="toc-structuring-your-thinking" class="nav-link" data-scroll-target="#structuring-your-thinking">Structuring Your Thinking</a></li>
+  <li><a href="#the-importance-of-clarity-and-precision" id="toc-the-importance-of-clarity-and-precision" class="nav-link" data-scroll-target="#the-importance-of-clarity-and-precision">The Importance of Clarity and Precision</a></li>
+  <li><a href="#practicing-self-reflection-and-continuous-improvement" id="toc-practicing-self-reflection-and-continuous-improvement" class="nav-link" data-scroll-target="#practicing-self-reflection-and-continuous-improvement">Practicing Self-Reflection and Continuous Improvement</a></li>
+  <li><a href="#application-in-everyday-life" id="toc-application-in-everyday-life" class="nav-link" data-scroll-target="#application-in-everyday-life">Application in Everyday Life</a></li>
+  <li><a href="#actionable-strategies" id="toc-actionable-strategies" class="nav-link" data-scroll-target="#actionable-strategies">Actionable Strategies</a></li>
+  <li><a href="#a-lifelong-pursuit" id="toc-a-lifelong-pursuit" class="nav-link" data-scroll-target="#a-lifelong-pursuit">A Lifelong Pursuit</a></li>
   </ul>
 </nav>
-<h2 id="understanding-the-core-message">Understanding the Core Message</h2>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+<img class="heroimage" src="./image.png">
+
+
+
+
+
+<section id="understanding-the-core-message" class="level2">
+<h2 data-anchor-id="understanding-the-core-message">Understanding the Core Message</h2>
 <p>Lara Alcock’s “How to Think About Analysis” isn’t a self-help book in the traditional sense. It’s a guide to developing a sharper, more critical mind, applicable to various aspects of life. The core message revolves around improving decision-making through structured thinking, rigorous evaluation of evidence, and a conscious awareness of biases. It empowers readers to navigate complexity with clarity and confidence, leading to better outcomes in personal and professional life. The book emphasizes the process of analysis as a skill to be honed, rather than an innate ability.</p>
-<h2 id="breaking-down-complex-problems">Breaking Down Complex Problems</h2>
+</section>
+<section id="breaking-down-complex-problems" class="level2">
+<h2 data-anchor-id="breaking-down-complex-problems">Breaking Down Complex Problems</h2>
 <p>The book stresses the importance of breaking down complex problems into smaller, manageable parts. This involves identifying the key elements, defining the scope of the problem, and separating facts from assumptions. This decomposition process makes the problem less daunting and allows for a more focused approach to finding solutions. A systematic, step-by-step approach is crucial.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
     A[Complex Problem] --&gt; B(Identify Key Elements);
@@ -96,14 +196,18 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<h2 id="identifying-and-challenging-assumptions">Identifying and Challenging Assumptions</h2>
-<p>Alcock highlights the pervasive nature of unconscious assumptions. These unexamined beliefs often influence our perception and reasoning, leading to flawed conclusions. The book encourages readers to actively identify and challenge their own assumptions, as well as those presented by others. This critical examination is crucial for unbiased analysis. Questioning the “why” behind beliefs and evidence is key.</p>
-<h2 id="evaluating-evidence-critically">Evaluating Evidence Critically</h2>
+</section>
+<section id="identifying-and-challenging-assumptions" class="level2">
+<h2 data-anchor-id="identifying-and-challenging-assumptions">Identifying and Challenging Assumptions</h2>
+<p>Alcock highlights the pervasive nature of unconscious assumptions. These unexamined beliefs often influence our perception and reasoning, leading to flawed conclusions. The book encourages readers to actively identify and challenge their own assumptions, as well as those presented by others. This critical examination is important for unbiased analysis. Questioning the “why” behind beliefs and evidence is key.</p>
+</section>
+<section id="evaluating-evidence-critically" class="level2">
+<h2 data-anchor-id="evaluating-evidence-critically">Evaluating Evidence Critically</h2>
 <p>A significant portion of the book focuses on critically evaluating evidence. This involves assessing the source’s credibility, considering potential biases, looking for contradictory evidence, and understanding the limitations of data. Simply accepting information at face value is discouraged; rigorous scrutiny is paramount.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
     A[Evidence] --&gt; B(Source Credibility?);
@@ -117,35 +221,252 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<h2 id="recognizing-cognitive-biases">Recognizing Cognitive Biases</h2>
+</section>
+<section id="recognizing-cognitive-biases" class="level2">
+<h2 data-anchor-id="recognizing-cognitive-biases">Recognizing Cognitive Biases</h2>
 <p>The book effectively explains various cognitive biases that can distort our thinking, such as confirmation bias (favoring information that confirms existing beliefs), anchoring bias (over-reliance on the first piece of information received), and availability heuristic (overestimating the likelihood of events that are easily recalled). Recognizing these biases is the first step towards mitigating their influence on decision-making.</p>
-<h2 id="developing-strong-arguments">Developing Strong Arguments</h2>
-<p>Constructing robust arguments is a key skill emphasized in the book. This involves presenting clear and concise reasoning, supported by credible evidence and acknowledging counterarguments. A well-structured argument isn’t about winning a debate; it’s about presenting a reasoned perspective based on sound analysis.</p>
-<h2 id="structuring-your-thinking">Structuring Your Thinking</h2>
+</section>
+<section id="developing-strong-arguments" class="level2">
+<h2 data-anchor-id="developing-strong-arguments">Developing Strong Arguments</h2>
+<p>Constructing arguments is a key skill emphasized in the book. This involves presenting clear and concise reasoning, supported by credible evidence and acknowledging counterarguments. A well-structured argument isn’t about winning a debate; it’s about presenting a reasoned perspective based on sound analysis.</p>
+</section>
+<section id="structuring-your-thinking" class="level2">
+<h2 data-anchor-id="structuring-your-thinking">Structuring Your Thinking</h2>
 <p>The importance of a structured approach to thinking is consistently reiterated. This isn’t about rigid formulas, but about employing frameworks and mental models to organize information, identify patterns, and draw meaningful conclusions. Mind maps, flowcharts, and other visual aids can be incredibly helpful in this process.</p>
-<h2 id="the-importance-of-clarity-and-precision">The Importance of Clarity and Precision</h2>
-<p>Ambiguity is the enemy of clear thinking. The book stresses the importance of precise language and clear articulation of thoughts. Vague statements lead to misunderstandings and flawed analyses. Defining terms carefully and using precise language is crucial for effective communication and accurate reasoning.</p>
-<h2 id="practicing-self-reflection-and-continuous-improvement">Practicing Self-Reflection and Continuous Improvement</h2>
-<p>The book doesn’t offer quick fixes; it emphasizes the importance of continuous learning and self-reflection. Regularly reviewing one’s analytical processes, identifying areas for improvement, and actively seeking feedback are crucial for honing one’s skills.</p>
-<h2 id="application-in-everyday-life">Application in Everyday Life</h2>
+</section>
+<section id="the-importance-of-clarity-and-precision" class="level2">
+<h2 data-anchor-id="the-importance-of-clarity-and-precision">The Importance of Clarity and Precision</h2>
+<p>Ambiguity is the enemy of clear thinking. The book stresses the importance of precise language and clear articulation of thoughts. Vague statements lead to misunderstandings and flawed analyses. Defining terms carefully and using precise language is important for effective communication and accurate reasoning.</p>
+</section>
+<section id="practicing-self-reflection-and-continuous-improvement" class="level2">
+<h2 data-anchor-id="practicing-self-reflection-and-continuous-improvement">Practicing Self-Reflection and Continuous Improvement</h2>
+<p>The book doesn’t offer quick fixes; it emphasizes the importance of continuous learning and self-reflection. Regularly reviewing one’s analytical processes, identifying areas for improvement, and actively seeking feedback are for honing one’s skills.</p>
+</section>
+<section id="application-in-everyday-life" class="level2">
+<h2 data-anchor-id="application-in-everyday-life">Application in Everyday Life</h2>
 <p>The principles outlined in “How to Think About Analysis” are not limited to academic or professional settings. They can be applied to various aspects of daily life, from making personal financial decisions to navigating complex social situations. The book empowers readers to approach challenges with a more analytical and reasoned approach, fostering greater self-awareness and improved decision-making.</p>
-<h2 id="actionable-insights-and-strategies">Actionable Insights and Strategies</h2>
+</section>
+<section id="actionable-strategies" class="level2">
+<h2 data-anchor-id="actionable-strategies">Actionable Strategies</h2>
 <ul>
 <li><strong>Journaling:</strong> Regularly reflecting on your decision-making processes, noting biases, and identifying areas for improvement.</li>
 <li><strong>Mind Mapping:</strong> Visualizing complex problems and their constituent parts to gain a better understanding.</li>
-<li><strong>Devil’s Advocacy:</strong> Actively challenging your own assumptions and perspectives to identify potential flaws in your reasoning.</li>
+<li><strong>Devil’s Advocacy:</strong> Actively challenging your own assumptions to identify potential flaws in your reasoning.</li>
 <li><strong>Seeking Diverse Perspectives:</strong> Consulting with others and considering different viewpoints to broaden your understanding and identify blind spots.</li>
 <li><strong>Fact-Checking:</strong> Verifying information from multiple reliable sources before accepting it as truth.</li>
 <li><strong>Prioritizing Information:</strong> Focusing on the most relevant and reliable information, avoiding distractions.</li>
-<li><strong>Identifying Biases:</strong> Actively seeking to recognize and mitigate the influence of cognitive biases on your thinking.</li>
+<li><strong>Identifying Biases:</strong> Actively seeking to mitigate the influence of cognitive biases on your thinking.</li>
 <li><strong>Simplifying Complexity:</strong> Breaking down large problems into smaller, more manageable parts.</li>
 <li><strong>Defining Terms:</strong> Ensuring clarity and precision in language to avoid ambiguity.</li>
 <li><strong>Structuring Arguments:</strong> Developing well-reasoned arguments supported by evidence.</li>
 </ul>
-<h2 id="conclusion-a-lifelong-pursuit">Conclusion: A Lifelong Pursuit</h2>
-<p>“How to Think About Analysis” isn’t a quick read with immediate solutions; rather, it’s an invitation to cultivate a lifelong habit of critical thinking. It provides a framework for developing stronger analytical skills that extend far beyond the confines of academic study. By internalizing the principles and strategies presented in the book, readers can equip themselves with the tools to navigate the complexities of life with greater clarity, confidence, and ultimately, better outcomes. The key takeaway is the ongoing process of self-improvement and the continuous application of these principles to all aspects of life. It’s a journey of intellectual growth, not a destination.</p>
+</section>
+<section id="a-lifelong-pursuit" class="level2">
+<h2 data-anchor-id="a-lifelong-pursuit">A Lifelong Pursuit</h2>
+<p>“How to Think About Analysis” isn’t a quick read with immediate solutions; rather, it’s an invitation to a lifelong habit of critical thinking. It provides a framework for developing stronger analytical skills that extend far beyond the confines of academic study. By internalizing the principles and strategies presented in the book, readers can equip themselves with the tools to navigate the complexities of life with greater clarity, confidence, and ultimately, better outcomes. The key takeaway is the ongoing process of self-improvement and the continuous application of these principles to all aspects of life. It’s a journey of intellectual growth, not a destination.</p>
 
 
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/summaries\.muthu\.co");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Powered by AI</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
 
 

@@ -22,11 +22,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
-<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 <meta name="mermaid-theme" content="neutral">
 <script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
@@ -48,39 +87,98 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="floating nav-fixed">
 
-<img src="./image.png">
-
-<header id="title-block-header">
-<h1 class="title">Problem Solving 101 by Ken Watanabe</h1>
-<p class="author">Ken Watanabe</p>
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Book Summaries</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Problem Solving 101 by Ken Watanabe</h1>
+                  <div>
+        <div class="description">
+          A simple book for smart people about breaking down complex problems
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Decision Making And Critical Thinking</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
 
-<nav id="TOC" role="doc-toc">
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Ken Watanabe </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#defining-the-problem" id="toc-defining-the-problem">Defining the Problem</a></li>
-  <li><a href="#gathering-information" id="toc-gathering-information">Gathering Information</a></li>
-  <li><a href="#brainstorming-solutions" id="toc-brainstorming-solutions">Brainstorming Solutions</a></li>
-  <li><a href="#evaluating-solutions" id="toc-evaluating-solutions">Evaluating Solutions</a></li>
-  <li><a href="#implementing-the-solution" id="toc-implementing-the-solution">Implementing the Solution</a></li>
-  <li><a href="#monitoring-and-evaluation" id="toc-monitoring-and-evaluation">Monitoring and Evaluation</a></li>
-  <li><a href="#learning-from-the-experience" id="toc-learning-from-the-experience">Learning from the Experience</a></li>
-  <li><a href="#types-of-problems-approaches" id="toc-types-of-problems-approaches">Types of Problems &amp; Approaches</a></li>
-  <li><a href="#essential-skills-for-problem-solvers" id="toc-essential-skills-for-problem-solvers">Essential Skills for Problem Solvers</a></li>
-  <li><a href="#overcoming-obstacles" id="toc-overcoming-obstacles">Overcoming Obstacles</a></li>
+  <li><a href="#defining-the-problem" id="toc-defining-the-problem" class="nav-link active" data-scroll-target="#defining-the-problem">Defining the Problem</a></li>
+  <li><a href="#gathering-information" id="toc-gathering-information" class="nav-link" data-scroll-target="#gathering-information">Gathering Information</a></li>
+  <li><a href="#brainstorming-solutions" id="toc-brainstorming-solutions" class="nav-link" data-scroll-target="#brainstorming-solutions">Brainstorming Solutions</a></li>
+  <li><a href="#evaluating-solutions" id="toc-evaluating-solutions" class="nav-link" data-scroll-target="#evaluating-solutions">Evaluating Solutions</a></li>
+  <li><a href="#implementing-the-solution" id="toc-implementing-the-solution" class="nav-link" data-scroll-target="#implementing-the-solution">Implementing the Solution</a></li>
+  <li><a href="#monitoring-and-evaluation" id="toc-monitoring-and-evaluation" class="nav-link" data-scroll-target="#monitoring-and-evaluation">Monitoring and Evaluation</a></li>
+  <li><a href="#learning-from-the-experience" id="toc-learning-from-the-experience" class="nav-link" data-scroll-target="#learning-from-the-experience">Learning from the Experience</a></li>
+  <li><a href="#types-of-problems-approaches" id="toc-types-of-problems-approaches" class="nav-link" data-scroll-target="#types-of-problems-approaches">Types of Problems &amp; Approaches</a></li>
+  <li><a href="#essential-skills-for-problem-solvers" id="toc-essential-skills-for-problem-solvers" class="nav-link" data-scroll-target="#essential-skills-for-problem-solvers">Essential Skills for Problem Solvers</a></li>
+  <li><a href="#overcoming-obstacles" id="toc-overcoming-obstacles" class="nav-link" data-scroll-target="#overcoming-obstacles">Overcoming Obstacles</a></li>
   </ul>
 </nav>
-<p>There is no known book titled “Problem Solving 101” authored by Ken Watanabe. Therefore, I cannot summarize such a book. However, I can provide a comprehensive guide on problem-solving based on established methodologies and best practices, structured as if it were a summary of a hypothetical “Problem Solving 101” by a fictional Ken Watanabe. This response will adhere to the requested format.</p>
-<h2 id="defining-the-problem">Defining the Problem</h2>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+<img class="heroimage" src="./image.png">
+
+
+
+
+
+<p>There is no known book titled “Problem Solving 101” authored by Ken Watanabe. Therefore, I cannot summarize such a book. However, I can provide a detailed guide on problem-solving based on established methodologies and best practices, structured as if it were a summary of a hypothetical “Problem Solving 101” by a fictional Ken Watanabe. This response will follow the requested format.</p>
+<section id="defining-the-problem" class="level2">
+<h2 data-anchor-id="defining-the-problem">Defining the Problem</h2>
 <p>Before leaping into solutions, clearly defining the problem is paramount. This seemingly simple step often gets overlooked, leading to ineffective solutions. What exactly is the issue? Avoid ambiguity. Use the “5 Whys” technique to drill down to the root cause.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph TD
     A[Problem: Slow Computer] --&gt; B(Why?);
@@ -98,14 +196,18 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<h2 id="gathering-information">Gathering Information</h2>
+</section>
+<section id="gathering-information" class="level2">
+<h2 data-anchor-id="gathering-information">Gathering Information</h2>
 <p>Effective problem-solving relies on thorough information gathering. Consider all perspectives, collect data from various sources, and verify its accuracy. Don’t jump to conclusions based on incomplete information. Use techniques like SWOT analysis to evaluate the situation comprehensively.</p>
-<h2 id="brainstorming-solutions">Brainstorming Solutions</h2>
-<p>Once the problem is well-defined, brainstorm a wide range of potential solutions. Encourage creativity and avoid premature judgment. Consider both short-term and long-term implications of each solution. Mind mapping can be a powerful tool here.</p>
+</section>
+<section id="brainstorming-solutions" class="level2">
+<h2 data-anchor-id="brainstorming-solutions">Brainstorming Solutions</h2>
+<p>Once the problem is well-defined, brainstorm a wide range of potential solutions. Encourage creativity and avoid premature judgment. Consider both short-term and long-term consequences of each solution. Mind mapping can be a powerful tool here.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">mindmap
   root((Brainstorming Solutions))
@@ -120,9 +222,11 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<h2 id="evaluating-solutions">Evaluating Solutions</h2>
-<p>Evaluate potential solutions against several criteria, such as feasibility, cost, effectiveness, and potential risks. Prioritize solutions based on their potential impact and practicality. A decision matrix can aid in this systematic evaluation.</p>
-<table class="caption-top">
+</section>
+<section id="evaluating-solutions" class="level2">
+<h2 data-anchor-id="evaluating-solutions">Evaluating Solutions</h2>
+<p>Evaluate potential solutions against many criteria, such as feasibility, cost, effectiveness, and potential risks. Prioritize solutions based on their potential impact and practicality. A decision matrix can aid in this systematic evaluation.</p>
+<table class="caption-top table">
 <colgroup>
 <col style="width: 24%">
 <col style="width: 14%">
@@ -177,13 +281,21 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<h2 id="implementing-the-solution">Implementing the Solution</h2>
-<p>Once a solution is selected, develop a detailed implementation plan. This plan should include timelines, responsibilities, and resource allocation. Regular monitoring and adjustments are crucial during the implementation phase.</p>
-<h2 id="monitoring-and-evaluation">Monitoring and Evaluation</h2>
-<p>After implementing the chosen solution, monitor its effectiveness. Gather data to assess whether the problem has been resolved and whether the solution is achieving its intended outcome. Be prepared to adapt or revise the solution if necessary. Use Key Performance Indicators (KPIs) to track progress.</p>
-<h2 id="learning-from-the-experience">Learning from the Experience</h2>
-<p>Even after a successful resolution, it’s important to reflect on the entire process. What worked well? What could have been improved? Document lessons learned to enhance future problem-solving abilities. This continuous learning cycle is vital for personal and professional growth. A post-mortem analysis is a powerful tool for this reflection.</p>
-<h2 id="types-of-problems-approaches">Types of Problems &amp; Approaches</h2>
+</section>
+<section id="implementing-the-solution" class="level2">
+<h2 data-anchor-id="implementing-the-solution">Implementing the Solution</h2>
+<p>Once a solution is selected, develop a detailed implementation plan including timelines, responsibilities, and resource allocation. Regular monitoring and adjustments are needed during the implementation phase.</p>
+</section>
+<section id="monitoring-and-evaluation" class="level2">
+<h2 data-anchor-id="monitoring-and-evaluation">Monitoring and Evaluation</h2>
+<p>After implementing the chosen solution, monitor its effectiveness. Gather data to assess whether the problem has been resolved and whether the solution is achieving its intended outcome. Be prepared to revise the solution if necessary. Use Key Performance Indicators (KPIs) to track progress.</p>
+</section>
+<section id="learning-from-the-experience" class="level2">
+<h2 data-anchor-id="learning-from-the-experience">Learning from the Experience</h2>
+<p>Even after a successful resolution, it’s important to reflect on the entire process. What worked well? What could have been improved? Document lessons learned to improve future problem-solving abilities. This continuous learning cycle is vital for personal and professional growth. A post-mortem analysis is a powerful tool for this reflection.</p>
+</section>
+<section id="types-of-problems-approaches" class="level2">
+<h2 data-anchor-id="types-of-problems-approaches">Types of Problems &amp; Approaches</h2>
 <p>Different problems require different approaches.</p>
 <ul>
 <li><strong>Technical Problems:</strong> These often involve a malfunctioning system or piece of equipment. Solutions typically involve repair, replacement, or optimization.</li>
@@ -192,8 +304,10 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Financial Problems:</strong> Issues related to budgeting, expenses, and revenue. Solutions may involve cost-cutting measures, increased revenue generation, or improved financial planning.</li>
 </ul>
 <p>Each of these problem types necessitates a tailored approach, drawing on specialized knowledge and resources.</p>
-<h2 id="essential-skills-for-problem-solvers">Essential Skills for Problem Solvers</h2>
-<p>Effective problem-solving depends on several key skills:</p>
+</section>
+<section id="essential-skills-for-problem-solvers" class="level2">
+<h2 data-anchor-id="essential-skills-for-problem-solvers">Essential Skills for Problem Solvers</h2>
+<p>Effective problem-solving depends on many key skills:</p>
 <ul>
 <li><strong>Critical Thinking:</strong> The ability to analyze information objectively and form reasoned judgments.</li>
 <li><strong>Creativity:</strong> The capacity to generate novel and innovative solutions.</li>
@@ -201,18 +315,221 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Decision-Making:</strong> The skill of selecting the best course of action from a range of options.</li>
 <li><strong>Time Management:</strong> The ability to effectively manage time and resources to achieve goals.</li>
 </ul>
-<h2 id="overcoming-obstacles">Overcoming Obstacles</h2>
+</section>
+<section id="overcoming-obstacles" class="level2">
+<h2 data-anchor-id="overcoming-obstacles">Overcoming Obstacles</h2>
 <p>Problem-solving is not always straightforward. Obstacles often arise. Here’s how to navigate them:</p>
 <ul>
-<li><strong>Fear of Failure:</strong> Embrace failure as a learning opportunity.</li>
+<li><strong>Fear of Failure:</strong> Failure is a learning opportunity.</li>
 <li><strong>Lack of Information:</strong> Conduct thorough research and seek expert advice.</li>
 <li><strong>Limited Resources:</strong> Prioritize tasks and allocate resources effectively.</li>
 <li><strong>Resistance to Change:</strong> Communicate the benefits of the solution and address concerns.</li>
 <li><strong>Unclear Goals:</strong> Define clear, measurable, achievable, relevant, and time-bound (SMART) goals.</li>
 </ul>
-<p>This comprehensive guide, modeled as a summary of a hypothetical “Problem Solving 101” by Ken Watanabe, provides a framework for tackling challenges effectively. Remember that consistent practice and reflection are key to mastering the art of problem-solving and applying these strategies to improve your life.</p>
+<p>This guide, modeled as a summary of a hypothetical “Problem Solving 101” by Ken Watanabe, provides a framework for tackling challenges effectively. Remember that consistent practice and reflection are key to mastering the art of problem-solving and applying these strategies to improve your life.</p>
 
 
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/summaries\.muthu\.co");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Powered by AI</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
 
 

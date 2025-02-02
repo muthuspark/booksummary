@@ -22,11 +22,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
-<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 <meta name="mermaid-theme" content="neutral">
 <script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
@@ -48,41 +87,104 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="floating nav-fixed">
 
-<img src="./image.png">
-
-<header id="title-block-header">
-<h1 class="title">Think Like a Programmer by V. Anton Spraul</h1>
-<p class="author">V. Anton Spraul</p>
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Book Summaries</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Think Like a Programmer by V. Anton Spraul</h1>
+                  <div>
+        <div class="description">
+          An introduction to creative problem solving
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Decision Making And Critical Thinking</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
 
-<nav id="TOC" role="doc-toc">
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>V. Anton Spraul </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#embracing-the-programmer-mindset" id="toc-embracing-the-programmer-mindset">Embracing the Programmer Mindset</a></li>
-  <li><a href="#decomposition-the-art-of-breaking-down-problems" id="toc-decomposition-the-art-of-breaking-down-problems">Decomposition: The Art of Breaking Down Problems</a></li>
-  <li><a href="#abstraction-focusing-on-the-essentials" id="toc-abstraction-focusing-on-the-essentials">Abstraction: Focusing on the Essentials</a></li>
-  <li><a href="#pattern-recognition-and-problem-solving" id="toc-pattern-recognition-and-problem-solving">Pattern Recognition and Problem Solving</a></li>
-  <li><a href="#testing-and-iteration-building-robust-solutions" id="toc-testing-and-iteration-building-robust-solutions">Testing and Iteration: Building Robust Solutions</a></li>
-  <li><a href="#the-importance-of-pseudocode-and-planning" id="toc-the-importance-of-pseudocode-and-planning">The Importance of Pseudocode and Planning</a></li>
-  <li><a href="#debugging-and-error-handling-learning-from-mistakes" id="toc-debugging-and-error-handling-learning-from-mistakes">Debugging and Error Handling: Learning from Mistakes</a></li>
-  <li><a href="#working-with-constraints-resource-management" id="toc-working-with-constraints-resource-management">Working with Constraints: Resource Management</a></li>
-  <li><a href="#applying-the-programmer-mindset-to-life" id="toc-applying-the-programmer-mindset-to-life">Applying the Programmer Mindset to Life</a></li>
-  <li><a href="#developing-a-growth-mindset" id="toc-developing-a-growth-mindset">Developing a Growth Mindset</a></li>
-  <li><a href="#conclusion-a-lasting-impact" id="toc-conclusion-a-lasting-impact">Conclusion: A Lasting Impact</a></li>
+  <li><a href="#embracing-the-programmer-mindset" id="toc-embracing-the-programmer-mindset" class="nav-link active" data-scroll-target="#embracing-the-programmer-mindset">Embracing the Programmer Mindset</a></li>
+  <li><a href="#decomposition-the-art-of-breaking-down-problems" id="toc-decomposition-the-art-of-breaking-down-problems" class="nav-link" data-scroll-target="#decomposition-the-art-of-breaking-down-problems">Decomposition: The Art of Breaking Down Problems</a></li>
+  <li><a href="#abstraction-focusing-on-the-essentials" id="toc-abstraction-focusing-on-the-essentials" class="nav-link" data-scroll-target="#abstraction-focusing-on-the-essentials">Abstraction: Focusing on the Essentials</a></li>
+  <li><a href="#pattern-recognition-and-problem-solving" id="toc-pattern-recognition-and-problem-solving" class="nav-link" data-scroll-target="#pattern-recognition-and-problem-solving">Pattern Recognition and Problem Solving</a></li>
+  <li><a href="#testing-and-iteration-building-solutions" id="toc-testing-and-iteration-building-solutions" class="nav-link" data-scroll-target="#testing-and-iteration-building-solutions">Testing and Iteration: Building Solutions</a></li>
+  <li><a href="#the-importance-of-pseudocode-and-planning" id="toc-the-importance-of-pseudocode-and-planning" class="nav-link" data-scroll-target="#the-importance-of-pseudocode-and-planning">The Importance of Pseudocode and Planning</a></li>
+  <li><a href="#debugging-and-error-handling-learning-from-mistakes" id="toc-debugging-and-error-handling-learning-from-mistakes" class="nav-link" data-scroll-target="#debugging-and-error-handling-learning-from-mistakes">Debugging and Error Handling: Learning from Mistakes</a></li>
+  <li><a href="#working-with-constraints-resource-management" id="toc-working-with-constraints-resource-management" class="nav-link" data-scroll-target="#working-with-constraints-resource-management">Working with Constraints: Resource Management</a></li>
+  <li><a href="#applying-the-programmer-mindset-to-life" id="toc-applying-the-programmer-mindset-to-life" class="nav-link" data-scroll-target="#applying-the-programmer-mindset-to-life">Applying the Programmer Mindset to Life</a></li>
+  <li><a href="#developing-a-growth-mindset" id="toc-developing-a-growth-mindset" class="nav-link" data-scroll-target="#developing-a-growth-mindset">Developing a Growth Mindset</a>
+  <ul class="collapse">
+  <li><a href="#a-lasting-impact" id="toc-a-lasting-impact" class="nav-link" data-scroll-target="#a-lasting-impact">A Lasting Impact</a></li>
+  </ul></li>
   </ul>
 </nav>
-<h1 id="embracing-the-programmer-mindset">Embracing the Programmer Mindset</h1>
-<p>“Think Like a Programmer” by V. Anton Spraul isn’t just a programming textbook; it’s a guide to cultivating a problem-solving mindset applicable far beyond the realm of code. The core message revolves around transforming how you approach challenges, breaking them down systematically, and building solutions incrementally. It emphasizes developing a structured, logical approach to any problem, regardless of its complexity.</p>
-<h1 id="decomposition-the-art-of-breaking-down-problems">Decomposition: The Art of Breaking Down Problems</h1>
-<p>A central theme is <em>decomposition</em>, the process of breaking down large, daunting problems into smaller, more manageable sub-problems. This recursive process continues until each sub-problem is simple enough to solve directly. This technique is crucial for avoiding being overwhelmed and for fostering a sense of progress.</p>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+<img class="heroimage" src="./image.png">
+
+
+
+
+
+<section id="embracing-the-programmer-mindset" class="level1">
+<h1>Embracing the Programmer Mindset</h1>
+<p>“Think Like a Programmer” by V. Anton Spraul isn’t just a programming textbook; it’s a guide to cultivating a problem-solving mindset applicable far beyond code. The core message revolves around transforming how you approach challenges, breaking them down systematically, and building solutions incrementally. It emphasizes developing a structured, logical approach to any problem, regardless of its complexity.</p>
+</section>
+<section id="decomposition-the-art-of-breaking-down-problems" class="level1">
+<h1>Decomposition: The Art of Breaking Down Problems</h1>
+<p>A central theme is <em>decomposition</em>, the process of breaking down large, daunting problems into smaller, more manageable sub-problems. This recursive process continues until each sub-problem is simple enough to solve directly. This technique avoids being overwhelmed and fosters a sense of progress.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph TD
     A[Large Problem] --&gt; B(Sub-problem 1);
@@ -101,19 +203,25 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <p>Spraul stresses that this isn’t a linear process; backtracking and refinement are expected. The initial decomposition might be imperfect, requiring adjustments as understanding deepens.</p>
-<h1 id="abstraction-focusing-on-the-essentials">Abstraction: Focusing on the Essentials</h1>
+</section>
+<section id="abstraction-focusing-on-the-essentials" class="level1">
+<h1>Abstraction: Focusing on the Essentials</h1>
 <p>Abstraction, another key concept, involves focusing on the essential aspects of a problem while ignoring irrelevant details. This allows for a higher-level view, simplifying the problem and enabling the identification of core structures and relationships. This is akin to creating a simplified model of a complex system.</p>
 <p>For instance, when designing a software system, you might abstract away the low-level details of memory management, focusing instead on the high-level functionality of the application. This same principle applies to everyday problems. Abstraction allows you to ignore distracting noise and concentrate on the core issues.</p>
-<h1 id="pattern-recognition-and-problem-solving">Pattern Recognition and Problem Solving</h1>
+</section>
+<section id="pattern-recognition-and-problem-solving" class="level1">
+<h1>Pattern Recognition and Problem Solving</h1>
 <p>The book highlights the importance of recognizing patterns and applying previously acquired knowledge to new situations. Experienced programmers have a mental library of solutions to common problems; recognizing familiar patterns speeds up the problem-solving process. This is analogous to using established formulas in mathematics or following proven procedures in other fields.</p>
 <p>This involves actively reviewing past successes and failures, extracting reusable strategies and techniques. The more patterns you recognize, the more efficiently you can tackle future challenges.</p>
-<h1 id="testing-and-iteration-building-robust-solutions">Testing and Iteration: Building Robust Solutions</h1>
-<p>Testing is not an afterthought but an integral part of the development process. Spraul advocates for incremental testing, verifying the functionality of each sub-problem before moving on. This early detection of errors prevents larger problems down the line and enables a more efficient iterative development process.</p>
+</section>
+<section id="testing-and-iteration-building-solutions" class="level1">
+<h1>Testing and Iteration: Building Solutions</h1>
+<p>Testing is not an afterthought but an essential part of the development process. Spraul advocates for incremental testing, verifying the functionality of each sub-problem before moving on. This early detection of errors prevents larger problems down the line and enables a more efficient iterative development process.</p>
 <p>This iterative approach means building the solution in stages, testing at each step and refining based on results. This contrasts with the traditional waterfall model, which often leads to significant rework at the end.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
     A[Initial Idea] --&gt; B(Design);
@@ -127,24 +235,237 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<h1 id="the-importance-of-pseudocode-and-planning">The Importance of Pseudocode and Planning</h1>
-<p>Before writing actual code (or tackling any complex task), Spraul emphasizes the value of pseudocode—a high-level description of the algorithm using plain language. This allows for a thorough evaluation of the solution’s logic before investing time in implementation details. This preemptive planning significantly reduces errors and increases efficiency.</p>
+</section>
+<section id="the-importance-of-pseudocode-and-planning" class="level1">
+<h1>The Importance of Pseudocode and Planning</h1>
+<p>Before writing actual code (or tackling any complex task), Spraul emphasizes the value of pseudocode—a high-level description of the algorithm using plain language. This allows for a thorough evaluation of the solution’s logic before investing time in implementation details. This preemptive planning reduces errors and increases efficiency.</p>
 <p>Even for non-programming tasks, a similar planning approach can be incredibly effective. Outline your approach, list necessary steps, and anticipate potential obstacles.</p>
-<h1 id="debugging-and-error-handling-learning-from-mistakes">Debugging and Error Handling: Learning from Mistakes</h1>
+</section>
+<section id="debugging-and-error-handling-learning-from-mistakes" class="level1">
+<h1>Debugging and Error Handling: Learning from Mistakes</h1>
 <p>Debugging, the process of identifying and fixing errors, is an essential skill. Spraul advocates for a systematic approach, using tools such as print statements or debuggers to trace the program’s execution and pinpoint the source of errors. Debugging is not just about fixing bugs; it’s an opportunity for learning and improvement.</p>
-<p>This concept extends beyond programming. Analyzing mistakes, identifying their root causes, and implementing corrective actions are crucial for personal and professional growth. Learning from errors is a cornerstone of improvement.</p>
-<h1 id="working-with-constraints-resource-management">Working with Constraints: Resource Management</h1>
+<p>This concept extends beyond programming. Analyzing mistakes, identifying their root causes, and implementing corrective actions are important for personal and professional growth. Learning from errors is a cornerstone of improvement.</p>
+</section>
+<section id="working-with-constraints-resource-management" class="level1">
+<h1>Working with Constraints: Resource Management</h1>
 <p>The book also explores the realities of working with limited resources – time, memory, or computational power. Understanding and managing these constraints are vital for building effective and efficient solutions. This emphasizes the importance of planning and resource allocation.</p>
-<h1 id="applying-the-programmer-mindset-to-life">Applying the Programmer Mindset to Life</h1>
-<p>Spraul’s insights transcend the technical domain. The principles of decomposition, abstraction, pattern recognition, iteration, and systematic problem-solving are universally applicable. These skills enhance efficiency in various aspects of life, from managing household chores to planning complex projects.</p>
+</section>
+<section id="applying-the-programmer-mindset-to-life" class="level1">
+<h1>Applying the Programmer Mindset to Life</h1>
+<p>Spraul’s ideas transcend the technical domain. The principles of decomposition, abstraction, pattern recognition, iteration, and systematic problem-solving are universally applicable. These skills improve efficiency in various aspects of life, from managing household chores to planning complex projects.</p>
 <p>Consider planning a large event: breaking it into smaller tasks (decomposition), focusing on key aspects (abstraction), recognizing similar events from the past (pattern recognition), and iteratively refining the plan (iteration) based on feedback.</p>
-<h1 id="developing-a-growth-mindset">Developing a Growth Mindset</h1>
+</section>
+<section id="developing-a-growth-mindset" class="level1">
+<h1>Developing a Growth Mindset</h1>
 <p>The book implicitly encourages a growth mindset—a belief in the ability to learn and improve. The emphasis on iterative development and learning from mistakes fosters this mindset. It’s a continuous learning process; embracing challenges and viewing setbacks as learning opportunities are key.</p>
 <p>This approach applies to personal development as well. Identifying areas for improvement and actively working on them leads to significant personal growth.</p>
-<h1 id="conclusion-a-lasting-impact">Conclusion: A Lasting Impact</h1>
-<p>“Think Like a Programmer” is more than a guide to programming; it is a guide to effective problem-solving and a structured approach to life’s challenges. By internalizing the concepts of decomposition, abstraction, pattern recognition, iteration, and systematic debugging, readers equip themselves with invaluable skills applicable to diverse domains. The book’s emphasis on a growth mindset and continuous learning leaves a lasting impact, empowering readers to navigate complexities with confidence and efficiency. The core message is that mastering the art of programming is not just about writing code; it’s about cultivating a powerful, logical and systematic approach to life itself.</p>
+<section id="a-lasting-impact" class="level2">
+<h2 data-anchor-id="a-lasting-impact">A Lasting Impact</h2>
+<p>“Think Like a Programmer” is more than a guide to programming; it is a guide to effective problem-solving and a structured approach to life’s challenges. By internalizing the concepts of decomposition, abstraction, pattern recognition, iteration, and systematic debugging, readers equip themselves with skills applicable to various domains. The book’s emphasis on a growth mindset and continuous learning leaves a lasting impact, empowering readers to navigate complexities with confidence and efficiency. The core message is that mastering the art of programming is not just about writing code; it’s about cultivating a powerful, logical and systematic approach to life itself.</p>
 
 
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/summaries\.muthu\.co");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Powered by AI</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
 
 

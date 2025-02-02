@@ -22,11 +22,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
-<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2f8c708ed90d1030e49c5a0a2c8f5db3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e4f66fdf6842240d02bba4fadeaff5b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 <meta name="mermaid-theme" content="neutral">
 <script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
@@ -48,39 +87,100 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="floating nav-fixed">
 
-<img src="./image.png">
-
-<header id="title-block-header">
-<h1 class="title">Decision Quality by Carl Spetzler</h1>
-<p class="author">Carl Spetzler</p>
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Book Summaries</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools tools-end">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Decision Quality by Carl Spetzler</h1>
+                  <div>
+        <div class="description">
+          Value creation from better business decisions
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Decision Making And Critical Thinking</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
 
-<nav id="TOC" role="doc-toc">
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Carl Spetzler </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#understanding-the-decision-quality-framework" id="toc-understanding-the-decision-quality-framework">Understanding the Decision-Quality Framework</a></li>
-  <li><a href="#defining-the-problem-clarity-is-paramount" id="toc-defining-the-problem-clarity-is-paramount">Defining the Problem: Clarity is Paramount</a></li>
-  <li><a href="#identifying-and-evaluating-alternatives" id="toc-identifying-and-evaluating-alternatives">Identifying and Evaluating Alternatives</a></li>
-  <li><a href="#quantifying-uncertainty-probabilities-and-ranges" id="toc-quantifying-uncertainty-probabilities-and-ranges">Quantifying Uncertainty: Probabilities and Ranges</a></li>
-  <li><a href="#values-and-trade-offs-making-the-choice" id="toc-values-and-trade-offs-making-the-choice">Values and Trade-offs: Making the Choice</a></li>
-  <li><a href="#the-importance-of-sensitivity-analysis" id="toc-the-importance-of-sensitivity-analysis">The Importance of Sensitivity Analysis</a></li>
-  <li><a href="#building-a-decision-making-culture" id="toc-building-a-decision-making-culture">Building a Decision-Making Culture</a></li>
-  <li><a href="#iterative-refinement-and-learning-from-outcomes" id="toc-iterative-refinement-and-learning-from-outcomes">Iterative Refinement and Learning from Outcomes</a></li>
-  <li><a href="#actionable-insights-and-strategies-a-summary" id="toc-actionable-insights-and-strategies-a-summary">Actionable Insights and Strategies: A Summary</a></li>
+  <li><a href="#understanding-the-decision-quality-framework" id="toc-understanding-the-decision-quality-framework" class="nav-link active" data-scroll-target="#understanding-the-decision-quality-framework">Understanding the Decision-Quality Framework</a></li>
+  <li><a href="#defining-the-problem-clarity-is-paramount" id="toc-defining-the-problem-clarity-is-paramount" class="nav-link" data-scroll-target="#defining-the-problem-clarity-is-paramount">Defining the Problem: Clarity is Paramount</a></li>
+  <li><a href="#identifying-and-evaluating-alternatives" id="toc-identifying-and-evaluating-alternatives" class="nav-link" data-scroll-target="#identifying-and-evaluating-alternatives">Identifying and Evaluating Alternatives</a></li>
+  <li><a href="#quantifying-uncertainty-probabilities-and-ranges" id="toc-quantifying-uncertainty-probabilities-and-ranges" class="nav-link" data-scroll-target="#quantifying-uncertainty-probabilities-and-ranges">Quantifying Uncertainty: Probabilities and Ranges</a></li>
+  <li><a href="#values-and-trade-offs-making-the-choice" id="toc-values-and-trade-offs-making-the-choice" class="nav-link" data-scroll-target="#values-and-trade-offs-making-the-choice">Values and Trade-offs: Making the Choice</a></li>
+  <li><a href="#the-importance-of-sensitivity-analysis" id="toc-the-importance-of-sensitivity-analysis" class="nav-link" data-scroll-target="#the-importance-of-sensitivity-analysis">The Importance of Sensitivity Analysis</a></li>
+  <li><a href="#building-a-decision-making-culture" id="toc-building-a-decision-making-culture" class="nav-link" data-scroll-target="#building-a-decision-making-culture">Building a Decision-Making Culture</a></li>
+  <li><a href="#iterative-refinement-and-learning-from-outcomes" id="toc-iterative-refinement-and-learning-from-outcomes" class="nav-link" data-scroll-target="#iterative-refinement-and-learning-from-outcomes">Iterative Refinement and Learning from Outcomes</a></li>
+  <li><a href="#actionable-strategies-a-summary" id="toc-actionable-strategies-a-summary" class="nav-link" data-scroll-target="#actionable-strategies-a-summary">Actionable Strategies: A Summary</a></li>
   </ul>
 </nav>
-<h2 id="understanding-the-decision-quality-framework">Understanding the Decision-Quality Framework</h2>
-<p>“Decision Quality,” by Carl Spetzler and colleagues, offers a practical framework for improving decision-making across all aspects of life. It moves beyond intuition and gut feelings, emphasizing a structured, rigorous approach grounded in clarity, logic, and a deep understanding of the decision context. The core argument is that high-quality decisions stem from a well-defined process, not just innate talent or luck.</p>
-<h2 id="defining-the-problem-clarity-is-paramount">Defining the Problem: Clarity is Paramount</h2>
-<p>Before making any decision, crystallizing the problem is crucial. This involves meticulously defining the objective, specifying the scope, and identifying the key players and stakeholders involved. Vague problem statements lead to muddled thinking and poor decisions. Spetzler advocates for rigorously defining the decision question using the “what, why, who, and where” approach. Ambiguity breeds poor choices.</p>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+<img class="heroimage" src="./image.png">
+
+
+
+
+
+<section id="understanding-the-decision-quality-framework" class="level2">
+<h2 data-anchor-id="understanding-the-decision-quality-framework">Understanding the Decision-Quality Framework</h2>
+<p>Decision Quality, by Carl Spetzler and colleagues, offers a practical framework for improving decision-making across all aspects of life. It moves beyond intuition and gut feelings, emphasizing a structured, rigorous approach grounded in clarity and logic. The core argument is that high-quality decisions stem from a well-defined process, not just innate talent or luck.</p>
+</section>
+<section id="defining-the-problem-clarity-is-paramount" class="level2">
+<h2 data-anchor-id="defining-the-problem-clarity-is-paramount">Defining the Problem: Clarity is Paramount</h2>
+<p>Before making any decision, crystallizing the problem is crucial. This involves defining the objective, specifying the scope, and identifying the key players and stakeholders involved. Vague problem statements lead to muddled thinking and poor decisions. Spetzler advocates for rigorously defining the decision question using the “what, why, who, and where” approach. Ambiguity breeds poor choices.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
 A[Define the Objective] --&gt; B(Specify the Scope);
@@ -93,14 +193,18 @@ D --&gt; E(High-Quality Decision);
 </div>
 </div>
 </div>
-<h2 id="identifying-and-evaluating-alternatives">Identifying and Evaluating Alternatives</h2>
-<p>Once the problem is clear, the next step involves brainstorming potential alternatives. The authors emphasize the importance of generating a diverse set of options, encouraging creative thinking and avoiding premature judgment. Each alternative should be thoroughly evaluated based on its potential to achieve the defined objective. This evaluation process necessitates identifying key factors affecting the outcome of each alternative.</p>
-<h2 id="quantifying-uncertainty-probabilities-and-ranges">Quantifying Uncertainty: Probabilities and Ranges</h2>
+</section>
+<section id="identifying-and-evaluating-alternatives" class="level2">
+<h2 data-anchor-id="identifying-and-evaluating-alternatives">Identifying and Evaluating Alternatives</h2>
+<p>Once the problem is clear, the next step involves brainstorming potential alternatives. Generating a various set of options is important, encouraging creative thinking and avoiding premature judgment. Each alternative should be thoroughly evaluated based on its potential to achieve the defined objective. This evaluation process necessitates identifying key factors affecting the outcome of each alternative.</p>
+</section>
+<section id="quantifying-uncertainty-probabilities-and-ranges" class="level2">
+<h2 data-anchor-id="quantifying-uncertainty-probabilities-and-ranges">Quantifying Uncertainty: Probabilities and Ranges</h2>
 <p>A significant contribution of “Decision Quality” is its focus on explicitly acknowledging and quantifying uncertainty. Instead of relying on point estimates, the framework advocates for using probability distributions to represent the range of possible outcomes for each alternative. This allows for a more realistic assessment of risks and opportunities. This quantification process necessitates assigning probabilities to different scenarios and outcomes. This moves decision-making from guesswork to a more informed process.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
 A[Alternative 1] --&gt; B(Probability Distribution);
@@ -113,14 +217,18 @@ E --&gt; F(Expected Outcome);
 </div>
 </div>
 </div>
-<h2 id="values-and-trade-offs-making-the-choice">Values and Trade-offs: Making the Choice</h2>
+</section>
+<section id="values-and-trade-offs-making-the-choice" class="level2">
+<h2 data-anchor-id="values-and-trade-offs-making-the-choice">Values and Trade-offs: Making the Choice</h2>
 <p>Once alternatives are evaluated, decision-makers need to explicitly articulate their values and preferences. This often involves making trade-offs between competing objectives. The book provides tools and techniques for clarifying these values and weighing them against each other, ensuring that the chosen alternative aligns with the overall goals and priorities. This process can involve techniques like multi-attribute utility analysis.</p>
-<h2 id="the-importance-of-sensitivity-analysis">The Importance of Sensitivity Analysis</h2>
-<p>Sensitivity analysis is a crucial aspect of the decision-quality framework. It involves systematically varying the key inputs (probabilities, values, etc.) to understand how the outcome changes. This helps in identifying the most critical factors and assessing the robustness of the decision in the face of uncertainty. This informs adaptive decision-making.</p>
+</section>
+<section id="the-importance-of-sensitivity-analysis" class="level2">
+<h2 data-anchor-id="the-importance-of-sensitivity-analysis">The Importance of Sensitivity Analysis</h2>
+<p>Sensitivity analysis is an aspect of the decision-quality framework. It involves systematically varying the key inputs (probabilities, values, etc.) to understand how the outcome changes. This helps in identifying the most critical factors and assessing the robustness of the decision in the face of uncertainty. This informs adaptive decision-making.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
-<p></p><figure class=""><p></p>
+<p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
 A[Input Variable 1] --&gt; B(Change Input);
@@ -133,11 +241,17 @@ E --&gt; F(Observe Output Change);
 </div>
 </div>
 </div>
-<h2 id="building-a-decision-making-culture">Building a Decision-Making Culture</h2>
+</section>
+<section id="building-a-decision-making-culture" class="level2">
+<h2 data-anchor-id="building-a-decision-making-culture">Building a Decision-Making Culture</h2>
 <p>The book emphasizes that high-quality decision-making is not a solitary pursuit. It requires building a culture where thoughtful deliberation, open communication, and critical thinking are valued. Teams should be trained in the decision-quality framework, and processes should be established to ensure that decisions are made in a consistent and effective manner. This requires organizational buy-in and commitment.</p>
-<h2 id="iterative-refinement-and-learning-from-outcomes">Iterative Refinement and Learning from Outcomes</h2>
-<p>The decision-making process isn’t a one-time event; it’s iterative. After a decision is made, it’s essential to monitor its implementation and outcomes. This provides valuable feedback that can improve future decision-making. Learning from both successes and failures is key to refining the decision-making process. This iterative approach leads to continuous improvement.</p>
-<h2 id="actionable-insights-and-strategies-a-summary">Actionable Insights and Strategies: A Summary</h2>
+</section>
+<section id="iterative-refinement-and-learning-from-outcomes" class="level2">
+<h2 data-anchor-id="iterative-refinement-and-learning-from-outcomes">Iterative Refinement and Learning from Outcomes</h2>
+<p>The decision-making process isn’t a one-time event; it’s iterative. After a decision is made, it’s essential to monitor its implementation and outcomes. This provides feedback that can improve future decision-making. Learning from both successes and failures is key to refining the decision-making process. This iterative approach leads to continuous improvement.</p>
+</section>
+<section id="actionable-strategies-a-summary" class="level2">
+<h2 data-anchor-id="actionable-strategies-a-summary">Actionable Strategies: A Summary</h2>
 <ul>
 <li><strong>Define objectives clearly:</strong> Ensure your goals are specific, measurable, achievable, relevant, and time-bound (SMART).</li>
 <li><strong>Brainstorm thoroughly:</strong> Generate a wide range of alternatives before narrowing them down.</li>
@@ -146,11 +260,212 @@ E --&gt; F(Observe Output Change);
 <li><strong>Conduct sensitivity analysis:</strong> Identify the most critical factors influencing the decision.</li>
 <li><strong>Embrace iteration:</strong> Learn from past decisions to improve future ones.</li>
 <li><strong>Foster a culture of critical thinking:</strong> Encourage open communication and constructive feedback.</li>
-<li><strong>Use structured decision-making tools:</strong> Leverage techniques like decision trees, influence diagrams, and multi-attribute utility analysis.</li>
+<li><strong>Use structured decision-making tools:</strong> Use techniques like decision trees, influence diagrams, and multi-attribute utility analysis.</li>
 </ul>
-<p>The essence of “Decision Quality” lies in replacing gut feeling and guesswork with a structured approach that promotes clarity, rigor, and transparency in decision-making. By embracing the principles and techniques outlined in the book, individuals and organizations can significantly enhance the quality of their decisions and achieve better outcomes. The emphasis on thoughtful analysis, probability estimation and understanding one’s values provides a powerful framework for improving decision-making in all contexts. It’s not about eliminating uncertainty, but about understanding and managing it effectively.</p>
+<p>The essence of “Decision Quality” lies in replacing gut feeling and guesswork with a structured approach that promotes clarity, rigor, and transparency in decision-making. By embracing the principles and techniques outlined in the book, individuals and organizations can improve the quality of their decisions and achieve better outcomes. The emphasis on thoughtful analysis, probability estimation and understanding one’s values provides a powerful framework for improving decision-making in all contexts. It’s not about eliminating uncertainty, but about understanding and managing it effectively.</p>
 
 
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/summaries\.muthu\.co");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Powered by AI</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
 
 
