@@ -27,7 +27,7 @@ format:
     toc: true
     default-image: 'image.png'
     page-layout: article
-    toc-location: "left"
+    toc-location: "right"
     theme: 
       light: litera 
       dark: cyborg
