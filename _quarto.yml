@@ -8,7 +8,10 @@ website:
   twitter-card: true
   open-graph: true
   favicon: logo.png
+  google-analytics: 
+    tracking-id: 'G-Q0SHDCJVLL'
   site-url: "https://summaries.muthu.co"
+  site-path: '/'
   navbar:
     logo: logo.png
     search: true
