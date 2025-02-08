@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Book Summaries"
-  description: Access summaries of 1000+ self-help books, with actionable insights delivered in 15 minutes or less.
+  description: Summaries of 1000+ greatest books
   twitter-card: true
   open-graph: true
   favicon: logo.png
@@ -17,7 +17,7 @@ website:
     search: true
   sidebar:
     style: "docked"
-    search: false
+    search: true
     contents: auto
   page-navigation: true
   page-footer: 
@@ -27,10 +27,8 @@ website:
 
 format:
   html:
-    toc: true
     default-image: 'image.png'
     page-layout: article
-    toc-location: "right"
     theme: 
       light: litera 
       dark: cyborg

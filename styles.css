@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400&family=Quicksand:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400&family=Jost:wght@600&display=swap');
 /* Base font settings for the body */
 body,
 p {
@@ -33,11 +33,12 @@ p {
 }
 .heroimage{
     max-width: 100%;
+    border-radius: 5px;
     margin-bottom: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, .navbar-title, .quarto-grid-item .card-attribution {
-  font-family: "Quicksand", serif;
+  font-family: "Jost", serif;
   font-optical-sizing: auto;
   font-weight: 600;
 }

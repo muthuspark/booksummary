@@ -1,10 +1,11 @@
 ---
-title: Access summaries of 500+ self-help books, with actionable insights delivered in 15 minutes or less.
+title: Summaries of 1000+ greatest books
 listing:
   contents: posts
   type: grid
   categories: true
   sort-ui: false
+  sort: "date"
   filter-ui: true
   feed: 
     items: 50
