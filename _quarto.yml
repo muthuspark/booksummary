@@ -21,7 +21,7 @@ website:
     contents: auto
   page-navigation: true
   page-footer: 
-    left: "Powered by AI" 
+    left: "Made with Love and AI" 
     border: true
   bread-crumbs: false
 
