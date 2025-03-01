@@ -17,8 +17,8 @@ The principle of reciprocity suggests that we feel obligated to return a favor, 
 
 ```{mermaid}
 graph LR
-A[Offer Value (Small Gift, Information)] --> B(Recipient Feels Obligated);
-B --> C[Increased Receptiveness to Future Requests];
+A["Offer Value (Small Gift, Information)"] --> B("Recipient Feels Obligated");
+B --> C["Increased Receptiveness to Future Requests"];
 ```
 
 ### Commitment and Consistency:  Walking the Talk

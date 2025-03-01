@@ -15,7 +15,7 @@ The book emphasizes the Buddhist principles of *anicca* (impermanence) and *dukk
 
 ```{mermaid}
 graph LR
-    A[Impermanence (Anicca)] --> B(Change is Constant);
+    A["Impermanence (Anicca)"] --> B(Change is Constant);
     A --> C(Nothing Lasts Forever);
     B --> D{Acceptance};
     C --> D;

@@ -16,8 +16,8 @@ Mitchell outlines various personality types, though without strictly adhering to
 
 ```{mermaid}
 graph LR
-A[Person A (Direct)] --> B(Direct Communication);
-C[Person B (Collaborative)] --> D(Collaborative Communication);
+A["Person A (Direct)"] --> B("Direct Communication");
+C["Person B (Collaborative)"] --> D("Collaborative Communication");
 ```
 
 The key takeaway here isn't rigid categorization but rather the importance of adjusting your communication to the specific individual.
@@ -31,7 +31,7 @@ Effective communication is central to the book. Mitchell emphasizes active liste
 graph LR
 A[Speaker] --> B(Verbal Communication);
 A --> C(Nonverbal Communication);
-C --> D[Listener (Active Listening)];
+C --> D["Listener (Active Listening)"];
 D --> E(Reflecting);
 D --> F(Clarifying Questions);
 ```

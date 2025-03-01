@@ -21,7 +21,7 @@ Another powerful technique is the "2-minute rule."  The idea is to commit to wor
 
 ```{mermaid}
 graph LR
-A[Existing Habit (e.g., Brushing Teeth)] --> B(New Habit (e.g., Flossing));
+A["Existing Habit (e.g., Brushing Teeth)"] --> B("New Habit e.g., Flossing");
 C[Task Seems Overwhelming] --> D{Commit to 2 minutes};
 D --> E[Often leads to completing more];
 ```

@@ -20,7 +20,7 @@ The principle of reciprocity suggests that people feel obligated to return favor
 
 ```{mermaid}
 graph LR
-A[Offer Value (Gift, Information, Compliment)] --> B(Increased Likeability & Trust);
+A["Offer Value (Gift, Information, Compliment)"] --> B(Increased Likeability & Trust);
 B --> C[Greater Receptiveness to Request];
 ```
 

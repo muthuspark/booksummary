@@ -54,7 +54,7 @@ The authors effectively highlight common financial mistakes that individuals oft
 
 #  Visualizing the Strategy:  A Simple Diagram
 
-The simplicity of the authors' message can be visualized using a mermaid diagram:
+The simplicity of the authors' message can be visualized using a  diagram:
 
 ```{mermaid}
 graph LR
@@ -63,9 +63,9 @@ graph LR
     B --> D(Emergency Fund);
     A --> E(Expenses);
     E --> F(Debt Repayment);
-    E --> G(Living Expenses);
-    C --> H(Long-Term Growth);
-    D --> I(Financial Security);
+    C --> G[Financial Security];
+    D --> G;
+    F --> G;
 ```
 
 This diagram illustrates how prioritizing savings and investments alongside responsible expense management contributes to long-term financial security.

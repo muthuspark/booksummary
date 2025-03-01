@@ -88,7 +88,7 @@ These roles aren't mutually exclusive; individuals can embody many of these arch
 
 
 ```{mermaid}
-graph LR
+graph TD
     A[Anthropologist] --> B(User Understanding);
     C[Experimenter] --> D(Trial & Error);
     E[Cross-Pollinator] --> F(Diverse Inspiration);

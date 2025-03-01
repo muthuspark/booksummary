@@ -17,10 +17,11 @@ The authors state that simply directing the Rider isn't enough; the path needs t
 * **Increasing motivation:** Focusing on intrinsic rewards and leveraging emotional triggers.
 * **Removing obstacles:** Identifying and eliminating barriers that hinder progress.
 
+
 ```{mermaid}
 graph LR
-    A[Rider (Rational)] --> B(Planning & Strategy);
-    C[Elephant (Emotional)] --> D(Motivation & Drive);
+    A["Rider (Rational)"] --> B(Planning & Strategy);
+    C["Elephant (Emotional)"] --> D(Motivation & Drive);
     E[Path] --> F(Reduce Friction);
     E --> G(Increase Motivation);
     E --> H(Remove Obstacles);

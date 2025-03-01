@@ -10,7 +10,7 @@
 <atom:link href="https://summaries.muthu.co/index.xml" rel="self" type="application/rss+xml"/>
 <description>Summaries of 1000+ greatest books</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sat, 08 Feb 2025 12:51:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Mar 2025 01:08:35 GMT</lastBuildDate>
 <item>
   <title>Man’s Search for Meaning by Viktor E. Frankl</title>
   <dc:creator>Viktor E. Frankl</dc:creator>
@@ -113,7 +113,7 @@ D --&gt; F[Breakdown];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/mans-search-for-meaning/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/mans-search-for-meaning/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -216,7 +216,7 @@ D --&gt; F(Dark);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-i-ching/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-i-ching/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -243,7 +243,7 @@ D --&gt; F(Dark);
 <p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">graph LR
-    A[Impermanence (Anicca)] --&gt; B(Change is Constant);
+    A["Impermanence (Anicca)"] --&gt; B(Change is Constant);
     A --&gt; C(Nothing Lasts Forever);
     B --&gt; D{Acceptance};
     C --&gt; D;
@@ -323,7 +323,7 @@ D --&gt; F(Dark);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/start-where-you-are/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/start-where-you-are/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -410,7 +410,7 @@ D --&gt; F(Dark);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-three-pillars-of-zen/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-three-pillars-of-zen/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -511,7 +511,7 @@ D --&gt; F(Dark);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-quantum-and-the-lotus/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-quantum-and-the-lotus/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -637,7 +637,7 @@ E --&gt; C;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/peace-is-every-step/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/peace-is-every-step/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -758,7 +758,7 @@ E --&gt; C;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-power-of-now/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-power-of-now/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -867,7 +867,7 @@ E --&gt; C;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-book-of-joy/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-book-of-joy/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -982,7 +982,7 @@ E --&gt; C;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-essential-rumi/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-essential-rumi/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1133,7 +1133,7 @@ C --&gt; D{Unified Energy Field};
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-celestine-prophecy/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-celestine-prophecy/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1266,7 +1266,7 @@ D -- Leads to --&gt; E[Inner Peace];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/a-new-earth/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/a-new-earth/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1360,7 +1360,7 @@ F --&gt; G;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/after-the-ecstasy-the-laundry/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/after-the-ecstasy-the-laundry/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1469,7 +1469,7 @@ E[Future] --&gt; F(Anxiety/Desire);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/zen-mind-beginners-mind/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/zen-mind-beginners-mind/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1580,7 +1580,7 @@ E[Future] --&gt; F(Anxiety/Desire);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-way-of-the-peaceful-warrior/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-way-of-the-peaceful-warrior/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1690,7 +1690,7 @@ E[Future] --&gt; F(Anxiety/Desire);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/inner-engineering/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/inner-engineering/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1938,7 +1938,7 @@ D[Mindfulness] --&gt; B;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-prophet/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-prophet/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2030,7 +2030,7 @@ D[Mindfulness] --&gt; B;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-diamond-in-your-pocket/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-diamond-in-your-pocket/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2112,7 +2112,7 @@ D[Mindfulness] --&gt; B;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-untethered-soul/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-untethered-soul/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2219,7 +2219,7 @@ C[Acceptance of Impermanence] --&gt; D(Inner Peace);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-way-of-zen/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-way-of-zen/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2396,7 +2396,7 @@ C[Acceptance of Impermanence] --&gt; D(Inner Peace);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-bhagavad-gita/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-bhagavad-gita/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2542,7 +2542,7 @@ D --&gt; E(Celebrate Progress);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-four-agreements/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-four-agreements/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2629,7 +2629,7 @@ D --&gt; E(Celebrate Progress);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-tao-of-physics/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-tao-of-physics/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2732,7 +2732,7 @@ E --&gt; F(Happiness);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-art-of-happiness/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-art-of-happiness/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2830,7 +2830,7 @@ E --&gt; F(Happiness);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-wisdom-of-insecurity/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-wisdom-of-insecurity/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -2933,7 +2933,7 @@ D --&gt; E(Freedom &amp; Peace);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-places-that-scare-you/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-places-that-scare-you/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3057,7 +3057,7 @@ A --&gt; F(Inner Peace);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-tibetan-book-of-living-and-dying/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-tibetan-book-of-living-and-dying/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3158,7 +3158,7 @@ D --&gt; E(Disillusionment);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/siddhartha/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/siddhartha/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3266,7 +3266,7 @@ D --&gt; A;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/change-your-thoughts-change-your-life/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/change-your-thoughts-change-your-life/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3389,7 +3389,7 @@ D --&gt; A;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/be-here-now/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/be-here-now/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3522,7 +3522,7 @@ D --&gt; A;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/finding-your-own-north-star/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/finding-your-own-north-star/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3626,7 +3626,7 @@ D --&gt; A;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-artists-way/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-artists-way/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3716,7 +3716,7 @@ D --&gt; C;
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/when-things-fall-apart/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/when-things-fall-apart/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3828,7 +3828,7 @@ C --&gt; D[Meaningful Life];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/care-of-the-soul/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/care-of-the-soul/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -3940,7 +3940,7 @@ C --&gt; D[Meaningful Life];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-perennial-philosophy/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-perennial-philosophy/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4033,7 +4033,7 @@ C --&gt; D[Meaningful Life];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-science-of-mind/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-science-of-mind/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4162,7 +4162,7 @@ C --&gt; D[Meaningful Life];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-seven-spiritual-laws-of-success/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-seven-spiritual-laws-of-success/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4255,7 +4255,7 @@ C --&gt; D[Meaningful Life];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-doors-of-perception/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-doors-of-perception/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4355,7 +4355,7 @@ D --&gt; E(Fulfilling Life);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-road-less-traveled/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-road-less-traveled/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4545,7 +4545,7 @@ D --&gt; E(Fulfilling Life);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-zen-teaching-of-huang-po/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-zen-teaching-of-huang-po/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4665,7 +4665,7 @@ D --&gt; E(Fulfilling Life);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-power-of-intention/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-power-of-intention/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4761,7 +4761,7 @@ G --&gt; I(Peace);
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-seat-of-the-soul/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-seat-of-the-soul/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -4880,7 +4880,7 @@ G -.-&gt; I
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-heart-of-the-buddhas-teaching/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-heart-of-the-buddhas-teaching/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5078,7 +5078,7 @@ D --&gt; E[Embodied Wisdom];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/living-buddha-living-christ/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/living-buddha-living-christ/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5104,18 +5104,18 @@ D --&gt; E[Embodied Wisdom];
 <div>
 <p></p><figure class="figure"><p></p>
 <div>
-<pre class="mermaid mermaid-js">graph LR
-A[The Ordinary World] --&gt; B(The Call to Adventure);
-B --&gt; C{Refusal of the Call};
-C --&gt; D(Meeting the Mentor);
-D --&gt; E[Crossing the Threshold];
-E --&gt; F(Tests, Allies, Enemies);
-F --&gt; G[Approach to the Inmost Cave];
-G --&gt; H(The Ordeal);
-H --&gt; I[Reward (Seizing the Sword)];
-I --&gt; J(The Road Back);
-J --&gt; K{Resurrection);
-K --&gt; L[Return with the Elixir];
+<pre class="mermaid mermaid-js">graph TD
+A[The Ordinary World] --&gt; B(The Call to Adventure)
+B --&gt; C{Refusal of the Call}
+C --&gt; D(Meeting the Mentor)
+D --&gt; E[Crossing the Threshold]
+E --&gt; F(Tests, Allies, Enemies)
+F --&gt; G[Approach to the Inmost Cave]
+G --&gt; H(The Ordeal)
+H --&gt; I["Reward (Seizing the Sword)"]
+I --&gt; J(The Road Back)
+J --&gt; K(Resurrection)
+K --&gt; L[Return with the Elixir]
 </pre>
 </div>
 <p></p></figure><p></p>
@@ -5179,7 +5179,7 @@ K --&gt; L[Return with the Elixir];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-power-of-myth/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-power-of-myth/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5301,7 +5301,7 @@ C --&gt; D{Opportunity};
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-alchemist/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-alchemist/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5403,7 +5403,7 @@ C --&gt; D{Reduced Power of Thoughts};
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-book-of-understanding/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-book-of-understanding/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5513,7 +5513,7 @@ C --&gt; D{Reduced Power of Thoughts};
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-book-on-the-taboo-against-knowing-who-you-are/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-book-on-the-taboo-against-knowing-who-you-are/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5625,7 +5625,7 @@ C --&gt; D{Reduced Power of Thoughts};
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/return-to-love/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/return-to-love/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5727,7 +5727,7 @@ E --&gt; F[Spiritual Liberation];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/autobiography-of-a-yogi/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/autobiography-of-a-yogi/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -5837,7 +5837,7 @@ E --&gt; F[Spiritual Liberation];
  ]]></description>
   <category>Spirituality And Meaning</category>
   <guid>https://summaries.muthu.co/posts/spirituality_and_meaning/the-sacred-path-of-the-warrior/</guid>
-  <pubDate>Sat, 08 Feb 2025 12:51:33 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 01:08:35 GMT</pubDate>
   <media:content url="https://summaries.muthu.co/posts/spirituality_and_meaning/the-sacred-path-of-the-warrior/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>

@@ -20,7 +20,7 @@ We constantly make predictions about future happiness, guiding our decisions on 
 
 ```{mermaid}
 graph LR
-A[Event (e.g., winning lottery)] --> B(Predicted Emotional Response: Intense, Long-lasting);
+A["Event (e.g., winning lottery)"] --> B(Predicted Emotional Response: Intense, Long-lasting);
 B --> C{Reality: Adaptation & Reduced Emotional Intensity};
 C --> D[Actual Emotional Response: Less Intense, Shorter Duration];
 ```

@@ -32,7 +32,7 @@ The authors highlight the role of context and environment in shaping behavior. A
 
 ```{mermaid}
 graph LR
-A[Stimulus (Prime)] --> B(Cognitive Activation);
+A["Stimulus (Prime)"] --> B(Cognitive Activation);
 B --> C[Behavioral Change];
 ```
 

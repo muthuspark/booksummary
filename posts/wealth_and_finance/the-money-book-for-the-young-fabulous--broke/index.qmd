@@ -25,11 +25,12 @@ Debt is a significant obstacle to financial freedom.  Orman advocates for an agg
 
 ```{mermaid}
 graph LR
-    A[High-Interest Debt (Credit Cards)] --> B(Pay Off First);
-    C[Lower-Interest Debt (Student Loans)] --> D(Pay Off Second);
+    A["High-Interest Debt (Credit Cards)"] --> B(Pay Off First);
+    C["Lower-Interest Debt (Student Loans)"] --> D(Pay Off Second);
     B --> E{Debt Freedom};
     D --> E;
 ```
+
 
 She advocates for various debt-reduction techniques, including the snowball method (paying off the smallest debt first for psychological motivation) and the avalanche method (paying off the highest-interest debt first for maximum financial efficiency).  The choice depends on individual preferences and financial psychology.  The ultimate goal is to eliminate debt and free up resources for saving and investing.
 
