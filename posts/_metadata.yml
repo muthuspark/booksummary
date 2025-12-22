@@ -8,6 +8,17 @@ freeze: true
 title-block-banner: true
 title-block-categories: true
 author-title: false
-include-before-body: 
+
+# Table of Contents for better navigation and SEO
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+toc-location: right
+
+# Reading time estimation
+reading-time: true
+
+# Image with SEO alt text and lazy loading
+include-before-body:
     - text: |
-        <img class="heroimage" src="./image.png" />
+        <img class="heroimage" src="./image.png" loading="lazy" decoding="async" fetchpriority="high" />

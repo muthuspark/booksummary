@@ -1,0 +1,22 @@
+# robots.txt for Book Summaries
+# https://summaries.muthu.co
+
+User-agent: *
+Allow: /
+
+# Disallow search and utility pages
+Disallow: /search.json
+Disallow: /listings.json
+
+# Allow all crawlers to access content
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://summaries.muthu.co/sitemap.xml
+
+# Crawl delay for politeness (optional)
+Crawl-delay: 1

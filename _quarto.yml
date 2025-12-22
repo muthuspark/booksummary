@@ -1,41 +1,61 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!404.qmd"
 
 website:
   title: "Book Summaries"
-  description: Summaries of 1000+ greatest books
-  twitter-card: true
-  open-graph: true
+  description: "Discover comprehensive summaries of 1000+ bestselling books. Get key insights from top self-help, business, psychology, and fiction books in minutes."
+  twitter-card:
+    card-style: summary_large_image
+    creator: "@krimuthu"
+    site: "@krimuthu"
+  open-graph:
+    locale: en_US
+    site-name: "Book Summaries"
   favicon: logo.png
-  google-analytics: 
+  google-analytics:
     tracking-id: 'G-Q0SHDCJVLL'
   site-url: "https://summaries.muthu.co"
   site-path: '/'
   navbar:
     logo: logo.png
+    logo-alt: "Book Summaries - Comprehensive Book Summary Website"
     search: true
+    pinned: true
   sidebar:
     style: "docked"
     search: true
     contents: auto
   page-navigation: true
-  page-footer: 
-    left: "Made with Love and AI" 
+  page-footer:
+    left: "Made with Love and AI"
+    center: "© 2025 Book Summaries. All rights reserved."
     border: true
-  bread-crumbs: false
+  bread-crumbs: true
+  reader-mode: true
+
+filters:
+  - _filters/article-schema.lua
 
 format:
   html:
     default-image: 'image.png'
     page-layout: article
-    theme: 
-      light: litera 
+    theme:
+      light: litera
       dark: cyborg
     css: styles.css
-    mermaid: 
+    mermaid:
       theme: neutral
     minimal: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    include-in-header:
+      - file: _includes/seo-head.html
     include-after-body:
       - text: |
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>

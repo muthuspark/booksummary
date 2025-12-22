@@ -1,5 +1,7 @@
 ---
-title: Summaries of 1000+ greatest books
+title: "Book Summaries: 1000+ Best Book Summaries & Key Insights"
+pagetitle: "Book Summaries - Comprehensive Summaries of 1000+ Bestselling Books"
+description: "Discover comprehensive book summaries covering self-help, business, psychology, relationships, productivity, and classic novels. Get key insights and takeaways from bestselling books in minutes."
 listing:
   contents: posts
   type: grid
@@ -7,11 +9,33 @@ listing:
   sort-ui: false
   sort: "date"
   filter-ui: true
-  feed: 
+  feed:
+    title: "Book Summaries - Latest Book Summaries"
+    description: "The latest book summaries covering self-help, business, psychology, and more."
     items: 50
   fields: [image, title, description, author, reading-time]
+  image-lazy-loading: true
 page-layout: full
 title-block-banner: true
 ---
+
+::: {.lead}
+**Welcome to Book Summaries** - your comprehensive resource for book summaries covering the world's greatest books. Whether you're looking for self-improvement insights, business strategies, or timeless wisdom from classic literature, find the key takeaways you need in minutes.
+:::
+
+## Browse by Category {.mt-4}
+
+Explore our collection of **1000+ book summaries** across 16 categories including:
+
+- **Productivity & Habits** - Atomic Habits, Getting Things Done, Deep Work
+- **Leadership & Business** - Good to Great, Start With Why, The Hard Thing About Hard Things
+- **Psychology & Mindset** - Thinking Fast and Slow, Influence, Mindset
+- **Relationships** - The 7 Habits, Never Split the Difference, Crucial Conversations
+- **Classic Novels** - 1984, To Kill a Mockingbird, The Great Gatsby
+- **Biographies** - Steve Jobs, Elon Musk, Benjamin Franklin
+
+---
+
+## All Book Summaries {.mt-4}
 
 
