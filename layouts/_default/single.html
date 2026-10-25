@@ -1,0 +1,16 @@
+{{ define "main" }}
+<header class="post-header">
+<h1>{{ .Title }}</h1>
+{{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }}
+<p class="text-muted">{{ .Params.author }} · {{ .ReadingTime }} min read</p>
+<p>{{ .Description }}</p>
+</header>
+<article class="article-body">
+{{ if not (strings.Contains .RawContent "![](./image.png)") }}{{ with .Resources.GetMatch (.Params.image | default "image.png") }}<img class="heroimage" src="{{ .RelPermalink }}" alt="Illustration for {{ $.Title }}" width="{{ .Width }}" height="{{ .Height }}" fetchpriority="high" decoding="async">{{ end }}{{ end }}
+{{ .Content }}
+</article>
+{{ with .GetTerms "categories" }}
+{{ $term := index . 0 }}{{ $related := first 3 (where $term.RegularPages.ByTitle "RelPermalink" "ne" $.RelPermalink) }}
+{{ with $related }}<section class="related"><h2>More in {{ $term.Title }}</h2><div class="book-grid">{{ range . }}{{ partial "book-card.html" (dict "page" . "category" false) }}{{ end }}</div></section>{{ end }}
+{{ end }}
+{{ end }}

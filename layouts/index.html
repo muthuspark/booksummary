@@ -1,0 +1,6 @@
+{{ define "main" }}
+<h1>{{ site.Title }}</h1>
+<p class="home-intro">Explore {{ len (where site.RegularPages "Section" "posts") }} book summaries across {{ len site.Taxonomies.categories }} categories. Find key ideas from your next read.</p>
+<nav class="category-links" aria-labelledby="categories-heading"><h2 id="categories-heading">Browse by category</h2><ul>{{ range site.Taxonomies.categories.Alphabetical }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="muted">({{ .Count }})</span></a></li>{{ end }}</ul></nav>
+{{ partial "catalog.html" . }}
+{{ end }}

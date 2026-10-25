@@ -1,0 +1,58 @@
+baseURL = 'https://summaries.muthu.co/'
+locale = 'en-US'
+title = 'Book Summaries'
+theme = "shibui"
+publishDir = 'docs'
+enableRobotsTXT = false
+disableHugoGeneratorInject = true
+capitalizeListTitles = false
+summaryLength = 35
+
+[params]
+  description = 'Discover comprehensive book summaries covering self-help, business, psychology, relationships, productivity, and classic novels. Get key insights and takeaways from bestselling books in minutes.'
+  author = 'Muthu'
+  twitter = '@krimuthu'
+  analyticsID = 'G-Q0SHDCJVLL'
+
+[pagination]
+  pagerSize = 36
+
+[taxonomies]
+  category = 'categories'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML']
+  term = ['HTML', 'RSS']
+
+[outputFormats.JSON]
+  baseName = 'search'
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
+
+[services.rss]
+  limit = 50
+
+[sitemap]
+  filename = 'sitemap.xml'
+
+[menus]
+  [[menus.main]]
+    name = 'Summaries'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'Categories'
+    pageRef = '/categories'
+    weight = 20
+  [[menus.main]]
+    name = 'RSS'
+    url = '/index.xml'
+    weight = 30

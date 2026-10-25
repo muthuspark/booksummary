@@ -1,3 +1,10 @@
-/.quarto/
+# Hugo caches and local preview output
+/.hugo_build.lock
+/resources/
+/public/
+.hugo_cache/
+__pycache__/
 
+# Legacy Quarto cache (safe to delete locally)
+/.quarto/
 **/*.quarto_ipynb

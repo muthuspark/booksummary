@@ -1,0 +1,7 @@
+{{- $thumbnail := dict -}}
+{{- with .Resources.GetMatch (.Params.image | default "image.png") -}}
+  {{- $small := .Fill "80x80 webp q80" -}}
+  {{- $large := .Fill "160x160 webp q80" -}}
+  {{- $thumbnail = dict "src" $small.RelPermalink "srcset" (printf "%s 80w, %s 160w" $small.RelPermalink $large.RelPermalink) -}}
+{{- end -}}
+{{- return $thumbnail -}}

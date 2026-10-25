@@ -1,0 +1,51 @@
+{{ $title := .Params.pagetitle | default (printf "%s | %s" .Title site.Title) }}
+{{ $description := .Description | default site.Params.description }}
+{{ if .IsHome }}
+  {{ $count := len (where site.RegularPages "Section" "posts") }}
+  {{ $title = printf "%s - %d Book Summaries & Key Insights" site.Title $count }}
+  {{ $description = printf "Explore %d book summaries across %d categories. Discover key insights from business, psychology, classic novels, and more." $count (len site.Taxonomies.categories) }}
+{{ end }}
+{{ $image := "logo.png" | absURL }}
+{{ with .Resources.GetMatch (.Params.image | default "image.png") }}{{ $image = .Permalink }}{{ end }}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="theme-color" content="#fcfcfc">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="icon" href="{{ "logo.png" | relURL }}" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap">
+{{ partialCached "head/css.html" . }}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="{{ $image }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ site.Params.twitter }}">
+<meta name="twitter:creator" content="{{ site.Params.twitter }}">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $image }}">
+{{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">
+{{ end }}
+{{ $organization := dict "@type" "Organization" "name" site.Title "url" site.Home.Permalink "logo" ("logo.png" | absURL) }}
+{{ $schema := dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" site.Home.Permalink "description" site.Params.description "publisher" $organization }}
+{{ if .IsPage }}
+  {{ $author := dict "@type" "Person" "name" (.Params.author | default "Unknown") }}
+  {{ $article := dict "@context" "https://schema.org" "@type" "Article" "headline" .Title "description" $description "author" $author "publisher" $organization "image" $image "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink) "articleSection" (.Params.categories | default slice) "inLanguage" "en-US" }}
+  {{ $book := dict "@context" "https://schema.org" "@type" "Book" "name" (replaceRE " by .*$" "" .Title) "author" $author "description" $description "image" $image "genre" (.Params.categories | default slice) "inLanguage" "en" }}
+  <script type="application/ld+json">{{ $article | jsonify | safeJS }}</script>
+  <script type="application/ld+json">{{ $book | jsonify | safeJS }}</script>
+{{ else }}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ end }}
+{{ with site.Params.analyticsID }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config',{{ . }});</script>
+{{ end }}

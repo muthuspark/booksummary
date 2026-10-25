@@ -1,0 +1,5 @@
+<p>Made with Love and AI · © {{ now.Year }} {{ site.Title }}</p>
+{{ if and .IsPage (strings.Contains .RawContent "```mermaid") }}
+<script src="{{ "vendor/mermaid.min.js" | relURL }}" defer></script>
+<script src="{{ "js/diagrams.js" | relURL }}" defer></script>
+{{ end }}

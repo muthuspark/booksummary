@@ -1,0 +1,15 @@
+{{- $pages := slice -}}
+{{- $chunks := dict -}}
+{{- range (where site.RegularPages "Section" "posts").ByTitle -}}
+  {{- $thumbnail := partial "thumbnail.html" . -}}
+  {{- $category := index (split .File.Dir "/") 1 -}}
+  {{- $chunkPath := printf "search-content/%s.json" $category -}}
+  {{- $rows := index $chunks $category | default slice -}}
+  {{- $chunks = merge $chunks (dict $category ($rows | append (dict "url" .RelPermalink "content" .Plain))) -}}
+  {{- $pages = $pages | append (dict "title" .Title "description" .Description "author" .Params.author "categories" .Params.categories "url" .RelPermalink "image" $thumbnail.src "imageSrcset" $thumbnail.srcset "readingTime" .ReadingTime "contentURL" ($chunkPath | relURL)) -}}
+{{- end -}}
+{{- range $category, $rows := $chunks -}}
+  {{- $resource := resources.FromString (printf "search-content/%s.json" $category) ($rows | jsonify) -}}
+  {{- $publish := $resource.RelPermalink -}}
+{{- end -}}
+{{- $pages | jsonify -}}

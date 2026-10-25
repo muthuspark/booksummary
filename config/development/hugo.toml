@@ -1,0 +1,2 @@
+# Keep localhost links and live reload out of the tracked production output.
+publishDir = 'public'

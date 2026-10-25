@@ -1,0 +1,2 @@
+{{ $image := .Page.Resources.GetMatch .Destination }}
+<img src="{{ with $image }}{{ .RelPermalink }}{{ else }}{{ .Destination | safeURL }}{{ end }}" alt="{{ .Text | default (printf "Illustration for %s" .Page.Title) }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ with $image }}{{ if eq .ResourceType "image" }}{{ if ne .MediaType.SubType "svg" }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}{{ end }}{{ end }} loading="lazy" decoding="async">

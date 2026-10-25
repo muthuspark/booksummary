@@ -1,0 +1,11 @@
+{{ $book := .page }}
+{{ $title := $book.Title }}
+{{ if .category }}{{ $title = strings.TrimSuffix (printf " by %s" $book.Params.author) $title }}{{ end }}
+<article class="book-card">
+  <a class="book-image" href="{{ $book.RelPermalink }}" tabindex="-1" aria-hidden="true">{{ with partial "thumbnail.html" $book }}<img src="{{ .src }}" srcset="{{ .srcset }}" sizes="(max-width: 600px) 60px, 80px" alt="" width="80" height="80" loading="lazy" decoding="async">{{ end }}</a>
+  <div class="book-details">
+    {{ if .category }}<h2 class="book-title"><a href="{{ $book.RelPermalink }}">{{ $title }}</a></h2>{{ else }}<h3 class="book-title"><a href="{{ $book.RelPermalink }}">{{ $title }}</a></h3>{{ end }}
+    <p class="book-description">{{ $book.Description }}</p>
+    <p class="muted book-meta">{{ $book.Params.author }} · <span class="reading-time">{{ $book.ReadingTime }} min read</span></p>
+  </div>
+</article>

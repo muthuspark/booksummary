@@ -1,0 +1,4 @@
+{{ define "main" }}
+<h1>Browse by category</h1>
+<ul class="category-directory">{{ range .Data.Terms.Alphabetical }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="muted">{{ .Count }} summaries</span></a></li>{{ end }}</ul>
+{{ end }}
