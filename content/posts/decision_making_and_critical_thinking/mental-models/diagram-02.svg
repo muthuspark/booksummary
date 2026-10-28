@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="439pt" height="483pt" viewBox="0.00 0.00 439.00 483.00" role="img" aria-labelledby="title description">
+<title id="title">Choose a proportionate decision process</title><desc id="description">Can we undo this at acceptable cost? leads to Limit downside and define rollback (Yes). Can we undo this at acceptable cost? leads to Gather evidence and prepare safeguards (No). Limit downside and define rollback leads to Run a small pilot if downside is limited (Test). Gather evidence and prepare safeguards leads to Commit when sufficiently prepared (Decide). Run a small pilot if downside is limited leads to Record expectations and schedule review (Learn). Commit when sufficiently prepared leads to Record expectations and schedule review (Learn).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 465)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-465 421,-465 421,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.07,-338.47C148.35,-320.57 133.02,-300.56 120.34,-284.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="121.99,-282.15 115.79,-278.08 118.1,-285.13 121.99,-282.15" />
+<text text-anchor="middle" x="152.5" y="-299" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M235.32,-338.85C249.44,-320.77 265.29,-300.49 278.34,-283.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.28,-285.27 282.66,-278.25 276.42,-282.26 280.28,-285.27" />
+<text text-anchor="middle" x="278.5" y="-299" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-217.76C93.5,-205.02 93.5,-189.96 93.5,-176.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-176.2 93.5,-169.2 91.05,-176.2 95.95,-176.2" />
+<text text-anchor="middle" x="108" y="-190" font-family="Georgia" font-size="15.00" fill="#405b50">Test</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M305.5,-217.76C305.5,-205.02 305.5,-189.96 305.5,-176.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="307.95,-176.2 305.5,-169.2 303.05,-176.2 307.95,-176.2" />
+<text text-anchor="middle" x="328.5" y="-190" font-family="Georgia" font-size="15.00" fill="#405b50">Decide</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.19,-108.76C135.39,-95.32 151.13,-79.27 164.88,-65.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="166.69,-66.92 169.84,-60.2 163.19,-63.48 166.69,-66.92" />
+<text text-anchor="middle" x="172.5" y="-81" font-family="Georgia" font-size="15.00" fill="#405b50">Learn</text>
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M276.26,-108.76C262.82,-95.32 246.77,-79.27 232.76,-65.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="234.39,-63.42 227.7,-60.2 230.92,-66.89 234.39,-63.42" />
+<text text-anchor="middle" x="278.5" y="-81" font-family="Georgia" font-size="15.00" fill="#405b50">Learn</text>
+</g>
+
+<g id="node1" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="198.5,-447 13.5,-387 198.5,-327 383.5,-387 198.5,-447" />
+<text text-anchor="middle" x="198.5" y="-392.6" font-family="Georgia" font-size="18.00" fill="#243d36">Can we undo this at</text>
+<text text-anchor="middle" x="198.5" y="-372.6" font-family="Georgia" font-size="18.00" fill="#243d36">acceptable cost?</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-278C175,-278 12,-278 12,-278 6,-278 0,-272 0,-266 0,-266 0,-230 0,-230 0,-224 6,-218 12,-218 12,-218 175,-218 175,-218 181,-218 187,-224 187,-230 187,-230 187,-266 187,-266 187,-272 181,-278 175,-278" />
+<text text-anchor="middle" x="93.5" y="-253.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limit downside and</text>
+<text text-anchor="middle" x="93.5" y="-233.6" font-family="Georgia" font-size="18.00" fill="#243d36">define rollback</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M390,-278C390,-278 221,-278 221,-278 215,-278 209,-272 209,-266 209,-266 209,-230 209,-230 209,-224 215,-218 221,-218 221,-218 390,-218 390,-218 396,-218 402,-224 402,-230 402,-230 402,-266 402,-266 402,-272 396,-278 390,-278" />
+<text text-anchor="middle" x="305.5" y="-253.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather evidence and</text>
+<text text-anchor="middle" x="305.5" y="-233.6" font-family="Georgia" font-size="18.00" fill="#243d36">prepare safeguards</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173.5,-169C173.5,-169 13.5,-169 13.5,-169 7.5,-169 1.5,-163 1.5,-157 1.5,-157 1.5,-121 1.5,-121 1.5,-115 7.5,-109 13.5,-109 13.5,-109 173.5,-109 173.5,-109 179.5,-109 185.5,-115 185.5,-121 185.5,-121 185.5,-157 185.5,-157 185.5,-163 179.5,-169 173.5,-169" />
+<text text-anchor="middle" x="93.5" y="-144.6" font-family="Georgia" font-size="18.00" fill="#243d36">Run a small pilot if</text>
+<text text-anchor="middle" x="93.5" y="-124.6" font-family="Georgia" font-size="18.00" fill="#243d36">downside is limited</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M391,-169C391,-169 220,-169 220,-169 214,-169 208,-163 208,-157 208,-157 208,-121 208,-121 208,-115 214,-109 220,-109 220,-109 391,-109 391,-109 397,-109 403,-115 403,-121 403,-121 403,-157 403,-157 403,-163 397,-169 391,-169" />
+<text text-anchor="middle" x="305.5" y="-144.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commit when</text>
+<text text-anchor="middle" x="305.5" y="-124.6" font-family="Georgia" font-size="18.00" fill="#243d36">sufficiently prepared</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M282,-60C282,-60 115,-60 115,-60 109,-60 103,-54 103,-48 103,-48 103,-12 103,-12 103,-6 109,0 115,0 115,0 282,0 282,0 288,0 294,-6 294,-12 294,-12 294,-48 294,-48 294,-54 288,-60 282,-60" />
+<text text-anchor="middle" x="198.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Record expectations</text>
+<text text-anchor="middle" x="198.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">and schedule review</text>
+</g>
+</g>
+</svg>

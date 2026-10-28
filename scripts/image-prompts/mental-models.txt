@@ -1,0 +1,7 @@
+Asset: mental-models-hero.webp
+Generation: built-in image_gen tool; converted to WebP for the website.
+
+Prompt:
+Use case: illustration-story. Asset type: lead illustration for a thoughtful book summary of Mental Models by Peter Hollins. Primary request: a beautifully crafted editorial still life showing multiple ways to reason about one decision: on a pale warm paper desk, a wooden branching pathway with one small brass decision marker at its junction, a clear magnifying lens examining a simple geometric construction, three falling wooden dominoes, and a small balanced scale. These objects form one unified coherent tabletop composition, not panels or icons. Style: tactile sophisticated paper cut and painted wood illustration, soft natural light, restrained forest green, ochre and muted terracotta accents on ivory, clear silhouettes, meticulous craftsmanship. Landscape 3:2 composition, generous breathing room, suitable for calm long-form reading website and crop to thumbnail. No words, letters, numbers, brain silhouette, logos or watermark.
+
+Diagrams: editable Graphviz definitions in scripts/diagrams.json; regenerate with scripts/render_diagrams.py.

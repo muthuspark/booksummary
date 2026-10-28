@@ -11113,26 +11113,26 @@
   },
   {
     "file": "content/posts/decision_making_and_critical_thinking/mental-models/diagram-01.svg",
-    "title": "The Power of Systems Thinking",
+    "title": "Follow the consequences: a discount campaign",
     "nodes": [
       {
         "id": "A",
-        "label": "Individual Element",
+        "label": "Lower the price",
         "shape": "box"
       },
       {
         "id": "B",
-        "label": "System",
-        "shape": "rounded"
+        "label": "More orders arrive",
+        "shape": "box"
       },
       {
         "id": "C",
-        "label": "Outcome",
+        "label": "Support capacity is stretched",
         "shape": "box"
       },
       {
         "id": "D",
-        "label": "Feedback Loop",
+        "label": "Customers may become frustrated",
         "shape": "box"
       }
     ],
@@ -11140,28 +11140,21 @@
       {
         "from": "A",
         "to": "B",
-        "label": "",
+        "label": "Possible first effect",
         "dashed": false,
         "arrow": true
       },
       {
         "from": "B",
         "to": "C",
-        "label": "",
+        "label": "Possible second effect",
         "dashed": false,
         "arrow": true
       },
       {
         "from": "C",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "D",
-        "to": "B",
-        "label": "",
+        "to": "D",
+        "label": "Possible later effect",
         "dashed": false,
         "arrow": true
       }
@@ -73517,6 +73510,87 @@
         "from": "E",
         "to": "F",
         "label": "",
+        "dashed": false,
+        "arrow": true
+      }
+    ],
+    "groups": []
+  },
+  {
+    "file": "content/posts/decision_making_and_critical_thinking/mental-models/diagram-02.svg",
+    "title": "Choose a proportionate decision process",
+    "nodes": [
+      {
+        "id": "A",
+        "label": "Can we undo this at acceptable cost?",
+        "shape": "decision"
+      },
+      {
+        "id": "B",
+        "label": "Limit downside and define rollback",
+        "shape": "box"
+      },
+      {
+        "id": "C",
+        "label": "Gather evidence and prepare safeguards",
+        "shape": "box"
+      },
+      {
+        "id": "D",
+        "label": "Run a small pilot if downside is limited",
+        "shape": "box"
+      },
+      {
+        "id": "E",
+        "label": "Commit when sufficiently prepared",
+        "shape": "box"
+      },
+      {
+        "id": "F",
+        "label": "Record expectations and schedule review",
+        "shape": "box"
+      }
+    ],
+    "edges": [
+      {
+        "from": "A",
+        "to": "B",
+        "label": "Yes",
+        "dashed": false,
+        "arrow": true
+      },
+      {
+        "from": "A",
+        "to": "C",
+        "label": "No",
+        "dashed": false,
+        "arrow": true
+      },
+      {
+        "from": "B",
+        "to": "D",
+        "label": "Test",
+        "dashed": false,
+        "arrow": true
+      },
+      {
+        "from": "C",
+        "to": "E",
+        "label": "Decide",
+        "dashed": false,
+        "arrow": true
+      },
+      {
+        "from": "D",
+        "to": "F",
+        "label": "Learn",
+        "dashed": false,
+        "arrow": true
+      },
+      {
+        "from": "E",
+        "to": "F",
+        "label": "Learn",
         "dashed": false,
         "arrow": true
       }
