@@ -17,13 +17,7 @@ A fundamental element of any high-performing group is a sense of psychological s
 
 Coyle emphasizes that safety isn't about avoiding conflict or criticism, but about creating a culture where these interactions are constructive and respectful. Leaders play an important role in establishing this foundation by modelling vulnerability, actively listening to others' concerns, and creating channels for open dialogue.
 
-```mermaid
-graph LR
-    A[Leader Models Vulnerability] --> B(Open Communication);
-    C[Active Listening] --> B;
-    B --> D{Constructive Conflict};
-    D --> E[Psychological Safety];
-```
+![Building Safety: The Foundation of a Thriving Culture. Leader Models Vulnerability; Open Communication; Active Listening; Constructive Conflict; Psychological Safety.](diagram-01.svg)
 
 # The Power of Shared Purpose and Meaning
 

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="472pt" height="352pt" viewBox="0.00 0.00 472.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Awareness: Knowing Yourself</title><desc id="description">Self-Reflection leads to Journaling. Self-Reflection leads to Seeking Feedback. Journaling leads to Understanding Triggers. Seeking Feedback leads to Understanding Triggers. Understanding Triggers leads to Improved Self-Awareness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 454,-334 454,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195.59,-275.87C185.83,-267.54 174.28,-257.68 163.97,-248.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.29,-246.79 158.38,-244.1 162.11,-250.51 165.29,-246.79" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M240.68,-275.87C250.65,-267.46 262.47,-257.5 272.98,-248.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="274.58,-250.49 278.35,-244.1 271.42,-246.74 274.58,-250.49" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M153.39,-203.91C161.87,-194.6 172.4,-183.04 182.48,-171.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.48,-173.43 187.39,-166.6 180.86,-170.12 184.48,-173.43" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M283.4,-203.91C274.81,-194.6 264.15,-183.04 253.95,-171.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.53,-170.09 248.99,-166.6 251.93,-173.41 255.53,-170.09" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M218,-91.76C218,-83.72 218,-75.29 218,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="220.45,-67.23 218,-60.23 215.55,-67.23 220.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M279.5,-316C279.5,-316 156.5,-316 156.5,-316 150.5,-316 144.5,-310 144.5,-304 144.5,-304 144.5,-288 144.5,-288 144.5,-282 150.5,-276 156.5,-276 156.5,-276 279.5,-276 279.5,-276 285.5,-276 291.5,-282 291.5,-288 291.5,-288 291.5,-304 291.5,-304 291.5,-310 285.5,-316 279.5,-316" />
+<text text-anchor="middle" x="218" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181.5,-244C181.5,-244 90.5,-244 90.5,-244 84.5,-244 78.5,-238 78.5,-232 78.5,-232 78.5,-216 78.5,-216 78.5,-210 84.5,-204 90.5,-204 90.5,-204 181.5,-204 181.5,-204 187.5,-204 193.5,-210 193.5,-216 193.5,-216 193.5,-232 193.5,-232 193.5,-238 187.5,-244 181.5,-244" />
+<text text-anchor="middle" x="136" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Journaling</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M374.5,-244C374.5,-244 227.5,-244 227.5,-244 221.5,-244 215.5,-238 215.5,-232 215.5,-232 215.5,-216 215.5,-216 215.5,-210 221.5,-204 227.5,-204 227.5,-204 374.5,-204 374.5,-204 380.5,-204 386.5,-210 386.5,-216 386.5,-216 386.5,-232 386.5,-232 386.5,-238 380.5,-244 374.5,-244" />
+<text text-anchor="middle" x="301" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeking Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="218,-172 0,-132 218,-92 436,-132 218,-172" />
+<text text-anchor="middle" x="218" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Triggers</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M281.5,-60C281.5,-60 154.5,-60 154.5,-60 148.5,-60 142.5,-54 142.5,-48 142.5,-48 142.5,-12 142.5,-12 142.5,-6 148.5,0 154.5,0 154.5,0 281.5,0 281.5,0 287.5,0 293.5,-6 293.5,-12 293.5,-12 293.5,-48 293.5,-48 293.5,-54 287.5,-60 281.5,-60" />
+<text text-anchor="middle" x="218" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved</text>
+<text text-anchor="middle" x="218" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+</g>
+</svg>

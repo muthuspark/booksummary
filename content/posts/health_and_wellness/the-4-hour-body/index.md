@@ -25,17 +25,7 @@ The core principles are:
 The goal isn't just weight loss; it's about optimizing body composition and improving energy levels.
 
 
-```mermaid
-graph LR
-A[Slow-Carb Diet] --> B(Legumes);
-A --> C(Vegetables);
-A --> D(Lean Proteins);
-A --> E{Avoid};
-E --> F(Bread);
-E --> G(Pasta);
-E --> H(Sugary Drinks);
-E --> I(Most Fruits);
-```
+![The "Slow-Carb" Diet. Slow-Carb Diet; Legumes; Vegetables; Lean Proteins; Avoid; Bread; Pasta; Sugary Drinks; Most Fruits.](diagram-01.svg)
 
 
 ## Rapid Fat Loss Strategies

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316pt" height="386pt" viewBox="0.00 0.00 316.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">STEPPS: The Six Principles of Contagiousness</title><desc id="description">STEPPS leads to Social Currency. STEPPS leads to Triggers. STEPPS leads to Emotion. STEPPS leads to Public. STEPPS leads to Practical Value. STEPPS leads to Stories.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 298,-368 298,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M56.05,-195.33C67.7,-222.4 91.72,-270.22 126,-299 129.15,-301.64 132.55,-304.08 136.11,-306.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="134.95,-308.49 142.23,-309.94 137.44,-304.27 134.95,-308.49" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M69.96,-195.27C84.95,-208.36 105.7,-225.12 126,-237 133.11,-241.16 140.89,-245.02 148.66,-248.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="147.78,-250.8 155.18,-251.35 149.74,-246.31 147.78,-250.8" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.21,-184.3C110.72,-187.62 129.49,-191.4 146.69,-194.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="146.61,-197.35 153.96,-196.33 147.58,-192.55 146.61,-197.35" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.21,-165.7C113.85,-161.74 136.7,-157.14 156.3,-153.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="156.98,-155.56 163.36,-151.78 156.01,-150.76 156.98,-155.56" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M69.96,-154.73C84.95,-141.64 105.7,-124.88 126,-113 130.76,-110.22 135.81,-107.57 140.96,-105.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.23,-107.19 147.53,-102 140.15,-102.75 142.23,-107.19" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M56.05,-154.67C67.7,-127.6 91.72,-79.78 126,-51 134.33,-44.01 144.44,-38.43 154.54,-34.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.6,-36.26 161.15,-31.34 153.74,-31.73 155.6,-36.26" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M82,-195C82,-195 12,-195 12,-195 6,-195 0,-189 0,-183 0,-183 0,-167 0,-167 0,-161 6,-155 12,-155 12,-155 82,-155 82,-155 88,-155 94,-161 94,-167 94,-167 94,-183 94,-183 94,-189 88,-195 82,-195" />
+<text text-anchor="middle" x="47" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">STEPPS</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M268,-350C268,-350 138,-350 138,-350 132,-350 126,-344 126,-338 126,-338 126,-322 126,-322 126,-316 132,-310 138,-310 138,-310 268,-310 268,-310 274,-310 280,-316 280,-322 280,-322 280,-338 280,-338 280,-344 274,-350 268,-350" />
+<text text-anchor="middle" x="203" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Currency</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M238.5,-288C238.5,-288 167.5,-288 167.5,-288 161.5,-288 155.5,-282 155.5,-276 155.5,-276 155.5,-260 155.5,-260 155.5,-254 161.5,-248 167.5,-248 167.5,-248 238.5,-248 238.5,-248 244.5,-248 250.5,-254 250.5,-260 250.5,-260 250.5,-276 250.5,-276 250.5,-282 244.5,-288 238.5,-288" />
+<text text-anchor="middle" x="203" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Triggers</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M240,-226C240,-226 166,-226 166,-226 160,-226 154,-220 154,-214 154,-214 154,-198 154,-198 154,-192 160,-186 166,-186 166,-186 240,-186 240,-186 246,-186 252,-192 252,-198 252,-198 252,-214 252,-214 252,-220 246,-226 240,-226" />
+<text text-anchor="middle" x="203" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotion</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M230.5,-164C230.5,-164 175.5,-164 175.5,-164 169.5,-164 163.5,-158 163.5,-152 163.5,-152 163.5,-136 163.5,-136 163.5,-130 169.5,-124 175.5,-124 175.5,-124 230.5,-124 230.5,-124 236.5,-124 242.5,-130 242.5,-136 242.5,-136 242.5,-152 242.5,-152 242.5,-158 236.5,-164 230.5,-164" />
+<text text-anchor="middle" x="203" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Public</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M265.5,-102C265.5,-102 140.5,-102 140.5,-102 134.5,-102 128.5,-96 128.5,-90 128.5,-90 128.5,-74 128.5,-74 128.5,-68 134.5,-62 140.5,-62 140.5,-62 265.5,-62 265.5,-62 271.5,-62 277.5,-68 277.5,-74 277.5,-74 277.5,-90 277.5,-90 277.5,-96 271.5,-102 265.5,-102" />
+<text text-anchor="middle" x="203" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Practical Value</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M232.5,-40C232.5,-40 173.5,-40 173.5,-40 167.5,-40 161.5,-34 161.5,-28 161.5,-28 161.5,-12 161.5,-12 161.5,-6 167.5,0 173.5,0 173.5,0 232.5,0 232.5,0 238.5,0 244.5,-6 244.5,-12 244.5,-12 244.5,-28 244.5,-28 244.5,-34 238.5,-40 232.5,-40" />
+<text text-anchor="middle" x="203" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stories</text>
+</g>
+</g>
+</svg>

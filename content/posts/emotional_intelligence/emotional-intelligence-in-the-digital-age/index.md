@@ -86,17 +86,7 @@ As technology continues to evolve, emotional intelligence will become increasing
 ###  Diagram: Key Components of Digital Emotional Intelligence
 
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    A --> C(Social Awareness);
-    B --> D{Relationship Management};
-    C --> D;
-    D --> E[Positive Digital Interactions];
-    E --> F(Resilience);
-    F --> G(Wellbeing);
-    
-```
+![Diagram: Key Components of Digital Emotional Intelligence. Self-Awareness; Self-Regulation; Social Awareness; Relationship Management; Positive Digital Interactions; Resilience; Wellbeing.](diagram-01.svg)
 
 This response provides an overview of the key principles of emotional intelligence within the digital age, offering actionable strategies and insights. While no book with the exact title and author mentioned exists, the principles highlighted are widely accepted in today's digital world. Remember that consistent practice and self-reflection are key to developing and improving your emotional intelligence.
 

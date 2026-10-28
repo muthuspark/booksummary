@@ -14,12 +14,7 @@ Esther Perel's "Mating in Captivity" challenges the conventional understanding o
 
 A central theme explored is the tension between desire and domesticity. The book highlights how the very elements that contribute to the security and stability of a long-term relationship – routines, shared responsibilities, familiarity – can paradoxically erode the erotic spark. The comfort and predictability of domestic life can diminish the excitement that fuels desire. Perel emphasizes that this is not a problem to be solved but a paradox to be navigated.
 
-```mermaid
-graph LR
-A[Desire] --> B(Mystery & Excitement);
-C[Domesticity] --> D(Security & Stability);
-B -- Tension --> D;
-```
+![The Paradox of Desire and Domesticity. Desire; Mystery & Excitement; Domesticity; Security & Stability.](diagram-01.svg)
 
 # Redefining Desire and Intimacy
 
@@ -29,14 +24,7 @@ Perel argues against the conflation of love and desire. She suggests that love p
 
 The book strongly advocates for maintaining individual identities within the relationship.  It emphasizes the importance of pursuing personal interests, hobbies, and friendships outside of the partnership. This individual space, Perel argues, helps preserve a sense of autonomy and mystery, which in turn fuels desire.  The idea of "becoming one" as a couple, she suggests, is detrimental to the long-term health of the relationship.
 
-```mermaid
-graph LR
-A[Individuality] --> B(Personal Growth);
-B --> C(Autonomy);
-C --> D(Mystery & Attraction);
-D --> E[Desire];
-E --> F(Healthy Relationship);
-```
+![The Importance of Maintaining Individuality. Individuality; Personal Growth; Autonomy; Mystery & Attraction; Desire; Healthy Relationship.](diagram-02.svg)
 
 #  Navigating Power Dynamics and Conflict
 

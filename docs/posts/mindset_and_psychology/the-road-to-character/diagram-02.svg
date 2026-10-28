@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564pt" height="148pt" viewBox="0.00 0.00 564.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Two Paths: Resume vs. Eulogy Virtues</title><desc id="description">Eulogy Virtues leads to Internal Strength. Eulogy Virtues leads to Moral Integrity. Eulogy Virtues leads to Impact on Others.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 546,-130 546,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M213.81,-71.87C190.6,-62.84 162.79,-52.03 138.79,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="139.54,-40.36 132.13,-40.1 137.76,-44.93 139.54,-40.36" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263,-71.87C263,-64.31 263,-55.49 263,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="265.45,-47.1 263,-40.1 260.55,-47.1 265.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M312.46,-71.87C335.8,-62.84 363.77,-52.03 387.9,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="388.96,-44.91 394.6,-40.1 387.19,-40.34 388.96,-44.91" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M324,-112C324,-112 202,-112 202,-112 196,-112 190,-106 190,-100 190,-100 190,-84 190,-84 190,-78 196,-72 202,-72 202,-72 324,-72 324,-72 330,-72 336,-78 336,-84 336,-84 336,-100 336,-100 336,-106 330,-112 324,-112" />
+<text text-anchor="middle" x="263" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eulogy Virtues</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M154,-40C154,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 154,0 154,0 160,0 166,-6 166,-12 166,-12 166,-28 166,-28 166,-34 160,-40 154,-40" />
+<text text-anchor="middle" x="83" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Internal Strength</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M326,-40C326,-40 200,-40 200,-40 194,-40 188,-34 188,-28 188,-28 188,-12 188,-12 188,-6 194,0 200,0 200,0 326,0 326,0 332,0 338,-6 338,-12 338,-12 338,-28 338,-28 338,-34 332,-40 326,-40" />
+<text text-anchor="middle" x="263" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Moral Integrity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M516,-40C516,-40 372,-40 372,-40 366,-40 360,-34 360,-28 360,-28 360,-12 360,-12 360,-6 366,0 372,0 372,0 516,0 516,0 522,0 528,-6 528,-12 528,-12 528,-28 528,-28 528,-34 522,-40 516,-40" />
+<text text-anchor="middle" x="444" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impact on Others</text>
+</g>
+</g>
+</svg>

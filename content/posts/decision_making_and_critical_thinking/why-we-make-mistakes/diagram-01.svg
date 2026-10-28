@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="459pt" height="342pt" viewBox="0.00 0.00 459.00 342.00" role="img" aria-labelledby="title description">
+<title id="title">Cognitive Biases: The Invisible Traps</title><desc id="description">Confirmation Bias leads to Seeking confirming evidence. Confirmation Bias leads to Ignoring contradictory evidence. Anchoring Bias leads to Over-reliance on first information. Anchoring Bias leads to Poor evaluation of subsequent information.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 324)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-324 441,-324 441,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.07,-86.56C186.76,-89.05 201.02,-91.64 214.96,-94.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.9,-96.65 222.23,-95.5 215.78,-91.83 214.9,-96.65" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.07,-55.44C182.6,-53.71 192.4,-51.93 202.18,-50.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.84,-52.52 209.29,-48.86 201.97,-47.7 202.84,-52.52" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.65,-248.48C176.12,-251.11 191.56,-253.92 206.83,-256.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.51,-259.13 213.83,-257.97 207.39,-254.31 206.51,-259.13" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.65,-221.52C173.24,-219.41 185.45,-217.19 197.7,-214.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.46,-217.32 204.91,-213.65 197.58,-212.5 198.46,-217.32" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-91C161,-91 12,-91 12,-91 6,-91 0,-85 0,-79 0,-79 0,-63 0,-63 0,-57 6,-51 12,-51 12,-51 161,-51 161,-51 167,-51 173,-57 173,-63 173,-63 173,-79 173,-79 173,-85 167,-91 161,-91" />
+<text text-anchor="middle" x="86.5" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confirmation Bias</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M393.5,-142C393.5,-142 234.5,-142 234.5,-142 228.5,-142 222.5,-136 222.5,-130 222.5,-130 222.5,-94 222.5,-94 222.5,-88 228.5,-82 234.5,-82 234.5,-82 393.5,-82 393.5,-82 399.5,-82 405.5,-88 405.5,-94 405.5,-94 405.5,-130 405.5,-130 405.5,-136 399.5,-142 393.5,-142" />
+<text text-anchor="middle" x="314" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeking confirming</text>
+<text text-anchor="middle" x="314" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">evidence</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M406.5,-60C406.5,-60 221.5,-60 221.5,-60 215.5,-60 209.5,-54 209.5,-48 209.5,-48 209.5,-12 209.5,-12 209.5,-6 215.5,0 221.5,0 221.5,0 406.5,0 406.5,0 412.5,0 418.5,-6 418.5,-12 418.5,-12 418.5,-48 418.5,-48 418.5,-54 412.5,-60 406.5,-60" />
+<text text-anchor="middle" x="314" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ignoring contradictory</text>
+<text text-anchor="middle" x="314" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">evidence</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149.5,-255C149.5,-255 23.5,-255 23.5,-255 17.5,-255 11.5,-249 11.5,-243 11.5,-243 11.5,-227 11.5,-227 11.5,-221 17.5,-215 23.5,-215 23.5,-215 149.5,-215 149.5,-215 155.5,-215 161.5,-221 161.5,-227 161.5,-227 161.5,-243 161.5,-243 161.5,-249 155.5,-255 149.5,-255" />
+<text text-anchor="middle" x="86.5" y="-230.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anchoring Bias</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M402,-306C402,-306 226,-306 226,-306 220,-306 214,-300 214,-294 214,-294 214,-258 214,-258 214,-252 220,-246 226,-246 226,-246 402,-246 402,-246 408,-246 414,-252 414,-258 414,-258 414,-294 414,-294 414,-300 408,-306 402,-306" />
+<text text-anchor="middle" x="314" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Over-reliance on first</text>
+<text text-anchor="middle" x="314" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">information</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M411,-224C411,-224 217,-224 217,-224 211,-224 205,-218 205,-212 205,-212 205,-176 205,-176 205,-170 211,-164 217,-164 217,-164 411,-164 411,-164 417,-164 423,-170 423,-176 423,-176 423,-212 423,-212 423,-218 417,-224 411,-224" />
+<text text-anchor="middle" x="314" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Poor evaluation of</text>
+<text text-anchor="middle" x="314" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">subsequent information</text>
+</g>
+</g>
+</svg>

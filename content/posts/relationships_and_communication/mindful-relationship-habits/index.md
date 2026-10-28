@@ -15,16 +15,7 @@ author: "S.J. Scott and Barrie Davenport"
 Before fostering healthy relationships with others, one must develop a strong understanding of oneself. This involves identifying personal values, beliefs, and emotional triggers. The book encourages self-reflection through journaling, meditation, and introspection. Understanding your attachment style – secure, anxious, avoidant, or fearful-avoidant – is important in recognizing patterns in your relationships and how they might contribute to conflict or dissatisfaction.
 
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Understanding Values);
-A --> C(Identifying Triggers);
-A --> D(Recognizing Attachment Style);
-B --> E[Improved Communication];
-C --> E;
-D --> E;
-E --> F(Healthier Relationships);
-```
+![Cultivating Self-Awareness: The Foundation of Mindful Relationships. Self-Reflection; Understanding Values; Identifying Triggers; Recognizing Attachment Style; Improved Communication; Healthier Relationships.](diagram-01.svg)
 
 # Communication: The Cornerstone of Connection
 
@@ -60,18 +51,7 @@ The book isn't solely theoretical; it provides practical, actionable techniques 
 * **Active listening exercises:** To improve communication and understanding.
 
 
-```mermaid
-graph LR
-A[Mindful Breathing] --> B(Emotional Regulation);
-C[Meditation] --> B;
-D[Journaling] --> E(Self-Awareness);
-F[Self-Compassion] --> G(Empathy);
-H[Active Listening] --> I(Improved Communication);
-B --> J(Healthier Relationships);
-E --> J;
-G --> J;
-I --> J;
-```
+![Mindfulness in Action:  Practical Techniques. Mindful Breathing; Emotional Regulation; Meditation; Journaling; Self-Awareness; Self-Compassion; Empathy; Active Listening; Improved Communication; Healthier Relationships.](diagram-02.svg)
 
 #  The Importance of Empathy and Compassion
 

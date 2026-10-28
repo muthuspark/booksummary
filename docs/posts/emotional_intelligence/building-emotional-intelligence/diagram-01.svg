@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="455pt" height="262pt" viewBox="0.00 0.00 455.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Emotional Intelligence</title><desc id="description">Emotional Intelligence leads to Self-Awareness. Emotional Intelligence leads to Self-Regulation. Emotional Intelligence leads to Social Awareness. Emotional Intelligence leads to Relationship Skills.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 437,-244 437,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.56,-133.09C174.28,-145.72 209.88,-162.02 242,-175 248.98,-177.82 256.32,-180.64 263.67,-183.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.99,-185.73 270.4,-185.85 264.68,-181.14 262.99,-185.73" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210.23,-127.46C222.69,-129.18 235.28,-130.93 247.36,-132.61" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="247.15,-135.05 254.42,-133.59 247.82,-130.2 247.15,-135.05" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210.23,-98.54C220.21,-97.16 230.27,-95.76 240.09,-94.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="240.6,-96.8 247.2,-93.42 239.93,-91.95 240.6,-96.8" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.56,-92.91C174.28,-80.28 209.88,-63.98 242,-51 248.98,-48.18 256.32,-45.36 263.67,-42.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="264.68,-44.86 270.4,-40.15 262.99,-40.27 264.68,-44.86" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198,-133C198,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 198,-93 198,-93 204,-93 210,-99 210,-105 210,-105 210,-121 210,-121 210,-127 204,-133 198,-133" />
+<text text-anchor="middle" x="105" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Intelligence</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M394,-226C394,-226 267,-226 267,-226 261,-226 255,-220 255,-214 255,-214 255,-198 255,-198 255,-192 261,-186 267,-186 267,-186 394,-186 394,-186 400,-186 406,-192 406,-198 406,-198 406,-214 406,-214 406,-220 400,-226 394,-226" />
+<text text-anchor="middle" x="330.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M394.5,-164C394.5,-164 266.5,-164 266.5,-164 260.5,-164 254.5,-158 254.5,-152 254.5,-152 254.5,-136 254.5,-136 254.5,-130 260.5,-124 266.5,-124 266.5,-124 394.5,-124 394.5,-124 400.5,-124 406.5,-130 406.5,-136 406.5,-136 406.5,-152 406.5,-152 406.5,-158 400.5,-164 394.5,-164" />
+<text text-anchor="middle" x="330.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M401.5,-102C401.5,-102 259.5,-102 259.5,-102 253.5,-102 247.5,-96 247.5,-90 247.5,-90 247.5,-74 247.5,-74 247.5,-68 253.5,-62 259.5,-62 259.5,-62 401.5,-62 401.5,-62 407.5,-62 413.5,-68 413.5,-74 413.5,-74 413.5,-90 413.5,-90 413.5,-96 407.5,-102 401.5,-102" />
+<text text-anchor="middle" x="330.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Awareness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M407,-40C407,-40 254,-40 254,-40 248,-40 242,-34 242,-28 242,-28 242,-12 242,-12 242,-6 248,0 254,0 254,0 407,0 407,0 413,0 419,-6 419,-12 419,-12 419,-28 419,-28 419,-34 413,-40 407,-40" />
+<text text-anchor="middle" x="330.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship Skills</text>
+</g>
+</g>
+</svg>

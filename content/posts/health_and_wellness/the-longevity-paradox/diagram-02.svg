@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780pt" height="292pt" viewBox="0.00 0.00 780.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing Key Concepts</title><desc id="description">Healthy Fats leads to Cellular Function. Cellular Function leads to Reduced Inflammation. Reduced Inflammation leads to Longevity. Low-Lectin Vegetables leads to Reduced Inflammation. Gut Health leads to Reduced Inflammation. Stress Management leads to Reduced Inflammation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 762,-274 762,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M83.5,-215.87C83.5,-208.31 83.5,-199.49 83.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="85.95,-191.1 83.5,-184.1 81.05,-191.1 85.95,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.62,-143.96C206.16,-134.57 255.12,-123.22 296.55,-113.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="297.13,-116 303.39,-112.03 296.02,-111.23 297.13,-116" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M385.5,-71.87C385.5,-64.31 385.5,-55.49 385.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="387.95,-47.1 385.5,-40.1 383.05,-47.1 387.95,-47.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.64,-143.87C329.8,-135.38 343.03,-125.32 354.76,-116.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="356.3,-118.29 360.39,-112.1 353.34,-114.39 356.3,-118.29" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M453.09,-143.87C441.81,-135.38 428.43,-125.32 416.57,-116.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="417.95,-114.36 410.88,-112.1 415,-118.27 417.95,-114.36" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M579.17,-143.96C543.83,-134.67 501.22,-123.45 464.98,-113.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="465.21,-111.44 457.82,-112.03 463.97,-116.18 465.21,-111.44" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M136.5,-256C136.5,-256 30.5,-256 30.5,-256 24.5,-256 18.5,-250 18.5,-244 18.5,-244 18.5,-228 18.5,-228 18.5,-222 24.5,-216 30.5,-216 30.5,-216 136.5,-216 136.5,-216 142.5,-216 148.5,-222 148.5,-228 148.5,-228 148.5,-244 148.5,-244 148.5,-250 142.5,-256 136.5,-256" />
+<text text-anchor="middle" x="83.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Fats</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-184C155,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 155,-144 155,-144 161,-144 167,-150 167,-156 167,-156 167,-172 167,-172 167,-178 161,-184 155,-184" />
+<text text-anchor="middle" x="83.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cellular Function</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M480,-112C480,-112 291,-112 291,-112 285,-112 279,-106 279,-100 279,-100 279,-84 279,-84 279,-78 285,-72 291,-72 291,-72 480,-72 480,-72 486,-72 492,-78 492,-84 492,-84 492,-100 492,-100 492,-106 486,-112 480,-112" />
+<text text-anchor="middle" x="385.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Inflammation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M427,-40C427,-40 344,-40 344,-40 338,-40 332,-34 332,-28 332,-28 332,-12 332,-12 332,-6 338,0 344,0 344,0 427,0 427,0 433,0 439,-6 439,-12 439,-12 439,-28 439,-28 439,-34 433,-40 427,-40" />
+<text text-anchor="middle" x="385.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Longevity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M386,-184C386,-184 201,-184 201,-184 195,-184 189,-178 189,-172 189,-172 189,-156 189,-156 189,-150 195,-144 201,-144 201,-144 386,-144 386,-144 392,-144 398,-150 398,-156 398,-156 398,-172 398,-172 398,-178 392,-184 386,-184" />
+<text text-anchor="middle" x="293.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low-Lectin Vegetables</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M525,-184C525,-184 432,-184 432,-184 426,-184 420,-178 420,-172 420,-172 420,-156 420,-156 420,-150 426,-144 432,-144 432,-144 525,-144 525,-144 531,-144 537,-150 537,-156 537,-156 537,-172 537,-172 537,-178 531,-184 525,-184" />
+<text text-anchor="middle" x="478.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut Health</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M732,-184C732,-184 571,-184 571,-184 565,-184 559,-178 559,-172 559,-172 559,-156 559,-156 559,-150 565,-144 571,-144 571,-144 732,-144 732,-144 738,-144 744,-150 744,-156 744,-156 744,-172 744,-172 744,-178 738,-184 732,-184" />
+<text text-anchor="middle" x="651.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress Management</text>
+</g>
+</g>
+</svg>

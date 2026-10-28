@@ -21,13 +21,7 @@ Before we can effectively interact with others, we must first master ourselves. 
 Proactivity isn't simply being busy; it's about focusing on what we *can* control – our own thoughts, actions, and responses.  Reactive people are controlled by external factors like moods, circumstances, and the opinions of others. Proactive individuals, however, take responsibility for their lives and choose their responses. This involves focusing on our Circle of Influence rather than our Circle of Concern.
 
 
-```mermaid
-graph LR
-    A[Circle of Concern] --> B(Things We Worry About)
-    A --> C(Things We Can't Control)
-    D[Circle of Influence] --> E(Things We Can Control)
-    D --> F(Our Actions, Attitudes, Responses)
-```
+![Habit 1: Be Proactive. Circle of Concern; Things We Worry About; Things We Can't Control; Circle of Influence; Things We Can Control; Our Actions, Attitudes, Responses.](diagram-01.svg)
 
 Actionable steps include: focusing on solutions rather than problems, choosing our responses thoughtfully, and visualizing our desired outcomes.
 
@@ -45,13 +39,7 @@ Actionable steps include: writing a personal mission statement, visualizing your
 This habit emphasizes prioritizing tasks based on importance rather than urgency. It involves distinguishing between important but not urgent activities (like long-term planning and relationship building) and urgent but not important activities (like responding to immediate crises).  Time management is key, requiring effective scheduling and delegation. Covey introduces the Eisenhower Matrix as a powerful tool.
 
 
-```mermaid
-graph LR
-    A[Urgent & Important] --> B(Crises, Deadlines, Pressing Problems)
-    C[Important, Not Urgent] --> D(Prevention, Relationship Building, Planning)
-    E[Urgent, Not Important] --> F(Interruptions, Some Meetings, Some Emails)
-    G[Not Urgent, Not Important] --> H(Time Wasters, Trivia, Busywork)
-```
+![Habit 3: Put First Things First. Urgent & Important; Crises, Deadlines, Pressing Problems; Important, Not Urgent; Prevention, Relationship Building, Planning; Urgent, Not Important; Interruptions, Some Meetings, Some Emails; Not Urgent, Not Important; Time Wasters, Trivia, Busywork.](diagram-02.svg)
 
 Actionable steps include: creating a prioritized to-do list, scheduling time for important but not urgent tasks, and learning to say "no" to less important activities.
 

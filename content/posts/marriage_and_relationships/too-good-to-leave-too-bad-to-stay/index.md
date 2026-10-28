@@ -36,15 +36,7 @@ Kirshenbaum stresses the significance of self-compassion throughout the decision
 
 The author highlights how limiting beliefs and past experiences often contribute to staying in unhealthy relationships. These beliefs might stem from childhood experiences, cultural conditioning, or previous relationship traumas.  The book encourages readers to identify these beliefs, challenge their validity, and replace them with more empowering and realistic perspectives.
 
-```mermaid
-graph LR
-A[Limiting Belief] --> B(Self-Doubt);
-A --> C(Fear of Change);
-A --> D(Low Self-Esteem);
-B --> E[Stay in Unhealthy Relationship];
-C --> E;
-D --> E;
-```
+![Recognizing and Challenging Limiting Beliefs. Limiting Belief; Self-Doubt; Fear of Change; Low Self-Esteem; Stay in Unhealthy Relationship.](diagram-01.svg)
 
 
 ##  Developing a Support System

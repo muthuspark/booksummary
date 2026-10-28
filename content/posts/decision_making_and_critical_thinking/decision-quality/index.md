@@ -15,13 +15,7 @@ Decision Quality, by Carl Spetzler and colleagues, offers a practical framework 
 Before making any decision, crystallizing the problem is crucial. This involves defining the objective, specifying the scope, and identifying the key players and stakeholders involved. Vague problem statements lead to muddled thinking and poor decisions. Spetzler advocates for rigorously defining the decision question using the "what, why, who, and where" approach. Ambiguity breeds poor choices.
 
 
-```mermaid
-graph LR
-A[Define the Objective] --> B(Specify the Scope);
-B --> C{Identify Stakeholders};
-C --> D[Frame the Decision Question];
-D --> E(High-Quality Decision);
-```
+![Defining the Problem:  Clarity is Paramount. Define the Objective; Specify the Scope; Identify Stakeholders; Frame the Decision Question; High-Quality Decision.](diagram-01.svg)
 
 ## Identifying and Evaluating Alternatives
 
@@ -32,13 +26,7 @@ Once the problem is clear, the next step involves brainstorming potential altern
 
 A significant contribution of "Decision Quality" is its focus on explicitly acknowledging and quantifying uncertainty.  Instead of relying on point estimates, the framework advocates for using probability distributions to represent the range of possible outcomes for each alternative. This allows for a more realistic assessment of risks and opportunities.  This quantification process necessitates assigning probabilities to different scenarios and outcomes.  This moves decision-making from guesswork to a more informed process.
 
-```mermaid
-graph LR
-A[Alternative 1] --> B(Probability Distribution);
-B --> C(Expected Outcome);
-D[Alternative 2] --> E(Probability Distribution);
-E --> F(Expected Outcome);
-```
+![Quantifying Uncertainty:  Probabilities and Ranges. Alternative 1; Probability Distribution; Expected Outcome; Alternative 2; Probability Distribution; Expected Outcome.](diagram-02.svg)
 
 
 ## Values and Trade-offs:  Making the Choice
@@ -51,13 +39,7 @@ Once alternatives are evaluated, decision-makers need to explicitly articulate t
 Sensitivity analysis is an aspect of the decision-quality framework. It involves systematically varying the key inputs (probabilities, values, etc.) to understand how the outcome changes. This helps in identifying the most critical factors and assessing the robustness of the decision in the face of uncertainty. This informs adaptive decision-making.
 
 
-```mermaid
-graph LR
-A[Input Variable 1] --> B(Change Input);
-B --> C(Observe Output Change);
-D[Input Variable 2] --> E(Change Input);
-E --> F(Observe Output Change);
-```
+![The Importance of Sensitivity Analysis. Input Variable 1; Change Input; Observe Output Change; Input Variable 2; Change Input; Observe Output Change.](diagram-03.svg)
 
 ## Building a Decision-Making Culture
 

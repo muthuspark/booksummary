@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286pt" height="404pt" viewBox="0.00 0.00 286.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Motivation: Driving Force for Achievement</title><desc id="description">Passion &amp; Purpose leads to Intrinsic Motivation. Intrinsic Motivation leads to Goal Setting. Goal Setting leads to Resilience. Resilience leads to Achievement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 268,-386 268,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125,-327.87C125,-320.31 125,-311.49 125,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.45,-303.1 125,-296.1 122.55,-303.1 127.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125,-255.91C125,-248.58 125,-239.86 125,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.45,-231.07 125,-224.07 122.55,-231.07 127.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125,-143.79C125,-135.54 125,-127.04 125,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.45,-119.09 125,-112.09 122.55,-119.09 127.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125,-71.87C125,-64.31 125,-55.49 125,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.45,-47.1 125,-40.1 122.55,-47.1 127.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M201.5,-368C201.5,-368 48.5,-368 48.5,-368 42.5,-368 36.5,-362 36.5,-356 36.5,-356 36.5,-340 36.5,-340 36.5,-334 42.5,-328 48.5,-328 48.5,-328 201.5,-328 201.5,-328 207.5,-328 213.5,-334 213.5,-340 213.5,-340 213.5,-356 213.5,-356 213.5,-362 207.5,-368 201.5,-368" />
+<text text-anchor="middle" x="125" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passion &amp; Purpose</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M207,-296C207,-296 43,-296 43,-296 37,-296 31,-290 31,-284 31,-284 31,-268 31,-268 31,-262 37,-256 43,-256 43,-256 207,-256 207,-256 213,-256 219,-262 219,-268 219,-268 219,-284 219,-284 219,-290 213,-296 207,-296" />
+<text text-anchor="middle" x="125" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intrinsic Motivation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="125,-224 0,-184 125,-144 250,-184 125,-224" />
+<text text-anchor="middle" x="125" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goal Setting</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-112C168,-112 82,-112 82,-112 76,-112 70,-106 70,-100 70,-100 70,-84 70,-84 70,-78 76,-72 82,-72 82,-72 168,-72 168,-72 174,-72 180,-78 180,-84 180,-84 180,-100 180,-100 180,-106 174,-112 168,-112" />
+<text text-anchor="middle" x="125" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M179.5,-40C179.5,-40 70.5,-40 70.5,-40 64.5,-40 58.5,-34 58.5,-28 58.5,-28 58.5,-12 58.5,-12 58.5,-6 64.5,0 70.5,0 70.5,0 179.5,0 179.5,0 185.5,0 191.5,-6 191.5,-12 191.5,-12 191.5,-28 191.5,-28 191.5,-34 185.5,-40 179.5,-40" />
+<text text-anchor="middle" x="125" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achievement</text>
+</g>
+</g>
+</svg>

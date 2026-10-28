@@ -24,12 +24,7 @@ Watts stresses the importance of non-striving.  This isn't about laziness or ina
 
 Meditation is presented not as a technique for achieving a specific state, but as a way of cultivating present moment awareness.  By focusing on the breath, sounds, or bodily sensations, we gradually quiet the mental chatter and the incessant thoughts that fuel the illusion of self.  Mindfulness, the practice of paying attention to the present moment without judgment, is for cultivating this awareness.  This allows us to see through the illusion of separation and experience the interconnectedness of all things.
 
-```mermaid
-graph LR
-A[Meditation] --> B(Mindfulness);
-B --> C{Present Moment Awareness};
-C --> D[Reduced Suffering];
-```
+![The Importance of Meditation and Mindfulness. Meditation; Mindfulness; Present Moment Awareness; Reduced Suffering.](diagram-01.svg)
 
 
 #  Living in the Now: Transcending Time
@@ -57,11 +52,7 @@ Creativity, for Watts, is not a forced effort but a natural expression of one's 
 The desire for control is a major source of suffering.  Watts argues that we have far less control than we believe. Accepting the impermanence of all things – the fact that everything is constantly changing – is essential for inner peace.  This involves embracing both joy and sorrow, success and failure, as natural parts of the human experience.
 
 
-```mermaid
-graph LR
-A[Desire for Control] --> B(Suffering);
-C[Acceptance of Impermanence] --> D(Inner Peace);
-```
+![The Illusion of Control and the Acceptance of Impermanence. Desire for Control; Suffering; Acceptance of Impermanence; Inner Peace.](diagram-02.svg)
 
 
 #  Zen and the Western World

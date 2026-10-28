@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584pt" height="168pt" viewBox="0.00 0.00 584.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Addressing  "The Four Horsemen</title><desc id="description">Criticism leads to Destructive Communication. Contempt leads to Destructive Communication. Defensiveness leads to Destructive Communication. Stonewalling leads to Destructive Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 566,-150 566,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.91,-91.94C119.65,-83.2 146.01,-72.6 170.61,-62.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.58,-64.97 177.16,-60.08 169.75,-60.42 171.58,-64.97" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194.17,-91.63C201.37,-83.75 209.91,-74.39 218.1,-65.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.96,-67.01 222.87,-60.19 216.34,-63.71 219.96,-67.01" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M305.59,-91.63C298.29,-83.75 289.64,-74.39 281.33,-65.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="283.05,-63.66 276.5,-60.19 279.45,-66.99 283.05,-63.66" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M426.99,-91.94C399.33,-82.44 365.29,-70.76 334.44,-60.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="334.92,-57.74 327.5,-57.78 333.33,-62.37 334.92,-57.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-132C89,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 89,-92 89,-92 95,-92 101,-98 101,-104 101,-104 101,-120 101,-120 101,-126 95,-132 89,-132" />
+<text text-anchor="middle" x="50.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criticism</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M315.5,-60C315.5,-60 183.5,-60 183.5,-60 177.5,-60 171.5,-54 171.5,-48 171.5,-48 171.5,-12 171.5,-12 171.5,-6 177.5,0 183.5,0 183.5,0 315.5,0 315.5,0 321.5,0 327.5,-6 327.5,-12 327.5,-12 327.5,-48 327.5,-48 327.5,-54 321.5,-60 315.5,-60" />
+<text text-anchor="middle" x="249.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Destructive</text>
+<text text-anchor="middle" x="249.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218,-132C218,-132 135,-132 135,-132 129,-132 123,-126 123,-120 123,-120 123,-104 123,-104 123,-98 129,-92 135,-92 135,-92 218,-92 218,-92 224,-92 230,-98 230,-104 230,-104 230,-120 230,-120 230,-126 224,-132 218,-132" />
+<text text-anchor="middle" x="176.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Contempt</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M382.5,-132C382.5,-132 264.5,-132 264.5,-132 258.5,-132 252.5,-126 252.5,-120 252.5,-120 252.5,-104 252.5,-104 252.5,-98 258.5,-92 264.5,-92 264.5,-92 382.5,-92 382.5,-92 388.5,-92 394.5,-98 394.5,-104 394.5,-104 394.5,-120 394.5,-120 394.5,-126 388.5,-132 382.5,-132" />
+<text text-anchor="middle" x="323.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defensiveness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M536,-132C536,-132 429,-132 429,-132 423,-132 417,-126 417,-120 417,-120 417,-104 417,-104 417,-98 423,-92 429,-92 429,-92 536,-92 536,-92 542,-92 548,-98 548,-104 548,-104 548,-120 548,-120 548,-126 542,-132 536,-132" />
+<text text-anchor="middle" x="482.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stonewalling</text>
+</g>
+</g>
+</svg>

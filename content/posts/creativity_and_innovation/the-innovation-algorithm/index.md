@@ -14,23 +14,13 @@ Genrich Altshuller's "The Innovation Algorithm" isn't a self-help book in the tr
 
 TRIZ emphasizes the importance of identifying contradictions as the key to innovation. These aren't simple disagreements but rather conflicts between desirable system characteristics. For example, a car needs to be strong (for safety) but also lightweight (for fuel efficiency).  These contradictory requirements often hinder progress.  The algorithm helps pinpoint these core contradictions, which then become the focus for innovative solutions.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Identify Contradictions);
-    B --> C{Resolve Contradictions};
-    C --> D[Innovative Solution];
-```
+![Identifying Contradictions. Problem; Identify Contradictions; Resolve Contradictions; Innovative Solution.](diagram-01.svg)
 
 ## The Substance-Field Model
 
 The Substance-Field (S-Field) model is a tool in TRIZ. It allows for a systematic representation of a problem.  Substances are the objects or elements involved, and fields are the interactions or influences between them.  By mapping the problem into an S-Field model, one can visualize the relationships, identify the root cause of the contradiction, and look at potential solutions.
 
-```mermaid
-graph LR
-    A[Substance 1] -- Field --> B[Substance 2];
-    B -- Field --> C[Substance 3];
-    C -- Field --> A;
-```
+![The Substance-Field Model. Substance 1; Substance 2; Substance 3.](diagram-02.svg)
 
 ## 40 Inventive Principles
 

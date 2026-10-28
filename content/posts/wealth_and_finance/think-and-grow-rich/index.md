@@ -27,15 +27,7 @@ The book outlines a six-step process to translate desire into reality:
 6. **Organized Planning:**  Success doesn't happen by chance; it requires a well-defined plan. This involves setting specific goals, outlining steps, and establishing a timeline for achieving them.
 
 
-```mermaid
-graph LR
-    A[Burning Desire] --> B(Faith);
-    B --> C(Autosuggestion);
-    C --> D(Specialized Knowledge);
-    D --> E(Imagination);
-    E --> F(Organized Planning);
-    F --> G[Success];
-```
+![Six Steps to Success. Burning Desire; Faith; Autosuggestion; Specialized Knowledge; Imagination; Organized Planning; Success.](diagram-01.svg)
 
 ## The Master Mind Principle
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266pt" height="404pt" viewBox="0.00 0.00 266.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Navigating Conflict Constructively: Skills for Effective Communication</title><desc id="description">I Statements leads to Active Listening. Active Listening leads to Validate Feelings. Validate Feelings leads to Compromise. Compromise leads to Resolution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 248,-386 248,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-327.87C115,-320.31 115,-311.49 115,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-303.1 115,-296.1 112.55,-303.1 117.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-255.87C115,-248.31 115,-239.49 115,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-231.1 115,-224.1 112.55,-231.1 117.45,-231.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-183.87C115,-176.31 115,-167.49 115,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-159.1 115,-152.1 112.55,-159.1 117.45,-159.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-111.91C115,-104.58 115,-95.86 115,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-87.07 115,-80.07 112.55,-87.07 117.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-368C167,-368 63,-368 63,-368 57,-368 51,-362 51,-356 51,-356 51,-340 51,-340 51,-334 57,-328 63,-328 63,-328 167,-328 167,-328 173,-328 179,-334 179,-340 179,-340 179,-356 179,-356 179,-362 173,-368 167,-368" />
+<text text-anchor="middle" x="115" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">I Statements</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181,-296C181,-296 49,-296 49,-296 43,-296 37,-290 37,-284 37,-284 37,-268 37,-268 37,-262 43,-256 49,-256 49,-256 181,-256 181,-256 187,-256 193,-262 193,-268 193,-268 193,-284 193,-284 193,-290 187,-296 181,-296" />
+<text text-anchor="middle" x="115" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185.5,-224C185.5,-224 44.5,-224 44.5,-224 38.5,-224 32.5,-218 32.5,-212 32.5,-212 32.5,-196 32.5,-196 32.5,-190 38.5,-184 44.5,-184 44.5,-184 185.5,-184 185.5,-184 191.5,-184 197.5,-190 197.5,-196 197.5,-196 197.5,-212 197.5,-212 197.5,-218 191.5,-224 185.5,-224" />
+<text text-anchor="middle" x="115" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Validate Feelings</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168.5,-152C168.5,-152 61.5,-152 61.5,-152 55.5,-152 49.5,-146 49.5,-140 49.5,-140 49.5,-124 49.5,-124 49.5,-118 55.5,-112 61.5,-112 61.5,-112 168.5,-112 168.5,-112 174.5,-112 180.5,-118 180.5,-124 180.5,-124 180.5,-140 180.5,-140 180.5,-146 174.5,-152 168.5,-152" />
+<text text-anchor="middle" x="115" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compromise</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="115,-80 0,-40 115,0 230,-40 115,-80" />
+<text text-anchor="middle" x="115" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resolution</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400pt" height="404pt" viewBox="0.00 0.00 400.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">The Core of Logotherapy: Finding Meaning</title><desc id="description">Past Experiences leads to Present. Present leads to Future Possibilities. Future Possibilities leads to Meaning Creation. Meaning Creation leads to Purposeful Life.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 382,-386 382,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-327.87C182,-320.31 182,-311.49 182,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-303.1 182,-296.1 179.55,-303.1 184.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-255.91C182,-248.58 182,-239.86 182,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-231.07 182,-224.07 179.55,-231.07 184.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-143.79C182,-135.54 182,-127.04 182,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-119.09 182,-112.09 179.55,-119.09 184.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-71.87C182,-64.31 182,-55.49 182,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-47.1 182,-40.1 179.55,-47.1 184.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252,-368C252,-368 112,-368 112,-368 106,-368 100,-362 100,-356 100,-356 100,-340 100,-340 100,-334 106,-328 112,-328 112,-328 252,-328 252,-328 258,-328 264,-334 264,-340 264,-340 264,-356 264,-356 264,-362 258,-368 252,-368" />
+<text text-anchor="middle" x="182" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Past Experiences</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M214.5,-296C214.5,-296 149.5,-296 149.5,-296 143.5,-296 137.5,-290 137.5,-284 137.5,-284 137.5,-268 137.5,-268 137.5,-262 143.5,-256 149.5,-256 149.5,-256 214.5,-256 214.5,-256 220.5,-256 226.5,-262 226.5,-268 226.5,-268 226.5,-284 226.5,-284 226.5,-290 220.5,-296 214.5,-296" />
+<text text-anchor="middle" x="182" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="182,-224 0,-184 182,-144 364,-184 182,-224" />
+<text text-anchor="middle" x="182" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Future Possibilities</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M255.5,-112C255.5,-112 108.5,-112 108.5,-112 102.5,-112 96.5,-106 96.5,-100 96.5,-100 96.5,-84 96.5,-84 96.5,-78 102.5,-72 108.5,-72 108.5,-72 255.5,-72 255.5,-72 261.5,-72 267.5,-78 267.5,-84 267.5,-84 267.5,-100 267.5,-100 267.5,-106 261.5,-112 255.5,-112" />
+<text text-anchor="middle" x="182" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaning Creation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M246,-40C246,-40 118,-40 118,-40 112,-40 106,-34 106,-28 106,-28 106,-12 106,-12 106,-6 112,0 118,0 118,0 246,0 246,0 252,0 258,-6 258,-12 258,-12 258,-28 258,-28 258,-34 252,-40 246,-40" />
+<text text-anchor="middle" x="182" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purposeful Life</text>
+</g>
+</g>
+</svg>

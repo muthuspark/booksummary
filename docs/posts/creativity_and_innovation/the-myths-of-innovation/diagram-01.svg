@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394pt" height="476pt" viewBox="0.00 0.00 394.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Myth of the Lone Genius</title><desc id="description">Individual leads to Collaboration. Collaboration leads to Shared Knowledge. Shared Knowledge leads to Innovation. Innovation leads to Iterative Refinement. Iterative Refinement leads to Successful Outcome.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 376,-458 376,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179,-399.87C179,-392.31 179,-383.49 179,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.45,-375.1 179,-368.1 176.55,-375.1 181.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179,-327.91C179,-320.58 179,-311.86 179,-303.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.45,-303.07 179,-296.07 176.55,-303.07 181.45,-303.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179,-215.79C179,-207.54 179,-199.04 179,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.45,-191.09 179,-184.09 176.55,-191.09 181.45,-191.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179,-143.87C179,-136.31 179,-127.49 179,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.45,-119.1 179,-112.1 176.55,-119.1 181.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179,-71.87C179,-64.31 179,-55.49 179,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.45,-47.1 179,-40.1 176.55,-47.1 181.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222.5,-440C222.5,-440 135.5,-440 135.5,-440 129.5,-440 123.5,-434 123.5,-428 123.5,-428 123.5,-412 123.5,-412 123.5,-406 129.5,-400 135.5,-400 135.5,-400 222.5,-400 222.5,-400 228.5,-400 234.5,-406 234.5,-412 234.5,-412 234.5,-428 234.5,-428 234.5,-434 228.5,-440 222.5,-440" />
+<text text-anchor="middle" x="179" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M235.5,-368C235.5,-368 122.5,-368 122.5,-368 116.5,-368 110.5,-362 110.5,-356 110.5,-356 110.5,-340 110.5,-340 110.5,-334 116.5,-328 122.5,-328 122.5,-328 235.5,-328 235.5,-328 241.5,-328 247.5,-334 247.5,-340 247.5,-340 247.5,-356 247.5,-356 247.5,-362 241.5,-368 235.5,-368" />
+<text text-anchor="middle" x="179" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="179,-296 0,-256 179,-216 358,-256 179,-296" />
+<text text-anchor="middle" x="179" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Knowledge</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M225,-184C225,-184 133,-184 133,-184 127,-184 121,-178 121,-172 121,-172 121,-156 121,-156 121,-150 127,-144 133,-144 133,-144 225,-144 225,-144 231,-144 237,-150 237,-156 237,-156 237,-172 237,-172 237,-178 231,-184 225,-184" />
+<text text-anchor="middle" x="179" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264,-112C264,-112 94,-112 94,-112 88,-112 82,-106 82,-100 82,-100 82,-84 82,-84 82,-78 88,-72 94,-72 94,-72 264,-72 264,-72 270,-72 276,-78 276,-84 276,-84 276,-100 276,-100 276,-106 270,-112 264,-112" />
+<text text-anchor="middle" x="179" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iterative Refinement</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M261,-40C261,-40 97,-40 97,-40 91,-40 85,-34 85,-28 85,-28 85,-12 85,-12 85,-6 91,0 97,0 97,0 261,0 261,0 267,0 273,-6 273,-12 273,-12 273,-28 273,-28 273,-34 267,-40 261,-40" />
+<text text-anchor="middle" x="179" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Successful Outcome</text>
+</g>
+</g>
+</svg>

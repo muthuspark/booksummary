@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="409pt" height="386pt" viewBox="0.00 0.00 409.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Transformation of Relationships</title><desc id="description">Ego in Relationships leads to Judgement. Ego in Relationships leads to Expectations. Ego in Relationships leads to Conflict. Presence in Relationships leads to Acceptance. Presence in Relationships leads to Understanding. Presence in Relationships leads to Connection.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 391,-368 391,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.32,-102.04C184.92,-109.03 210.28,-116.88 232.91,-123.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.43,-126.29 239.84,-126.01 233.87,-121.61 232.43,-126.29" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193.05,-82C204.22,-82 215.47,-82 226.24,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.24,-84.45 233.24,-82 226.24,-79.55 226.24,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.32,-61.96C189.63,-53.51 220.96,-43.82 246.63,-35.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="247.4,-38.21 253.37,-33.8 245.96,-33.53 247.4,-38.21" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.1,-288.9C186.85,-295.63 210.9,-303.07 232.49,-309.74" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232,-312.16 239.41,-311.88 233.45,-307.47 232,-312.16" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.1,-268C181.91,-268 200.1,-268 217.46,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.85,-270.45 224.85,-268 217.85,-265.55 217.85,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.1,-247.1C186.85,-240.37 210.9,-232.93 232.49,-226.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.45,-228.53 239.41,-224.12 232,-223.84 233.45,-228.53" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181,-102C181,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 181,-62 181,-62 187,-62 193,-68 193,-74 193,-74 193,-90 193,-90 193,-96 187,-102 181,-102" />
+<text text-anchor="middle" x="96.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ego in Relationships</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M346,-164C346,-164 252,-164 252,-164 246,-164 240,-158 240,-152 240,-152 240,-136 240,-136 240,-130 246,-124 252,-124 252,-124 346,-124 346,-124 352,-124 358,-130 358,-136 358,-136 358,-152 358,-152 358,-158 352,-164 346,-164" />
+<text text-anchor="middle" x="299" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Judgement</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M352.5,-102C352.5,-102 245.5,-102 245.5,-102 239.5,-102 233.5,-96 233.5,-90 233.5,-90 233.5,-74 233.5,-74 233.5,-68 239.5,-62 245.5,-62 245.5,-62 352.5,-62 352.5,-62 358.5,-62 364.5,-68 364.5,-74 364.5,-74 364.5,-90 364.5,-90 364.5,-96 358.5,-102 352.5,-102" />
+<text text-anchor="middle" x="299" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expectations</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M332.5,-40C332.5,-40 265.5,-40 265.5,-40 259.5,-40 253.5,-34 253.5,-28 253.5,-28 253.5,-12 253.5,-12 253.5,-6 259.5,0 265.5,0 265.5,0 332.5,0 332.5,0 338.5,0 344.5,-6 344.5,-12 344.5,-12 344.5,-28 344.5,-28 344.5,-34 338.5,-40 332.5,-40" />
+<text text-anchor="middle" x="299" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M153,-298C153,-298 40,-298 40,-298 34,-298 28,-292 28,-286 28,-286 28,-250 28,-250 28,-244 34,-238 40,-238 40,-238 153,-238 153,-238 159,-238 165,-244 165,-250 165,-250 165,-286 165,-286 165,-292 159,-298 153,-298" />
+<text text-anchor="middle" x="96.5" y="-273.6" font-family="Georgia" font-size="18.00" fill="#243d36">Presence in</text>
+<text text-anchor="middle" x="96.5" y="-253.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationships</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M346.5,-350C346.5,-350 251.5,-350 251.5,-350 245.5,-350 239.5,-344 239.5,-338 239.5,-338 239.5,-322 239.5,-322 239.5,-316 245.5,-310 251.5,-310 251.5,-310 346.5,-310 346.5,-310 352.5,-310 358.5,-316 358.5,-322 358.5,-322 358.5,-338 358.5,-338 358.5,-344 352.5,-350 346.5,-350" />
+<text text-anchor="middle" x="299" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M361,-288C361,-288 237,-288 237,-288 231,-288 225,-282 225,-276 225,-276 225,-260 225,-260 225,-254 231,-248 237,-248 237,-248 361,-248 361,-248 367,-248 373,-254 373,-260 373,-260 373,-276 373,-276 373,-282 367,-288 361,-288" />
+<text text-anchor="middle" x="299" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M346.5,-226C346.5,-226 251.5,-226 251.5,-226 245.5,-226 239.5,-220 239.5,-214 239.5,-214 239.5,-198 239.5,-198 239.5,-192 245.5,-186 251.5,-186 251.5,-186 346.5,-186 346.5,-186 352.5,-186 358.5,-192 358.5,-198 358.5,-198 358.5,-214 358.5,-214 358.5,-220 352.5,-226 346.5,-226" />
+<text text-anchor="middle" x="299" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Connection</text>
+</g>
+</g>
+</svg>

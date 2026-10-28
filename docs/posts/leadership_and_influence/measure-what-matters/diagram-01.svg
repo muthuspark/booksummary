@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="666pt" height="292pt" viewBox="0.00 0.00 666.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Objectives and Key Results (OKRs)</title><desc id="description">Ambitious Objective leads to Specific Key Result 1. Ambitious Objective leads to Specific Key Result 2. Ambitious Objective leads to Specific Key Result 3. Specific Key Result 1 leads to Progress Tracking. Specific Key Result 2 leads to Progress Tracking. Specific Key Result 3 leads to Progress Tracking. Progress Tracking leads to Achievement &amp; Learning.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 648,-274 648,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M254.99,-215.96C226.52,-206.78 192.27,-195.73 162.95,-186.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.41,-183.85 156,-184.03 161.91,-188.51 163.41,-183.85" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M314,-215.87C314,-208.31 314,-199.49 314,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="316.45,-191.1 314,-184.1 311.55,-191.1 316.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M373.28,-215.96C401.88,-206.78 436.29,-195.73 465.75,-186.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="466.81,-188.5 472.73,-184.03 465.32,-183.84 466.81,-188.5" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.01,-143.96C184.48,-134.78 218.73,-123.73 248.05,-114.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="249.09,-116.51 255,-112.03 247.59,-111.85 249.09,-116.51" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M314,-143.87C314,-136.31 314,-127.49 314,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="316.45,-119.1 314,-112.1 311.55,-119.1 316.45,-119.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M472.72,-143.96C444.12,-134.78 409.71,-123.73 380.25,-114.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="380.68,-111.84 373.27,-112.03 379.19,-116.5 380.68,-111.84" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M314,-71.87C314,-64.31 314,-55.49 314,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="316.45,-47.1 314,-40.1 311.55,-47.1 316.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M397,-256C397,-256 231,-256 231,-256 225,-256 219,-250 219,-244 219,-244 219,-228 219,-228 219,-222 225,-216 231,-216 231,-216 397,-216 397,-216 403,-216 409,-222 409,-228 409,-228 409,-244 409,-244 409,-250 403,-256 397,-256" />
+<text text-anchor="middle" x="314" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ambitious Objective</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-184C182,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 182,-144 182,-144 188,-144 194,-150 194,-156 194,-156 194,-172 194,-172 194,-178 188,-184 182,-184" />
+<text text-anchor="middle" x="97" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Specific Key Result 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M400,-184C400,-184 228,-184 228,-184 222,-184 216,-178 216,-172 216,-172 216,-156 216,-156 216,-150 222,-144 228,-144 228,-144 400,-144 400,-144 406,-144 412,-150 412,-156 412,-156 412,-172 412,-172 412,-178 406,-184 400,-184" />
+<text text-anchor="middle" x="314" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Specific Key Result 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M618,-184C618,-184 446,-184 446,-184 440,-184 434,-178 434,-172 434,-172 434,-156 434,-156 434,-150 440,-144 446,-144 446,-144 618,-144 618,-144 624,-144 630,-150 630,-156 630,-156 630,-172 630,-172 630,-178 624,-184 618,-184" />
+<text text-anchor="middle" x="532" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Specific Key Result 3</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M388.5,-112C388.5,-112 239.5,-112 239.5,-112 233.5,-112 227.5,-106 227.5,-100 227.5,-100 227.5,-84 227.5,-84 227.5,-78 233.5,-72 239.5,-72 239.5,-72 388.5,-72 388.5,-72 394.5,-72 400.5,-78 400.5,-84 400.5,-84 400.5,-100 400.5,-100 400.5,-106 394.5,-112 388.5,-112" />
+<text text-anchor="middle" x="314" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Progress Tracking</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M415,-40C415,-40 213,-40 213,-40 207,-40 201,-34 201,-28 201,-28 201,-12 201,-12 201,-6 207,0 213,0 213,0 415,0 415,0 421,0 427,-6 427,-12 427,-12 427,-28 427,-28 427,-34 421,-40 415,-40" />
+<text text-anchor="middle" x="314" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achievement &amp; Learning</text>
+</g>
+</g>
+</svg>

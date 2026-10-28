@@ -14,23 +14,13 @@ author: "Timothy Ferriss"
 
 Many mentors highlight the importance of defining success independently, rather than conforming to societal expectations. External validation is fleeting; internal satisfaction is enduring. Several interviewees articulated the necessity of aligning actions with deeply held values. This process of self-discovery often involves introspection and experimentation, sometimes necessitating uncomfortable changes in career, relationships, or lifestyle.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Value Identification);
-B --> C{Action Alignment};
-C --> D[Sustainable Success];
-```
+![Defining Success and Purpose:  Your North Star. Self-Reflection; Value Identification; Action Alignment; Sustainable Success.](diagram-01.svg)
 
 #  Overcoming Fear and Embracing Failure: The Crucible of Growth
 
 Fear is a universal human experience, but high-achievers don't let it paralyze them.  Instead, they view fear as a signal, indicating they're pushing boundaries.  The recurring theme is embracing failure as a learning opportunity.  Failure isn't the opposite of success; it's a stepping stone.  Many mentors describe their greatest breakthroughs as emerging from setbacks and mistakes.
 
-```mermaid
-graph LR
-A[Fear] --> B(Action Despite Fear);
-B --> C[Learning from Failure];
-C --> D(Growth & Resilience);
-```
+![Overcoming Fear and Embracing Failure: The Crucible of Growth. Fear; Action Despite Fear; Learning from Failure; Growth & Resilience.](diagram-02.svg)
 
 #  Prioritization and Time Management:  Mastering Your Schedule
 

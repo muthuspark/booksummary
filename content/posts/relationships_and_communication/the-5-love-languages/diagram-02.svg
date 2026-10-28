@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="533pt" height="464pt" viewBox="0.00 0.00 533.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Actionable Strategies for Improvement</title><desc id="description">Identify Love Languages leads to Partner's Language?. Partner's Language? leads to Speak their language (Yes). Partner's Language? leads to Learn their language (No). Speak their language leads to Regular communication. Learn their language leads to Observe and ask questions. Regular communication leads to Stronger Relationship. Observe and ask questions leads to Identify Love Languages.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 515,-446 515,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M352.91,-367.79C332.53,-355.54 308.76,-341.24 287.81,-328.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="288.95,-326.48 281.69,-324.97 286.43,-330.68 288.95,-326.48" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.26,-262.48C178.42,-246.08 155.74,-226.36 138.3,-211.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="139.49,-208.97 132.6,-206.22 136.27,-212.66 139.49,-208.97" />
+<text text-anchor="middle" x="180.5" y="-227" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.16,-261.02C276.01,-245.09 292.36,-226.28 305.1,-211.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="307.23,-212.9 309.97,-206.01 303.53,-209.69 307.23,-212.9" />
+<text text-anchor="middle" x="304.5" y="-227" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.5,-165.8C110.5,-155.21 110.5,-141.9 110.5,-130.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.95,-130.06 110.5,-123.06 108.05,-130.06 112.95,-130.06" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M348.07,-165.8C357.38,-157.52 368.55,-147.57 379.19,-138.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="381.1,-139.68 384.7,-133.2 377.84,-136.02 381.1,-139.68" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.5,-82.8C110.5,-72.21 110.5,-58.9 110.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.95,-47.06 110.5,-40.06 108.05,-47.06 112.95,-47.06" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M427.27,-133.31C430.21,-143.53 433.04,-155.16 434.5,-166 444.52,-240.44 452.69,-262.12 434.5,-335 432.24,-344.05 428.39,-353.23 424.09,-361.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="421.87,-360.6 420.74,-367.93 426.2,-362.91 421.87,-360.6" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M456.5,-428C456.5,-428 346.5,-428 346.5,-428 340.5,-428 334.5,-422 334.5,-416 334.5,-416 334.5,-380 334.5,-380 334.5,-374 340.5,-368 346.5,-368 346.5,-368 456.5,-368 456.5,-368 462.5,-368 468.5,-374 468.5,-380 468.5,-380 468.5,-416 468.5,-416 468.5,-422 462.5,-428 456.5,-428" />
+<text text-anchor="middle" x="401.5" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Love</text>
+<text text-anchor="middle" x="401.5" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Languages</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="233.5,-335 43.5,-295 233.5,-255 423.5,-295 233.5,-335" />
+<text text-anchor="middle" x="233.5" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner's Language?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196,-206C196,-206 25,-206 25,-206 19,-206 13,-200 13,-194 13,-194 13,-178 13,-178 13,-172 19,-166 25,-166 25,-166 196,-166 196,-166 202,-166 208,-172 208,-178 208,-178 208,-194 208,-194 208,-200 202,-206 196,-206" />
+<text text-anchor="middle" x="110.5" y="-181.6" font-family="Georgia" font-size="18.00" fill="#243d36">Speak their language</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M411.5,-206C411.5,-206 241.5,-206 241.5,-206 235.5,-206 229.5,-200 229.5,-194 229.5,-194 229.5,-178 229.5,-178 229.5,-172 235.5,-166 241.5,-166 241.5,-166 411.5,-166 411.5,-166 417.5,-166 423.5,-172 423.5,-178 423.5,-178 423.5,-194 423.5,-194 423.5,-200 417.5,-206 411.5,-206" />
+<text text-anchor="middle" x="326.5" y="-181.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learn their language</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-123C209,-123 12,-123 12,-123 6,-123 0,-117 0,-111 0,-111 0,-95 0,-95 0,-89 6,-83 12,-83 12,-83 209,-83 209,-83 215,-83 221,-89 221,-95 221,-95 221,-111 221,-111 221,-117 215,-123 209,-123" />
+<text text-anchor="middle" x="110.5" y="-98.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regular communication</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M485,-133C485,-133 350,-133 350,-133 344,-133 338,-127 338,-121 338,-121 338,-85 338,-85 338,-79 344,-73 350,-73 350,-73 485,-73 485,-73 491,-73 497,-79 497,-85 497,-85 497,-121 497,-121 497,-127 491,-133 485,-133" />
+<text text-anchor="middle" x="417.5" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Observe and ask</text>
+<text text-anchor="middle" x="417.5" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">questions</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M200,-40C200,-40 21,-40 21,-40 15,-40 9,-34 9,-28 9,-28 9,-12 9,-12 9,-6 15,0 21,0 21,0 200,0 200,0 206,0 212,-6 212,-12 212,-12 212,-28 212,-28 212,-34 206,-40 200,-40" />
+<text text-anchor="middle" x="110.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Relationship</text>
+</g>
+</g>
+</svg>

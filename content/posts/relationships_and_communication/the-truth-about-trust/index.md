@@ -14,14 +14,7 @@ David DeSteno's "The Truth About Trust" delves into the often-misunderstood natu
 
 DeSteno challenges the common belief that trust is the antithesis of fear. Instead, he posits that trust involves a delicate balance between these seemingly opposing emotions.  Fear, he argues, acts as an important warning system, alerting us to potential threats and prompting cautious behavior. However, excessive fear can paralyze action and prevent us from reaping the benefits of cooperation and collaboration.  Conversely, trust, while involving a degree of risk, ultimately allows us to pursue opportunities for mutual gain. This delicate interplay between fear and trust is governed by the brain's emotional centers, particularly the amygdala and the prefrontal cortex.
 
-```mermaid
-graph LR
-    A["Fear (Amygdala)"] --> B(Risk Assessment);
-    C["Trust (Prefrontal Cortex)"] --> B;
-    B --> D{Calculated Risk};
-    D --> E[Cooperation & Mutual Gain];
-    D --> F[Potential Loss/Betrayal];
-```
+![Trust as a Calculated Risk: The Role of Emotions. Fear (Amygdala); Risk Assessment; Trust (Prefrontal Cortex); Calculated Risk; Cooperation & Mutual Gain; Potential Loss/Betrayal.](diagram-01.svg)
 
 #  The Science of Trust: Oxytocin and Social Bonding
 
@@ -48,15 +41,7 @@ When trust is broken, rebuilding it requires an approach. DeSteno outlines strat
 * **Building Transparency:**  Openness and honesty help to address doubts and insecurities, fostering a sense of safety and predictability.
 * **Showing Patience:**  Rebuilding trust takes time and consistent effort.  Patience and understanding are key to restoring the relationship.
 
-```mermaid
-graph LR
-    A[Betrayal] --> B(Understanding Root Cause);
-    B --> C(Taking Responsibility);
-    C --> D(Making Amends);
-    D --> E(Building Transparency);
-    E --> F(Patience & Consistent Effort);
-    F --> G[Rebuilt Trust];
-```
+![Overcoming Mistrust: Addressing Betrayal and Repairing Damaged Relationships. Betrayal; Understanding Root Cause; Taking Responsibility; Making Amends; Building Transparency; Patience & Consistent Effort; Rebuilt Trust.](diagram-02.svg)
 
 #  Trust in Leadership and Organizations:  Creating Trustworthy Environments
 

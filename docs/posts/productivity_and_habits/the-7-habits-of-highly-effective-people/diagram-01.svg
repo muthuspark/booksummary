@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465pt" height="302pt" viewBox="0.00 0.00 465.00 302.00" role="img" aria-labelledby="title description">
+<title id="title">Habit 1: Be Proactive</title><desc id="description">Circle of Concern leads to Things We Worry About. Circle of Concern leads to Things We Can't Control. Circle of Influence leads to Things We Can Control. Circle of Influence leads to Our Actions, Attitudes, Responses.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 284)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-284 447,-284 447,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.82,-79.05C181.27,-80.54 191.04,-82.08 200.83,-83.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.66,-86.07 207.96,-84.74 201.42,-81.23 200.66,-86.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.82,-52.95C191.47,-49.86 212.46,-46.55 232.22,-43.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.62,-45.85 239.16,-42.34 231.86,-41.01 232.62,-45.85" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.04,-223.71C185.48,-225.2 195.18,-226.73 204.86,-228.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.61,-230.7 211.91,-229.36 205.38,-225.85 204.61,-230.7" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.04,-196.29C188.49,-194.33 201.4,-192.29 214.12,-190.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.64,-192.69 221.17,-189.18 213.88,-187.85 214.64,-192.69" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-86C159.5,-86 16.5,-86 16.5,-86 10.5,-86 4.5,-80 4.5,-74 4.5,-74 4.5,-58 4.5,-58 4.5,-52 10.5,-46 16.5,-46 16.5,-46 159.5,-46 159.5,-46 165.5,-46 171.5,-52 171.5,-58 171.5,-58 171.5,-74 171.5,-74 171.5,-80 165.5,-86 159.5,-86" />
+<text text-anchor="middle" x="88" y="-61.6" font-family="Georgia" font-size="18.00" fill="#243d36">Circle of Concern</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M417,-122C417,-122 220,-122 220,-122 214,-122 208,-116 208,-110 208,-110 208,-94 208,-94 208,-88 214,-82 220,-82 220,-82 417,-82 417,-82 423,-82 429,-88 429,-94 429,-94 429,-110 429,-110 429,-116 423,-122 417,-122" />
+<text text-anchor="middle" x="318.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Things We Worry About</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M385.5,-60C385.5,-60 251.5,-60 251.5,-60 245.5,-60 239.5,-54 239.5,-48 239.5,-48 239.5,-12 239.5,-12 239.5,-6 245.5,0 251.5,0 251.5,0 385.5,0 385.5,0 391.5,0 397.5,-6 397.5,-12 397.5,-12 397.5,-48 397.5,-48 397.5,-54 391.5,-60 385.5,-60" />
+<text text-anchor="middle" x="318.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Things We Can't</text>
+<text text-anchor="middle" x="318.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Control</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-230C164,-230 12,-230 12,-230 6,-230 0,-224 0,-218 0,-218 0,-202 0,-202 0,-196 6,-190 12,-190 12,-190 164,-190 164,-190 170,-190 176,-196 176,-202 176,-202 176,-218 176,-218 176,-224 170,-230 164,-230" />
+<text text-anchor="middle" x="88" y="-205.6" font-family="Georgia" font-size="18.00" fill="#243d36">Circle of Influence</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M413,-266C413,-266 224,-266 224,-266 218,-266 212,-260 212,-254 212,-254 212,-238 212,-238 212,-232 218,-226 224,-226 224,-226 413,-226 413,-226 419,-226 425,-232 425,-238 425,-238 425,-254 425,-254 425,-260 419,-266 413,-266" />
+<text text-anchor="middle" x="318.5" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Things We Can Control</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M403.5,-204C403.5,-204 233.5,-204 233.5,-204 227.5,-204 221.5,-198 221.5,-192 221.5,-192 221.5,-156 221.5,-156 221.5,-150 227.5,-144 233.5,-144 233.5,-144 403.5,-144 403.5,-144 409.5,-144 415.5,-150 415.5,-156 415.5,-156 415.5,-192 415.5,-192 415.5,-198 409.5,-204 403.5,-204" />
+<text text-anchor="middle" x="318.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Our Actions,</text>
+<text text-anchor="middle" x="318.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attitudes, Responses</text>
+</g>
+</g>
+</svg>

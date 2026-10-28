@@ -14,29 +14,14 @@ author: "Josh Kaufman"
 
 The book emphasizes the importance of a systematic approach to learning.  This involves identifying your goals, breaking them down into smaller, manageable steps, and consistently working towards them.  It's about becoming a self-directed learner, constantly improving your learning process itself.
 
-```mermaid
-graph LR
-    A[Identify Goals] --> B(Break Down Goals);
-    B --> C{Learn Skills};
-    C --> D[Practice & Feedback];
-    D --> E(Refine & Repeat);
-    E --> A;
-```
+![Systemizing Your Learning: The Learning Process. Identify Goals; Break Down Goals; Learn Skills; Practice & Feedback; Refine & Repeat.](diagram-01.svg)
 
 
 # Identifying Your Strengths and Weaknesses: Self-Assessment
 
 Before embarking on any learning journey, Kaufman stresses the importance of honest self-assessment.  Understand your current skills, identify areas for improvement, and target your learning efforts accordingly.  This involves identifying your strengths, weaknesses, opportunities, and threats (SWOT analysis).
 
-```mermaid
-graph LR
-    A[Strengths] --> B(Weaknesses);
-    C[Opportunities] --> D(Threats);
-    B --> E{Self-Assessment};
-    D --> E;
-    A --> E;
-    C --> E;
-```
+![Identifying Your Strengths and Weaknesses: Self-Assessment. Strengths; Weaknesses; Opportunities; Threats; Self-Assessment.](diagram-02.svg)
 
 
 # Defining Your Goals: Setting Clear Objectives

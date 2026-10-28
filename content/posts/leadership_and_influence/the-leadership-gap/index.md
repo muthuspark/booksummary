@@ -28,14 +28,7 @@ Emotional intelligence (EQ) plays a role. Daskal highlights the importance of un
 * **Social Skills:** Building and maintaining positive relationships.
 
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Emotional Intelligence);
-B --> C{Effective Communication};
-C --> D[Strong Relationships];
-D --> E(Achieving Goals);
-E --> F[Bridging the Leadership Gap];
-```
+![Emotional Intelligence: Navigating the Human Landscape. Self-Awareness; Emotional Intelligence; Effective Communication; Strong Relationships; Achieving Goals; Bridging the Leadership Gap.](diagram-01.svg)
 
 Developing your EQ allows you to build stronger relationships, navigate complex situations with greater ease, and inspire those around you.
 

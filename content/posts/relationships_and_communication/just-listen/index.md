@@ -14,14 +14,7 @@ Mark Goulston's "Just Listen" isn't simply about hearing words; it's a detailed 
 
 Goulston structures his advice around four key pillars, which together form a framework for transformative listening.  These pillars are not independent but interconnected, reinforcing each other to create a powerful approach to communication.
 
-```mermaid
-graph LR
-    A[Empathy] --> B(Understanding);
-    C[Self-Awareness] --> B;
-    D[Patience] --> B;
-    E[Curiosity] --> B;
-    B --> F{Transformative Listening};
-```
+![The Four Pillars of Listening. Empathy; Understanding; Self-Awareness; Patience; Curiosity; Transformative Listening.](diagram-01.svg)
 
 ## Empathy: Stepping into Another's Shoes
 

@@ -16,12 +16,7 @@ Tharp vehemently debunks the romanticized notion of waiting for inspiration to s
 
 It's not about spontaneity; it's about the deliberate act of showing up, day in and day out, ready to work. This routine eliminates procrastination and the debilitating wait for the elusive "muse."
 
-```mermaid
-graph LR
-    A[Procrastination] --> B(Waiting for Inspiration);
-    C[Consistent Routine] --> D(Creative Output);
-    D --> E[Inspiration];
-```
+![The Myth of Inspiration: Embracing Routine. Procrastination; Waiting for Inspiration; Consistent Routine; Creative Output; Inspiration.](diagram-01.svg)
 
 ## The Power of Ritual: Structure for Creativity
 
@@ -78,12 +73,7 @@ Tharp describes the creative process as a cyclical journey involving preparation
 * **Incubation:**  This is the period of rest and reflection, where ideas simmer and mature.
 * **Illumination:** This is the moment of insight, the "aha!" moment when the creative breakthrough occurs. However, it's important to remember that illumination rarely happens without the preceding phases of preparation and incubation.
 
-```mermaid
-graph LR
-    A[Preparation] --> B(Incubation);
-    B --> C(Illumination);
-    C --> A;
-```
+![The Creative Process:  A Cycle of Preparation, Incubation, and Illumination. Preparation; Incubation; Illumination.](diagram-02.svg)
 
 ##  From Habit to Discipline: Mastering the Creative Life
 

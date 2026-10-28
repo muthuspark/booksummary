@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="358pt" height="476pt" viewBox="0.00 0.00 358.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">Practical Application:  Living in the Now</title><desc id="description">Awareness leads to Acceptance. Acceptance leads to Letting Go. Letting Go leads to Present Moment. Present Moment leads to Authenticity. Authenticity leads to Fulfillment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 340,-458 340,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161,-399.87C161,-392.31 161,-383.49 161,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.45,-375.1 161,-368.1 158.55,-375.1 163.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161,-327.87C161,-320.31 161,-311.49 161,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.45,-303.1 161,-296.1 158.55,-303.1 163.45,-303.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161,-255.91C161,-248.58 161,-239.86 161,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.45,-231.07 161,-224.07 158.55,-231.07 163.45,-231.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161,-143.79C161,-135.54 161,-127.04 161,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.45,-119.09 161,-112.09 158.55,-119.09 163.45,-119.09" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161,-71.87C161,-64.31 161,-55.49 161,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.45,-47.1 161,-40.1 158.55,-47.1 163.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M206,-440C206,-440 116,-440 116,-440 110,-440 104,-434 104,-428 104,-428 104,-412 104,-412 104,-406 110,-400 116,-400 116,-400 206,-400 206,-400 212,-400 218,-406 218,-412 218,-412 218,-428 218,-428 218,-434 212,-440 206,-440" />
+<text text-anchor="middle" x="161" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M208.5,-368C208.5,-368 113.5,-368 113.5,-368 107.5,-368 101.5,-362 101.5,-356 101.5,-356 101.5,-340 101.5,-340 101.5,-334 107.5,-328 113.5,-328 113.5,-328 208.5,-328 208.5,-328 214.5,-328 220.5,-334 220.5,-340 220.5,-340 220.5,-356 220.5,-356 220.5,-362 214.5,-368 208.5,-368" />
+<text text-anchor="middle" x="161" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M205,-296C205,-296 117,-296 117,-296 111,-296 105,-290 105,-284 105,-284 105,-268 105,-268 105,-262 111,-256 117,-256 117,-256 205,-256 205,-256 211,-256 217,-262 217,-268 217,-268 217,-284 217,-284 217,-290 211,-296 205,-296" />
+<text text-anchor="middle" x="161" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Letting Go</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="161,-224 0,-184 161,-144 322,-184 161,-224" />
+<text text-anchor="middle" x="161" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M212.5,-112C212.5,-112 109.5,-112 109.5,-112 103.5,-112 97.5,-106 97.5,-100 97.5,-100 97.5,-84 97.5,-84 97.5,-78 103.5,-72 109.5,-72 109.5,-72 212.5,-72 212.5,-72 218.5,-72 224.5,-78 224.5,-84 224.5,-84 224.5,-100 224.5,-100 224.5,-106 218.5,-112 212.5,-112" />
+<text text-anchor="middle" x="161" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Authenticity</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M208,-40C208,-40 114,-40 114,-40 108,-40 102,-34 102,-28 102,-28 102,-12 102,-12 102,-6 108,0 114,0 114,0 208,0 208,0 214,0 220,-6 220,-12 220,-12 220,-28 220,-28 220,-34 214,-40 208,-40" />
+<text text-anchor="middle" x="161" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fulfillment</text>
+</g>
+</g>
+</svg>

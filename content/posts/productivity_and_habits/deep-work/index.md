@@ -31,13 +31,7 @@ This rule focuses on choosing a philosophy of deep work that best suits your per
 
 *   **Journalistic:**  This approach involves deep work whenever you find a suitable opportunity. It's the least structured but can work if you have sufficient self-discipline and can capitalize on unexpected opportunities for focused work.
 
-```mermaid
-graph TD
-    A[Choose a Philosophy] --> B(Monastic);
-    A --> C(Bimodal);
-    A --> D(Rhythmic);
-    A --> E(Journalistic);
-```
+![Rule #1: Work Deeply. Choose a Philosophy; Monastic; Bimodal; Rhythmic; Journalistic.](diagram-01.svg)
 
 
 ### Rule #2: Boredom

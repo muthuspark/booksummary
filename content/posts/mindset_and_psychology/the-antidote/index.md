@@ -14,12 +14,7 @@ Oliver Burkeman's "The Antidote: Happiness for People Who Can't Stand Positive T
 
 A central theme is the illusion of control. We often believe we can plan and optimize our lives to achieve happiness, but this is fundamentally flawed. Burkeman emphasizes the unpredictable nature of life and the futility of attempting to completely eliminate risk and uncertainty. Accepting this unpredictability, rather than fighting it, is a first step towards greater peace of mind.
 
-```mermaid
-graph LR
-    A[Desire for Control] --> B(Frustration & Anxiety);
-    B --> C[Acceptance of Uncertainty];
-    C --> D(Peace of Mind);
-```
+![The Illusion of Control. Desire for Control; Frustration & Anxiety; Acceptance of Uncertainty; Peace of Mind.](diagram-01.svg)
 
 ##  The Power of "Negative Visualization"
 
@@ -41,12 +36,7 @@ Burkeman offers a perspective on procrastination. Instead of viewing it as a cha
 
 The book emphasizes the importance of taking imperfect action.  Perfectionism is a major obstacle to progress, leading to paralysis and missed opportunities.  Burkeman advocates for starting projects even before they are perfectly planned, embracing the learning process, and accepting that setbacks and failures are inevitable parts of growth.
 
-```mermaid
-graph LR
-    A[Perfectionism] --> B(Paralysis & Inaction);
-    B --> C[Imperfect Action];
-    C --> D(Progress & Learning);
-```
+![The Value of Imperfect Action. Perfectionism; Paralysis & Inaction; Imperfect Action; Progress & Learning.](diagram-02.svg)
 
 ##  Cultivating Worry as a Tool
 

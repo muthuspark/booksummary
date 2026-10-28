@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="215pt" height="332pt" viewBox="0.00 0.00 215.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing Key Concepts</title><desc id="description">Plant Agressors (Lectins, Saponins, Phytates) leads to Inflammation. Inflammation leads to Chronic Diseases. Chronic Diseases leads to Accelerated Aging.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 197,-314 197,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-215.79C89.5,-207.54 89.5,-199.04 89.5,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-191.09 89.5,-184.09 87.05,-191.09 91.95,-191.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-143.87C89.5,-136.31 89.5,-127.49 89.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-119.1 89.5,-112.1 87.05,-119.1 91.95,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-71.87C89.5,-64.31 89.5,-55.49 89.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-47.1 89.5,-40.1 87.05,-47.1 91.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-296C167,-296 12,-296 12,-296 6,-296 0,-290 0,-284 0,-284 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 167,-216 167,-216 173,-216 179,-222 179,-228 179,-228 179,-284 179,-284 179,-290 173,-296 167,-296" />
+<text text-anchor="middle" x="89.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Plant Agressors</text>
+<text text-anchor="middle" x="89.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Lectins, Saponins,</text>
+<text text-anchor="middle" x="89.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Phytates)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146.5,-184C146.5,-184 32.5,-184 32.5,-184 26.5,-184 20.5,-178 20.5,-172 20.5,-172 20.5,-156 20.5,-156 20.5,-150 26.5,-144 32.5,-144 32.5,-144 146.5,-144 146.5,-144 152.5,-144 158.5,-150 158.5,-156 158.5,-156 158.5,-172 158.5,-172 158.5,-178 152.5,-184 146.5,-184" />
+<text text-anchor="middle" x="89.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-112C159.5,-112 19.5,-112 19.5,-112 13.5,-112 7.5,-106 7.5,-100 7.5,-100 7.5,-84 7.5,-84 7.5,-78 13.5,-72 19.5,-72 19.5,-72 159.5,-72 159.5,-72 165.5,-72 171.5,-78 171.5,-84 171.5,-84 171.5,-100 171.5,-100 171.5,-106 165.5,-112 159.5,-112" />
+<text text-anchor="middle" x="89.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronic Diseases</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M164,-40C164,-40 15,-40 15,-40 9,-40 3,-34 3,-28 3,-28 3,-12 3,-12 3,-6 9,0 15,0 15,0 164,0 164,0 170,0 176,-6 176,-12 176,-12 176,-28 176,-28 176,-34 170,-40 164,-40" />
+<text text-anchor="middle" x="89.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accelerated Aging</text>
+</g>
+</g>
+</svg>

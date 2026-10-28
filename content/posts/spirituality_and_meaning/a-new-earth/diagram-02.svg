@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581pt" height="164pt" viewBox="0.00 0.00 581.00 164.00" role="img" aria-labelledby="title description">
+<title id="title">Forgiveness</title><desc id="description">Pain-Body leads to Past Hurts (Feeds on). Past Hurts leads to Resentment (Creates). Forgiveness leads to Resentment (Releases). Forgiveness leads to Inner Peace (Leads to).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 146)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-146 563,-146 563,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113.23,-108C141.1,-108 174.94,-108 203.72,-108" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.92,-110.45 210.92,-108 203.92,-105.55 203.92,-110.45" />
+<text text-anchor="middle" x="159.5" y="-113" font-family="Georgia" font-size="15.00" fill="#405b50">Feeds on</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.19,-104.6C351.23,-102.95 383.98,-100.95 412.59,-99.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="412.93,-101.64 419.77,-98.77 412.63,-96.75 412.93,-101.64" />
+<text text-anchor="middle" x="374.5" y="-108" font-family="Georgia" font-size="15.00" fill="#405b50">Creates</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M329.25,-50.68C355.44,-58.31 386.18,-67.25 413.16,-75.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="412.52,-77.47 419.93,-77.08 413.89,-72.77 412.52,-77.47" />
+<text text-anchor="middle" x="374.5" y="-77" font-family="Georgia" font-size="15.00" fill="#405b50">Releases</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M329.35,-21.71C334.63,-21.02 339.9,-20.43 345,-20 367.06,-18.14 391.21,-17.64 412.97,-17.75" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="413.23,-20.2 420.25,-17.81 413.27,-15.3 413.23,-20.2" />
+<text text-anchor="middle" x="374.5" y="-25" font-family="Georgia" font-size="15.00" fill="#405b50">Leads to</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M101,-128C101,-128 12,-128 12,-128 6,-128 0,-122 0,-116 0,-116 0,-100 0,-100 0,-94 6,-88 12,-88 12,-88 101,-88 101,-88 107,-88 113,-94 113,-100 113,-100 113,-116 113,-116 113,-122 107,-128 101,-128" />
+<text text-anchor="middle" x="56.5" y="-103.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pain-Body</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312,-128C312,-128 223,-128 223,-128 217,-128 211,-122 211,-116 211,-116 211,-100 211,-100 211,-94 217,-88 223,-88 223,-88 312,-88 312,-88 318,-88 324,-94 324,-100 324,-100 324,-116 324,-116 324,-122 318,-128 312,-128" />
+<text text-anchor="middle" x="267.5" y="-103.6" font-family="Georgia" font-size="18.00" fill="#243d36">Past Hurts</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M533,-115C533,-115 432,-115 432,-115 426,-115 420,-109 420,-103 420,-103 420,-87 420,-87 420,-81 426,-75 432,-75 432,-75 533,-75 533,-75 539,-75 545,-81 545,-87 545,-87 545,-103 545,-103 545,-109 539,-115 533,-115" />
+<text text-anchor="middle" x="482.5" y="-90.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resentment</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M317,-53C317,-53 218,-53 218,-53 212,-53 206,-47 206,-41 206,-41 206,-25 206,-25 206,-19 212,-13 218,-13 218,-13 317,-13 317,-13 323,-13 329,-19 329,-25 329,-25 329,-41 329,-41 329,-47 323,-53 317,-53" />
+<text text-anchor="middle" x="267.5" y="-28.6" font-family="Georgia" font-size="18.00" fill="#243d36">Forgiveness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M532.5,-40C532.5,-40 432.5,-40 432.5,-40 426.5,-40 420.5,-34 420.5,-28 420.5,-28 420.5,-12 420.5,-12 420.5,-6 426.5,0 432.5,0 432.5,0 532.5,0 532.5,0 538.5,0 544.5,-6 544.5,-12 544.5,-12 544.5,-28 544.5,-28 544.5,-34 538.5,-40 532.5,-40" />
+<text text-anchor="middle" x="482.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Peace</text>
+</g>
+</g>
+</svg>

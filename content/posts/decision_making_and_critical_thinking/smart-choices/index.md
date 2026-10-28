@@ -31,14 +31,7 @@ The book presents a six-step process:
 6. **Implement your choice and monitor results:** Put your decision into action and track its progress. This involves setting milestones, reviewing results, and adapting the strategy based on feedback. It's a step to determine the effectiveness of the chosen path and to make necessary course corrections.
 
 
-```mermaid
-graph TD
-    A[Clarify Goals] --> B(Identify Options);
-    B --> C{Gather Information};
-    C --> D(Analyze Options);
-    D --> E[Make a Choice];
-    E --> F(Implement & Monitor);
-```
+![The Six-Step Process. Clarify Goals; Identify Options; Gather Information; Analyze Options; Make a Choice; Implement & Monitor.](diagram-01.svg)
 
 ### Key Strategies and Techniques
 

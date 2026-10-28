@@ -30,21 +30,7 @@ Effective communication necessitates active listening, far beyond simply hearing
 *   **Clarifying:** Asking questions to ensure you understand the speaker's perspective fully.
 
 
-```mermaid
-graph LR
-    A[Speaker] --> B(Message);
-    B --> C{Listener};
-    C --> D[Paying Attention];
-    C --> E[Withholding Judgment];
-    C --> F[Reflecting Understanding];
-    C --> G[Clarifying];
-    D --> H(Acknowledgement);
-    E --> H;
-    F --> H;
-    G --> H;
-    H --> I(Understanding);
-    I --> J(Empathy);
-```
+![The Power of Active Listening. Speaker; Message; Listener; Paying Attention; Withholding Judgment; Reflecting Understanding; Clarifying; Acknowledgement; Understanding; Empathy.](diagram-01.svg)
 
 This diagram visually represents the active listening process, highlighting the cyclical nature of understanding and empathy.
 
@@ -68,15 +54,7 @@ Disagreements are inevitable in any relationship. The book emphasizes constructi
 * **Evaluate:** Reflect on the process and the outcome.
 
 
-```mermaid
-graph LR
-    A[Identify Issue] --> B(Express Feelings);
-    B --> C(Active Listening);
-    C --> D(Brainstorm Solutions);
-    D --> E(Compromise);
-    E --> F(Evaluate);
-    F --> G[Resolution];
-```
+![Resolving Conflicts Constructively. Identify Issue; Express Feelings; Active Listening; Brainstorm Solutions; Compromise; Evaluate; Resolution.](diagram-02.svg)
 
 This flowchart represents the process of constructive conflict resolution.
 

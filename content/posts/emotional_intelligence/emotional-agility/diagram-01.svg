@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="526pt" height="103pt" viewBox="0.00 0.00 526.00 103.00" role="img" aria-labelledby="title description">
+<title id="title">The Four A's of Emotional Agility</title><desc id="description">Awareness leads to Acceptance. Acceptance leads to Action. Action leads to Access. Access leads to Awareness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 85)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-85 508,-85 508,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114.22,-30.36C122.13,-31.82 130.32,-33.33 138.39,-34.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="138.43,-37.31 145.76,-36.17 139.32,-32.5 138.43,-37.31" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M265.19,-47C273.39,-47 281.71,-47 289.64,-47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="289.79,-49.45 296.79,-47 289.79,-44.55 289.79,-49.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M377.27,-37.4C385.31,-35.44 393.85,-33.35 402.12,-31.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="402.77,-33.7 408.98,-29.66 401.6,-28.94 402.77,-33.7" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M408.81,-17.38C398.46,-16.81 387.32,-16.29 377,-16 274.37,-13.13 248.64,-13.67 146,-16 138.16,-16.18 129.92,-16.45 121.77,-16.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="121.22,-14.33 114.32,-17.06 121.41,-19.23 121.22,-14.33" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M102,-40C102,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 102,0 102,0 108,0 114,-6 114,-12 114,-12 114,-28 114,-28 114,-34 108,-40 102,-40" />
+<text text-anchor="middle" x="57" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M253,-67C253,-67 158,-67 158,-67 152,-67 146,-61 146,-55 146,-55 146,-39 146,-39 146,-33 152,-27 158,-27 158,-27 253,-27 253,-27 259,-27 265,-33 265,-39 265,-39 265,-55 265,-55 265,-61 259,-67 253,-67" />
+<text text-anchor="middle" x="205.5" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M365,-67C365,-67 309,-67 309,-67 303,-67 297,-61 297,-55 297,-55 297,-39 297,-39 297,-33 303,-27 309,-27 309,-27 365,-27 365,-27 371,-27 377,-33 377,-39 377,-39 377,-55 377,-55 377,-61 371,-67 365,-67" />
+<text text-anchor="middle" x="337" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M478,-40C478,-40 421,-40 421,-40 415,-40 409,-34 409,-28 409,-28 409,-12 409,-12 409,-6 415,0 421,0 421,0 478,0 478,0 484,0 490,-6 490,-12 490,-12 490,-28 490,-28 490,-34 484,-40 478,-40" />
+<text text-anchor="middle" x="449.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Access</text>
+</g>
+</g>
+</svg>

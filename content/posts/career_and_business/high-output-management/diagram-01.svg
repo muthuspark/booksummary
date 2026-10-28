@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790pt" height="616pt" viewBox="0.00 0.00 790.00 616.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Time Effectively</title><desc id="description">Task leads to Urgent &amp; Important?. Urgent &amp; Important? leads to Do it immediately (Yes). Urgent &amp; Important? leads to Important but not Urgent? (No). Important but not Urgent? leads to Schedule it (Yes). Important but not Urgent? leads to Urgent but not Important? (No). Urgent but not Important? leads to Delegate it (Yes). Urgent but not Important? leads to Eliminate it (No).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 598)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-598 772,-598 772,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-539.7C196,-532.21 196,-523.28 196,-514.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-514.13 196,-507.13 193.55,-514.13 198.45,-514.13" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M189.56,-428.14C185.15,-402.2 179.41,-368.43 175.49,-345.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.87,-344.78 174.28,-338.29 173.04,-345.6 177.87,-344.78" />
+<text text-anchor="middle" x="199" y="-399" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M246.08,-437.13C284.51,-414.98 338.05,-384.12 380.76,-359.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="382.14,-361.52 386.98,-355.91 379.69,-357.28 382.14,-361.52" />
+<text text-anchor="middle" x="326" y="-399" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M429.24,-265.08C416.82,-235.45 401.79,-199.6 391.84,-175.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="394.02,-174.72 389.05,-169.21 389.5,-176.62 394.02,-174.72" />
+<text text-anchor="middle" x="431" y="-230" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M493.07,-272.25C514.69,-249.25 541.04,-221.22 563.06,-197.8" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="564.97,-199.35 567.98,-192.57 561.4,-196 564.97,-199.35" />
+<text text-anchor="middle" x="545" y="-230" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M581.34,-99.62C571.33,-81.47 560.36,-61.56 551.96,-46.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="554.05,-45.04 548.52,-40.09 549.76,-47.41 554.05,-45.04" />
+<text text-anchor="middle" x="577" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M634.66,-99.62C644.67,-81.47 655.64,-61.56 664.04,-46.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="666.24,-47.41 667.48,-40.09 661.95,-45.04 666.24,-47.41" />
+<text text-anchor="middle" x="667" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M217,-580C217,-580 175,-580 175,-580 169,-580 163,-574 163,-568 163,-568 163,-552 163,-552 163,-546 169,-540 175,-540 175,-540 217,-540 217,-540 223,-540 229,-546 229,-552 229,-552 229,-568 229,-568 229,-574 223,-580 217,-580" />
+<text text-anchor="middle" x="196" y="-555.6" font-family="Georgia" font-size="18.00" fill="#243d36">Task</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="196,-507 0,-467 196,-427 392,-467 196,-507" />
+<text text-anchor="middle" x="196" y="-462.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent &amp; Important?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M245,-338C245,-338 97,-338 97,-338 91,-338 85,-332 85,-326 85,-326 85,-310 85,-310 85,-304 91,-298 97,-298 97,-298 245,-298 245,-298 251,-298 257,-304 257,-310 257,-310 257,-326 257,-326 257,-332 251,-338 245,-338" />
+<text text-anchor="middle" x="171" y="-313.6" font-family="Georgia" font-size="18.00" fill="#243d36">Do it immediately</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="451,-378 279,-318 451,-258 623,-318 451,-378" />
+<text text-anchor="middle" x="451" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important but not</text>
+<text text-anchor="middle" x="451" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent?</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M427.5,-169C427.5,-169 334.5,-169 334.5,-169 328.5,-169 322.5,-163 322.5,-157 322.5,-157 322.5,-141 322.5,-141 322.5,-135 328.5,-129 334.5,-129 334.5,-129 427.5,-129 427.5,-129 433.5,-129 439.5,-135 439.5,-141 439.5,-141 439.5,-157 439.5,-157 439.5,-163 433.5,-169 427.5,-169" />
+<text text-anchor="middle" x="381" y="-144.6" font-family="Georgia" font-size="18.00" fill="#243d36">Schedule it</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="608,-209 462,-149 608,-89 754,-149 608,-209" />
+<text text-anchor="middle" x="608" y="-154.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent but not</text>
+<text text-anchor="middle" x="608" y="-134.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important?</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M583,-40C583,-40 493,-40 493,-40 487,-40 481,-34 481,-28 481,-28 481,-12 481,-12 481,-6 487,0 493,0 493,0 583,0 583,0 589,0 595,-6 595,-12 595,-12 595,-28 595,-28 595,-34 589,-40 583,-40" />
+<text text-anchor="middle" x="538" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Delegate it</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M727,-40C727,-40 629,-40 629,-40 623,-40 617,-34 617,-28 617,-28 617,-12 617,-12 617,-6 623,0 629,0 629,0 727,0 727,0 733,0 739,-6 739,-12 739,-12 739,-28 739,-28 739,-34 733,-40 727,-40" />
+<text text-anchor="middle" x="678" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eliminate it</text>
+</g>
+</g>
+</svg>

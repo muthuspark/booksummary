@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="378pt" height="424pt" viewBox="0.00 0.00 378.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Spending Habits</title><desc id="description">Track Expenses leads to Analyze Spending. Analyze Spending leads to Identify Areas for Cuts. Identify Areas for Cuts leads to Adjust Budget. Adjust Budget leads to Monitor Progress.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 360,-406 360,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-347.91C171,-340.58 171,-331.86 171,-323.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-323.07 171,-316.07 168.55,-323.07 173.45,-323.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-235.76C171,-227.72 171,-219.29 171,-211.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-211.23 171,-204.23 168.55,-211.23 173.45,-211.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-143.67C171,-135.77 171,-127.28 171,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-119.12 171,-112.12 168.55,-119.12 173.45,-119.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-71.87C171,-64.31 171,-55.49 171,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-47.1 171,-40.1 168.55,-47.1 173.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M236,-388C236,-388 106,-388 106,-388 100,-388 94,-382 94,-376 94,-376 94,-360 94,-360 94,-354 100,-348 106,-348 106,-348 236,-348 236,-348 242,-348 248,-354 248,-360 248,-360 248,-376 248,-376 248,-382 242,-388 236,-388" />
+<text text-anchor="middle" x="171" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Track Expenses</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="171,-316 0,-276 171,-236 342,-276 171,-316" />
+<text text-anchor="middle" x="171" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analyze Spending</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M243.5,-204C243.5,-204 98.5,-204 98.5,-204 92.5,-204 86.5,-198 86.5,-192 86.5,-192 86.5,-156 86.5,-156 86.5,-150 92.5,-144 98.5,-144 98.5,-144 243.5,-144 243.5,-144 249.5,-144 255.5,-150 255.5,-156 255.5,-156 255.5,-192 255.5,-192 255.5,-198 249.5,-204 243.5,-204" />
+<text text-anchor="middle" x="171" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Areas for</text>
+<text text-anchor="middle" x="171" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cuts</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M230,-112C230,-112 112,-112 112,-112 106,-112 100,-106 100,-100 100,-100 100,-84 100,-84 100,-78 106,-72 112,-72 112,-72 230,-72 230,-72 236,-72 242,-78 242,-84 242,-84 242,-100 242,-100 242,-106 236,-112 230,-112" />
+<text text-anchor="middle" x="171" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjust Budget</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M242.5,-40C242.5,-40 99.5,-40 99.5,-40 93.5,-40 87.5,-34 87.5,-28 87.5,-28 87.5,-12 87.5,-12 87.5,-6 93.5,0 99.5,0 99.5,0 242.5,0 242.5,0 248.5,0 254.5,-6 254.5,-12 254.5,-12 254.5,-28 254.5,-28 254.5,-34 248.5,-40 242.5,-40" />
+<text text-anchor="middle" x="171" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Monitor Progress</text>
+</g>
+</g>
+</svg>

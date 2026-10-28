@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="672pt" height="352pt" viewBox="0.00 0.00 672.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Shifting from Technology-Push to Meaning-Pull Innovation</title><desc id="description">Technology-Push leads to Technological Advancements. Technological Advancements leads to Market Search. Market Search leads to Potential Adoption. Meaning-Pull leads to Unmet Needs. Unmet Needs leads to Design Solutions. Design Solutions leads to Meaningful Adoption.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 654,-334 654,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145,-275.63C145,-268.34 145,-259.78 145,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="147.45,-251.19 145,-244.19 142.55,-251.19 147.45,-251.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145,-183.81C145,-176.06 145,-167.5 145,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="147.45,-159.09 145,-152.09 142.55,-159.09 147.45,-159.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145,-71.79C145,-63.54 145,-55.04 145,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="147.45,-47.09 145,-40.09 142.55,-47.09 147.45,-47.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M474,-275.63C474,-265.32 474,-252.48 474,-241.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="476.45,-241.19 474,-234.19 471.55,-241.19 476.45,-241.19" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M474,-193.72C474,-183.85 474,-171.38 474,-159.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="476.45,-159.09 474,-152.09 471.55,-159.09 476.45,-159.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M474,-71.79C474,-63.54 474,-55.04 474,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="476.45,-47.09 474,-40.09 471.55,-47.09 476.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M216.5,-316C216.5,-316 73.5,-316 73.5,-316 67.5,-316 61.5,-310 61.5,-304 61.5,-304 61.5,-288 61.5,-288 61.5,-282 67.5,-276 73.5,-276 73.5,-276 216.5,-276 216.5,-276 222.5,-276 228.5,-282 228.5,-288 228.5,-288 228.5,-304 228.5,-304 228.5,-310 222.5,-316 216.5,-316" />
+<text text-anchor="middle" x="145" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Technology-Push</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M206,-244C206,-244 84,-244 84,-244 78,-244 72,-238 72,-232 72,-232 72,-196 72,-196 72,-190 78,-184 84,-184 84,-184 206,-184 206,-184 212,-184 218,-190 218,-196 218,-196 218,-232 218,-232 218,-238 212,-244 206,-244" />
+<text text-anchor="middle" x="145" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Technological</text>
+<text text-anchor="middle" x="145" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Advancements</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="145,-152 0,-112 145,-72 290,-112 145,-152" />
+<text text-anchor="middle" x="145" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Market Search</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M222.5,-40C222.5,-40 67.5,-40 67.5,-40 61.5,-40 55.5,-34 55.5,-28 55.5,-28 55.5,-12 55.5,-12 55.5,-6 61.5,0 67.5,0 67.5,0 222.5,0 222.5,0 228.5,0 234.5,-6 234.5,-12 234.5,-12 234.5,-28 234.5,-28 234.5,-34 228.5,-40 222.5,-40" />
+<text text-anchor="middle" x="145" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Potential Adoption</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M530.5,-316C530.5,-316 417.5,-316 417.5,-316 411.5,-316 405.5,-310 405.5,-304 405.5,-304 405.5,-288 405.5,-288 405.5,-282 411.5,-276 417.5,-276 417.5,-276 530.5,-276 530.5,-276 536.5,-276 542.5,-282 542.5,-288 542.5,-288 542.5,-304 542.5,-304 542.5,-310 536.5,-316 530.5,-316" />
+<text text-anchor="middle" x="474" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaning-Pull</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M530.5,-234C530.5,-234 417.5,-234 417.5,-234 411.5,-234 405.5,-228 405.5,-222 405.5,-222 405.5,-206 405.5,-206 405.5,-200 411.5,-194 417.5,-194 417.5,-194 530.5,-194 530.5,-194 536.5,-194 542.5,-200 542.5,-206 542.5,-206 542.5,-222 542.5,-222 542.5,-228 536.5,-234 530.5,-234" />
+<text text-anchor="middle" x="474" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unmet Needs</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="474,-152 312,-112 474,-72 636,-112 474,-152" />
+<text text-anchor="middle" x="474" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Design Solutions</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M561.5,-40C561.5,-40 386.5,-40 386.5,-40 380.5,-40 374.5,-34 374.5,-28 374.5,-28 374.5,-12 374.5,-12 374.5,-6 380.5,0 386.5,0 386.5,0 561.5,0 561.5,0 567.5,0 573.5,-6 573.5,-12 573.5,-12 573.5,-28 573.5,-28 573.5,-34 567.5,-40 561.5,-40" />
+<text text-anchor="middle" x="474" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Adoption</text>
+</g>
+</g>
+</svg>

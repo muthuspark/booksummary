@@ -15,15 +15,7 @@ Daniel Goleman's "Social Intelligence" delves into the role of social skills in 
 Goleman identifies many key components that contribute to strong social intelligence. These aren't isolated skills but rather interconnected elements that work together to enable effective social functioning.
 
 
-```mermaid
-graph LR
-    A[Social Intelligence] --> B(Empathy);
-    A --> C(Social Awareness);
-    A --> D(Self-Awareness);
-    A --> E(Self-Management);
-    A --> F(Relationship Management);
-    
-```
+![The Core Components of Social Intelligence. Social Intelligence; Empathy; Social Awareness; Self-Awareness; Self-Management; Relationship Management.](diagram-01.svg)
 
 * **Empathy:**  The ability to understand and share the feelings of others. This goes beyond simply recognizing emotions; it involves actively listening, perspective-taking, and responding appropriately to others' emotional states.
 

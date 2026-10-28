@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592pt" height="386pt" viewBox="0.00 0.00 592.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">Decomposition: The Art of Breaking Down Problems</title><desc id="description">Large Problem leads to Sub-problem 1. Large Problem leads to Sub-problem 2. Large Problem leads to Sub-problem 3. Sub-problem 1 leads to Smaller Sub-problem. Sub-problem 1 leads to Smaller Sub-problem. Sub-problem 2 leads to Smaller Sub-problem. Sub-problem 2 leads to Smaller Sub-problem. Sub-problem 3 leads to Smaller Sub-problem. Sub-problem 3 leads to Smaller Sub-problem.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 574,-368 574,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.3,-195.18C139.82,-209.68 177.01,-229.28 205.88,-244.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.94,-246.76 212.28,-247.86 207.23,-242.43 204.94,-246.76" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.04,-175C154.07,-175 162.28,-175 170.4,-175" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.83,-177.45 177.83,-175 170.83,-172.55 170.83,-177.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.3,-154.82C139.82,-140.32 177.01,-120.72 205.88,-105.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="207.23,-107.57 212.28,-102.14 204.94,-103.24 207.23,-107.57" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.13,-288.04C338.82,-294.37 361.8,-301.38 382.95,-307.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="382.34,-310.22 389.75,-309.92 383.77,-305.53 382.34,-310.22" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.07,-268C332.36,-268 340.95,-268 349.58,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="349.83,-270.45 356.83,-268 349.83,-265.55 349.83,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325.21,-186.1C333.21,-187.33 341.47,-188.59 349.77,-189.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="349.45,-192.28 356.74,-190.92 350.19,-187.44 349.45,-192.28" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325.21,-163.9C333.21,-162.67 341.47,-161.41 349.77,-160.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="350.19,-162.56 356.74,-159.08 349.45,-157.72 350.19,-162.56" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325.21,-82C333.05,-82 341.14,-82 349.27,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="349.74,-84.45 356.74,-82 349.74,-79.55 349.74,-84.45" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.13,-61.96C338.82,-55.63 361.8,-48.62 382.95,-42.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="383.77,-44.47 389.75,-40.08 382.34,-39.78 383.77,-44.47" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134,-195C134,-195 12,-195 12,-195 6,-195 0,-189 0,-183 0,-183 0,-167 0,-167 0,-161 6,-155 12,-155 12,-155 134,-155 134,-155 140,-155 146,-161 146,-167 146,-167 146,-183 146,-183 146,-189 140,-195 134,-195" />
+<text text-anchor="middle" x="73" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Large Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312,-288C312,-288 191,-288 191,-288 185,-288 179,-282 179,-276 179,-276 179,-260 179,-260 179,-254 185,-248 191,-248 191,-248 312,-248 312,-248 318,-248 324,-254 324,-260 324,-260 324,-276 324,-276 324,-282 318,-288 312,-288" />
+<text text-anchor="middle" x="251.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-problem 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313,-195C313,-195 190,-195 190,-195 184,-195 178,-189 178,-183 178,-183 178,-167 178,-167 178,-161 184,-155 190,-155 190,-155 313,-155 313,-155 319,-155 325,-161 325,-167 325,-167 325,-183 325,-183 325,-189 319,-195 313,-195" />
+<text text-anchor="middle" x="251.5" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-problem 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313,-102C313,-102 190,-102 190,-102 184,-102 178,-96 178,-90 178,-90 178,-74 178,-74 178,-68 184,-62 190,-62 190,-62 313,-62 313,-62 319,-62 325,-68 325,-74 325,-74 325,-90 325,-90 325,-96 319,-102 313,-102" />
+<text text-anchor="middle" x="251.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-problem 3</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M544,-350C544,-350 369,-350 369,-350 363,-350 357,-344 357,-338 357,-338 357,-322 357,-322 357,-316 363,-310 369,-310 369,-310 544,-310 544,-310 550,-310 556,-316 556,-322 556,-322 556,-338 556,-338 556,-344 550,-350 544,-350" />
+<text text-anchor="middle" x="456.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Sub-problem</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M544,-288C544,-288 369,-288 369,-288 363,-288 357,-282 357,-276 357,-276 357,-260 357,-260 357,-254 363,-248 369,-248 369,-248 544,-248 544,-248 550,-248 556,-254 556,-260 556,-260 556,-276 556,-276 556,-282 550,-288 544,-288" />
+<text text-anchor="middle" x="456.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Sub-problem</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M544,-226C544,-226 369,-226 369,-226 363,-226 357,-220 357,-214 357,-214 357,-198 357,-198 357,-192 363,-186 369,-186 369,-186 544,-186 544,-186 550,-186 556,-192 556,-198 556,-198 556,-214 556,-214 556,-220 550,-226 544,-226" />
+<text text-anchor="middle" x="456.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Sub-problem</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M544,-164C544,-164 369,-164 369,-164 363,-164 357,-158 357,-152 357,-152 357,-136 357,-136 357,-130 363,-124 369,-124 369,-124 544,-124 544,-124 550,-124 556,-130 556,-136 556,-136 556,-152 556,-152 556,-158 550,-164 544,-164" />
+<text text-anchor="middle" x="456.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Sub-problem</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M544,-102C544,-102 369,-102 369,-102 363,-102 357,-96 357,-90 357,-90 357,-74 357,-74 357,-68 363,-62 369,-62 369,-62 544,-62 544,-62 550,-62 556,-68 556,-74 556,-74 556,-90 556,-90 556,-96 550,-102 544,-102" />
+<text text-anchor="middle" x="456.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Sub-problem</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M544,-40C544,-40 369,-40 369,-40 363,-40 357,-34 357,-28 357,-28 357,-12 357,-12 357,-6 363,0 369,0 369,0 544,0 544,0 550,0 556,-6 556,-12 556,-12 556,-28 556,-28 556,-34 550,-40 544,-40" />
+<text text-anchor="middle" x="456.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Sub-problem</text>
+</g>
+</g>
+</svg>

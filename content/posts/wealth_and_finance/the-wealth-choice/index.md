@@ -14,14 +14,7 @@ Dennis Kimbro's "The Wealth Choice" isn't just about accumulating money; it's a 
 
 Kimbro begins by urging readers to confront their beliefs and attitudes towards money. Many people, he argues, carry limiting beliefs inherited from their upbringing or societal conditioning. These beliefs, often unconscious, can sabotage financial success. He encourages introspection and identifying any negative or limiting beliefs about money, wealth, or rich people. This self-assessment is for creating a positive and productive relationship with finances.
 
-```mermaid
-graph LR
-    A[Limiting Beliefs] --> B(Negative Attitudes);
-    B --> C{Financial Sabotage};
-    D[Self-Assessment] --> E(Identify Limiting Beliefs);
-    E --> F[Positive Mindset];
-    F --> G(Financial Success);
-```
+![Understanding Your Relationship with Money. Limiting Beliefs; Negative Attitudes; Financial Sabotage; Self-Assessment; Identify Limiting Beliefs; Positive Mindset; Financial Success.](diagram-01.svg)
 
 ## The Importance of Goal Setting and Vision
 

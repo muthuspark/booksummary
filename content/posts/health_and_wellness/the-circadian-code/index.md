@@ -15,13 +15,7 @@ The Circadian Code by Satchin Panda unveils the power of aligning our lives with
 
 A cornerstone of Panda's approach is Time-Restricted Feeding (TRF), also known as intermittent fasting. This involves confining your eating window to a specific period each day, such as 8 hours, while fasting for the remaining 16. He doesn't advocate for specific calorie restriction but rather for *when* you eat. The key benefit is allowing your body sufficient time for cellular repair and rejuvenation during the fasting period. This metabolic "reset" is shown to improve insulin sensitivity, reduce inflammation, and improve weight loss.
 
-```mermaid
-graph LR
-A[Eat] --> B{8-hour Eating Window};
-B --> C[Fast];
-C --> D{16-hour Fasting Window};
-D --> A;
-```
+![The Power of Time-Restricted Feeding (TRF). Eat; 8-hour Eating Window; Fast; 16-hour Fasting Window.](diagram-01.svg)
 
 **Key takeaway:**  Experiment to find an eating window that suits your lifestyle and preferences.  Start gradually and listen to your body.
 

@@ -21,13 +21,7 @@ The four tendencies are:
 * **Rebels:** Resist all expectations, whether inner or outer. They prefer to do what they want, when they want, and often see rules as restrictions.
 
 
-```mermaid
-graph LR
-    A[Upholders] --> B(Inner & Outer Expectations)
-    C[Obligers] --> D(Outer Expectations)
-    E[Questioners] --> F(Meaningful Expectations)
-    G[Rebels] --> H(No Expectations)
-```
+![Understanding Your Tendencies: The Four Tendencies Framework. Upholders; Inner & Outer Expectations; Obligers; Outer Expectations; Questioners; Meaningful Expectations; Rebels; No Expectations.](diagram-01.svg)
 
 Identifying your Tendency is the first step toward personal improvement, as strategies for success vary across these groups.
 

@@ -27,15 +27,7 @@ A significant theme in the book is the importance of compassion and empathy in a
 
 The book offers practical strategies for managing difficult emotions like anger, fear, and anxiety.  The key is to understand these emotions without judgment, their underlying causes, and develop techniques to regulate them.  Mindfulness meditation is presented as a powerful tool for observing emotions without being overwhelmed by them.  Other techniques include deep breathing exercises, cultivating positive emotions like love and gratitude, and practicing forgiveness – both of ourselves and others.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Mindfulness);
-A --> C(Self-Reflection);
-B --> D{Emotional Regulation};
-C --> D;
-D --> E[Inner Peace];
-E --> F(Happiness);
-```
+![Managing Emotions: Techniques for Inner Harmony. Self-Awareness; Mindfulness; Self-Reflection; Emotional Regulation; Inner Peace; Happiness.](diagram-01.svg)
 
 ## The Role of Relationships: Connecting with Others
 
@@ -61,14 +53,7 @@ The Dalai Lama and Cutler don't just present theoretical concepts; they offer pr
 
 The book transcends the purely personal pursuit of happiness, linking it to ethical considerations and social responsibility.  The Dalai Lama emphasizes the importance of acting with integrity, compassion, and respect for all beings.  He advocates for a commitment to peace, justice, and environmental sustainability, arguing that true happiness cannot be achieved in isolation but requires a commitment to the well-being of the broader community and the planet.
 
-```mermaid
-graph LR
-A[Inner Peace] --> B(Compassion);
-B --> C(Ethics);
-C --> D(Social Responsibility);
-D --> E[Meaningful Life];
-E --> F(Happiness);
-```
+![Beyond Happiness: The Importance of Ethics and Responsibility. Inner Peace; Compassion; Ethics; Social Responsibility; Meaningful Life; Happiness.](diagram-02.svg)
 
 ## The Ongoing Journey of Happiness
 

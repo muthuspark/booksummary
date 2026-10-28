@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="544pt" height="158pt" viewBox="0.00 0.00 544.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">Mindfulness and Emotional Regulation</title><desc id="description">Stimulus leads to Amygdala. Amygdala leads to Fear Response. Prefrontal Cortex (PFC) - Mindfulness leads to Amygdala. Prefrontal Cortex (PFC) - Mindfulness leads to Fear Response (dashed connection).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 526,-140 526,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.91,-97.08C166.4,-94.92 191.84,-92.36 214.5,-90.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.03,-92.49 221.75,-89.35 214.54,-87.62 215.03,-92.49" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M330.15,-74.86C338.15,-73.48 346.53,-72.04 354.92,-70.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="355.49,-72.99 361.97,-69.39 354.65,-68.16 355.49,-72.99" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M190.22,-58.42C198.47,-60.91 206.67,-63.39 214.54,-65.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.25,-68.23 221.66,-67.91 215.66,-63.54 214.25,-68.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M190.15,-37.52C241.91,-41.66 305.4,-46.73 354.63,-50.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="354.61,-53.12 361.78,-51.23 355,-48.23 354.61,-53.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M132.5,-122C132.5,-122 57.5,-122 57.5,-122 51.5,-122 45.5,-116 45.5,-110 45.5,-110 45.5,-94 45.5,-94 45.5,-88 51.5,-82 57.5,-82 57.5,-82 132.5,-82 132.5,-82 138.5,-82 144.5,-88 144.5,-94 144.5,-94 144.5,-110 144.5,-110 144.5,-116 138.5,-122 132.5,-122" />
+<text text-anchor="middle" x="95" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stimulus</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M318,-104C318,-104 234,-104 234,-104 228,-104 222,-98 222,-92 222,-92 222,-76 222,-76 222,-70 228,-64 234,-64 234,-64 318,-64 318,-64 324,-64 330,-70 330,-76 330,-76 330,-92 330,-92 330,-98 324,-104 318,-104" />
+<text text-anchor="middle" x="276" y="-79.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M496,-77C496,-77 374,-77 374,-77 368,-77 362,-71 362,-65 362,-65 362,-49 362,-49 362,-43 368,-37 374,-37 374,-37 496,-37 496,-37 502,-37 508,-43 508,-49 508,-49 508,-65 508,-65 508,-71 502,-77 496,-77" />
+<text text-anchor="middle" x="435" y="-52.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear Response</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M178,-60C178,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 178,0 178,0 184,0 190,-6 190,-12 190,-12 190,-48 190,-48 190,-54 184,-60 178,-60" />
+<text text-anchor="middle" x="95" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prefrontal Cortex</text>
+<text text-anchor="middle" x="95" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">(PFC) - Mindfulness</text>
+</g>
+</g>
+</svg>

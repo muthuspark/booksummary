@@ -17,13 +17,7 @@ Effective goal setting is for achieving desired outcomes. The book advocates for
 * **Key elements:**  Specific, measurable, achievable, relevant, time-bound (SMART) goals.
 * **Actionable insight:** Write down your goals in a concise, clear way, review them daily to stay focused, and adjust as needed.
 
-```mermaid
-graph LR
-    A[Define Goals] --> B(Write Down);
-    B --> C{Review Daily};
-    C --> D[Achieve Goals];
-    C --> E[Adjust as Needed];
-```
+![One-Minute Goal Setting: Defining Success. Define Goals; Write Down; Review Daily; Achieve Goals; Adjust as Needed.](diagram-01.svg)
 
 
 # One-Minute Praising:  Reinforcing Positive Behavior
@@ -33,13 +27,7 @@ Positive reinforcement is a powerful tool for motivation.  The One-Minute Praisi
 * **Key elements:**  Specificity, immediacy, genuine expression of positive feelings.
 * **Actionable insight:**  Actively look for positive behaviors, praise immediately and specifically, connect praise to positive emotions.
 
-```mermaid
-graph LR
-    A[Observe Positive Behavior] --> B(Praise Immediately);
-    B --> C[Be Specific];
-    C --> D{Express Positive Emotions};
-    D --> E[Reinforce Behavior];
-```
+![One-Minute Praising:  Reinforcing Positive Behavior. Observe Positive Behavior; Praise Immediately; Be Specific; Express Positive Emotions; Reinforce Behavior.](diagram-02.svg)
 
 # One-Minute Reprimanding: Constructive Feedback
 
@@ -48,14 +36,7 @@ Constructive criticism is important for personal and professional development. T
 * **Key elements:**  Specificity, immediacy, focus on behavior, not personality.
 * **Actionable insight:**  Address issues promptly and directly, focusing on the specific behavior, not labeling the individual. Reiterate expectations and express confidence in improvement.
 
-```mermaid
-graph LR
-    A[Identify Undesirable Behavior] --> B(Address Immediately);
-    B --> C[Be Specific];
-    C --> D{Focus on Behavior, Not Personality};
-    D --> E[Reiterate Expectations];
-    E --> F[Express Confidence in Improvement];
-```
+![One-Minute Reprimanding: Constructive Feedback. Identify Undesirable Behavior; Address Immediately; Be Specific; Focus on Behavior, Not Personality; Reiterate Expectations; Express Confidence in Improvement.](diagram-03.svg)
 
 # Managing Your Time Effectively: Prioritization and Focus
 
@@ -64,13 +45,7 @@ Effective time management is for achieving goals and reducing stress. The book d
 * **Key element:**  Prioritization based on goal alignment.
 * **Actionable insight:**  Schedule time for high-priority tasks aligned with your goals and minimize distractions.
 
-```mermaid
-graph LR
-    A[Set Clear Goals] --> B(Prioritize Tasks);
-    B --> C{Allocate Time};
-    C --> D[Minimize Distractions];
-    D --> E[Achieve Goals];
-```
+![Managing Your Time Effectively: Prioritization and Focus. Set Clear Goals; Prioritize Tasks; Allocate Time; Minimize Distractions; Achieve Goals.](diagram-04.svg)
 
 
 # Delegation and Empowerment: Building a High-Performing Team (or Self)
@@ -81,14 +56,7 @@ The principles of the One-Minute Manager extend beyond individual improvement. T
 * **Actionable insight:**  Delegate tasks effectively, provide support and encouragement, and trust team members (or yourself) to achieve the objectives.
 
 
-```mermaid
-graph LR
-    A[Define Clear Expectations] --> B(Delegate Tasks);
-    B --> C[Provide Support & Encouragement];
-    C --> D{Trust Team Members};
-    D --> E[Effective Feedback];
-    E --> F[High-Performing Team/Self];
-```
+![Delegation and Empowerment: Building a High-Performing Team (or Self). Define Clear Expectations; Delegate Tasks; Provide Support & Encouragement; Trust Team Members; Effective Feedback; High-Performing Team/Self.](diagram-05.svg)
 
 
 # Building Relationships: Communication and Trust
@@ -106,13 +74,7 @@ The One-Minute Manager doesn't present a one-time solution but rather a continuo
 * **Key element:**  Continuous self-reflection and adaptation.
 * **Actionable insight:** Regularly review goals, reflect on successes and challenges, and adjust your approach as needed to maintain continuous improvement.
 
-```mermaid
-graph LR
-    A[Set Goals] --> B(One-Minute Praising);
-    B --> C(One-Minute Reprimanding);
-    C --> D(Review & Reflect);
-    D --> A;
-```
+![Continuous Improvement:  The Ongoing Process. Set Goals; One-Minute Praising; One-Minute Reprimanding; Review & Reflect.](diagram-06.svg)
 
 
 # Stress Management and Well-being: A Detailed Approach

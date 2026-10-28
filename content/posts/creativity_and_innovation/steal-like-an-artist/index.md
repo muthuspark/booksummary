@@ -15,13 +15,7 @@ Austin Kleon's "Steal Like an Artist" isn't about plagiarism. It's a manifesto f
 
 The book strongly emphasizes the importance of sharing your creative process.  Hiding your work prevents feedback, connection with others, and the potential for collaboration and growth.  
 
-```mermaid
-graph LR
-A[Create] --> B{Share};
-B -- Feedback --> C[Improve];
-B -- Connections --> D[Community];
-B -- Opportunities --> E[Growth];
-```
+![Show Your Work. Create; Share; Improve; Community; Growth.](diagram-01.svg)
 
 Showing your work doesn't require perfection. It's about putting yourself out there, even if it feels vulnerable.  The act of sharing encourages engagement and helps you refine your craft through constructive criticism and unexpected opportunities.  Think blogs, social media, portfolio websites – any platform that allows you to expose your work.
 
@@ -30,13 +24,7 @@ Showing your work doesn't require perfection. It's about putting yourself out th
 
 Kleon encourages active imitation as a critical learning tool.  Don't just passively admire the work of others; actively copy it.  This isn't about creating exact replicas but about understanding the underlying techniques, styles, and approaches.
 
-```mermaid
-graph LR
-A[Identify] --> B[Copy];
-B --> C[Analyze];
-C --> D[Adapt];
-D --> E[Innovate];
-```
+![Copy What You Love. Identify; Copy; Analyze; Adapt; Innovate.](diagram-02.svg)
 
 By copying, you internalize the principles of the work you admire. Analyzing your copies helps you understand *why* something works. Eventually, you'll innovate, forging your own style while acknowledging your influences. This process fosters a deeper understanding of your own creative inclinations.
 

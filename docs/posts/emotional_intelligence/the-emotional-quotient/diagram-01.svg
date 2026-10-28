@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="674pt" height="157pt" viewBox="0.00 0.00 674.00 157.47" role="img" aria-labelledby="title description">
+<title id="title">The Interplay of the Five Pillars</title><desc id="description">Self-Awareness leads to Self-Regulation. Self-Awareness leads to Motivation. Self-Regulation leads to Empathy. Motivation leads to Social Skills. Empathy leads to Social Skills. Social Skills leads to Self-Awareness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 139.47)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-139.47 656,-139.47 656,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139.22,-59.51C155.09,-64.58 172.22,-70.05 188.41,-75.23" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.87,-77.63 195.28,-77.42 189.36,-72.96 187.87,-77.63" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151.05,-39.47C213.14,-39.47 300.65,-39.47 359.7,-39.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="359.76,-41.92 366.76,-39.47 359.76,-37.02 359.76,-41.92" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M335.28,-99.3C346.09,-99.57 357.06,-99.83 367.42,-100.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="367.43,-102.54 374.49,-100.26 367.55,-97.64 367.43,-102.54" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M483.37,-39.47C491.19,-39.47 499.28,-39.47 507.26,-39.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="507.56,-41.92 514.56,-39.47 507.56,-37.02 507.56,-41.92" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M474.54,-81.34C489.18,-75.27 505.35,-68.56 520.39,-62.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="521.68,-64.44 527.21,-59.49 519.8,-59.91 521.68,-64.44" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M525.36,-19.39C511.83,-14.88 497.04,-10.76 483,-8.47 371.46,9.73 240.91,-6.84 158.46,-21.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="157.57,-19.55 151.13,-23.23 158.46,-24.37 157.57,-19.55" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M139,-59.47C139,-59.47 12,-59.47 12,-59.47 6,-59.47 0,-53.47 0,-47.47 0,-47.47 0,-31.47 0,-31.47 0,-25.47 6,-19.47 12,-19.47 12,-19.47 139,-19.47 139,-19.47 145,-19.47 151,-25.47 151,-31.47 151,-31.47 151,-47.47 151,-47.47 151,-53.47 145,-59.47 139,-59.47" />
+<text text-anchor="middle" x="75.5" y="-35.07" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M323,-117.47C323,-117.47 195,-117.47 195,-117.47 189,-117.47 183,-111.47 183,-105.47 183,-105.47 183,-89.47 183,-89.47 183,-83.47 189,-77.47 195,-77.47 195,-77.47 323,-77.47 323,-77.47 329,-77.47 335,-83.47 335,-89.47 335,-89.47 335,-105.47 335,-105.47 335,-111.47 329,-117.47 323,-117.47" />
+<text text-anchor="middle" x="259" y="-93.07" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M471,-59.47C471,-59.47 379,-59.47 379,-59.47 373,-59.47 367,-53.47 367,-47.47 367,-47.47 367,-31.47 367,-31.47 367,-25.47 373,-19.47 379,-19.47 379,-19.47 471,-19.47 471,-19.47 477,-19.47 483,-25.47 483,-31.47 483,-31.47 483,-47.47 483,-47.47 483,-53.47 477,-59.47 471,-59.47" />
+<text text-anchor="middle" x="425" y="-35.07" font-family="Georgia" font-size="18.00" fill="#243d36">Motivation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M463.5,-121.47C463.5,-121.47 386.5,-121.47 386.5,-121.47 380.5,-121.47 374.5,-115.47 374.5,-109.47 374.5,-109.47 374.5,-93.47 374.5,-93.47 374.5,-87.47 380.5,-81.47 386.5,-81.47 386.5,-81.47 463.5,-81.47 463.5,-81.47 469.5,-81.47 475.5,-87.47 475.5,-93.47 475.5,-93.47 475.5,-109.47 475.5,-109.47 475.5,-115.47 469.5,-121.47 463.5,-121.47" />
+<text text-anchor="middle" x="425" y="-97.07" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M626,-59.47C626,-59.47 527,-59.47 527,-59.47 521,-59.47 515,-53.47 515,-47.47 515,-47.47 515,-31.47 515,-31.47 515,-25.47 521,-19.47 527,-19.47 527,-19.47 626,-19.47 626,-19.47 632,-19.47 638,-25.47 638,-31.47 638,-31.47 638,-47.47 638,-47.47 638,-53.47 632,-59.47 626,-59.47" />
+<text text-anchor="middle" x="576.5" y="-35.07" font-family="Georgia" font-size="18.00" fill="#243d36">Social Skills</text>
+</g>
+</g>
+</svg>

@@ -14,12 +14,7 @@ Phil M. Jones' "Exactly What to Say" isn't just about mastering conversation; it
 
 Before diving into specific techniques, Jones emphasizes the importance of self-awareness. Understanding your current communication style – whether assertive, passive, or aggressive – is crucial.  He uses a simple self-assessment tool to help readers pinpoint their strengths and weaknesses.  This self-reflection lays the groundwork for identifying areas needing improvement.  The book also stresses the importance of defining clear communication goals. What do you hope to achieve through your interactions?  Setting specific, measurable, achievable, relevant, and time-bound (SMART) goals helps focus your efforts and measure progress.
 
-```mermaid
-graph LR
-A[Self-Assessment] --> B(Identify Strengths & Weaknesses);
-B --> C{Set SMART Goals};
-C --> D[Targeted Communication Strategies];
-```
+![Identifying Your Communication Style and Goals. Self-Assessment; Identify Strengths & Weaknesses; Set SMART Goals; Targeted Communication Strategies.](diagram-01.svg)
 
 
 ## Mastering the Art of Active Listening
@@ -46,13 +41,7 @@ The book delves into the art of influence and persuasion, focusing on ethical an
 
 Jones provides a structured approach to negotiation and conflict resolution, focusing on collaborative problem-solving. He emphasizes the importance of active listening, identifying shared interests, and exploring creative solutions that satisfy all parties involved. He outlines many techniques for managing disagreements constructively and reaching mutually beneficial outcomes.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Understanding Needs);
-B --> C[Identifying Shared Interests];
-C --> D(Collaborative Problem Solving);
-D --> E[Mutually Beneficial Outcomes];
-```
+![Negotiation and Conflict Resolution. Active Listening; Understanding Needs; Identifying Shared Interests; Collaborative Problem Solving; Mutually Beneficial Outcomes.](diagram-02.svg)
 
 
 ##  Giving and Receiving Feedback

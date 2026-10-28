@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="484pt" height="332pt" viewBox="0.00 0.00 484.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Problem of Procrastination and Self-Control</title><desc id="description">Goal leads to Procrastination. Procrastination leads to Pre-commitment Device. Pre-commitment Device leads to Achieve Goal.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 466,-314 466,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224,-255.87C224,-248.31 224,-239.49 224,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.45,-231.1 224,-224.1 221.55,-231.1 226.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224,-183.91C224,-176.58 224,-167.86 224,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.45,-159.07 224,-152.07 221.55,-159.07 226.45,-159.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224,-71.79C224,-63.54 224,-55.04 224,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.45,-47.09 224,-40.09 221.55,-47.09 226.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244.5,-296C244.5,-296 203.5,-296 203.5,-296 197.5,-296 191.5,-290 191.5,-284 191.5,-284 191.5,-268 191.5,-268 191.5,-262 197.5,-256 203.5,-256 203.5,-256 244.5,-256 244.5,-256 250.5,-256 256.5,-262 256.5,-268 256.5,-268 256.5,-284 256.5,-284 256.5,-290 250.5,-296 244.5,-296" />
+<text text-anchor="middle" x="224" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goal</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M288,-224C288,-224 160,-224 160,-224 154,-224 148,-218 148,-212 148,-212 148,-196 148,-196 148,-190 154,-184 160,-184 160,-184 288,-184 288,-184 294,-184 300,-190 300,-196 300,-196 300,-212 300,-212 300,-218 294,-224 288,-224" />
+<text text-anchor="middle" x="224" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Procrastination</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="224,-152 0,-112 224,-72 448,-112 224,-152" />
+<text text-anchor="middle" x="224" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pre-commitment Device</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M278.5,-40C278.5,-40 169.5,-40 169.5,-40 163.5,-40 157.5,-34 157.5,-28 157.5,-28 157.5,-12 157.5,-12 157.5,-6 163.5,0 169.5,0 169.5,0 278.5,0 278.5,0 284.5,0 290.5,-6 290.5,-12 290.5,-12 290.5,-28 290.5,-28 290.5,-34 284.5,-40 278.5,-40" />
+<text text-anchor="middle" x="224" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieve Goal</text>
+</g>
+</g>
+</svg>

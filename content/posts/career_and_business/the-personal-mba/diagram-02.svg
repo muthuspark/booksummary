@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393pt" height="260pt" viewBox="0.00 0.00 392.50 260.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Strengths and Weaknesses: Self-Assessment</title><desc id="description">Strengths leads to Weaknesses. Opportunities leads to Threats. Weaknesses leads to Self-Assessment. Threats leads to Self-Assessment. Strengths leads to Self-Assessment. Opportunities leads to Self-Assessment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 374.5,-242 374.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.47,-183.87C96.17,-175.85 88.75,-166.41 82.03,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.76,-156.1 77.51,-152.1 79.91,-159.12 83.76,-156.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.11,-183.78C139.56,-158.87 161.61,-114.77 177.92,-82.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.16,-83.15 181.1,-75.8 175.78,-80.96 180.16,-83.15" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91.34,-111.91C108.3,-100.69 130.19,-86.21 149.76,-73.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.26,-75.2 155.75,-69.29 148.56,-71.11 151.26,-75.2" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266.84,-183.87C262.46,-176 257.32,-166.77 252.62,-158.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.69,-157.03 249.14,-152.1 250.41,-159.41 254.69,-157.03" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M287.41,-183.89C295.87,-164.76 305,-134.95 293.5,-112 285.23,-95.5 271.12,-81.86 256.26,-71.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.46,-68.94 250.31,-66.95 254.66,-72.96 257.46,-68.94" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M230.02,-111.91C226.25,-103.45 221.67,-93.13 217.17,-83.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.32,-81.81 214.24,-76.41 214.84,-83.8 219.32,-81.81" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157.5,-224C157.5,-224 77.5,-224 77.5,-224 71.5,-224 65.5,-218 65.5,-212 65.5,-212 65.5,-196 65.5,-196 65.5,-190 71.5,-184 77.5,-184 77.5,-184 157.5,-184 157.5,-184 163.5,-184 169.5,-190 169.5,-196 169.5,-196 169.5,-212 169.5,-212 169.5,-218 163.5,-224 157.5,-224" />
+<text text-anchor="middle" x="117.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengths</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113,-152C113,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 113,-112 113,-112 119,-112 125,-118 125,-124 125,-124 125,-140 125,-140 125,-146 119,-152 113,-152" />
+<text text-anchor="middle" x="62.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Weaknesses</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M335.5,-224C335.5,-224 219.5,-224 219.5,-224 213.5,-224 207.5,-218 207.5,-212 207.5,-212 207.5,-196 207.5,-196 207.5,-190 213.5,-184 219.5,-184 219.5,-184 335.5,-184 335.5,-184 341.5,-184 347.5,-190 347.5,-196 347.5,-196 347.5,-212 347.5,-212 347.5,-218 341.5,-224 335.5,-224" />
+<text text-anchor="middle" x="277.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Opportunities</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M271,-152C271,-152 206,-152 206,-152 200,-152 194,-146 194,-140 194,-140 194,-124 194,-124 194,-118 200,-112 206,-112 206,-112 271,-112 271,-112 277,-112 283,-118 283,-124 283,-124 283,-140 283,-140 283,-146 277,-152 271,-152" />
+<text text-anchor="middle" x="238.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Threats</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="198.5,-80 40.5,-40 198.5,0 356.5,-40 198.5,-80" />
+<text text-anchor="middle" x="198.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+</g>
+</svg>

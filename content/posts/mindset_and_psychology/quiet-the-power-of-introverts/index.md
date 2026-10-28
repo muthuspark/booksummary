@@ -46,14 +46,7 @@ Cain offers practical strategies to help introverts navigate the challenges of a
 
 The book highlights the importance of finding an optimal work environment.  This isn't just about location, but also the type of work and the organizational culture.
 
-```mermaid
-graph LR
-A[Introvert] --> B(Solitary work);
-A --> C(Flexible Schedule);
-A --> D(Quiet Workspace);
-A --> E(Independent Tasks);
-A --> F(Meaningful Collaboration);
-```
+![Finding Your Work Style and Environment. Introvert; Solitary work; Flexible Schedule; Quiet Workspace; Independent Tasks; Meaningful Collaboration.](diagram-01.svg)
 
 Introverts benefit from environments that allow for independent work, flexible schedules, and quiet workspaces. However, it is important to remember that collaboration is often key to success and introverts can thrive in environments where meaningful collaboration exists.  The key is to find a balance that nourishes both individual focus and team interaction.
 
@@ -62,14 +55,7 @@ Introverts benefit from environments that allow for independent work, flexible s
 
 Cain challenges the stereotypical image of leadership as loud, boisterous, and attention-grabbing. She argues that introverts can be exceptionally effective leaders by fostering collaboration, actively listening to team members, and making well-considered decisions.
 
-```mermaid
-graph LR
-A[Quiet Leadership] --> B(Active Listening);
-A --> C(Thoughtful Decision Making);
-A --> D(Collaborative Approach);
-A --> E(Empowerment of Team);
-A --> F(Strategic Vision);
-```
+![The Power of Quiet Leadership. Quiet Leadership; Active Listening; Thoughtful Decision Making; Collaborative Approach; Empowerment of Team; Strategic Vision.](diagram-02.svg)
 
 Their quiet approach can create a more inclusive and productive work environment, where team members feel heard and valued.
 

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560pt" height="158pt" viewBox="0.00 0.00 560.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">The Slowlane vs. the Fastlane</title><desc id="description">Slowlane leads to Saving, Investing. Saving, Investing leads to Retirement at 65. Fastlane leads to Entrepreneurship, Asset Building. Entrepreneurship, Asset Building leads to Financial Freedom, Early Retirement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 542,-140 542,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.14,-20C110.77,-20 121.12,-20 131.56,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="131.79,-22.45 138.79,-20 131.79,-17.55 131.79,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M303.3,-20C316.3,-20 329.81,-20 342.98,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="343.25,-22.45 350.25,-20 343.25,-17.55 343.25,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.44,-92C107.05,-92 116.32,-92 125.75,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.99,-94.45 132.99,-92 125.99,-89.55 125.99,-94.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M309.03,-92C317.03,-92 325.18,-92 333.27,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="333.69,-94.45 340.69,-92 333.69,-89.55 333.69,-94.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-40C89,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 89,0 89,0 95,0 101,-6 101,-12 101,-12 101,-28 101,-28 101,-34 95,-40 89,-40" />
+<text text-anchor="middle" x="50.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Slowlane</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291,-40C291,-40 151,-40 151,-40 145,-40 139,-34 139,-28 139,-28 139,-12 139,-12 139,-6 145,0 151,0 151,0 291,0 291,0 297,0 303,-6 303,-12 303,-12 303,-28 303,-28 303,-34 297,-40 291,-40" />
+<text text-anchor="middle" x="221" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Saving, Investing</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M502.5,-40C502.5,-40 362.5,-40 362.5,-40 356.5,-40 350.5,-34 350.5,-28 350.5,-28 350.5,-12 350.5,-12 350.5,-6 356.5,0 362.5,0 362.5,0 502.5,0 502.5,0 508.5,0 514.5,-6 514.5,-12 514.5,-12 514.5,-28 514.5,-28 514.5,-34 508.5,-40 502.5,-40" />
+<text text-anchor="middle" x="432.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Retirement at 65</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M86,-112C86,-112 15,-112 15,-112 9,-112 3,-106 3,-100 3,-100 3,-84 3,-84 3,-78 9,-72 15,-72 15,-72 86,-72 86,-72 92,-72 98,-78 98,-84 98,-84 98,-100 98,-100 98,-106 92,-112 86,-112" />
+<text text-anchor="middle" x="50.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fastlane</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M297,-122C297,-122 145,-122 145,-122 139,-122 133,-116 133,-110 133,-110 133,-74 133,-74 133,-68 139,-62 145,-62 145,-62 297,-62 297,-62 303,-62 309,-68 309,-74 309,-74 309,-110 309,-110 309,-116 303,-122 297,-122" />
+<text text-anchor="middle" x="221" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Entrepreneurship,</text>
+<text text-anchor="middle" x="221" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Asset Building</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M512,-122C512,-122 353,-122 353,-122 347,-122 341,-116 341,-110 341,-110 341,-74 341,-74 341,-68 347,-62 353,-62 353,-62 512,-62 512,-62 518,-62 524,-68 524,-74 524,-74 524,-110 524,-110 524,-116 518,-122 512,-122" />
+<text text-anchor="middle" x="432.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Freedom,</text>
+<text text-anchor="middle" x="432.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Early Retirement</text>
+</g>
+</g>
+</svg>

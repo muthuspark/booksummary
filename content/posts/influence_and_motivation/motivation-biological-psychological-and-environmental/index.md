@@ -15,13 +15,7 @@ Deckers' "Motivation: Biological, Psychological, and Environmental" provides an 
 
 The book strongly emphasizes the biological basis of motivation. Our genetic predispositions, hormonal balances, and neurological processes influence our drive and energy levels. Understanding our body's natural rhythms and responses to stimuli is crucial. For instance, recognizing the impact of sleep deprivation on motivation or the role of neurotransmitters like dopamine in reward-seeking behaviors allows for proactive management.
 
-```mermaid
-graph LR
-    A[Genetics] --> B(Hormones);
-    B --> C{Neurotransmitters};
-    C --> D[Motivation & Behavior];
-    E[Sleep/Nutrition] --> D;
-```
+![The Biological Basis of Motivation. Genetics; Hormones; Neurotransmitters; Motivation & Behavior; Sleep/Nutrition.](diagram-01.svg)
 
 
 ## Psychological Factors: The Inner Landscape
@@ -48,13 +42,7 @@ Environmental influences are crucial. Deckers highlights how our physical and so
 
 Deckers clearly differentiates between intrinsic and extrinsic motivation. Intrinsic motivation stems from enjoyment and interest in an activity, while extrinsic motivation arises from external rewards or pressures. While extrinsic motivation can be useful in the short term, sustained motivation often relies on cultivating intrinsic interest. Strategies for fostering intrinsic motivation include finding meaning in tasks, focusing on personal growth, and emphasizing autonomy and mastery.
 
-```mermaid
-graph LR
-    A[Intrinsic Motivation] --> B(Enjoyment, Interest, Personal Growth);
-    C[Extrinsic Motivation] --> D(Rewards, Pressure, External Goals);
-    B --> E[Sustained Motivation];
-    D --> F[Short-term Motivation];
-```
+![Intrinsic vs. Extrinsic Motivation. Intrinsic Motivation; Enjoyment, Interest, Personal Growth; Extrinsic Motivation; Rewards, Pressure, External Goals; Sustained Motivation; Short-term Motivation.](diagram-02.svg)
 
 
 ## Overcoming Procrastination and Resistance

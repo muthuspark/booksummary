@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261pt" height="364pt" viewBox="0.00 0.00 261.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Pillars of Mindful Communication</title><desc id="description">Awareness leads to Clarity. Clarity leads to Compassion. Compassion leads to Courage. Courage leads to Mindful Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 243,-346 243,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.5,-287.87C112.5,-280.31 112.5,-271.49 112.5,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="114.95,-263.1 112.5,-256.1 110.05,-263.1 114.95,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.5,-215.87C112.5,-208.31 112.5,-199.49 112.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="114.95,-191.1 112.5,-184.1 110.05,-191.1 114.95,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.5,-143.87C112.5,-136.31 112.5,-127.49 112.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="114.95,-119.1 112.5,-112.1 110.05,-119.1 114.95,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.5,-71.87C112.5,-64.31 112.5,-55.49 112.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="114.95,-47.1 112.5,-40.1 110.05,-47.1 114.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157.5,-328C157.5,-328 67.5,-328 67.5,-328 61.5,-328 55.5,-322 55.5,-316 55.5,-316 55.5,-300 55.5,-300 55.5,-294 61.5,-288 67.5,-288 67.5,-288 157.5,-288 157.5,-288 163.5,-288 169.5,-294 169.5,-300 169.5,-300 169.5,-316 169.5,-316 169.5,-322 163.5,-328 157.5,-328" />
+<text text-anchor="middle" x="112.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M141.5,-256C141.5,-256 83.5,-256 83.5,-256 77.5,-256 71.5,-250 71.5,-244 71.5,-244 71.5,-228 71.5,-228 71.5,-222 77.5,-216 83.5,-216 83.5,-216 141.5,-216 141.5,-216 147.5,-216 153.5,-222 153.5,-228 153.5,-228 153.5,-244 153.5,-244 153.5,-250 147.5,-256 141.5,-256" />
+<text text-anchor="middle" x="112.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarity</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-184C163,-184 62,-184 62,-184 56,-184 50,-178 50,-172 50,-172 50,-156 50,-156 50,-150 56,-144 62,-144 62,-144 163,-144 163,-144 169,-144 175,-150 175,-156 175,-156 175,-172 175,-172 175,-178 169,-184 163,-184" />
+<text text-anchor="middle" x="112.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compassion</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-112C148,-112 77,-112 77,-112 71,-112 65,-106 65,-100 65,-100 65,-84 65,-84 65,-78 71,-72 77,-72 77,-72 148,-72 148,-72 154,-72 160,-78 160,-84 160,-84 160,-100 160,-100 160,-106 154,-112 148,-112" />
+<text text-anchor="middle" x="112.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Courage</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M213,-40C213,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 213,0 213,0 219,0 225,-6 225,-12 225,-12 225,-28 225,-28 225,-34 219,-40 213,-40" />
+<text text-anchor="middle" x="112.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindful Communication</text>
+</g>
+</g>
+</svg>

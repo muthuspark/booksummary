@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="598pt" height="148pt" viewBox="0.00 0.00 598.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Elevation:  Raising the Bar</title><desc id="description">Elevation leads to Awe. Elevation leads to Surprise. Elevation leads to Sensory Richness. Elevation leads to Breaking Routine.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 580,-130 580,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.24,-72.2C132.83,-62.86 101.93,-51.19 74.5,-40 73.03,-39.4 71.53,-38.78 70.02,-38.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="70.75,-35.8 63.35,-35.32 68.83,-40.31 70.75,-35.8" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M189.46,-71.87C180.29,-63.54 169.45,-53.68 159.76,-44.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.34,-43 154.52,-40.1 158.05,-46.63 161.34,-43" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M231.54,-71.87C240.71,-63.54 251.55,-53.68 261.24,-44.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.95,-46.63 266.48,-40.1 259.66,-43 262.95,-46.63" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.61,-77.34C301.08,-67.25 354.11,-53.35 397.87,-41.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="398.66,-44.2 404.81,-40.06 397.42,-39.46 398.66,-44.2" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M250.5,-112C250.5,-112 170.5,-112 170.5,-112 164.5,-112 158.5,-106 158.5,-100 158.5,-100 158.5,-84 158.5,-84 158.5,-78 164.5,-72 170.5,-72 170.5,-72 250.5,-72 250.5,-72 256.5,-72 262.5,-78 262.5,-84 262.5,-84 262.5,-100 262.5,-100 262.5,-106 256.5,-112 250.5,-112" />
+<text text-anchor="middle" x="210.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Elevation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M51,-40C51,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 51,0 51,0 57,0 63,-6 63,-12 63,-12 63,-28 63,-28 63,-34 57,-40 51,-40" />
+<text text-anchor="middle" x="31.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awe</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M169.5,-40C169.5,-40 97.5,-40 97.5,-40 91.5,-40 85.5,-34 85.5,-28 85.5,-28 85.5,-12 85.5,-12 85.5,-6 91.5,0 97.5,0 97.5,0 169.5,0 169.5,0 175.5,0 181.5,-6 181.5,-12 181.5,-12 181.5,-28 181.5,-28 181.5,-34 175.5,-40 169.5,-40" />
+<text text-anchor="middle" x="133.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Surprise</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M359,-40C359,-40 216,-40 216,-40 210,-40 204,-34 204,-28 204,-28 204,-12 204,-12 204,-6 210,0 216,0 216,0 359,0 359,0 365,0 371,-6 371,-12 371,-12 371,-28 371,-28 371,-34 365,-40 359,-40" />
+<text text-anchor="middle" x="287.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sensory Richness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M550,-40C550,-40 405,-40 405,-40 399,-40 393,-34 393,-28 393,-28 393,-12 393,-12 393,-6 399,0 405,0 405,0 550,0 550,0 556,0 562,-6 562,-12 562,-12 562,-28 562,-28 562,-34 556,-40 550,-40" />
+<text text-anchor="middle" x="477.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Breaking Routine</text>
+</g>
+</g>
+</svg>

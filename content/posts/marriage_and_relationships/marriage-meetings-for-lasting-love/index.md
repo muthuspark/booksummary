@@ -15,13 +15,7 @@ Marcia Naomi Berger's "Marriage Meetings for Lasting Love" presents a practical,
 
 The effectiveness of marriage meetings hinges on establishing clear ground rules and expectations. Berger emphasizes the importance of creating a safe and respectful space where both partners feel comfortable expressing themselves without fear of judgment or interruption.  This necessitates a commitment to active listening, empathy, and a willingness to truly hear each other's perspectives, regardless of agreement. The meeting itself should be a dedicated time, free from distractions like phones or children, fostering a focused and intimate atmosphere.
 
-```mermaid
-graph LR
-    A[Dedicated Time] --> B(Safe Space);
-    C[Active Listening] --> B;
-    D[Mutual Respect] --> B;
-    B --> E{Stronger Bond};
-```
+![Establishing the Foundation: Setting the Stage for Success. Dedicated Time; Safe Space; Active Listening; Mutual Respect; Stronger Bond.](diagram-01.svg)
 
 The book also stresses the significance of choosing a neutral location conducive to open communication. This might be a quiet room in the house, a cozy café, or even a scenic outdoor spot. The environment should encourage relaxation and vulnerability.
 
@@ -30,13 +24,7 @@ The book also stresses the significance of choosing a neutral location conducive
 
 Berger provides a structured format for marriage meetings, encouraging a consistent approach to maximize effectiveness.  She suggests starting with a "check-in," where each partner briefly shares their emotional state and highlights any pressing issues. This sets the tone for open communication and prevents bottled-up emotions from overshadowing the meeting.  This is followed by a dedicated time for discussing individual concerns or topics previously agreed upon.
 
-```mermaid
-graph LR
-    A[Check-in] --> B(Discuss Concerns);
-    B --> C{Problem Solving};
-    C --> D[Appreciation & Gratitude];
-    D --> E(Next Steps/Action Plan);
-```
+![The Structure and Flow of Effective Marriage Meetings. Check-in; Discuss Concerns; Problem Solving; Appreciation & Gratitude; Next Steps/Action Plan.](diagram-02.svg)
 
 Importantly, the book emphasizes the importance of balancing problem-solving with expressing appreciation and gratitude. This shift in focus helps maintain a positive dynamic and reinforces the mutual respect necessary for a healthy relationship.  Consistently ending the meeting with expressions of appreciation prevents the discussion from becoming overly focused on negativity.
 
@@ -52,13 +40,7 @@ Key skills highlighted include:
 * **Validating feelings:**  Acknowledging the legitimacy of the partner's emotions, even if you don't agree with their perspective.
 * **Compromise and negotiation:**  Finding mutually acceptable solutions.
 
-```mermaid
-graph LR
-    A[I Statements] --> B(Active Listening);
-    B --> C(Validate Feelings);
-    C --> D(Compromise);
-    D --> E{Resolution};
-```
+![Navigating Conflict Constructively: Skills for Effective Communication. I Statements; Active Listening; Validate Feelings; Compromise; Resolution.](diagram-03.svg)
 
 
 #  Beyond Problem Solving: Cultivating Intimacy and Appreciation

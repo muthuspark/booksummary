@@ -20,12 +20,7 @@ The book introduces three archetypal characters to understanding business succes
 
 * **The Manager:** This individual focuses on the day-to-day operations, systems, and processes, ensuring efficiency and consistency. They are focused on *running* the business.
 
-```mermaid
-graph LR
-    A[Technician] --> B(Business);
-    C[Entrepreneur] --> B;
-    D[Manager] --> B;
-```
+![The Three Key Characters: Technician, Entrepreneur, and Manager. Technician; Business; Entrepreneur; Manager.](diagram-01.svg)
 
 The key is understanding that a successful business requires all three roles, even if one person fills them all initially.  The E-Myth challenges the notion that a skilled technician can automatically become a successful entrepreneur and manager.
 

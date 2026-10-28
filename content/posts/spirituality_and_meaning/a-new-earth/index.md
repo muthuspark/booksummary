@@ -22,15 +22,7 @@ The path to liberation, as outlined by Tolle, lies in transcending the ego and i
 
 The "Now" is presented as the only reality.  Past and future are mental constructs, illusions.  The key to freedom is to shift our attention from the incessant chatter of the mind to the stillness of the present moment.  This isn't about suppressing thoughts, but rather observing them without judgment, recognizing them as passing mental events rather than essential aspects of your "self."  This observation weakens their power over us.
 
-```mermaid
-graph LR
-A[Past] --> B(Ego);
-C[Future] --> B;
-B --> D{Pain-Body};
-D --> E[Suffering];
-F(Now) --> G[Presence];
-G --> H[Freedom];
-```
+![The Power of Now. Past; Ego; Future; Pain-Body; Suffering; Now; Presence; Freedom.](diagram-01.svg)
 
 # Cultivating Presence: Practical Techniques
 
@@ -62,13 +54,7 @@ Relationships, particularly intimate ones, often serve as mirrors reflecting our
 
 Forgiveness in dissolving the grip of the pain-body. This isn't about condoning harmful actions but about releasing the negative energy and resentment we hold onto. True forgiveness is directed inward, towards oneself, for the suffering created by clinging to past hurts.
 
-```mermaid
-graph LR
-A[Pain-Body] -- Feeds on --> B(Past Hurts);
-B -- Creates --> C[Resentment];
-D[Forgiveness] -- Releases --> C;
-D -- Leads to --> E[Inner Peace];
-```
+![Forgiveness. Pain-Body; Past Hurts; Resentment; Forgiveness; Inner Peace.](diagram-02.svg)
 
 # Spiritual Enlightenment is Not a Goal
 

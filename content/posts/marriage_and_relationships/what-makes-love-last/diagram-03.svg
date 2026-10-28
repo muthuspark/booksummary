@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750pt" height="320pt" viewBox="0.00 0.00 750.00 320.00" role="img" aria-labelledby="title description">
+<title id="title">Turning Towards Each Other:  Nurturing Emotional Responsiveness</title><desc id="description">Bid for Connection leads to Turn Towards. Turn Towards leads to Positive Connection. Bid for Connection leads to Turn Away. Turn Away leads to Disconnection. Bid for Connection leads to Turn Against. Turn Against leads to Conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 302)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-302 732,-302 732,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.33,-162.07C158.73,-171.71 186.15,-183.26 211,-193 234.05,-202.04 259.43,-211.4 282.24,-219.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="281.5,-221.93 288.91,-221.99 283.15,-217.32 281.5,-221.93" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179.03,-142C195.24,-142 212.41,-142 229.4,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.67,-144.45 236.67,-142 229.67,-139.55 229.67,-144.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.33,-121.93C158.73,-112.29 186.15,-100.74 211,-91 234.71,-81.7 260.89,-72.06 284.2,-63.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="285.24,-65.93 291.01,-61.26 283.59,-61.31 285.24,-65.93" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M495.3,-244C503.45,-244 511.57,-244 519.51,-244" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="519.75,-246.45 526.75,-244 519.75,-241.55 519.75,-246.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M469.29,-142C493.67,-142 518.84,-142 541.44,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="541.69,-144.45 548.69,-142 541.69,-139.55 541.69,-144.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M485.19,-40C514.44,-40 543.78,-40 567.55,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="567.74,-42.45 574.74,-40 567.74,-37.55 567.74,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-162C167,-162 12,-162 12,-162 6,-162 0,-156 0,-150 0,-150 0,-134 0,-134 0,-128 6,-122 12,-122 12,-122 167,-122 167,-122 173,-122 179,-128 179,-134 179,-134 179,-150 179,-150 179,-156 173,-162 167,-162" />
+<text text-anchor="middle" x="89.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bid for Connection</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="353,-284 211,-244 353,-204 495,-244 353,-284" />
+<text text-anchor="middle" x="353" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Turn Towards</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M702,-264C702,-264 539,-264 539,-264 533,-264 527,-258 527,-252 527,-252 527,-236 527,-236 527,-230 533,-224 539,-224 539,-224 702,-224 702,-224 708,-224 714,-230 714,-236 714,-236 714,-252 714,-252 714,-258 708,-264 702,-264" />
+<text text-anchor="middle" x="620.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Connection</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="353,-182 237,-142 353,-102 469,-142 353,-182" />
+<text text-anchor="middle" x="353" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Turn Away</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M680,-162C680,-162 561,-162 561,-162 555,-162 549,-156 549,-150 549,-150 549,-134 549,-134 549,-128 555,-122 561,-122 561,-122 680,-122 680,-122 686,-122 692,-128 692,-134 692,-134 692,-150 692,-150 692,-156 686,-162 680,-162" />
+<text text-anchor="middle" x="620.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disconnection</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="353,-80 221,-40 353,0 485,-40 353,-80" />
+<text text-anchor="middle" x="353" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Turn Against</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M654,-60C654,-60 587,-60 587,-60 581,-60 575,-54 575,-48 575,-48 575,-32 575,-32 575,-26 581,-20 587,-20 587,-20 654,-20 654,-20 660,-20 666,-26 666,-32 666,-32 666,-48 666,-48 666,-54 660,-60 654,-60" />
+<text text-anchor="middle" x="620.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+</g>
+</svg>

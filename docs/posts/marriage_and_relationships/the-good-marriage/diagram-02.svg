@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592pt" height="168pt" viewBox="0.00 0.00 591.50 168.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of External Factors:  Stress and Support Systems</title><desc id="description">External Stressors leads to Relationship Strain. Support Systems leads to Relationship Resilience. Professional Help leads to Relationship Resilience.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 573.5,-150 573.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-91.63C91,-81.32 91,-68.48 91,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-57.19 91,-50.19 88.55,-57.19 93.45,-57.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M303.75,-91.63C313.19,-83.6 324.43,-74.04 335.16,-64.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="336.96,-66.59 340.71,-60.19 333.79,-62.86 336.96,-66.59" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M447,-91.63C437.46,-83.6 426.11,-74.04 415.27,-64.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="416.59,-62.82 409.66,-60.19 413.43,-66.57 416.59,-62.82" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M165.5,-132C165.5,-132 16.5,-132 16.5,-132 10.5,-132 4.5,-126 4.5,-120 4.5,-120 4.5,-104 4.5,-104 4.5,-98 10.5,-92 16.5,-92 16.5,-92 165.5,-92 165.5,-92 171.5,-92 177.5,-98 177.5,-104 177.5,-104 177.5,-120 177.5,-120 177.5,-126 171.5,-132 165.5,-132" />
+<text text-anchor="middle" x="91" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">External Stressors</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M170,-50C170,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 170,-10 170,-10 176,-10 182,-16 182,-22 182,-22 182,-38 182,-38 182,-44 176,-50 170,-50" />
+<text text-anchor="middle" x="91" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship Strain</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M350,-132C350,-132 212,-132 212,-132 206,-132 200,-126 200,-120 200,-120 200,-104 200,-104 200,-98 206,-92 212,-92 212,-92 350,-92 350,-92 356,-92 362,-98 362,-104 362,-104 362,-120 362,-120 362,-126 356,-132 350,-132" />
+<text text-anchor="middle" x="281" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Support Systems</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M428,-60C428,-60 322,-60 322,-60 316,-60 310,-54 310,-48 310,-48 310,-12 310,-12 310,-6 316,0 322,0 322,0 428,0 428,0 434,0 440,-6 440,-12 440,-12 440,-48 440,-48 440,-54 434,-60 428,-60" />
+<text text-anchor="middle" x="375" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship</text>
+<text text-anchor="middle" x="375" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M543.5,-132C543.5,-132 396.5,-132 396.5,-132 390.5,-132 384.5,-126 384.5,-120 384.5,-120 384.5,-104 384.5,-104 384.5,-98 390.5,-92 396.5,-92 396.5,-92 543.5,-92 543.5,-92 549.5,-92 555.5,-98 555.5,-104 555.5,-104 555.5,-120 555.5,-120 555.5,-126 549.5,-132 543.5,-132" />
+<text text-anchor="middle" x="470" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Professional Help</text>
+</g>
+</g>
+</svg>

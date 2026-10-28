@@ -92,23 +92,5 @@ The field of microbiome research is rapidly evolving, and the authors acknowledg
 The Whole-Body Microbiome is not just a scientific treatise; it’s a call to action.  By understanding and nurturing our microbial communities, we can improve our overall health and well-being, paving the way for a healthier and more fulfilling life.  The book empowers readers to take control of their microbiome and make informed choices to optimize their health.
 
 
-```mermaid
-graph LR
-    A[Diet] --> B(Fiber);
-    A --> C(Polyphenols);
-    A --> D(Fermented Foods);
-    E[Lifestyle] --> F(Sleep);
-    E --> G(Stress Management);
-    E --> H(Exercise);
-    E --> I(Nature Exposure);
-    J[Probiotics/Prebiotics] --> K(Gut Health);
-    B --> K;
-    C --> K;
-    D --> K;
-    F --> K;
-    G --> K;
-    H --> K;
-    I --> K;
-    K --> L(Improved Health);
-```
+![Key Takeaways and Actionable Steps. Diet; Fiber; Polyphenols; Fermented Foods; Lifestyle; Sleep; Stress Management; Exercise; Nature Exposure; Probiotics/Prebiotics; Gut Health; Improved Health.](diagram-01.svg)
 

@@ -15,22 +15,7 @@ author: "Alexander Osterwalder"
 
 The heart of the book is the Business Model Canvas, a single-page visual representation of a business's logic.  This canvas, comprised of nine interconnected building blocks, allows for a view and iterative development of a business model.  It's not just about business; it's a framework for systematically examining any endeavor.
 
-```mermaid
-graph LR
-    A[Customer Segments] --> B(Value Propositions);
-    B --> C(Channels);
-    C --> D(Customer Relationships);
-    D --> E(Revenue Streams);
-    A --> F(Customer Relationships);
-    F --> E;
-    B --> G(Key Activities);
-    G --> H(Key Resources);
-    H --> I(Key Partnerships);
-    I --> G;
-    H --> E;
-    G --> E;
-
-```
+![The Business Model Canvas: A Visual Blueprint. Customer Segments; Value Propositions; Channels; Customer Relationships; Revenue Streams; Customer Relationships; Key Activities; Key Resources; Key Partnerships.](diagram-01.svg)
 
 **Key Building Blocks:**
 

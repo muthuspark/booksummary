@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="466pt" height="240pt" viewBox="0.00 0.00 465.50 240.00" role="img" aria-labelledby="title description">
+<title id="title">Intrinsic vs. Extrinsic Motivation</title><desc id="description">Intrinsic Motivation leads to Enjoyment, Interest, Personal Growth. Extrinsic Motivation leads to Rewards, Pressure, External Goals. Enjoyment, Interest, Personal Growth leads to Sustained Motivation. Rewards, Pressure, External Goals leads to Short-term Motivation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 447.5,-222 447.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99,-163.63C99,-156.34 99,-147.78 99,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="101.45,-139.19 99,-132.19 96.55,-139.19 101.45,-139.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99,-71.67C99,-63.77 99,-55.28 99,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="101.45,-47.12 99,-40.12 96.55,-47.12 101.45,-47.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325,-163.63C325,-156.34 325,-147.78 325,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="327.45,-139.19 325,-132.19 322.55,-139.19 327.45,-139.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325,-71.67C325,-63.77 325,-55.28 325,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="327.45,-47.12 325,-40.12 322.55,-47.12 327.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181,-204C181,-204 17,-204 17,-204 11,-204 5,-198 5,-192 5,-192 5,-176 5,-176 5,-170 11,-164 17,-164 17,-164 181,-164 181,-164 187,-164 193,-170 193,-176 193,-176 193,-192 193,-192 193,-198 187,-204 181,-204" />
+<text text-anchor="middle" x="99" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intrinsic Motivation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183,-132C183,-132 15,-132 15,-132 9,-132 3,-126 3,-120 3,-120 3,-84 3,-84 3,-78 9,-72 15,-72 15,-72 183,-72 183,-72 189,-72 195,-78 195,-84 195,-84 195,-120 195,-120 195,-126 189,-132 183,-132" />
+<text text-anchor="middle" x="99" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enjoyment, Interest,</text>
+<text text-anchor="middle" x="99" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Growth</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M408.5,-204C408.5,-204 241.5,-204 241.5,-204 235.5,-204 229.5,-198 229.5,-192 229.5,-192 229.5,-176 229.5,-176 229.5,-170 235.5,-164 241.5,-164 241.5,-164 408.5,-164 408.5,-164 414.5,-164 420.5,-170 420.5,-176 420.5,-176 420.5,-192 420.5,-192 420.5,-198 414.5,-204 408.5,-204" />
+<text text-anchor="middle" x="325" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Extrinsic Motivation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M404,-132C404,-132 246,-132 246,-132 240,-132 234,-126 234,-120 234,-120 234,-84 234,-84 234,-78 240,-72 246,-72 246,-72 404,-72 404,-72 410,-72 416,-78 416,-84 416,-84 416,-120 416,-120 416,-126 410,-132 404,-132" />
+<text text-anchor="middle" x="325" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rewards, Pressure,</text>
+<text text-anchor="middle" x="325" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">External Goals</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M186,-40C186,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 186,0 186,0 192,0 198,-6 198,-12 198,-12 198,-28 198,-28 198,-34 192,-40 186,-40" />
+<text text-anchor="middle" x="99" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sustained Motivation</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M417.5,-40C417.5,-40 232.5,-40 232.5,-40 226.5,-40 220.5,-34 220.5,-28 220.5,-28 220.5,-12 220.5,-12 220.5,-6 226.5,0 232.5,0 232.5,0 417.5,0 417.5,0 423.5,0 429.5,-6 429.5,-12 429.5,-12 429.5,-28 429.5,-28 429.5,-34 423.5,-40 417.5,-40" />
+<text text-anchor="middle" x="325" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Short-term Motivation</text>
+</g>
+</g>
+</svg>

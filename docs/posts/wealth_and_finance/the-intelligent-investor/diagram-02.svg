@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645pt" height="168pt" viewBox="0.00 0.00 645.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Market Fluctuations:  The Mr. Market Analogy</title><desc id="description">Mr. Market (Emotional) leads to Short-term Price Fluctuations. Intelligent Investor (Rational) leads to Intrinsic Value. Short-term Price Fluctuations leads to Poor Decisions (dashed connection). Intrinsic Value leads to Sound Decisions (dashed connection).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 627,-150 627,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221.2,-30C229.4,-30 237.6,-30 245.64,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.97,-32.45 252.97,-30 245.97,-27.55 245.97,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.8,-102C219.13,-102 237.16,-102 254.11,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.31,-104.45 261.31,-102 254.31,-99.55 254.31,-104.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M416.09,-30C426.43,-30 437.01,-30 447.35,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="447.45,-32.45 454.45,-30 447.45,-27.55 447.45,-32.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M407.54,-102C418.36,-102 429.62,-102 440.71,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="440.97,-104.45 447.97,-102 440.97,-99.55 440.97,-104.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-50C209,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 209,-10 209,-10 215,-10 221,-16 221,-22 221,-22 221,-38 221,-38 221,-44 215,-50 209,-50" />
+<text text-anchor="middle" x="110.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mr. Market (Emotional)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M189.5,-132C189.5,-132 31.5,-132 31.5,-132 25.5,-132 19.5,-126 19.5,-120 19.5,-120 19.5,-84 19.5,-84 19.5,-78 25.5,-72 31.5,-72 31.5,-72 189.5,-72 189.5,-72 195.5,-72 201.5,-78 201.5,-84 201.5,-84 201.5,-120 201.5,-120 201.5,-126 195.5,-132 189.5,-132" />
+<text text-anchor="middle" x="110.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intelligent Investor</text>
+<text text-anchor="middle" x="110.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Rational)</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M404,-60C404,-60 265,-60 265,-60 259,-60 253,-54 253,-48 253,-48 253,-12 253,-12 253,-6 259,0 265,0 265,0 404,0 404,0 410,0 416,-6 416,-12 416,-12 416,-48 416,-48 416,-54 410,-60 404,-60" />
+<text text-anchor="middle" x="334.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Short-term Price</text>
+<text text-anchor="middle" x="334.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fluctuations</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M395.5,-122C395.5,-122 273.5,-122 273.5,-122 267.5,-122 261.5,-116 261.5,-110 261.5,-110 261.5,-94 261.5,-94 261.5,-88 267.5,-82 273.5,-82 273.5,-82 395.5,-82 395.5,-82 401.5,-82 407.5,-88 407.5,-94 407.5,-94 407.5,-110 407.5,-110 407.5,-116 401.5,-122 395.5,-122" />
+<text text-anchor="middle" x="334.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intrinsic Value</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M590.5,-50C590.5,-50 466.5,-50 466.5,-50 460.5,-50 454.5,-44 454.5,-38 454.5,-38 454.5,-22 454.5,-22 454.5,-16 460.5,-10 466.5,-10 466.5,-10 590.5,-10 590.5,-10 596.5,-10 602.5,-16 602.5,-22 602.5,-22 602.5,-38 602.5,-38 602.5,-44 596.5,-50 590.5,-50" />
+<text text-anchor="middle" x="528.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Poor Decisions</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M597,-122C597,-122 460,-122 460,-122 454,-122 448,-116 448,-110 448,-110 448,-94 448,-94 448,-88 454,-82 460,-82 460,-82 597,-82 597,-82 603,-82 609,-88 609,-94 609,-94 609,-110 609,-110 609,-116 603,-122 597,-122" />
+<text text-anchor="middle" x="528.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sound Decisions</text>
+</g>
+</g>
+</svg>

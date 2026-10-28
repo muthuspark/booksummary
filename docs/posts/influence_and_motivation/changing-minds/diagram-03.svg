@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581pt" height="168pt" viewBox="0.00 0.00 581.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Understanding and Self-Regulation:  Understanding one's own biases, limitations, and emotional responses.  This requires:</title><desc id="description">Self-Understanding &amp; Self-Regulation leads to Self-Reflection. Self-Understanding &amp; Self-Regulation leads to Emotional Intelligence. Self-Understanding &amp; Self-Regulation leads to Metacognition.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 563,-150 563,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.37,-71.89C177.15,-62.25 150.65,-51.71 128.08,-42.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="128.92,-40.42 121.51,-40.11 127.11,-44.97 128.92,-40.42" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M274.5,-71.67C274.5,-63.77 274.5,-55.28 274.5,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="276.95,-47.12 274.5,-40.12 272.05,-47.12 276.95,-47.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M346.91,-71.89C370.88,-62.25 397.12,-51.71 419.47,-42.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="420.38,-44.99 425.96,-40.11 418.56,-40.45 420.38,-44.99" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363.5,-132C363.5,-132 185.5,-132 185.5,-132 179.5,-132 173.5,-126 173.5,-120 173.5,-120 173.5,-84 173.5,-84 173.5,-78 179.5,-72 185.5,-72 185.5,-72 363.5,-72 363.5,-72 369.5,-72 375.5,-78 375.5,-84 375.5,-84 375.5,-120 375.5,-120 375.5,-126 369.5,-132 363.5,-132" />
+<text text-anchor="middle" x="274.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Understanding &amp;</text>
+<text text-anchor="middle" x="274.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M135,-40C135,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 135,0 135,0 141,0 147,-6 147,-12 147,-12 147,-28 147,-28 147,-34 141,-40 135,-40" />
+<text text-anchor="middle" x="73.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M367.5,-40C367.5,-40 181.5,-40 181.5,-40 175.5,-40 169.5,-34 169.5,-28 169.5,-28 169.5,-12 169.5,-12 169.5,-6 175.5,0 181.5,0 181.5,0 367.5,0 367.5,0 373.5,0 379.5,-6 379.5,-12 379.5,-12 379.5,-28 379.5,-28 379.5,-34 373.5,-40 367.5,-40" />
+<text text-anchor="middle" x="274.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Intelligence</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M533,-40C533,-40 414,-40 414,-40 408,-40 402,-34 402,-28 402,-28 402,-12 402,-12 402,-6 408,0 414,0 414,0 533,0 533,0 539,0 545,-6 545,-12 545,-12 545,-28 545,-28 545,-34 539,-40 533,-40" />
+<text text-anchor="middle" x="473.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Metacognition</text>
+</g>
+</g>
+</svg>

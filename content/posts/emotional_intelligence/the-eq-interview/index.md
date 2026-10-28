@@ -73,18 +73,7 @@ The book's unique structure mirrors a job interview, but the "interviewer" is th
 
 The process is not about providing "right" or "wrong" answers, but about fostering honest self-reflection and identifying areas for growth.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    B --> C(Motivation);
-    C --> D(Empathy);
-    D --> E(Social Skills);
-    A --> F(Personal Growth);
-    B --> F;
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![The "EQ Interview" Process: A Structured Approach. Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills; Personal Growth.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of the five key components of EQ and how their development contributes to overall personal growth.
 

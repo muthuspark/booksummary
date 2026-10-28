@@ -14,15 +14,7 @@ Jocko Willink's "Leadership Strategy and Tactics" isn't just a military leadersh
 
 Central to Willink's philosophy is the concept of decentralized command. This isn't about abdication of responsibility, but rather about empowering subordinates to make decisions within their areas of expertise.  He stresses that leaders must trust their teams and allow them autonomy to solve problems.  Micromanagement, he argues, stifles creativity and initiative, hindering overall effectiveness.
 
-```mermaid
-graph LR
-    A[Leader] --> B(Delegate Authority);
-    B --> C{Subordinate Problem Solving};
-    C --> D[Improved Efficiency];
-    C --> E[Increased Morale];
-    D --> F[Mission Success];
-    E --> F;
-```
+![Decentralized Command: Empowering Your Team. Leader; Delegate Authority; Subordinate Problem Solving; Improved Efficiency; Increased Morale; Mission Success.](diagram-01.svg)
 
 Leaders should provide clear guidance and objectives, but then allow their teams the freedom to execute those objectives in the most efficient way possible.  This fosters a sense of ownership and accountability amongst team members.
 
@@ -30,15 +22,7 @@ Leaders should provide clear guidance and objectives, but then allow their teams
 
 Effective communication is paramount. Willink emphasizes the need for clear, concise orders, avoiding ambiguity and jargon. Leaders should ensure their intentions are understood, and encourage open communication upwards and downwards within the team. Regular updates and feedback loops are essential for maintaining situational awareness and identifying potential problems early.
 
-```mermaid
-graph LR
-    A[Leader] --> B(Clear Orders);
-    B --> C[Team Understanding];
-    C --> D(Feedback Loop);
-    D --> E[Improved Performance];
-    E --> F[Mission Success];
-    A --> D;
-```
+![Communication is Key: The Importance of Clear, Concise Direction. Leader; Clear Orders; Team Understanding; Feedback Loop; Improved Performance; Mission Success.](diagram-02.svg)
 
 This two-way communication streamlines operations and fosters a sense of shared understanding and purpose, leading to more effective teamwork.
 

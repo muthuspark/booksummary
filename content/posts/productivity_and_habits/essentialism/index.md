@@ -15,15 +15,7 @@ Greg McKeown's "Essentialism: The Disciplined Pursuit of Less" isn't just about 
 
 Many people live with an "exploder" mindset, constantly reacting to urgent demands, always busy, yet rarely achieving what's truly important. This is a state of perpetual overwhelm. McKeown argues that this approach leads to burnout and a lack of fulfillment.  Instead, he advocates for an "explorer" mindset – a deliberate and strategic approach to identifying and pursuing essential goals. This involves setting boundaries and making conscious choices about where to allocate time and energy.
 
-```mermaid
-graph LR
-    A[Exploder Mindset] --> B(Reactive);
-    A --> C(Overwhelmed);
-    A --> D(Burnout);
-    E[Explorer Mindset] --> F(Proactive);
-    E --> G(Strategic);
-    E --> H(Fulfillment);
-```
+![Escape the Exploder Mindset. Exploder Mindset; Reactive; Overwhelmed; Burnout; Explorer Mindset; Proactive; Strategic; Fulfillment.](diagram-01.svg)
 
 
 # The Essentialist's Way: A Process for Prioritization
@@ -77,23 +69,7 @@ Essentialism is not a quick fix; it's a disciplined pursuit.  It requires consis
 
 Essentialism is more than just a productivity technique; it's a path to a more meaningful and fulfilling life. By focusing on what truly matters, you create space for what brings you joy, purpose, and connection. This leads to a greater sense of accomplishment and satisfaction.
 
-```mermaid
-graph LR
-    A[Explore] --> B(Define Values);
-    B --> C(Set Goals);
-    C --> D[Eliminate];
-    D --> E(Say No);
-    D --> F(Delegate);
-    D --> G(Remove);
-    E --> H[Execute];
-    H --> I(Time Blocking);
-    H --> J(Batching);
-    H --> K(Minimize Distractions);
-    H --> L(Prioritize);
-    H --> M[Evaluate];
-    M --> N(Reflect);
-    M --> O(Adjust);
-```
+![Beyond Productivity:  A Path to Meaning and Fulfillment. Explore; Define Values; Set Goals; Eliminate; Say No; Delegate; Remove; Execute; Time Blocking; Batching; Minimize Distractions; Prioritize; Evaluate; Reflect; Adjust.](diagram-02.svg)
 
 # Actionable Steps for Immediate Implementation
 

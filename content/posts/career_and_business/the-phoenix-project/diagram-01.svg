@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="548pt" height="260pt" viewBox="0.00 0.00 548.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Chaos of Siloed Operations</title><desc id="description">Development leads to Deployment Bottleneck. Operations leads to Deployment Bottleneck. Security leads to Deployment Bottleneck. Business leads to Deployment Bottleneck. Deployment Bottleneck leads to Chaos &amp; Delays.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 530,-242 530,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125.92,-183.96C153.86,-174.78 187.48,-163.73 216.27,-154.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.2,-156.54 223.09,-152.03 215.67,-151.89 217.2,-156.54" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M281,-111.91C281,-104.58 281,-95.86 281,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="283.45,-87.07 281,-80.07 278.55,-87.07 283.45,-87.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M234.49,-183.87C241.97,-175.69 250.79,-166.05 258.72,-157.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="260.62,-158.92 263.53,-152.1 257,-155.62 260.62,-158.92" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M327.51,-183.87C320.03,-175.69 311.21,-166.05 303.28,-157.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="305,-155.62 298.47,-152.1 301.38,-158.92 305,-155.62" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M413.75,-184.06C390.17,-174.99 361.82,-164.09 337.39,-154.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="338.02,-152.31 330.61,-152.08 336.26,-156.88 338.02,-152.31" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M124,-224C124,-224 12,-224 12,-224 6,-224 0,-218 0,-212 0,-212 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 124,-184 124,-184 130,-184 136,-190 136,-196 136,-196 136,-212 136,-212 136,-218 130,-224 124,-224" />
+<text text-anchor="middle" x="68" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Development</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M377.5,-152C377.5,-152 184.5,-152 184.5,-152 178.5,-152 172.5,-146 172.5,-140 172.5,-140 172.5,-124 172.5,-124 172.5,-118 178.5,-112 184.5,-112 184.5,-112 377.5,-112 377.5,-112 383.5,-112 389.5,-118 389.5,-124 389.5,-124 389.5,-140 389.5,-140 389.5,-146 383.5,-152 377.5,-152" />
+<text text-anchor="middle" x="281" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deployment Bottleneck</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263.5,-224C263.5,-224 170.5,-224 170.5,-224 164.5,-224 158.5,-218 158.5,-212 158.5,-212 158.5,-196 158.5,-196 158.5,-190 164.5,-184 170.5,-184 170.5,-184 263.5,-184 263.5,-184 269.5,-184 275.5,-190 275.5,-196 275.5,-196 275.5,-212 275.5,-212 275.5,-218 269.5,-224 263.5,-224" />
+<text text-anchor="middle" x="217" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Operations</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M380,-224C380,-224 310,-224 310,-224 304,-224 298,-218 298,-212 298,-212 298,-196 298,-196 298,-190 304,-184 310,-184 310,-184 380,-184 380,-184 386,-184 392,-190 392,-196 392,-196 392,-212 392,-212 392,-218 386,-224 380,-224" />
+<text text-anchor="middle" x="345" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Security</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M500,-224C500,-224 426,-224 426,-224 420,-224 414,-218 414,-212 414,-212 414,-196 414,-196 414,-190 420,-184 426,-184 426,-184 500,-184 500,-184 506,-184 512,-190 512,-196 512,-196 512,-212 512,-212 512,-218 506,-224 500,-224" />
+<text text-anchor="middle" x="463" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Business</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="281,-80 129,-40 281,0 433,-40 281,-80" />
+<text text-anchor="middle" x="281" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chaos &amp; Delays</text>
+</g>
+</g>
+</svg>

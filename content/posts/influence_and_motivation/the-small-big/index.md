@@ -31,11 +31,7 @@ The authors highlight the role of context and environment in shaping behavior. A
 "Priming" is a powerful technique explored in the book.  This involves subtly exposing individuals to specific stimuli that activate certain cognitive pathways and thereby influence their subsequent actions.  For instance, simply exposing people to words related to cleanliness can increase their likelihood of engaging in hygienic behaviors. This highlights the power of subtle cues in shaping behavior.
 
 
-```mermaid
-graph LR
-A["Stimulus (Prime)"] --> B(Cognitive Activation);
-B --> C[Behavioral Change];
-```
+![The "Prime" Effect: Subtly Shaping Behavior. Stimulus (Prime); Cognitive Activation; Behavioral Change.](diagram-01.svg)
 
 ##  Social Norms: The Power of Conformity
 
@@ -51,11 +47,7 @@ The book highlights the importance of commitment and consistency in behavioral c
 
 Loss aversion refers to the psychological phenomenon where people are more sensitive to losses than gains.  The book emphasizes framing messages in terms of potential losses, rather than gains, to increase motivation for change. For example, highlighting the potential health risks associated with smoking is more impactful than focusing solely on the benefits of quitting.
 
-```mermaid
-graph LR
-A[Gain Frame] --> B(Weak Motivation);
-C[Loss Frame] --> D(Strong Motivation);
-```
+![Loss Aversion: Framing the Message. Gain Frame; Weak Motivation; Loss Frame; Strong Motivation.](diagram-02.svg)
 
 
 ##  Self-Efficacy: Belief in One's Ability

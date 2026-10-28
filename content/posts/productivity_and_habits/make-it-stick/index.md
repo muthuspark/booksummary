@@ -18,11 +18,7 @@ Many believe that if something feels easy to learn, it's been effectively learne
 
 One of the most significant takeaways from the book is the power of retrieval practice.  This involves actively recalling information from memory, rather than passively rereading or reviewing material.  Testing yourself, even without looking at the answers, is far more effective than simply rereading notes.
 
-```mermaid
-graph LR
-    A["Passive Review (e.g., Rereading)"] --> B(Weak Memory Encoding);
-    C["Retrieval Practice (e.g., Testing)"] --> D(Strong Memory Encoding);
-```
+![Retrieval Practice: The Power of Testing. Passive Review (e.g., Rereading); Weak Memory Encoding; Retrieval Practice (e.g., Testing); Strong Memory Encoding.](diagram-01.svg)
 
 Retrieval practice strengthens memory traces, making information more accessible and resistant to forgetting.  The act of struggling to retrieve strengthens memory far more than passively reviewing.
 
@@ -30,11 +26,7 @@ Retrieval practice strengthens memory traces, making information more accessible
 
 Interleaving is another key strategy highlighted in the book. Instead of focusing on one topic at a time, interleaving involves mixing up different subjects or types of problems.  For instance, studying math, history, and science in alternating sessions rather than dedicating a block of time to each subject separately.
 
-```mermaid
-graph LR
-    A[Blocking: Studying one subject at a time] --> B(Shallow Understanding, Easy but Forgettable);
-    C[Interleaving: Mixing different subjects] --> D(Deep Understanding, Difficult but Rememberable);
-```
+![Interleaving: Mixing it Up. Blocking: Studying one subject at a time; Shallow Understanding, Easy but Forgettable; Interleaving: Mixing different subjects; Deep Understanding, Difficult but Rememberable.](diagram-02.svg)
 
 While initially more challenging, interleaving forces the brain to discriminate between different concepts, leading to stronger and more flexible learning.  It also helps identify knowledge gaps more readily.
 
@@ -50,11 +42,7 @@ The book promotes dual coding, which is the integration of verbal and visual inf
 
 The spacing effect demonstrates the importance of spaced repetition.  Instead of cramming all information at once, spreading out learning sessions over time leads to superior retention.  Repeated retrieval of information at increasing intervals strengthens memory. This principle is fundamental to effective long-term learning.
 
-```mermaid
-graph LR
-    A["Massed Practice (Cramming)"] --> B(Initial High Performance, Rapid Forgetting);
-    C["Spaced Practice (Distributed Learning)"] --> D(Slower Initial Learning, Long-term Retention);
-```
+![Spacing Effect: Timed Repetition. Massed Practice (Cramming); Initial High Performance, Rapid Forgetting; Spaced Practice (Distributed Learning); Slower Initial Learning, Long-term Retention.](diagram-03.svg)
 
 
 # Metacognition: Knowing How You Learn

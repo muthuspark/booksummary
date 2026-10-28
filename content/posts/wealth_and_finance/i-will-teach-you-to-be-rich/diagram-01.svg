@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="731pt" height="280pt" viewBox="0.00 0.00 731.00 280.00" role="img" aria-labelledby="title description">
+<title id="title">Week 2: Automating Your Savings and Investments</title><desc id="description">Income leads to Auto-Save. Auto-Save leads to Bills. Auto-Save leads to Discretionary Spending. Auto-Save leads to Investments.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 262)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-262 713,-262 713,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.34,-102C97.1,-102 105.3,-102 113.43,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.87,-104.45 120.87,-102 113.87,-99.55 113.87,-104.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M205.71,-122.01C221.91,-132.52 242.88,-144.87 263,-153 314.32,-173.74 376.08,-187.3 420.22,-195.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="419.83,-197.61 427.15,-196.41 420.68,-192.78 419.83,-197.61" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M231.16,-102C238.84,-102 247.1,-102 255.77,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.81,-104.45 262.81,-102 255.81,-99.55 255.81,-104.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M204.67,-81.79C220.88,-70.94 242.21,-58.34 263,-51 309.99,-34.42 365.76,-26.69 408.72,-23.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="408.99,-25.54 415.77,-22.54 408.6,-20.65 408.99,-25.54" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M77,-122C77,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 77,-82 77,-82 83,-82 89,-88 89,-94 89,-94 89,-110 89,-110 89,-116 83,-122 77,-122" />
+<text text-anchor="middle" x="44.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Income</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M219,-122C219,-122 133,-122 133,-122 127,-122 121,-116 121,-110 121,-110 121,-94 121,-94 121,-88 127,-82 133,-82 133,-82 219,-82 219,-82 225,-82 231,-88 231,-94 231,-94 231,-110 231,-110 231,-116 225,-122 219,-122" />
+<text text-anchor="middle" x="176" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Auto-Save</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="479,-244 415,-204 479,-164 543,-204 479,-244" />
+<text text-anchor="middle" x="479" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bills</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="479,-142 263,-102 479,-62 695,-102 479,-142" />
+<text text-anchor="middle" x="479" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discretionary Spending</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M530,-40C530,-40 428,-40 428,-40 422,-40 416,-34 416,-28 416,-28 416,-12 416,-12 416,-6 422,0 428,0 428,0 530,0 530,0 536,0 542,-6 542,-12 542,-12 542,-28 542,-28 542,-34 536,-40 530,-40" />
+<text text-anchor="middle" x="479" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Investments</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="890pt" height="218pt" viewBox="0.00 0.00 890.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">Insight Two: The Power of Energy Fields</title><desc id="description">Negative Emotions leads to Draining Energy Field. Draining Energy Field leads to Negative Interactions. Positive Emotions leads to Uplifting Energy Field. Uplifting Energy Field leads to Positive Interactions.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 872,-200 872,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179.01,-40C186.96,-40 195.2,-40 203.64,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.77,-42.45 210.77,-40 203.77,-37.55 203.77,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M623.31,-40C631.53,-40 639.64,-40 647.52,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="647.71,-42.45 654.71,-40 647.71,-37.55 647.71,-42.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.02,-142C184.96,-142 194.31,-142 203.91,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.95,-144.45 210.95,-142 203.95,-139.55 203.95,-144.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M623.31,-142C632.75,-142 642.03,-142 651.01,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="651.15,-144.45 658.15,-142 651.15,-139.55 651.15,-144.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-60C167,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 167,-20 167,-20 173,-20 179,-26 179,-32 179,-32 179,-48 179,-48 179,-54 173,-60 167,-60" />
+<text text-anchor="middle" x="89.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Emotions</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="417,-80 211,-40 417,0 623,-40 417,-80" />
+<text text-anchor="middle" x="417" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Draining Energy Field</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M842,-60C842,-60 667,-60 667,-60 661,-60 655,-54 655,-48 655,-48 655,-32 655,-32 655,-26 661,-20 667,-20 667,-20 842,-20 842,-20 848,-20 854,-26 854,-32 854,-32 854,-48 854,-48 854,-54 848,-60 842,-60" />
+<text text-anchor="middle" x="754.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Interactions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-162C164,-162 15,-162 15,-162 9,-162 3,-156 3,-150 3,-150 3,-134 3,-134 3,-128 9,-122 15,-122 15,-122 164,-122 164,-122 170,-122 176,-128 176,-134 176,-134 176,-150 176,-150 176,-156 170,-162 164,-162" />
+<text text-anchor="middle" x="89.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Emotions</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="417,-182 211,-142 417,-102 623,-142 417,-182" />
+<text text-anchor="middle" x="417" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Uplifting Energy Field</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M838.5,-162C838.5,-162 670.5,-162 670.5,-162 664.5,-162 658.5,-156 658.5,-150 658.5,-150 658.5,-134 658.5,-134 658.5,-128 664.5,-122 670.5,-122 670.5,-122 838.5,-122 838.5,-122 844.5,-122 850.5,-128 850.5,-134 850.5,-134 850.5,-150 850.5,-150 850.5,-156 844.5,-162 838.5,-162" />
+<text text-anchor="middle" x="754.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Interactions</text>
+</g>
+</g>
+</svg>

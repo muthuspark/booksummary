@@ -20,28 +20,13 @@ A core argument of the book is the strong case for passive investing strategies,
 
 The book stresses the importance of understanding market volatility. Stock prices fluctuate over the short-term; however, these short-term fluctuations are often random and unpredictable. Malkiel emphasizes the necessity of a long-term investment horizon to weather these storms and benefit from the long-term upward trend of the market. Holding investments through market downturns is important for realizing long-term gains.
 
-```mermaid
-graph LR
-    A[Market Volatility] --> B(Short-Term Fluctuations);
-    A --> C(Long-Term Growth);
-    C --> D[Accumulate Wealth];
-    B --> E{Risk & Uncertainty};
-```
+![Understanding Market Volatility and Risk. Market Volatility; Short-Term Fluctuations; Long-Term Growth; Accumulate Wealth; Risk & Uncertainty.](diagram-01.svg)
 
 # Diversification: Minimizing Risk
 
 Diversification is presented as a cornerstone of successful investing. By spreading investments across various asset classes (stocks, bonds, real estate, etc.) and sectors, investors can reduce their overall portfolio risk. This reduces the impact of any single investment's poor performance on the overall portfolio's value.
 
-```mermaid
-graph LR
-    A[Diversification] --> B(Stocks);
-    A --> C(Bonds);
-    A --> D(Real Estate);
-    B --> E[Reduce Risk];
-    C --> E;
-    D --> E;
-
-```
+![Diversification: Minimizing Risk. Diversification; Stocks; Bonds; Real Estate; Reduce Risk.](diagram-02.svg)
 
 #  The Role of Asset Allocation
 

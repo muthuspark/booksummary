@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312pt" height="404pt" viewBox="0.00 0.00 311.50 404.00" role="img" aria-labelledby="title description">
+<title id="title">Dealing with Product-Market Fit</title><desc id="description">Idea leads to Prototype. Prototype leads to Feedback. Feedback leads to Iteration. Iteration leads to Product-Market Fit. Iteration leads to Pivot.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 293.5,-386 293.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.5,-327.87C165.5,-320.31 165.5,-311.49 165.5,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="167.95,-303.1 165.5,-296.1 163.05,-303.1 167.95,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.5,-255.87C165.5,-248.31 165.5,-239.49 165.5,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="167.95,-231.1 165.5,-224.1 163.05,-231.1 167.95,-231.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.5,-183.91C165.5,-176.58 165.5,-167.86 165.5,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="167.95,-159.07 165.5,-152.07 163.05,-159.07 167.95,-159.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.27,-81.53C131.72,-69.92 120.88,-56.73 111.76,-45.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.5,-43.9 107.16,-40.05 109.72,-47.01 113.5,-43.9" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M190.06,-81.53C199.73,-69.92 210.72,-56.73 219.97,-45.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.03,-46.99 224.63,-40.05 218.26,-43.86 222.03,-46.99" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185.5,-368C185.5,-368 145.5,-368 145.5,-368 139.5,-368 133.5,-362 133.5,-356 133.5,-356 133.5,-340 133.5,-340 133.5,-334 139.5,-328 145.5,-328 145.5,-328 185.5,-328 185.5,-328 191.5,-328 197.5,-334 197.5,-340 197.5,-340 197.5,-356 197.5,-356 197.5,-362 191.5,-368 185.5,-368" />
+<text text-anchor="middle" x="165.5" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M207,-296C207,-296 124,-296 124,-296 118,-296 112,-290 112,-284 112,-284 112,-268 112,-268 112,-262 118,-256 124,-256 124,-256 207,-256 207,-256 213,-256 219,-262 219,-268 219,-268 219,-284 219,-284 219,-290 213,-296 207,-296" />
+<text text-anchor="middle" x="165.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototype</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M205.5,-224C205.5,-224 125.5,-224 125.5,-224 119.5,-224 113.5,-218 113.5,-212 113.5,-212 113.5,-196 113.5,-196 113.5,-190 119.5,-184 125.5,-184 125.5,-184 205.5,-184 205.5,-184 211.5,-184 217.5,-190 217.5,-196 217.5,-196 217.5,-212 217.5,-212 217.5,-218 211.5,-224 205.5,-224" />
+<text text-anchor="middle" x="165.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="165.5,-152 67.5,-112 165.5,-72 263.5,-112 165.5,-152" />
+<text text-anchor="middle" x="165.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iteration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M171,-40C171,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 171,0 171,0 177,0 183,-6 183,-12 183,-12 183,-28 183,-28 183,-34 177,-40 171,-40" />
+<text text-anchor="middle" x="91.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Product-Market Fit</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M263.5,-40C263.5,-40 217.5,-40 217.5,-40 211.5,-40 205.5,-34 205.5,-28 205.5,-28 205.5,-12 205.5,-12 205.5,-6 211.5,0 217.5,0 217.5,0 263.5,0 263.5,0 269.5,0 275.5,-6 275.5,-12 275.5,-12 275.5,-28 275.5,-28 275.5,-34 269.5,-40 263.5,-40" />
+<text text-anchor="middle" x="240.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pivot</text>
+</g>
+</g>
+</svg>

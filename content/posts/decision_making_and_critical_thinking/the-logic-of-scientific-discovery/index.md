@@ -14,13 +14,7 @@ Karl Popper's "The Logic of Scientific Discovery" is not a self-help manual, but
 
 The process of scientific discovery, according to Popper, is a cycle of conjecture and refutation.  We begin by formulating a bold conjecture (hypothesis), then rigorously test it through observation and experimentation.  If the tests refute the conjecture, we must revise or abandon it.  If the tests support the conjecture, it gains credence but remains open to further scrutiny and potential falsification.  This cycle translates into a powerful life strategy: formulate ambitious goals, test them through action and feedback, and be prepared to change course when confronted with evidence that challenges your initial assumptions.
 
-```mermaid
-graph LR
-    A[Conjecture] --> B(Test);
-    B -- Refuted --> C[Revise/Abandon];
-    B -- Corroborated --> D[Further Testing];
-    D --> B;
-```
+![Conjecture and Refutation: A Life Cycle of Learning. Conjecture; Test; Revise/Abandon; Further Testing.](diagram-01.svg)
 
 ## The Importance of Bold Conjectures
 

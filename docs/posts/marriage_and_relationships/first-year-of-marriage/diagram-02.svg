@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564pt" height="332pt" viewBox="0.00 0.00 564.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Finances: A Joint Venture</title><desc id="description">Joint Budgeting leads to Transparency. Transparency leads to Financial Goals. Financial Goals leads to Reduced Stress. Joint Budgeting leads to Open Communication. Open Communication leads to Reduced Stress.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 546,-314 546,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.31,-255.87C250.92,-247.38 237.4,-237.32 225.4,-228.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.73,-226.32 219.65,-224.1 223.81,-230.25 226.73,-226.32" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.37,-255.78C329.48,-226.31 377.47,-169.97 405.07,-137.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="406.97,-139.11 409.65,-132.19 403.24,-135.93 406.97,-139.11" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M184.88,-183.91C180.72,-175.2 175.61,-164.51 170.64,-154.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.8,-152.94 167.57,-147.68 168.38,-155.06 172.8,-152.94" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193.6,-83.02C212.65,-70.5 234.84,-55.92 252.92,-44.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.38,-46.02 258.88,-40.13 251.68,-41.93 254.38,-46.02" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M396.73,-91.91C375.24,-77.89 345.93,-58.78 323.16,-43.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="324.43,-41.83 317.22,-40.06 321.75,-45.94 324.43,-41.83" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M353.5,-296C353.5,-296 222.5,-296 222.5,-296 216.5,-296 210.5,-290 210.5,-284 210.5,-284 210.5,-268 210.5,-268 210.5,-262 216.5,-256 222.5,-256 222.5,-256 353.5,-256 353.5,-256 359.5,-256 365.5,-262 365.5,-268 365.5,-268 365.5,-284 365.5,-284 365.5,-290 359.5,-296 353.5,-296" />
+<text text-anchor="middle" x="288" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Joint Budgeting</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251,-224C251,-224 137,-224 137,-224 131,-224 125,-218 125,-212 125,-212 125,-196 125,-196 125,-190 131,-184 137,-184 137,-184 251,-184 251,-184 257,-184 263,-190 263,-196 263,-196 263,-212 263,-212 263,-218 257,-224 251,-224" />
+<text text-anchor="middle" x="194" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transparency</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="151,-152 0,-112 151,-72 302,-112 151,-152" />
+<text text-anchor="middle" x="151" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Goals</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351.5,-40C351.5,-40 224.5,-40 224.5,-40 218.5,-40 212.5,-34 212.5,-28 212.5,-28 212.5,-12 212.5,-12 212.5,-6 218.5,0 224.5,0 224.5,0 351.5,0 351.5,0 357.5,0 363.5,-6 363.5,-12 363.5,-12 363.5,-28 363.5,-28 363.5,-34 357.5,-40 351.5,-40" />
+<text text-anchor="middle" x="288" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Stress</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M516,-132C516,-132 336,-132 336,-132 330,-132 324,-126 324,-120 324,-120 324,-104 324,-104 324,-98 330,-92 336,-92 336,-92 516,-92 516,-92 522,-92 528,-98 528,-104 528,-104 528,-120 528,-120 528,-126 522,-132 516,-132" />
+<text text-anchor="middle" x="426" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Open Communication</text>
+</g>
+</g>
+</svg>

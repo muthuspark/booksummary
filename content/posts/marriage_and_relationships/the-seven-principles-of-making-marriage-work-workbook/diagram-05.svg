@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="443pt" height="262pt" viewBox="0.00 0.00 443.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Solve Your Solvable Problems:  Effective Problem-Solving</title><desc id="description">Problem Solving leads to Identify Problem. Problem Solving leads to Brainstorm Solutions. Problem Solving leads to Experiment &amp; Evaluate. Problem Solving leads to Compromise &amp; Plan.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 425,-244 425,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.57,-133.17C134.28,-146.39 164.1,-163.33 192,-175 199.42,-178.11 207.26,-181.03 215.18,-183.74" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.43,-186.07 221.85,-185.96 215.99,-181.42 214.43,-186.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.14,-124.28C170.8,-125.8 181.87,-127.38 192.9,-128.95" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="192.86,-131.42 200.14,-129.98 193.55,-126.57 192.86,-131.42" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.14,-101.72C168.2,-100.57 176.5,-99.39 184.84,-98.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="185.27,-100.61 191.85,-97.2 184.58,-95.76 185.27,-100.61" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.57,-92.83C134.28,-79.61 164.1,-62.67 192,-51 199.42,-47.89 207.26,-44.97 215.18,-42.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.99,-44.58 221.85,-40.04 214.43,-39.93 215.99,-44.58" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-133C148,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 148,-93 148,-93 154,-93 160,-99 160,-105 160,-105 160,-121 160,-121 160,-127 154,-133 148,-133" />
+<text text-anchor="middle" x="80" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem Solving</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369.5,-226C369.5,-226 229.5,-226 229.5,-226 223.5,-226 217.5,-220 217.5,-214 217.5,-214 217.5,-198 217.5,-198 217.5,-192 223.5,-186 229.5,-186 229.5,-186 369.5,-186 369.5,-186 375.5,-186 381.5,-192 381.5,-198 381.5,-198 381.5,-214 381.5,-214 381.5,-220 375.5,-226 369.5,-226" />
+<text text-anchor="middle" x="299.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Problem</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M386.5,-164C386.5,-164 212.5,-164 212.5,-164 206.5,-164 200.5,-158 200.5,-152 200.5,-152 200.5,-136 200.5,-136 200.5,-130 206.5,-124 212.5,-124 212.5,-124 386.5,-124 386.5,-124 392.5,-124 398.5,-130 398.5,-136 398.5,-136 398.5,-152 398.5,-152 398.5,-158 392.5,-164 386.5,-164" />
+<text text-anchor="middle" x="299.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brainstorm Solutions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M395,-102C395,-102 204,-102 204,-102 198,-102 192,-96 192,-90 192,-90 192,-74 192,-74 192,-68 198,-62 204,-62 204,-62 395,-62 395,-62 401,-62 407,-68 407,-74 407,-74 407,-90 407,-90 407,-96 401,-102 395,-102" />
+<text text-anchor="middle" x="299.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Experiment &amp; Evaluate</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M381.5,-40C381.5,-40 217.5,-40 217.5,-40 211.5,-40 205.5,-34 205.5,-28 205.5,-28 205.5,-12 205.5,-12 205.5,-6 211.5,0 217.5,0 217.5,0 381.5,0 381.5,0 387.5,0 393.5,-6 393.5,-12 393.5,-12 393.5,-28 393.5,-28 393.5,-34 387.5,-40 381.5,-40" />
+<text text-anchor="middle" x="299.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compromise &amp; Plan</text>
+</g>
+</g>
+</svg>

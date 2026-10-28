@@ -18,12 +18,7 @@ Pollan's approach hinges on reconnecting with our innate wisdom about food, a wi
 
 This foundational rule highlights the core principle of avoiding processed foods. Modern food processing often strips away essential nutrients and adds unhealthy additives. By sticking to foods recognizable to our ancestors – fruits, vegetables, whole grains, lean proteins, and healthy fats – we improve our dietary quality.
 
-```mermaid
-graph LR
-    A[Great-Grandmother's Food] --> B(Whole, Unprocessed);
-    B --> C{Fruits, Vegetables, Grains, Lean Protein, Healthy Fats};
-    C --> D(Improved Dietary Quality);
-```
+![Don't Eat Anything Your Great-Grandmother Wouldn't Consider Food. Great-Grandmother's Food; Whole, Unprocessed; Fruits, Vegetables, Grains, Lean Protein, Healthy Fats; Improved Dietary Quality.](diagram-01.svg)
 
 ##  Eat Food. Not Too Much. Mostly Plants.
 
@@ -69,19 +64,7 @@ The book subtly highlights the environmental impact of our food choices. By supp
 * **Embrace Seasonal Produce:** This ensures the freshest and most flavorful foods.
 * **Grow Your Own Food (if possible):** Cultivating even a small garden can deepen your connection with food.
 
-```mermaid
-graph LR
-    A[Healthy Eating Habits] --> B(Cook More);
-    A --> C(Shop Smart);
-    A --> D(Read Labels);
-    A --> E(Mindful Eating);
-    A --> F(Reduce Processed Foods);
-    A --> G(Whole Foods);
-    A --> H(Less Meat);
-    A --> I(Reduce Waste);
-    A --> J(Seasonal Produce);
-    A --> K(Grow Your Own);
-```
+![Actionable Strategies and Insights:. Healthy Eating Habits; Cook More; Shop Smart; Read Labels; Mindful Eating; Reduce Processed Foods; Whole Foods; Less Meat; Reduce Waste; Seasonal Produce; Grow Your Own.](diagram-02.svg)
 
 
 ## Beyond the Rules: A New Approach

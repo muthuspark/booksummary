@@ -16,14 +16,7 @@ Brian Tracy's "The Psychology of Selling" isn't just about closing deals; it's a
 A core theme throughout the book is the importance of self-belief and a positive attitude. Tracy argues that a salesperson's belief in their product, their company, and themselves is directly proportional to their success. Doubt and negativity are identified as major obstacles, hindering effective communication and relationship-building.  He advocates for the development of unshakeable self-confidence through positive self-talk, visualization, and consistent action.
 
 
-```mermaid
-graph LR
-    A[Self-Belief] --> B(Positive Attitude);
-    B --> C{Effective Communication};
-    C --> D[Successful Sales];
-    A --> E(Consistent Action);
-    E --> D;
-```
+![The Power of Belief. Self-Belief; Positive Attitude; Effective Communication; Successful Sales; Consistent Action.](diagram-01.svg)
 
 
 # Understanding Customer Needs

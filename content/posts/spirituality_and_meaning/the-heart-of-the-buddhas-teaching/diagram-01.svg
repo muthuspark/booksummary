@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="341pt" height="260pt" viewBox="0.00 0.00 340.50 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Origin of Suffering: The Second Noble Truth</title><desc id="description">Craving/Attachment (Tanha) leads to Unsatisfactoriness/Suffering (Dukkha. Unsatisfactoriness/Suffering (Dukkha leads to More Craving. More Craving leads to Craving/Attachment (Tanha).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 322.5,-242 322.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.48,-163.53C174.99,-155.21 166.77,-146.08 159.04,-137.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="160.81,-135.79 154.31,-132.23 157.17,-139.07 160.81,-135.79" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M157.7,-71.67C166.53,-62.95 176.09,-53.51 184.54,-45.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.38,-46.78 189.64,-40.12 182.94,-43.3 186.38,-46.78" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.98,-40.15C250.6,-48.49 261.25,-59.29 267,-72 277.99,-96.3 276.89,-107.24 267,-132 263.17,-141.59 257.03,-150.54 250.15,-158.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.2,-156.96 245.29,-163.78 251.82,-160.27 248.2,-156.96" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292.5,-224C292.5,-224 125.5,-224 125.5,-224 119.5,-224 113.5,-218 113.5,-212 113.5,-212 113.5,-176 113.5,-176 113.5,-170 119.5,-164 125.5,-164 125.5,-164 292.5,-164 292.5,-164 298.5,-164 304.5,-170 304.5,-176 304.5,-176 304.5,-212 304.5,-212 304.5,-218 298.5,-224 292.5,-224" />
+<text text-anchor="middle" x="209" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Craving/Attachment</text>
+<text text-anchor="middle" x="209" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Tanha)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244,-132C244,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 244,-72 244,-72 250,-72 256,-78 256,-84 256,-84 256,-120 256,-120 256,-126 250,-132 244,-132" />
+<text text-anchor="middle" x="128" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unsatisfactoriness/Suffering</text>
+<text text-anchor="middle" x="128" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Dukkha</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265.5,-40C265.5,-40 152.5,-40 152.5,-40 146.5,-40 140.5,-34 140.5,-28 140.5,-28 140.5,-12 140.5,-12 140.5,-6 146.5,0 152.5,0 152.5,0 265.5,0 265.5,0 271.5,0 277.5,-6 277.5,-12 277.5,-12 277.5,-28 277.5,-28 277.5,-34 271.5,-40 265.5,-40" />
+<text text-anchor="middle" x="209" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">More Craving</text>
+</g>
+</g>
+</svg>

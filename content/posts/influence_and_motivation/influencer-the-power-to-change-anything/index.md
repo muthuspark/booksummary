@@ -19,17 +19,7 @@ The authors posit that most of us suffer from an "influence deficit." We struggl
 The core of the book revolves around six sources of influence, forming a powerful framework for achieving sustainable change. These sources work synergistically, and their combined application is essential for maximum impact.
 
 
-```mermaid
-graph LR
-A[Motivation] --> B(Personal Mastery);
-A --> C(Shared Vision);
-D[Resources] --> E(Effective Communication);
-D --> F(Strong Relationships);
-B --> G(Influence);
-C --> G;
-E --> G;
-F --> G;
-```
+![The Six Sources of Influence: A Foundation for Change. Motivation; Personal Mastery; Shared Vision; Resources; Effective Communication; Strong Relationships; Influence.](diagram-01.svg)
 
 
 * **Motivation:**  Understanding and addressing the underlying motivations of the individuals you want to influence is key. What are their needs, desires, and fears?  This involves genuine empathy and the ability to see things from their perspective.

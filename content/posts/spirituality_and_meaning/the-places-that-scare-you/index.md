@@ -14,13 +14,7 @@ Pema Chödrön's "The Places That Scare You" isn't a self-help book in the tradi
 
 Chödrön emphasizes that fear is a fundamental aspect of the human experience. It's not something to be eradicated, but rather understood and accepted as a natural part of life.  Our instinctive reaction is often to avoid discomfort, to numb ourselves through distractions or escape.  This, she argues, only reinforces our fear and prevents us from truly living.
 
-```mermaid
-graph LR
-A[Fear & Discomfort] --> B(Avoidance & Numbing);
-B --> C{Reinforced Fear & Suffering};
-A --> D(Acceptance & Presence);
-D --> E{Growth & Freedom};
-```
+![Recognizing the Nature of Fear. Fear & Discomfort; Avoidance & Numbing; Reinforced Fear & Suffering; Acceptance & Presence; Growth & Freedom.](diagram-01.svg)
 
 ## Working with Difficult Emotions
 
@@ -63,13 +57,7 @@ Chödrön advocates for openness and vulnerability as pathways to growth.  By al
 
 The book concludes by emphasizing that the path to freedom isn't about eliminating fear or discomfort, but about learning to work with them.  By embracing the present moment, cultivating self-compassion, and accepting the impermanence of all things, we can find a sense of inner peace and resilience.  The journey is not about reaching a destination, but about cultivating a way of being—a way of encountering the unpredictable and uncertain nature of life with wisdom, courage, and kindness.
 
-```mermaid
-graph LR
-A[Fear] --> B(Acceptance);
-B --> C(Present Moment Awareness);
-C --> D(Compassion & Kindness);
-D --> E(Freedom & Peace);
-```
+![The Path to Freedom. Fear; Acceptance; Present Moment Awareness; Compassion & Kindness; Freedom & Peace.](diagram-02.svg)
 
 This journey, as Chödrön reminds us, is a lifelong practice. It’s not a linear progression, but a continuous cycle of confronting fear, cultivating awareness, and developing inner strength. The places that scare us are not places to avoid but places to discover the strength and wisdom that lie within. They are the very places that ultimately lead to freedom.
 

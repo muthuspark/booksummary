@@ -30,12 +30,7 @@ The first discipline emphasizes the need to select only a few *Wildly Important 
 
 Discipline 2 focuses on lead and lag measures. Lagging measures are the outcomes you want to achieve (e.g., increased sales, improved customer satisfaction). Lead measures are the activities that directly influence those outcomes (e.g., number of customer calls, number of proposals submitted). Focusing solely on lagging measures is like looking in the rearview mirror while driving—you see where you've been, but not where you're going. Leading measures provide real-time feedback and allow for course correction.
 
-```mermaid
-graph LR
-    A["Lagging Measures (Outcomes)"] --> B(Results);
-    C["Leading Measures (Activities)"] --> A;
-    C --> D(Early Warning System);
-```
+![Lead and Lag Measures: Tracking Progress Effectively. Lagging Measures (Outcomes); Results; Leading Measures (Activities); Early Warning System.](diagram-01.svg)
 
 # Compelling Scoreboards: Visualizing Progress
 

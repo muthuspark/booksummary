@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="436pt" height="424pt" viewBox="0.00 0.00 436.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Defining the Problem:  Clarity is Paramount</title><desc id="description">Define the Objective leads to Specify the Scope. Specify the Scope leads to Identify Stakeholders. Identify Stakeholders leads to Frame the Decision Question. Frame the Decision Question leads to High-Quality Decision.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 418,-406 418,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-347.87C200,-340.31 200,-331.49 200,-323.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-323.1 200,-316.1 197.55,-323.1 202.45,-323.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-275.91C200,-268.58 200,-259.86 200,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-251.07 200,-244.07 197.55,-251.07 202.45,-251.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-163.76C200,-155.72 200,-147.29 200,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-139.23 200,-132.23 197.55,-139.23 202.45,-139.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-71.67C200,-63.77 200,-55.28 200,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-47.12 200,-40.12 197.55,-47.12 202.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M283.5,-388C283.5,-388 116.5,-388 116.5,-388 110.5,-388 104.5,-382 104.5,-376 104.5,-376 104.5,-360 104.5,-360 104.5,-354 110.5,-348 116.5,-348 116.5,-348 283.5,-348 283.5,-348 289.5,-348 295.5,-354 295.5,-360 295.5,-360 295.5,-376 295.5,-376 295.5,-382 289.5,-388 283.5,-388" />
+<text text-anchor="middle" x="200" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define the Objective</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M272,-316C272,-316 128,-316 128,-316 122,-316 116,-310 116,-304 116,-304 116,-288 116,-288 116,-282 122,-276 128,-276 128,-276 272,-276 272,-276 278,-276 284,-282 284,-288 284,-288 284,-304 284,-304 284,-310 278,-316 272,-316" />
+<text text-anchor="middle" x="200" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Specify the Scope</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="200,-244 0,-204 200,-164 400,-204 200,-244" />
+<text text-anchor="middle" x="200" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Stakeholders</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M280,-132C280,-132 120,-132 120,-132 114,-132 108,-126 108,-120 108,-120 108,-84 108,-84 108,-78 114,-72 120,-72 120,-72 280,-72 280,-72 286,-72 292,-78 292,-84 292,-84 292,-120 292,-120 292,-126 286,-132 280,-132" />
+<text text-anchor="middle" x="200" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Frame the Decision</text>
+<text text-anchor="middle" x="200" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Question</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M291.5,-40C291.5,-40 108.5,-40 108.5,-40 102.5,-40 96.5,-34 96.5,-28 96.5,-28 96.5,-12 96.5,-12 96.5,-6 102.5,0 108.5,0 108.5,0 291.5,0 291.5,0 297.5,0 303.5,-6 303.5,-12 303.5,-12 303.5,-28 303.5,-28 303.5,-34 297.5,-40 291.5,-40" />
+<text text-anchor="middle" x="200" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Quality Decision</text>
+</g>
+</g>
+</svg>

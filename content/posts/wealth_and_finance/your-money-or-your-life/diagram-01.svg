@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="362pt" height="536pt" viewBox="0.00 0.00 362.00 536.00" role="img" aria-labelledby="title description">
+<title id="title">Calculating Your Real Hourly Wage</title><desc id="description">Total Hours Worked leads to Total Income. Total Income leads to Subtract Taxes &amp; Expenses. Subtract Taxes &amp; Expenses leads to Real Income. Real Income leads to Divide by Total Hours Worked. Divide by Total Hours Worked leads to Real Hourly Wage.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 518)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-518 344,-518 344,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-459.87C163,-452.31 163,-443.49 163,-435.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-435.1 163,-428.1 160.55,-435.1 165.45,-435.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-387.84C163,-380.75 163,-372.25 163,-363.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-363.12 163,-356.12 160.55,-363.12 165.45,-363.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-235.81C163,-227.27 163,-218.86 163,-211.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-211.33 163,-204.33 160.55,-211.33 165.45,-211.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-163.63C163,-156.34 163,-147.78 163,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-139.19 163,-132.19 160.55,-139.19 165.45,-139.19" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-71.67C163,-63.77 163,-55.28 163,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-47.12 163,-40.12 160.55,-47.12 165.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M247.5,-500C247.5,-500 78.5,-500 78.5,-500 72.5,-500 66.5,-494 66.5,-488 66.5,-488 66.5,-472 66.5,-472 66.5,-466 72.5,-460 78.5,-460 78.5,-460 247.5,-460 247.5,-460 253.5,-460 259.5,-466 259.5,-472 259.5,-472 259.5,-488 259.5,-488 259.5,-494 253.5,-500 247.5,-500" />
+<text text-anchor="middle" x="163" y="-475.6" font-family="Georgia" font-size="18.00" fill="#243d36">Total Hours Worked</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218,-428C218,-428 108,-428 108,-428 102,-428 96,-422 96,-416 96,-416 96,-400 96,-400 96,-394 102,-388 108,-388 108,-388 218,-388 218,-388 224,-388 230,-394 230,-400 230,-400 230,-416 230,-416 230,-422 224,-428 218,-428" />
+<text text-anchor="middle" x="163" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Total Income</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="163,-356 0,-296 163,-236 326,-296 163,-356" />
+<text text-anchor="middle" x="163" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">Subtract Taxes &amp;</text>
+<text text-anchor="middle" x="163" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expenses</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M215.5,-204C215.5,-204 110.5,-204 110.5,-204 104.5,-204 98.5,-198 98.5,-192 98.5,-192 98.5,-176 98.5,-176 98.5,-170 104.5,-164 110.5,-164 110.5,-164 215.5,-164 215.5,-164 221.5,-164 227.5,-170 227.5,-176 227.5,-176 227.5,-192 227.5,-192 227.5,-198 221.5,-204 215.5,-204" />
+<text text-anchor="middle" x="163" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Real Income</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M253.5,-132C253.5,-132 72.5,-132 72.5,-132 66.5,-132 60.5,-126 60.5,-120 60.5,-120 60.5,-84 60.5,-84 60.5,-78 66.5,-72 72.5,-72 72.5,-72 253.5,-72 253.5,-72 259.5,-72 265.5,-78 265.5,-84 265.5,-84 265.5,-120 265.5,-120 265.5,-126 259.5,-132 253.5,-132" />
+<text text-anchor="middle" x="163" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Divide by Total Hours</text>
+<text text-anchor="middle" x="163" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Worked</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M238.5,-40C238.5,-40 87.5,-40 87.5,-40 81.5,-40 75.5,-34 75.5,-28 75.5,-28 75.5,-12 75.5,-12 75.5,-6 81.5,0 87.5,0 87.5,0 238.5,0 238.5,0 244.5,0 250.5,-6 250.5,-12 250.5,-12 250.5,-28 250.5,-28 250.5,-34 244.5,-40 238.5,-40" />
+<text text-anchor="middle" x="163" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Real Hourly Wage</text>
+</g>
+</g>
+</svg>

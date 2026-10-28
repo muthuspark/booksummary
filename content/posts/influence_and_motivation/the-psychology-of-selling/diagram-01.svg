@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="538pt" height="372pt" viewBox="0.00 0.00 538.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Belief</title><desc id="description">Self-Belief leads to Positive Attitude. Positive Attitude leads to Effective Communication. Effective Communication leads to Successful Sales. Self-Belief leads to Consistent Action. Consistent Action leads to Successful Sales.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 520,-354 520,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.42,-295.87C263.89,-287.85 256.2,-278.41 249.24,-269.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="250.88,-267.99 244.56,-264.1 247.08,-271.08 250.88,-267.99" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M299.88,-295.87C323.84,-262.82 372.98,-195.07 399.71,-158.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="401.98,-159.25 404.11,-152.15 398.02,-156.38 401.98,-159.25" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M216.28,-223.84C209.34,-213.38 200.36,-199.85 191.47,-186.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.31,-184.79 187.4,-180.31 189.22,-187.5 193.31,-184.79" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M204.41,-90.35C222.58,-75.09 242.65,-58.24 258.45,-44.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="260.28,-46.64 264.06,-40.26 257.13,-42.88 260.28,-46.64" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M395.18,-111.84C373.06,-93.26 339.43,-65.02 315.54,-44.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="316.93,-42.94 310,-40.31 313.78,-46.69 316.93,-42.94" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M330,-336C330,-336 242,-336 242,-336 236,-336 230,-330 230,-324 230,-324 230,-308 230,-308 230,-302 236,-296 242,-296 242,-296 330,-296 330,-296 336,-296 342,-302 342,-308 342,-308 342,-324 342,-324 342,-330 336,-336 330,-336" />
+<text text-anchor="middle" x="286" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Belief</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M297.5,-264C297.5,-264 160.5,-264 160.5,-264 154.5,-264 148.5,-258 148.5,-252 148.5,-252 148.5,-236 148.5,-236 148.5,-230 154.5,-224 160.5,-224 160.5,-224 297.5,-224 297.5,-224 303.5,-224 309.5,-230 309.5,-236 309.5,-236 309.5,-252 309.5,-252 309.5,-258 303.5,-264 297.5,-264" />
+<text text-anchor="middle" x="229" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Attitude</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="156,-192 0,-132 156,-72 312,-132 156,-192" />
+<text text-anchor="middle" x="156" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="156" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M353,-40C353,-40 221,-40 221,-40 215,-40 209,-34 209,-28 209,-28 209,-12 209,-12 209,-6 215,0 221,0 221,0 353,0 353,0 359,0 365,-6 365,-12 365,-12 365,-28 365,-28 365,-34 359,-40 353,-40" />
+<text text-anchor="middle" x="287" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Successful Sales</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M490,-152C490,-152 346,-152 346,-152 340,-152 334,-146 334,-140 334,-140 334,-124 334,-124 334,-118 340,-112 346,-112 346,-112 490,-112 490,-112 496,-112 502,-118 502,-124 502,-124 502,-140 502,-140 502,-146 496,-152 490,-152" />
+<text text-anchor="middle" x="418" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consistent Action</text>
+</g>
+</g>
+</svg>

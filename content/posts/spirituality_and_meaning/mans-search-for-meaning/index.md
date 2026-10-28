@@ -15,13 +15,7 @@ Viktor Frankl's "Man's Search for Meaning" is not merely a Holocaust memoir; it'
 
 Logotherapy posits that the primary motivational force in humans is the pursuit of meaning.  Unlike psychoanalysis that focuses on past traumas, or Adlerian psychology that emphasizes social factors, logotherapy centers on the future and the individual's responsibility to discover and fulfill their unique meaning in life.  This meaning isn't pre-ordained; it's actively created through engagement with life's challenges and opportunities.
 
-```mermaid
-graph LR
-A[Past Experiences] --> B(Present);
-B --> C{Future Possibilities};
-C --> D[Meaning Creation];
-D --> E(Purposeful Life);
-```
+![The Core of Logotherapy: Finding Meaning. Past Experiences; Present; Future Possibilities; Meaning Creation; Purposeful Life.](diagram-01.svg)
 
 Frankl argues that even in the direst circumstances, humans retain the freedom to choose their attitude towards suffering.  This freedom of the "human spirit" is the foundation of logotherapy.  It's not about escaping pain, but about finding meaning within it.
 
@@ -41,14 +35,7 @@ Frankl outlines three primary avenues for discovering meaning:
 
 Frankl’s experiences in the concentration camps demonstrate the role of attitude in facing adversity.  He observed that those who maintained hope, a sense of purpose, or even a simple goal (such as surviving another day) tended to fare better psychologically and physically. This emphasizes the power of the mind to shape our reality, even in the harshest environments.
 
-```mermaid
-graph LR
-A[Adversity] --> B(Attitude);
-B -- Positive --> C[Resilience];
-B -- Negative --> D[Despair];
-C --> E[Meaning];
-D --> F[Breakdown];
-```
+![Facing Adversity: The Power of Attitude. Adversity; Attitude; Resilience; Despair; Meaning; Breakdown.](diagram-02.svg)
 
 
 #  Developing Inner Strength: Practical Strategies

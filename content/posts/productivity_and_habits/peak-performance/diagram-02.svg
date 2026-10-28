@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550pt" height="138pt" viewBox="0.00 0.00 550.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Variability and Recovery</title><desc id="description">High Intensity leads to Variability. Rest &amp; Recovery leads to Variability. Variability leads to Adaptation &amp; Peak Performance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 532,-120 532,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151.88,-68.76C162.87,-66.71 174.15,-64.61 184.92,-62.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="185.49,-64.98 191.92,-61.29 184.59,-60.16 185.49,-64.98" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.37,-51C312.19,-51 320.42,-51 328.73,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="328.73,-53.45 335.73,-51 328.73,-48.55 328.73,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.11,-34.77C168.29,-36.3 176.53,-37.84 184.49,-39.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.39,-41.8 191.72,-40.68 185.29,-36.98 184.39,-41.8" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M139.5,-102C139.5,-102 20.5,-102 20.5,-102 14.5,-102 8.5,-96 8.5,-90 8.5,-90 8.5,-74 8.5,-74 8.5,-68 14.5,-62 20.5,-62 20.5,-62 139.5,-62 139.5,-62 145.5,-62 151.5,-68 151.5,-74 151.5,-74 151.5,-90 151.5,-90 151.5,-96 145.5,-102 139.5,-102" />
+<text text-anchor="middle" x="80" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Intensity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-71C292,-71 204,-71 204,-71 198,-71 192,-65 192,-59 192,-59 192,-43 192,-43 192,-37 198,-31 204,-31 204,-31 292,-31 292,-31 298,-31 304,-37 304,-43 304,-43 304,-59 304,-59 304,-65 298,-71 292,-71" />
+<text text-anchor="middle" x="248" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Variability</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-40C148,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 148,0 148,0 154,0 160,-6 160,-12 160,-12 160,-28 160,-28 160,-34 154,-40 148,-40" />
+<text text-anchor="middle" x="80" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rest &amp; Recovery</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M502,-81C502,-81 348,-81 348,-81 342,-81 336,-75 336,-69 336,-69 336,-33 336,-33 336,-27 342,-21 348,-21 348,-21 502,-21 502,-21 508,-21 514,-27 514,-33 514,-33 514,-69 514,-69 514,-75 508,-81 502,-81" />
+<text text-anchor="middle" x="425" y="-56.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adaptation &amp; Peak</text>
+<text text-anchor="middle" x="425" y="-36.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance</text>
+</g>
+</g>
+</svg>

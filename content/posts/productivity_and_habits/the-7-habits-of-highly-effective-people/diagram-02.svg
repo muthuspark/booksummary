@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="491pt" height="362pt" viewBox="0.00 0.00 491.00 362.00" role="img" aria-labelledby="title description">
+<title id="title">Habit 3: Put First Things First</title><desc id="description">Urgent &amp; Important leads to Crises, Deadlines, Pressing Problems. Important, Not Urgent leads to Prevention, Relationship Building, Planning. Urgent, Not Important leads to Interruptions, Some Meetings, Some Emails. Not Urgent, Not Important leads to Time Wasters, Trivia, Busywork.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 344)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-344 473,-344 473,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198.52,-30C216.35,-30 235.04,-30 252.9,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.97,-32.45 259.97,-30 252.97,-27.55 252.97,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209.32,-122C218.59,-122 228,-122 237.31,-122" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237.42,-124.45 244.42,-122 237.42,-119.55 237.42,-124.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209.32,-214C217.35,-214 225.47,-214 233.56,-214" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.96,-216.45 240.96,-214 233.96,-211.55 233.96,-216.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.58,-296C201.14,-296 221.3,-296 240.93,-296" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.13,-298.45 248.13,-296 241.13,-293.55 241.13,-298.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M186.5,-50C186.5,-50 22.5,-50 22.5,-50 16.5,-50 10.5,-44 10.5,-38 10.5,-38 10.5,-22 10.5,-22 10.5,-16 16.5,-10 22.5,-10 22.5,-10 186.5,-10 186.5,-10 192.5,-10 198.5,-16 198.5,-22 198.5,-22 198.5,-38 198.5,-38 198.5,-44 192.5,-50 186.5,-50" />
+<text text-anchor="middle" x="104.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent &amp; Important</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M424,-60C424,-60 272,-60 272,-60 266,-60 260,-54 260,-48 260,-48 260,-12 260,-12 260,-6 266,0 272,0 272,0 424,0 424,0 430,0 436,-6 436,-12 436,-12 436,-48 436,-48 436,-54 430,-60 424,-60" />
+<text text-anchor="middle" x="348" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Crises, Deadlines,</text>
+<text text-anchor="middle" x="348" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pressing Problems</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197,-142C197,-142 12,-142 12,-142 6,-142 0,-136 0,-130 0,-130 0,-114 0,-114 0,-108 6,-102 12,-102 12,-102 197,-102 197,-102 203,-102 209,-108 209,-114 209,-114 209,-130 209,-130 209,-136 203,-142 197,-142" />
+<text text-anchor="middle" x="104.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important, Not Urgent</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M439.5,-162C439.5,-162 256.5,-162 256.5,-162 250.5,-162 244.5,-156 244.5,-150 244.5,-150 244.5,-94 244.5,-94 244.5,-88 250.5,-82 256.5,-82 256.5,-82 439.5,-82 439.5,-82 445.5,-82 451.5,-88 451.5,-94 451.5,-94 451.5,-150 451.5,-150 451.5,-156 445.5,-162 439.5,-162" />
+<text text-anchor="middle" x="348" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prevention,</text>
+<text text-anchor="middle" x="348" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship Building,</text>
+<text text-anchor="middle" x="348" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Planning</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197,-234C197,-234 12,-234 12,-234 6,-234 0,-228 0,-222 0,-222 0,-206 0,-206 0,-200 6,-194 12,-194 12,-194 197,-194 197,-194 203,-194 209,-200 209,-206 209,-206 209,-222 209,-222 209,-228 203,-234 197,-234" />
+<text text-anchor="middle" x="104.5" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent, Not Important</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M443,-244C443,-244 253,-244 253,-244 247,-244 241,-238 241,-232 241,-232 241,-196 241,-196 241,-190 247,-184 253,-184 253,-184 443,-184 443,-184 449,-184 455,-190 455,-196 455,-196 455,-232 455,-232 455,-238 449,-244 443,-244" />
+<text text-anchor="middle" x="348" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interruptions, Some</text>
+<text text-anchor="middle" x="348" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meetings, Some Emails</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170.5,-326C170.5,-326 38.5,-326 38.5,-326 32.5,-326 26.5,-320 26.5,-314 26.5,-314 26.5,-278 26.5,-278 26.5,-272 32.5,-266 38.5,-266 38.5,-266 170.5,-266 170.5,-266 176.5,-266 182.5,-272 182.5,-278 182.5,-278 182.5,-314 182.5,-314 182.5,-320 176.5,-326 170.5,-326" />
+<text text-anchor="middle" x="104.5" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">Not Urgent, Not</text>
+<text text-anchor="middle" x="104.5" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M435.5,-326C435.5,-326 260.5,-326 260.5,-326 254.5,-326 248.5,-320 248.5,-314 248.5,-314 248.5,-278 248.5,-278 248.5,-272 254.5,-266 260.5,-266 260.5,-266 435.5,-266 435.5,-266 441.5,-266 447.5,-272 447.5,-278 447.5,-278 447.5,-314 447.5,-314 447.5,-320 441.5,-326 435.5,-326" />
+<text text-anchor="middle" x="348" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">Time Wasters, Trivia,</text>
+<text text-anchor="middle" x="348" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Busywork</text>
+</g>
+</g>
+</svg>

@@ -25,15 +25,7 @@ Systems thinking emphasizes the interconnectedness of elements within a system. 
 
 * **Example:**  Understanding the feedback loops in a business.  A successful marketing campaign (positive feedback) might lead to increased demand, requiring more production, potentially leading to supply chain bottlenecks (negative feedback).
 
-```mermaid
-graph LR
-    A[Marketing Campaign] --> B(Increased Demand);
-    B --> C{Production};
-    C --> D[Supply Chain Bottlenecks];
-    D --> E(Reduced Sales);
-    E --> F(Marketing Adjustment Needed);
-    F --> A;
-```
+![1. Systems Thinking: Understanding Interconnectedness. Marketing Campaign; Increased Demand; Production; Supply Chain Bottlenecks; Reduced Sales; Marketing Adjustment Needed.](diagram-01.svg)
 
 * **Actionable Insight:** Before making decisions, consider the potential second and third-order effects.  Think about the entire system, not just isolated parts.
 

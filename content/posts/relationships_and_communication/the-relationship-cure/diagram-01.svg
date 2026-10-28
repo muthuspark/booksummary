@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="662pt" height="275pt" viewBox="0.00 0.00 662.00 275.00" role="img" aria-labelledby="title description">
+<title id="title">Building a Solid Foundation: Friendship</title><desc id="description">Friendship leads to Shared Interests &amp; Activities. Friendship leads to Humor &amp; Playfulness. Friendship leads to Enjoying Each Other's Company. Shared Interests &amp; Activities leads to Solid Foundation (Shared Activities). Humor &amp; Playfulness leads to Solid Foundation (Positive Interactions). Enjoying Each Other's Company leads to Solid Foundation (Emotional Connection).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 257)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-257 644,-257 644,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M248.5,-198.91C225.14,-189.9 196.63,-178.9 170.16,-168.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.89,-166.34 163.47,-166.11 169.12,-170.92 170.89,-166.34" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M298,-198.8C298,-188.21 298,-174.9 298,-163.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="300.45,-163.06 298,-156.06 295.55,-163.06 300.45,-163.06" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M351.04,-198.91C376.18,-189.86 406.87,-178.81 435.34,-168.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="436.38,-170.79 442.14,-166.11 434.72,-166.18 436.38,-170.79" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.46,-105.94C132.62,-89.26 155.97,-69.1 180,-56 189.47,-50.84 199.78,-46.36 210.25,-42.48" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.37,-44.68 217.14,-40.02 209.73,-40.07 211.37,-44.68" />
+<text text-anchor="middle" x="236.5" y="-69.5" font-family="Georgia" font-size="15.00" fill="#405b50">Shared Activities</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M298,-115.92C298,-97.09 298,-68.17 298,-47.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="300.45,-47.14 298,-40.14 295.55,-47.14 300.45,-47.14" />
+<text text-anchor="middle" x="339" y="-78" font-family="Georgia" font-size="15.00" fill="#405b50">Positive</text>
+<text text-anchor="middle" x="339" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Interactions</text>
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M475.97,-105.93C449.68,-90.23 416.05,-71.05 385,-56 375.51,-51.4 365.24,-46.89 355.21,-42.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="356.06,-40.41 348.66,-40.01 354.2,-44.94 356.06,-40.41" />
+<text text-anchor="middle" x="485" y="-78" font-family="Georgia" font-size="15.00" fill="#405b50">Emotional</text>
+<text text-anchor="middle" x="485" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Connection</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M344,-239C344,-239 252,-239 252,-239 246,-239 240,-233 240,-227 240,-227 240,-211 240,-211 240,-205 246,-199 252,-199 252,-199 344,-199 344,-199 350,-199 356,-205 356,-211 356,-211 356,-227 356,-227 356,-233 350,-239 344,-239" />
+<text text-anchor="middle" x="298" y="-214.6" font-family="Georgia" font-size="18.00" fill="#243d36">Friendship</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-166C164,-166 12,-166 12,-166 6,-166 0,-160 0,-154 0,-154 0,-118 0,-118 0,-112 6,-106 12,-106 12,-106 164,-106 164,-106 170,-106 176,-112 176,-118 176,-118 176,-154 176,-154 176,-160 170,-166 164,-166" />
+<text text-anchor="middle" x="88" y="-141.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Interests &amp;</text>
+<text text-anchor="middle" x="88" y="-121.6" font-family="Georgia" font-size="18.00" fill="#243d36">Activities</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M386,-156C386,-156 210,-156 210,-156 204,-156 198,-150 198,-144 198,-144 198,-128 198,-128 198,-122 204,-116 210,-116 210,-116 386,-116 386,-116 392,-116 398,-122 398,-128 398,-128 398,-144 398,-144 398,-150 392,-156 386,-156" />
+<text text-anchor="middle" x="298" y="-131.6" font-family="Georgia" font-size="18.00" fill="#243d36">Humor &amp; Playfulness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M614,-166C614,-166 432,-166 432,-166 426,-166 420,-160 420,-154 420,-154 420,-118 420,-118 420,-112 426,-106 432,-106 432,-106 614,-106 614,-106 620,-106 626,-112 626,-118 626,-118 626,-154 626,-154 626,-160 620,-166 614,-166" />
+<text text-anchor="middle" x="523" y="-141.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enjoying Each Other's</text>
+<text text-anchor="middle" x="523" y="-121.6" font-family="Georgia" font-size="18.00" fill="#243d36">Company</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369,-40C369,-40 227,-40 227,-40 221,-40 215,-34 215,-28 215,-28 215,-12 215,-12 215,-6 221,0 227,0 227,0 369,0 369,0 375,0 381,-6 381,-12 381,-12 381,-28 381,-28 381,-34 375,-40 369,-40" />
+<text text-anchor="middle" x="298" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solid Foundation</text>
+</g>
+</g>
+</svg>

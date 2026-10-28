@@ -14,14 +14,7 @@ author: "John Gottman and Julie Schwartz Gottman"
 
 Understanding your partner's unique love language is paramount. This isn't about grand gestures; it's about the small, consistent actions that show love and appreciation in a way that resonates with them. Identifying whether your partner expresses and receives love through words of affirmation, acts of service, receiving gifts, quality time, or physical touch is important for fulfilling their emotional needs.
 
-```mermaid
-graph LR
-A[Understanding Partner's Love Language] --> B(Words of Affirmation);
-A --> C(Acts of Service);
-A --> D(Receiving Gifts);
-A --> E(Quality Time);
-A --> F(Physical Touch);
-```
+![The Power of Understanding: Knowing Your Partner's Love Language. Understanding Partner's Love Language; Words of Affirmation; Acts of Service; Receiving Gifts; Quality Time; Physical Touch.](diagram-01.svg)
 
 
 ##  The Importance of Shared Meaning: Creating a Shared Life Story

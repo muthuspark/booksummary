@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="688pt" height="143pt" viewBox="0.00 0.00 688.00 143.00" role="img" aria-labelledby="title description">
+<title id="title">The Design Process: A Human-Centered Approach</title><desc id="description">Empathize leads to Define. Define leads to Ideate. Ideate leads to Prototype. Prototype leads to Test. Test leads to Define.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 125)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-125 670,-125 670,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.24,-30C123.37,-30 131.67,-30 139.59,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="139.75,-32.45 146.75,-30 139.75,-27.55 139.75,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229.2,-39.92C244.61,-43.72 262.55,-48.14 279.4,-52.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="279.16,-54.76 286.54,-54.06 280.33,-50.01 279.16,-54.76" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M410.86,-62.7C421.76,-62.03 432.94,-61.34 443.6,-60.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="444.04,-63.11 450.88,-60.24 443.74,-58.22 444.04,-63.11" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M558.06,-40.02C566.43,-37.31 574.94,-34.56 582.86,-32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="584.03,-34.2 589.94,-29.71 582.53,-29.53 584.03,-34.2" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M589.65,-17.48C527.7,-12.81 382.29,-4.32 261,-16 253.04,-16.77 244.66,-18 236.53,-19.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.61,-17.1 229.17,-20.78 236.49,-21.92 235.61,-17.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M103,-50C103,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 103,-10 103,-10 109,-10 115,-16 115,-22 115,-22 115,-38 115,-38 115,-44 109,-50 103,-50" />
+<text text-anchor="middle" x="57.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathize</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M217,-50C217,-50 159,-50 159,-50 153,-50 147,-44 147,-38 147,-38 147,-22 147,-22 147,-16 153,-10 159,-10 159,-10 217,-10 217,-10 223,-10 229,-16 229,-22 229,-22 229,-38 229,-38 229,-44 223,-50 217,-50" />
+<text text-anchor="middle" x="188" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="340,-107 261,-67 340,-27 419,-67 340,-107" />
+<text text-anchor="middle" x="340" y="-62.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ideate</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M546,-77C546,-77 463,-77 463,-77 457,-77 451,-71 451,-65 451,-65 451,-49 451,-49 451,-43 457,-37 463,-37 463,-37 546,-37 546,-37 552,-37 558,-43 558,-49 558,-49 558,-65 558,-65 558,-71 552,-77 546,-77" />
+<text text-anchor="middle" x="504.5" y="-52.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototype</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M640,-40C640,-40 602,-40 602,-40 596,-40 590,-34 590,-28 590,-28 590,-12 590,-12 590,-6 596,0 602,0 602,0 640,0 640,0 646,0 652,-6 652,-12 652,-12 652,-28 652,-28 652,-34 646,-40 640,-40" />
+<text text-anchor="middle" x="621" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Test</text>
+</g>
+</g>
+</svg>

@@ -14,13 +14,7 @@ Willpower, according to Baumeister and Tierney, isn't an unlimited, mystical for
 
 Effective willpower isn't about superhuman strength; it's about strategic deployment. The authors note the need for prioritizing tasks and goals. Knowing what truly matters allows you to allocate your limited willpower to activities that align with your overall objectives. Procrastination, a common willpower challenge, stems from a lack of clarity and prioritization. By creating a clear roadmap for your day or week, you can conserve willpower for the most important challenges.
 
-```mermaid
-graph LR
-    A[Prioritization] --> B(Goal Setting);
-    B --> C{Task Scheduling};
-    C --> D[Effective Willpower Use];
-    D --> E(Goal Achievement);
-```
+![The Importance of Prioritization and Planning. Prioritization; Goal Setting; Task Scheduling; Effective Willpower Use; Goal Achievement.](diagram-01.svg)
 
 # The Role of Habits and Automation
 
@@ -55,13 +49,7 @@ Temptations are unavoidable, but we can learn to manage them effectively.  The a
 
 Physical well-being profoundly impacts willpower.  Proper nutrition, regular exercise, and sufficient sleep are essential for maintaining mental and physical energy.  Lack of sleep, poor diet, and sedentary lifestyles can deplete willpower resources, leading to reduced self-control and impaired performance.
 
-```mermaid
-graph LR
-    A[Sleep] --> B(Energy);
-    C[Nutrition] --> B;
-    D[Exercise] --> B;
-    B --> E[Improved Willpower];
-```
+![The Importance of Physical and Mental Health. Sleep; Energy; Nutrition; Exercise; Improved Willpower.](diagram-02.svg)
 
 
 #  Building a Willpower Arsenal

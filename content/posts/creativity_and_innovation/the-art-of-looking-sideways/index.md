@@ -14,13 +14,7 @@ Alan Fletcher's "The Art of Looking Sideways" isn't a typical self-help book. It
 
 Fletcher champions lateral thinking, a method of problem-solving that involves exploring unconventional approaches and escaping the confines of linear thought. He showcases this through a various array of examples, from typography and design to architecture and philosophy.  The book argues that true creativity arises from connecting seemingly unrelated concepts, a process often facilitated by chance encounters and accidental discoveries.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Linear Thinking);
-    A --> C(Lateral Thinking);
-    C --> D{Multiple Solutions};
-    B --> E{Single Solution};
-```
+![The Unexpected: Lateral Thinking and Creative Problem Solving. Problem; Linear Thinking; Lateral Thinking; Multiple Solutions; Single Solution.](diagram-01.svg)
 
 The key takeaway is serendipity. Keep your mind open to new stimuli, and allow for unexpected connections to emerge organically.
 
@@ -43,14 +37,7 @@ Fletcher acknowledges the role of chance encounters and intuitive leaps in creat
 
 The book is filled with visual and textual juxtapositions that encourage readers to identify patterns and relationships.  This act of connecting seemingly unrelated elements is central to the book's message. By observing similarities and differences between various elements, we develop a richer understanding of the world and become more adept at identifying solutions.
 
-```mermaid
-graph LR
-    A[Element 1] --> B(Relationship);
-    C[Element 2] --> B;
-    D[Element 3] --> B;
-    B --> E[New Understanding];
-
-```
+![Connecting the Dots: Finding Patterns and Relationships. Element 1; Relationship; Element 2; Element 3; New Understanding.](diagram-02.svg)
 
 
 ##  The Power of Observation: Sharpening Your Senses

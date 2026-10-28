@@ -14,13 +14,7 @@ Peter Thiel's "Zero to One" argues that building companies requires creating som
 
 Thiel champions the pursuit of monopolies, not in the traditional sense of anti-competitive practices, but as a strategic goal.  A true monopoly, he argues, is a company that offers a product or service with no close substitutes. This allows for sustained profitability, reinvestment, and long-term growth.  He contrasts this with intense competition, where profits are squeezed and innovation is stifled.
 
-```mermaid
-graph LR
-    A[Competitive Market] --> B(Low Profit Margins);
-    C[Monopoly] --> D(High Profit Margins);
-    D --> E(Reinvestement);
-    E --> F(Growth);
-```
+![The Importance of Monopoly. Competitive Market; Low Profit Margins; Monopoly; High Profit Margins; Reinvestement; Growth.](diagram-01.svg)
 
 Creating a monopoly requires a unique and defensible value proposition.  This isn't necessarily about unethical business practices, but about building a product so good that it dominates the market.
 
@@ -43,19 +37,7 @@ Answering these rigorously is critical to success.  Ignoring even one can derail
 
 The book starkly contrasts competitive and monopolistic businesses.  Competitive businesses are defined by price wars, low margins, and constant pressure to keep up with rivals.  Monopolies, on the other hand, enjoy higher margins, greater control over their destiny, and the ability to invest in long-term innovation.
 
-```mermaid
-graph LR
-    subgraph Competitive Business
-        A[Price Wars] --> B(Low Margins);
-        B --> C(Constant Innovation Pressure);
-        C --> D(Short-term Focus);
-    end
-    subgraph Monopolistic Business
-        E[High Margins] --> F(Long-term Vision);
-        F --> G(Sustainable Growth);
-        G --> H(Reinvestement in Innovation);
-    end
-```
+![Competitive vs. Monopolistic Businesses. Price Wars; Low Margins; Constant Innovation Pressure; Short-term Focus; High Margins; Long-term Vision; Sustainable Growth; Reinvestement in Innovation.](diagram-02.svg)
 
 The key takeaway: strive for a monopoly, not just market share.
 

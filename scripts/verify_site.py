@@ -124,12 +124,46 @@ for source in sources:
     require('0001-01-01' not in text, f'Invented date in {route}')
     source_text = source.read_text()
     require(not re.search(r'^```\{(?:mermaid|dot|=html)\}', source_text, re.M), f'Unconverted Quarto fence: {source}')
-    require(page.mermaid_count == len(re.findall(r'^```mermaid\s*$', source_text, re.M)), f'Missing Mermaid diagram: {route}')
+    require(not re.search(r'^```mermaid\b', source_text, re.M), f'Unconverted Mermaid diagram: {source}')
+    require(page.mermaid_count == 0, f'Mermaid runtime diagram remains: {route}')
     source_image = source.parent / 'image.png'
     output_image = page_path.parent / 'image.png'
     require(output_image.is_file(), f'Missing image: {output_image}')
     if output_image.is_file():
         require(hashlib.sha256(source_image.read_bytes()).digest() == hashlib.sha256(output_image.read_bytes()).digest(), f'Image changed: {route}')
+
+# Check every converted diagram's image reference, accessible SVG, graph, and published copy.
+diagrams = json.loads((ROOT / 'scripts/diagrams.json').read_text())
+diagram_files = [entry['file'] for entry in diagrams]
+require(len(diagram_files) == len(set(diagram_files)), 'Duplicate diagram asset paths')
+for entry in diagrams:
+    source = ROOT / entry['file']
+    published = OUTPUT / source.relative_to(ROOT / 'content')
+    article = source.with_name('index.md').read_text()
+    require(article.count('](' + source.name + ')') == 1, f'Missing or duplicate diagram reference: {source}')
+    require(source.is_file() and published.is_file(), f'Missing diagram asset: {source}')
+    if not source.is_file() or not published.is_file():
+        continue
+    require(source.read_bytes() == published.read_bytes(), f'Diagram copy differs: {source}')
+    try:
+        svg = ET.parse(source).getroot()
+    except ET.ParseError as error:
+        errors.append(f'Invalid SVG {source}: {error}')
+        continue
+    ns = {'svg': 'http://www.w3.org/2000/svg'}
+    require(svg.tag == '{http://www.w3.org/2000/svg}svg', f'Not an SVG image: {source}')
+    require(svg.get('role') == 'img' and svg.get('aria-labelledby') == 'title description', f'Inaccessible diagram: {source}')
+    require(bool(svg.findtext('svg:title', namespaces=ns)) and bool(svg.findtext('svg:desc', namespaces=ns)), f'Missing diagram description: {source}')
+    require(not svg.findall('.//svg:script', ns) and not svg.findall('.//svg:foreignObject', ns), f'Non-standalone SVG: {source}')
+    nodes = svg.findall('.//svg:g[@class="node"]', ns)
+    edges = svg.findall('.//svg:g[@class="edge"]', ns)
+    require(len(nodes) == len(entry['nodes']), f'Diagram lost nodes: {source}')
+    require(len(edges) == len(entry['edges']), f'Diagram lost connections: {source}')
+    expected_labels = sorted(' '.join(node['label'].split()) for node in entry['nodes'])
+    actual_labels = sorted(' '.join(' '.join(node.itertext()).split()) for node in nodes)
+    require(actual_labels == expected_labels, f'Diagram labels differ: {source}')
+require(not (OUTPUT / 'vendor/mermaid.min.js').exists(), 'Mermaid runtime still published')
+require(not (OUTPUT / 'js/diagrams.js').exists(), 'Diagram runtime still published')
 
 html_files = list(OUTPUT.rglob('*.html'))
 for path in html_files:

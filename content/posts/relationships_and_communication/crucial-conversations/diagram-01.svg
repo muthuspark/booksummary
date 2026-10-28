@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="472pt" height="260pt" viewBox="0.00 0.00 472.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Danger of Silence and Violence</title><desc id="description">Crucial Conversation leads to Silence. Crucial Conversation leads to Violence. Silence leads to Damaged Relationships. Violence leads to Damaged Relationships.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 454,-242 454,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M202.42,-183.87C195.89,-175.85 188.2,-166.41 181.24,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.88,-155.99 176.56,-152.1 179.08,-159.08 182.88,-155.99" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M233.58,-183.87C240.11,-175.85 247.8,-166.41 254.76,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.92,-159.08 259.44,-152.1 253.12,-155.99 256.92,-159.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.09,-111.91C178.61,-103.2 185.37,-92.52 191.96,-82.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.13,-83.27 195.8,-76.05 189.99,-80.65 194.13,-83.27" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.91,-111.91C257.39,-103.2 250.63,-92.52 244.04,-82.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.01,-80.65 240.2,-76.05 241.87,-83.27 246.01,-80.65" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M303.5,-224C303.5,-224 132.5,-224 132.5,-224 126.5,-224 120.5,-218 120.5,-212 120.5,-212 120.5,-196 120.5,-196 120.5,-190 126.5,-184 132.5,-184 132.5,-184 303.5,-184 303.5,-184 309.5,-184 315.5,-190 315.5,-196 315.5,-196 315.5,-212 315.5,-212 315.5,-218 309.5,-224 303.5,-224" />
+<text text-anchor="middle" x="218" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Crucial Conversation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192,-152C192,-152 130,-152 130,-152 124,-152 118,-146 118,-140 118,-140 118,-124 118,-124 118,-118 124,-112 130,-112 130,-112 192,-112 192,-112 198,-112 204,-118 204,-124 204,-124 204,-140 204,-140 204,-146 198,-152 192,-152" />
+<text text-anchor="middle" x="161" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Silence</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312,-152C312,-152 238,-152 238,-152 232,-152 226,-146 226,-140 226,-140 226,-124 226,-124 226,-118 232,-112 238,-112 238,-112 312,-112 312,-112 318,-112 324,-118 324,-124 324,-124 324,-140 324,-140 324,-146 318,-152 312,-152" />
+<text text-anchor="middle" x="275" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Violence</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="218,-80 0,-40 218,0 436,-40 218,-80" />
+<text text-anchor="middle" x="218" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Damaged Relationships</text>
+</g>
+</g>
+</svg>

@@ -12,7 +12,7 @@ The site defaults to Shibui’s light theme, regardless of the system color sche
 - Hugo **0.164.0** (the CI version; standard or extended build)
 - Python **3.11+** for the build verifier
 
-The theme and Mermaid browser runtime are included in this repository. Building
+The theme and standalone SVG diagram images are included in this repository. Building
 does not require Quarto, Pandoc, Graphviz, Node.js, Go modules, or a theme download.
 
 ## Preview
@@ -33,7 +33,7 @@ If the port is already in use, add `--port 1314`.
 ```
 
 This builds a clean production site into `docs/` and checks every summary route,
-image, search record, Mermaid block, canonical URL, structured-data block, feed,
+image, search record, diagram image, canonical URL, structured-data block, feed,
 and local HTML link. It also checks that Google ad scripts and Quarto runtime
 files are absent. This build-only script does **not** commit or push changes.
 
@@ -126,12 +126,24 @@ Hugo creates 80px and 160px WebP thumbnails for listings and search results. Ori
 images remain available in each article bundle. Homepage counts are derived from
 published content, and category navigation remains above the catalog.
 
-Mermaid fences use standard Markdown syntax: an opening fence of three backticks
-followed by `mermaid`. The local runtime renders diagrams as they approach the
-viewport; the source remains available if a diagram fails to render or JavaScript
-is disabled. The two original Graphviz diagrams were exported to adjacent SVGs,
-so Graphviz is no longer a build dependency. Original embedded HTML diagrams
-remain supported; Markdown rendering permits trusted HTML from this repository.
+Diagrams are standalone SVG images beside each summary, referenced with standard
+Markdown image syntax. They display without JavaScript, include accessible text,
+and remain sharp at any zoom level. Original embedded HTML diagrams remain
+supported; Markdown rendering permits trusted HTML from this repository.
+
+The 1,023 converted diagrams have editable node, connection, and group definitions
+in `scripts/diagrams.json`. To regenerate them after editing those definitions,
+install Graphviz and run:
+
+```sh
+python3 scripts/render_diagrams.py
+# Or regenerate one summary's diagrams:
+python3 scripts/render_diagrams.py --only think-like-a-programmer
+```
+
+Graphviz is only needed to regenerate diagram assets, not to build or view the
+site. After adding a new diagram definition, add its Markdown image reference to
+the summary and run the build verifier.
 
 Google Analytics (`G-Q0SHDCJVLL`) is preserved. Google AdSense scripts and the
 obsolete publisher `ads.txt` are removed.

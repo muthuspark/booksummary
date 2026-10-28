@@ -20,14 +20,7 @@ Walker dedicates considerable space to explaining the architecture of sleep, dif
 Insufficient sleep severely compromises the quality and duration of these stages, leading to a cascade of negative consequences.
 
 
-```mermaid
-graph LR
-A[Awake] --> B(Stage 1);
-B --> C(Stage 2);
-C --> D(Stage 3);
-D --> E(REM);
-E --> C;
-```
+![Understanding Sleep's Architecture: The Stages and Their Importance. Awake; Stage 1; Stage 2; Stage 3; REM.](diagram-01.svg)
 
 ## The Devastating Consequences of Sleep Deprivation
 

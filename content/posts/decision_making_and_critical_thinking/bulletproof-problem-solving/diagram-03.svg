@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="391pt" height="148pt" viewBox="0.00 0.00 390.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Evaluating Solutions: Weighing the Pros and Cons</title><desc id="description">Solution 1 leads to Pros. Solution 1 leads to Cons. Solution 2 leads to Pros. Solution 2 leads to Cons.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 372.5,-130 372.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M76.83,-71.87C69.84,-63.85 61.61,-54.41 54.16,-45.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="55.59,-43.77 49.15,-40.1 51.9,-46.99 55.59,-43.77" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.15,-71.87C104.24,-64.16 107.85,-55.13 111.16,-46.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.53,-47.51 113.86,-40.1 108.98,-45.69 113.53,-47.51" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M251.12,-71.87C248.15,-64.16 244.67,-55.13 241.47,-46.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="243.67,-45.75 238.87,-40.1 239.1,-47.52 243.67,-45.75" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M275.44,-71.87C282.69,-63.69 291.23,-54.05 298.92,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="300.77,-46.97 303.58,-40.1 297.1,-43.72 300.77,-46.97" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-112C135,-112 52,-112 52,-112 46,-112 40,-106 40,-100 40,-100 40,-84 40,-84 40,-78 46,-72 52,-72 52,-72 135,-72 135,-72 141,-72 147,-78 147,-84 147,-84 147,-100 147,-100 147,-106 141,-112 135,-112" />
+<text text-anchor="middle" x="93.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solution 1</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M53,-40C53,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 53,0 53,0 59,0 65,-6 65,-12 65,-12 65,-28 65,-28 65,-34 59,-40 53,-40" />
+<text text-anchor="middle" x="32.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pros</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M143.5,-40C143.5,-40 99.5,-40 99.5,-40 93.5,-40 87.5,-34 87.5,-28 87.5,-28 87.5,-12 87.5,-12 87.5,-6 93.5,0 99.5,0 99.5,0 143.5,0 143.5,0 149.5,0 155.5,-6 155.5,-12 155.5,-12 155.5,-28 155.5,-28 155.5,-34 149.5,-40 143.5,-40" />
+<text text-anchor="middle" x="121.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cons</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M301.5,-112C301.5,-112 215.5,-112 215.5,-112 209.5,-112 203.5,-106 203.5,-100 203.5,-100 203.5,-84 203.5,-84 203.5,-78 209.5,-72 215.5,-72 215.5,-72 301.5,-72 301.5,-72 307.5,-72 313.5,-78 313.5,-84 313.5,-84 313.5,-100 313.5,-100 313.5,-106 307.5,-112 301.5,-112" />
+<text text-anchor="middle" x="258.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solution 2</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M252,-40C252,-40 211,-40 211,-40 205,-40 199,-34 199,-28 199,-28 199,-12 199,-12 199,-6 205,0 211,0 211,0 252,0 252,0 258,0 264,-6 264,-12 264,-12 264,-28 264,-28 264,-34 258,-40 252,-40" />
+<text text-anchor="middle" x="231.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pros</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M342.5,-40C342.5,-40 298.5,-40 298.5,-40 292.5,-40 286.5,-34 286.5,-28 286.5,-28 286.5,-12 286.5,-12 286.5,-6 292.5,0 298.5,0 298.5,0 342.5,0 342.5,0 348.5,0 354.5,-6 354.5,-12 354.5,-12 354.5,-28 354.5,-28 354.5,-34 348.5,-40 342.5,-40" />
+<text text-anchor="middle" x="320.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cons</text>
+</g>
+</g>
+</svg>

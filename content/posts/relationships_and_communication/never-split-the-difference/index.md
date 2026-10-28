@@ -18,13 +18,7 @@ The core principle underlying Voss's approach is *tactical empathy*. This isn't 
 
 Effective listening is paramount.  Voss emphasizes *tactical listening*, which involves focusing intently on the other person, not just to understand their words, but also to identify their underlying emotions, concerns, and motivations. He advocates for using open-ended questions that start with “how” and “what” to encourage them to elaborate and reveal more information.  This technique avoids the pitfalls of closed-ended questions that limit responses and can shut down communication.
 
-```mermaid
-graph LR
-    A[Speaker] --> B(Open-Ended Questions);
-    B --> C{Elaborate Response};
-    C --> D[Increased Understanding];
-    D --> E[Better Negotiation];
-```
+![Mastering the Art of Listening: More Than Just Hearing. Speaker; Open-Ended Questions; Elaborate Response; Increased Understanding; Better Negotiation.](diagram-01.svg)
 
 ###  Labeling:  Mirroring Emotions and Validating Concerns
 

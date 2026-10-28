@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1006pt" height="570pt" viewBox="0.00 0.00 1006.00 570.00" role="img" aria-labelledby="title description">
+<title id="title">Actionable and Visual Representation:</title><desc id="description">Eat Food leads to Short Ingredient Lists. Eat Food leads to Foods that Spoil. Eat Food leads to Cook from Scratch. Not Too Much leads to Mindful Eating. Not Too Much leads to Pay Attention to Hunger/Fullness. Not Too Much leads to Eat Slowly. Mostly Plants leads to Prioritize Fruits &amp; Vegetables. Mostly Plants leads to Include Whole Grains &amp; Legumes. Short Ingredient Lists leads to Reduced Chronic Diseases (Improves Health). Foods that Spoil leads to Reduced Chronic Diseases (Improves Nutrition). Cook from Scratch leads to Reduced Chronic Diseases (Enhances Control). Mindful Eating leads to Reduced Chronic Diseases (Enhances Satisfaction). Pay Attention to Hunger/Fullness leads to Reduced Chronic Diseases (Prevents Overeating). Eat Slowly leads to Reduced Chronic Diseases (Promotes Enjoyment). Prioritize Fruits &amp; Vegetables leads to Reduced Chronic Diseases (Increases Nutrient Intake). Include Whole Grains &amp; Legumes leads to Reduced Chronic Diseases (Improves Digestive Health). Reduced Chronic Diseases leads to Improved Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 552)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-552 988,-552 988,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.21,-467.04C139.25,-472.16 158.44,-477.87 176,-483 186.07,-485.94 196.67,-489 207.15,-492" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.61,-494.4 214.01,-493.97 207.96,-489.68 206.61,-494.4" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.05,-452C145.13,-452 173.26,-452 199.6,-452" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.62,-454.45 206.62,-452 199.62,-449.55 199.62,-454.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.21,-436.96C139.25,-431.84 158.44,-426.13 176,-421 186.07,-418.06 196.67,-415 207.15,-412" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="207.96,-414.32 214.01,-410.03 206.61,-409.6 207.96,-414.32" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M387.18,-517.41C441.23,-514.57 506.59,-503.09 555,-469 602.77,-435.37 630.11,-370.81 643.36,-329.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="645.75,-330.5 645.52,-323.08 641.08,-329.02 645.75,-330.5" />
+<text text-anchor="middle" x="483.5" y="-519" font-family="Georgia" font-size="15.00" fill="#405b50">Improves Health</text>
+</g>
+
+<g id="edge10" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M365.2,-451.82C421.25,-448.59 496.82,-437.66 555,-405 587.09,-386.99 613.9,-354.46 631.41,-329.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="633.55,-330.3 635.44,-323.13 629.49,-327.55 633.55,-330.3" />
+<text text-anchor="middle" x="483.5" y="-452" font-family="Georgia" font-size="15.00" fill="#405b50">Improves Nutrition</text>
+</g>
+
+<g id="edge11" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M374.27,-387.51C427.76,-383.75 496.88,-374.82 555,-354 573.05,-347.53 591.32,-337.42 607.14,-327.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="608.79,-329.13 613.31,-323.24 606.11,-325.03 608.79,-329.13" />
+<text text-anchor="middle" x="483.5" y="-388" font-family="Georgia" font-size="15.00" fill="#405b50">Enhances Control</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M120.31,-276.1C137.7,-283.1 157.61,-290.76 176,-297 185.23,-300.13 194.98,-303.22 204.69,-306.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.99,-308.5 211.4,-308.15 205.39,-303.8 203.99,-308.5" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.26,-256C160.42,-256 178.98,-256 196.83,-256" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.9,-258.45 203.9,-256 196.9,-253.55 196.9,-258.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M120.31,-235.9C137.7,-228.9 157.61,-221.24 176,-215 190.94,-209.93 207.23,-204.99 222.54,-200.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.43,-202.9 229.5,-198.63 222.09,-198.18 223.43,-202.9" />
+</g>
+
+<g id="edge12" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M360.73,-320.96C419.3,-315.37 501.45,-307.52 563.82,-301.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="564.21,-303.99 570.95,-300.88 563.74,-299.11 564.21,-303.99" />
+<text text-anchor="middle" x="483.5" y="-337" font-family="Georgia" font-size="15.00" fill="#405b50">Enhances</text>
+<text text-anchor="middle" x="483.5" y="-320" font-family="Georgia" font-size="15.00" fill="#405b50">Satisfaction</text>
+</g>
+
+<g id="edge13" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M368.13,-253.05C421.54,-252.42 492.83,-254.09 555,-264 557.92,-264.47 560.88,-264.99 563.85,-265.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="563.47,-267.99 570.82,-267.01 564.46,-263.2 563.47,-267.99" />
+<text text-anchor="middle" x="483.5" y="-286" font-family="Georgia" font-size="15.00" fill="#405b50">Prevents</text>
+<text text-anchor="middle" x="483.5" y="-269" font-family="Georgia" font-size="15.00" fill="#405b50">Overeating</text>
+</g>
+
+<g id="edge14" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M342.56,-187.45C397.96,-192.34 484.69,-203.92 555,-231 573.14,-237.99 591.57,-248.48 607.49,-258.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="606.51,-261.15 613.7,-262.98 609.22,-257.07 606.51,-261.15" />
+<text text-anchor="middle" x="483.5" y="-236" font-family="Georgia" font-size="15.00" fill="#405b50">Promotes Enjoyment</text>
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.03,-79.94C156.66,-83.61 174.75,-87.62 192.34,-91.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.95,-93.93 199.32,-93.05 193.01,-89.15 191.95,-93.93" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.03,-53.88C149.22,-52.36 158.86,-50.78 168.62,-49.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.23,-51.55 175.74,-48 168.43,-46.72 169.23,-51.55" />
+</g>
+
+<g id="edge15" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M372.51,-110.1C428.24,-112.59 500.47,-123.18 555,-157 593.05,-180.6 620.89,-224.83 637.09,-256.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="635.04,-257.82 640.36,-262.99 639.42,-255.63 635.04,-257.82" />
+<text text-anchor="middle" x="483.5" y="-179" font-family="Georgia" font-size="15.00" fill="#405b50">Increases Nutrient</text>
+<text text-anchor="middle" x="483.5" y="-162" font-family="Georgia" font-size="15.00" fill="#405b50">Intake</text>
+</g>
+
+<g id="edge16" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M396.23,-24.9C448.97,-27.79 510.33,-39.66 555,-74 613.28,-118.8 638,-205.79 647.75,-255.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="645.38,-256.23 649.08,-262.66 650.19,-255.32 645.38,-256.23" />
+<text text-anchor="middle" x="483.5" y="-96" font-family="Georgia" font-size="15.00" fill="#405b50">Improves Digestive</text>
+<text text-anchor="middle" x="483.5" y="-79" font-family="Georgia" font-size="15.00" fill="#405b50">Health</text>
+</g>
+
+<g id="edge17" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M738.24,-293C746.6,-293 755.17,-293 763.73,-293" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="763.91,-295.45 770.91,-293 763.91,-290.55 763.91,-295.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M110,-472C110,-472 33,-472 33,-472 27,-472 21,-466 21,-460 21,-460 21,-444 21,-444 21,-438 27,-432 33,-432 33,-432 110,-432 110,-432 116,-432 122,-438 122,-444 122,-444 122,-460 122,-460 122,-466 116,-472 110,-472" />
+<text text-anchor="middle" x="71.5" y="-447.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eat Food</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M375,-534C375,-534 197,-534 197,-534 191,-534 185,-528 185,-522 185,-522 185,-506 185,-506 185,-500 191,-494 197,-494 197,-494 375,-494 375,-494 381,-494 387,-500 387,-506 387,-506 387,-522 387,-522 387,-528 381,-534 375,-534" />
+<text text-anchor="middle" x="286" y="-509.6" font-family="Georgia" font-size="18.00" fill="#243d36">Short Ingredient Lists</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M353,-472C353,-472 219,-472 219,-472 213,-472 207,-466 207,-460 207,-460 207,-444 207,-444 207,-438 213,-432 219,-432 219,-432 353,-432 353,-432 359,-432 365,-438 365,-444 365,-444 365,-460 365,-460 365,-466 359,-472 353,-472" />
+<text text-anchor="middle" x="286" y="-447.6" font-family="Georgia" font-size="18.00" fill="#243d36">Foods that Spoil</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M362,-410C362,-410 210,-410 210,-410 204,-410 198,-404 198,-398 198,-398 198,-382 198,-382 198,-376 204,-370 210,-370 210,-370 362,-370 362,-370 368,-370 374,-376 374,-382 374,-382 374,-398 374,-398 374,-404 368,-410 362,-410" />
+<text text-anchor="middle" x="286" y="-385.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cook from Scratch</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M131,-276C131,-276 12,-276 12,-276 6,-276 0,-270 0,-264 0,-264 0,-248 0,-248 0,-242 6,-236 12,-236 12,-236 131,-236 131,-236 137,-236 143,-242 143,-248 143,-248 143,-264 143,-264 143,-270 137,-276 131,-276" />
+<text text-anchor="middle" x="71.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Not Too Much</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M348.5,-348C348.5,-348 223.5,-348 223.5,-348 217.5,-348 211.5,-342 211.5,-336 211.5,-336 211.5,-320 211.5,-320 211.5,-314 217.5,-308 223.5,-308 223.5,-308 348.5,-308 348.5,-308 354.5,-308 360.5,-314 360.5,-320 360.5,-320 360.5,-336 360.5,-336 360.5,-342 354.5,-348 348.5,-348" />
+<text text-anchor="middle" x="286" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindful Eating</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M356,-286C356,-286 216,-286 216,-286 210,-286 204,-280 204,-274 204,-274 204,-238 204,-238 204,-232 210,-226 216,-226 216,-226 356,-226 356,-226 362,-226 368,-232 368,-238 368,-238 368,-274 368,-274 368,-280 362,-286 356,-286" />
+<text text-anchor="middle" x="286" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Attention to</text>
+<text text-anchor="middle" x="286" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hunger/Fullness</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M330.5,-204C330.5,-204 241.5,-204 241.5,-204 235.5,-204 229.5,-198 229.5,-192 229.5,-192 229.5,-176 229.5,-176 229.5,-170 235.5,-164 241.5,-164 241.5,-164 330.5,-164 330.5,-164 336.5,-164 342.5,-170 342.5,-176 342.5,-176 342.5,-192 342.5,-192 342.5,-198 336.5,-204 330.5,-204" />
+<text text-anchor="middle" x="286" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eat Slowly</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M128,-85C128,-85 15,-85 15,-85 9,-85 3,-79 3,-73 3,-73 3,-57 3,-57 3,-51 9,-45 15,-45 15,-45 128,-45 128,-45 134,-45 140,-51 140,-57 140,-57 140,-73 140,-73 140,-79 134,-85 128,-85" />
+<text text-anchor="middle" x="71.5" y="-60.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mostly Plants</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M360.5,-142C360.5,-142 211.5,-142 211.5,-142 205.5,-142 199.5,-136 199.5,-130 199.5,-130 199.5,-94 199.5,-94 199.5,-88 205.5,-82 211.5,-82 211.5,-82 360.5,-82 360.5,-82 366.5,-82 372.5,-88 372.5,-94 372.5,-94 372.5,-130 372.5,-130 372.5,-136 366.5,-142 360.5,-142" />
+<text text-anchor="middle" x="286" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritize Fruits &amp;</text>
+<text text-anchor="middle" x="286" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vegetables</text>
+</g>
+
+<g id="node11" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M384,-60C384,-60 188,-60 188,-60 182,-60 176,-54 176,-48 176,-48 176,-12 176,-12 176,-6 182,0 188,0 188,0 384,0 384,0 390,0 396,-6 396,-12 396,-12 396,-48 396,-48 396,-54 390,-60 384,-60" />
+<text text-anchor="middle" x="286" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Include Whole Grains &amp;</text>
+<text text-anchor="middle" x="286" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Legumes</text>
+</g>
+
+<g id="node12" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M726,-323C726,-323 583,-323 583,-323 577,-323 571,-317 571,-311 571,-311 571,-275 571,-275 571,-269 577,-263 583,-263 583,-263 726,-263 726,-263 732,-263 738,-269 738,-275 738,-275 738,-311 738,-311 738,-317 732,-323 726,-323" />
+<text text-anchor="middle" x="654.5" y="-298.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Chronic</text>
+<text text-anchor="middle" x="654.5" y="-278.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diseases</text>
+</g>
+
+<g id="node13" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M958,-313C958,-313 783,-313 783,-313 777,-313 771,-307 771,-301 771,-301 771,-285 771,-285 771,-279 777,-273 783,-273 783,-273 958,-273 958,-273 964,-273 970,-279 970,-285 970,-285 970,-301 970,-301 970,-307 964,-313 958,-313" />
+<text text-anchor="middle" x="870.5" y="-288.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Well-being</text>
+</g>
+</g>
+</svg>

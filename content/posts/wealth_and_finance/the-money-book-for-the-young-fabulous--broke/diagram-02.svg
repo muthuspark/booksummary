@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="699pt" height="332pt" viewBox="0.00 0.00 699.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Investing for the Future:  Understanding Risk and Return</title><desc id="description">Risk Tolerance leads to Investment Strategy. Investment Strategy leads to Long-Term Growth. Investment Strategy leads to Diversification. Diversification leads to Stocks. Diversification leads to Bonds. Diversification leads to Mutual Funds.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 681,-314 681,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M322,-255.87C322,-248.31 322,-239.49 322,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="324.45,-231.1 322,-224.1 319.55,-231.1 324.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M292.52,-183.91C275.55,-172.92 253.75,-158.81 234.07,-146.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.25,-143.91 228.04,-142.16 232.58,-148.02 235.25,-143.91" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M351.48,-183.91C373.13,-169.89 402.65,-150.78 425.58,-135.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="427.02,-137.92 431.56,-132.06 424.36,-133.81 427.02,-137.92" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M439.37,-91.91C423.82,-78.19 402.74,-59.59 386.07,-44.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="387.47,-42.85 380.6,-40.06 384.23,-46.53 387.47,-42.85" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M461,-91.91C461,-78.91 461,-61.52 461,-47.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="463.45,-47.06 461,-40.06 458.55,-47.06 463.45,-47.06" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M488.99,-91.91C509.47,-77.95 537.35,-58.94 559.09,-44.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="560.64,-46.03 565.05,-40.06 557.88,-41.98 560.64,-46.03" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M384,-296C384,-296 260,-296 260,-296 254,-296 248,-290 248,-284 248,-284 248,-268 248,-268 248,-262 254,-256 260,-256 260,-256 384,-256 384,-256 390,-256 396,-262 396,-268 396,-268 396,-284 396,-284 396,-290 390,-296 384,-296" />
+<text text-anchor="middle" x="322" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk Tolerance</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M404,-224C404,-224 240,-224 240,-224 234,-224 228,-218 228,-212 228,-212 228,-196 228,-196 228,-190 234,-184 240,-184 240,-184 404,-184 404,-184 410,-184 416,-190 416,-196 416,-196 416,-212 416,-212 416,-218 410,-224 404,-224" />
+<text text-anchor="middle" x="322" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Investment Strategy</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="183,-152 0,-112 183,-72 366,-112 183,-152" />
+<text text-anchor="middle" x="183" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Long-Term Growth</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M522,-132C522,-132 400,-132 400,-132 394,-132 388,-126 388,-120 388,-120 388,-104 388,-104 388,-98 394,-92 400,-92 400,-92 522,-92 522,-92 528,-92 534,-98 534,-104 534,-104 534,-120 534,-120 534,-126 528,-132 522,-132" />
+<text text-anchor="middle" x="461" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diversification</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M387,-40C387,-40 331,-40 331,-40 325,-40 319,-34 319,-28 319,-28 319,-12 319,-12 319,-6 325,0 331,0 331,0 387,0 387,0 393,0 399,-6 399,-12 399,-12 399,-28 399,-28 399,-34 393,-40 387,-40" />
+<text text-anchor="middle" x="359" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stocks</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M488.5,-40C488.5,-40 433.5,-40 433.5,-40 427.5,-40 421.5,-34 421.5,-28 421.5,-28 421.5,-12 421.5,-12 421.5,-6 427.5,0 433.5,0 433.5,0 488.5,0 488.5,0 494.5,0 500.5,-6 500.5,-12 500.5,-12 500.5,-28 500.5,-28 500.5,-34 494.5,-40 488.5,-40" />
+<text text-anchor="middle" x="461" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bonds</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M651,-40C651,-40 535,-40 535,-40 529,-40 523,-34 523,-28 523,-28 523,-12 523,-12 523,-6 529,0 535,0 535,0 651,0 651,0 657,0 663,-6 663,-12 663,-12 663,-28 663,-28 663,-34 657,-40 651,-40" />
+<text text-anchor="middle" x="593" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Funds</text>
+</g>
+</g>
+</svg>

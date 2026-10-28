@@ -38,17 +38,7 @@ Winch organizes his advice around four key pillars, analogous to the steps in tr
 * **Preventing future injuries:** Learning from past experiences, developing coping skills, and building resilience.
 
 
-```mermaid
-graph LR
-    A[Emotional Injury] --> B(Comfort);
-    A --> C(Reduce Pain);
-    A --> D(Promote Healing);
-    A --> E(Prevent Future Injuries);
-    B --> F[Improved Well-being];
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![The Four Pillars of Emotional First Aid. Emotional Injury; Comfort; Reduce Pain; Promote Healing; Prevent Future Injuries; Improved Well-being.](diagram-01.svg)
 
 
 # Comfort: Self-Compassion and Validation

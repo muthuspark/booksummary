@@ -14,24 +14,13 @@ Barry Schwartz's "The Paradox of Choice" explores the seemingly counterintuitive
 
 Schwartz highlights the shift from a scarcity to an abundance mindset. In the past, choices were limited, and decisions, while perhaps difficult, were often simpler. Now, we are bombarded with options in every aspect of life, from grocery shopping to career paths.  This abundance, rather than liberating, creates a sense of paralysis.  We spend excessive time and energy evaluating choices, leading to decision fatigue and ultimately, dissatisfaction with the outcomes, even if the chosen option is objectively good.
 
-```mermaid
-graph LR
-    A[Scarcity] --> B(Simple Decisions);
-    C[Abundance] --> D(Decision Fatigue);
-    D --> E(Dissatisfaction);
-```
+![The Tyranny of Choice. Scarcity; Simple Decisions; Abundance; Decision Fatigue; Dissatisfaction.](diagram-01.svg)
 
 ### Maximizers vs. Satisficers
 
 A core concept in the book is the difference between maximizers and satisficers. Maximizers strive for the absolute best option, comparing all alternatives. Satisficers, on the other hand, aim for a "good enough" option, setting a reasonable standard and choosing the first option that meets it. Schwartz argues that while maximizers might appear to achieve better outcomes in some cases, they often experience greater regret, anxiety, and lower overall satisfaction. Satisficers, despite potentially missing out on optimal outcomes, enjoy greater peace of mind and overall well-being.
 
-```mermaid
-graph LR
-    A[Maximizer] --> B(Extensive Comparison);
-    B --> C(High Regret);
-    D[Satisficer] --> E(Reasonable Standard);
-    E --> F(Greater Peace of Mind);
-```
+![Maximizers vs. Satisficers. Maximizer; Extensive Comparison; High Regret; Satisficer; Reasonable Standard; Greater Peace of Mind.](diagram-02.svg)
 
 ### The Cost of Opportunity
 

@@ -18,13 +18,7 @@ Resistance is the insidious force that sabotages our creative work. It manifests
 
 Pressfield argues that the difference between amateurs and professionals lies not in talent but in discipline and approach.  Amateurs are driven by inspiration, waiting for the perfect moment to strike. Professionals, however, show up every day, regardless of their mood or inspiration.  They treat their work as a profession, a commitment, and a duty. This is the "turning pro" concept: a dedication to the work, irrespective of external validation or internal feelings.
 
-```mermaid
-graph LR
-    A[Amateur] --> B(Waiting for Inspiration);
-    C[Professional] --> D(Showing up Consistently);
-    B --> E(Inconsistent Output);
-    D --> F(Consistent Output);
-```
+![Turning Pro: A Mindset Shift. Amateur; Waiting for Inspiration; Professional; Showing up Consistently; Inconsistent Output; Consistent Output.](diagram-01.svg)
 
 ## Facing Fear and Doubt: The Power of Action
 
@@ -79,16 +73,7 @@ The principles outlined in "The War of Art" are not confined to artistic pursuit
 * **Embrace failure as a learning opportunity:** View setbacks as chances to learn and grow.
 * **Remember your "why":** Connect with the deeper purpose behind your work to stay motivated.
 
-```mermaid
-graph TB
-    A[Identify Resistance] --> B(Journaling);
-    B --> C[Create Daily Ritual];
-    C --> D(Set Realistic Goals);
-    D --> E[Find Accountability Partner];
-    E --> F(Celebrate Small Victories);
-    F --> G[Embrace Failure];
-    G --> H(Remember Your Why);
-```
+![Actionable Steps to Conquer Resistance. Identify Resistance; Journaling; Create Daily Ritual; Set Realistic Goals; Find Accountability Partner; Celebrate Small Victories; Embrace Failure; Remember Your Why.](diagram-02.svg)
 
 Ultimately, "The War of Art" is a call to arms, a challenge to engage in the ongoing battle against Resistance.  It's a reminder that true fulfillment comes not from avoiding discomfort, but from confronting it head-on and emerging victorious.  It’s a guide to becoming a professional in whatever endeavor you choose, a life well-lived, created through consistent effort and a courageous commitment to one's own creative vision.
 

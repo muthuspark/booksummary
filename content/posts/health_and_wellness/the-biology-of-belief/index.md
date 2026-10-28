@@ -30,12 +30,7 @@ Lipton's work emphasizes the significance of epigenetics – the study of how en
 
 This offers hope and empowerment, suggesting that we are not prisoners of our genetic inheritance. We can actively influence our gene expression through conscious choices and lifestyle modifications.
 
-```mermaid
-graph LR
-    A["Environment (Beliefs, Perceptions)"] --> B(Epigenetic Changes);
-    B --> C[Gene Expression];
-    C --> D{Cellular Function & Health};
-```
+![Epigenetics: Genes are not Destiny. Environment (Beliefs, Perceptions); Epigenetic Changes; Gene Expression; Cellular Function & Health.](diagram-01.svg)
 
 ## The Conscious and Subconscious Mind: A Two-Part System
 

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="363pt" height="282pt" viewBox="0.00 0.00 363.00 282.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Prioritization</title><desc id="description">Tasks leads to Important &amp; Urgent. Tasks leads to Important &amp; Not Urgent. Tasks leads to Urgent &amp; Not Important. Tasks leads to Not Important &amp; Not Urgent.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 264)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-264 345,-264 345,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M55.47,-153.25C68.21,-166.86 86.59,-184.21 106,-195 111.34,-197.97 116.98,-200.67 122.78,-203.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.24,-205.56 129.65,-205.91 124.08,-201.01 122.24,-205.56" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M74.35,-139.35C81.87,-140.66 90.18,-142.11 98.88,-143.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="98.62,-146.07 105.94,-144.87 99.46,-141.25 98.62,-146.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M74.35,-126.65C81.87,-125.34 90.18,-123.89 98.88,-122.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.46,-124.75 105.94,-121.13 98.62,-119.93 99.46,-124.75" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M56.03,-112.96C68.9,-99.62 87.19,-82.5 106,-71 110.41,-68.31 115.02,-65.74 119.75,-63.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="121.09,-65.38 126.27,-60.08 118.91,-60.99 121.09,-65.38" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M62,-153C62,-153 12,-153 12,-153 6,-153 0,-147 0,-141 0,-141 0,-125 0,-125 0,-119 6,-113 12,-113 12,-113 62,-113 62,-113 68,-113 74,-119 74,-125 74,-125 74,-141 74,-141 74,-147 68,-153 62,-153" />
+<text text-anchor="middle" x="37" y="-128.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tasks</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M298.5,-246C298.5,-246 134.5,-246 134.5,-246 128.5,-246 122.5,-240 122.5,-234 122.5,-234 122.5,-218 122.5,-218 122.5,-212 128.5,-206 134.5,-206 134.5,-206 298.5,-206 298.5,-206 304.5,-206 310.5,-212 310.5,-218 310.5,-218 310.5,-234 310.5,-234 310.5,-240 304.5,-246 298.5,-246" />
+<text text-anchor="middle" x="216.5" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important &amp; Urgent</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M315,-184C315,-184 118,-184 118,-184 112,-184 106,-178 106,-172 106,-172 106,-156 106,-156 106,-150 112,-144 118,-144 118,-144 315,-144 315,-144 321,-144 327,-150 327,-156 327,-156 327,-172 327,-172 327,-178 321,-184 315,-184" />
+<text text-anchor="middle" x="216.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important &amp; Not Urgent</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M315,-122C315,-122 118,-122 118,-122 112,-122 106,-116 106,-110 106,-110 106,-94 106,-94 106,-88 112,-82 118,-82 118,-82 315,-82 315,-82 321,-82 327,-88 327,-94 327,-94 327,-110 327,-110 327,-116 321,-122 315,-122" />
+<text text-anchor="middle" x="216.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent &amp; Not Important</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M302,-60C302,-60 131,-60 131,-60 125,-60 119,-54 119,-48 119,-48 119,-12 119,-12 119,-6 125,0 131,0 131,0 302,0 302,0 308,0 314,-6 314,-12 314,-12 314,-48 314,-48 314,-54 308,-60 302,-60" />
+<text text-anchor="middle" x="216.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Not Important &amp; Not</text>
+<text text-anchor="middle" x="216.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent</text>
+</g>
+</g>
+</svg>

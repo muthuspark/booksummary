@@ -14,12 +14,7 @@ Frank Luntz's "Words That Work" isn't just a book about language; it's a guide t
 
 Framing is the cornerstone of Luntz's methodology. It's about presenting information in a way that highlights specific aspects and influences the audience's interpretation. A simple shift in wording can dramatically alter the response. For example, "estate tax" is negatively perceived compared to "death tax," even though they refer to the same thing. This demonstrates the power of framing to shape public opinion. Luntz analyzes word choices used in surveys and polls, revealing how subtly altered phrasing can drastically impact the results.
 
-```mermaid
-graph LR
-    A[Initial Message] --> B{Framing};
-    B -- Positive Framing --> C[Positive Response];
-    B -- Negative Framing --> D[Negative Response];
-```
+![The Importance of Framing. Initial Message; Framing; Positive Response; Negative Response.](diagram-01.svg)
 
 ##  Strategic Word Choice:  Beyond Semantics
 

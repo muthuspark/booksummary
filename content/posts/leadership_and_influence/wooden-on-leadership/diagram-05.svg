@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="273pt" height="76pt" viewBox="0.00 0.00 273.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">Condition: Physical and Mental Preparedness</title><desc id="description">Integrity leads to Condition.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 255,-58 255,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.21,-20C106.03,-20 114.21,-20 122.27,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.63,-22.45 129.63,-20 122.63,-17.55 122.63,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M86,-40C86,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 86,0 86,0 92,0 98,-6 98,-12 98,-12 98,-28 98,-28 98,-34 92,-40 86,-40" />
+<text text-anchor="middle" x="49" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Integrity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M225,-40C225,-40 142,-40 142,-40 136,-40 130,-34 130,-28 130,-28 130,-12 130,-12 130,-6 136,0 142,0 142,0 225,0 225,0 231,0 237,-6 237,-12 237,-12 237,-28 237,-28 237,-34 231,-40 225,-40" />
+<text text-anchor="middle" x="183.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Condition</text>
+</g>
+</g>
+</svg>

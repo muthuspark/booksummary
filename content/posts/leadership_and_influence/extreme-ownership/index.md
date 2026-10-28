@@ -14,26 +14,13 @@ author: "Jocko Willink and Leif Babin"
 
 This is the central tenet of the book.  It means accepting responsibility, not blaming others, and proactively addressing problems.  It’s about acknowledging your role in any situation, both successes and failures.  This isn't about self-flagellation, but about empowering yourself to solve problems and prevent future issues.  By owning your actions and decisions, you create a proactive, solution-oriented mindset.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Extreme Ownership);
-    B --> C{Identify Your Role};
-    C --> D{Develop Solutions};
-    D --> E[Success/Improved Outcome];
-```
+![The Principle of Extreme Ownership. Problem; Extreme Ownership; Identify Your Role; Develop Solutions; Success/Improved Outcome.](diagram-01.svg)
 
 ## Covering and Supporting Your Team
 
 In the SEAL teams, covering and supporting your teammates is paramount. This translates to recognizing the strengths and weaknesses of those around you, supporting them when they falter, and ensuring everyone is operating effectively.  In your life, this translates to supporting your family, friends, and colleagues. It’s about fostering collaboration and ensuring everyone is working towards the same goal.  Effective teams rely on mutual trust and support.
 
-```mermaid
-graph LR
-    A[Team Member A] --> B(Cover);
-    B --> C[Team Member B];
-    C --> D(Support);
-    D --> E[Team Member A];
-    E --> F(Success);
-```
+![Covering and Supporting Your Team. Team Member A; Cover; Team Member B; Support; Team Member A; Success.](diagram-02.svg)
 
 ##  Decentralized Command
 

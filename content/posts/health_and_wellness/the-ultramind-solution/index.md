@@ -27,17 +27,7 @@ The book places significant emphasis on diet, considering it the cornerstone of 
 * **Prioritizing whole, unprocessed foods:**  Fruits, vegetables, lean protein, and healthy fats are emphasized for their nutrient density and anti-inflammatory properties.
 * **Embracing the Mediterranean diet principles:**  This dietary approach, rich in fruits, vegetables, olive oil, and fish, is highlighted for its numerous health benefits, including brain health.
 
-```mermaid
-graph LR
-    A[Processed Foods] --> B(Inflammation);
-    C[Sugar] --> B;
-    D[Refined Carbs] --> B;
-    E[Whole Foods] --> F(Reduced Inflammation);
-    G[Fruits & Veggies] --> F;
-    H[Lean Protein] --> F;
-    I[Healthy Fats] --> F;
-    F --> J(Improved Brain Function);
-```
+![Diet as the Foundation. Processed Foods; Inflammation; Sugar; Refined Carbs; Whole Foods; Reduced Inflammation; Fruits & Veggies; Lean Protein; Healthy Fats; Improved Brain Function.](diagram-01.svg)
 
 ### The Importance of Gut Health
 

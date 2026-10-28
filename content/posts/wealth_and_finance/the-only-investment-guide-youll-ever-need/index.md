@@ -18,12 +18,7 @@ Tobias stresses the necessity of building an emergency fund.  This fund should c
 
 High-interest debt, such as credit card debt, impacts your financial health. Tobias advocates for aggressively paying down this debt before focusing heavily on investments. The high interest rates effectively negate any potential investment returns. He suggests prioritizing debt repayment based on interest rates, paying off the highest interest debts first – a strategy known as the debt avalanche method.
 
-```mermaid
-graph LR
-    A[High-Interest Debt] --> B(Pay First);
-    C[Medium-Interest Debt] --> D(Pay Second);
-    E[Low-Interest Debt] --> F(Pay Last);
-```
+![Paying Down Debt Strategically. High-Interest Debt; Pay First; Medium-Interest Debt; Pay Second; Low-Interest Debt; Pay Last.](diagram-01.svg)
 
 ## Investing for the Long Term
 
@@ -33,15 +28,7 @@ Tobias champions long-term investing as the most effective strategy for wealth b
 
 Diversification is a cornerstone of Tobias's investment philosophy.  He advises spreading your investments across various asset classes, such as stocks, bonds, and real estate. This reduces risk by mitigating losses in any single asset class.  He also suggests diversification within each asset class, investing in different sectors and companies.
 
-```mermaid
-graph LR
-    A[Portfolio] --> B(Stocks);
-    A --> C(Bonds);
-    A --> D(Real Estate);
-    B --> E(Tech);
-    B --> F(Healthcare);
-    B --> G(Consumer Goods);
-```
+![Diversification: Don't Put All Your Eggs in One Basket. Portfolio; Stocks; Bonds; Real Estate; Tech; Healthcare; Consumer Goods.](diagram-02.svg)
 
 ## Understanding Asset Classes
 

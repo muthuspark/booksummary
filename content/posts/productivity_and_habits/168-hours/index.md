@@ -14,12 +14,7 @@ Laura Vanderkam's "168 Hours: You Have More Time Than You Think" isn't about tim
 
 Before any strategy can be implemented, accurate time tracking is paramount. Vanderkam strongly advocates for recording how you spend your hours for a week or two. This isn't about judgment; it's about gaining objective insight. Many people are surprised by where their time actually goes. This self-awareness is the first step towards making changes.
 
-```mermaid
-graph LR
-A[Track Your Time] --> B(Identify Time Sinks);
-B --> C{Analyze & Prioritize};
-C --> D[Make Conscious Choices];
-```
+![Tracking Your Time: The Foundation of Change. Track Your Time; Identify Time Sinks; Analyze & Prioritize; Make Conscious Choices.](diagram-01.svg)
 
 # Identifying Time Sinks and Opportunities
 

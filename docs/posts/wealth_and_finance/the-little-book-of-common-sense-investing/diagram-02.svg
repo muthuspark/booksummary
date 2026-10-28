@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="625pt" height="188pt" viewBox="0.00 0.00 624.50 188.00" role="img" aria-labelledby="title description">
+<title id="title">Building a Simple Investment Portfolio</title><desc id="description">Portfolio leads to Total Stock Market Index Fund. Portfolio leads to Total International Stock Market Index Fund. Portfolio leads to Total Bond Market Index Fund.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 170)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-170 606.5,-170 606.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M251.52,-111.91C225.85,-100.64 192.67,-86.08 163.07,-73.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.82,-70.73 156.42,-70.16 161.85,-75.22 163.82,-70.73" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M295,-111.91C295,-104.58 295,-95.86 295,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="297.45,-87.07 295,-80.07 292.55,-87.07 297.45,-87.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M338.26,-111.91C363.82,-100.64 396.83,-86.08 426.28,-73.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="427.48,-75.23 432.9,-70.16 425.51,-70.75 427.48,-75.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M332.5,-152C332.5,-152 257.5,-152 257.5,-152 251.5,-152 245.5,-146 245.5,-140 245.5,-140 245.5,-124 245.5,-124 245.5,-118 251.5,-112 257.5,-112 257.5,-112 332.5,-112 332.5,-112 338.5,-112 344.5,-118 344.5,-124 344.5,-124 344.5,-140 344.5,-140 344.5,-146 338.5,-152 332.5,-152" />
+<text text-anchor="middle" x="295" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Portfolio</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M168,-70C168,-70 12,-70 12,-70 6,-70 0,-64 0,-58 0,-58 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 168,-10 168,-10 174,-10 180,-16 180,-22 180,-22 180,-58 180,-58 180,-64 174,-70 168,-70" />
+<text text-anchor="middle" x="90" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Total Stock Market</text>
+<text text-anchor="middle" x="90" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Index Fund</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375.5,-80C375.5,-80 214.5,-80 214.5,-80 208.5,-80 202.5,-74 202.5,-68 202.5,-68 202.5,-12 202.5,-12 202.5,-6 208.5,0 214.5,0 214.5,0 375.5,0 375.5,0 381.5,0 387.5,-6 387.5,-12 387.5,-12 387.5,-68 387.5,-68 387.5,-74 381.5,-80 375.5,-80" />
+<text text-anchor="middle" x="295" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Total International</text>
+<text text-anchor="middle" x="295" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stock Market Index</text>
+<text text-anchor="middle" x="295" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fund</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M576.5,-70C576.5,-70 421.5,-70 421.5,-70 415.5,-70 409.5,-64 409.5,-58 409.5,-58 409.5,-22 409.5,-22 409.5,-16 415.5,-10 421.5,-10 421.5,-10 576.5,-10 576.5,-10 582.5,-10 588.5,-16 588.5,-22 588.5,-22 588.5,-58 588.5,-58 588.5,-64 582.5,-70 576.5,-70" />
+<text text-anchor="middle" x="499" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Total Bond Market</text>
+<text text-anchor="middle" x="499" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Index Fund</text>
+</g>
+</g>
+</svg>

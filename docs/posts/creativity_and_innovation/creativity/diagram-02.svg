@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="513pt" height="231pt" viewBox="0.00 0.00 513.00 231.00" role="img" aria-labelledby="title description">
+<title id="title">The Creative Process: Flow and the Importance of Intrinsic Motivation</title><desc id="description">Challenge leads to Anxiety (High). Challenge leads to Boredom (Low). Challenge leads to Flow (Optimal). Flow leads to Skill: High (High). Flow leads to Skill: Low (Low).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 213)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-213 495,-213 495,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107.17,-130.19C134.31,-139.04 167.23,-149.79 194.04,-158.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.3,-160.87 200.71,-160.71 194.82,-156.21 193.3,-160.87" />
+<text text-anchor="middle" x="150.5" y="-158" font-family="Georgia" font-size="15.00" fill="#405b50">High</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107.17,-113C131.87,-113 161.36,-113 186.67,-113" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.69,-115.45 193.69,-113 186.69,-110.55 186.69,-115.45" />
+<text text-anchor="middle" x="150.5" y="-118" font-family="Georgia" font-size="15.00" fill="#405b50">Low</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107.17,-95.81C137.95,-85.77 176.18,-73.29 204.48,-64.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.56,-66.28 211.45,-61.78 204.04,-61.63 205.56,-66.28" />
+<text text-anchor="middle" x="150.5" y="-94" font-family="Georgia" font-size="15.00" fill="#405b50">Optimal</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M279.76,-56.98C301.24,-60.84 329.87,-65.98 355.59,-70.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="355.43,-73.07 362.76,-71.89 356.3,-68.24 355.43,-73.07" />
+<text text-anchor="middle" x="330" y="-73" font-family="Georgia" font-size="15.00" fill="#405b50">High</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M279.76,-45.02C302.14,-41 332.29,-35.58 358.81,-30.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="359.37,-33.21 365.82,-29.56 358.5,-28.38 359.37,-33.21" />
+<text text-anchor="middle" x="330" y="-43" font-family="Georgia" font-size="15.00" fill="#405b50">Low</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M95,-133C95,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 95,-93 95,-93 101,-93 107,-99 107,-105 107,-105 107,-121 107,-121 107,-127 101,-133 95,-133" />
+<text text-anchor="middle" x="53.5" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Challenge</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M278,-195C278,-195 213,-195 213,-195 207,-195 201,-189 201,-183 201,-183 201,-167 201,-167 201,-161 207,-155 213,-155 213,-155 278,-155 278,-155 284,-155 290,-161 290,-167 290,-167 290,-183 290,-183 290,-189 284,-195 278,-195" />
+<text text-anchor="middle" x="245.5" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anxiety</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M285,-133C285,-133 206,-133 206,-133 200,-133 194,-127 194,-121 194,-121 194,-105 194,-105 194,-99 200,-93 206,-93 206,-93 285,-93 285,-93 291,-93 297,-99 297,-105 297,-105 297,-121 297,-121 297,-127 291,-133 285,-133" />
+<text text-anchor="middle" x="245.5" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Boredom</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M267.5,-71C267.5,-71 223.5,-71 223.5,-71 217.5,-71 211.5,-65 211.5,-59 211.5,-59 211.5,-43 211.5,-43 211.5,-37 217.5,-31 223.5,-31 223.5,-31 267.5,-31 267.5,-31 273.5,-31 279.5,-37 279.5,-43 279.5,-43 279.5,-59 279.5,-59 279.5,-65 273.5,-71 267.5,-71" />
+<text text-anchor="middle" x="245.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Flow</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M465,-102C465,-102 375,-102 375,-102 369,-102 363,-96 363,-90 363,-90 363,-74 363,-74 363,-68 369,-62 375,-62 375,-62 465,-62 465,-62 471,-62 477,-68 477,-74 477,-74 477,-90 477,-90 477,-96 471,-102 465,-102" />
+<text text-anchor="middle" x="420" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill: High</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M462,-40C462,-40 378,-40 378,-40 372,-40 366,-34 366,-28 366,-28 366,-12 366,-12 366,-6 372,0 378,0 378,0 462,0 462,0 468,0 474,-6 474,-12 474,-12 474,-28 474,-28 474,-34 468,-40 462,-40" />
+<text text-anchor="middle" x="420" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill: Low</text>
+</g>
+</g>
+</svg>

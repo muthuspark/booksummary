@@ -14,14 +14,7 @@ David Perlmutter's "Grain Brain" presents a compelling argument linking the cons
 
 Perlmutter argues that the glycemic index (GI) and glycemic load (GL) of various foods influence brain health. High-GI foods, such as refined grains, cause rapid spikes in blood sugar levels. This, in turn, triggers an inflammatory response in the body, damaging brain cells and impairing cognitive function. The constant inflammation associated with a high-grain diet contributes to the development of numerous chronic diseases.
 
-```mermaid
-graph LR
-    A["High-GI Foods (Refined Grains)"] --> B(Rapid Blood Sugar Spike);
-    B --> C[Inflammation];
-    C --> D{Brain Damage};
-    C --> E{Cognitive Decline};
-    C --> F{Chronic Diseases};
-```
+![The Inflammatory Impact of Grains. High-GI Foods (Refined Grains); Rapid Blood Sugar Spike; Inflammation; Brain Damage; Cognitive Decline; Chronic Diseases.](diagram-01.svg)
 
 ### Gluten's Role in Brain Health
 
@@ -36,14 +29,7 @@ The book dedicates significant attention to gluten, a protein found in wheat, ba
 
 Perlmutter highlights the connection between the gut and the brain, emphasizing the role of gut microbiota in influencing brain function and mood. He suggests that a diet high in refined carbohydrates disrupts the balance of gut bacteria, leading to increased intestinal permeability ("leaky gut"). This permeability can then contribute to inflammation throughout the body, negatively impacting brain health. Maintaining a healthy gut microbiome through diet and potentially probiotics is presented as important for overall well-being.
 
-```mermaid
-graph LR
-    A[Gut Microbiome];
-    A -- High-GI Diet --> B["Dysbiosis (Imbalance)"];
-    B --> C[Leaky Gut];
-    C --> D[Inflammation];
-    D --> E[Brain Dysfunction];
-```
+![The Gut-Brain Connection. Gut Microbiome; Dysbiosis (Imbalance); Leaky Gut; Inflammation; Brain Dysfunction.](diagram-02.svg)
 
 ###  Strategies for Brain Optimization
 

@@ -14,17 +14,7 @@ author: "Michael Bungay Stanier"
 
 The book's core revolves around seven powerful questions designed to elicit insightful responses and guide the coaching conversation.  These are not merely interrogative sentences; they're carefully crafted tools designed to provoke deeper thinking and self-awareness.  Mastering these questions forms the bedrock of effective coaching.
 
-```mermaid
-graph LR
-    A[The 7 Key Questions] --> B(What's the real challenge here?);
-    A --> C(What's the most important thing you're facing right now?);
-    A --> D(And what else?);
-    A --> E(What do you want?);
-    A --> F(If you're saying yes to this, what are you saying no to?);
-    A --> G(What's the one thing you can do that would make a difference?);
-    A --> H(How will you know when you've succeeded?);
-
-```
+![The Seven Key Questions:  The Foundation of Effective Coaching. The 7 Key Questions; What's the real challenge here?; What's the most important thing you're facing right now?; And what else?; What do you want?; If you're saying yes to this, what are you saying no to?; What's the one thing you can do that would make a difference?; How will you know when you've succeeded?.](diagram-01.svg)
 
 Each question serves a distinct purpose:
 

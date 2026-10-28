@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="332pt" height="424pt" viewBox="0.00 0.00 332.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Planning: Goal Setting and Budgeting</title><desc id="description">Set SMART Goals leads to Create Detailed Budget. Create Detailed Budget leads to Track Progress. Track Progress leads to Adjust as Needed. Adjust as Needed leads to Achieve Financial Goals.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 314,-406 314,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-347.87C148,-340.31 148,-331.49 148,-323.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-323.1 148,-316.1 145.55,-323.1 150.45,-323.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-275.91C148,-268.58 148,-259.86 148,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-251.07 148,-244.07 145.55,-251.07 150.45,-251.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-163.79C148,-155.54 148,-147.04 148,-139.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-139.09 148,-132.09 145.55,-139.09 150.45,-139.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-91.63C148,-84.34 148,-75.78 148,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-67.19 148,-60.19 145.55,-67.19 150.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M220.5,-388C220.5,-388 75.5,-388 75.5,-388 69.5,-388 63.5,-382 63.5,-376 63.5,-376 63.5,-360 63.5,-360 63.5,-354 69.5,-348 75.5,-348 75.5,-348 220.5,-348 220.5,-348 226.5,-348 232.5,-354 232.5,-360 232.5,-360 232.5,-376 232.5,-376 232.5,-382 226.5,-388 220.5,-388" />
+<text text-anchor="middle" x="148" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Set SMART Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M243,-316C243,-316 53,-316 53,-316 47,-316 41,-310 41,-304 41,-304 41,-288 41,-288 41,-282 47,-276 53,-276 53,-276 243,-276 243,-276 249,-276 255,-282 255,-288 255,-288 255,-304 255,-304 255,-310 249,-316 243,-316" />
+<text text-anchor="middle" x="148" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Create Detailed Budget</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="148,-244 0,-204 148,-164 296,-204 148,-244" />
+<text text-anchor="middle" x="148" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Track Progress</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M219.5,-132C219.5,-132 76.5,-132 76.5,-132 70.5,-132 64.5,-126 64.5,-120 64.5,-120 64.5,-104 64.5,-104 64.5,-98 70.5,-92 76.5,-92 76.5,-92 219.5,-92 219.5,-92 225.5,-92 231.5,-98 231.5,-104 231.5,-104 231.5,-120 231.5,-120 231.5,-126 225.5,-132 219.5,-132" />
+<text text-anchor="middle" x="148" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjust as Needed</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M221,-60C221,-60 75,-60 75,-60 69,-60 63,-54 63,-48 63,-48 63,-12 63,-12 63,-6 69,0 75,0 75,0 221,0 221,0 227,0 233,-6 233,-12 233,-12 233,-48 233,-48 233,-54 227,-60 221,-60" />
+<text text-anchor="middle" x="148" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieve Financial</text>
+<text text-anchor="middle" x="148" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goals</text>
+</g>
+</g>
+</svg>

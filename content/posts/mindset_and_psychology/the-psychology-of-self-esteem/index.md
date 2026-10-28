@@ -26,15 +26,7 @@ Branden identifies six pillars supporting healthy self-esteem:
 * **Purposefulness:**  Having goals and striving towards them, finding meaning and direction in life.
 * **Personal Integrity:**  Living in accordance with one's values, maintaining consistency between beliefs and actions.
 
-```mermaid
-graph LR
-A[Self-Esteem] --> B(Living Consciously);
-A --> C(Self-Acceptance);
-A --> D(Self-Responsibility);
-A --> E(Self-Assertiveness);
-A --> F(Purposefulness);
-A --> G(Personal Integrity);
-```
+![The Six Pillars of Self-Esteem. Self-Esteem; Living Consciously; Self-Acceptance; Self-Responsibility; Self-Assertiveness; Purposefulness; Personal Integrity.](diagram-01.svg)
 
 
 ##  Living Consciously: The Foundation

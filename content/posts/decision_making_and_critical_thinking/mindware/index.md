@@ -20,16 +20,7 @@ Nisbett outlines the difference between System 1 and System 2 thinking:
 The key to better thinking is to know when System 1 is leading us astray and actively engage System 2 to correct its errors.
 
 
-```mermaid
-graph LR
-    A[System 1] --> B(Fast, Automatic, Intuitive)
-    A --> C(Emotional, Prone to Biases)
-    D[System 2] --> E(Slow, Deliberate, Logical)
-    D --> F(Analytical, Effortful)
-    A --> G(Default Mode)
-    D --> H(Corrects System 1 Errors)
-
-```
+![The Two Systems of Thinking. System 1; Fast, Automatic, Intuitive; Emotional, Prone to Biases; System 2; Slow, Deliberate, Logical; Analytical, Effortful; Default Mode; Corrects System 1 Errors.](diagram-01.svg)
 
 ## The Importance of Statistical Reasoning
 

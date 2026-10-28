@@ -18,15 +18,7 @@ Carr argues that the internet, designed for rapid information retrieval and frag
 
 The book contrasts the meditative, linear process of deep reading with the rapid, non-linear "power browsing" characteristic of internet use. Deep reading allows for understanding, critical engagement with the text, and the development of complex thoughts. Power browsing, on the other hand, prioritizes speed and efficiency, sacrificing depth for breadth. This shift, Carr argues, diminishes our capacity for sustained concentration and weakens our cognitive muscles.
 
-```mermaid
-graph LR
-    A[Deep Reading] --> B(Nuanced Understanding);
-    A --> C(Critical Engagement);
-    A --> D(Complex Thoughts);
-    E[Power Browsing] --> F(Speed & Efficiency);
-    E --> G(Superficial Comprehension);
-    E --> H(Fragmented Thoughts);
-```
+![The Shift from "Deep Reading" to "Power Browsing. Deep Reading; Nuanced Understanding; Critical Engagement; Complex Thoughts; Power Browsing; Speed & Efficiency; Superficial Comprehension; Fragmented Thoughts.](diagram-01.svg)
 
 ### The Neuroplasticity of the Brain and Internet Usage
 

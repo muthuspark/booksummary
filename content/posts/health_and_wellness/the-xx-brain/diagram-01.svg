@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581pt" height="262pt" viewBox="0.00 0.00 581.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Nutrition: Fueling the Female Brain</title><desc id="description">Healthy Diet leads to Antioxidants. Healthy Diet leads to Omega-3 Fatty Acids. Healthy Diet leads to B Vitamins. Healthy Diet leads to Mediterranean Diet. Antioxidants leads to Improved Brain Function. Omega-3 Fatty Acids leads to Improved Brain Function. B Vitamins leads to Improved Brain Function. Mediterranean Diet leads to Improved Brain Function.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 563,-244 563,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.68,-133.18C112.43,-146.4 138.34,-163.34 163,-175 171.01,-178.79 179.61,-182.29 188.24,-185.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.43,-187.78 194.84,-187.84 189.08,-183.17 187.43,-187.78" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M131.14,-123.41C139.07,-124.69 147.33,-126.02 155.66,-127.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.37,-129.79 162.67,-128.49 156.15,-124.95 155.37,-129.79" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M131.14,-102.59C151.65,-99.29 174.33,-95.64 194.81,-92.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.44,-94.72 201.96,-91.19 194.66,-89.88 195.44,-94.72" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.68,-92.82C112.43,-79.6 138.34,-62.66 163,-51 169.29,-48.02 175.95,-45.22 182.7,-42.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183.78,-44.83 189.47,-40.08 182.06,-40.24 183.78,-44.83" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325.2,-187.29C335.96,-183.58 346.9,-179.45 357,-175 375.37,-166.91 394.64,-156.61 411.78,-146.74" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="413.18,-148.76 418,-143.13 410.71,-144.53 413.18,-148.76" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M357.2,-129.45C365.32,-128.22 373.5,-126.99 381.52,-125.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="382.29,-128.14 388.84,-124.67 381.56,-123.29 382.29,-128.14" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.1,-90.64C337.88,-93.63 360.48,-97.04 381.97,-100.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="381.61,-102.72 388.9,-101.34 382.34,-97.87 381.61,-102.72" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M329.05,-40.05C338.55,-43.41 348.1,-47.08 357,-51 375.37,-59.09 394.64,-69.39 411.78,-79.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="410.71,-81.47 418,-82.87 413.18,-77.24 410.71,-81.47" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M119,-133C119,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 119,-93 119,-93 125,-93 131,-99 131,-105 131,-105 131,-121 131,-121 131,-127 125,-133 119,-133" />
+<text text-anchor="middle" x="65.5" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Diet</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313,-226C313,-226 207,-226 207,-226 201,-226 195,-220 195,-214 195,-214 195,-198 195,-198 195,-192 201,-186 207,-186 207,-186 313,-186 313,-186 319,-186 325,-192 325,-198 325,-198 325,-214 325,-214 325,-220 319,-226 313,-226" />
+<text text-anchor="middle" x="260" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Antioxidants</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M345,-164C345,-164 175,-164 175,-164 169,-164 163,-158 163,-152 163,-152 163,-136 163,-136 163,-130 169,-124 175,-124 175,-124 345,-124 345,-124 351,-124 357,-130 357,-136 357,-136 357,-152 357,-152 357,-158 351,-164 345,-164" />
+<text text-anchor="middle" x="260" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Omega-3 Fatty Acids</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M306,-102C306,-102 214,-102 214,-102 208,-102 202,-96 202,-90 202,-90 202,-74 202,-74 202,-68 208,-62 214,-62 214,-62 306,-62 306,-62 312,-62 318,-68 318,-74 318,-74 318,-90 318,-90 318,-96 312,-102 306,-102" />
+<text text-anchor="middle" x="260" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">B Vitamins</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M341,-40C341,-40 179,-40 179,-40 173,-40 167,-34 167,-28 167,-28 167,-12 167,-12 167,-6 173,0 179,0 179,0 341,0 341,0 347,0 353,-6 353,-12 353,-12 353,-28 353,-28 353,-34 347,-40 341,-40" />
+<text text-anchor="middle" x="260" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mediterranean Diet</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M533,-143C533,-143 401,-143 401,-143 395,-143 389,-137 389,-131 389,-131 389,-95 389,-95 389,-89 395,-83 401,-83 401,-83 533,-83 533,-83 539,-83 545,-89 545,-95 545,-95 545,-131 545,-131 545,-137 539,-143 533,-143" />
+<text text-anchor="middle" x="467" y="-118.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Brain</text>
+<text text-anchor="middle" x="467" y="-98.6" font-family="Georgia" font-size="18.00" fill="#243d36">Function</text>
+</g>
+</g>
+</svg>

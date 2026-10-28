@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="411pt" height="372pt" viewBox="0.00 0.00 411.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Trust as a Calculated Risk: The Role of Emotions</title><desc id="description">Fear (Amygdala) leads to Risk Assessment. Trust (Prefrontal Cortex) leads to Risk Assessment. Risk Assessment leads to Calculated Risk. Calculated Risk leads to Cooperation &amp; Mutual Gain. Calculated Risk leads to Potential Loss/Betrayal.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 393,-354 393,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130.27,-285.63C142.93,-274.63 158.88,-260.75 172.34,-249.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="174.26,-250.63 177.93,-244.19 171.04,-246.93 174.26,-250.63" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-203.91C200,-196.58 200,-187.86 200,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-179.07 200,-172.07 197.55,-179.07 202.45,-179.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M259.16,-275.89C248.82,-267 237.57,-257.32 227.69,-248.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.26,-246.94 222.36,-244.23 226.06,-250.65 229.26,-246.94" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.84,-99.91C159.13,-88.87 147.03,-76.39 136.09,-65.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="137.79,-63.35 131.16,-60.03 134.27,-66.76 137.79,-63.35" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M230.47,-99.91C241.29,-88.87 253.52,-76.39 264.57,-65.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.4,-66.74 269.55,-60.03 262.9,-63.31 266.4,-66.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177,-326C177,-326 39,-326 39,-326 33,-326 27,-320 27,-314 27,-314 27,-298 27,-298 27,-292 33,-286 39,-286 39,-286 177,-286 177,-286 183,-286 189,-292 189,-298 189,-298 189,-314 189,-314 189,-320 183,-326 177,-326" />
+<text text-anchor="middle" x="108" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear (Amygdala)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M268.5,-244C268.5,-244 131.5,-244 131.5,-244 125.5,-244 119.5,-238 119.5,-232 119.5,-232 119.5,-216 119.5,-216 119.5,-210 125.5,-204 131.5,-204 131.5,-204 268.5,-204 268.5,-204 274.5,-204 280.5,-210 280.5,-216 280.5,-216 280.5,-232 280.5,-232 280.5,-238 274.5,-244 268.5,-244" />
+<text text-anchor="middle" x="200" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk Assessment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363,-336C363,-336 223,-336 223,-336 217,-336 211,-330 211,-324 211,-324 211,-288 211,-288 211,-282 217,-276 223,-276 223,-276 363,-276 363,-276 369,-276 375,-282 375,-288 375,-288 375,-324 375,-324 375,-330 369,-336 363,-336" />
+<text text-anchor="middle" x="293" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust (Prefrontal</text>
+<text text-anchor="middle" x="293" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cortex)</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="200,-172 48,-132 200,-92 352,-132 200,-172" />
+<text text-anchor="middle" x="200" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Calculated Risk</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M194,-60C194,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 194,0 194,0 200,0 206,-6 206,-12 206,-12 206,-48 206,-48 206,-54 200,-60 194,-60" />
+<text text-anchor="middle" x="103" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cooperation &amp; Mutual</text>
+<text text-anchor="middle" x="103" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gain</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M355.5,-60C355.5,-60 240.5,-60 240.5,-60 234.5,-60 228.5,-54 228.5,-48 228.5,-48 228.5,-12 228.5,-12 228.5,-6 234.5,0 240.5,0 240.5,0 355.5,0 355.5,0 361.5,0 367.5,-6 367.5,-12 367.5,-12 367.5,-48 367.5,-48 367.5,-54 361.5,-60 355.5,-60" />
+<text text-anchor="middle" x="298" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Potential</text>
+<text text-anchor="middle" x="298" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Loss/Betrayal</text>
+</g>
+</g>
+</svg>

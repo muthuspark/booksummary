@@ -20,14 +20,7 @@ The book establishes two core types of well-being:
 
 Ben-Shahar argues that true well-being requires a balance of both.  Simply chasing pleasure without meaning leads to emptiness, while solely focusing on meaning without pleasure can lead to burnout.
 
-```mermaid
-graph LR
-    A[Hedonic Well-being] --> B(Pleasure & Pain Avoidance)
-    C[Eudaimonic Well-being] --> D(Meaning & Purpose)
-    B --> E(Short-term Gratification)
-    D --> F(Long-term Fulfillment)
-    E -- Balanced --> F
-```
+![Hedonic and Eudaimonic Well-being: The Two Pillars. Hedonic Well-being; Pleasure & Pain Avoidance; Eudaimonic Well-being; Meaning & Purpose; Short-term Gratification; Long-term Fulfillment.](diagram-01.svg)
 
 ### Mindfulness and Gratitude: Cultivating Present Moment Awareness
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262pt" height="364pt" viewBox="0.00 0.00 262.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">The Antidotes to Divorce:  The Four Horsemen</title><desc id="description">Criticism leads to Contempt. Contempt leads to Defensiveness. Defensiveness leads to Stonewalling. Stonewalling leads to Relationship Breakdown.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 244,-346 244,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113,-287.87C113,-280.31 113,-271.49 113,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.45,-263.1 113,-256.1 110.55,-263.1 115.45,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113,-215.87C113,-208.31 113,-199.49 113,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.45,-191.1 113,-184.1 110.55,-191.1 115.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113,-143.87C113,-136.31 113,-127.49 113,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.45,-119.1 113,-112.1 110.55,-119.1 115.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113,-71.87C113,-64.31 113,-55.49 113,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.45,-47.1 113,-40.1 110.55,-47.1 115.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151.5,-328C151.5,-328 74.5,-328 74.5,-328 68.5,-328 62.5,-322 62.5,-316 62.5,-316 62.5,-300 62.5,-300 62.5,-294 68.5,-288 74.5,-288 74.5,-288 151.5,-288 151.5,-288 157.5,-288 163.5,-294 163.5,-300 163.5,-300 163.5,-316 163.5,-316 163.5,-322 157.5,-328 151.5,-328" />
+<text text-anchor="middle" x="113" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criticism</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154.5,-256C154.5,-256 71.5,-256 71.5,-256 65.5,-256 59.5,-250 59.5,-244 59.5,-244 59.5,-228 59.5,-228 59.5,-222 65.5,-216 71.5,-216 71.5,-216 154.5,-216 154.5,-216 160.5,-216 166.5,-222 166.5,-228 166.5,-228 166.5,-244 166.5,-244 166.5,-250 160.5,-256 154.5,-256" />
+<text text-anchor="middle" x="113" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Contempt</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M172,-184C172,-184 54,-184 54,-184 48,-184 42,-178 42,-172 42,-172 42,-156 42,-156 42,-150 48,-144 54,-144 54,-144 172,-144 172,-144 178,-144 184,-150 184,-156 184,-156 184,-172 184,-172 184,-178 178,-184 172,-184" />
+<text text-anchor="middle" x="113" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defensiveness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166.5,-112C166.5,-112 59.5,-112 59.5,-112 53.5,-112 47.5,-106 47.5,-100 47.5,-100 47.5,-84 47.5,-84 47.5,-78 53.5,-72 59.5,-72 59.5,-72 166.5,-72 166.5,-72 172.5,-72 178.5,-78 178.5,-84 178.5,-84 178.5,-100 178.5,-100 178.5,-106 172.5,-112 166.5,-112" />
+<text text-anchor="middle" x="113" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stonewalling</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M214,-40C214,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 214,0 214,0 220,0 226,-6 226,-12 226,-12 226,-28 226,-28 226,-34 220,-40 214,-40" />
+<text text-anchor="middle" x="113" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship Breakdown</text>
+</g>
+</g>
+</svg>

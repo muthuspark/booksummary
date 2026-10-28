@@ -15,13 +15,7 @@ Dan Buettner's "The Blue Zones" explores the lifestyles of five regions – Ikar
 
 The Blue Zones share a largely plant-based diet, though the specifics vary by region.  Meat is consumed sparingly, often only a few times a month.  Beans, legumes, and whole grains are dietary staples.  Fruits and vegetables are abundant.  The emphasis is on minimally processed foods, with an abundance of naturally occurring nutrients.  This isn't about strict veganism, but a significant shift towards plant-centric eating.
 
-```mermaid
-graph LR
-    A[Plant-Based Diet] --> B(Beans & Legumes);
-    A --> C(Whole Grains);
-    A --> D(Fruits & Vegetables);
-    A --> E(Sparingly Meat);
-```
+![Power of Plants: Diet in Blue Zones. Plant-Based Diet; Beans & Legumes; Whole Grains; Fruits & Vegetables; Sparingly Meat.](diagram-01.svg)
 
 **Actionable Insight:** Gradually increase your consumption of plant-based foods, replacing processed foods and red meat with vegetables, fruits, beans, and whole grains.  Experiment with new recipes and cuisines featuring these foods.
 
@@ -30,18 +24,7 @@ graph LR
 
 Buettner identifies nine common lifestyle factors, the "Power Nine," contributing to the longevity of Blue Zone inhabitants. These are interconnected aspects of their lifestyle.
 
-```mermaid
-graph LR
-    A[Power Nine] --> B(Move Naturally);
-    A --> C(Purpose);
-    A --> D(Down Shift);
-    A --> E(80% Rule);
-    A --> F(Plant Slant);
-    A --> G(Wine@5);
-    A --> H(Belong);
-    A --> I(Loved Ones First);
-    A --> J(Right Tribe);
-```
+![The "Power Nine" Lifestyle Habits. Power Nine; Move Naturally; Purpose; Down Shift; 80% Rule; Plant Slant; Wine@5; Belong; Loved Ones First; Right Tribe.](diagram-02.svg)
 
 ## Move Naturally:  Incorporating Physical Activity into Daily Life
 

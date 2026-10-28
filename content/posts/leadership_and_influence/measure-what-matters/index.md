@@ -10,16 +10,7 @@ author: "John Doerr"
 
 John Doerr's "Measure What Matters" champions the Objectives and Key Results (OKRs) framework as a powerful tool for achieving ambitious goals, both personally and professionally.  The book isn't just a how-to guide; it's a compelling narrative weaving together anecdotal evidence from Google, Intel, and numerous other organizations, showcasing the transformative power of OKRs.  The core idea is simple: define clear, ambitious Objectives and quantify them using measurable Key Results.
 
-```mermaid
-graph LR
-    A[Ambitious Objective] --> B(Specific Key Result 1);
-    A --> C(Specific Key Result 2);
-    A --> D(Specific Key Result 3);
-    B --> E[Progress Tracking];
-    C --> E;
-    D --> E;
-    E --> F[Achievement & Learning];
-```
+![The Power of Objectives and Key Results (OKRs). Ambitious Objective; Specific Key Result 1; Specific Key Result 2; Specific Key Result 3; Progress Tracking; Achievement & Learning.](diagram-01.svg)
 
 This simple diagram highlights the central methodology. Objectives are qualitative statements describing what you want to achieve; Key Results are quantitative measures that demonstrate progress towards those objectives. Regular tracking and adjustment are necessary for success.
 

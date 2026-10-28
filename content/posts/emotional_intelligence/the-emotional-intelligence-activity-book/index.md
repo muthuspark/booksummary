@@ -16,13 +16,7 @@ This section focuses on introspection and understanding one's own emotions, moti
 
 The book provides numerous exercises, including journaling prompts, self-assessments, and mood tracking charts, to help readers become more attuned to their internal states.  Understanding your emotional patterns allows you to anticipate potential problems and respond more effectively.
 
-```mermaid
-graph LR
-    A[Identify Triggers] --> B(Recognize Physical Manifestations);
-    B --> C{Understand Emotional Impact};
-    C --> D[Develop Self-Awareness];
-    D --> E(Improve Self-Regulation);
-```
+![Self-Awareness: Knowing Your Emotional Landscape. Identify Triggers; Recognize Physical Manifestations; Understand Emotional Impact; Develop Self-Awareness; Improve Self-Regulation.](diagram-01.svg)
 
 ## Self-Regulation: Mastering Your Emotional Responses
 
@@ -37,13 +31,7 @@ Social awareness is about understanding the emotions of others and empathizing w
 Understanding others' emotions is important for building strong relationships, navigating social situations effectively, and resolving conflicts constructively.
 
 
-```mermaid
-graph LR
-    A[Active Listening] --> B(Nonverbal Communication);
-    B --> C{Perspective Taking};
-    C --> D[Empathy];
-    D --> E(Stronger Relationships);
-```
+![Social Awareness: Reading the Room and Connecting with Others. Active Listening; Nonverbal Communication; Perspective Taking; Empathy; Stronger Relationships.](diagram-02.svg)
 
 ## Relationship Management: Building and Maintaining Healthy Connections
 

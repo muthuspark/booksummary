@@ -23,12 +23,7 @@ The foundation of fierce conversations lies in three essential commitments:
 *   **Commitment to Listen to Others' Truth:** Truly hearing and understanding the other person’s perspective is crucial. This is not about agreeing, but about genuinely comprehending their viewpoint.
 *   **Commitment to Stay Present:** Maintaining focus and presence during the conversation, avoiding distractions and allowing for genuine engagement.  This is essential for both listening and communicating effectively.
 
-```mermaid
-graph LR
-A[Speak Your Truth] --> B(Fierce Conversation);
-C[Listen to Others' Truth] --> B;
-D[Stay Present] --> B;
-```
+![The Power of the "Three Commitments. Speak Your Truth; Fierce Conversation; Listen to Others' Truth; Stay Present.](diagram-01.svg)
 
 ## Mastering the Art of  Asking Questions
 
@@ -75,13 +70,7 @@ Scott identifies four destructive communication patterns that can derail convers
 
 Recognizing these patterns and consciously choosing alternative approaches is important for maintaining productive and meaningful conversations.
 
-```mermaid
-graph LR
-A[Criticism] --> B(Destructive Communication);
-C[Contempt] --> B;
-D[Defensiveness] --> B;
-E[Stonewalling] --> B;
-```
+![Addressing  "The Four Horsemen. Criticism; Destructive Communication; Contempt; Defensiveness; Stonewalling.](diagram-02.svg)
 
 ##  Moving Beyond the "Dance" to  Meaningful Engagement
 

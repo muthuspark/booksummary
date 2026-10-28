@@ -14,82 +14,39 @@ author: "Travis Bradberry and Jean Greaves"
 
 This foundational element involves understanding your emotions, strengths, weaknesses, values, and how you impact others. The book stresses the importance of self-reflection and suggests techniques like journaling, mindfulness, and seeking feedback from trusted individuals to gain a clearer picture of yourself. Ignoring your emotions is detrimental; understanding them helps you anticipate reactions in different situations and understand your decision-making process.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Journaling);
-A --> C(Mindfulness);
-A --> D(Seeking Feedback);
-B --> E[Understanding Emotions];
-C --> E;
-D --> E;
-E --> F(Improved Self-Awareness);
-```
+![Self-Awareness: Knowing Yourself. Self-Reflection; Journaling; Mindfulness; Seeking Feedback; Understanding Emotions; Improved Self-Awareness.](diagram-01.svg)
 
 # Self-Regulation: Managing Your Emotions
 
 Self-regulation involves controlling impulsive behaviors, managing stress, and adapting to changing circumstances.  The authors propose strategies such as deep breathing exercises, cognitive reframing (changing negative thoughts into positive ones), and practicing self-compassion.  Developing this skill reduces emotional reactivity and enables more constructive responses to challenging situations.
 
-```mermaid
-graph LR
-A[Deep Breathing] --> B(Stress Reduction);
-C[Cognitive Reframing] --> B;
-D[Self-Compassion] --> B;
-B --> E[Improved Emotional Regulation];
-```
+![Self-Regulation: Managing Your Emotions. Deep Breathing; Stress Reduction; Cognitive Reframing; Self-Compassion; Improved Emotional Regulation.](diagram-02.svg)
 
 
 # Motivation: Your Internal Drive
 
 Motivation is the force that drives you to achieve your goals.  High EQ individuals exhibit intrinsic motivation, driven by a sense of purpose and passion rather than solely external rewards.  The book advises setting realistic goals, focusing on your strengths, celebrating small victories, and learning from failures to maintain a positive and productive mindset.
 
-```mermaid
-graph LR
-A[Set Realistic Goals] --> B(Increased Motivation);
-C[Focus on Strengths] --> B;
-D[Celebrate Victories] --> B;
-E[Learn from Failures] --> B;
-```
+![Motivation: Your Internal Drive. Set Realistic Goals; Increased Motivation; Focus on Strengths; Celebrate Victories; Learn from Failures.](diagram-03.svg)
 
 # Empathy: Understanding Others
 
 Empathy involves understanding and sharing the feelings of others. It's about actively listening, paying attention to nonverbal cues, and considering different perspectives.  The authors stress the importance of perspective-taking to improve communication and build strong relationships.  Empathy isn't about agreeing with others but about understanding their emotional landscape.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Improved Empathy);
-C[Nonverbal Cues] --> B;
-D[Perspective-Taking] --> B;
-```
+![Empathy: Understanding Others. Active Listening; Improved Empathy; Nonverbal Cues; Perspective-Taking.](diagram-04.svg)
 
 # Social Skills: Building Relationships
 
 Social skills include communication, conflict resolution, teamwork, and leadership. The book provides practical strategies for effective communication, such as active listening, clear articulation, and non-violent communication.  It also emphasizes the importance of building trust and rapport, managing conflict constructively, and leveraging the strengths of team members.
 
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Effective Communication);
-C[Clear Articulation] --> B;
-D[Non-Violent Communication] --> B;
-E[Building Trust] --> F(Strong Relationships);
-G[Conflict Resolution] --> F;
-H[Teamwork] --> F;
-
-```
+![Social Skills: Building Relationships. Active Listening; Effective Communication; Clear Articulation; Non-Violent Communication; Building Trust; Strong Relationships; Conflict Resolution; Teamwork.](diagram-05.svg)
 
 # Putting It All Together: The EQ Model
 
 The book presents a practical framework for improving emotional intelligence, focusing on building self-awareness, self-regulation, motivation, empathy, and social skills.  The authors suggest regular self-assessment, goal setting, and consistent practice to develop these skills.  They argue that consistent effort leads to significant improvements in personal and professional life.  The model presented encourages an approach to personal development.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(EQ Development);
-C[Self-Regulation] --> B;
-D[Motivation] --> B;
-E[Empathy] --> B;
-F[Social Skills] --> B;
-B --> G(Improved Life Quality);
-```
+![Putting It All Together: The EQ Model. Self-Awareness; EQ Development; Self-Regulation; Motivation; Empathy; Social Skills; Improved Life Quality.](diagram-06.svg)
 
 # Actionable Strategies:
 

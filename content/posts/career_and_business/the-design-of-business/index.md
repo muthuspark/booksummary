@@ -14,12 +14,7 @@ Roger Martin's "The Design of Business" champions a radical shift in how busines
 
 The core of Martin's argument revolves around the concept of "integrated thinking." He posits that most businesses, and individuals, fall into the trap of relying solely on either analytical or intuitive thinking. Analytical thinking focuses on quantitative data, logical deduction, and structured problem-solving. Intuitive thinking, on the other hand, relies on gut feelings, creative insights, and pattern recognition. Integrated thinking, however, requires a conscious effort to use the strengths of both approaches, allowing them to inform and complement each other. This is not simply a matter of switching between modes; it's about creating a dynamic interplay between the two.
 
-```mermaid
-graph LR
-A[Analytical Thinking] --> B(Integrated Thinking);
-C[Intuitive Thinking] --> B;
-B --> D[Effective Decision Making];
-```
+![The Integrated Thinking Framework: Bridging Opposites. Analytical Thinking; Integrated Thinking; Intuitive Thinking; Effective Decision Making.](diagram-01.svg)
 
 ##  The Importance of Managing Opposites
 

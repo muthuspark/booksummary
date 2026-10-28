@@ -12,15 +12,7 @@ Brandon Turner's "The Book on Rental Property Investing" emphasizes the importan
 
 Thorough market analysis is paramount.  Analyze rental rates, vacancy rates, property values, and the overall economic health of the area.  Understand the local regulations and the competitive landscape. This includes looking at the number of competing rental properties, their condition, and their rental rates. Tools like Zillow, Realtor.com, and local MLS data are invaluable.
 
-```mermaid
-graph LR
-    A[Market Research] --> B(Rental Rates);
-    A --> C(Vacancy Rates);
-    A --> D(Property Values);
-    A --> E(Economic Health);
-    A --> F(Local Regulations);
-    A --> G(Competition);
-```
+![Finding Your Niche and Analyzing Markets. Market Research; Rental Rates; Vacancy Rates; Property Values; Economic Health; Local Regulations; Competition.](diagram-01.svg)
 
 ##  Finding and Evaluating Deals
 
@@ -33,13 +25,7 @@ Evaluating a property's potential involves detailed due diligence.  This include
 Securing financing is crucial. The book explores various options like conventional loans, FHA loans, hard money loans, and private money lending.  Each comes with its own set of pros and cons depending on your credit score, down payment capacity, and risk tolerance.  Understanding these options is key to finding the most suitable financing method for each investment.
 
 
-```mermaid
-graph LR
-    A[Financing Options] --> B(Conventional Loans);
-    A --> C(FHA Loans);
-    A --> D(Hard Money Loans);
-    A --> E(Private Money);
-```
+![Financing Your Investments. Financing Options; Conventional Loans; FHA Loans; Hard Money Loans; Private Money.](diagram-02.svg)
 
 ##  Managing Your Properties
 

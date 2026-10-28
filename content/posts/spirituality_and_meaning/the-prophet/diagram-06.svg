@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="472pt" height="148pt" viewBox="0.00 0.00 471.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">On Beauty</title><desc id="description">Inner Essence leads to Beauty. Nature leads to Beauty. Human Potential leads to Beauty.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 453.5,-130 453.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107.39,-71.87C124.35,-63.08 144.59,-52.58 162.27,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.57,-45.5 168.66,-40.1 161.31,-41.15 163.57,-45.5" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M205.5,-71.87C205.5,-64.31 205.5,-55.49 205.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="207.95,-47.1 205.5,-40.1 203.05,-47.1 207.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M312.33,-71.87C293.7,-63 271.43,-52.4 252.07,-43.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.99,-40.9 245.62,-40.1 250.89,-45.33 252.99,-40.9" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M129,-112C129,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 129,-72 129,-72 135,-72 141,-78 141,-84 141,-84 141,-100 141,-100 141,-106 135,-112 129,-112" />
+<text text-anchor="middle" x="70.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Essence</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M235.5,-40C235.5,-40 175.5,-40 175.5,-40 169.5,-40 163.5,-34 163.5,-28 163.5,-28 163.5,-12 163.5,-12 163.5,-6 169.5,0 175.5,0 175.5,0 235.5,0 235.5,0 241.5,0 247.5,-6 247.5,-12 247.5,-12 247.5,-28 247.5,-28 247.5,-34 241.5,-40 235.5,-40" />
+<text text-anchor="middle" x="205.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Beauty</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M235.5,-112C235.5,-112 175.5,-112 175.5,-112 169.5,-112 163.5,-106 163.5,-100 163.5,-100 163.5,-84 163.5,-84 163.5,-78 169.5,-72 175.5,-72 175.5,-72 235.5,-72 235.5,-72 241.5,-72 247.5,-78 247.5,-84 247.5,-84 247.5,-100 247.5,-100 247.5,-106 241.5,-112 235.5,-112" />
+<text text-anchor="middle" x="205.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nature</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M423.5,-112C423.5,-112 281.5,-112 281.5,-112 275.5,-112 269.5,-106 269.5,-100 269.5,-100 269.5,-84 269.5,-84 269.5,-78 275.5,-72 281.5,-72 281.5,-72 423.5,-72 423.5,-72 429.5,-72 435.5,-78 435.5,-84 435.5,-84 435.5,-100 435.5,-100 435.5,-106 429.5,-112 423.5,-112" />
+<text text-anchor="middle" x="352.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Human Potential</text>
+</g>
+</g>
+</svg>

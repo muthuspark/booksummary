@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="659pt" height="240pt" viewBox="0.00 0.00 658.50 240.00" role="img" aria-labelledby="title description">
+<title id="title">Financing Decisions: The Capital Structure</title><desc id="description">Debt Financing leads to Tax Shield. Debt Financing leads to Financial Risk. Equity Financing leads to Dilution. Equity Financing leads to Financial Flexibility. Optimal Capital Structure leads to Debt Financing. Optimal Capital Structure leads to Equity Financing.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 640.5,-222 640.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.24,-71.87C140.65,-63.08 119.66,-52.58 101.33,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.07,-41.04 94.71,-40.1 99.87,-45.43 102.07,-41.04" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199.23,-71.87C200.31,-64.31 201.57,-55.49 202.74,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.21,-47.38 203.77,-40.1 200.36,-46.69 205.21,-47.38" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M373.04,-71.87C372.07,-64.31 370.93,-55.49 369.89,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="372.28,-46.74 368.96,-40.1 367.42,-47.36 372.28,-46.74" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M417.58,-71.87C437.19,-62.96 460.63,-52.31 480.98,-43.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="482.11,-45.23 487.47,-40.1 480.08,-40.77 482.11,-45.23" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M253.12,-143.89C243.31,-135.08 232.66,-125.5 223.26,-117.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.74,-115.09 217.89,-112.23 221.46,-118.73 224.74,-115.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.25,-143.89C328.16,-135.08 338.94,-125.5 348.44,-117.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="350.26,-118.71 353.87,-112.23 347.01,-115.05 350.26,-118.71" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M259.5,-112C259.5,-112 133.5,-112 133.5,-112 127.5,-112 121.5,-106 121.5,-100 121.5,-100 121.5,-84 121.5,-84 121.5,-78 127.5,-72 133.5,-72 133.5,-72 259.5,-72 259.5,-72 265.5,-72 271.5,-78 271.5,-84 271.5,-84 271.5,-100 271.5,-100 271.5,-106 265.5,-112 259.5,-112" />
+<text text-anchor="middle" x="196.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Financing</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M101,-40C101,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 101,0 101,0 107,0 113,-6 113,-12 113,-12 113,-28 113,-28 113,-34 107,-40 101,-40" />
+<text text-anchor="middle" x="56.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tax Shield</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M265.5,-40C265.5,-40 147.5,-40 147.5,-40 141.5,-40 135.5,-34 135.5,-28 135.5,-28 135.5,-12 135.5,-12 135.5,-6 141.5,0 147.5,0 147.5,0 265.5,0 265.5,0 271.5,0 277.5,-6 277.5,-12 277.5,-12 277.5,-28 277.5,-28 277.5,-34 271.5,-40 265.5,-40" />
+<text text-anchor="middle" x="206.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Risk</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M445.5,-112C445.5,-112 305.5,-112 305.5,-112 299.5,-112 293.5,-106 293.5,-100 293.5,-100 293.5,-84 293.5,-84 293.5,-78 299.5,-72 305.5,-72 305.5,-72 445.5,-72 445.5,-72 451.5,-72 457.5,-78 457.5,-84 457.5,-84 457.5,-100 457.5,-100 457.5,-106 451.5,-112 445.5,-112" />
+<text text-anchor="middle" x="375.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Equity Financing</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M402,-40C402,-40 331,-40 331,-40 325,-40 319,-34 319,-28 319,-28 319,-12 319,-12 319,-6 325,0 331,0 331,0 402,0 402,0 408,0 414,-6 414,-12 414,-12 414,-28 414,-28 414,-34 408,-40 402,-40" />
+<text text-anchor="middle" x="366.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dilution</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M610.5,-40C610.5,-40 448.5,-40 448.5,-40 442.5,-40 436.5,-34 436.5,-28 436.5,-28 436.5,-12 436.5,-12 436.5,-6 442.5,0 448.5,0 448.5,0 610.5,0 610.5,0 616.5,0 622.5,-6 622.5,-12 622.5,-12 622.5,-28 622.5,-28 622.5,-34 616.5,-40 610.5,-40" />
+<text text-anchor="middle" x="529.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Flexibility</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M351,-204C351,-204 220,-204 220,-204 214,-204 208,-198 208,-192 208,-192 208,-156 208,-156 208,-150 214,-144 220,-144 220,-144 351,-144 351,-144 357,-144 363,-150 363,-156 363,-156 363,-192 363,-192 363,-198 357,-204 351,-204" />
+<text text-anchor="middle" x="285.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Optimal Capital</text>
+<text text-anchor="middle" x="285.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Structure</text>
+</g>
+</g>
+</svg>

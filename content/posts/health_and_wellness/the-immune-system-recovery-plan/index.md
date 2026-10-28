@@ -18,14 +18,7 @@ Blum begins by explaining the complexities of the immune system, moving beyond t
 
 A significant portion of the book focuses on the gut-immune axis. The gut microbiome, the vast collection of microorganisms residing in the digestive tract, plays a critical role in immune function.  Blum emphasizes the detrimental effects of processed foods, antibiotics, and other factors that disrupt the gut microbiome, leading to dysbiosis and subsequent immune dysfunction.  She advocates for restoring gut health through dietary changes, probiotic supplementation, and other targeted interventions.
 
-```mermaid
-graph LR
-    A[Gut Microbiome] --> B(Immune System Function);
-    C[Processed Foods] --> D[Dysbiosis];
-    D --> E[Weakened Immunity];
-    F[Probiotics] --> B;
-    G[Dietary Changes] --> B;
-```
+![The Gut-Immune Connection. Gut Microbiome; Immune System Function; Processed Foods; Dysbiosis; Weakened Immunity; Probiotics; Dietary Changes.](diagram-01.svg)
 
 ### Identifying and Addressing Underlying Issues
 

@@ -90,30 +90,7 @@ The ten laws are interconnected and build upon one another.  They provide a fram
 
 The following diagram illustrates the interconnectedness of Maeda's ten laws:
 
-```mermaid
-graph LR
-    A[Reduce] --> B(Organize);
-    B --> C(Time);
-    C --> D(Learn);
-    D --> E(Systems);
-    E --> F(Differences);
-    F --> G(Growth);
-    G --> H(Beauty);
-    H --> I(Trust);
-    I --> J(Failure);
-    J --> A;
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-    style C fill:#ccf,stroke:#333,stroke-width:2px
-    style D fill:#ccf,stroke:#333,stroke-width:2px
-    style E fill:#ccf,stroke:#333,stroke-width:2px
-    style F fill:#ccf,stroke:#333,stroke-width:2px
-    style G fill:#ccf,stroke:#333,stroke-width:2px
-    style H fill:#ccf,stroke:#333,stroke-width:2px
-    style I fill:#ccf,stroke:#333,stroke-width:2px
-    style J fill:#ccf,stroke:#333,stroke-width:2px
-
-```
+![Visualizing the Interdependence of Laws. Reduce; Organize; Time; Learn; Systems; Differences; Growth; Beauty; Trust; Failure.](diagram-01.svg)
 
 This cyclical nature emphasizes the ongoing and iterative nature of simplifying one's life, constantly revisiting and refining based on new learnings and experiences.  The core message remains consistent: less is more, and intentional simplification leads to a richer and more meaningful life.
 

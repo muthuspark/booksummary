@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="676pt" height="148pt" viewBox="0.00 0.00 675.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Insight:  A "Lightbulb" Moment</title><desc id="description">Insight leads to New Perspective. Insight leads to Understanding. Insight leads to Transformation. Insight leads to Reflection.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 657.5,-130 657.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301.24,-79.75C262.91,-69.55 205.41,-54.25 158.71,-41.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="159.3,-39.44 151.9,-40 158.04,-44.17 159.3,-39.44" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M320,-71.87C309.67,-63.46 297.43,-53.5 286.53,-44.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="287.95,-42.62 280.97,-40.1 284.85,-46.42 287.95,-42.62" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M367.27,-71.87C377.73,-63.46 390.11,-53.5 401.13,-44.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="402.84,-46.4 406.76,-40.1 399.77,-42.58 402.84,-46.4" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M385.75,-78.73C423.56,-67.75 479.46,-51.51 522.35,-39.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="523.08,-41.39 529.12,-37.09 521.71,-36.69 523.08,-41.39" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M373.5,-112C373.5,-112 313.5,-112 313.5,-112 307.5,-112 301.5,-106 301.5,-100 301.5,-100 301.5,-84 301.5,-84 301.5,-78 307.5,-72 313.5,-72 313.5,-72 373.5,-72 373.5,-72 379.5,-72 385.5,-78 385.5,-84 385.5,-84 385.5,-100 385.5,-100 385.5,-106 379.5,-112 373.5,-112" />
+<text text-anchor="middle" x="343.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insight</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M149,-40C149,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 149,0 149,0 155,0 161,-6 161,-12 161,-12 161,-28 161,-28 161,-34 155,-40 149,-40" />
+<text text-anchor="middle" x="80.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">New Perspective</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M319.5,-40C319.5,-40 195.5,-40 195.5,-40 189.5,-40 183.5,-34 183.5,-28 183.5,-28 183.5,-12 183.5,-12 183.5,-6 189.5,0 195.5,0 195.5,0 319.5,0 319.5,0 325.5,0 331.5,-6 331.5,-12 331.5,-12 331.5,-28 331.5,-28 331.5,-34 325.5,-40 319.5,-40" />
+<text text-anchor="middle" x="257.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M495.5,-40C495.5,-40 365.5,-40 365.5,-40 359.5,-40 353.5,-34 353.5,-28 353.5,-28 353.5,-12 353.5,-12 353.5,-6 359.5,0 365.5,0 365.5,0 495.5,0 495.5,0 501.5,0 507.5,-6 507.5,-12 507.5,-12 507.5,-28 507.5,-28 507.5,-34 501.5,-40 495.5,-40" />
+<text text-anchor="middle" x="430.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transformation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M627.5,-40C627.5,-40 541.5,-40 541.5,-40 535.5,-40 529.5,-34 529.5,-28 529.5,-28 529.5,-12 529.5,-12 529.5,-6 535.5,0 541.5,0 541.5,0 627.5,0 627.5,0 633.5,0 639.5,-6 639.5,-12 639.5,-12 639.5,-28 639.5,-28 639.5,-34 633.5,-40 627.5,-40" />
+<text text-anchor="middle" x="584.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reflection</text>
+</g>
+</g>
+</svg>

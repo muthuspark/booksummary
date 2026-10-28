@@ -24,14 +24,7 @@ Goleman identifies five key components of emotional intelligence:
 
 * **Social Skills:**  Proficiency in managing relationships and building networks. This includes communication, conflict resolution, team-building, and leadership.
 
-```mermaid
-graph LR
-    A[Emotional Intelligence] --> B(Self-Awareness);
-    A --> C(Self-Regulation);
-    A --> D(Motivation);
-    A --> E(Empathy);
-    A --> F(Social Skills);
-```
+![The Pillars of Emotional Intelligence. Emotional Intelligence; Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills.](diagram-01.svg)
 
 ## Cultivating Self-Awareness: The Foundation of EQ
 

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241pt" height="384pt" viewBox="0.00 0.00 241.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">The Gut-Brain Connection</title><desc id="description">Gut Microbiome leads to Dysbiosis (Imbalance) (High-GI Diet). Dysbiosis (Imbalance) leads to Leaky Gut. Leaky Gut leads to Inflammation. Inflammation leads to Brain Dysfunction.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 223,-366 223,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-307.69C102.5,-295.53 102.5,-279.66 102.5,-266.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-266.25 102.5,-259.25 100.05,-266.25 104.95,-266.25" />
+<text text-anchor="middle" x="146.5" y="-280" font-family="Georgia" font-size="15.00" fill="#405b50">High-GI Diet</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-218.97C102.5,-211.09 102.5,-201.82 102.5,-193.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-193.08 102.5,-186.08 100.05,-193.08 104.95,-193.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-145.97C102.5,-138.09 102.5,-128.82 102.5,-120.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-120.08 102.5,-113.08 100.05,-120.08 104.95,-120.08" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-72.97C102.5,-65.09 102.5,-55.82 102.5,-47.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-47.08 102.5,-40.08 100.05,-47.08 104.95,-47.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-348C170,-348 35,-348 35,-348 29,-348 23,-342 23,-336 23,-336 23,-320 23,-320 23,-314 29,-308 35,-308 35,-308 170,-308 170,-308 176,-308 182,-314 182,-320 182,-320 182,-336 182,-336 182,-342 176,-348 170,-348" />
+<text text-anchor="middle" x="102.5" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut Microbiome</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193,-259C193,-259 12,-259 12,-259 6,-259 0,-253 0,-247 0,-247 0,-231 0,-231 0,-225 6,-219 12,-219 12,-219 193,-219 193,-219 199,-219 205,-225 205,-231 205,-231 205,-247 205,-247 205,-253 199,-259 193,-259" />
+<text text-anchor="middle" x="102.5" y="-234.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dysbiosis (Imbalance)</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M145.5,-186C145.5,-186 59.5,-186 59.5,-186 53.5,-186 47.5,-180 47.5,-174 47.5,-174 47.5,-158 47.5,-158 47.5,-152 53.5,-146 59.5,-146 59.5,-146 145.5,-146 145.5,-146 151.5,-146 157.5,-152 157.5,-158 157.5,-158 157.5,-174 157.5,-174 157.5,-180 151.5,-186 145.5,-186" />
+<text text-anchor="middle" x="102.5" y="-161.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leaky Gut</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-113C159.5,-113 45.5,-113 45.5,-113 39.5,-113 33.5,-107 33.5,-101 33.5,-101 33.5,-85 33.5,-85 33.5,-79 39.5,-73 45.5,-73 45.5,-73 159.5,-73 159.5,-73 165.5,-73 171.5,-79 171.5,-85 171.5,-85 171.5,-101 171.5,-101 171.5,-107 165.5,-113 159.5,-113" />
+<text text-anchor="middle" x="102.5" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M177.5,-40C177.5,-40 27.5,-40 27.5,-40 21.5,-40 15.5,-34 15.5,-28 15.5,-28 15.5,-12 15.5,-12 15.5,-6 21.5,0 27.5,0 27.5,0 177.5,0 177.5,0 183.5,0 189.5,-6 189.5,-12 189.5,-12 189.5,-28 189.5,-28 189.5,-34 183.5,-40 177.5,-40" />
+<text text-anchor="middle" x="102.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain Dysfunction</text>
+</g>
+</g>
+</svg>

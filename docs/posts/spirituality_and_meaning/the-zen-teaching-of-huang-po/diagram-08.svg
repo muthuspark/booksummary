@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424pt" height="258pt" viewBox="0.00 0.00 424.00 258.00" role="img" aria-labelledby="title description">
+<title id="title">Sudden Enlightenment versus Gradual Progress</title><desc id="description">Sudden Enlightenment leads to Gradual Progress (or). Gradual Progress leads to Refinement of Practice. Sudden Enlightenment leads to Realization of Buddha-Nature. Gradual Progress leads to Realization of Buddha-Nature.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 240)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-240 406,-240 406,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M261.69,-181.69C248.96,-168.96 232.18,-152.18 218.52,-138.52" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.94,-136.47 213.25,-133.25 216.47,-139.94 219.94,-136.47" />
+<text text-anchor="middle" x="253.5" y="-154" font-family="Georgia" font-size="15.00" fill="#405b50">or</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M284.38,-181.83C289.28,-154.1 298.42,-102.3 304.61,-67.23" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="307.07,-67.34 305.88,-60.02 302.25,-66.49 307.07,-67.34" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.15,-92.8C160.87,-81.51 145.24,-67.12 132.14,-55.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.51,-53 126.71,-50.06 130.2,-56.6 133.51,-53" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221.73,-92.8C234.03,-84.29 248.86,-74.02 262.88,-64.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="264.46,-66.2 268.82,-60.2 261.67,-62.17 264.46,-66.2" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M375.5,-222C375.5,-222 186.5,-222 186.5,-222 180.5,-222 174.5,-216 174.5,-210 174.5,-210 174.5,-194 174.5,-194 174.5,-188 180.5,-182 186.5,-182 186.5,-182 375.5,-182 375.5,-182 381.5,-182 387.5,-188 387.5,-194 387.5,-194 387.5,-210 387.5,-210 387.5,-216 381.5,-222 375.5,-222" />
+<text text-anchor="middle" x="281" y="-197.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sudden Enlightenment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265.5,-133C265.5,-133 122.5,-133 122.5,-133 116.5,-133 110.5,-127 110.5,-121 110.5,-121 110.5,-105 110.5,-105 110.5,-99 116.5,-93 122.5,-93 122.5,-93 265.5,-93 265.5,-93 271.5,-93 277.5,-99 277.5,-105 277.5,-105 277.5,-121 277.5,-121 277.5,-127 271.5,-133 265.5,-133" />
+<text text-anchor="middle" x="194" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gradual Progress</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M200,-50C200,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 200,-10 200,-10 206,-10 212,-16 212,-22 212,-22 212,-38 212,-38 212,-44 206,-50 200,-50" />
+<text text-anchor="middle" x="106" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refinement of Practice</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M376,-60C376,-60 246,-60 246,-60 240,-60 234,-54 234,-48 234,-48 234,-12 234,-12 234,-6 240,0 246,0 246,0 376,0 376,0 382,0 388,-6 388,-12 388,-12 388,-48 388,-48 388,-54 382,-60 376,-60" />
+<text text-anchor="middle" x="311" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Realization of</text>
+<text text-anchor="middle" x="311" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Buddha-Nature</text>
+</g>
+</g>
+</svg>

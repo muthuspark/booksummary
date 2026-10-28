@@ -14,12 +14,7 @@ Marcus and Ashley Kusi's "Communication in Marriage" emphasizes that strong comm
 
 A significant portion of the book focuses on the importance of active listening.  This isn't passive hearing; it involves fully concentrating on your partner, understanding their message both verbally and nonverbally, and providing feedback to show that you've grasped their meaning.  The Kusis advocate for techniques such as mirroring (repeating back what you heard to confirm understanding), summarizing (concisely summarizing the main points), and validating (acknowledging the legitimacy of their feelings).  They stress the importance of putting aside distractions and creating a safe, non-judgmental space for communication.
 
-```mermaid
-graph LR
-A[Partner Speaking] --> B(Active Listening);
-B --> C{Mirroring, Summarizing, Validating};
-C --> D[Understanding & Empathy];
-```
+![Active Listening: The Cornerstone of Understanding. Partner Speaking; Active Listening; Mirroring, Summarizing, Validating; Understanding & Empathy.](diagram-01.svg)
 
 ## Expressing Yourself Clearly and Respectfully: Avoiding Misunderstandings
 
@@ -33,13 +28,7 @@ Clear and respectful communication is crucial. The book emphasizes the need to a
 
 The book dedicates considerable attention to conflict resolution. The Kusis argue that conflict is inevitable in any relationship, but how couples handle disagreements is crucial. They encourage partners to view conflicts as opportunities for growth and understanding, suggesting strategies like brainstorming solutions together, compromising, and finding win-win outcomes.  They highlight the importance of focusing on the issue at hand rather than resorting to personal attacks.
 
-```mermaid
-graph LR
-A[Conflict] --> B(Identify the Issue);
-B --> C(Brainstorm Solutions);
-C --> D(Compromise & Negotiation);
-D --> E[Resolution & Growth];
-```
+![Conflict Resolution: Turning Disagreements into Opportunities for Growth. Conflict; Identify the Issue; Brainstorm Solutions; Compromise & Negotiation; Resolution & Growth.](diagram-02.svg)
 
 ##  Forgiveness and Reconciliation:  Healing and Moving Forward
 

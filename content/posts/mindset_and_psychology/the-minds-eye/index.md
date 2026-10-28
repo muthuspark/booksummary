@@ -27,15 +27,7 @@ This translates to a key piece of actionable advice: *Embrace your own unique co
 Many of Sacks' patients, lacking visual imagery, relied heavily on other senses – touch, hearing, smell – to build their internal representations of the world.  This demonstrates the brain's remarkable plasticity and its ability to compensate for deficits by strengthening alternative pathways.
 
 
-```mermaid
-graph LR
-A[Visual Input] --> B(Visual Cortex);
-B --> C{Mental Imagery};
-D[Auditory Input] --> E(Auditory Cortex);
-E --> C;
-F[Tactile Input] --> G(Somatosensory Cortex);
-G --> C;
-```
+![The Importance of Sensory Integration: Beyond Visuals. Visual Input; Visual Cortex; Mental Imagery; Auditory Input; Auditory Cortex; Tactile Input; Somatosensory Cortex.](diagram-01.svg)
 
 This emphasizes the importance of *sensory enrichment*:  Actively engaging with the world through all your senses can strengthen your cognitive abilities and build a richer internal world, regardless of any visual impairments.
 

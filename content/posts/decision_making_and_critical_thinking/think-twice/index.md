@@ -15,11 +15,7 @@ Michael Mauboussin's "Think Twice: Harnessing the Power of Compound Thinking" is
 
 Mauboussin champions Bayesian thinking – a method of updating beliefs based on new evidence. This approach recognizes that our initial beliefs (prior probabilities) should be adjusted as we receive more information. It's a dynamic process, acknowledging that uncertainty is present and that our understanding should evolve with new data. Applying Bayesian reasoning involves a systematic way of incorporating prior knowledge and new evidence to arrive at a revised probability estimate.
 
-```mermaid
-graph LR
-    A[Prior Belief] --> B(New Evidence);
-    B --> C[Posterior Belief];
-```
+![The Power of Bayesian Thinking. Prior Belief; New Evidence; Posterior Belief.](diagram-01.svg)
 
 This simple model highlights the iterative nature of Bayesian updating:  prior belief informs our interpretation of new evidence, leading to a refined posterior belief. This process repeats as we encounter more data.
 
@@ -51,13 +47,7 @@ Instead of predicting precise outcomes, Mauboussin suggests thinking in ranges. 
 The book uses the concept of compound returns as a metaphor for consistent, incremental improvement.  Just as small gains in investment accumulate exponentially over time, so too do small improvements in decision-making compound over a lifetime.  This emphasizes the value of consistent effort and the long-term perspective.
 
 
-```mermaid
-graph LR
-    A[Small Improvement 1] --> B{Compounding};
-    B --> C[Significant Long-Term Gain];
-    D[Small Improvement 2] --> B;
-    E[Small Improvement 3] --> B;
-```
+![Understanding the Concept of Compound Returns. Small Improvement 1; Compounding; Significant Long-Term Gain; Small Improvement 2; Small Improvement 3.](diagram-02.svg)
 
 This process illustrates that consistently applying even modest improvements in our decision-making processes will lead to substantial positive gains over time.
 

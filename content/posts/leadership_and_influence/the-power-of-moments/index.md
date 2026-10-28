@@ -26,13 +26,7 @@ To achieve elevation:
 * **Amplify the Senses:**  Engage multiple senses to enrich the experience. Think about lighting, scent, music, and tactile elements in creating a memorable event.
 * **Design for Awe:**  Expose yourself to breathtaking nature, inspiring art, or other experiences that evoke a sense of wonder and awe.
 
-```mermaid
-graph LR
-    A[Elevation] --> B(Awe);
-    A --> C(Surprise);
-    A --> D(Sensory Richness);
-    A --> E(Breaking Routine);
-```
+![Elevation:  Raising the Bar. Elevation; Awe; Surprise; Sensory Richness; Breaking Routine.](diagram-01.svg)
 
 
 ### Insight:  A "Lightbulb" Moment
@@ -45,13 +39,7 @@ To gain insight:
 * **Ask Powerful Questions:**  Encourage reflection and self-discovery through thoughtful questioning.
 * **Foster Reflection:** Encourage quiet moments for introspection and mindful consideration of events and experiences.
 
-```mermaid
-graph LR
-    A[Insight] --> B(New Perspective);
-    A --> C(Understanding);
-    A --> D(Transformation);
-    A --> E(Reflection);
-```
+![Insight:  A "Lightbulb" Moment. Insight; New Perspective; Understanding; Transformation; Reflection.](diagram-02.svg)
 
 
 ### Pride:  A Sense of Accomplishment
@@ -64,13 +52,7 @@ To foster pride:
 * **Celebrate Successes:**  Acknowledge and celebrate milestones, both big and small.
 * **Focus on Progress, Not Perfection:** Focus on the journey of improvement rather than solely the end result.
 
-```mermaid
-graph LR
-    A[Pride] --> B(Achievement);
-    A --> C(Overcoming Challenges);
-    A --> D(Confidence Building);
-    A --> E(Self Esteem);
-```
+![Pride:  A Sense of Accomplishment. Pride; Achievement; Overcoming Challenges; Confidence Building; Self Esteem.](diagram-03.svg)
 
 
 ### Connection:  Shared Experiences
@@ -83,13 +65,7 @@ To connect:
 * **Encourage Vulnerability:**  Create space for open and honest communication.
 * **Focus on Meaningful Interactions:**  Prioritize quality time over quantity.
 
-```mermaid
-graph LR
-    A[Connection] --> B(Shared Experiences);
-    A --> C(Belonging);
-    A --> D(Empathy);
-    A --> E(Meaningful Interactions);
-```
+![Connection:  Shared Experiences. Connection; Shared Experiences; Belonging; Empathy; Meaningful Interactions.](diagram-04.svg)
 
 
 ## Designing Moments:  A Practical Approach

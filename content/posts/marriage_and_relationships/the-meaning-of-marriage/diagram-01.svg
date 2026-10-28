@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="890pt" height="260pt" viewBox="0.00 0.00 890.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">Marriage as a Sacrament:  Beyond Romantic Idealism</title><desc id="description">Individual Fulfillment leads to Romantic Idealism. Romantic Idealism leads to Unsustainable Marriage. Sacramental Covenant leads to Mutual Sanctification. Mutual Sanctification leads to Sustainable Marriage.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 872,-242 872,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M219,-183.87C219,-176.31 219,-167.49 219,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.45,-159.1 219,-152.1 216.55,-159.1 221.45,-159.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M219,-111.91C219,-104.58 219,-95.86 219,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.45,-87.07 219,-80.07 216.55,-87.07 221.45,-87.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M657,-183.87C657,-176.31 657,-167.49 657,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="659.45,-159.1 657,-152.1 654.55,-159.1 659.45,-159.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M657,-111.91C657,-104.58 657,-95.86 657,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="659.45,-87.07 657,-80.07 654.55,-87.07 659.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309.5,-224C309.5,-224 128.5,-224 128.5,-224 122.5,-224 116.5,-218 116.5,-212 116.5,-212 116.5,-196 116.5,-196 116.5,-190 122.5,-184 128.5,-184 128.5,-184 309.5,-184 309.5,-184 315.5,-184 321.5,-190 321.5,-196 321.5,-196 321.5,-212 321.5,-212 321.5,-218 315.5,-224 309.5,-224" />
+<text text-anchor="middle" x="219" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Fulfillment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M296.5,-152C296.5,-152 141.5,-152 141.5,-152 135.5,-152 129.5,-146 129.5,-140 129.5,-140 129.5,-124 129.5,-124 129.5,-118 135.5,-112 141.5,-112 141.5,-112 296.5,-112 296.5,-112 302.5,-112 308.5,-118 308.5,-124 308.5,-124 308.5,-140 308.5,-140 308.5,-146 302.5,-152 296.5,-152" />
+<text text-anchor="middle" x="219" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Romantic Idealism</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="219,-80 0,-40 219,0 438,-40 219,-80" />
+<text text-anchor="middle" x="219" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unsustainable Marriage</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M748.5,-224C748.5,-224 565.5,-224 565.5,-224 559.5,-224 553.5,-218 553.5,-212 553.5,-212 553.5,-196 553.5,-196 553.5,-190 559.5,-184 565.5,-184 565.5,-184 748.5,-184 748.5,-184 754.5,-184 760.5,-190 760.5,-196 760.5,-196 760.5,-212 760.5,-212 760.5,-218 754.5,-224 748.5,-224" />
+<text text-anchor="middle" x="657" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sacramental Covenant</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M745,-152C745,-152 569,-152 569,-152 563,-152 557,-146 557,-140 557,-140 557,-124 557,-124 557,-118 563,-112 569,-112 569,-112 745,-112 745,-112 751,-112 757,-118 757,-124 757,-124 757,-140 757,-140 757,-146 751,-152 745,-152" />
+<text text-anchor="middle" x="657" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Sanctification</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="657,-80 460,-40 657,0 854,-40 657,-80" />
+<text text-anchor="middle" x="657" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sustainable Marriage</text>
+</g>
+</g>
+</svg>

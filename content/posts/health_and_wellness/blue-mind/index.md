@@ -45,16 +45,7 @@ The book acknowledges that access to water isn’t equal for everyone.  Not ever
 
 The book delves into the scientific research supporting the claims about the blue mind effect.  It explains the physiological and psychological mechanisms through which water impacts the brain and body, providing concrete evidence to support its claims. This includes the effects on cortisol levels, blood pressure, and heart rate variability.
 
-```mermaid
-graph LR
-    A[Exposure to Blue Spaces] --> B(Reduced Cortisol);
-    A --> C(Lowered Blood Pressure);
-    A --> D(Increased Parasympathetic Activity);
-    B --> E[Improved Mood];
-    C --> E;
-    D --> E;
-    E --> F[Enhanced Well-being];
-```
+![The Science Behind the Serenity. Exposure to Blue Spaces; Reduced Cortisol; Lowered Blood Pressure; Increased Parasympathetic Activity; Improved Mood; Enhanced Well-being.](diagram-01.svg)
 
 This diagram illustrates the causal relationship between exposure to blue spaces and the physiological changes leading to improved well-being.
 

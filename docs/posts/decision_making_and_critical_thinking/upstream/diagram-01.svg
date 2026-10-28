@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268pt" height="932pt" viewBox="0.00 0.00 268.00 932.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying the Root Causes:  The "5 Whys" Technique</title><desc id="description">Problem: High Employee Turnover leads to Why?. Why? leads to Answer: Low employee satisfaction. Answer: Low employee satisfaction leads to Why?. Why? leads to Answer: Lack of recognition. Answer: Lack of recognition leads to Why?. Why? leads to Answer: Poor management communication. Answer: Poor management communication leads to Why?. Why? leads to Answer: Lack of training for managers.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 914)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-914 250,-914 250,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-835.81C116,-828.06 116,-819.5 116,-811.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-811.09 116,-804.09 113.55,-811.09 118.45,-811.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-723.76C116,-715.72 116,-707.29 116,-699.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-699.23 116,-692.23 113.55,-699.23 118.45,-699.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-631.81C116,-624.06 116,-615.5 116,-607.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-607.09 116,-600.09 113.55,-607.09 118.45,-607.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-519.76C116,-511.72 116,-503.29 116,-495.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-495.23 116,-488.23 113.55,-495.23 118.45,-495.23" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-427.81C116,-420.06 116,-411.5 116,-403.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-403.09 116,-396.09 113.55,-403.09 118.45,-403.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-315.91C116,-308.06 116,-299.74 116,-291.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-291.34 116,-284.34 113.55,-291.34 118.45,-291.34" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-203.91C116,-196.06 116,-187.74 116,-179.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-179.34 116,-172.34 113.55,-179.34 118.45,-179.34" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116,-91.76C116,-83.72 116,-75.29 116,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.45,-67.23 116,-60.23 113.55,-67.23 118.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M220,-896C220,-896 12,-896 12,-896 6,-896 0,-890 0,-884 0,-884 0,-848 0,-848 0,-842 6,-836 12,-836 12,-836 220,-836 220,-836 226,-836 232,-842 232,-848 232,-848 232,-884 232,-884 232,-890 226,-896 220,-896" />
+<text text-anchor="middle" x="116" y="-871.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem: High Employee</text>
+<text text-anchor="middle" x="116" y="-851.6" font-family="Georgia" font-size="18.00" fill="#243d36">Turnover</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="116,-804 42,-764 116,-724 190,-764 116,-804" />
+<text text-anchor="middle" x="116" y="-759.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211.5,-692C211.5,-692 20.5,-692 20.5,-692 14.5,-692 8.5,-686 8.5,-680 8.5,-680 8.5,-644 8.5,-644 8.5,-638 14.5,-632 20.5,-632 20.5,-632 211.5,-632 211.5,-632 217.5,-632 223.5,-638 223.5,-644 223.5,-644 223.5,-680 223.5,-680 223.5,-686 217.5,-692 211.5,-692" />
+<text text-anchor="middle" x="116" y="-667.6" font-family="Georgia" font-size="18.00" fill="#243d36">Answer: Low employee</text>
+<text text-anchor="middle" x="116" y="-647.6" font-family="Georgia" font-size="18.00" fill="#243d36">satisfaction</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="116,-600 42,-560 116,-520 190,-560 116,-600" />
+<text text-anchor="middle" x="116" y="-555.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182.5,-488C182.5,-488 49.5,-488 49.5,-488 43.5,-488 37.5,-482 37.5,-476 37.5,-476 37.5,-440 37.5,-440 37.5,-434 43.5,-428 49.5,-428 49.5,-428 182.5,-428 182.5,-428 188.5,-428 194.5,-434 194.5,-440 194.5,-440 194.5,-476 194.5,-476 194.5,-482 188.5,-488 182.5,-488" />
+<text text-anchor="middle" x="116" y="-463.6" font-family="Georgia" font-size="18.00" fill="#243d36">Answer: Lack of</text>
+<text text-anchor="middle" x="116" y="-443.6" font-family="Georgia" font-size="18.00" fill="#243d36">recognition</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="116,-396 42,-356 116,-316 190,-356 116,-396" />
+<text text-anchor="middle" x="116" y="-351.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180.5,-284C180.5,-284 51.5,-284 51.5,-284 45.5,-284 39.5,-278 39.5,-272 39.5,-272 39.5,-216 39.5,-216 39.5,-210 45.5,-204 51.5,-204 51.5,-204 180.5,-204 180.5,-204 186.5,-204 192.5,-210 192.5,-216 192.5,-216 192.5,-272 192.5,-272 192.5,-278 186.5,-284 180.5,-284" />
+<text text-anchor="middle" x="116" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Answer: Poor</text>
+<text text-anchor="middle" x="116" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">management</text>
+<text text-anchor="middle" x="116" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">communication</text>
+</g>
+
+<g id="node8" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="116,-172 42,-132 116,-92 190,-132 116,-172" />
+<text text-anchor="middle" x="116" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M204.5,-60C204.5,-60 27.5,-60 27.5,-60 21.5,-60 15.5,-54 15.5,-48 15.5,-48 15.5,-12 15.5,-12 15.5,-6 21.5,0 27.5,0 27.5,0 204.5,0 204.5,0 210.5,0 216.5,-6 216.5,-12 216.5,-12 216.5,-48 216.5,-48 216.5,-54 210.5,-60 204.5,-60" />
+<text text-anchor="middle" x="116" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Answer: Lack of</text>
+<text text-anchor="middle" x="116" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">training for managers</text>
+</g>
+</g>
+</svg>

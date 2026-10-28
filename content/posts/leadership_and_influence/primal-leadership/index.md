@@ -33,21 +33,7 @@ Goleman, Boyatzis, and McKee outline four leadership styles based on different e
 
 These styles aren't mutually exclusive; effective leaders often change their approach depending on the situation and the needs of their team.
 
-```mermaid
-graph LR
-    A[Visionary] --> B(Inspiring)
-    A --> C(Future-Oriented)
-    D[Coaching] --> E(Development)
-    D --> F(Mentoring)
-    G[Affiliative] --> H(Harmony)
-    G --> I(Team Building)
-    J[Democratic] --> K(Collaboration)
-    J --> L(Participation)
-    M[Pacesetting] --> N(High Standards)
-    M --> O(Excellence)
-    P[Commanding] --> Q(Direct Instructions)
-    P --> R(Compliance)
-```
+![Four Leadership Styles and Their Impact. Visionary; Inspiring; Future-Oriented; Coaching; Development; Mentoring; Affiliative; Harmony; Team Building; Democratic; Collaboration; Participation; Pacesetting; High Standards; Excellence; Commanding; Direct Instructions; Compliance.](diagram-01.svg)
 
 
 ##  The Six Leadership Practices

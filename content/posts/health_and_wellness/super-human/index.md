@@ -111,20 +111,7 @@ This is a key element of the book's message, emphasizing the importance of a det
 
 ##  Visualization of Key Interconnections
 
-```mermaid
-graph LR
-    A[Nutrition] --> B(Energy Levels);
-    A --> C(Inflammation);
-    D[Sleep] --> B;
-    D --> E(Mood);
-    F[Stress Management] --> E;
-    F --> C;
-    G[Exercise] --> B;
-    G --> C;
-    B --> H(Cognitive Function);
-    C --> H;
-    E --> H;
-```
+![Visualization of Key Interconnections. Nutrition; Energy Levels; Inflammation; Sleep; Mood; Stress Management; Exercise; Cognitive Function.](diagram-01.svg)
 
 This diagram illustrates how different aspects of biohacking (nutrition, sleep, stress management, and exercise) interconnect to influence energy levels, inflammation, mood, and cognitive function.
 

@@ -18,12 +18,7 @@ The book dissects the illusion of control we often cling to. We attempt to plan 
 
 Rather than fighting uncertainty, Burkeman advocates for embracing it. Anxiety, he argues, isn't something to be eradicated, but a signal – often indicating that we're pushing ourselves too hard or ignoring important aspects of our lives. Acknowledging and accepting anxiety, rather than suppressing it, allows us to engage with it more constructively.
 
-```mermaid
-graph LR
-    A[Uncertainty] --> B(Anxiety);
-    B --> C{Acknowledge & Accept};
-    C --> D[Constructive Engagement];
-```
+![Embracing Uncertainty and Anxiety. Uncertainty; Anxiety; Acknowledge & Accept; Constructive Engagement.](diagram-01.svg)
 
 # The Power of Saying No
 
@@ -53,12 +48,7 @@ The book explores the concept of "meaningful work," emphasizing that it's not ne
 
 Mindfulness practices are presented as essential tools for navigating the challenges of limited time.  By focusing on the present moment, we reduce the anxiety of future worries and the regret of past mistakes. This cultivates a deeper appreciation for the experiences unfolding in our lives.
 
-```mermaid
-graph LR
-    A[Mindfulness] --> B(Present Moment);
-    B --> C[Reduced Anxiety];
-    B --> D[Appreciation];
-```
+![Cultivating Mindfulness and Presence. Mindfulness; Present Moment; Reduced Anxiety; Appreciation.](diagram-02.svg)
 
 # Death as a Motivator
 

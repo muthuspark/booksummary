@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="552pt" height="300pt" viewBox="0.00 0.00 552.00 300.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Pillars of Listening</title><desc id="description">Empathy leads to Understanding. Self-Awareness leads to Understanding. Patience leads to Understanding. Curiosity leads to Understanding. Understanding leads to Transformative Listening.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 282)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-282 534,-282 534,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.2,-226.94C131.78,-217.26 171.1,-204.8 204.25,-194.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.29,-196.54 211.22,-192.09 203.81,-191.87 205.29,-196.54" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M271.5,-151.84C271.5,-144.75 271.5,-136.25 271.5,-127.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="273.95,-127.12 271.5,-120.12 269.05,-127.12 273.95,-127.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M218.45,-223.87C227.06,-215.62 237.23,-205.86 246.35,-197.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.22,-198.72 251.58,-192.1 244.83,-195.18 248.22,-198.72" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.55,-223.87C315.94,-215.62 305.77,-205.86 296.65,-197.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="298.17,-195.18 291.42,-192.1 294.78,-198.72 298.17,-195.18" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M414.78,-224.7C389.12,-215.44 357.8,-204.14 331,-194.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="331.71,-192.12 324.29,-192.05 330.04,-196.73 331.71,-192.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-264C89,-264 12,-264 12,-264 6,-264 0,-258 0,-252 0,-252 0,-236 0,-236 0,-230 6,-224 12,-224 12,-224 89,-224 89,-224 95,-224 101,-230 101,-236 101,-236 101,-252 101,-252 101,-258 95,-264 89,-264" />
+<text text-anchor="middle" x="50.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M333.5,-192C333.5,-192 209.5,-192 209.5,-192 203.5,-192 197.5,-186 197.5,-180 197.5,-180 197.5,-164 197.5,-164 197.5,-158 203.5,-152 209.5,-152 209.5,-152 333.5,-152 333.5,-152 339.5,-152 345.5,-158 345.5,-164 345.5,-164 345.5,-180 345.5,-180 345.5,-186 339.5,-192 333.5,-192" />
+<text text-anchor="middle" x="271.5" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262,-264C262,-264 135,-264 135,-264 129,-264 123,-258 123,-252 123,-252 123,-236 123,-236 123,-230 129,-224 135,-224 135,-224 262,-224 262,-224 268,-224 274,-230 274,-236 274,-236 274,-252 274,-252 274,-258 268,-264 262,-264" />
+<text text-anchor="middle" x="198.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M381,-264C381,-264 308,-264 308,-264 302,-264 296,-258 296,-252 296,-252 296,-236 296,-236 296,-230 302,-224 308,-224 308,-224 381,-224 381,-224 387,-224 393,-230 393,-236 393,-236 393,-252 393,-252 393,-258 387,-264 381,-264" />
+<text text-anchor="middle" x="344.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Patience</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M504,-264C504,-264 427,-264 427,-264 421,-264 415,-258 415,-252 415,-252 415,-236 415,-236 415,-230 421,-224 427,-224 427,-224 504,-224 504,-224 510,-224 516,-230 516,-236 516,-236 516,-252 516,-252 516,-258 510,-264 504,-264" />
+<text text-anchor="middle" x="465.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Curiosity</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="271.5,-120 119.5,-60 271.5,0 423.5,-60 271.5,-120" />
+<text text-anchor="middle" x="271.5" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transformative</text>
+<text text-anchor="middle" x="271.5" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Listening</text>
+</g>
+</g>
+</svg>

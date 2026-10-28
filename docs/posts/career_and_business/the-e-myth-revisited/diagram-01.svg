@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434pt" height="148pt" viewBox="0.00 0.00 433.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">The Three Key Characters: Technician, Entrepreneur, and Manager</title><desc id="description">Technician leads to Business. Entrepreneur leads to Business. Manager leads to Business.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 415.5,-130 415.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.71,-71.87C117.6,-63 140.17,-52.4 159.8,-43.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.04,-45.3 166.33,-40.1 158.96,-40.86 161.04,-45.3" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-71.87C207,-64.31 207,-55.49 207,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-47.1 207,-40.1 204.55,-47.1 209.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M309.47,-71.87C291.75,-63.08 270.61,-52.58 252.15,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.84,-41.02 245.48,-40.1 250.66,-45.41 252.84,-41.02" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M104,-112C104,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 104,-72 104,-72 110,-72 116,-78 116,-84 116,-84 116,-100 116,-100 116,-106 110,-112 104,-112" />
+<text text-anchor="middle" x="58" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Technician</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M244,-40C244,-40 170,-40 170,-40 164,-40 158,-34 158,-28 158,-28 158,-12 158,-12 158,-6 164,0 170,0 170,0 244,0 244,0 250,0 256,-6 256,-12 256,-12 256,-28 256,-28 256,-34 250,-40 244,-40" />
+<text text-anchor="middle" x="207" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Business</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264,-112C264,-112 150,-112 150,-112 144,-112 138,-106 138,-100 138,-100 138,-84 138,-84 138,-78 144,-72 150,-72 150,-72 264,-72 264,-72 270,-72 276,-78 276,-84 276,-84 276,-100 276,-100 276,-106 270,-112 264,-112" />
+<text text-anchor="middle" x="207" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Entrepreneur</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M385.5,-112C385.5,-112 310.5,-112 310.5,-112 304.5,-112 298.5,-106 298.5,-100 298.5,-100 298.5,-84 298.5,-84 298.5,-78 304.5,-72 310.5,-72 310.5,-72 385.5,-72 385.5,-72 391.5,-72 397.5,-78 397.5,-84 397.5,-84 397.5,-100 397.5,-100 397.5,-106 391.5,-112 385.5,-112" />
+<text text-anchor="middle" x="348" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Manager</text>
+</g>
+</g>
+</svg>

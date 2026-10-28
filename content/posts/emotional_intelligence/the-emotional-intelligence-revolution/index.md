@@ -21,14 +21,7 @@ Cherniss defines emotional intelligence, moving beyond the popularized, often si
 * **Empathy:** Understanding and sharing the feelings of others. This involves actively listening, demonstrating compassion, and taking others into account.
 * **Social Skills:**  Managing relationships and building networks.  This encompasses communication, conflict resolution, cooperation, and leadership.
 
-```mermaid
-graph LR
-    A[Emotional Intelligence] --> B(Self-Awareness);
-    A --> C(Self-Regulation);
-    A --> D(Self-Motivation);
-    A --> E(Empathy);
-    A --> F(Social Skills);
-```
+![Defining Emotional Intelligence: Beyond the Buzzword. Emotional Intelligence; Self-Awareness; Self-Regulation; Self-Motivation; Empathy; Social Skills.](diagram-01.svg)
 
 The book emphasizes that these components are interconnected and mutually reinforcing.  Strengthening one area often positively impacts the others.
 

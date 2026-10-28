@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="708pt" height="292pt" viewBox="0.00 0.00 707.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Science of Fasting: Insulin and Leptin</title><desc id="description">Eating leads to Insulin Release. Insulin Release leads to Fat Storage. Insulin Release leads to Leptin Suppression. Leptin Suppression leads to Increased Hunger. Fasting leads to Insulin Decrease. Insulin Decrease leads to Fat Burning. Insulin Decrease leads to Leptin Restoration. Leptin Restoration leads to Decreased Hunger.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 689.5,-274 689.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M188.5,-215.87C188.5,-208.31 188.5,-199.49 188.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.95,-191.1 188.5,-184.1 186.05,-191.1 190.95,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M153.25,-143.87C137.18,-135.15 118.04,-124.77 101.25,-115.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.03,-113.29 94.71,-112.1 99.69,-117.6 102.03,-113.29" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.52,-143.87C205.47,-136 211.27,-126.77 216.57,-118.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.84,-119.33 220.49,-112.1 214.69,-116.73 218.84,-119.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M232.5,-71.87C232.5,-64.31 232.5,-55.49 232.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="234.95,-47.1 232.5,-40.1 230.05,-47.1 234.95,-47.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M452.5,-215.87C452.5,-208.31 452.5,-199.49 452.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="454.95,-191.1 452.5,-184.1 450.05,-191.1 454.95,-191.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M440.75,-143.87C435.92,-136 430.25,-126.77 425.07,-118.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="426.99,-116.79 421.24,-112.1 422.81,-119.35 426.99,-116.79" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M488.02,-143.87C504.22,-135.15 523.51,-124.77 540.42,-115.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="542.02,-117.58 547.02,-112.1 539.7,-113.27 542.02,-117.58" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M582.5,-71.87C582.5,-64.31 582.5,-55.49 582.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="584.95,-47.1 582.5,-40.1 580.05,-47.1 584.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M216.5,-256C216.5,-256 160.5,-256 160.5,-256 154.5,-256 148.5,-250 148.5,-244 148.5,-244 148.5,-228 148.5,-228 148.5,-222 154.5,-216 160.5,-216 160.5,-216 216.5,-216 216.5,-216 222.5,-216 228.5,-222 228.5,-228 228.5,-228 228.5,-244 228.5,-244 228.5,-250 222.5,-256 216.5,-256" />
+<text text-anchor="middle" x="188.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eating</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252,-184C252,-184 125,-184 125,-184 119,-184 113,-178 113,-172 113,-172 113,-156 113,-156 113,-150 119,-144 125,-144 125,-144 252,-144 252,-144 258,-144 264,-150 264,-156 264,-156 264,-172 264,-172 264,-178 258,-184 252,-184" />
+<text text-anchor="middle" x="188.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insulin Release</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M107,-112C107,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 107,-72 107,-72 113,-72 119,-78 119,-84 119,-84 119,-100 119,-100 119,-106 113,-112 107,-112" />
+<text text-anchor="middle" x="59.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fat Storage</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312,-112C312,-112 153,-112 153,-112 147,-112 141,-106 141,-100 141,-100 141,-84 141,-84 141,-78 147,-72 153,-72 153,-72 312,-72 312,-72 318,-72 324,-78 324,-84 324,-84 324,-100 324,-100 324,-106 318,-112 312,-112" />
+<text text-anchor="middle" x="232.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leptin Suppression</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M307,-40C307,-40 158,-40 158,-40 152,-40 146,-34 146,-28 146,-28 146,-12 146,-12 146,-6 152,0 158,0 158,0 307,0 307,0 313,0 319,-6 319,-12 319,-12 319,-28 319,-28 319,-34 313,-40 307,-40" />
+<text text-anchor="middle" x="232.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Hunger</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M483.5,-256C483.5,-256 421.5,-256 421.5,-256 415.5,-256 409.5,-250 409.5,-244 409.5,-244 409.5,-228 409.5,-228 409.5,-222 415.5,-216 421.5,-216 421.5,-216 483.5,-216 483.5,-216 489.5,-216 495.5,-222 495.5,-228 495.5,-228 495.5,-244 495.5,-244 495.5,-250 489.5,-256 483.5,-256" />
+<text text-anchor="middle" x="452.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fasting</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M521.5,-184C521.5,-184 383.5,-184 383.5,-184 377.5,-184 371.5,-178 371.5,-172 371.5,-172 371.5,-156 371.5,-156 371.5,-150 377.5,-144 383.5,-144 383.5,-144 521.5,-144 521.5,-144 527.5,-144 533.5,-150 533.5,-156 533.5,-156 533.5,-172 533.5,-172 533.5,-178 527.5,-184 521.5,-184" />
+<text text-anchor="middle" x="452.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insulin Decrease</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M459.5,-112C459.5,-112 359.5,-112 359.5,-112 353.5,-112 347.5,-106 347.5,-100 347.5,-100 347.5,-84 347.5,-84 347.5,-78 353.5,-72 359.5,-72 359.5,-72 459.5,-72 459.5,-72 465.5,-72 471.5,-78 471.5,-84 471.5,-84 471.5,-100 471.5,-100 471.5,-106 465.5,-112 459.5,-112" />
+<text text-anchor="middle" x="409.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fat Burning</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M659.5,-112C659.5,-112 505.5,-112 505.5,-112 499.5,-112 493.5,-106 493.5,-100 493.5,-100 493.5,-84 493.5,-84 493.5,-78 499.5,-72 505.5,-72 505.5,-72 659.5,-72 659.5,-72 665.5,-72 671.5,-78 671.5,-84 671.5,-84 671.5,-100 671.5,-100 671.5,-106 665.5,-112 659.5,-112" />
+<text text-anchor="middle" x="582.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leptin Restoration</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M659.5,-40C659.5,-40 505.5,-40 505.5,-40 499.5,-40 493.5,-34 493.5,-28 493.5,-28 493.5,-12 493.5,-12 493.5,-6 499.5,0 505.5,0 505.5,0 659.5,0 659.5,0 665.5,0 671.5,-6 671.5,-12 671.5,-12 671.5,-28 671.5,-28 671.5,-34 665.5,-40 659.5,-40" />
+<text text-anchor="middle" x="582.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decreased Hunger</text>
+</g>
+</g>
+</svg>

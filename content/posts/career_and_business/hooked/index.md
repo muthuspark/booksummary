@@ -14,13 +14,7 @@ Nir Eyal's "Hooked" isn't just about building addictive products; it's about und
 
 The Hook Model is the central framework of the book.  It's a four-step process designed to create a cycle of user engagement that ultimately leads to habit formation.
 
-```mermaid
-graph LR
-    A[Trigger] --> B(Action);
-    B --> C{Variable Reward};
-    C --> D[Investment];
-    D --> A;
-```
+![The Hook Model: A Framework for Habit Formation. Trigger; Action; Variable Reward; Investment.](diagram-01.svg)
 
 * **Trigger:** This initiates the user's engagement.  It can be external (a notification, an email, a friend's post) or internal (a feeling of boredom, loneliness, or stress).
 * **Action:** This is the simplest behavior done in anticipation of a reward.  It should be easy and require minimal effort.

@@ -18,12 +18,7 @@ Turkle argues that our increasing reliance on technology, particularly mobile de
 
 Social media platforms, while seemingly connecting us to a vast network of people, often contribute to a sense of loneliness and inadequacy.  The curated nature of online profiles creates a distorted perception of reality, leading to social comparison and a feeling of being "always on" and never truly present. This constant pressure to project a perfect image undermines authentic self-expression and genuine connection.
 
-```mermaid
-graph LR
-    A[Real Self] --> B(Curated Online Persona);
-    B --> C{Social Comparison & Loneliness};
-    C --> D[Diminished Self-Esteem];
-```
+![The Illusion of Connection. Real Self; Curated Online Persona; Social Comparison & Loneliness; Diminished Self-Esteem.](diagram-01.svg)
 
 ### The Flight from Conversation
 
@@ -60,14 +55,7 @@ Turkle offers a range of practical strategies to improve the quality of our conv
 Turkle doesn't advocate for the complete abandonment of technology.  She acknowledges its value in communication and connection. However, she emphasizes the importance of using technology mindfully and strategically.  This means being conscious of how technology impacts our interactions and making deliberate choices about when and how we use it.
 
 
-```mermaid
-graph LR
-    A[Mindful Tech Use] --> B{Balanced Approach};
-    B --> C[Improved Relationships];
-    B --> D[Enhanced Self-Awareness];
-    E[Excessive Tech Use] --> F{Superficial Interactions};
-    F --> G[Loneliness & Isolation];
-```
+![Technology's Role: A Balanced Approach. Mindful Tech Use; Balanced Approach; Improved Relationships; Enhanced Self-Awareness; Excessive Tech Use; Superficial Interactions; Loneliness & Isolation.](diagram-02.svg)
 
 
 ### Cultivating a Conversation Ethic

@@ -35,19 +35,7 @@ The ability to manage emotions effectively is paramount.  The book stresses that
 * **Seeking support from trusted adults:**  To gain perspective and emotional support.
 
 
-```mermaid
-graph TD
-    A[Difficult Emotion] --> B(Identify Emotion);
-    B --> C{Coping Mechanism};
-    C --> D[Deep Breathing];
-    C --> E[Positive Self-Talk];
-    C --> F[Problem Solving];
-    C --> G[Seeking Support];
-    D --> H[Calm];
-    E --> H;
-    F --> H;
-    G --> H;
-```
+![Managing Emotions: Coping with Difficult Feelings. Difficult Emotion; Identify Emotion; Coping Mechanism; Deep Breathing; Positive Self-Talk; Problem Solving; Seeking Support; Calm.](diagram-01.svg)
 
 # Empathy and Social Skills: Understanding Others
 

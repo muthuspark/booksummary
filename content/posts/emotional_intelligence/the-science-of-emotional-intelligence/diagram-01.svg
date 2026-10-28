@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384pt" height="292pt" viewBox="0.00 0.00 383.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Neuroscience of Emotions:  Mapping the Brain</title><desc id="description">Amygdala leads to Emotional Response. Prefrontal Cortex leads to Cognitive Appraisal. Cognitive Appraisal leads to Regulation of Response. Regulation of Response leads to Emotional Response.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 365.5,-274 365.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79.14,-71.87C90.3,-63.38 103.53,-53.32 115.26,-44.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.8,-46.29 120.89,-40.1 113.84,-42.39 116.8,-46.29" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239,-215.87C239,-208.31 239,-199.49 239,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-191.1 239,-184.1 236.55,-191.1 241.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239,-143.87C239,-136.31 239,-127.49 239,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-119.1 239,-112.1 236.55,-119.1 241.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M213.59,-71.87C202.31,-63.38 188.93,-53.32 177.07,-44.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.45,-42.36 171.38,-40.1 175.5,-46.27 178.45,-42.36" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M96,-112C96,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 96,-72 96,-72 102,-72 108,-78 108,-84 108,-84 108,-100 108,-100 108,-106 102,-112 96,-112" />
+<text text-anchor="middle" x="54" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M230.5,-40C230.5,-40 61.5,-40 61.5,-40 55.5,-40 49.5,-34 49.5,-28 49.5,-28 49.5,-12 49.5,-12 49.5,-6 55.5,0 61.5,0 61.5,0 230.5,0 230.5,0 236.5,0 242.5,-6 242.5,-12 242.5,-12 242.5,-28 242.5,-28 242.5,-34 236.5,-40 230.5,-40" />
+<text text-anchor="middle" x="146" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Response</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M310.5,-256C310.5,-256 167.5,-256 167.5,-256 161.5,-256 155.5,-250 155.5,-244 155.5,-244 155.5,-228 155.5,-228 155.5,-222 161.5,-216 167.5,-216 167.5,-216 310.5,-216 310.5,-216 316.5,-216 322.5,-222 322.5,-228 322.5,-228 322.5,-244 322.5,-244 322.5,-250 316.5,-256 310.5,-256" />
+<text text-anchor="middle" x="239" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prefrontal Cortex</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M319.5,-184C319.5,-184 158.5,-184 158.5,-184 152.5,-184 146.5,-178 146.5,-172 146.5,-172 146.5,-156 146.5,-156 146.5,-150 152.5,-144 158.5,-144 158.5,-144 319.5,-144 319.5,-144 325.5,-144 331.5,-150 331.5,-156 331.5,-156 331.5,-172 331.5,-172 331.5,-178 325.5,-184 319.5,-184" />
+<text text-anchor="middle" x="239" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Appraisal</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M335.5,-112C335.5,-112 142.5,-112 142.5,-112 136.5,-112 130.5,-106 130.5,-100 130.5,-100 130.5,-84 130.5,-84 130.5,-78 136.5,-72 142.5,-72 142.5,-72 335.5,-72 335.5,-72 341.5,-72 347.5,-78 347.5,-84 347.5,-84 347.5,-100 347.5,-100 347.5,-106 341.5,-112 335.5,-112" />
+<text text-anchor="middle" x="239" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regulation of Response</text>
+</g>
+</g>
+</svg>

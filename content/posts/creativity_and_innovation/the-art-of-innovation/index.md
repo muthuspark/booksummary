@@ -17,14 +17,7 @@ This emphasis on observation leads to a richer understanding of user behavior, p
 
 IDEO, Kelley's design firm, is a central character in the book, showcasing its collaborative, cross-disciplinary approach to problem-solving. The book details the IDEO method, highlighting its emphasis on brainstorming, prototyping, and iterative testing. The process isn't linear; it's iterative, embracing failure as a necessary step towards success. The collaborative nature prevents any single viewpoint from dominating the process.
 
-```mermaid
-graph LR
-    A[Identify Problem] --> B(Brainstorming);
-    B --> C{Prototyping};
-    C --> D[Testing];
-    D --> E{Iteration};
-    E --> F[Solution];
-```
+![The Power of Collaboration: The IDEO Method. Identify Problem; Brainstorming; Prototyping; Testing; Iteration; Solution.](diagram-01.svg)
 
 This iterative process, illustrated above, allows for continuous refinement based on feedback and real-world testing, ensuring the final product truly addresses the identified need.
 

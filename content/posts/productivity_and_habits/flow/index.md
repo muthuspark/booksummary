@@ -14,13 +14,7 @@ Mihaly Csikszentmihalyi's "Flow: The Psychology of Optimal Experience" explores 
 
 Flow isn't passively experienced; it emerges from a dynamic interplay between our skills and the challenges presented by an activity.  Too little challenge leads to boredom; too much leads to anxiety.  The "flow channel" represents the optimal balance, a sweet spot where skill and challenge are perfectly matched.
 
-```mermaid
-graph LR
-    A[Boredom] --> B(Flow Channel);
-    C[Anxiety] --> B;
-    B --> D{Skill};
-    B --> E{Challenge};
-```
+![Understanding Flow. Boredom; Flow Channel; Anxiety; Skill; Challenge.](diagram-01.svg)
 
 The key is to find activities that push our capabilities while remaining attainable.  This demands self-awareness, identifying activities aligned with our strengths and passions, and gradually increasing the difficulty as we master them.
 

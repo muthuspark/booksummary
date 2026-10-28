@@ -26,15 +26,7 @@ Von Oech introduces four distinct roles we all play in the creative process. Und
 * **The Warrior:** The Warrior is the driver, the implementer. This role focuses on overcoming obstacles, persuading others, and bringing the chosen idea to fruition. Keywords: *Persistence, Advocacy, Implementation, Action*
 
 
-```mermaid
-graph LR
-    A[Explorer] --> B(Artist);
-    B --> C(Judge);
-    C --> D(Warrior);
-    D --> E[Implementation];
-    E --> F[Success];
-    style F fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Four Roles of the Creative Mind. Explorer; Artist; Judge; Warrior; Implementation; Success.](diagram-01.svg)
 
 
 # Overcoming Creative Blocks:  The Enemies of Imagination

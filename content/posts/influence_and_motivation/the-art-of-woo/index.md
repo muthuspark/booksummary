@@ -14,12 +14,7 @@ The Art of Woo by G. Richard Shell and Mario Moussa isn't about romantic wooing;
 
 The book begins by emphasizing self-awareness. Before attempting to influence others, you must understand your own strengths and weaknesses in persuasive communication.  They introduce the concept of "Woo Style," which encompasses your natural approach to building relationships and influencing decisions.  Recognizing your dominant Woo Style— whether it leans toward  "The Analyst," "The Catalyst," "The Enthusiast," or "The Specialist"— allows you to use your strengths and mitigate your weaknesses.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Identify Your Woo Style);
-    B --> C{Analyst, Catalyst, Enthusiast, Specialist};
-    C --> D[Leverage Strengths, Mitigate Weaknesses];
-```
+![Understanding Your Woo Style. Self-Awareness; Identify Your Woo Style; Analyst, Catalyst, Enthusiast, Specialist; Leverage Strengths, Mitigate Weaknesses.](diagram-01.svg)
 
 Understanding your Woo Style isn't about fitting into a box, it's about recognizing your inclinations and adapting your approach accordingly. Are you detail-oriented and data-driven (Analyst)? Do you prefer a collaborative, brainstorming approach (Catalyst)? Are you brimming with optimism and passion (Enthusiast)? Or do you build trust through competence (Specialist)? Recognizing your natural tendencies allows for a more genuine and effective approach.
 
@@ -35,13 +30,7 @@ Impromptu attempts at persuasion are rarely effective. The authors advocate for 
 
 Understanding your objectives clarifies what you hope to achieve through your interactions. Your target audience analysis includes understanding their needs, motivations, and concerns. This information is critical in tailoring your approach to them effectively.
 
-```mermaid
-graph LR
-    A[Strategic Planning] --> B(Define Objectives);
-    B --> C(Identify Target Audience);
-    C --> D(Develop a Plan);
-    D --> E[Execute and Adapt];
-```
+![Strategic Planning:  Mapping Your Woo. Strategic Planning; Define Objectives; Identify Target Audience; Develop a Plan; Execute and Adapt.](diagram-02.svg)
 
 This strategic approach allows for flexibility. The plan isn't a rigid script; it's a guide that can be adapted based on the unfolding dynamics of the interaction.
 

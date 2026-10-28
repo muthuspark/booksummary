@@ -67,15 +67,7 @@ Kaczor’s book offers many practical strategies for improving marital relations
 
 **Diagram representing interconnectedness of key elements:**
 
-```mermaid
-graph LR
-    A[Commitment] --> B(Friendship);
-    A --> C(Shared Values);
-    B --> D{Effective Communication};
-    C --> D;
-    D --> E[Marital Happiness];
-    A --> E;
-```
+![Strategies and Actionable Insights: A Summary. Commitment; Friendship; Shared Values; Effective Communication; Marital Happiness.](diagram-01.svg)
 
 Ultimately, Kaczor advocates for a view of marriage rooted in commitment, mutual respect, and shared values. He emphasizes that building a successful marriage requires ongoing effort, a willingness to overcome challenges, and a focus on the well-being of both partners, transcending the pursuit of individual fulfillment. The book serves as a resource for couples seeking to strengthen their relationship and build a lasting and fulfilling partnership.
 

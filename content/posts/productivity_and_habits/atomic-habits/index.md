@@ -27,10 +27,7 @@ This law emphasizes making good habits highly visible and easily accessible.  St
 *   **Habit Stacking:**  Linking a new habit to an existing one (e.g., "After I brush my teeth, I will do 10 push-ups").
 *   **Designing Your Environment:**  Arranging your surroundings to make good habits easy and bad habits difficult (e.g., placing healthy snacks at eye level).
 
-```mermaid
-graph LR
-A[Existing Habit] --> B(New Habit);
-```
+![Make It Obvious: Cueing the Good. Existing Habit; New Habit.](diagram-01.svg)
 
 ## Make It Attractive: Cultivating Cravings
 
@@ -58,10 +55,7 @@ This law focuses on creating immediate positive reinforcement after performing a
 *   **Reward Systems:**  Giving yourself small rewards for consistently performing the habit.
 *   **Never Miss Twice:**  If you miss a habit, don't let it derail your progress; get back on track immediately.
 
-```mermaid
-graph LR
-A[Habit Completion] --> B(Reward/Positive Reinforcement);
-```
+![Make It Satisfying: Creating Positive Reinforcement. Habit Completion; Reward/Positive Reinforcement.](diagram-02.svg)
 
 
 # The Importance of Systems Over Goals

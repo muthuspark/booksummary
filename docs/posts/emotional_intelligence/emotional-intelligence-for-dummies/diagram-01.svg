@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="639pt" height="404pt" viewBox="0.00 0.00 638.50 404.00" role="img" aria-labelledby="title description">
+<title id="title">Visualization of Key EQ Components</title><desc id="description">Self-Awareness leads to Self-Regulation. Self-Awareness leads to Motivation. Self-Regulation leads to Empathy. Motivation leads to Empathy. Empathy leads to Social Skills. Social Skills leads to Improved Relationships. Social Skills leads to Career Success. Social Skills leads to Personal Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 620.5,-386 620.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M295.19,-327.87C285.9,-319.54 274.92,-309.68 265.1,-300.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.63,-298.96 259.79,-296.1 263.36,-302.6 266.63,-298.96" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M337.81,-327.87C347.1,-319.54 358.08,-309.68 367.9,-300.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="369.64,-302.6 373.21,-296.1 366.37,-298.96 369.64,-302.6" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M255.04,-255.91C264.12,-245.44 275.65,-232.13 286.27,-219.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="288.34,-221.23 291.07,-214.34 284.64,-218.02 288.34,-221.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M377.96,-255.91C368.88,-245.44 357.35,-232.13 346.73,-219.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="348.36,-218.02 341.93,-214.34 344.66,-221.23 348.36,-218.02" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M316.5,-143.79C316.5,-135.54 316.5,-127.04 316.5,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="318.95,-119.09 316.5,-112.09 314.05,-119.09 318.95,-119.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M260.48,-71.96C233.57,-62.82 201.22,-51.83 173.46,-42.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.92,-39.96 166.51,-40.03 172.35,-44.6 173.92,-39.96" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M316.5,-71.87C316.5,-64.31 316.5,-55.49 316.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="318.95,-47.1 316.5,-40.1 314.05,-47.1 318.95,-47.1" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M368.44,-71.96C393.28,-62.86 423.13,-51.92 448.8,-42.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="449.84,-44.74 455.57,-40.03 448.16,-40.14 449.84,-44.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M380,-368C380,-368 253,-368 253,-368 247,-368 241,-362 241,-356 241,-356 241,-340 241,-340 241,-334 247,-328 253,-328 253,-328 380,-328 380,-328 386,-328 392,-334 392,-340 392,-340 392,-356 392,-356 392,-362 386,-368 380,-368" />
+<text text-anchor="middle" x="316.5" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M302.5,-296C302.5,-296 174.5,-296 174.5,-296 168.5,-296 162.5,-290 162.5,-284 162.5,-284 162.5,-268 162.5,-268 162.5,-262 168.5,-256 174.5,-256 174.5,-256 302.5,-256 302.5,-256 308.5,-256 314.5,-262 314.5,-268 314.5,-268 314.5,-284 314.5,-284 314.5,-290 308.5,-296 302.5,-296" />
+<text text-anchor="middle" x="238.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M440.5,-296C440.5,-296 348.5,-296 348.5,-296 342.5,-296 336.5,-290 336.5,-284 336.5,-284 336.5,-268 336.5,-268 336.5,-262 342.5,-256 348.5,-256 348.5,-256 440.5,-256 440.5,-256 446.5,-256 452.5,-262 452.5,-268 452.5,-268 452.5,-284 452.5,-284 452.5,-290 446.5,-296 440.5,-296" />
+<text text-anchor="middle" x="394.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Motivation</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="316.5,-224 215.5,-184 316.5,-144 417.5,-184 316.5,-224" />
+<text text-anchor="middle" x="316.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M366,-112C366,-112 267,-112 267,-112 261,-112 255,-106 255,-100 255,-100 255,-84 255,-84 255,-78 261,-72 267,-72 267,-72 366,-72 366,-72 372,-72 378,-78 378,-84 378,-84 378,-100 378,-100 378,-106 372,-112 366,-112" />
+<text text-anchor="middle" x="316.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Skills</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M209,-40C209,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 209,0 209,0 215,0 221,-6 221,-12 221,-12 221,-28 221,-28 221,-34 215,-40 209,-40" />
+<text text-anchor="middle" x="110.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Relationships</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M378,-40C378,-40 255,-40 255,-40 249,-40 243,-34 243,-28 243,-28 243,-12 243,-12 243,-6 249,0 255,0 255,0 378,0 378,0 384,0 390,-6 390,-12 390,-12 390,-28 390,-28 390,-34 384,-40 378,-40" />
+<text text-anchor="middle" x="316.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Career Success</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M590.5,-40C590.5,-40 424.5,-40 424.5,-40 418.5,-40 412.5,-34 412.5,-28 412.5,-28 412.5,-12 412.5,-12 412.5,-6 418.5,0 424.5,0 424.5,0 590.5,0 590.5,0 596.5,0 602.5,-6 602.5,-12 602.5,-12 602.5,-28 602.5,-28 602.5,-34 596.5,-40 590.5,-40" />
+<text text-anchor="middle" x="507.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Well-being</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="609pt" height="260pt" viewBox="0.00 0.00 608.50 260.00" role="img" aria-labelledby="title description">
+<title id="title">Differentiation of Self: The Foundation of a Passionate Marriage</title><desc id="description">Individual Identity leads to Self-Esteem. Individual Identity leads to Emotional Regulation. Individual Identity leads to Clear Values &amp; Needs. Self-Esteem leads to Healthy Relationship. Emotional Regulation leads to Healthy Relationship. Clear Values &amp; Needs leads to Healthy Relationship.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 590.5,-242 590.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.67,-183.87C173.58,-174.81 144.7,-163.94 119.83,-154.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="120.68,-152.28 113.26,-152.1 118.95,-156.86 120.68,-152.28" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M248.5,-183.87C248.5,-176.31 248.5,-167.49 248.5,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="250.95,-159.1 248.5,-152.1 246.05,-159.1 250.95,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M309.41,-183.96C338.92,-174.74 374.45,-163.64 404.81,-154.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="405.65,-156.46 411.6,-152.03 404.19,-151.78 405.65,-156.46" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.95,-111.91C126.03,-100.26 157.39,-85.08 184.92,-71.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.23,-73.85 191.46,-68.6 184.09,-69.44 186.23,-73.85" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M248.5,-111.91C248.5,-104.58 248.5,-95.86 248.5,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="250.95,-87.07 248.5,-80.07 246.05,-87.07 250.95,-87.07" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M425,-111.91C394.53,-99.67 354.42,-83.56 320.13,-69.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="320.76,-67.39 313.36,-67.06 318.94,-71.94 320.76,-67.39" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M326,-224C326,-224 171,-224 171,-224 165,-224 159,-218 159,-212 159,-212 159,-196 159,-196 159,-190 165,-184 171,-184 171,-184 326,-184 326,-184 332,-184 338,-190 338,-196 338,-196 338,-212 338,-212 338,-218 332,-224 326,-224" />
+<text text-anchor="middle" x="248.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Identity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113,-152C113,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 113,-112 113,-112 119,-112 125,-118 125,-124 125,-124 125,-140 125,-140 125,-146 119,-152 113,-152" />
+<text text-anchor="middle" x="62.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Esteem</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M338,-152C338,-152 159,-152 159,-152 153,-152 147,-146 147,-140 147,-140 147,-124 147,-124 147,-118 153,-112 159,-112 159,-112 338,-112 338,-112 344,-112 350,-118 350,-124 350,-124 350,-140 350,-140 350,-146 344,-152 338,-152" />
+<text text-anchor="middle" x="248.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Regulation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M560.5,-152C560.5,-152 384.5,-152 384.5,-152 378.5,-152 372.5,-146 372.5,-140 372.5,-140 372.5,-124 372.5,-124 372.5,-118 378.5,-112 384.5,-112 384.5,-112 560.5,-112 560.5,-112 566.5,-112 572.5,-118 572.5,-124 572.5,-124 572.5,-140 572.5,-140 572.5,-146 566.5,-152 560.5,-152" />
+<text text-anchor="middle" x="472.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Values &amp; Needs</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="248.5,-80 50.5,-40 248.5,0 446.5,-40 248.5,-80" />
+<text text-anchor="middle" x="248.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Relationship</text>
+</g>
+</g>
+</svg>

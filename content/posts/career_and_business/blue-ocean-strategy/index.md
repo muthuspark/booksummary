@@ -15,25 +15,7 @@ author: "W. Chan Kim and Renee Mauborgne"
 
 A core tool in the Blue Ocean Strategy framework is the Strategy Canvas. This visual tool helps companies understand their industry's current state and identify opportunities for blue ocean creation. It plots companies against key factors that buyers experience, allowing for a clear visualization of the competitive landscape.
 
-```mermaid
-graph LR
-    A[Company A] --> B(Factor 1);
-    A --> C(Factor 2);
-    A --> D(Factor 3);
-    E[Company B] --> B;
-    E --> F(Factor 4);
-    E --> G(Factor 5);
-    H[Company C] --> B;
-    H --> C;
-    H --> G;
-
-    subgraph " "
-        B; C; D; F; G;
-    end
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-    style C fill:#ccf,stroke:#333,stroke-width:2px
-    style G fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Strategy Canvas: Visualizing Your Market. Company A; Factor 1; Factor 2; Factor 3; Company B; Factor 4; Factor 5; Company C.](diagram-01.svg)
 
 Analyzing the canvas reveals which factors are highly valued and which are neglected. This highlights areas where companies can reduce or eliminate existing products and create new value factors that surprise the market.
 
@@ -56,20 +38,7 @@ The book outlines six paths to systematically look at blue ocean opportunities:
 Understanding customer needs is crucial. The Buyer Utility Map provides a systematic approach to analyze the buyer experience across six stages: purchase, delivery, use, supplementary services, disposal, and internal processes. This provides deep insight into where innovations can create significant value.
 
 
-```mermaid
-graph LR
-    A[Purchase] --> B(Delivery);
-    B --> C(Use);
-    C --> D(Supplementary Services);
-    D --> E(Disposal);
-    E --> F(Internal Processes);
-    style A fill:#ccf,stroke:#333,stroke-width:2px
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-    style C fill:#ccf,stroke:#333,stroke-width:2px
-    style D fill:#ccf,stroke:#333,stroke-width:2px
-    style E fill:#ccf,stroke:#333,stroke-width:2px
-    style F fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Buyer Utility Map: Understanding Customer Needs. Purchase; Delivery; Use; Supplementary Services; Disposal; Internal Processes.](diagram-02.svg)
 
 By mapping these stages and analyzing customer pain points and gains, companies can identify opportunities to create new value and disrupt existing market dynamics.
 

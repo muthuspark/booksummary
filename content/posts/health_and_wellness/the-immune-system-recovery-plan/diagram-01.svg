@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="692pt" height="262pt" viewBox="0.00 0.00 692.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">The Gut-Immune Connection</title><desc id="description">Gut Microbiome leads to Immune System Function. Processed Foods leads to Dysbiosis. Dysbiosis leads to Weakened Immunity. Probiotics leads to Immune System Function. Dietary Changes leads to Immune System Function.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 674,-244 674,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.05,-123.96C178.44,-117.58 204.44,-110.49 228.31,-103.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.21,-106.29 235.32,-102.08 227.92,-101.56 229.21,-106.29" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.07,-206C190.59,-206 223.5,-206 250.77,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="250.94,-208.45 257.94,-206 250.94,-203.55 250.94,-208.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M362.17,-206C388.16,-206 420.75,-206 451.76,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="451.77,-208.45 458.77,-206 451.77,-203.55 451.77,-208.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M135.13,-82C150.55,-82 168.04,-82 185.85,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="185.95,-84.45 192.95,-82 185.95,-79.55 185.95,-84.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.05,-40.04C178.44,-46.42 204.44,-53.51 228.31,-60.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.92,-62.44 235.32,-61.92 229.21,-57.71 227.92,-62.44" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-164C148,-164 13,-164 13,-164 7,-164 1,-158 1,-152 1,-152 1,-136 1,-136 1,-130 7,-124 13,-124 13,-124 148,-124 148,-124 154,-124 160,-130 160,-136 160,-136 160,-152 160,-152 160,-158 154,-164 148,-164" />
+<text text-anchor="middle" x="80.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut Microbiome</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M415,-102C415,-102 205,-102 205,-102 199,-102 193,-96 193,-90 193,-90 193,-74 193,-74 193,-68 199,-62 205,-62 205,-62 415,-62 415,-62 421,-62 427,-68 427,-74 427,-74 427,-90 427,-90 427,-96 421,-102 415,-102" />
+<text text-anchor="middle" x="310" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Immune System Function</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149,-226C149,-226 12,-226 12,-226 6,-226 0,-220 0,-214 0,-214 0,-198 0,-198 0,-192 6,-186 12,-186 12,-186 149,-186 149,-186 155,-186 161,-192 161,-198 161,-198 161,-214 161,-214 161,-220 155,-226 149,-226" />
+<text text-anchor="middle" x="80.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Processed Foods</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M350,-226C350,-226 270,-226 270,-226 264,-226 258,-220 258,-214 258,-214 258,-198 258,-198 258,-192 264,-186 270,-186 270,-186 350,-186 350,-186 356,-186 362,-192 362,-198 362,-198 362,-214 362,-214 362,-220 356,-226 350,-226" />
+<text text-anchor="middle" x="310" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dysbiosis</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M644,-226C644,-226 471,-226 471,-226 465,-226 459,-220 459,-214 459,-214 459,-198 459,-198 459,-192 465,-186 471,-186 471,-186 644,-186 644,-186 650,-186 656,-192 656,-198 656,-198 656,-214 656,-214 656,-220 650,-226 644,-226" />
+<text text-anchor="middle" x="557.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Weakened Immunity</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M123,-102C123,-102 38,-102 38,-102 32,-102 26,-96 26,-90 26,-90 26,-74 26,-74 26,-68 32,-62 38,-62 38,-62 123,-62 123,-62 129,-62 135,-68 135,-74 135,-74 135,-90 135,-90 135,-96 129,-102 123,-102" />
+<text text-anchor="middle" x="80.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Probiotics</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-40C148,-40 13,-40 13,-40 7,-40 1,-34 1,-28 1,-28 1,-12 1,-12 1,-6 7,0 13,0 13,0 148,0 148,0 154,0 160,-6 160,-12 160,-12 160,-28 160,-28 160,-34 154,-40 148,-40" />
+<text text-anchor="middle" x="80.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dietary Changes</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="648pt" height="198pt" viewBox="0.00 0.00 648.00 198.00" role="img" aria-labelledby="title description">
+<title id="title">Tackling Debt: Strategies for Effective Debt Management</title><desc id="description">Debt Management Strategies leads to Snowball Method. Snowball Method leads to Pay off smallest debt first. Debt Management Strategies leads to Avalanche Method. Avalanche Method leads to Pay off highest interest rate debt first.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 180)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-180 630,-180 630,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.19,-102.01C185.97,-103.8 195.95,-105.63 205.76,-107.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.55,-109.89 212.88,-108.74 206.44,-105.07 205.55,-109.89" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.19,-72.94C184.39,-71.71 192.73,-70.47 201,-69.23" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.36,-71.65 207.92,-68.19 200.63,-66.8 201.36,-71.65" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M381.2,-127.08C390.86,-127.44 400.8,-127.81 410.69,-128.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="410.78,-130.63 417.87,-128.44 410.97,-125.73 410.78,-130.63" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M386.17,-48.88C399.06,-47.98 412.35,-47.06 425.25,-46.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="425.56,-48.6 432.38,-45.67 425.22,-43.71 425.56,-48.6" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-116C164,-116 12,-116 12,-116 6,-116 0,-110 0,-104 0,-104 0,-68 0,-68 0,-62 6,-56 12,-56 12,-56 164,-56 164,-56 170,-56 176,-62 176,-68 176,-68 176,-104 176,-104 176,-110 170,-116 164,-116" />
+<text text-anchor="middle" x="88" y="-91.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Management</text>
+<text text-anchor="middle" x="88" y="-71.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategies</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M369,-144C369,-144 225,-144 225,-144 219,-144 213,-138 213,-132 213,-132 213,-116 213,-116 213,-110 219,-104 225,-104 225,-104 369,-104 369,-104 375,-104 381,-110 381,-116 381,-116 381,-132 381,-132 381,-138 375,-144 369,-144" />
+<text text-anchor="middle" x="297" y="-119.6" font-family="Georgia" font-size="18.00" fill="#243d36">Snowball Method</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M600,-162C600,-162 430,-162 430,-162 424,-162 418,-156 418,-150 418,-150 418,-114 418,-114 418,-108 424,-102 430,-102 430,-102 600,-102 600,-102 606,-102 612,-108 612,-114 612,-114 612,-150 612,-150 612,-156 606,-162 600,-162" />
+<text text-anchor="middle" x="515" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay off smallest debt</text>
+<text text-anchor="middle" x="515" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">first</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M374,-75C374,-75 220,-75 220,-75 214,-75 208,-69 208,-63 208,-63 208,-47 208,-47 208,-41 214,-35 220,-35 220,-35 374,-35 374,-35 380,-35 386,-41 386,-47 386,-47 386,-63 386,-63 386,-69 380,-75 374,-75" />
+<text text-anchor="middle" x="297" y="-50.6" font-family="Georgia" font-size="18.00" fill="#243d36">Avalanche Method</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M585.5,-80C585.5,-80 444.5,-80 444.5,-80 438.5,-80 432.5,-74 432.5,-68 432.5,-68 432.5,-12 432.5,-12 432.5,-6 438.5,0 444.5,0 444.5,0 585.5,0 585.5,0 591.5,0 597.5,-6 597.5,-12 597.5,-12 597.5,-68 597.5,-68 597.5,-74 591.5,-80 585.5,-80" />
+<text text-anchor="middle" x="515" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay off highest</text>
+<text text-anchor="middle" x="515" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">interest rate debt</text>
+<text text-anchor="middle" x="515" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">first</text>
+</g>
+</g>
+</svg>

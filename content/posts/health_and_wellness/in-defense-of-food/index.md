@@ -79,26 +79,7 @@ Pollan discourages following restrictive diets.  Instead, he suggests focusing o
 
 The following diagram summarizes the key actionable points from the book:
 
-```mermaid
-graph LR
-    A[Eat Food] --> B(Short Ingredient Lists);
-    A --> C(Foods that Spoil);
-    A --> D(Cook from Scratch);
-    E[Not Too Much] --> F(Mindful Eating);
-    E --> G(Pay Attention to Hunger/Fullness);
-    E --> H(Eat Slowly);
-    I[Mostly Plants] --> J(Prioritize Fruits & Vegetables);
-    I --> K(Include Whole Grains & Legumes);
-    B -- Improves Health --> L(Reduced Chronic Diseases);
-    C -- Improves Nutrition --> L;
-    D -- Enhances Control --> L;
-    F -- Enhances Satisfaction --> L;
-    G -- Prevents Overeating --> L;
-    H -- Promotes Enjoyment --> L;
-    J -- Increases Nutrient Intake --> L;
-    K -- Improves Digestive Health --> L;
-    L --> M(Improved Well-being);
-```
+![Actionable and Visual Representation:. Eat Food; Short Ingredient Lists; Foods that Spoil; Cook from Scratch; Not Too Much; Mindful Eating; Pay Attention to Hunger/Fullness; Eat Slowly; Mostly Plants; Prioritize Fruits & Vegetables; Include Whole Grains & Legumes; Reduced Chronic Diseases; Improved Well-being.](diagram-01.svg)
 
 
 ### Beyond the Plate: Pollan's Broader Message

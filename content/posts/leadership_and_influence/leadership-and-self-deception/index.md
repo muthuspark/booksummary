@@ -24,12 +24,7 @@ The box is not a conscious choice, but rather a subconscious mindset. Individual
 
 The box creates a vicious cycle.  The self-centered mindset leads to poor relationships, which further reinforces the belief that one is a victim.
 
-```mermaid
-graph LR
-A[Self-Centered Mindset] --> B(Poor Relationships);
-B --> C[Reinforced Victimhood];
-C --> A;
-```
+![The Nature of the Box:  A Self-Centered Worldview. Self-Centered Mindset; Poor Relationships; Reinforced Victimhood.](diagram-01.svg)
 
 
 # Escaping the Box:  Choosing a Principle-Centered Approach
@@ -54,12 +49,7 @@ The book emphasizes the importance of recognizing the box in others.  Understand
 
 True leadership, according to the book, is not about power or control but about creating an environment where people can contribute their best.  This requires leaders to escape the box themselves and to help others do the same.  Leaders who are trapped in the box create a culture of blame, mistrust, and dysfunction.   Leadership from within the box creates an environment that actively *reinforces* the box in others.
 
-```mermaid
-graph LR
-A[Leader in the Box] --> B(Blame, Mistrust, Dysfunction);
-B --> C[Reinforces the Box in Others];
-C --> A;
-```
+![The Importance of Leadership. Leader in the Box; Blame, Mistrust, Dysfunction; Reinforces the Box in Others.](diagram-02.svg)
 
 
 # Actionable Strategies

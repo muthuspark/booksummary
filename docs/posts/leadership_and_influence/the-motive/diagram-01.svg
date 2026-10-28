@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230pt" height="384pt" viewBox="0.00 0.00 230.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">The Illusion of Control: Why We Avoid Trust</title><desc id="description">Fear of Vulnerability leads to Seeking Control. Seeking Control leads to Isolation &amp; Limited Potential. Isolation &amp; Limited Potential leads to Lack of Trust. Lack of Trust leads to Unfulfilled Life.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 212,-366 212,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-307.87C97,-300.31 97,-291.49 97,-283.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-283.1 97,-276.1 94.55,-283.1 99.45,-283.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-235.63C97,-228.34 97,-219.78 97,-211.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-211.19 97,-204.19 94.55,-211.19 99.45,-211.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-143.67C97,-135.77 97,-127.28 97,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-119.12 97,-112.12 94.55,-119.12 99.45,-119.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-71.87C97,-64.31 97,-55.49 97,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-47.1 97,-40.1 94.55,-47.1 99.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-348C182,-348 12,-348 12,-348 6,-348 0,-342 0,-336 0,-336 0,-320 0,-320 0,-314 6,-308 12,-308 12,-308 182,-308 182,-308 188,-308 194,-314 194,-320 194,-320 194,-336 194,-336 194,-342 188,-348 182,-348" />
+<text text-anchor="middle" x="97" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear of Vulnerability</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162.5,-276C162.5,-276 31.5,-276 31.5,-276 25.5,-276 19.5,-270 19.5,-264 19.5,-264 19.5,-248 19.5,-248 19.5,-242 25.5,-236 31.5,-236 31.5,-236 162.5,-236 162.5,-236 168.5,-236 174.5,-242 174.5,-248 174.5,-248 174.5,-264 174.5,-264 174.5,-270 168.5,-276 162.5,-276" />
+<text text-anchor="middle" x="97" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeking Control</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-204C176,-204 18,-204 18,-204 12,-204 6,-198 6,-192 6,-192 6,-156 6,-156 6,-150 12,-144 18,-144 18,-144 176,-144 176,-144 182,-144 188,-150 188,-156 188,-156 188,-192 188,-192 188,-198 182,-204 176,-204" />
+<text text-anchor="middle" x="97" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Isolation &amp; Limited</text>
+<text text-anchor="middle" x="97" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Potential</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-112C152,-112 42,-112 42,-112 36,-112 30,-106 30,-100 30,-100 30,-84 30,-84 30,-78 36,-72 42,-72 42,-72 152,-72 152,-72 158,-72 164,-78 164,-84 164,-84 164,-100 164,-100 164,-106 158,-112 152,-112" />
+<text text-anchor="middle" x="97" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lack of Trust</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M160.5,-40C160.5,-40 33.5,-40 33.5,-40 27.5,-40 21.5,-34 21.5,-28 21.5,-28 21.5,-12 21.5,-12 21.5,-6 27.5,0 33.5,0 33.5,0 160.5,0 160.5,0 166.5,0 172.5,-6 172.5,-12 172.5,-12 172.5,-28 172.5,-28 172.5,-34 166.5,-40 160.5,-40" />
+<text text-anchor="middle" x="97" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unfulfilled Life</text>
+</g>
+</g>
+</svg>

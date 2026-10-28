@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1008pt" height="320pt" viewBox="0.00 0.00 1008.00 320.00" role="img" aria-labelledby="title description">
+<title id="title">The Inflammatory Impact of Grains</title><desc id="description">High-GI Foods (Refined Grains) leads to Rapid Blood Sugar Spike. Rapid Blood Sugar Spike leads to Inflammation. Inflammation leads to Brain Damage. Inflammation leads to Cognitive Decline. Inflammation leads to Chronic Diseases.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 302)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-302 990,-302 990,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221.11,-142C229.26,-142 237.45,-142 245.5,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.86,-144.45 252.86,-142 245.86,-139.55 245.86,-144.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M432.23,-142C440.35,-142 448.52,-142 456.5,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="456.77,-144.45 463.77,-142 456.77,-139.55 456.77,-144.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M569.85,-162.23C588.59,-172.31 612.13,-184.18 634,-193 661.89,-204.24 693.23,-214.39 721.22,-222.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="720.85,-225.07 728.26,-224.67 722.22,-220.36 720.85,-225.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M602.32,-142C610.14,-142 618.35,-142 626.8,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="626.95,-144.45 633.95,-142 626.95,-139.55 626.95,-144.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M569.85,-121.77C588.59,-111.69 612.13,-99.82 634,-91 660.45,-80.34 690.01,-70.66 716.87,-62.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="717.62,-65 723.64,-60.67 716.23,-60.3 717.62,-65" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-172C209,-172 12,-172 12,-172 6,-172 0,-166 0,-160 0,-160 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 209,-112 209,-112 215,-112 221,-118 221,-124 221,-124 221,-160 221,-160 221,-166 215,-172 209,-172" />
+<text text-anchor="middle" x="110.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-GI Foods (Refined</text>
+<text text-anchor="middle" x="110.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Grains)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M420,-172C420,-172 265,-172 265,-172 259,-172 253,-166 253,-160 253,-160 253,-124 253,-124 253,-118 259,-112 265,-112 265,-112 420,-112 420,-112 426,-112 432,-118 432,-124 432,-124 432,-160 432,-160 432,-166 426,-172 420,-172" />
+<text text-anchor="middle" x="342.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rapid Blood Sugar</text>
+<text text-anchor="middle" x="342.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Spike</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M590,-162C590,-162 476,-162 476,-162 470,-162 464,-156 464,-150 464,-150 464,-134 464,-134 464,-128 470,-122 476,-122 476,-122 590,-122 590,-122 596,-122 602,-128 602,-134 602,-134 602,-150 602,-150 602,-156 596,-162 590,-162" />
+<text text-anchor="middle" x="533" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="803,-284 660,-244 803,-204 946,-244 803,-284" />
+<text text-anchor="middle" x="803" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain Damage</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="803,-182 634,-142 803,-102 972,-142 803,-182" />
+<text text-anchor="middle" x="803" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Decline</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="803,-80 639,-40 803,0 967,-40 803,-80" />
+<text text-anchor="middle" x="803" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronic Diseases</text>
+</g>
+</g>
+</svg>

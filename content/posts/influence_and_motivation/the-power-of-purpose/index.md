@@ -19,14 +19,7 @@ Understanding your core values is crucial. What principles guide your decisions?
 Identifying your passions is equally important.  What activities make you lose track of time? What are you naturally drawn to?  Leider encourages readers to look beyond their current circumstances and consider activities they've enjoyed in the past, things they've always wanted to try, or areas where they feel a strong sense of curiosity or excitement.  This requires honesty and a willingness to look at areas outside of your comfort zone.
 
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Values);
-    A --> C(Identify Passions);
-    B --> D{Prioritize Values};
-    C --> D;
-    D --> E[Understand your Core Self];
-```
+![Identifying Your Values and Passions. Self-Reflection; Identify Values; Identify Passions; Prioritize Values; Understand your Core Self.](diagram-01.svg)
 
 # Recognizing Your Talents and Skills
 
@@ -60,22 +53,7 @@ Change is an inevitable part of life, and embracing change as an opportunity for
 The book explores how purpose evolves throughout life's different stages.  It addresses the unique challenges and opportunities faced by individuals at various points, from young adulthood to retirement.  He emphasizes that purpose is not a one-time discovery but a continuous process of exploration and adaptation.  Life transitions, career shifts, and personal changes can all require reassessing and refining one's purpose statement.
 
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Values);
-    A --> C(Passions);
-    A --> D(Talents);
-    B --> E(Purpose Statement);
-    C --> E;
-    D --> E;
-    E --> F(Goal Setting);
-    F --> G(Action Plan);
-    G --> H(Support Network);
-    H --> I(Overcoming Obstacles);
-    I --> J(Embracing Change);
-    J --> K(Continuous Growth);
-
-```
+![Finding Purpose in Different Life Stages. Self-Awareness; Values; Passions; Talents; Purpose Statement; Goal Setting; Action Plan; Support Network; Overcoming Obstacles; Embracing Change; Continuous Growth.](diagram-02.svg)
 
 
 #  The Power of Contribution: Giving Back

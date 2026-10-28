@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="643pt" height="76pt" viewBox="0.00 0.00 643.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">The Three Peaks of the Day:  Leveraging Our Biological Rhythms</title><desc id="description">Day leads to Morning Peak. Morning Peak leads to Afternoon Trough. Afternoon Trough leads to Evening Peak.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 625,-58 625,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M60.29,-20C67.68,-20 75.98,-20 84.55,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.8,-22.45 91.8,-20 84.8,-17.55 84.8,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M233.13,-20C241.24,-20 249.61,-20 257.97,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.99,-22.45 264.99,-20 257.99,-17.55 257.99,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M438.23,-20C446.34,-20 454.51,-20 462.5,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="462.79,-22.45 469.79,-20 462.79,-17.55 462.79,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M48,-40C48,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 48,0 48,0 54,0 60,-6 60,-12 60,-12 60,-28 60,-28 60,-34 54,-40 48,-40" />
+<text text-anchor="middle" x="30" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Day</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M221,-40C221,-40 104,-40 104,-40 98,-40 92,-34 92,-28 92,-28 92,-12 92,-12 92,-6 98,0 104,0 104,0 221,0 221,0 227,0 233,-6 233,-12 233,-12 233,-28 233,-28 233,-34 227,-40 221,-40" />
+<text text-anchor="middle" x="162.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Morning Peak</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M426,-40C426,-40 277,-40 277,-40 271,-40 265,-34 265,-28 265,-28 265,-12 265,-12 265,-6 271,0 277,0 277,0 426,0 426,0 432,0 438,-6 438,-12 438,-12 438,-28 438,-28 438,-34 432,-40 426,-40" />
+<text text-anchor="middle" x="351.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Afternoon Trough</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M595,-40C595,-40 482,-40 482,-40 476,-40 470,-34 470,-28 470,-28 470,-12 470,-12 470,-6 476,0 482,0 482,0 595,0 595,0 601,0 607,-6 607,-12 607,-12 607,-28 607,-28 607,-34 601,-40 595,-40" />
+<text text-anchor="middle" x="538.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evening Peak</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1025pt" height="322pt" viewBox="0.00 0.00 1025.00 322.00" role="img" aria-labelledby="title description">
+<title id="title">Warmth: Building Connections</title><desc id="description">Active Listening leads to Genuine Connection. Genuine Connection leads to Strong Relationships. Strong Relationships leads to Warm Charisma. Sincere Compliments leads to Warm Charisma. Mirroring &amp; Matching leads to Warm Charisma. Appropriate Vulnerability leads to Warm Charisma.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 304)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-304 1007,-304 1007,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.22,-246C164.14,-246 172.28,-246 180.41,-246" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.87,-248.45 187.87,-246 180.87,-243.55 180.87,-248.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M379.06,-246C387.04,-246 395.28,-246 403.68,-246" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="403.78,-248.45 410.78,-246 403.78,-243.55 403.78,-248.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M701.81,-225.81C733.33,-217.82 768.17,-207.52 799,-195 824.51,-184.64 851.47,-169.52 872.31,-156.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="873.62,-158.88 878.3,-153.12 871.05,-154.7 873.62,-158.88" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M704.79,-153.89C743.17,-149.97 786.69,-145.51 823.67,-141.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="824.26,-144.13 830.97,-140.98 823.76,-139.26 824.26,-144.13" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M707.32,-112.37C745.06,-116.23 787.48,-120.57 823.65,-124.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="823.58,-126.72 830.8,-125 824.08,-121.85 823.58,-126.72" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M671.74,-38.88C709.73,-45.25 757.98,-55.5 799,-71 824.94,-80.8 852.11,-96.06 872.95,-108.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="871.7,-111.09 878.93,-112.74 874.31,-106.94 871.7,-111.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M144,-266C144,-266 12,-266 12,-266 6,-266 0,-260 0,-254 0,-254 0,-238 0,-238 0,-232 6,-226 12,-226 12,-226 144,-226 144,-226 150,-226 156,-232 156,-238 156,-238 156,-254 156,-254 156,-260 150,-266 144,-266" />
+<text text-anchor="middle" x="78" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M367,-266C367,-266 200,-266 200,-266 194,-266 188,-260 188,-254 188,-254 188,-238 188,-238 188,-232 194,-226 200,-226 200,-226 367,-226 367,-226 373,-226 379,-232 379,-238 379,-238 379,-254 379,-254 379,-260 373,-266 367,-266" />
+<text text-anchor="middle" x="283.5" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Genuine Connection</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="605,-286 411,-246 605,-206 799,-246 605,-286" />
+<text text-anchor="middle" x="605" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Relationships</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M977,-153C977,-153 843,-153 843,-153 837,-153 831,-147 831,-141 831,-141 831,-125 831,-125 831,-119 837,-113 843,-113 843,-113 977,-113 977,-113 983,-113 989,-119 989,-125 989,-125 989,-141 989,-141 989,-147 983,-153 977,-153" />
+<text text-anchor="middle" x="910" y="-128.6" font-family="Georgia" font-size="18.00" fill="#243d36">Warm Charisma</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M692.5,-184C692.5,-184 517.5,-184 517.5,-184 511.5,-184 505.5,-178 505.5,-172 505.5,-172 505.5,-156 505.5,-156 505.5,-150 511.5,-144 517.5,-144 517.5,-144 692.5,-144 692.5,-144 698.5,-144 704.5,-150 704.5,-156 704.5,-156 704.5,-172 704.5,-172 704.5,-178 698.5,-184 692.5,-184" />
+<text text-anchor="middle" x="605" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sincere Compliments</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M695,-122C695,-122 515,-122 515,-122 509,-122 503,-116 503,-110 503,-110 503,-94 503,-94 503,-88 509,-82 515,-82 515,-82 695,-82 695,-82 701,-82 707,-88 707,-94 707,-94 707,-110 707,-110 707,-116 701,-122 695,-122" />
+<text text-anchor="middle" x="605" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mirroring &amp; Matching</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M659.5,-60C659.5,-60 550.5,-60 550.5,-60 544.5,-60 538.5,-54 538.5,-48 538.5,-48 538.5,-12 538.5,-12 538.5,-6 544.5,0 550.5,0 550.5,0 659.5,0 659.5,0 665.5,0 671.5,-6 671.5,-12 671.5,-12 671.5,-48 671.5,-48 671.5,-54 665.5,-60 659.5,-60" />
+<text text-anchor="middle" x="605" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Appropriate</text>
+<text text-anchor="middle" x="605" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vulnerability</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240pt" height="292pt" viewBox="0.00 0.00 239.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">Connecting with Your Community</title><desc id="description">Individual Practice leads to Feedback. Feedback leads to Refinement. Refinement leads to Community Support. Community Support leads to Individual Practice.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 221.5,-274 221.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.16,-215.87C93.87,-208 87.68,-198.77 82.02,-190.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.76,-188.55 77.83,-184.1 79.7,-191.28 83.76,-188.55" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M63.91,-143.87C63.47,-136.31 62.97,-127.49 62.51,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="64.94,-118.95 62.09,-112.1 60.05,-119.23 64.94,-118.95" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M73.84,-71.87C79.13,-64 85.32,-54.77 90.98,-46.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.3,-47.28 95.17,-40.1 89.24,-44.55 93.3,-47.28" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M119.93,-40.08C125.04,-49.34 130.42,-60.86 133,-72 144.26,-120.54 137.25,-135.04 128,-184 126.44,-192.24 123.99,-201.01 121.47,-208.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="119.04,-208.48 119.16,-215.9 123.69,-210.02 119.04,-208.48" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M190,-256C190,-256 34,-256 34,-256 28,-256 22,-250 22,-244 22,-244 22,-228 22,-228 22,-222 28,-216 34,-216 34,-216 190,-216 190,-216 196,-216 202,-222 202,-228 202,-228 202,-244 202,-244 202,-250 196,-256 190,-256" />
+<text text-anchor="middle" x="112" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Practice</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M105,-184C105,-184 25,-184 25,-184 19,-184 13,-178 13,-172 13,-172 13,-156 13,-156 13,-150 19,-144 25,-144 25,-144 105,-144 105,-144 111,-144 117,-150 117,-156 117,-156 117,-172 117,-172 117,-178 111,-184 105,-184" />
+<text text-anchor="middle" x="65" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M110,-112C110,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 110,-72 110,-72 116,-72 122,-78 122,-84 122,-84 122,-100 122,-100 122,-106 116,-112 110,-112" />
+<text text-anchor="middle" x="61" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refinement</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191.5,-40C191.5,-40 24.5,-40 24.5,-40 18.5,-40 12.5,-34 12.5,-28 12.5,-28 12.5,-12 12.5,-12 12.5,-6 18.5,0 24.5,0 24.5,0 191.5,0 191.5,0 197.5,0 203.5,-6 203.5,-12 203.5,-12 203.5,-28 203.5,-28 203.5,-34 197.5,-40 191.5,-40" />
+<text text-anchor="middle" x="108" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Community Support</text>
+</g>
+</g>
+</svg>

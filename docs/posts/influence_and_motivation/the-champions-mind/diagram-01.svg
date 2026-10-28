@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620pt" height="260pt" viewBox="0.00 0.00 620.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of the Present Moment</title><desc id="description">Past Failures leads to Worry. Future Outcomes leads to Worry. Worry leads to Impaired Performance. Present Moment leads to Optimal Performance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 602,-242 602,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149.23,-183.87C159.44,-175.46 171.54,-165.5 182.31,-156.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183.96,-158.45 187.8,-152.1 180.84,-154.66 183.96,-158.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-111.91C211,-104.58 211,-95.86 211,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-87.07 211,-80.07 208.55,-87.07 213.45,-87.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M273.5,-183.87C263.17,-175.46 250.93,-165.5 240.03,-156.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-154.62 234.47,-152.1 238.35,-158.42 241.45,-154.62" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M483,-183.87C483,-176.31 483,-167.49 483,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="485.45,-159.1 483,-152.1 480.55,-159.1 485.45,-159.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M179.5,-224C179.5,-224 72.5,-224 72.5,-224 66.5,-224 60.5,-218 60.5,-212 60.5,-212 60.5,-196 60.5,-196 60.5,-190 66.5,-184 72.5,-184 72.5,-184 179.5,-184 179.5,-184 185.5,-184 191.5,-190 191.5,-196 191.5,-196 191.5,-212 191.5,-212 191.5,-218 185.5,-224 179.5,-224" />
+<text text-anchor="middle" x="126" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Past Failures</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M239,-152C239,-152 183,-152 183,-152 177,-152 171,-146 171,-140 171,-140 171,-124 171,-124 171,-118 177,-112 183,-112 183,-112 239,-112 239,-112 245,-112 251,-118 251,-124 251,-124 251,-140 251,-140 251,-146 245,-152 239,-152" />
+<text text-anchor="middle" x="211" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Worry</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M368.5,-224C368.5,-224 225.5,-224 225.5,-224 219.5,-224 213.5,-218 213.5,-212 213.5,-212 213.5,-196 213.5,-196 213.5,-190 219.5,-184 225.5,-184 225.5,-184 368.5,-184 368.5,-184 374.5,-184 380.5,-190 380.5,-196 380.5,-196 380.5,-212 380.5,-212 380.5,-218 374.5,-224 368.5,-224" />
+<text text-anchor="middle" x="297" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Future Outcomes</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="211,-80 0,-40 211,0 422,-40 211,-80" />
+<text text-anchor="middle" x="211" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impaired Performance</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M551.5,-224C551.5,-224 414.5,-224 414.5,-224 408.5,-224 402.5,-218 402.5,-212 402.5,-212 402.5,-196 402.5,-196 402.5,-190 408.5,-184 414.5,-184 414.5,-184 551.5,-184 551.5,-184 557.5,-184 563.5,-190 563.5,-196 563.5,-196 563.5,-212 563.5,-212 563.5,-218 557.5,-224 551.5,-224" />
+<text text-anchor="middle" x="483" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M572,-152C572,-152 394,-152 394,-152 388,-152 382,-146 382,-140 382,-140 382,-124 382,-124 382,-118 388,-112 394,-112 394,-112 572,-112 572,-112 578,-112 584,-118 584,-124 584,-124 584,-140 584,-140 584,-146 578,-152 572,-152" />
+<text text-anchor="middle" x="483" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Optimal Performance</text>
+</g>
+</g>
+</svg>

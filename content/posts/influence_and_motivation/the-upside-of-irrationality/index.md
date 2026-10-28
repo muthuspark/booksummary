@@ -30,12 +30,7 @@ Procrastination is a common human struggle, and Ariely delves into the psycholog
 
 He proposes strategies to combat procrastination, including the use of pre-commitment devices.  These involve committing to a course of action in advance, limiting future flexibility but ultimately increasing the chances of achieving our goals.  Examples include setting deadlines, making public commitments, or utilizing online tools that penalize procrastination.
 
-```mermaid
-graph LR
-A[Goal] --> B(Procrastination);
-B --> C{Pre-commitment Device};
-C --> D[Achieve Goal];
-```
+![The Problem of Procrastination and Self-Control. Goal; Procrastination; Pre-commitment Device; Achieve Goal.](diagram-01.svg)
 
 
 ##  The Power of Social Norms and Market Norms
@@ -81,16 +76,7 @@ Based on Ariely’s research, here are actionable strategies for improving vario
 * **Increase Honesty:**  Create environments and systems that minimize opportunities for dishonesty.  Encourage transparency and accountability.  Reflect on your ethical decision-making processes to identify potential vulnerabilities.
 
 
-```mermaid
-graph LR
-A[Understand Biases] --> B(Framing, Anchoring);
-B --> C[Make Better Decisions];
-C --> D[Improved Outcomes];
-E[Pre-commitment] --> F(Procrastination);
-F --> G[Increased Productivity];
-H[Positive Expectations] --> I(Placebo Effect);
-I --> J[Enhanced Self-Belief];
-```
+![Strategies for Improving Life Based on Ariely's Insights. Understand Biases; Framing, Anchoring; Make Better Decisions; Improved Outcomes; Pre-commitment; Procrastination; Increased Productivity; Positive Expectations; Placebo Effect; Enhanced Self-Belief.](diagram-02.svg)
 
 "The Upside of Irrationality" offers a wealth of information into the predictable irrationalities of human behavior. By understanding these biases and employing the strategies outlined by Ariely, we can gain a greater degree of control over our decisions, improve our self-control, and ultimately lead more fulfilling and successful lives. The book is a resource for anyone seeking to understand themselves and make more effective choices in various aspects of their lives.
 

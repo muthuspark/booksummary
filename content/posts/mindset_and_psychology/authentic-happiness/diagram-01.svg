@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="526pt" height="202pt" viewBox="0.00 0.00 526.00 202.00" role="img" aria-labelledby="title description">
+<title id="title">The Three Roads to Happiness</title><desc id="description">Pleasant Life leads to Happiness. Good Life leads to Happiness. Meaningful Life leads to Happiness. Three Roads to: Pleasant Life, Good Life, Meaningful Life.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 184)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-184 508,-184 508,18 -18,18" />
+<g id="clust1" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M20,-54C20,-54 470,-54 470,-54 476,-54 482,-60 482,-66 482,-66 482,-146 482,-146 482,-152 476,-158 470,-158 470,-158 20,-158 20,-158 14,-158 8,-152 8,-146 8,-146 8,-66 8,-66 8,-60 14,-54 20,-54" />
+<text text-anchor="middle" x="245" y="-139.6" font-family="Georgia" font-size="18.00" fill="#405b50">Three Roads to</text>
+</g>
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M359.47,-71.87C341.75,-63.08 320.61,-52.58 302.15,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="302.84,-41.02 295.48,-40.1 300.66,-45.41 302.84,-41.02" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M257,-71.87C257,-64.31 257,-55.49 257,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="259.45,-47.1 257,-40.1 254.55,-47.1 259.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.81,-71.87C165.29,-62.96 188.58,-52.31 208.79,-43.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.9,-45.24 215.24,-40.1 207.86,-40.79 209.9,-45.24" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M451.5,-112C451.5,-112 344.5,-112 344.5,-112 338.5,-112 332.5,-106 332.5,-100 332.5,-100 332.5,-84 332.5,-84 332.5,-78 338.5,-72 344.5,-72 344.5,-72 451.5,-72 451.5,-72 457.5,-72 463.5,-78 463.5,-84 463.5,-84 463.5,-100 463.5,-100 463.5,-106 457.5,-112 451.5,-112" />
+<text text-anchor="middle" x="398" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pleasant Life</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M301.5,-40C301.5,-40 212.5,-40 212.5,-40 206.5,-40 200.5,-34 200.5,-28 200.5,-28 200.5,-12 200.5,-12 200.5,-6 206.5,0 212.5,0 212.5,0 301.5,0 301.5,0 307.5,0 313.5,-6 313.5,-12 313.5,-12 313.5,-28 313.5,-28 313.5,-34 307.5,-40 301.5,-40" />
+<text text-anchor="middle" x="257" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Happiness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M298.5,-112C298.5,-112 215.5,-112 215.5,-112 209.5,-112 203.5,-106 203.5,-100 203.5,-100 203.5,-84 203.5,-84 203.5,-78 209.5,-72 215.5,-72 215.5,-72 298.5,-72 298.5,-72 304.5,-72 310.5,-78 310.5,-84 310.5,-84 310.5,-100 310.5,-100 310.5,-106 304.5,-112 298.5,-112" />
+<text text-anchor="middle" x="257" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Good Life</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-112C169.5,-112 38.5,-112 38.5,-112 32.5,-112 26.5,-106 26.5,-100 26.5,-100 26.5,-84 26.5,-84 26.5,-78 32.5,-72 38.5,-72 38.5,-72 169.5,-72 169.5,-72 175.5,-72 181.5,-78 181.5,-84 181.5,-84 181.5,-100 181.5,-100 181.5,-106 175.5,-112 169.5,-112" />
+<text text-anchor="middle" x="104" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Life</text>
+</g>
+</g>
+</svg>

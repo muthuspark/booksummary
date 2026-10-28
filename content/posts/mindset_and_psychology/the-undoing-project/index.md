@@ -18,11 +18,7 @@ Kahneman and Tversky's central contribution was identifying systematic errors in
 
 Prospect theory, one of their key contributions, explains how people make decisions under conditions of risk and uncertainty.  It highlights that people are more sensitive to losses than gains (loss aversion), and that the framing of a decision heavily influences the outcome.
 
-```mermaid
-graph LR
-A[Choice A: Gain $100] --> B(Decision);
-C[Choice B: 50% chance of gaining $200, 50% chance of gaining nothing] --> B;
-```
+![Prospect Theory: Framing Matters. Choice A: Gain $100; Decision; Choice B: 50% chance of gaining $200, 50% chance of gaining nothing.](diagram-01.svg)
 
 In this scenario, despite the expected value of both choices being the same,  most people choose A due to loss aversion. Understanding this bias allows you to reframe choices to reduce the impact of loss aversion.
 
@@ -67,11 +63,7 @@ Kahneman and Tversky explored heuristics – mental shortcuts – that simplify 
 
 Kahneman introduced the concept of System 1 (fast, intuitive) and System 2 (slow, deliberate) thinking. Recognizing when you're operating in System 1 and consciously shifting to System 2 when making significant decisions is essential.
 
-```mermaid
-graph LR
-A[System 1: Fast, Intuitive] --> B(Decision);
-C[System 2: Slow, Deliberate] --> B;
-```
+![System 1 and System 2 Thinking: A Dual-Process Model. System 1: Fast, Intuitive; Decision; System 2: Slow, Deliberate.](diagram-02.svg)
 
 
 ##  Applying the Lessons to Personal Life

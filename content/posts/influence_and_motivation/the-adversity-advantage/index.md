@@ -14,15 +14,7 @@ author: "Paul G. Stoltz and Erik Weihenmayer"
 
 The book heavily emphasizes the importance of mindset.  Negative self-talk and a victim mentality are identified as significant hurdles in overcoming adversity.  Stoltz and Weihenmayer advocate for cultivating a growth mindset, embracing challenges as learning experiences, and focusing on what you *can* control rather than dwelling on what you can't.  This shift requires conscious effort and practice, but the rewards are substantial.
 
-```mermaid
-graph LR
-A[Negative Mindset] --> B(Victim Mentality);
-A --> C(Fear of Failure);
-D[Growth Mindset] --> E(Embrace Challenges);
-D --> F(Focus on Controllables);
-E --> G(Learning & Growth);
-F --> G;
-```
+![The Power of Mindset: Reframing Adversity. Negative Mindset; Victim Mentality; Fear of Failure; Growth Mindset; Embrace Challenges; Focus on Controllables; Learning & Growth.](diagram-01.svg)
 
 ##  The Four Pillars of Resilience
 

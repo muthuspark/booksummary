@@ -26,12 +26,7 @@ Gardner doesn't present a rigid hierarchy but rather a network of interconnected
 * **Systems thinking:** Understanding interconnectedness and long-term consequences.
 * **Creative thinking:** Generating novel ideas and solutions.
 
-```mermaid
-graph LR
-    A[Disciplined Thinking] --> B(Critical Thinking);
-    A --> C(Systems Thinking);
-    A --> D(Creative Thinking);
-```
+![Disciplined Thinking: The ability to approach problems methodically, considering different perspectives, and resisting impulsive judgments.  This involves employing techniques like:. Disciplined Thinking; Critical Thinking; Systems Thinking; Creative Thinking.](diagram-01.svg)
 
 
 ### **Respectful Discourse:**  The art of engaging in productive conversations, even with those who hold opposing viewpoints.  This requires:
@@ -40,12 +35,7 @@ graph LR
 * **Empathy:**  Attempting to see the world from another person's point of view.
 * **Civil disagreement:** Expressing dissent respectfully without resorting to personal attacks.
 
-```mermaid
-graph LR
-    E[Respectful Discourse] --> F(Active Listening);
-    E --> G(Empathy);
-    E --> H(Civil Disagreement);
-```
+![Respectful Discourse:  The art of engaging in productive conversations, even with those who hold opposing viewpoints.  This requires:. Respectful Discourse; Active Listening; Empathy; Civil Disagreement.](diagram-02.svg)
 
 ### **Self-Understanding and Self-Regulation:**  Understanding one's own biases, limitations, and emotional responses.  This requires:
 
@@ -53,12 +43,7 @@ graph LR
 * **Emotional intelligence:**  Managing one's emotions effectively.
 * **Metacognition:**  Thinking about one's own thinking processes.
 
-```mermaid
-graph LR
-    I[Self-Understanding & Self-Regulation] --> J(Self-Reflection);
-    I --> K(Emotional Intelligence);
-    I --> L(Metacognition);
-```
+![Self-Understanding and Self-Regulation:  Understanding one's own biases, limitations, and emotional responses.  This requires:. Self-Understanding & Self-Regulation; Self-Reflection; Emotional Intelligence; Metacognition.](diagram-03.svg)
 
 
 ## Overcoming Cognitive Biases

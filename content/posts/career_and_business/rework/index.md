@@ -25,13 +25,7 @@ The book champions the advantages of small businesses and startups.  They are ag
 
 Detailed, long-term business plans are often pointless, according to the authors. The business is constantly shifting, rendering these plans obsolete. Instead, they advocate for iterative development and rapid prototyping. Get your product or service to market quickly, gather feedback, and continuously improve based on real-world data. Perfectionism is the enemy of progress.
 
-```mermaid
-graph LR
-    A[Idea] --> B(Prototype);
-    B --> C{Feedback};
-    C --> D[Iteration];
-    D --> E[Ship];
-```
+![Don't Plan, Ship!. Idea; Prototype; Feedback; Iteration; Ship.](diagram-01.svg)
 
 ## Failure as a Learning Opportunity
 
@@ -89,13 +83,7 @@ Being honest and transparent with customers builds trust and fosters lasting rel
 
 Identifying your passions and talents is fundamental to building a sustainable and fulfilling business.  Don't try to force yourself into something you're not passionate about.  Follow your interests and build something you genuinely believe in.
 
-```mermaid
-graph LR
-    A[Passion] --> B(Talent);
-    B --> C{Niche};
-    C --> D[Business Idea];
-    D --> E(Success);
-```
+![Finding Your Niche and Passion. Passion; Talent; Niche; Business Idea; Success.](diagram-02.svg)
 
 
 ## Actionable Steps for Personal Growth

@@ -18,12 +18,7 @@ Santiago's journey begins with a recurring dream urging him to travel to the Egy
 The book strongly emphasizes the importance of paying attention to subtle cues and intuitions. These are often dismissed as mere coincidences, but they're signals pointing towards our true paths.
 
 
-```mermaid
-graph LR
-A[Recurring Dream] --> B(Intuition);
-B --> C[Following Your Heart];
-C --> D{Fulfillment};
-```
+![Listening to Your Heart: The Power of Intuition. Recurring Dream; Intuition; Following Your Heart; Fulfillment.](diagram-01.svg)
 
 ##  The Personal Legend: Defining Your Purpose
 
@@ -40,12 +35,7 @@ Santiago encounters numerous obstacles on his journey: thieves, the desert's har
 
 The alchemist teaches Santiago that the journey itself is more important than the destination. The lessons learned, experiences gained, and personal growth achieved along the way are equally important. Adversity strengthens character, resilience, and determination.
 
-```mermaid
-graph LR
-A[Obstacle] --> B(Challenge);
-B --> C[Adaptation & Learning];
-C --> D{Growth & Resilience};
-```
+![Overcoming Obstacles: Embracing Challenges and Learning from Adversity. Obstacle; Challenge; Adaptation & Learning; Growth & Resilience.](diagram-02.svg)
 
 
 ##  The Importance of Mentorship and Guidance
@@ -63,12 +53,7 @@ The book emphasizes the importance of recognizing and interpreting signs and ome
 
 The ability to spot opportunities often depends on one's mindset and willingness to trust in a higher purpose.
 
-```mermaid
-graph LR
-A[Sign] --> B(Intuition);
-B --> C[Interpretation];
-C --> D{Opportunity};
-```
+![Signs and Omens: Recognizing Opportunities. Sign; Intuition; Interpretation; Opportunity.](diagram-03.svg)
 
 
 ##  The Soul of the World: Connecting to Something Greater

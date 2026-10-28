@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="619pt" height="168pt" viewBox="0.00 0.00 618.50 168.00" role="img" aria-labelledby="title description">
+<title id="title">The Pillars of the FIRE Strategy</title><desc id="description">Aggressively Save &amp; Invest leads to Financial Independence. Invest Wisely leads to Financial Independence. Live Below Your Means leads to Financial Independence.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 600.5,-150 600.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159.58,-71.89C181.44,-62.34 205.35,-51.89 225.78,-42.95" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.85,-45.16 232.29,-40.11 224.89,-40.67 226.85,-45.16" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M276,-81.63C276,-71.32 276,-58.48 276,-47.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="278.45,-47.19 276,-40.19 273.55,-47.19 278.45,-47.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M426.83,-81.94C397.69,-70.17 360.21,-55.02 329.9,-42.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330.56,-40.4 323.16,-40.05 328.73,-44.95 330.56,-40.4" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M174,-132C174,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 174,-72 174,-72 180,-72 186,-78 186,-84 186,-84 186,-120 186,-120 186,-126 180,-132 174,-132" />
+<text text-anchor="middle" x="93" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aggressively Save &amp;</text>
+<text text-anchor="middle" x="93" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Invest</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M374.5,-40C374.5,-40 177.5,-40 177.5,-40 171.5,-40 165.5,-34 165.5,-28 165.5,-28 165.5,-12 165.5,-12 165.5,-6 171.5,0 177.5,0 177.5,0 374.5,0 374.5,0 380.5,0 386.5,-6 386.5,-12 386.5,-12 386.5,-28 386.5,-28 386.5,-34 380.5,-40 374.5,-40" />
+<text text-anchor="middle" x="276" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Independence</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M331.5,-122C331.5,-122 220.5,-122 220.5,-122 214.5,-122 208.5,-116 208.5,-110 208.5,-110 208.5,-94 208.5,-94 208.5,-88 214.5,-82 220.5,-82 220.5,-82 331.5,-82 331.5,-82 337.5,-82 343.5,-88 343.5,-94 343.5,-94 343.5,-110 343.5,-110 343.5,-116 337.5,-122 331.5,-122" />
+<text text-anchor="middle" x="276" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Invest Wisely</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M570.5,-122C570.5,-122 377.5,-122 377.5,-122 371.5,-122 365.5,-116 365.5,-110 365.5,-110 365.5,-94 365.5,-94 365.5,-88 371.5,-82 377.5,-82 377.5,-82 570.5,-82 570.5,-82 576.5,-82 582.5,-88 582.5,-94 582.5,-94 582.5,-110 582.5,-110 582.5,-116 576.5,-122 570.5,-122" />
+<text text-anchor="middle" x="474" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Live Below Your Means</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296pt" height="220pt" viewBox="0.00 0.00 295.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">The Nature of the Box:  A Self-Centered Worldview</title><desc id="description">Self-Centered Mindset leads to Poor Relationships. Poor Relationships leads to Reinforced Victimhood. Reinforced Victimhood leads to Self-Centered Mindset.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 277.5,-202 277.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M135.06,-143.87C127.81,-135.69 119.27,-126.05 111.58,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.4,-115.72 106.92,-112.1 109.73,-118.97 113.4,-115.72" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.94,-71.87C114.19,-63.69 122.73,-54.05 130.42,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.27,-46.97 135.08,-40.1 128.6,-43.72 132.27,-46.97" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.34,-40.03C179.03,-48.94 187,-60.18 191,-72 196.7,-88.84 196.7,-95.16 191,-112 187.81,-121.42 182.1,-130.47 176.02,-138.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.89,-137 171.34,-143.97 177.68,-140.12 173.89,-137" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244,-184C244,-184 60,-184 60,-184 54,-184 48,-178 48,-172 48,-172 48,-156 48,-156 48,-150 54,-144 60,-144 60,-144 244,-144 244,-144 250,-144 256,-150 256,-156 256,-156 256,-172 256,-172 256,-178 250,-184 244,-184" />
+<text text-anchor="middle" x="152" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Centered Mindset</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-112C168,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 168,-72 168,-72 174,-72 180,-78 180,-84 180,-84 180,-100 180,-100 180,-106 174,-112 168,-112" />
+<text text-anchor="middle" x="90" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Poor Relationships</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M247.5,-40C247.5,-40 56.5,-40 56.5,-40 50.5,-40 44.5,-34 44.5,-28 44.5,-28 44.5,-12 44.5,-12 44.5,-6 50.5,0 56.5,0 56.5,0 247.5,0 247.5,0 253.5,0 259.5,-6 259.5,-12 259.5,-12 259.5,-28 259.5,-28 259.5,-34 253.5,-40 247.5,-40" />
+<text text-anchor="middle" x="152" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reinforced Victimhood</text>
+</g>
+</g>
+</svg>

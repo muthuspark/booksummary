@@ -16,13 +16,7 @@ This section focuses on the first step of emotional intelligence: self-awareness
 
 Self-awareness allows you to tailor your communication style to different client personalities. Are you prone to impatience? Do you struggle with rejection? Understanding these tendencies helps you anticipate potential problems and proactively manage your responses.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Identify Strengths & Weaknesses);
-B --> C{Understand Triggers};
-C --> D[Adapt Communication Style];
-D --> E(Improved Client Interactions);
-```
+![Self-Awareness: Knowing Your Emotional Landscape. Self-Reflection; Identify Strengths & Weaknesses; Understand Triggers; Adapt Communication Style; Improved Client Interactions.](diagram-01.svg)
 
 # Self-Regulation: Managing Your Emotional Responses
 
@@ -37,13 +31,7 @@ This is where the true power of EQ in sales shines. Stanley explains how percept
 
 Active listening is emphasized as a critical skill.  It's not just hearing what the client says, but understanding the underlying emotions and unspoken needs.  This requires paying close attention to nonverbal cues and asking clarifying questions.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Observe Nonverbal Cues);
-B --> C{Ask Clarifying Questions};
-C --> D[Understand Client Needs];
-D --> E(Tailor Communication);
-```
+![Social Awareness: Understanding Your Client's Emotions. Active Listening; Observe Nonverbal Cues; Ask Clarifying Questions; Understand Client Needs; Tailor Communication.](diagram-02.svg)
 
 # Relationship Management: Building and Maintaining Trust
 
@@ -65,15 +53,7 @@ Effective communication is important in sales, and this section highlights the r
 
 For example, a decisive client may respond well to a direct and concise approach, while a more analytical client might require detailed information and logical reasoning.  By understanding these nuances, salespeople can build stronger relationships and increase their chances of closing deals.
 
-```mermaid
-graph LR
-A[Client Personality] --> B(Analytical);
-B --> C[Detailed Information & Logic];
-A --> D(Decisive);
-D --> E[Direct & Concise Communication];
-A --> F(Collaborative);
-F --> G[Two-way Dialogue & Shared Decision Making];
-```
+![Communication Mastery: Adapting to Different Personalities. Client Personality; Analytical; Detailed Information & Logic; Decisive; Direct & Concise Communication; Collaborative; Two-way Dialogue & Shared Decision Making.](diagram-03.svg)
 
 
 # Handling Objections with Emotional Intelligence

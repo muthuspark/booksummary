@@ -75,21 +75,7 @@ Hsieh’s commitment to social responsibility is evident throughout the book. He
 
 ###  A Visual Representation of Key Concepts
 
-```mermaid
-graph LR
-    A[Culture] --> B(Employee Happiness);
-    B --> C{Customer Satisfaction};
-    C --> D(Business Success);
-    A --> E(Open Communication);
-    A --> F(Empowerment);
-    A --> G(Team Building);
-    H[Personal Growth] --> I(Ikigai);
-    I --> J(Purpose);
-    J --> D;
-    K[Risk-Taking] --> D;
-    L[Continuous Learning] --> K;
-
-```
+![A Visual Representation of Key Concepts. Culture; Employee Happiness; Customer Satisfaction; Business Success; Open Communication; Empowerment; Team Building; Personal Growth; Ikigai; Purpose; Risk-Taking; Continuous Learning.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of culture, employee happiness, customer satisfaction, business success, personal growth, and risk-taking as key elements highlighted in "Delivering Happiness."
 

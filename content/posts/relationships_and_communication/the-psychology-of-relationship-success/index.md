@@ -20,12 +20,7 @@ The bedrock of any successful relationship is trust and commitment. This involve
 
 This level focuses on creating shared meaning and purpose in the relationship.  It’s about understanding each other's values, life goals, and aspirations.  Gottman suggests exploring and sharing personal histories, dreams, and beliefs to deepen intimacy and build a strong foundation of mutual understanding. This level involves aligning your vision for the future together.
 
-```mermaid
-graph LR
-    A[Shared Values] --> B(Shared Goals);
-    B --> C{Shared Meaning};
-    C --> D[Strong Foundation];
-```
+![Level 1: Share Meaning. Shared Values; Shared Goals; Shared Meaning; Strong Foundation.](diagram-01.svg)
 
 # Level 2: Manage Conflict
 
@@ -68,13 +63,7 @@ Gottman's research pinpoints four destructive communication patterns, the "Four 
 *   **Stonewalling:**  Withdrawing emotionally and refusing to communicate.
 
 
-```mermaid
-graph LR
-    A[Criticism] --> B(Contempt);
-    B --> C(Defensiveness);
-    C --> D(Stonewalling);
-    D --> E[Relationship Breakdown];
-```
+![The Antidotes to Divorce:  The Four Horsemen. Criticism; Contempt; Defensiveness; Stonewalling; Relationship Breakdown.](diagram-02.svg)
 
 Recognizing and actively working to avoid these behaviors is important for preventing relationship breakdown.
 
@@ -88,11 +77,7 @@ Throughout the book, Gottman emphasizes the significance of "turning towards" yo
 
 Bids for connection are small attempts to engage your partner in interaction, ranging from a simple question to a more significant request for emotional support.  These seemingly insignificant interactions are important for maintaining emotional closeness. Gottman’s research demonstrates that couples who frequently respond positively to each other's bids experience higher relationship satisfaction.
 
-```mermaid
-graph LR
-    A[Positive Bid] -- Responds Positively --> B(Increased Intimacy);
-    A -- Ignores/Rejects --> C(Emotional Distance);
-```
+![The Importance of Bids for Connection. Positive Bid; Increased Intimacy; Emotional Distance.](diagram-03.svg)
 
 #  Physiological Responses and Relationship Health
 

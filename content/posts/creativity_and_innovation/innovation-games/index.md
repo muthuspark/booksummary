@@ -42,13 +42,7 @@ Let's examine a few impactful games and illustrate their practical application:
 
 **2.  Speedboat:** This game helps identify obstacles and enablers for a project.  Participants write down factors that might hinder or help a project's success on sticky notes and group them accordingly. This visual representation allows the team to see the relative importance of different factors.  This promotes proactive problem-solving.
 
-```mermaid
-graph LR
-A[Project Goal] --> B(Obstacles);
-A --> C(Enablers);
-B --> D{Identify and Mitigate};
-C --> E{Leverage and Amplify};
-```
+![Examples of Key Games and Their Application. Project Goal; Obstacles; Enablers; Identify and Mitigate; Leverage and Amplify.](diagram-01.svg)
 
 **3.  10:10:10:** This prioritization game helps teams make difficult choices.  Each team member independently selects their top 10 ideas, then discusses and selects the top 10 ideas as a group, and finally narrows it down to the single best idea. This iterative process helps teams to build consensus and focus their energy.
 

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400pt" height="412pt" viewBox="0.00 0.00 400.00 412.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Inner Critic's Voice</title><desc id="description">Self-Observation leads to Identify Negative Thoughts. Identify Negative Thoughts leads to Challenge Negative Thoughts. Challenge Negative Thoughts leads to Develop Positive Self-Talk.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 394)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-394 382,-394 382,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-335.63C182,-328.34 182,-319.78 182,-311.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-311.19 182,-304.19 179.55,-311.19 184.45,-311.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-243.95C182,-236.47 182,-228.11 182,-219.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-219.37 182,-212.37 179.55,-219.37 184.45,-219.37" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-91.7C182,-83.47 182,-75.21 182,-67.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-67.13 182,-60.13 179.55,-67.13 184.45,-67.13" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251,-376C251,-376 113,-376 113,-376 107,-376 101,-370 101,-364 101,-364 101,-348 101,-348 101,-342 107,-336 113,-336 113,-336 251,-336 251,-336 257,-336 263,-342 263,-348 263,-348 263,-364 263,-364 263,-370 257,-376 251,-376" />
+<text text-anchor="middle" x="182" y="-351.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Observation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M253,-304C253,-304 111,-304 111,-304 105,-304 99,-298 99,-292 99,-292 99,-256 99,-256 99,-250 105,-244 111,-244 111,-244 253,-244 253,-244 259,-244 265,-250 265,-256 265,-256 265,-292 265,-292 265,-298 259,-304 253,-304" />
+<text text-anchor="middle" x="182" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Negative</text>
+<text text-anchor="middle" x="182" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thoughts</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="182,-212 0,-152 182,-92 364,-152 182,-212" />
+<text text-anchor="middle" x="182" y="-157.6" font-family="Georgia" font-size="18.00" fill="#243d36">Challenge Negative</text>
+<text text-anchor="middle" x="182" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thoughts</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M251,-60C251,-60 113,-60 113,-60 107,-60 101,-54 101,-48 101,-48 101,-12 101,-12 101,-6 107,0 113,0 113,0 251,0 251,0 257,0 263,-6 263,-12 263,-12 263,-48 263,-48 263,-54 257,-60 251,-60" />
+<text text-anchor="middle" x="182" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Positive</text>
+<text text-anchor="middle" x="182" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Talk</text>
+</g>
+</g>
+</svg>

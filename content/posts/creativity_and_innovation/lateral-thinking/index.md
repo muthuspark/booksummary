@@ -14,31 +14,14 @@ Edward de Bono's "Lateral Thinking" isn't about traditional, linear problem-solv
 
 Vertical thinking is systematic, logical, and sequential. It's essential for many tasks, but it's inherently limited when it comes to generating truly novel ideas. It's a powerful tool for exploring existing paths, but not for discovering new ones. De Bono argues that we often get stuck in vertical thinking, blindly pursuing a single line of reasoning, even when it's clearly unproductive. This "tunnel vision" prevents us from considering alternative solutions.
 
-```mermaid
-graph LR
-    A[Problem] --> B{Vertical Thinking};
-    B --> C[Existing Solution];
-    C --> D[Potential Solution];
-    D --> E[Implementation];
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-```
+![The Problem with Vertical Thinking. Problem; Vertical Thinking; Existing Solution; Potential Solution; Implementation.](diagram-01.svg)
 
 
 ## The Power of Lateral Thinking
 
 Lateral thinking, in contrast, involves exploring multiple possibilities simultaneously, making unexpected connections, and challenging assumptions. It's about generating various ideas, regardless of their initial plausibility. This isn't about being illogical; rather, it's about strategically employing illogical approaches to break through mental barriers and access novel solutions.  It's a deliberate process, not a random one.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Lateral Thinking);
-    B --> C{Idea 1};
-    B --> D{Idea 2};
-    B --> E{Idea 3};
-    C --> F[Potential Solution];
-    D --> F;
-    E --> F;
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Power of Lateral Thinking. Problem; Lateral Thinking; Idea 1; Idea 2; Idea 3; Potential Solution.](diagram-02.svg)
 
 ## Key Concepts and Techniques
 

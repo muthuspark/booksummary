@@ -24,18 +24,7 @@ Browne emphasizes the importance of rigorous fundamental analysis.  He advocates
 
 * **Cash Flow:**  Analyzing a company's cash flow – both operating and free cash flow – is important in assessing its financial health and sustainability.
 
-```mermaid
-graph LR
-    A["Price-to-Earnings (P/E)"] --> B(Undervaluation Signal);
-    C["Price-to-Book (P/B)"] --> B;
-    D[Debt-to-Equity] --> E(Financial Risk Assessment);
-    F["Return on Equity (ROE)"] --> G(Profitability & Efficiency);
-    H[Cash Flow] --> G;
-    B --> I(Intrinsic Value Estimation);
-    E --> I;
-    G --> I;
-    I --> J(Investment Decision);
-```
+![Identifying Undervalued Companies: The Key Metrics. Price-to-Earnings (P/E); Undervaluation Signal; Price-to-Book (P/B); Debt-to-Equity; Financial Risk Assessment; Return on Equity (ROE); Profitability & Efficiency; Cash Flow; Intrinsic Value Estimation; Investment Decision.](diagram-01.svg)
 
 ## Margin of Safety: Protecting Your Investment
 

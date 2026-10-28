@@ -14,13 +14,7 @@ Reid Hoffman's "The Alliance" isn't just about networking; it's about strategica
 
 Hoffman defines an alliance as a group of people who support each other’s ambitions and endeavors, sharing knowledge, resources, and emotional support.  It’s not a rigid structure; it's a dynamic network of relationships constantly evolving.  Understanding your own goals and ambitions is important to building a successful alliance.  This requires self-reflection and a clear articulation of your aspirations.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Goals & Ambitions);
-B --> C{Identify Key Players};
-C --> D[Building Relationships];
-D --> E((Successful Alliance))
-```
+![Defining Your "Alliance. Self-Reflection; Goals & Ambitions; Identify Key Players; Building Relationships; Successful Alliance.](diagram-01.svg)
 
 #  Identifying Your Key Players
 
@@ -57,14 +51,7 @@ The business environment is dynamic. The book advocates for continuous learning,
 
 While strong ties within your inner circle are crucial, Hoffman also recognizes the importance of "weak ties"—acquaintances and connections who may not be close friends but possess unique skills, knowledge, or access to opportunities that could be invaluable.
 
-```mermaid
-graph LR
-A[Strong Ties] --> B(Inner Circle);
-B --> C(Shared Goals & Support);
-C --> D((Effective Collaboration));
-D -- Weak Ties --> E[Access to New Opportunities];
-E --> F((Expanded Network))
-```
+![The Power of Weak Ties. Strong Ties; Inner Circle; Shared Goals & Support; Effective Collaboration; Access to New Opportunities; Expanded Network.](diagram-02.svg)
 
 #  Leveraging Technology for Network Building
 

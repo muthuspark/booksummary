@@ -23,12 +23,7 @@ The heart of NVC lies in its four key components, which, when practiced effectiv
 4. **Requests:** Making clear, concrete, and positive requests that are likely to be heard and acted upon.   Requests should be specific and actionable, avoiding demands or ultimatums.  This fosters collaboration and mutual understanding.
 
 
-```mermaid
-graph LR
-    A[Observations] --> B(Feelings);
-    B --> C(Needs);
-    C --> D[Requests];
-```
+![The Four Components of NVC. Observations; Feelings; Needs; Requests.](diagram-01.svg)
 
 ##  Differentiating Observations from Evaluations
 

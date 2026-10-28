@@ -88,23 +88,7 @@ The key takeaway is the importance of:
 
 The interconnectedness of the concepts explored in the book can be visualized using a diagram:
 
-```mermaid
-graph LR
-A[Cognitive Biases] --> B(Confirmation Bias);
-A --> C(Availability Heuristic);
-A --> D(Illusory Correlation);
-A --> E(Hindsight Bias);
-A --> F(Self-Serving Bias);
-B --> G(Critical Thinking);
-C --> G;
-D --> G;
-E --> H(Learning from Mistakes);
-F --> I(Self-Reflection);
-G --> J(Improved Decision-Making);
-H --> J;
-I --> J;
-J --> K(More Accurate Life);
-```
+![Visualizing Key Concepts: A diagram. Cognitive Biases; Confirmation Bias; Availability Heuristic; Illusory Correlation; Hindsight Bias; Self-Serving Bias; Critical Thinking; Learning from Mistakes; Self-Reflection; Improved Decision-Making; More Accurate Life.](diagram-01.svg)
 
 This diagram illustrates how various cognitive biases lead to inaccurate beliefs, but through critical thinking, self-reflection, and improved decision-making processes, we can strive for a more accurate understanding of the world and a more fulfilling life.  The book provides the tools and strategies necessary to navigate this complex interplay of biases and rational thought.
 

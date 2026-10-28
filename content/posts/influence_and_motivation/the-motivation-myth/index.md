@@ -20,12 +20,7 @@ Haden introduces practical strategies for building these systems.  One key conce
 
 Another powerful technique is the "2-minute rule."  The idea is to commit to working on a task for only two minutes. This low barrier to entry makes it much easier to start, and often, once started, inertia carries you further than the initial two-minute commitment.
 
-```mermaid
-graph LR
-A["Existing Habit (e.g., Brushing Teeth)"] --> B("New Habit e.g., Flossing");
-C[Task Seems Overwhelming] --> D{Commit to 2 minutes};
-D --> E[Often leads to completing more];
-```
+![The Power of Habit Stacking and the 2-Minute Rule. Existing Habit (e.g., Brushing Teeth); New Habit e.g., Flossing; Task Seems Overwhelming; Commit to 2 minutes; Often leads to completing more.](diagram-01.svg)
 
 ###  Self-Responsibility: The Cornerstone of High Performance
 
@@ -48,14 +43,7 @@ Haden provides a framework for identifying and eliminating time-wasting activiti
 
 The book also highlights the significance of building a supportive environment.  This involves surrounding yourself with people who encourage your growth, provide constructive feedback, and hold you accountable.  Conversely, it also means minimizing interactions with individuals who drain your energy or undermine your efforts.
 
-```mermaid
-graph LR
-A[Supportive Environment] --> B(Encouragement);
-A --> C(Constructive Feedback);
-A --> D(Accountability);
-E[Negative Environment] --> F(Energy Drain);
-E --> G(Undermining Behavior);
-```
+![Building a Supportive Environment. Supportive Environment; Encouragement; Constructive Feedback; Accountability; Negative Environment; Energy Drain; Undermining Behavior.](diagram-02.svg)
 
 
 ###  The Role of Purpose and Meaning

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="468pt" height="220pt" viewBox="0.00 0.00 467.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">Diversification: Don't Put All Your Eggs in One Basket</title><desc id="description">Portfolio leads to Stocks. Portfolio leads to Bonds. Portfolio leads to Real Estate. Stocks leads to Tech. Stocks leads to Healthcare. Stocks leads to Consumer Goods.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 449.5,-202 449.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223.13,-143.87C210.65,-135.31 195.82,-125.13 182.72,-116.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184,-114.05 176.84,-112.1 181.22,-118.09 184,-114.05" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M251,-143.87C251,-136.31 251,-127.49 251,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="253.45,-119.1 251,-112.1 248.55,-119.1 253.45,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M284.06,-143.87C299.14,-135.15 317.09,-124.77 332.84,-115.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="334.14,-117.73 338.98,-112.1 331.69,-113.49 334.14,-117.73" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M117.58,-71.87C103.38,-63.23 86.49,-52.95 71.62,-43.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="72.64,-41.65 65.39,-40.1 70.09,-45.84 72.64,-41.65" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149,-71.87C149,-64.31 149,-55.49 149,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.45,-47.1 149,-40.1 146.55,-47.1 151.45,-47.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M189.29,-73.7C210.92,-64.41 237.79,-52.87 260.87,-42.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.12,-45.09 267.59,-40.07 260.19,-40.58 262.12,-45.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M288.5,-184C288.5,-184 213.5,-184 213.5,-184 207.5,-184 201.5,-178 201.5,-172 201.5,-172 201.5,-156 201.5,-156 201.5,-150 207.5,-144 213.5,-144 213.5,-144 288.5,-144 288.5,-144 294.5,-144 300.5,-150 300.5,-156 300.5,-156 300.5,-172 300.5,-172 300.5,-178 294.5,-184 288.5,-184" />
+<text text-anchor="middle" x="251" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Portfolio</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177,-112C177,-112 121,-112 121,-112 115,-112 109,-106 109,-100 109,-100 109,-84 109,-84 109,-78 115,-72 121,-72 121,-72 177,-72 177,-72 183,-72 189,-78 189,-84 189,-84 189,-100 189,-100 189,-106 183,-112 177,-112" />
+<text text-anchor="middle" x="149" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stocks</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M278.5,-112C278.5,-112 223.5,-112 223.5,-112 217.5,-112 211.5,-106 211.5,-100 211.5,-100 211.5,-84 211.5,-84 211.5,-78 217.5,-72 223.5,-72 223.5,-72 278.5,-72 278.5,-72 284.5,-72 290.5,-78 290.5,-84 290.5,-84 290.5,-100 290.5,-100 290.5,-106 284.5,-112 278.5,-112" />
+<text text-anchor="middle" x="251" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bonds</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M419.5,-112C419.5,-112 324.5,-112 324.5,-112 318.5,-112 312.5,-106 312.5,-100 312.5,-100 312.5,-84 312.5,-84 312.5,-78 318.5,-72 324.5,-72 324.5,-72 419.5,-72 419.5,-72 425.5,-72 431.5,-78 431.5,-84 431.5,-84 431.5,-100 431.5,-100 431.5,-106 425.5,-112 419.5,-112" />
+<text text-anchor="middle" x="372" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Real Estate</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M56,-40C56,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 56,0 56,0 62,0 68,-6 68,-12 68,-12 68,-28 68,-28 68,-34 62,-40 56,-40" />
+<text text-anchor="middle" x="34" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tech</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M195.5,-40C195.5,-40 102.5,-40 102.5,-40 96.5,-40 90.5,-34 90.5,-28 90.5,-28 90.5,-12 90.5,-12 90.5,-6 96.5,0 102.5,0 102.5,0 195.5,0 195.5,0 201.5,0 207.5,-6 207.5,-12 207.5,-12 207.5,-28 207.5,-28 207.5,-34 201.5,-40 195.5,-40" />
+<text text-anchor="middle" x="149" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthcare</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M382.5,-40C382.5,-40 241.5,-40 241.5,-40 235.5,-40 229.5,-34 229.5,-28 229.5,-28 229.5,-12 229.5,-12 229.5,-6 235.5,0 241.5,0 241.5,0 382.5,0 382.5,0 388.5,0 394.5,-6 394.5,-12 394.5,-12 394.5,-28 394.5,-28 394.5,-34 388.5,-40 382.5,-40" />
+<text text-anchor="middle" x="312" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consumer Goods</text>
+</g>
+</g>
+</svg>

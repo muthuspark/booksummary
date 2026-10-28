@@ -22,17 +22,7 @@ The book encourages readers to identify projects that genuinely excite and chall
 
 Tackling ambitious projects requires a structured approach. Guillebeau advocates for breaking down large, daunting goals into smaller, manageable steps. This makes the overall project less overwhelming and provides a sense of accomplishment as each step is completed. This approach is for maintaining momentum and avoiding burnout.
 
-```mermaid
-graph LR
-    A[Large, Daunting Goal] --> B(Break Down into Smaller Steps);
-    B --> C{Step 1};
-    B --> D{Step 2};
-    B --> E{Step 3};
-    C --> F[Accomplishment];
-    D --> F;
-    E --> F;
-    F --> G[Momentum & Motivation];
-```
+![Breaking Down the Immense: Project Management. Large, Daunting Goal; Break Down into Smaller Steps; Step 1; Step 2; Step 3; Accomplishment; Momentum & Motivation.](diagram-01.svg)
 
 ## Embracing Failure as a Learning Opportunity
 

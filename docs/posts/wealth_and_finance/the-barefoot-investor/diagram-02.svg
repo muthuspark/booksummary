@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770pt" height="448pt" viewBox="0.00 0.00 770.00 448.00" role="img" aria-labelledby="title description">
+<title id="title">The Barefoot Budget</title><desc id="description">Income leads to Essential Expenses. Essential Expenses leads to Housing. Essential Expenses leads to Utilities. Essential Expenses leads to Food. Essential Expenses leads to Transportation. Income leads to Discretionary Expenses. Discretionary Expenses leads to Entertainment. Discretionary Expenses leads to Dining Out. Discretionary Expenses leads to Travel.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 430)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-430 752,-430 752,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.31,-189.02C133.23,-203.09 201.89,-225.07 255.63,-242.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.03,-244.65 262.44,-244.45 256.52,-239.98 255.03,-244.65" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.31,-165.65C126.24,-157.77 180.66,-146.15 229,-135.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.75,-138.18 236.08,-134.32 228.73,-133.39 229.75,-138.18" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M403.63,-293.39C462.94,-316.34 549.18,-349.71 604.56,-371.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="603.75,-373.44 611.16,-373.68 605.51,-368.87 603.75,-373.44" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M433.73,-286.52C490.22,-297.45 559.56,-310.86 606.16,-319.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="605.81,-322.3 613.15,-321.23 606.74,-317.49 605.81,-322.3" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M517.46,-268C555.11,-268 591.33,-268 617.64,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="617.79,-270.45 624.79,-268 617.79,-265.55 617.79,-270.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M433.73,-249.48C479.69,-240.59 534.15,-230.06 577.95,-221.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="578.48,-223.98 584.89,-220.24 577.55,-219.16 578.48,-223.98" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M479.51,-126.69C513.66,-129.99 548.97,-133.41 579.1,-136.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="579.05,-138.78 586.25,-137.01 579.52,-133.9 579.05,-138.78" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M479.51,-99.31C519.26,-95.47 560.58,-91.47 593.48,-88.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="594.07,-90.69 600.8,-87.58 593.6,-85.82 594.07,-90.69" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M421.79,-88.69C482.72,-71 562.93,-47.73 612.58,-33.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="613.34,-35.66 619.38,-31.35 611.97,-30.95 613.34,-35.66" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M77,-195C77,-195 12,-195 12,-195 6,-195 0,-189 0,-183 0,-183 0,-167 0,-167 0,-161 6,-155 12,-155 12,-155 77,-155 77,-155 83,-155 89,-161 89,-167 89,-167 89,-183 89,-183 89,-189 83,-195 77,-195" />
+<text text-anchor="middle" x="44.5" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Income</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="337,-308 157,-268 337,-228 517,-268 337,-308" />
+<text text-anchor="middle" x="337" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Essential Expenses</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M695.5,-412C695.5,-412 623.5,-412 623.5,-412 617.5,-412 611.5,-406 611.5,-400 611.5,-400 611.5,-384 611.5,-384 611.5,-378 617.5,-372 623.5,-372 623.5,-372 695.5,-372 695.5,-372 701.5,-372 707.5,-378 707.5,-384 707.5,-384 707.5,-400 707.5,-400 707.5,-406 701.5,-412 695.5,-412" />
+<text text-anchor="middle" x="659.5" y="-387.6" font-family="Georgia" font-size="18.00" fill="#243d36">Housing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M693.5,-350C693.5,-350 625.5,-350 625.5,-350 619.5,-350 613.5,-344 613.5,-338 613.5,-338 613.5,-322 613.5,-322 613.5,-316 619.5,-310 625.5,-310 625.5,-310 693.5,-310 693.5,-310 699.5,-310 705.5,-316 705.5,-322 705.5,-322 705.5,-338 705.5,-338 705.5,-344 699.5,-350 693.5,-350" />
+<text text-anchor="middle" x="659.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Utilities</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M682,-288C682,-288 637,-288 637,-288 631,-288 625,-282 625,-276 625,-276 625,-260 625,-260 625,-254 631,-248 637,-248 637,-248 682,-248 682,-248 688,-248 694,-254 694,-260 694,-260 694,-276 694,-276 694,-282 688,-288 682,-288" />
+<text text-anchor="middle" x="659.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Food</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M722,-226C722,-226 597,-226 597,-226 591,-226 585,-220 585,-214 585,-214 585,-198 585,-198 585,-192 591,-186 597,-186 597,-186 722,-186 722,-186 728,-186 734,-192 734,-198 734,-198 734,-214 734,-214 734,-220 728,-226 722,-226" />
+<text text-anchor="middle" x="659.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transportation</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="337,-153 121,-113 337,-73 553,-113 337,-153" />
+<text text-anchor="middle" x="337" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discretionary Expenses</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M720.5,-164C720.5,-164 598.5,-164 598.5,-164 592.5,-164 586.5,-158 586.5,-152 586.5,-152 586.5,-136 586.5,-136 586.5,-130 592.5,-124 598.5,-124 598.5,-124 720.5,-124 720.5,-124 726.5,-124 732.5,-130 732.5,-136 732.5,-136 732.5,-152 732.5,-152 732.5,-158 726.5,-164 720.5,-164" />
+<text text-anchor="middle" x="659.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Entertainment</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M706,-102C706,-102 613,-102 613,-102 607,-102 601,-96 601,-90 601,-90 601,-74 601,-74 601,-68 607,-62 613,-62 613,-62 706,-62 706,-62 712,-62 718,-68 718,-74 718,-74 718,-90 718,-90 718,-96 712,-102 706,-102" />
+<text text-anchor="middle" x="659.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dining Out</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M687.5,-40C687.5,-40 631.5,-40 631.5,-40 625.5,-40 619.5,-34 619.5,-28 619.5,-28 619.5,-12 619.5,-12 619.5,-6 625.5,0 631.5,0 631.5,0 687.5,0 687.5,0 693.5,0 699.5,-6 699.5,-12 699.5,-12 699.5,-28 699.5,-28 699.5,-34 693.5,-40 687.5,-40" />
+<text text-anchor="middle" x="659.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Travel</text>
+</g>
+</g>
+</svg>

@@ -21,13 +21,7 @@ The bedrock of any successful marriage is friendship. Gottman stresses the impor
 Conflict is unavoidable in any long-term relationship.  However, *how* couples manage conflict determines the success or failure of their marriage.  Gottman identifies many destructive patterns: criticism, contempt, defensiveness, and stonewalling (the "Four Horsemen").
 
 
-```mermaid
-graph LR
-    A[Criticism] --> B(Contempt);
-    A --> C(Defensiveness);
-    B --> D{Stonewalling};
-    C --> D;
-```
+![Managing Conflict: Navigating the Inevitable. Criticism; Contempt; Defensiveness; Stonewalling.](diagram-01.svg)
 
 **Actionable Insights:**
 

@@ -14,14 +14,7 @@ Lean Analytics provides a practical framework for applying Lean Startup principl
 
 The book starts by defining the "engine of growth," a visual representation of how your business acquires and retains customers. Understanding this engine is important for identifying the key metrics that matter most. Different businesses have different engines; there's no one-size-fits-all approach. Analyzing your engine of growth allows you to focus on the right levers to pull for optimization.
 
-```mermaid
-graph LR
-    A[Acquisition] --> B(Activation);
-    B --> C{Retention};
-    C --> D[Revenue];
-    D --> E(Referral);
-    E --> A;
-```
+![Understanding Your Engine of Growth. Acquisition; Activation; Retention; Revenue; Referral.](diagram-01.svg)
 
 This simple diagram represents a common engine of growth.  Analyzing each stage reveals critical areas for improvement.  For instance, low activation rates might signal problems with your onboarding process, while poor retention indicates issues with product-market fit or customer service.
 

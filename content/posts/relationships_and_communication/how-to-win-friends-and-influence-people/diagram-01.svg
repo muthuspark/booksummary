@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="602pt" height="178pt" viewBox="0.00 0.00 602.00 178.00" role="img" aria-labelledby="title description">
+<title id="title">Don't Criticize, Condemn, or Complain</title><desc id="description">Criticism/Condemnation/Complaint leads to Defensiveness &amp; Resentment. Understanding &amp; Empathy leads to Collaboration &amp; Mutual Respect.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 160)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-160 584,-160 584,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.07,-30C336.37,-30 354.48,-30 371.27,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="371.39,-32.45 378.39,-30 371.39,-27.55 371.39,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M241.55,-112C272.73,-112 308.9,-112 342.59,-112" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="342.73,-114.45 349.73,-112 342.73,-109.55 342.73,-114.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M306,-50C306,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 306,-10 306,-10 312,-10 318,-16 318,-22 318,-22 318,-38 318,-38 318,-44 312,-50 306,-50" />
+<text text-anchor="middle" x="159" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criticism/Condemnation/Complaint</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M525.5,-60C525.5,-60 390.5,-60 390.5,-60 384.5,-60 378.5,-54 378.5,-48 378.5,-48 378.5,-12 378.5,-12 378.5,-6 384.5,0 390.5,0 390.5,0 525.5,0 525.5,0 531.5,0 537.5,-6 537.5,-12 537.5,-12 537.5,-48 537.5,-48 537.5,-54 531.5,-60 525.5,-60" />
+<text text-anchor="middle" x="458" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defensiveness &amp;</text>
+<text text-anchor="middle" x="458" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resentment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229.5,-142C229.5,-142 88.5,-142 88.5,-142 82.5,-142 76.5,-136 76.5,-130 76.5,-130 76.5,-94 76.5,-94 76.5,-88 82.5,-82 88.5,-82 88.5,-82 229.5,-82 229.5,-82 235.5,-82 241.5,-88 241.5,-94 241.5,-94 241.5,-130 241.5,-130 241.5,-136 235.5,-142 229.5,-142" />
+<text text-anchor="middle" x="159" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding &amp;</text>
+<text text-anchor="middle" x="159" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M554,-142C554,-142 362,-142 362,-142 356,-142 350,-136 350,-130 350,-130 350,-94 350,-94 350,-88 356,-82 362,-82 362,-82 554,-82 554,-82 560,-82 566,-88 566,-94 566,-94 566,-130 566,-130 566,-136 560,-142 554,-142" />
+<text text-anchor="middle" x="458" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration &amp; Mutual</text>
+<text text-anchor="middle" x="458" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Respect</text>
+</g>
+</g>
+</svg>

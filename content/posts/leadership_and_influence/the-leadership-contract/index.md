@@ -21,12 +21,7 @@ This self-assessment forms the foundation upon which the 'contract' is built.  W
 
 Molinaro doesn't prescribe a one-size-fits-all leadership style. Instead, he encourages readers to identify their natural inclinations and develop a style that aligns with their personality and values. He emphasizes the importance of adaptability, recognizing that different situations call for different leadership approaches.  The book provides frameworks for understanding various leadership styles, helping readers identify their dominant style and consider how to expand their repertoire.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Leadership Style);
-    B --> C{Adaptability};
-    C --> D[Effective Leadership];
-```
+![Defining Your Leadership Style. Self-Awareness; Leadership Style; Adaptability; Effective Leadership.](diagram-01.svg)
 
 
 #  Negotiating the Contract: Expectations and Boundaries
@@ -41,16 +36,7 @@ The book extensively covers building and leading high-performing teams. Molinaro
 
 Building a high-performing team requires understanding individual team members' strengths and weaknesses, and assigning tasks accordingly.  Open communication channels are vital, promoting transparency and trust.
 
-```mermaid
-graph LR
-    A[Shared Vision] --> B(Trust & Collaboration);
-    B --> C[Empowerment];
-    C --> D[High-Performing Team];
-    D --> E(Effective Delegation);
-    E --> F(Constructive Feedback);
-    F --> G(Conflict Management);
-
-```
+![Building High-Performing Teams. Shared Vision; Trust & Collaboration; Empowerment; High-Performing Team; Effective Delegation; Constructive Feedback; Conflict Management.](diagram-02.svg)
 
 # Accountability and Continuous Improvement
 

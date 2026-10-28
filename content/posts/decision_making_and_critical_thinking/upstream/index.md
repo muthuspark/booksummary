@@ -19,17 +19,7 @@ The book argues that we often expend vast resources on treating problems' sympto
 
 One of the key strategies offered is the "5 Whys" technique, a simple yet powerful tool for digging deeper into the reasons behind a problem.  By repeatedly asking "Why?" after each answer, you progressively uncover the underlying root causes.  This iterative questioning helps move beyond superficial explanations to identify the true source of the problem.
 
-```mermaid
-graph TD
-    A[Problem: High Employee Turnover] --> B{Why?};
-    B --> C[Answer: Low employee satisfaction];
-    C --> D{Why?};
-    D --> E[Answer: Lack of recognition];
-    E --> F{Why?};
-    F --> G[Answer: Poor management communication];
-    G --> H{Why?};
-    H --> I[Answer: Lack of training for managers];
-```
+![Identifying the Root Causes:  The "5 Whys" Technique. Problem: High Employee Turnover; Why?; Answer: Low employee satisfaction; Why?; Answer: Lack of recognition; Why?; Answer: Poor management communication; Why?; Answer: Lack of training for managers.](diagram-01.svg)
 
 This diagram illustrates a "5 Whys" analysis for high employee turnover.  By consistently probing deeper, the root cause—inadequate manager training—is revealed. This allows for targeted interventions focused on effective training programs, rather than simply trying to increase salaries or offer other perks to address dissatisfaction.
 

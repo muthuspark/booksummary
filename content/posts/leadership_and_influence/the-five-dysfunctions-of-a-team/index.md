@@ -62,24 +62,7 @@ The culmination of the previous four dysfunctions is a lack of focus on results.
 
 The five dysfunctions are interconnected and hierarchical, forming a pyramid:
 
-```mermaid
-graph LR
-    subgraph "Inattention to Results"
-        A[Results]
-    end
-    subgraph "Avoidance of Accountability"
-        B[Accountability] --> A
-    end
-    subgraph "Lack of Commitment"
-        C[Commitment] --> B
-    end
-    subgraph "Fear of Conflict"
-        D[Conflict] --> C
-    end
-    subgraph "Absence of Trust"
-        E[Trust] --> D
-    end
-```
+![The Pyramid Model: A Visual Representation. Results; Accountability; Commitment; Conflict; Trust.](diagram-01.svg)
 
 Addressing the dysfunctions requires starting from the bottom of the pyramid – building trust – and working your way up.  Each level is dependent on the successful resolution of the level below it.
 

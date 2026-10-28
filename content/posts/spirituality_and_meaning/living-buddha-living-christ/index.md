@@ -15,15 +15,7 @@ Thich Nhat Hanh's "Living Buddha, Living Christ" isn't a comparative religious t
 
 Mindfulness is not merely a technique; it's the very essence of living fully.  Hanh emphasizes the importance of being present in each moment, aware of our thoughts, feelings, and sensations without judgment. This is achieved through practices like mindful breathing, mindful walking, and mindful eating.  By focusing on the present, we detach from the anxieties of the past and the uncertainties of the future, finding peace in the here and now.
 
-```mermaid
-graph LR
-A[Present Moment] --> B(Mindful Breathing);
-A --> C(Mindful Walking);
-A --> D(Mindful Eating);
-B --> E[Peace & Calm];
-C --> E;
-D --> E;
-```
+![Cultivating Mindfulness: The Practice of Presence. Present Moment; Mindful Breathing; Mindful Walking; Mindful Eating; Peace & Calm.](diagram-01.svg)
 
 This isn't about escaping reality; it's about engaging with it fully and consciously.
 
@@ -32,12 +24,7 @@ This isn't about escaping reality; it's about engaging with it fully and conscio
 
 Compassion, according to Hanh, isn't simply feeling sorry for others; it's actively working to alleviate suffering.  It begins with recognizing the interconnectedness of all beings – the understanding that our suffering is intertwined with the suffering of others, and our happiness is intertwined with their happiness. This understanding fosters empathy and motivates us to act with kindness and understanding.
 
-```mermaid
-graph LR
-A[Interconnectedness] --> B(Empathy);
-B --> C(Compassionate Action);
-C --> D[Alleviating Suffering];
-```
+![Compassion: The Heart of Spiritual Practice. Interconnectedness; Empathy; Compassionate Action; Alleviating Suffering.](diagram-02.svg)
 
 Hanh encourages acts of loving-kindness, both big and small, from offering a helping hand to promoting social justice.
 
@@ -46,13 +33,7 @@ Hanh encourages acts of loving-kindness, both big and small, from offering a hel
 
 Suffering is an inevitable part of life, but Hanh emphasizes that it doesn't have to define us. Through mindfulness and compassion, we can transform suffering into opportunities for growth and understanding.  By acknowledging our pain without clinging to it, we can begin to heal and move forward.  He advocates for understanding the roots of suffering, often linked to attachment, aversion, and ignorance.
 
-```mermaid
-graph LR
-A[Suffering] --> B(Mindfulness);
-B --> C(Understanding);
-C --> D(Transformation);
-D --> E[Growth & Healing];
-```
+![Transforming Suffering:  From Victim to Agent of Change. Suffering; Mindfulness; Understanding; Transformation; Growth & Healing.](diagram-03.svg)
 
 This transformation isn't about suppressing emotions; it's about understanding them and using that understanding to gain wisdom and compassion.
 
@@ -61,13 +42,7 @@ This transformation isn't about suppressing emotions; it's about understanding t
 
 Hanh emphasizes the importance of accepting difficult emotions, rather than resisting or suppressing them.  Resistance only intensifies suffering. Through mindful observation, we can learn from our emotions, understanding their origins and their impact on our lives.  This doesn't mean passively accepting negativity; it means acknowledging it without judgment and finding skillful ways to navigate it.  
 
-```mermaid
-graph LR
-A[Difficult Emotions] --> B(Mindful Observation);
-B --> C(Understanding Origins);
-C --> D(Skillful Navigation);
-D --> E[Emotional Healing];
-```
+![Engaging with Difficult Emotions:  The Power of Acceptance. Difficult Emotions; Mindful Observation; Understanding Origins; Skillful Navigation; Emotional Healing.](diagram-04.svg)
 
 This involves using practices like deep breathing and self-compassion to soothe and regulate our emotional responses.
 
@@ -77,13 +52,7 @@ This involves using practices like deep breathing and self-compassion to soothe 
 Forgiveness is not condoning harmful actions; it's about releasing the anger, resentment, and pain that bind us to the past.  It's an act of self-liberation, freeing ourselves from the burden of negativity.  Hanh emphasizes the importance of both self-forgiveness and forgiving others, recognizing that we all make mistakes.
 
 
-```mermaid
-graph LR
-A[Holding onto Anger] --> B(Suffering);
-B --> C(Forgiveness);
-C --> D(Self-Liberation);
-D --> E[Peace & Freedom];
-```
+![Forgiveness:  Liberating Ourselves and Others. Holding onto Anger; Suffering; Forgiveness; Self-Liberation; Peace & Freedom.](diagram-05.svg)
 
 This process takes time and effort, but the reward is a sense of peace and freedom.
 
@@ -92,13 +61,7 @@ This process takes time and effort, but the reward is a sense of peace and freed
 
 Hanh challenges the common notion of love as a passive emotion. He views love as an active engagement with the world, marked by compassion, understanding, and action. This means actively working to alleviate suffering, peace, and build a more just and equitable world. This "engaged Buddhism" isn't about retreating from the world; it’s about wholeheartedly participating in it with mindfulness and compassion.
 
-```mermaid
-graph LR
-A[Love] --> B(Compassion);
-B --> C(Understanding);
-C --> D(Action);
-D --> E[Building a Better World];
-```
+![Love as Action:  Engaging with the World. Love; Compassion; Understanding; Action; Building a Better World.](diagram-06.svg)
 
 This involves engaging in social justice initiatives, promoting peace, and practicing loving-kindness in everyday interactions.
 
@@ -108,13 +71,7 @@ This involves engaging in social justice initiatives, promoting peace, and pract
 Effective communication is essential for building positive relationships and creating a harmonious society.  Hanh advocates for "right speech," which includes speaking truthfully, kindly, and compassionately.  He emphasizes the importance of listening deeply to others, understanding their perspectives, and responding with empathy and understanding.
 
 
-```mermaid
-graph LR
-A[Right Speech] --> B(Truthfulness);
-B --> C(Kindness);
-C --> D(Compassion);
-D --> E[Harmonious Communication];
-```
+![Right Speech and Communication: The Path to Understanding. Right Speech; Truthfulness; Kindness; Compassion; Harmonious Communication.](diagram-07.svg)
 
 Avoiding gossip, criticism, and hurtful language are key aspects of right speech, fostering better understanding and connection.
 
@@ -124,13 +81,7 @@ Avoiding gossip, criticism, and hurtful language are key aspects of right speech
 Hanh doesn't simply present philosophical ideas; he emphasizes the importance of embodying these teachings in daily life. This means integrating mindfulness, compassion, and loving-kindness into every aspect of our existence. It's a continuous process of learning, growing, and refining our practice.  He offers practical exercises and guidance to help readers incorporate these principles into their everyday routines.
 
 
-```mermaid
-graph LR
-A[Daily Life] --> B(Mindfulness);
-B --> C(Compassion);
-C --> D(Loving-Kindness);
-D --> E[Embodied Wisdom];
-```
+![Practicing the Teachings: Embodiment of Wisdom. Daily Life; Mindfulness; Compassion; Loving-Kindness; Embodied Wisdom.](diagram-08.svg)
 
 The key is to view our daily activities – eating, working, interacting with others – as opportunities for spiritual practice.
 

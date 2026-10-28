@@ -21,13 +21,7 @@ Piaget emphasized the role of *schemas*, mental frameworks we use to organize an
 *   **Assimilation:** Incorporating new information into existing schemas.
 *   **Accommodation:** Modifying existing schemas or creating new ones to accommodate new information that doesn't fit existing frameworks.
 
-```mermaid
-graph LR
-    A[New Information] --> B(Assimilation);
-    B --> C[Existing Schema];
-    A --> D(Accommodation);
-    D --> E[New or Modified Schema];
-```
+![Schema Development and Adaptation: Learning Through Experience. New Information; Assimilation; Existing Schema; Accommodation; New or Modified Schema.](diagram-01.svg)
 
 **Actionable Insight:** To improve learning and to meet new situations, actively seek various experiences. Challenge your existing beliefs and assumptions. When faced with contradictory information, don't dismiss it; instead, analyze how it might require you to adjust your understanding.
 

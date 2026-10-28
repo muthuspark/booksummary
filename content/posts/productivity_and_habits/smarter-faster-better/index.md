@@ -17,14 +17,7 @@ The book emphasizes the role of motivation in achieving goals. Duhigg highlights
 
 A key concept is the "goal gradient," which explains how our motivation increases as we get closer to achieving a goal.  This effect can be leveraged by breaking down large goals into smaller, more manageable steps.  Each completed step provides a sense of accomplishment, fueling further motivation.
 
-```mermaid
-graph LR
-    A[Large Goal] --> B{Break into smaller goals};
-    B --> C[Increased Motivation];
-    C --> D[Completed Steps];
-    D --> E[Sense of Accomplishment];
-    E --> F[Continued Progress];
-```
+![The Power of Motivation: Goal Setting and Focus. Large Goal; Break into smaller goals; Increased Motivation; Completed Steps; Sense of Accomplishment; Continued Progress.](diagram-01.svg)
 
 
 ### The Importance of  Willpower:  Managing Attention and Resisting Temptation
@@ -47,14 +40,7 @@ The book also delves into the dynamics of teamwork and collaboration.  Duhigg em
 Effective teams, according to Duhigg, rely on clear roles, open communication channels, a sense of shared purpose, and psychological safety.  This allows team members to take risks, express concerns, and contribute fully without fear of negative consequences.
 
 
-```mermaid
-graph LR
-    A[Shared Goals] --> B(Trust);
-    A --> C(Open Communication);
-    B --> D{High-Performing Team};
-    C --> D;
-    D --> E[Increased Productivity];
-```
+![The Power of Teams: Collaboration and Shared Goals. Shared Goals; Trust; Open Communication; High-Performing Team; Increased Productivity.](diagram-02.svg)
 
 
 ### The Science of Habits:  Building Positive Routines

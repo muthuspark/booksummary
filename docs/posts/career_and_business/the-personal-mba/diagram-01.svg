@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316pt" height="404pt" viewBox="0.00 0.00 315.50 404.00" role="img" aria-labelledby="title description">
+<title id="title">Systemizing Your Learning: The Learning Process</title><desc id="description">Identify Goals leads to Break Down Goals. Break Down Goals leads to Learn Skills. Learn Skills leads to Practice &amp; Feedback. Practice &amp; Feedback leads to Refine &amp; Repeat. Refine &amp; Repeat leads to Identify Goals.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 297.5,-386 297.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M183.33,-327.87C176.34,-319.85 168.11,-310.41 160.66,-301.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.09,-299.77 155.65,-296.1 158.4,-302.99 162.09,-299.77" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M135.39,-255.91C133.89,-247.94 132.07,-238.32 130.27,-228.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.67,-228.29 128.96,-221.87 127.86,-229.2 132.67,-228.29" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.4,-145.61C128.66,-136.89 129.98,-127.77 131.16,-119.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.61,-119.73 132.19,-112.45 128.77,-119.03 133.61,-119.73" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152.76,-71.87C160.36,-63.69 169.31,-54.05 177.38,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="179.29,-46.9 182.26,-40.1 175.7,-43.57 179.29,-46.9" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M219.24,-40.3C227.13,-49.25 235.64,-60.46 241,-72 269.56,-133.54 262.85,-156.61 255,-224 251.2,-256.66 251.89,-266.2 238,-296 233.76,-305.09 227.75,-314.15 221.75,-322.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.59,-320.84 217.2,-327.86 223.45,-323.87 219.59,-320.84" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-368C258,-368 142,-368 142,-368 136,-368 130,-362 130,-356 130,-356 130,-340 130,-340 130,-334 136,-328 142,-328 142,-328 258,-328 258,-328 264,-328 270,-334 270,-340 270,-340 270,-356 270,-356 270,-362 264,-368 258,-368" />
+<text text-anchor="middle" x="200" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M215,-296C215,-296 63,-296 63,-296 57,-296 51,-290 51,-284 51,-284 51,-268 51,-268 51,-262 57,-256 63,-256 63,-256 215,-256 215,-256 221,-256 227,-262 227,-268 227,-268 227,-284 227,-284 227,-290 221,-296 215,-296" />
+<text text-anchor="middle" x="139" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Break Down Goals</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="122,-224 0,-184 122,-144 244,-184 122,-224" />
+<text text-anchor="middle" x="122" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learn Skills</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218.5,-112C218.5,-112 51.5,-112 51.5,-112 45.5,-112 39.5,-106 39.5,-100 39.5,-100 39.5,-84 39.5,-84 39.5,-78 45.5,-72 51.5,-72 51.5,-72 218.5,-72 218.5,-72 224.5,-72 230.5,-78 230.5,-84 230.5,-84 230.5,-100 230.5,-100 230.5,-106 224.5,-112 218.5,-112" />
+<text text-anchor="middle" x="135" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Practice &amp; Feedback</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M267.5,-40C267.5,-40 132.5,-40 132.5,-40 126.5,-40 120.5,-34 120.5,-28 120.5,-28 120.5,-12 120.5,-12 120.5,-6 126.5,0 132.5,0 132.5,0 267.5,0 267.5,0 273.5,0 279.5,-6 279.5,-12 279.5,-12 279.5,-28 279.5,-28 279.5,-34 273.5,-40 267.5,-40" />
+<text text-anchor="middle" x="200" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refine &amp; Repeat</text>
+</g>
+</g>
+</svg>

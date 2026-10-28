@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="426pt" height="298pt" viewBox="0.00 0.00 426.00 298.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Muscle Testing</title><desc id="description">Thought/Emotion leads to Muscle Test. Muscle Test leads to Trapped Emotion Detected (Weak Response). Muscle Test leads to No Trapped Emotion (Strong Response).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 280)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-280 408,-280 408,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M188,-221.7C188,-214.21 188,-205.28 188,-196.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.45,-196.13 188,-189.13 185.55,-196.13 190.45,-196.13" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.21,-117.57C147.18,-101.63 129.94,-82.05 115.41,-65.54" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.06,-63.71 110.59,-60.07 113.38,-66.95 117.06,-63.71" />
+<text text-anchor="middle" x="190.5" y="-81" font-family="Georgia" font-size="15.00" fill="#405b50">Weak Response</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.32,-119.69C231.42,-111.49 240.95,-102.25 249,-93 258.87,-81.66 268.39,-67.92 275.86,-56.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="278.13,-57.26 279.79,-50.03 273.99,-54.64 278.13,-57.26" />
+<text text-anchor="middle" x="317.5" y="-81" font-family="Georgia" font-size="15.00" fill="#405b50">Strong Response</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262.5,-262C262.5,-262 113.5,-262 113.5,-262 107.5,-262 101.5,-256 101.5,-250 101.5,-250 101.5,-234 101.5,-234 101.5,-228 107.5,-222 113.5,-222 113.5,-222 262.5,-222 262.5,-222 268.5,-222 274.5,-228 274.5,-234 274.5,-234 274.5,-250 274.5,-250 274.5,-256 268.5,-262 262.5,-262" />
+<text text-anchor="middle" x="188" y="-237.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thought/Emotion</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="188,-189 64,-149 188,-109 312,-149 188,-189" />
+<text text-anchor="middle" x="188" y="-144.6" font-family="Georgia" font-size="18.00" fill="#243d36">Muscle Test</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M158,-60C158,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 158,0 158,0 164,0 170,-6 170,-12 170,-12 170,-48 170,-48 170,-54 164,-60 158,-60" />
+<text text-anchor="middle" x="85" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trapped Emotion</text>
+<text text-anchor="middle" x="85" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Detected</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M378,-50C378,-50 204,-50 204,-50 198,-50 192,-44 192,-38 192,-38 192,-22 192,-22 192,-16 198,-10 204,-10 204,-10 378,-10 378,-10 384,-10 390,-16 390,-22 390,-22 390,-38 390,-38 390,-44 384,-50 378,-50" />
+<text text-anchor="middle" x="291" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">No Trapped Emotion</text>
+</g>
+</g>
+</svg>

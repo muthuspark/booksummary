@@ -15,13 +15,7 @@ Brian Tracy's "Eat That Frog!" is a self-help book focused on productivity and t
 
 The book emphasizes the critical importance of prioritizing tasks effectively.  Tracy argues that the majority of our results stem from a relatively small percentage of our efforts.  Identifying and focusing on those high-impact tasks is important for maximizing productivity. He encourages readers to analyze their tasks using various methods, including Pareto's Principle (80/20 rule), to distinguish between important and urgent tasks.
 
-```mermaid
-graph LR
-    A[Tasks] --> B(Important & Urgent);
-    A --> C(Important & Not Urgent);
-    A --> D(Urgent & Not Important);
-    A --> E(Not Important & Not Urgent);
-```
+![The Power of Prioritization. Tasks; Important & Urgent; Important & Not Urgent; Urgent & Not Important; Not Important & Not Urgent.](diagram-01.svg)
 
 This diagram illustrates the Eisenhower Matrix, a key tool discussed in the book for task prioritization.  Understanding where your tasks fall within this matrix allows for more strategic time management.
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="579pt" height="218pt" viewBox="0.00 0.00 579.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Multipliers and Diminishers</title><desc id="description">Leader leads to Multiplier. Leader leads to Diminisher. Multiplier leads to Team Thrives. Diminisher leads to Team Suffers.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 561,-200 561,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84.25,-103.86C93.55,-106.76 103.61,-109.9 113.53,-112.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.96,-115.38 120.37,-115.12 114.41,-110.7 112.96,-115.38" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84.25,-81.28C92.01,-79.45 100.31,-77.49 108.62,-75.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="109.33,-77.88 115.58,-73.89 108.2,-73.11 109.33,-77.88" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M230.7,-134.38C245.08,-135.01 261.22,-135.72 277.72,-136.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="277.7,-138.9 284.8,-136.76 277.92,-134.01 277.7,-138.9" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M235.09,-54.85C253.11,-53.27 273.56,-51.47 293.86,-49.68" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="294.27,-52.11 301.03,-49.05 293.84,-47.22 294.27,-52.11" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M72,-111C72,-111 12,-111 12,-111 6,-111 0,-105 0,-99 0,-99 0,-83 0,-83 0,-77 6,-71 12,-71 12,-71 72,-71 72,-71 78,-71 84,-77 84,-83 84,-83 84,-99 84,-99 84,-105 78,-111 72,-111" />
+<text text-anchor="middle" x="42" y="-86.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leader</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218.5,-152C218.5,-152 132.5,-152 132.5,-152 126.5,-152 120.5,-146 120.5,-140 120.5,-140 120.5,-124 120.5,-124 120.5,-118 126.5,-112 132.5,-112 132.5,-112 218.5,-112 218.5,-112 224.5,-112 230.5,-118 230.5,-124 230.5,-124 230.5,-140 230.5,-140 230.5,-146 224.5,-152 218.5,-152" />
+<text text-anchor="middle" x="175.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Multiplier</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M223,-80C223,-80 128,-80 128,-80 122,-80 116,-74 116,-68 116,-68 116,-52 116,-52 116,-46 122,-40 128,-40 128,-40 223,-40 223,-40 229,-40 235,-46 235,-52 235,-52 235,-68 235,-68 235,-74 229,-80 223,-80" />
+<text text-anchor="middle" x="175.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diminisher</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="405,-182 267,-142 405,-102 543,-142 405,-182" />
+<text text-anchor="middle" x="405" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Team Thrives</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="405,-80 271,-40 405,0 539,-40 405,-80" />
+<text text-anchor="middle" x="405" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Team Suffers</text>
+</g>
+</g>
+</svg>

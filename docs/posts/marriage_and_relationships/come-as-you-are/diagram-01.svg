@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="551pt" height="260pt" viewBox="0.00 0.00 551.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Biology of Pleasure: Beyond the Clitoris</title><desc id="description">Clitoris leads to Arousal. Arousal leads to Orgasm. Brain leads to Arousal. Hormones leads to Arousal. Neurotransmitters leads to Arousal.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 533,-242 533,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86.03,-184.06C106.45,-175.07 130.97,-164.27 152.19,-154.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="153.24,-157.14 158.66,-152.08 151.27,-152.66 153.24,-157.14" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M202,-111.91C202,-104.58 202,-95.86 202,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.45,-87.07 202,-80.07 199.55,-87.07 204.45,-87.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.58,-183.87C167.11,-175.85 174.8,-166.41 181.76,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183.92,-159.08 186.44,-152.1 180.12,-155.99 183.92,-159.08" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M244.15,-183.87C237.5,-175.85 229.68,-166.41 222.6,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.18,-155.93 217.83,-152.1 220.41,-159.06 224.18,-155.93" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M365.81,-183.96C330.83,-173.08 287.41,-159.57 254.07,-149.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.52,-146.77 247.11,-147.03 253.07,-151.45 254.52,-146.77" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M74,-224C74,-224 12,-224 12,-224 6,-224 0,-218 0,-212 0,-212 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 74,-184 74,-184 80,-184 86,-190 86,-196 86,-196 86,-212 86,-212 86,-218 80,-224 74,-224" />
+<text text-anchor="middle" x="43" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clitoris</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M235,-152C235,-152 169,-152 169,-152 163,-152 157,-146 157,-140 157,-140 157,-124 157,-124 157,-118 163,-112 169,-112 169,-112 235,-112 235,-112 241,-112 247,-118 247,-124 247,-124 247,-140 247,-140 247,-146 241,-152 235,-152" />
+<text text-anchor="middle" x="202" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Arousal</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="202,-80 111,-40 202,0 293,-40 202,-80" />
+<text text-anchor="middle" x="202" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Orgasm</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-224C169.5,-224 120.5,-224 120.5,-224 114.5,-224 108.5,-218 108.5,-212 108.5,-212 108.5,-196 108.5,-196 108.5,-190 114.5,-184 120.5,-184 120.5,-184 169.5,-184 169.5,-184 175.5,-184 181.5,-190 181.5,-196 181.5,-196 181.5,-212 181.5,-212 181.5,-218 175.5,-224 169.5,-224" />
+<text text-anchor="middle" x="145" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M304.5,-224C304.5,-224 215.5,-224 215.5,-224 209.5,-224 203.5,-218 203.5,-212 203.5,-212 203.5,-196 203.5,-196 203.5,-190 209.5,-184 215.5,-184 215.5,-184 304.5,-184 304.5,-184 310.5,-184 316.5,-190 316.5,-196 316.5,-196 316.5,-212 316.5,-212 316.5,-218 310.5,-224 304.5,-224" />
+<text text-anchor="middle" x="260" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hormones</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M503,-224C503,-224 351,-224 351,-224 345,-224 339,-218 339,-212 339,-212 339,-196 339,-196 339,-190 345,-184 351,-184 351,-184 503,-184 503,-184 509,-184 515,-190 515,-196 515,-196 515,-212 515,-212 515,-218 509,-224 503,-224" />
+<text text-anchor="middle" x="427" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Neurotransmitters</text>
+</g>
+</g>
+</svg>

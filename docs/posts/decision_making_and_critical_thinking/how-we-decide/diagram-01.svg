@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422pt" height="452pt" viewBox="0.00 0.00 422.00 452.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing the Decision-Making Process</title><desc id="description">Amygdala (Emotion) leads to Gut Feeling/Intuition. Gut Feeling/Intuition leads to Prefrontal Cortex (Reason). Prefrontal Cortex (Reason) leads to Decision. Amygdala (Emotion) leads to Prefrontal Cortex (Reason). Decision-Making Process: Amygdala (Emotion), Gut Feeling/Intuition, Prefrontal Cortex (Reason), Decision.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 434)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-434 404,-434 404,18 -18,18" />
+<g id="clust1" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M20,-8C20,-8 366,-8 366,-8 372,-8 378,-14 378,-20 378,-20 378,-396 378,-396 378,-402 372,-408 366,-408 366,-408 20,-408 20,-408 14,-408 8,-402 8,-396 8,-396 8,-20 8,-20 8,-14 14,-8 20,-8" />
+<text text-anchor="middle" x="193" y="-389.6" font-family="Georgia" font-size="18.00" fill="#405b50">Decision-Making Process</text>
+</g>
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196.79,-321.87C190.83,-313.85 183.82,-304.41 177.46,-295.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="179.33,-294.26 173.19,-290.1 175.4,-297.18 179.33,-294.26" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M242.51,-321.95C253.31,-313.62 264.14,-302.81 270,-290 277.39,-273.83 276.11,-266.69 270,-250 264.33,-234.53 254.74,-219.88 244.22,-207.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.05,-205.4 239.66,-201.64 242.31,-208.57 246.05,-205.4" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.92,-249.84C167.6,-241.17 170.93,-230.41 174.35,-219.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.76,-219.85 176.48,-212.44 172.07,-218.4 176.76,-219.85" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193,-97.81C193,-89.27 193,-80.86 193,-73.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.45,-73.33 193,-66.33 190.55,-73.33 195.45,-73.33" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M296.5,-362C296.5,-362 125.5,-362 125.5,-362 119.5,-362 113.5,-356 113.5,-350 113.5,-350 113.5,-334 113.5,-334 113.5,-328 119.5,-322 125.5,-322 125.5,-322 296.5,-322 296.5,-322 302.5,-322 308.5,-328 308.5,-334 308.5,-334 308.5,-350 308.5,-350 308.5,-356 302.5,-362 296.5,-362" />
+<text text-anchor="middle" x="211" y="-337.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala (Emotion)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M247,-290C247,-290 71,-290 71,-290 65,-290 59,-284 59,-278 59,-278 59,-262 59,-262 59,-256 65,-250 71,-250 71,-250 247,-250 247,-250 253,-250 259,-256 259,-262 259,-262 259,-278 259,-278 259,-284 253,-290 247,-290" />
+<text text-anchor="middle" x="159" y="-265.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut Feeling/Intuition</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="193,-218 26,-158 193,-98 360,-158 193,-218" />
+<text text-anchor="middle" x="193" y="-163.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prefrontal Cortex</text>
+<text text-anchor="middle" x="193" y="-143.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Reason)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M230,-66C230,-66 156,-66 156,-66 150,-66 144,-60 144,-54 144,-54 144,-38 144,-38 144,-32 150,-26 156,-26 156,-26 230,-26 230,-26 236,-26 242,-32 242,-38 242,-38 242,-54 242,-54 242,-60 236,-66 230,-66" />
+<text text-anchor="middle" x="193" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision</text>
+</g>
+</g>
+</svg>

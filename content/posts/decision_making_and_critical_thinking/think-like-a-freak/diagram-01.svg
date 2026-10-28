@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428pt" height="444pt" viewBox="0.00 0.00 428.00 444.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Incentives</title><desc id="description">Problem leads to Identify Incentives. Identify Incentives leads to Positive or Negative?. Positive or Negative? leads to Reward desired behavior (Positive). Positive or Negative? leads to Punish undesired behavior (Negative). Reward desired behavior leads to Improved outcome. Punish undesired behavior leads to Improved outcome.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 426)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-426 410,-426 410,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-367.97C196,-360.09 196,-350.82 196,-342.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-342.08 196,-335.08 193.55,-342.08 198.45,-342.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-294.7C196,-287.21 196,-278.28 196,-269.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-269.13 196,-262.13 193.55,-269.13 198.45,-269.13" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.39,-187.16C157.38,-171.89 143.22,-153.88 131.15,-138.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.06,-137 126.81,-133.01 129.21,-140.03 133.06,-137" />
+<text text-anchor="middle" x="177" y="-154" font-family="Georgia" font-size="15.00" fill="#405b50">Positive</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.61,-187.16C234.62,-171.89 248.78,-153.88 260.85,-138.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.79,-140.03 265.19,-133.01 258.94,-137 262.79,-140.03" />
+<text text-anchor="middle" x="279.5" y="-154" font-family="Georgia" font-size="15.00" fill="#405b50">Negative</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.6,-72.99C146.92,-63.79 158.22,-53.74 168.1,-44.95" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.83,-46.69 173.43,-40.2 166.57,-43.03 169.83,-46.69" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M254.69,-72.99C244.13,-63.79 232.59,-53.74 222.49,-44.95" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.93,-42.95 217.05,-40.2 220.72,-46.65 223.93,-42.95" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M232.5,-408C232.5,-408 159.5,-408 159.5,-408 153.5,-408 147.5,-402 147.5,-396 147.5,-396 147.5,-380 147.5,-380 147.5,-374 153.5,-368 159.5,-368 159.5,-368 232.5,-368 232.5,-368 238.5,-368 244.5,-374 244.5,-380 244.5,-380 244.5,-396 244.5,-396 244.5,-402 238.5,-408 232.5,-408" />
+<text text-anchor="middle" x="196" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M273,-335C273,-335 119,-335 119,-335 113,-335 107,-329 107,-323 107,-323 107,-307 107,-307 107,-301 113,-295 119,-295 119,-295 273,-295 273,-295 279,-295 285,-301 285,-307 285,-307 285,-323 285,-323 285,-329 279,-335 273,-335" />
+<text text-anchor="middle" x="196" y="-310.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Incentives</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="196,-262 0,-222 196,-182 392,-222 196,-262" />
+<text text-anchor="middle" x="196" y="-217.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive or Negative?</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-133C169.5,-133 38.5,-133 38.5,-133 32.5,-133 26.5,-127 26.5,-121 26.5,-121 26.5,-85 26.5,-85 26.5,-79 32.5,-73 38.5,-73 38.5,-73 169.5,-73 169.5,-73 175.5,-73 181.5,-79 181.5,-85 181.5,-85 181.5,-121 181.5,-121 181.5,-127 175.5,-133 169.5,-133" />
+<text text-anchor="middle" x="104" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reward desired</text>
+<text text-anchor="middle" x="104" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">behavior</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M360.5,-133C360.5,-133 215.5,-133 215.5,-133 209.5,-133 203.5,-127 203.5,-121 203.5,-121 203.5,-85 203.5,-85 203.5,-79 209.5,-73 215.5,-73 215.5,-73 360.5,-73 360.5,-73 366.5,-73 372.5,-79 372.5,-85 372.5,-85 372.5,-121 372.5,-121 372.5,-127 366.5,-133 360.5,-133" />
+<text text-anchor="middle" x="288" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Punish undesired</text>
+<text text-anchor="middle" x="288" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">behavior</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M273.5,-40C273.5,-40 116.5,-40 116.5,-40 110.5,-40 104.5,-34 104.5,-28 104.5,-28 104.5,-12 104.5,-12 104.5,-6 110.5,0 116.5,0 116.5,0 273.5,0 273.5,0 279.5,0 285.5,-6 285.5,-12 285.5,-12 285.5,-28 285.5,-28 285.5,-34 279.5,-40 273.5,-40" />
+<text text-anchor="middle" x="195" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved outcome</text>
+</g>
+</g>
+</svg>

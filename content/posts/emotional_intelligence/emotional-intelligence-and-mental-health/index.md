@@ -21,13 +21,7 @@ The four key pillars of emotional intelligence are:
 * **Relationship management:** Building and maintaining healthy relationships through effective communication and conflict resolution.
 
 
-```mermaid
-graph LR
-    A[Emotional Intelligence] --> B(Self-Awareness);
-    A --> C(Self-Regulation);
-    A --> D(Social Awareness);
-    A --> E(Relationship Management);
-```
+![Understanding Emotional Intelligence. Emotional Intelligence; Self-Awareness; Self-Regulation; Social Awareness; Relationship Management.](diagram-01.svg)
 
 ##  The Link Between EI and Mental Health
 

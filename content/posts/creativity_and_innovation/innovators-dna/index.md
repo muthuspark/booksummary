@@ -25,14 +25,7 @@ The core of the book centers on five key discovery skills that consistently diff
 
 * **Experimenting:** Innovators see experimentation as a critical part of the process. They are willing to test and fail, learn from their mistakes, and iterate towards a better solution.
 
-```mermaid
-graph LR
-    A[Associating] --> B(Innovation);
-    Q[Questioning] --> B;
-    O[Observing] --> B;
-    N[Networking] --> B;
-    E[Experimenting] --> B;
-```
+![The Five Discovery Skills. Associating; Innovation; Questioning; Observing; Networking; Experimenting.](diagram-01.svg)
 
 
 ##  Associating: The Power of Cross-Pollination

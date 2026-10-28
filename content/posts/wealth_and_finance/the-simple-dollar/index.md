@@ -16,13 +16,7 @@ The Simple Dollar by Trent Hamm isn't about getting rich quick; it's about build
 Debt is a significant obstacle to financial freedom.  Hamm doesn't shy away from the realities of debt management, focusing on practical strategies rather than quick fixes.  He stresses the importance of prioritizing debts based on interest rates—attacking high-interest debts first, like credit card debt, while minimizing payments on low-interest loans like mortgages.  The snowball method, paying off the smallest debts first for psychological momentum, is also discussed.  Regardless of the chosen method, consistency is paramount.
 
 
-```mermaid
-graph LR
-A[High-Interest Debt] --> B(Aggressive Payment);
-C[Low-Interest Debt] --> D(Minimum Payment);
-B --> E{Debt Free!};
-D --> E;
-```
+![Tackling Debt: A Strategic Approach. High-Interest Debt; Aggressive Payment; Low-Interest Debt; Minimum Payment; Debt Free!.](diagram-01.svg)
 
 
 # Budgeting: The Art of Intentional Spending
@@ -35,13 +29,7 @@ Budgeting isn't about restriction; it's about intentional spending. Hamm promote
 Saving and investing are important for long-term financial security. Hamm advocates for building an emergency fund as the first step, recommending three to six months' worth of living expenses. This provides a safety net during unexpected events, preventing further debt accumulation. Once the emergency fund is established, investing becomes the focus. He emphasizes the importance of starting early, even with small amounts, and exploring options like index funds for long-term growth.
 
 
-```mermaid
-graph LR
-A[Emergency Fund] --> B(3-6 Months Expenses);
-B --> C[Investing];
-C --> D(Index Funds/Stocks/Bonds);
-D --> E[Long-Term Growth];
-```
+![Saving and Investing: Building Your Future. Emergency Fund; 3-6 Months Expenses; Investing; Index Funds/Stocks/Bonds; Long-Term Growth.](diagram-02.svg)
 
 
 # Reducing Expenses: Identifying and Eliminating Waste

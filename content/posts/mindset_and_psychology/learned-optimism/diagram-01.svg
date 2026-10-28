@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="811pt" height="298pt" viewBox="0.00 0.00 811.00 298.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Explanatory Style</title><desc id="description">Negative Event leads to Pessimist: PPP. Pessimist: PPP leads to Permanent, Pervasive, Personal. Negative Event leads to Optimist: TSE. Optimist: TSE leads to Temporary, Specific, External.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 280)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-280 793,-280 793,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.54,-151.01C155.87,-153.96 166.57,-157.02 177.03,-160.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.47,-162.4 183.87,-161.96 177.82,-157.68 176.47,-162.4" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149.13,-118.21C158.32,-116.62 167.73,-114.98 176.96,-113.38" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.5,-115.77 183.98,-112.16 176.66,-110.94 177.5,-115.77" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M329.31,-186.71C348.27,-187.93 369.51,-189.3 391.3,-190.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="391.25,-193.15 398.39,-191.16 391.56,-188.26 391.25,-193.15" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M326.18,-90.97C355.03,-87.26 389.56,-82.82 423.34,-78.48" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="423.9,-80.88 430.53,-77.55 423.28,-76.02 423.9,-80.88" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M137,-151C137,-151 12,-151 12,-151 6,-151 0,-145 0,-139 0,-139 0,-123 0,-123 0,-117 6,-111 12,-111 12,-111 137,-111 137,-111 143,-111 149,-117 149,-123 149,-123 149,-139 149,-139 149,-145 143,-151 137,-151" />
+<text text-anchor="middle" x="74.5" y="-126.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Event</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M317,-202C317,-202 193,-202 193,-202 187,-202 181,-196 181,-190 181,-190 181,-174 181,-174 181,-168 187,-162 193,-162 193,-162 317,-162 317,-162 323,-162 329,-168 329,-174 329,-174 329,-190 329,-190 329,-196 323,-202 317,-202" />
+<text text-anchor="middle" x="255" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pessimist: PPP</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="568,-262 361,-202 568,-142 775,-202 568,-262" />
+<text text-anchor="middle" x="568" y="-207.6" font-family="Georgia" font-size="18.00" fill="#243d36">Permanent, Pervasive,</text>
+<text text-anchor="middle" x="568" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M314,-120C314,-120 196,-120 196,-120 190,-120 184,-114 184,-108 184,-108 184,-92 184,-92 184,-86 190,-80 196,-80 196,-80 314,-80 314,-80 320,-80 326,-86 326,-92 326,-92 326,-108 326,-108 326,-114 320,-120 314,-120" />
+<text text-anchor="middle" x="255" y="-95.6" font-family="Georgia" font-size="18.00" fill="#243d36">Optimist: TSE</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="568,-120 374,-60 568,0 762,-60 568,-120" />
+<text text-anchor="middle" x="568" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Temporary, Specific,</text>
+<text text-anchor="middle" x="568" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">External</text>
+</g>
+</g>
+</svg>

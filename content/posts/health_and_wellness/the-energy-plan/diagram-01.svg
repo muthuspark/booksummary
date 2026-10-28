@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570pt" height="282pt" viewBox="0.00 0.00 570.00 282.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing Energy Management</title><desc id="description">Physical Well-being leads to Energy Levels. Mental Well-being leads to Energy Levels. Prioritization &amp; Scheduling leads to Energy Levels. Healthy Habits leads to Energy Levels. Energy Levels leads to Productivity &amp; Fulfillment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 264)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-264 552,-264 552,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.67,-205.85C169.33,-202.56 177.98,-198.93 186,-195 210.32,-183.09 235.71,-166.22 254.95,-152.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.49,-154.3 260.72,-148.21 253.61,-150.34 256.49,-154.3" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M358.46,-128C366.39,-128 374.5,-128 382.53,-128" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="382.88,-130.45 389.88,-128 382.88,-125.55 382.88,-130.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M181.18,-147.74C191.07,-145.89 201.09,-144.02 210.82,-142.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.42,-144.59 217.85,-140.9 210.52,-139.77 211.42,-144.59" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.17,-106.02C182.78,-108.56 196.99,-111.21 210.63,-113.75" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.38,-116.2 217.71,-115.08 211.28,-111.38 210.38,-116.2" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.9,-40.04C170.19,-43.31 178.41,-46.97 186,-51 212.82,-65.25 240.02,-86.45 259.43,-103.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="258.29,-105.26 265.19,-107.98 261.49,-101.56 258.29,-105.26" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M174,-246C174,-246 12,-246 12,-246 6,-246 0,-240 0,-234 0,-234 0,-218 0,-218 0,-212 6,-206 12,-206 12,-206 174,-206 174,-206 180,-206 186,-212 186,-218 186,-218 186,-234 186,-234 186,-240 180,-246 174,-246" />
+<text text-anchor="middle" x="93" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Physical Well-being</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M346,-148C346,-148 230,-148 230,-148 224,-148 218,-142 218,-136 218,-136 218,-120 218,-120 218,-114 224,-108 230,-108 230,-108 346,-108 346,-108 352,-108 358,-114 358,-120 358,-120 358,-136 358,-136 358,-142 352,-148 346,-148" />
+<text text-anchor="middle" x="288" y="-123.6" font-family="Georgia" font-size="18.00" fill="#243d36">Energy Levels</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169,-184C169,-184 17,-184 17,-184 11,-184 5,-178 5,-172 5,-172 5,-156 5,-156 5,-150 11,-144 17,-144 17,-144 169,-144 169,-144 175,-144 181,-150 181,-156 181,-156 181,-172 181,-172 181,-178 175,-184 169,-184" />
+<text text-anchor="middle" x="93" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mental Well-being</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157,-122C157,-122 29,-122 29,-122 23,-122 17,-116 17,-110 17,-110 17,-74 17,-74 17,-68 23,-62 29,-62 29,-62 157,-62 157,-62 163,-62 169,-68 169,-74 169,-74 169,-110 169,-110 169,-116 163,-122 157,-122" />
+<text text-anchor="middle" x="93" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritization &amp;</text>
+<text text-anchor="middle" x="93" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Scheduling</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155.5,-40C155.5,-40 30.5,-40 30.5,-40 24.5,-40 18.5,-34 18.5,-28 18.5,-28 18.5,-12 18.5,-12 18.5,-6 24.5,0 30.5,0 30.5,0 155.5,0 155.5,0 161.5,0 167.5,-6 167.5,-12 167.5,-12 167.5,-28 167.5,-28 167.5,-34 161.5,-40 155.5,-40" />
+<text text-anchor="middle" x="93" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Habits</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M522,-158C522,-158 402,-158 402,-158 396,-158 390,-152 390,-146 390,-146 390,-110 390,-110 390,-104 396,-98 402,-98 402,-98 522,-98 522,-98 528,-98 534,-104 534,-110 534,-110 534,-146 534,-146 534,-152 528,-158 522,-158" />
+<text text-anchor="middle" x="462" y="-133.6" font-family="Georgia" font-size="18.00" fill="#243d36">Productivity &amp;</text>
+<text text-anchor="middle" x="462" y="-113.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fulfillment</text>
+</g>
+</g>
+</svg>

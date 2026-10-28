@@ -17,17 +17,7 @@ The book's foundational element is self-awareness.  Miller stresses the importan
 
 This self-awareness extends to understanding one's emotional intelligence. Recognizing and managing one's emotions, as well as empathizing with others, is paramount. Miller suggests techniques like mindfulness and emotional regulation exercises.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Strengths);
-A --> C(Weaknesses);
-A --> D(Values);
-A --> E(Beliefs);
-B --> F[Effective Leadership];
-C --> G[Areas for Improvement];
-D --> F;
-E --> F;
-```
+![The Foundation: Self-Awareness and Personal Mastery. Self-Awareness; Strengths; Weaknesses; Values; Beliefs; Effective Leadership; Areas for Improvement.](diagram-01.svg)
 
 
 ## Defining Your Vision and Purpose
@@ -57,21 +47,7 @@ Miller dedicates significant attention to the importance of building strong rela
 He argues against a purely top-down leadership approach, advocating for a collaborative and empowering style where team members feel valued, respected, and actively involved in decision-making processes.  This creates a more engaged, motivated, and productive team.
 
 
-```mermaid
-graph LR
-A[High-Performing Teams] --> B(Collaboration);
-A --> C(Mutual Respect);
-A --> D(Effective Communication);
-A --> E(Delegation);
-A --> F(Trust);
-A --> G(Constructive Feedback);
-B --> H[Shared Goals];
-C --> H;
-D --> H;
-E --> H;
-F --> H;
-G --> H;
-```
+![Building High-Performing Teams and Relationships. High-Performing Teams; Collaboration; Mutual Respect; Effective Communication; Delegation; Trust; Constructive Feedback; Shared Goals.](diagram-02.svg)
 
 ## Overcoming Obstacles and Challenges
 

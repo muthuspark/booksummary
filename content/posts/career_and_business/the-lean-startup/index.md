@@ -14,12 +14,7 @@ Eric Ries's "The Lean Startup" isn't just about building businesses; it's about 
 
 The heart of the Lean Startup methodology lies in its iterative approach, focusing on building, measuring, and learning.  This cycle, repeated rapidly, allows for constant adaptation and refinement based on real-world feedback rather than assumptions.
 
-```mermaid
-graph LR
-    A["Build (MVP)"] --> B{Measure};
-    B --> C[Learn];
-    C --> A;
-```
+![The Lean Startup Methodology: A Framework for Learning. Build (MVP); Measure; Learn.](diagram-01.svg)
 
 This isn't a linear process; it's a continuous loop.  The faster you can cycle through this process, the quicker you'll achieve your goals and avoid costly mistakes.
 

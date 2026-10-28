@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600pt" height="260pt" viewBox="0.00 0.00 600.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Financial Situation</title><desc id="description">Income leads to Budget. Expenses leads to Budget. Budget leads to Savings/Investments. Budget leads to Debt Reduction.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 582,-242 582,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M297.12,-183.87C303.89,-175.85 311.84,-166.41 319.05,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="321.26,-159.04 323.9,-152.1 317.51,-155.88 321.26,-159.04" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M309.04,-111.91C291.21,-100.92 268.31,-86.81 247.64,-74.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.84,-71.92 241.59,-70.34 246.26,-76.1 248.84,-71.92" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M371.17,-111.91C394.17,-97.83 425.56,-78.62 449.85,-63.74" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="451.18,-65.8 455.87,-60.06 448.62,-61.62 451.18,-65.8" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M383.6,-183.87C376.73,-175.85 368.64,-166.41 361.31,-157.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="362.79,-155.83 356.38,-152.1 359.07,-159.01 362.79,-155.83" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313.5,-224C313.5,-224 248.5,-224 248.5,-224 242.5,-224 236.5,-218 236.5,-212 236.5,-212 236.5,-196 236.5,-196 236.5,-190 242.5,-184 248.5,-184 248.5,-184 313.5,-184 313.5,-184 319.5,-184 325.5,-190 325.5,-196 325.5,-196 325.5,-212 325.5,-212 325.5,-218 319.5,-224 313.5,-224" />
+<text text-anchor="middle" x="281" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Income</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M371,-152C371,-152 309,-152 309,-152 303,-152 297,-146 297,-140 297,-140 297,-124 297,-124 297,-118 303,-112 309,-112 309,-112 371,-112 371,-112 377,-112 383,-118 383,-124 383,-124 383,-140 383,-140 383,-146 377,-152 371,-152" />
+<text text-anchor="middle" x="340" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Budget</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M440,-224C440,-224 360,-224 360,-224 354,-224 348,-218 348,-212 348,-212 348,-196 348,-196 348,-190 354,-184 360,-184 360,-184 440,-184 440,-184 446,-184 452,-190 452,-196 452,-196 452,-212 452,-212 452,-218 446,-224 440,-224" />
+<text text-anchor="middle" x="400" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expenses</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="194,-80 0,-40 194,0 388,-40 194,-80" />
+<text text-anchor="middle" x="194" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Savings/Investments</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M552,-60C552,-60 422,-60 422,-60 416,-60 410,-54 410,-48 410,-48 410,-32 410,-32 410,-26 416,-20 422,-20 422,-20 552,-20 552,-20 558,-20 564,-26 564,-32 564,-32 564,-48 564,-48 564,-54 558,-60 552,-60" />
+<text text-anchor="middle" x="487" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Reduction</text>
+</g>
+</g>
+</svg>

@@ -35,15 +35,7 @@ The book provides numerous strategies and techniques to break free from these li
 
 Factoring involves breaking down complex problems into smaller, more manageable components. This deconstructive approach allows for focused attention on individual elements, revealing potential solutions overlooked in a view.
 
-```mermaid
-graph LR
-    A[Complex Problem] --> B(Factor 1);
-    A --> C(Factor 2);
-    A --> D(Factor 3);
-    B --> E[Solution 1];
-    C --> F[Solution 2];
-    D --> G[Solution 3];
-```
+![Factoring. Complex Problem; Factor 1; Factor 2; Factor 3; Solution 1; Solution 2; Solution 3.](diagram-01.svg)
 
 ### Deferring Judgment
 

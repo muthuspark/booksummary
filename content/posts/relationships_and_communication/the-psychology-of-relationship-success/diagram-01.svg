@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354pt" height="332pt" viewBox="0.00 0.00 354.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Level 1: Share Meaning</title><desc id="description">Shared Values leads to Shared Goals. Shared Goals leads to Shared Meaning. Shared Meaning leads to Strong Foundation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 336,-314 336,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159,-255.87C159,-248.31 159,-239.49 159,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.45,-231.1 159,-224.1 156.55,-231.1 161.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159,-183.91C159,-176.58 159,-167.86 159,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.45,-159.07 159,-152.07 156.55,-159.07 161.45,-159.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159,-71.79C159,-63.54 159,-55.04 159,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.45,-47.09 159,-40.09 156.55,-47.09 161.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218.5,-296C218.5,-296 99.5,-296 99.5,-296 93.5,-296 87.5,-290 87.5,-284 87.5,-284 87.5,-268 87.5,-268 87.5,-262 93.5,-256 99.5,-256 99.5,-256 218.5,-256 218.5,-256 224.5,-256 230.5,-262 230.5,-268 230.5,-268 230.5,-284 230.5,-284 230.5,-290 224.5,-296 218.5,-296" />
+<text text-anchor="middle" x="159" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Values</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M214,-224C214,-224 104,-224 104,-224 98,-224 92,-218 92,-212 92,-212 92,-196 92,-196 92,-190 98,-184 104,-184 104,-184 214,-184 214,-184 220,-184 226,-190 226,-196 226,-196 226,-212 226,-212 226,-218 220,-224 214,-224" />
+<text text-anchor="middle" x="159" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Goals</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="159,-152 0,-112 159,-72 318,-112 159,-152" />
+<text text-anchor="middle" x="159" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Meaning</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M236,-40C236,-40 82,-40 82,-40 76,-40 70,-34 70,-28 70,-28 70,-12 70,-12 70,-6 76,0 82,0 82,0 236,0 236,0 242,0 248,-6 248,-12 248,-12 248,-28 248,-28 248,-34 242,-40 236,-40" />
+<text text-anchor="middle" x="159" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Foundation</text>
+</g>
+</g>
+</svg>

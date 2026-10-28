@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="427pt" height="262pt" viewBox="0.00 0.00 427.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Types of Power Questions: A Taxonomy</title><desc id="description">Power Questions leads to Discovery Questions. Power Questions leads to Strategic Questions. Power Questions leads to Transition Questions. Power Questions leads to Reflective Questions.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 409,-244 409,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.78,-133.17C137.9,-146.23 168.05,-162.97 196,-175 202.93,-177.98 210.25,-180.83 217.62,-183.52" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.99,-185.89 224.41,-185.93 218.63,-181.28 216.99,-185.89" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.3,-125.03C174.39,-126.52 184.79,-128.06 195.09,-129.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.92,-132.04 202.21,-130.64 195.64,-127.19 194.92,-132.04" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.3,-100.97C172.39,-99.77 180.67,-98.55 188.94,-97.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="189.32,-99.74 195.89,-96.3 188.6,-94.9 189.32,-99.74" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.78,-92.83C137.9,-79.77 168.05,-63.03 196,-51 202.93,-48.02 210.25,-45.17 217.62,-42.48" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.63,-44.72 224.41,-40.07 216.99,-40.11 218.63,-44.72" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-133C152,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 152,-93 152,-93 158,-93 164,-99 164,-105 164,-105 164,-121 164,-121 164,-127 158,-133 152,-133" />
+<text text-anchor="middle" x="82" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Power Questions</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M377,-226C377,-226 210,-226 210,-226 204,-226 198,-220 198,-214 198,-214 198,-198 198,-198 198,-192 204,-186 210,-186 210,-186 377,-186 377,-186 383,-186 389,-192 389,-198 389,-198 389,-214 389,-214 389,-220 383,-226 377,-226" />
+<text text-anchor="middle" x="293.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discovery Questions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M372.5,-164C372.5,-164 214.5,-164 214.5,-164 208.5,-164 202.5,-158 202.5,-152 202.5,-152 202.5,-136 202.5,-136 202.5,-130 208.5,-124 214.5,-124 214.5,-124 372.5,-124 372.5,-124 378.5,-124 384.5,-130 384.5,-136 384.5,-136 384.5,-152 384.5,-152 384.5,-158 378.5,-164 372.5,-164" />
+<text text-anchor="middle" x="293.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategic Questions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M379,-102C379,-102 208,-102 208,-102 202,-102 196,-96 196,-90 196,-90 196,-74 196,-74 196,-68 202,-62 208,-62 208,-62 379,-62 379,-62 385,-62 391,-68 391,-74 391,-74 391,-90 391,-90 391,-96 385,-102 379,-102" />
+<text text-anchor="middle" x="293.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transition Questions</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M377.5,-40C377.5,-40 209.5,-40 209.5,-40 203.5,-40 197.5,-34 197.5,-28 197.5,-28 197.5,-12 197.5,-12 197.5,-6 203.5,0 209.5,0 209.5,0 377.5,0 377.5,0 383.5,0 389.5,-6 389.5,-12 389.5,-12 389.5,-28 389.5,-28 389.5,-34 383.5,-40 377.5,-40" />
+<text text-anchor="middle" x="293.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reflective Questions</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588pt" height="148pt" viewBox="0.00 0.00 587.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Areas of Focus: The Compass and Map</title><desc id="description">Areas of Focus (AOFs) leads to Family. Areas of Focus (AOFs) leads to Health. Areas of Focus (AOFs) leads to Work. Areas of Focus (AOFs) leads to Creativity. Areas of Focus (AOFs) leads to Spirituality.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 569.5,-130 569.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M187.88,-71.9C159.34,-62.48 124.56,-50.85 93.5,-40 92.35,-39.6 91.18,-39.19 90,-38.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="90.6,-36.38 83.18,-36.35 88.96,-41 90.6,-36.38" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M219.17,-71.87C206.94,-63.31 192.4,-53.13 179.56,-44.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.93,-42.11 173.79,-40.1 178.12,-46.13 180.93,-42.11" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M246.5,-71.87C246.5,-64.31 246.5,-55.49 246.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.95,-47.1 246.5,-40.1 244.05,-47.1 248.95,-47.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.1,-71.87C290.93,-63.23 307.38,-52.95 321.86,-43.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="323.3,-45.89 327.93,-40.1 320.7,-41.74 323.3,-45.89" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M313.4,-71.96C348.48,-61.98 391.3,-49.8 426.28,-39.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="427.11,-42.15 433.17,-37.88 425.77,-37.44 427.11,-42.15" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M337.5,-112C337.5,-112 155.5,-112 155.5,-112 149.5,-112 143.5,-106 143.5,-100 143.5,-100 143.5,-84 143.5,-84 143.5,-78 149.5,-72 155.5,-72 155.5,-72 337.5,-72 337.5,-72 343.5,-72 349.5,-78 349.5,-84 349.5,-84 349.5,-100 349.5,-100 349.5,-106 343.5,-112 337.5,-112" />
+<text text-anchor="middle" x="246.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Areas of Focus (AOFs)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M71,-40C71,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 71,0 71,0 77,0 83,-6 83,-12 83,-12 83,-28 83,-28 83,-34 77,-40 71,-40" />
+<text text-anchor="middle" x="41.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Family</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M176,-40C176,-40 117,-40 117,-40 111,-40 105,-34 105,-28 105,-28 105,-12 105,-12 105,-6 111,0 117,0 117,0 176,0 176,0 182,0 188,-6 188,-12 188,-12 188,-28 188,-28 188,-34 182,-40 176,-40" />
+<text text-anchor="middle" x="146.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Health</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M271,-40C271,-40 222,-40 222,-40 216,-40 210,-34 210,-28 210,-28 210,-12 210,-12 210,-6 216,0 222,0 222,0 271,0 271,0 277,0 283,-6 283,-12 283,-12 283,-28 283,-28 283,-34 277,-40 271,-40" />
+<text text-anchor="middle" x="246.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Work</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M399.5,-40C399.5,-40 317.5,-40 317.5,-40 311.5,-40 305.5,-34 305.5,-28 305.5,-28 305.5,-12 305.5,-12 305.5,-6 311.5,0 317.5,0 317.5,0 399.5,0 399.5,0 405.5,0 411.5,-6 411.5,-12 411.5,-12 411.5,-28 411.5,-28 411.5,-34 405.5,-40 399.5,-40" />
+<text text-anchor="middle" x="358.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creativity</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M539.5,-40C539.5,-40 445.5,-40 445.5,-40 439.5,-40 433.5,-34 433.5,-28 433.5,-28 433.5,-12 433.5,-12 433.5,-6 439.5,0 445.5,0 445.5,0 539.5,0 539.5,0 545.5,0 551.5,-6 551.5,-12 551.5,-12 551.5,-28 551.5,-28 551.5,-34 545.5,-40 539.5,-40" />
+<text text-anchor="middle" x="492.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Spirituality</text>
+</g>
+</g>
+</svg>

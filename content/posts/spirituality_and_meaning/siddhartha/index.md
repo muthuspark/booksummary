@@ -14,13 +14,7 @@ Hermann Hesse's *Siddhartha* isn't a self-help manual, but its narrative offers 
 
 Siddhartha, born into a privileged Brahmin family, initially seeks enlightenment through the established path of Samanas.  He abandons the predictable route of societal expectations, highlighting the importance of **individual autonomy** and questioning pre-defined paths to happiness.  This decision teaches us the necessity of challenging accepted norms and following our own inner compass, even if it means defying societal expectations.
 
-```mermaid
-graph LR
-A[Brahmin Life] --> B(Discontent);
-B --> C[Samana Path];
-C --> D(Dissatisfaction);
-D --> E[Self-Discovery];
-```
+![Rejecting the Expected Path. Brahmin Life; Discontent; Samana Path; Dissatisfaction; Self-Discovery.](diagram-01.svg)
 
 # The Limits of Intellectual Understanding
 
@@ -30,13 +24,7 @@ Siddhartha's time with the Samanas teaches him discipline and the importance of 
 
 His subsequent immersion in the sensual world, with Kamala and the merchant Kamaswami, reveals the fleeting nature of materialistic pleasures and the seductive power of illusion.  This phase highlights the importance of **mindfulness** and self-awareness.  Siddhartha learns the deceptive nature of material possessions and the importance of inner peace over external gratification.
 
-```mermaid
-graph LR
-A[Samana Path] --> B(Intellectual Limitation);
-B --> C[Material World];
-C --> D(Sensual Indulgence);
-D --> E(Disillusionment);
-```
+![The Worldly Temptations and the Illusion of Materialism. Samana Path; Intellectual Limitation; Material World; Sensual Indulgence; Disillusionment.](diagram-02.svg)
 
 # Embracing the River and the Power of Observation
 

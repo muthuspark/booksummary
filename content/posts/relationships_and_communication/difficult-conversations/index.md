@@ -16,13 +16,7 @@ Difficult conversations are rarely about the single event at hand.  Instead, "Di
 
 These three conversations are deeply interconnected. Addressing them separately can help, but true resolution requires integrating them.
 
-```mermaid
-graph LR
-A[What Happened?] --> B(Feelings);
-A --> C(Identity);
-B --> C;
-C --> A;
-```
+![Understanding the Problem:  The Three Conversations. What Happened?; Feelings; Identity.](diagram-01.svg)
 
 #  The Power of Self-Control:  Managing Your Own Reactions
 

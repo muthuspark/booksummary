@@ -72,15 +72,7 @@ This encompasses the ability to build and maintain healthy relationships. It inc
 
 These five pillars aren't isolated; they work synergistically. For example, self-awareness is essential for self-regulation. Understanding your emotional triggers allows you to manage your reactions more effectively. Similarly, empathy enhances social skills; understanding others allows for better communication and conflict resolution.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    A --> C(Motivation);
-    B --> D(Empathy);
-    C --> E(Social Skills);
-    D --> E;
-    E --> A;
-```
+![The Interplay of the Five Pillars. Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills.](diagram-01.svg)
 
 ## Actionable Improvements
 

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438pt" height="532pt" viewBox="0.00 0.00 438.00 532.00" role="img" aria-labelledby="title description">
+<title id="title">The Psychology of Prediction: Why We're So Often Wrong</title><desc id="description">Event (e.g., winning lottery) leads to Predicted Emotional Response: Intense, Long-lasting. Predicted Emotional Response: Intense, Long-lasting leads to Reality: Adaptation &amp; Reduced Emotional Intensity. Reality: Adaptation &amp; Reduced Emotional Intensity leads to Actual Emotional Response: Less Intense, Shorter Duration.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 514)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-514 420,-514 420,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201,-435.81C201,-428.06 201,-419.5 201,-411.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.45,-411.09 201,-404.09 198.55,-411.09 203.45,-411.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201,-323.98C201,-316.32 201,-308 201,-299.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.45,-299.28 201,-292.28 198.55,-299.28 203.45,-299.28" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201,-131.94C201,-123.62 201,-115.29 201,-107.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.45,-107.08 201,-100.08 198.55,-107.08 203.45,-107.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M282.5,-496C282.5,-496 119.5,-496 119.5,-496 113.5,-496 107.5,-490 107.5,-484 107.5,-484 107.5,-448 107.5,-448 107.5,-442 113.5,-436 119.5,-436 119.5,-436 282.5,-436 282.5,-436 288.5,-436 294.5,-442 294.5,-448 294.5,-448 294.5,-484 294.5,-484 294.5,-490 288.5,-496 282.5,-496" />
+<text text-anchor="middle" x="201" y="-471.6" font-family="Georgia" font-size="18.00" fill="#243d36">Event (e.g., winning</text>
+<text text-anchor="middle" x="201" y="-451.6" font-family="Georgia" font-size="18.00" fill="#243d36">lottery)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M286,-404C286,-404 116,-404 116,-404 110,-404 104,-398 104,-392 104,-392 104,-336 104,-336 104,-330 110,-324 116,-324 116,-324 286,-324 286,-324 292,-324 298,-330 298,-336 298,-336 298,-392 298,-392 298,-398 292,-404 286,-404" />
+<text text-anchor="middle" x="201" y="-379.6" font-family="Georgia" font-size="18.00" fill="#243d36">Predicted Emotional</text>
+<text text-anchor="middle" x="201" y="-359.6" font-family="Georgia" font-size="18.00" fill="#243d36">Response: Intense,</text>
+<text text-anchor="middle" x="201" y="-339.6" font-family="Georgia" font-size="18.00" fill="#243d36">Long-lasting</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="201,-292 0,-212 201,-132 402,-212 201,-292" />
+<text text-anchor="middle" x="201" y="-227.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reality: Adaptation &amp;</text>
+<text text-anchor="middle" x="201" y="-207.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Emotional</text>
+<text text-anchor="middle" x="201" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intensity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M272.5,-100C272.5,-100 129.5,-100 129.5,-100 123.5,-100 117.5,-94 117.5,-88 117.5,-88 117.5,-12 117.5,-12 117.5,-6 123.5,0 129.5,0 129.5,0 272.5,0 272.5,0 278.5,0 284.5,-6 284.5,-12 284.5,-12 284.5,-88 284.5,-88 284.5,-94 278.5,-100 272.5,-100" />
+<text text-anchor="middle" x="201" y="-75.6" font-family="Georgia" font-size="18.00" fill="#243d36">Actual Emotional</text>
+<text text-anchor="middle" x="201" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Response: Less</text>
+<text text-anchor="middle" x="201" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intense, Shorter</text>
+<text text-anchor="middle" x="201" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Duration</text>
+</g>
+</g>
+</svg>

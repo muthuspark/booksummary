@@ -15,14 +15,7 @@ Richard Davidson's "The Emotional Life of Your Brain" offers a compelling explor
 Davidson highlights the interplay of different brain regions in generating and regulating emotions.  He describes the amygdala, a key structure involved in processing fear and other intense emotions, and the prefrontal cortex, responsible for executive functions like planning, decision-making, and emotional regulation.  The book emphasizes that these brain regions aren't isolated entities but work in dynamic concert.
 
 
-```mermaid
-graph LR
-    A[Amygdala] --> B(Emotional Response);
-    C[Prefrontal Cortex] --> B;
-    C --> D(Emotional Regulation);
-    A --> E(Fear Processing);
-    C --> F(Cognitive Appraisal);
-```
+![The Brain's Emotional Systems. Amygdala; Emotional Response; Prefrontal Cortex; Emotional Regulation; Fear Processing; Cognitive Appraisal.](diagram-01.svg)
 
 Understanding this interplay is important for developing strategies to manage emotions effectively.
 

@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441pt" height="742pt" viewBox="0.00 0.00 440.50 742.00" role="img" aria-labelledby="title description">
+<title id="title">Actionable and Practical Framework</title><desc id="description">Identify Situation leads to Cognitive Biases Present?. Cognitive Biases Present? leads to Employ Countermeasures (Yes). Cognitive Biases Present? leads to Proceed with Analysis (No). Employ Countermeasures leads to Structured Decision Making. Structured Decision Making leads to Gather Diverse Data. Gather Diverse Data leads to Evaluate &amp; Adjust. Evaluate &amp; Adjust leads to Implement Decision. Proceed with Analysis leads to Evaluate &amp; Adjust. Implement Decision leads to Reflect &amp; Learn. Reflect &amp; Learn leads to Identify Situation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 724)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-724 422.5,-724 422.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M280.5,-665.92C270.47,-654.33 257.16,-638.94 244.31,-624.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.03,-622.32 239.6,-618.63 242.32,-625.52 246.03,-622.32" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.09,-524.71C157.97,-506.16 144.55,-485.63 134.37,-470.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.38,-468.64 130.5,-464.12 132.27,-471.32 136.38,-468.64" />
+<text text-anchor="middle" x="162" y="-485" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223.89,-521.67C231.69,-503.66 240.16,-483.09 247,-464 252.74,-447.97 258.14,-429.64 262.15,-415.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="264.53,-415.71 264.01,-408.31 259.8,-414.42 264.53,-415.71" />
+<text text-anchor="middle" x="251" y="-485" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M118.63,-423.99C119.21,-406.65 120.08,-380.56 120.79,-359.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="123.24,-359.3 121.03,-352.22 118.34,-359.14 123.24,-359.3" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M268.48,-367.86C267.4,-328.45 264.94,-238.17 263.72,-193.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.17,-193.18 263.53,-186.25 261.27,-193.32 266.17,-193.18" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.78,-291.76C129.42,-283.43 131.2,-274.41 132.81,-266.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.28,-266.44 134.23,-259.09 130.47,-265.49 135.28,-266.44" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.5,-218.97C187.33,-209.98 206.35,-199.17 222.94,-189.75" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.53,-191.67 229.41,-186.08 222.11,-187.41 224.53,-191.67" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263,-145.97C263,-138.09 263,-128.82 263,-120.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="265.45,-120.08 263,-113.08 260.55,-120.08 265.45,-120.08" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M280.42,-72.97C288.21,-64.46 297.5,-54.32 305.79,-45.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="307.61,-46.9 310.53,-40.08 304,-43.59 307.61,-46.9" />
+</g>
+
+<g id="edge10" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M360.12,-40.17C376.5,-52.58 393,-70.44 393,-92 393,-574 393,-574 393,-574 393,-602.14 387.3,-610.8 370,-633 361.37,-644.08 349.75,-653.81 338.32,-661.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="336.82,-659.83 332.38,-665.76 339.55,-663.89 336.82,-659.83" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M369,-706C369,-706 225,-706 225,-706 219,-706 213,-700 213,-694 213,-694 213,-678 213,-678 213,-672 219,-666 225,-666 225,-666 369,-666 369,-666 375,-666 381,-672 381,-678 381,-678 381,-694 381,-694 381,-700 375,-706 369,-706" />
+<text text-anchor="middle" x="297" y="-681.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Situation</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="201,-633 43,-573 201,-513 359,-573 201,-633" />
+<text text-anchor="middle" x="201" y="-578.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Biases</text>
+<text text-anchor="middle" x="201" y="-558.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M224,-464C224,-464 12,-464 12,-464 6,-464 0,-458 0,-452 0,-452 0,-436 0,-436 0,-430 6,-424 12,-424 12,-424 224,-424 224,-424 230,-424 236,-430 236,-436 236,-436 236,-452 236,-452 236,-458 230,-464 224,-464" />
+<text text-anchor="middle" x="118" y="-439.6" font-family="Georgia" font-size="18.00" fill="#243d36">Employ Countermeasures</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M359,-408C359,-408 179,-408 179,-408 173,-408 167,-402 167,-396 167,-396 167,-380 167,-380 167,-374 173,-368 179,-368 179,-368 359,-368 359,-368 365,-368 371,-374 371,-380 371,-380 371,-396 371,-396 371,-402 365,-408 359,-408" />
+<text text-anchor="middle" x="269" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Proceed with Analysis</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M204,-352C204,-352 40,-352 40,-352 34,-352 28,-346 28,-340 28,-340 28,-304 28,-304 28,-298 34,-292 40,-292 40,-292 204,-292 204,-292 210,-292 216,-298 216,-304 216,-304 216,-340 216,-340 216,-346 210,-352 204,-352" />
+<text text-anchor="middle" x="122" y="-327.6" font-family="Georgia" font-size="18.00" fill="#243d36">Structured Decision</text>
+<text text-anchor="middle" x="122" y="-307.6" font-family="Georgia" font-size="18.00" fill="#243d36">Making</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M221.5,-259C221.5,-259 54.5,-259 54.5,-259 48.5,-259 42.5,-253 42.5,-247 42.5,-247 42.5,-231 42.5,-231 42.5,-225 48.5,-219 54.5,-219 54.5,-219 221.5,-219 221.5,-219 227.5,-219 233.5,-225 233.5,-231 233.5,-231 233.5,-247 233.5,-247 233.5,-253 227.5,-259 221.5,-259" />
+<text text-anchor="middle" x="138" y="-234.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Diverse Data</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M337,-186C337,-186 189,-186 189,-186 183,-186 177,-180 177,-174 177,-174 177,-158 177,-158 177,-152 183,-146 189,-146 189,-146 337,-146 337,-146 343,-146 349,-152 349,-158 349,-158 349,-174 349,-174 349,-180 343,-186 337,-186" />
+<text text-anchor="middle" x="263" y="-161.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluate &amp; Adjust</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M346.5,-113C346.5,-113 179.5,-113 179.5,-113 173.5,-113 167.5,-107 167.5,-101 167.5,-101 167.5,-85 167.5,-85 167.5,-79 173.5,-73 179.5,-73 179.5,-73 346.5,-73 346.5,-73 352.5,-73 358.5,-79 358.5,-85 358.5,-85 358.5,-101 358.5,-101 358.5,-107 352.5,-113 346.5,-113" />
+<text text-anchor="middle" x="263" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implement Decision</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M392.5,-40C392.5,-40 263.5,-40 263.5,-40 257.5,-40 251.5,-34 251.5,-28 251.5,-28 251.5,-12 251.5,-12 251.5,-6 257.5,0 263.5,0 263.5,0 392.5,0 392.5,0 398.5,0 404.5,-6 404.5,-12 404.5,-12 404.5,-28 404.5,-28 404.5,-34 398.5,-40 392.5,-40" />
+<text text-anchor="middle" x="328" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reflect &amp; Learn</text>
+</g>
+</g>
+</svg>

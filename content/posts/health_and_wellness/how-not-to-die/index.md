@@ -24,16 +24,7 @@ The book systematically tackles various leading causes of death, explaining thei
 
 For example, regarding heart disease, the emphasis is on reducing saturated and trans fats, cholesterol, and inflammation through plant-based nutrition rich in fiber and antioxidants.  Similarly, for type 2 diabetes, the focus shifts to managing blood sugar levels through low glycemic index foods and increased fiber intake.  Cancer prevention strategies involve minimizing processed meats and emphasizing cruciferous vegetables and other nutrient-rich plants.
 
-```mermaid
-graph LR
-    A[Heart Disease] --> B(Reduce Saturated Fat);
-    A --> C(Increase Fiber);
-    A --> D(Antioxidant Rich Foods);
-    E[Type 2 Diabetes] --> F(Low Glycemic Index Foods);
-    E --> G(Increased Fiber);
-    H[Cancer] --> I(Minimize Processed Meats);
-    H --> J(Cruciferous Vegetables);
-```
+![Addressing Specific Diseases Through Diet. Heart Disease; Reduce Saturated Fat; Increase Fiber; Antioxidant Rich Foods; Type 2 Diabetes; Low Glycemic Index Foods; Increased Fiber; Cancer; Minimize Processed Meats; Cruciferous Vegetables.](diagram-01.svg)
 
 
 ###  Beyond Diet: The Importance of Lifestyle Factors

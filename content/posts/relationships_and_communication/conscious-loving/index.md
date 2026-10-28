@@ -100,16 +100,7 @@ Focusing on the present moment is key to overcoming Upper Limits and experiencin
 
 ##  A Diagrammatic Representation of the Process
 
-```mermaid
-graph LR
-A[Identify Upper Limits] --> B(Challenge Limiting Beliefs);
-B --> C{Self-Compassion};
-C --> D[Cultivate Self-Love];
-D --> E(Authentic Communication);
-E --> F{Vulnerability & Authenticity};
-F --> G[Deep Connection];
-G --> H((Healthy Relationships));
-```
+![A Diagrammatic Representation of the Process. Identify Upper Limits; Challenge Limiting Beliefs; Self-Compassion; Cultivate Self-Love; Authentic Communication; Vulnerability & Authenticity; Deep Connection; Healthy Relationships.](diagram-01.svg)
 
 
 "Conscious Loving" provides a powerful and practical framework for building healthier, more fulfilling relationships and achieving greater personal happiness. By understanding and overcoming Upper Limits, individuals can reach their full potential for love, joy, and connection. The book's emphasis on self-awareness, conscious communication, and a commitment to ongoing personal growth offers a roadmap for a richer and more meaningful life.

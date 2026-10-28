@@ -18,18 +18,7 @@ The authors challenge the societal expectation of constant selflessness.  They a
 
 Identifying your boundaries involves understanding your physical, emotional, and spiritual needs.  What activities drain you? What behaviors are unacceptable to you? What are your personal values and limits?  Self-reflection is key.  Journaling, meditation, and honest self-assessment are encouraged to uncover these often hidden needs and limits.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Identify Physical Needs);
-A --> C(Identify Emotional Needs);
-A --> D(Identify Spiritual Needs);
-B --> E[Set Physical Boundaries];
-C --> F[Set Emotional Boundaries];
-D --> G[Set Spiritual Boundaries];
-E -- Healthy Limits --> H[Improved Well-being];
-F -- Healthy Relationships --> H;
-G -- Purpose & Meaning --> H;
-```
+![Identifying Your Boundaries: Recognizing Needs and Limits. Self-Reflection; Identify Physical Needs; Identify Emotional Needs; Identify Spiritual Needs; Set Physical Boundaries; Set Emotional Boundaries; Set Spiritual Boundaries; Improved Well-being.](diagram-01.svg)
 
 
 ## Types of Boundaries: A Spectrum of Limits
@@ -80,16 +69,7 @@ The book addresses the challenging issue of setting boundaries with people strug
 Throughout the book, self-care is emphasized as an important component of setting and maintaining healthy boundaries.  This includes prioritizing physical, emotional, and spiritual well-being through activities such as exercise, relaxation, and engaging in meaningful pursuits.  Practicing self-compassion is equally important; recognizing your own limitations and treating yourself with kindness and understanding.
 
 
-```mermaid
-graph LR
-A[Self-Care] --> B(Physical Health);
-A --> C(Emotional Well-being);
-A --> D(Spiritual Growth);
-B --> E[Stronger Boundaries];
-C --> E;
-D --> E;
-E --> F[Improved Relationships];
-```
+![The Importance of Self-Care and Self-Compassion. Self-Care; Physical Health; Emotional Well-being; Spiritual Growth; Stronger Boundaries; Improved Relationships.](diagram-02.svg)
 
 ##   A Path Towards a More Fulfilling Life
 

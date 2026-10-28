@@ -14,13 +14,7 @@ Marcus and Ashley Kusi's "Emotional and Sexual Intimacy in Marriage" emphasizes 
 
 Emotional intimacy is built on trust and vulnerability. The Kusis encourage couples to create a safe space where sharing feelings, both positive and negative, is not only accepted but encouraged. This involves active listening, empathy, and a willingness to understand each other without judgment. They suggest practicing regular "check-ins," dedicated time for couples to discuss their emotional state and needs. Open communication is pivotal; holding back emotions creates distance and hinders the development of genuine intimacy.
 
-```mermaid
-graph LR
-    A[Trust] --> B(Vulnerability);
-    B --> C{Open Communication};
-    C --> D[Emotional Intimacy];
-    D --> E(Stronger Bond);
-```
+![Cultivating Emotional Intimacy: Building Trust and Connection. Trust; Vulnerability; Open Communication; Emotional Intimacy; Stronger Bond.](diagram-01.svg)
 
 ##  Forgiveness and Reconciliation: Healing Past Hurts
 
@@ -30,13 +24,7 @@ Past hurts and unresolved conflicts impede emotional intimacy. The book emphasiz
 
 Disagreements are inevitable in any relationship.  The book advocates for constructive conflict resolution strategies, moving away from accusatory language and focusing on addressing the underlying issues. The Kusis introduce techniques like "I" statements to express feelings without blaming the partner.  They also highlight the importance of choosing the right time and place for difficult discussions, avoiding escalation by staying calm and respectful.
 
-```mermaid
-graph LR
-    A[Identify the Issue] --> B(Express Feelings Constructively);
-    B --> C{Active Listening};
-    C --> D[Find Common Ground];
-    D --> E(Agreed Solution);
-```
+![Navigating Conflict: Healthy Disagreements and Resolution. Identify the Issue; Express Feelings Constructively; Active Listening; Find Common Ground; Agreed Solution.](diagram-02.svg)
 
 ##  The Importance of Quality Time: Nurturing Connection
 

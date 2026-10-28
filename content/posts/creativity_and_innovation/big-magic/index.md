@@ -14,13 +14,7 @@ Elizabeth Gilbert's "Big Magic" isn't just a book about art; it's a guide to liv
 
 Gilbert emphasizes that ideas are not solely the product of individual genius; they're everywhere, swirling around us, waiting to be noticed and nurtured.  She likens ideas to living entities, possessing their own unique energy and momentum.  The key isn't to *generate* ideas, but to *recognize* and *welcome* them when they appear.
 
-```mermaid
-graph LR
-A[Universe] --> B(Ideas);
-B --> C{Recognize};
-C --> D[Embrace];
-D --> E(Creative Life);
-```
+![Ideas are Everywhere: The Universe is a Generous Giver. Universe; Ideas; Recognize; Embrace; Creative Life.](diagram-01.svg)
 
 This involves cultivating curiosity, staying open to new experiences, and trusting that inspiration can strike at any moment. She advocates for actively seeking out novel situations and interactions to stimulate the inflow of new ideas.
 
@@ -28,13 +22,7 @@ This involves cultivating curiosity, staying open to new experiences, and trusti
 
 Fear is an intrinsic part of the creative process. Gilbert acknowledges this directly, dispelling the myth of the effortlessly creative genius. She reframes fear not as an obstacle, but as a natural companion to creativity. The goal isn't to eliminate fear, but to learn to coexist with it, to work *around* it, and that fear often masks a deeper desire.
 
-```mermaid
-graph LR
-A[Fear] -->B{Acknowledge};
-B --> C(Understand);
-C --> D[Navigate];
-D --> E(Creative Action);
-```
+![Fear is Inevitable, but Don't Let it Stop You. Fear; Acknowledge; Understand; Navigate; Creative Action.](diagram-02.svg)
 
 She suggests approaching fear with curiosity rather than aversion, questioning its source and its true meaning. Often, the fear is not of failure, but of success – of the responsibilities and changes that success might bring.
 
@@ -56,14 +44,7 @@ These two elements are intertwined and vital for embracing a creative life. Cour
 
 Curiosity fuels the exploration of new ideas, the willingness to experiment and break free from established patterns.  It's the driving force behind innovation and self-discovery.  Both encourage a spirit of playful exploration and open-mindedness.
 
-```mermaid
-graph LR
-A[Courage] -- Fuels --> B(Risk-Taking);
-B --> C[Creative Growth];
-C -- Driven by --> D(Curiosity);
-D --> E[Exploration & Experimentation];
-E --> F{Creative Life}
-```
+![The Importance of Courage and Curiosity. Courage; Risk-Taking; Creative Growth; Curiosity; Exploration & Experimentation; Creative Life.](diagram-03.svg)
 
 ##  Detach from the Outcome: Focus on the Process
 

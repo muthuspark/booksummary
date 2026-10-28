@@ -21,14 +21,7 @@ Seligman introduces the PERMA model as the core framework for understanding and 
 * **A**ccomplishment:  Setting and achieving goals, building competence.
 
 
-```mermaid
-graph LR
-    A[PERMA] --> B(Positive Emotion);
-    A --> C(Engagement);
-    A --> D(Relationships);
-    A --> E(Meaning);
-    A --> F(Accomplishment);
-```
+![The PERMA Model: A Framework for Well-Being. PERMA; Positive Emotion; Engagement; Relationships; Meaning; Accomplishment.](diagram-01.svg)
 
 Each element is crucial, and maximizing them leads to a flourishing life. The book delves into each component, providing specific techniques for improvement.
 

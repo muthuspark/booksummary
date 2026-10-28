@@ -14,13 +14,7 @@ L. David Marquet's "Leadership Is Language" isn't just about leadership in a cor
 
 The book's core message centers around the transition from a control-oriented leadership style to a coaching leadership style.  Control-based leadership relies on giving orders and micromanaging, creating a dependent and reactive team.  In contrast, coaching leadership focuses on empowering team members by asking questions, fostering critical thinking, and encouraging ownership.  This shift is not merely a matter of attitude; it manifests most powerfully in the *language* used.
 
-```mermaid
-graph LR
-    A[Control Leadership] --> B(Orders, Directives, Micromanagement);
-    A --> C(Dependency, Low Initiative);
-    D[Coaching Leadership] --> E(Questions, Empowerment, Feedback);
-    D --> F(Ownership, Initiative, Creativity);
-```
+![From Control to Coaching: The Core Shift. Control Leadership; Orders, Directives, Micromanagement; Dependency, Low Initiative; Coaching Leadership; Questions, Empowerment, Feedback; Ownership, Initiative, Creativity.](diagram-01.svg)
 
 ## The Power of Intent-Based Leadership
 

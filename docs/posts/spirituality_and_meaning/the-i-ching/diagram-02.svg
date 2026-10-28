@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550pt" height="144pt" viewBox="0.00 0.00 550.00 144.00" role="img" aria-labelledby="title description">
+<title id="title">Yang and Yin: The Dance of Opposites</title><desc id="description">Yang leads to Yin ((Complementary Forces)). Yang leads to Active. Yin leads to Passive. Active leads to Light. Passive leads to Dark.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 126)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-126 532,-126 532,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M68.11,-54.86C108.79,-60.83 177.45,-70.91 218.68,-76.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.51,-79.41 225.79,-78.01 219.22,-74.57 218.51,-79.41" />
+<text text-anchor="middle" x="141.5" y="-96" font-family="Georgia" font-size="15.00" fill="#405b50">(Complementary</text>
+<text text-anchor="middle" x="141.5" y="-79" font-family="Georgia" font-size="15.00" fill="#405b50">Forces)</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M68.11,-45.44C105.38,-40.31 166.15,-31.95 207.78,-26.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.2,-28.64 214.8,-25.26 207.53,-23.78 208.2,-28.64" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M282.19,-82C293.04,-82 305.9,-82 318.33,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="318.58,-84.45 325.58,-82 318.58,-79.55 318.58,-84.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M293.11,-20C304.1,-20 316.14,-20 327.3,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="327.49,-22.45 334.49,-20 327.49,-17.55 327.49,-22.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M413.07,-82C421.52,-82 430.37,-82 438.73,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="438.94,-84.45 445.94,-82 438.94,-79.55 438.94,-84.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M56,-70C56,-70 12,-70 12,-70 6,-70 0,-64 0,-58 0,-58 0,-42 0,-42 0,-36 6,-30 12,-30 12,-30 56,-30 56,-30 62,-30 68,-36 68,-42 68,-42 68,-58 68,-58 68,-64 62,-70 56,-70" />
+<text text-anchor="middle" x="34" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Yang</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M270,-102C270,-102 238,-102 238,-102 232,-102 226,-96 226,-90 226,-90 226,-74 226,-74 226,-68 232,-62 238,-62 238,-62 270,-62 270,-62 276,-62 282,-68 282,-74 282,-74 282,-90 282,-90 282,-96 276,-102 270,-102" />
+<text text-anchor="middle" x="254" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Yin</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M281,-40C281,-40 227,-40 227,-40 221,-40 215,-34 215,-28 215,-28 215,-12 215,-12 215,-6 221,0 227,0 227,0 281,0 281,0 287,0 293,-6 293,-12 293,-12 293,-28 293,-28 293,-34 287,-40 281,-40" />
+<text text-anchor="middle" x="254" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M401,-102C401,-102 338,-102 338,-102 332,-102 326,-96 326,-90 326,-90 326,-74 326,-74 326,-68 332,-62 338,-62 338,-62 401,-62 401,-62 407,-62 413,-68 413,-74 413,-74 413,-90 413,-90 413,-96 407,-102 401,-102" />
+<text text-anchor="middle" x="369.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passive</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M392.5,-40C392.5,-40 346.5,-40 346.5,-40 340.5,-40 334.5,-34 334.5,-28 334.5,-28 334.5,-12 334.5,-12 334.5,-6 340.5,0 346.5,0 346.5,0 392.5,0 392.5,0 398.5,0 404.5,-6 404.5,-12 404.5,-12 404.5,-28 404.5,-28 404.5,-34 398.5,-40 392.5,-40" />
+<text text-anchor="middle" x="369.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Light</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M502,-102C502,-102 458,-102 458,-102 452,-102 446,-96 446,-90 446,-90 446,-74 446,-74 446,-68 452,-62 458,-62 458,-62 502,-62 502,-62 508,-62 514,-68 514,-74 514,-74 514,-90 514,-90 514,-96 508,-102 502,-102" />
+<text text-anchor="middle" x="480" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dark</text>
+</g>
+</g>
+</svg>

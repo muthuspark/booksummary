@@ -20,19 +20,7 @@ A key aspect of Smith's advice lies in clearly defining personal needs and expec
 
 Smith dedicates a significant portion of the book to recognizing potential red flags in a romantic relationship. He outlines various warning signs that may indicate incompatibility or underlying issues, including controlling behavior, consistent disrespect, a lack of emotional availability, financial irresponsibility, and a history of problematic relationships. He emphasizes the importance of not overlooking these early warning signals, urging readers to trust their instincts and prioritize their well-being. Ignoring red flags, often driven by a desire for the relationship to work, can lead to significant problems later. Smith stresses the importance of seeking external advice from trusted friends and family who can offer unbiased insights.
 
-```mermaid
-graph LR
-    A[Red Flags] --> B(Controlling Behavior);
-    A --> C(Disrespect);
-    A --> D(Lack of Emotional Availability);
-    A --> E(Financial Irresponsibility);
-    A --> F(Problematic Relationship History);
-    F --> G[Seek External Perspective];
-    B --> G;
-    C --> G;
-    D --> G;
-    E --> G;
-```
+![Identifying Relationship Red Flags. Red Flags; Controlling Behavior; Disrespect; Lack of Emotional Availability; Financial Irresponsibility; Problematic Relationship History; Seek External Perspective.](diagram-01.svg)
 
 ## Understanding Communication and Conflict Resolution
 

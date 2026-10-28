@@ -14,12 +14,7 @@ Wallace D. Wattles's "The Science of Getting Rich" isn't about quick schemes or 
 
 The first critical step is formulating a definite purpose. This isn't just a vague desire; it's a clearly defined plan, complete with a specific amount of wealth you aim to acquire and a precise timeline. This clarity provides a target for your subconscious mind to work towards.  Vague goals yield vague results.
 
-```mermaid
-graph LR
-    A[Vague Desire] --> B(Unfocused Effort);
-    C[Definite Purpose] --> D(Focused Action);
-    D --> E[Wealth Creation];
-```
+![The Importance of a Definite Purpose. Vague Desire; Unfocused Effort; Definite Purpose; Focused Action; Wealth Creation.](diagram-01.svg)
 
 
 #  The Power of Faith and Belief
@@ -31,12 +26,7 @@ Faith, according to Wattles, is not blind belief; it’s a firm conviction that 
 
 Cultivating gratitude is essential.  Focusing on what you already have, rather than what you lack, creates a positive mental environment, attracting more abundance.  This positive thinking extends to all aspects of your life; negativity hinders the process of attracting wealth.
 
-```mermaid
-graph LR
-    A[Gratitude] --> B(Positive Thinking);
-    B --> C(Attracting Abundance);
-    D[Negativity] --> E(Blocking Abundance);
-```
+![The Role of Gratitude and Positive Thinking. Gratitude; Positive Thinking; Attracting Abundance; Negativity; Blocking Abundance.](diagram-02.svg)
 
 #  The Power of Autosuggestion
 

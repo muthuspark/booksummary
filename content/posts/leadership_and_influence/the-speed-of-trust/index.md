@@ -14,17 +14,7 @@ Stephen M.R. Covey's "The Speed of Trust" centers on the transformative power of
 
 Covey outlines two dimensions that constitute trust: character and competence.  Character encompasses integrity, intent, and morality.  It's about being consistent in word and deed, demonstrating honesty and ethical behavior. Competence, on the other hand, refers to capability, skills, and results. It's about having the ability to deliver on commitments and achieve desired outcomes.
 
-```mermaid
-graph LR
-    A[Trust] --> B(Character);
-    A --> C(Competence);
-    B --> D{Integrity};
-    B --> E{Intent};
-    B --> F{Morality};
-    C --> G{Capability};
-    C --> H{Skills};
-    C --> I{Results};
-```
+![The Two Dimensions of Trust: Character & Competence. Trust; Character; Competence; Integrity; Intent; Morality; Capability; Skills; Results.](diagram-01.svg)
 
 A high level of trust emerges from a strong foundation in both character and competence.  Weak character combined with high competence can lead to short-term gains, but ultimately erodes trust.  Conversely, strong character without the competence to deliver can also damage trust.  The ideal scenario is to have both aspects simultaneously.
 

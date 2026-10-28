@@ -20,11 +20,7 @@ Case structures his argument around three waves of technological disruption:
 
 This framework helps readers understand the historical context of the digital revolution and better anticipate future trends.
 
-```mermaid
-graph LR
-A[First Wave: Mainframes] --> B(Second Wave: PCs);
-B --> C{Third Wave: Internet & Mobile};
-```
+![Understanding the Three Waves of Change. First Wave: Mainframes; Second Wave: PCs; Third Wave: Internet & Mobile.](diagram-01.svg)
 
 ## The Power of Networks and Community Building
 

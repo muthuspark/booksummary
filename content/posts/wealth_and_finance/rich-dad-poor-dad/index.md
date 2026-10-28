@@ -15,12 +15,7 @@ author: "Robert T. Kiyosaki"
 
 The central argument revolves around the critical need for financial literacy. Kiyosaki argues that traditional schooling fails to equip individuals with the necessary knowledge to navigate the world of finance.  He emphasizes that understanding basic financial concepts like assets, liabilities, and cash flow is paramount. Without this knowledge, people remain trapped in the "rat race," working tirelessly for money instead of making money work for them.
 
-```mermaid
-graph LR
-    A[High Income] --> B(Rat Race);
-    C[Assets] --> D(Financial Freedom);
-    E[Financial Literacy] --> C;
-```
+![The Importance of Financial Literacy:  Understanding the Game. High Income; Rat Race; Assets; Financial Freedom; Financial Literacy.](diagram-01.svg)
 
 
 # Assets vs. Liabilities:  The Foundation of Wealth Building
@@ -47,13 +42,7 @@ The book advocates for a disciplined approach to managing cash flow. Kiyosaki st
 
 Kiyosaki emphasizes the importance of continuous learning in finance. He encourages actively seeking knowledge and understanding beyond traditional education, including reading books on finance, investing in personal development courses, and actively seeking mentorship from financially successful individuals.
 
-```mermaid
-graph LR
-    A[Formal Education] --> B(Basic Knowledge);
-    C[Financial Literacy] --> D(Financial Intelligence);
-    E[Continuous Learning] --> C;
-    D --> F(Wealth Building);
-```
+![The Role of Education:  Continuous Learning and Financial Intelligence. Formal Education; Basic Knowledge; Financial Literacy; Financial Intelligence; Continuous Learning; Wealth Building.](diagram-02.svg)
 
 
 # Overcoming the Barriers to Financial Freedom:  Fear, Debt and the "Rat Race"

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592pt" height="168pt" viewBox="0.00 0.00 592.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Step 1: Get Out of Debt</title><desc id="description">High-Interest Debt (Credit Cards) leads to Pay Off First. Low-Interest Debt (Loans) leads to Pay Off Next. Remaining Debt leads to Pay Off Last.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 574,-150 574,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M90,-71.67C90,-63.77 90,-55.28 90,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="92.45,-47.12 90,-40.12 87.55,-47.12 92.45,-47.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M289,-71.67C289,-63.77 289,-55.28 289,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="291.45,-47.12 289,-40.12 286.55,-47.12 291.45,-47.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M477,-81.63C477,-71.32 477,-58.48 477,-47.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="479.45,-47.19 477,-40.19 474.55,-47.19 479.45,-47.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-132C168,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 168,-72 168,-72 174,-72 180,-78 180,-84 180,-84 180,-120 180,-120 180,-126 174,-132 168,-132" />
+<text text-anchor="middle" x="90" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Interest Debt</text>
+<text text-anchor="middle" x="90" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Credit Cards)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M142.5,-40C142.5,-40 37.5,-40 37.5,-40 31.5,-40 25.5,-34 25.5,-28 25.5,-28 25.5,-12 25.5,-12 25.5,-6 31.5,0 37.5,0 37.5,0 142.5,0 142.5,0 148.5,0 154.5,-6 154.5,-12 154.5,-12 154.5,-28 154.5,-28 154.5,-34 148.5,-40 142.5,-40" />
+<text text-anchor="middle" x="90" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Off First</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M364,-132C364,-132 214,-132 214,-132 208,-132 202,-126 202,-120 202,-120 202,-84 202,-84 202,-78 208,-72 214,-72 214,-72 364,-72 364,-72 370,-72 376,-78 376,-84 376,-84 376,-120 376,-120 376,-126 370,-132 364,-132" />
+<text text-anchor="middle" x="289" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low-Interest Debt</text>
+<text text-anchor="middle" x="289" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Loans)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M342,-40C342,-40 236,-40 236,-40 230,-40 224,-34 224,-28 224,-28 224,-12 224,-12 224,-6 230,0 236,0 236,0 342,0 342,0 348,0 354,-6 354,-12 354,-12 354,-28 354,-28 354,-34 348,-40 342,-40" />
+<text text-anchor="middle" x="289" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Off Next</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M544,-122C544,-122 410,-122 410,-122 404,-122 398,-116 398,-110 398,-110 398,-94 398,-94 398,-88 404,-82 410,-82 410,-82 544,-82 544,-82 550,-82 556,-88 556,-94 556,-94 556,-110 556,-110 556,-116 550,-122 544,-122" />
+<text text-anchor="middle" x="477" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Remaining Debt</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M527.5,-40C527.5,-40 426.5,-40 426.5,-40 420.5,-40 414.5,-34 414.5,-28 414.5,-28 414.5,-12 414.5,-12 414.5,-6 420.5,0 426.5,0 426.5,0 527.5,0 527.5,0 533.5,0 539.5,-6 539.5,-12 539.5,-12 539.5,-28 539.5,-28 539.5,-34 533.5,-40 527.5,-40" />
+<text text-anchor="middle" x="477" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Off Last</text>
+</g>
+</g>
+</svg>

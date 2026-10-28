@@ -24,13 +24,7 @@ Lynch coined the term "tenbagger" to describe stocks that increase in value tenf
 
 While financial statements are crucial, Lynch emphasizes the importance of qualitative analysis alongside quantitative data. Look beyond the balance sheets and income statements. He advocates for understanding the company's business model, management team, competitive advantages, and future prospects. Talk to company employees, read industry reports, and pay attention to market trends impacting the company's business. This approach provides a deeper understanding of a company's value.
 
-```mermaid
-graph LR
-    A[Financial Statements] --> B(Qualitative Analysis);
-    B --> C{Company Understanding};
-    C --> D[Investment Decision];
-    A --> D;
-```
+![Analyzing Companies: Beyond the Numbers. Financial Statements; Qualitative Analysis; Company Understanding; Investment Decision.](diagram-01.svg)
 
 # Spotting the "Can't-Miss" Companies
 

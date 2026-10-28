@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222pt" height="456pt" viewBox="0.00 0.00 222.00 456.00" role="img" aria-labelledby="title description">
+<title id="title">Conflict Resolution: Navigating Disagreements</title><desc id="description">Conflict leads to Identify Root Cause. Identify Root Cause leads to Respectful Communication. Respectful Communication leads to Compromise. Compromise leads to Forgiveness. Forgiveness leads to Resolution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 438)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-438 204,-438 204,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93,-379.87C93,-372.31 93,-363.49 93,-355.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.45,-355.1 93,-348.1 90.55,-355.1 95.45,-355.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93,-307.63C93,-300.34 93,-291.78 93,-283.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.45,-283.19 93,-276.19 90.55,-283.19 95.45,-283.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93,-215.67C93,-207.77 93,-199.28 93,-191.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.45,-191.12 93,-184.12 90.55,-191.12 95.45,-191.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93,-143.87C93,-136.31 93,-127.49 93,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.45,-119.1 93,-112.1 90.55,-119.1 95.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93,-71.87C93,-64.31 93,-55.49 93,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.45,-47.1 93,-40.1 90.55,-47.1 95.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M126.5,-420C126.5,-420 59.5,-420 59.5,-420 53.5,-420 47.5,-414 47.5,-408 47.5,-408 47.5,-392 47.5,-392 47.5,-386 53.5,-380 59.5,-380 59.5,-380 126.5,-380 126.5,-380 132.5,-380 138.5,-386 138.5,-392 138.5,-392 138.5,-408 138.5,-408 138.5,-414 132.5,-420 126.5,-420" />
+<text text-anchor="middle" x="93" y="-395.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M174,-348C174,-348 12,-348 12,-348 6,-348 0,-342 0,-336 0,-336 0,-320 0,-320 0,-314 6,-308 12,-308 12,-308 174,-308 174,-308 180,-308 186,-314 186,-320 186,-320 186,-336 186,-336 186,-342 180,-348 174,-348" />
+<text text-anchor="middle" x="93" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Root Cause</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159,-276C159,-276 27,-276 27,-276 21,-276 15,-270 15,-264 15,-264 15,-228 15,-228 15,-222 21,-216 27,-216 27,-216 159,-216 159,-216 165,-216 171,-222 171,-228 171,-228 171,-264 171,-264 171,-270 165,-276 159,-276" />
+<text text-anchor="middle" x="93" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Respectful</text>
+<text text-anchor="middle" x="93" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146.5,-184C146.5,-184 39.5,-184 39.5,-184 33.5,-184 27.5,-178 27.5,-172 27.5,-172 27.5,-156 27.5,-156 27.5,-150 33.5,-144 39.5,-144 39.5,-144 146.5,-144 146.5,-144 152.5,-144 158.5,-150 158.5,-156 158.5,-156 158.5,-172 158.5,-172 158.5,-178 152.5,-184 146.5,-184" />
+<text text-anchor="middle" x="93" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compromise</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M142.5,-112C142.5,-112 43.5,-112 43.5,-112 37.5,-112 31.5,-106 31.5,-100 31.5,-100 31.5,-84 31.5,-84 31.5,-78 37.5,-72 43.5,-72 43.5,-72 142.5,-72 142.5,-72 148.5,-72 154.5,-78 154.5,-84 154.5,-84 154.5,-100 154.5,-100 154.5,-106 148.5,-112 142.5,-112" />
+<text text-anchor="middle" x="93" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Forgiveness</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M138.5,-40C138.5,-40 47.5,-40 47.5,-40 41.5,-40 35.5,-34 35.5,-28 35.5,-28 35.5,-12 35.5,-12 35.5,-6 41.5,0 47.5,0 47.5,0 138.5,0 138.5,0 144.5,0 150.5,-6 150.5,-12 150.5,-12 150.5,-28 150.5,-28 150.5,-34 144.5,-40 138.5,-40" />
+<text text-anchor="middle" x="93" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resolution</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540pt" height="220pt" viewBox="0.00 0.00 539.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">Information Architecture and Navigation</title><desc id="description">Home leads to Category 1. Home leads to Category 2. Category 1 leads to Product A. Category 1 leads to Product B. Category 2 leads to Product C. Category 2 leads to Product D.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 521.5,-202 521.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M233.19,-143.87C225.36,-135.69 216.13,-126.05 207.82,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.4,-115.47 202.79,-112.1 205.86,-118.86 209.4,-115.47" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M269.81,-143.87C277.64,-135.69 286.87,-126.05 295.18,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="297.14,-118.86 300.21,-112.1 293.6,-115.47 297.14,-118.86" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148.98,-71.87C132.78,-63.15 113.49,-52.77 96.58,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.3,-41.27 89.98,-40.1 94.98,-45.58 97.3,-41.27" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M184.77,-71.87C184.88,-64.31 185.01,-55.49 185.12,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.58,-47.14 185.23,-40.1 182.68,-47.07 187.58,-47.14" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.23,-71.87C318.12,-64.31 317.99,-55.49 317.88,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="320.32,-47.07 317.77,-40.1 315.42,-47.14 320.32,-47.07" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M354.02,-71.87C370.22,-63.15 389.51,-52.77 406.42,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="408.02,-45.58 413.02,-40.1 405.7,-41.27 408.02,-45.58" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278.5,-184C278.5,-184 224.5,-184 224.5,-184 218.5,-184 212.5,-178 212.5,-172 212.5,-172 212.5,-156 212.5,-156 212.5,-150 218.5,-144 224.5,-144 224.5,-144 278.5,-144 278.5,-144 284.5,-144 290.5,-150 290.5,-156 290.5,-156 290.5,-172 290.5,-172 290.5,-178 284.5,-184 278.5,-184" />
+<text text-anchor="middle" x="251.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Home</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M228,-112C228,-112 141,-112 141,-112 135,-112 129,-106 129,-100 129,-100 129,-84 129,-84 129,-78 135,-72 141,-72 141,-72 228,-72 228,-72 234,-72 240,-78 240,-84 240,-84 240,-100 240,-100 240,-106 234,-112 228,-112" />
+<text text-anchor="middle" x="184.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Category 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363,-112C363,-112 274,-112 274,-112 268,-112 262,-106 262,-100 262,-100 262,-84 262,-84 262,-78 268,-72 274,-72 274,-72 363,-72 363,-72 369,-72 375,-78 375,-84 375,-84 375,-100 375,-100 375,-106 369,-112 363,-112" />
+<text text-anchor="middle" x="318.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Category 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M97,-40C97,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 97,0 97,0 103,0 109,-6 109,-12 109,-12 109,-28 109,-28 109,-34 103,-40 97,-40" />
+<text text-anchor="middle" x="54.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Product A</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M228,-40C228,-40 143,-40 143,-40 137,-40 131,-34 131,-28 131,-28 131,-12 131,-12 131,-6 137,0 143,0 143,0 228,0 228,0 234,0 240,-6 240,-12 240,-12 240,-28 240,-28 240,-34 234,-40 228,-40" />
+<text text-anchor="middle" x="185.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Product B</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M359.5,-40C359.5,-40 275.5,-40 275.5,-40 269.5,-40 263.5,-34 263.5,-28 263.5,-28 263.5,-12 263.5,-12 263.5,-6 269.5,0 275.5,0 275.5,0 359.5,0 359.5,0 365.5,0 371.5,-6 371.5,-12 371.5,-12 371.5,-28 371.5,-28 371.5,-34 365.5,-40 359.5,-40" />
+<text text-anchor="middle" x="317.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Product C</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M491.5,-40C491.5,-40 405.5,-40 405.5,-40 399.5,-40 393.5,-34 393.5,-28 393.5,-28 393.5,-12 393.5,-12 393.5,-6 399.5,0 405.5,0 405.5,0 491.5,0 491.5,0 497.5,0 503.5,-6 503.5,-12 503.5,-12 503.5,-28 503.5,-28 503.5,-34 497.5,-40 491.5,-40" />
+<text text-anchor="middle" x="448.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Product D</text>
+</g>
+</g>
+</svg>

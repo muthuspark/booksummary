@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256pt" height="404pt" viewBox="0.00 0.00 256.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Ideas are Everywhere: The Universe is a Generous Giver</title><desc id="description">Universe leads to Ideas. Ideas leads to Recognize. Recognize leads to Embrace. Embrace leads to Creative Life.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 238,-386 238,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-327.87C110,-320.31 110,-311.49 110,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-303.1 110,-296.1 107.55,-303.1 112.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-255.91C110,-248.58 110,-239.86 110,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-231.07 110,-224.07 107.55,-231.07 112.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-143.79C110,-135.54 110,-127.04 110,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-119.09 110,-112.09 107.55,-119.09 112.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-71.87C110,-64.31 110,-55.49 110,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-47.1 110,-40.1 107.55,-47.1 112.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-368C148,-368 72,-368 72,-368 66,-368 60,-362 60,-356 60,-356 60,-340 60,-340 60,-334 66,-328 72,-328 72,-328 148,-328 148,-328 154,-328 160,-334 160,-340 160,-340 160,-356 160,-356 160,-362 154,-368 148,-368" />
+<text text-anchor="middle" x="110" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Universe</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M133.5,-296C133.5,-296 86.5,-296 86.5,-296 80.5,-296 74.5,-290 74.5,-284 74.5,-284 74.5,-268 74.5,-268 74.5,-262 80.5,-256 86.5,-256 86.5,-256 133.5,-256 133.5,-256 139.5,-256 145.5,-262 145.5,-268 145.5,-268 145.5,-284 145.5,-284 145.5,-290 139.5,-296 133.5,-296" />
+<text text-anchor="middle" x="110" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ideas</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="110,-224 0,-184 110,-144 220,-184 110,-224" />
+<text text-anchor="middle" x="110" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognize</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-112C148,-112 72,-112 72,-112 66,-112 60,-106 60,-100 60,-100 60,-84 60,-84 60,-78 66,-72 72,-72 72,-72 148,-72 148,-72 154,-72 160,-78 160,-84 160,-84 160,-100 160,-100 160,-106 154,-112 148,-112" />
+<text text-anchor="middle" x="110" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Embrace</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M163,-40C163,-40 57,-40 57,-40 51,-40 45,-34 45,-28 45,-28 45,-12 45,-12 45,-6 51,0 57,0 57,0 163,0 163,0 169,0 175,-6 175,-12 175,-12 175,-28 175,-28 175,-34 169,-40 163,-40" />
+<text text-anchor="middle" x="110" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creative Life</text>
+</g>
+</g>
+</svg>

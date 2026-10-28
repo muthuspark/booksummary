@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="498pt" height="260pt" viewBox="0.00 0.00 498.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Intrinsic Value: The Heart of Security Analysis</title><desc id="description">Financial Statements leads to Assets. Financial Statements leads to Liabilities. Financial Statements leads to Earnings. Financial Statements leads to Dividends. Assets leads to Intrinsic Value. Liabilities leads to Intrinsic Value. Earnings leads to Intrinsic Value. Dividends leads to Intrinsic Value.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 480,-242 480,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.36,-183.87C142.28,-173.62 110.34,-161.05 84.72,-150.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="85.42,-148.62 78.01,-148.34 83.63,-153.18 85.42,-148.62" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199.78,-183.87C192.42,-175.69 183.74,-166.05 175.93,-157.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.7,-155.67 171.19,-152.1 174.06,-158.95 177.7,-155.67" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M234.22,-183.87C241.58,-175.69 250.26,-166.05 258.07,-157.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="259.94,-158.95 262.81,-152.1 256.3,-155.67 259.94,-158.95" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M268.67,-183.96C293.38,-174.86 323.08,-163.92 348.61,-154.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="349.62,-156.75 355.34,-152.03 347.93,-152.15 349.62,-156.75" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M76.75,-111.91C101.03,-99.64 133.03,-83.46 160.33,-69.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.66,-71.73 166.8,-66.38 159.45,-67.35 161.66,-71.73" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.36,-111.91C173.94,-102.51 182.13,-90.82 189.94,-79.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.98,-81.02 193.98,-73.88 187.96,-78.21 191.98,-81.02" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266.64,-111.91C260.06,-102.51 251.87,-90.82 244.06,-79.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.04,-78.21 240.02,-73.88 242.02,-81.02 246.04,-78.21" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M366.71,-111.91C340.38,-99.44 305.54,-82.94 276.1,-68.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="276.89,-66.66 269.52,-65.88 274.79,-71.09 276.89,-66.66" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M302.5,-224C302.5,-224 131.5,-224 131.5,-224 125.5,-224 119.5,-218 119.5,-212 119.5,-212 119.5,-196 119.5,-196 119.5,-190 125.5,-184 131.5,-184 131.5,-184 302.5,-184 302.5,-184 308.5,-184 314.5,-190 314.5,-196 314.5,-196 314.5,-212 314.5,-212 314.5,-218 308.5,-224 302.5,-224" />
+<text text-anchor="middle" x="217" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Statements</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M66,-152C66,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 66,-112 66,-112 72,-112 78,-118 78,-124 78,-124 78,-140 78,-140 78,-146 72,-152 66,-152" />
+<text text-anchor="middle" x="39" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assets</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M195.5,-152C195.5,-152 112.5,-152 112.5,-152 106.5,-152 100.5,-146 100.5,-140 100.5,-140 100.5,-124 100.5,-124 100.5,-118 106.5,-112 112.5,-112 112.5,-112 195.5,-112 195.5,-112 201.5,-112 207.5,-118 207.5,-124 207.5,-124 207.5,-140 207.5,-140 207.5,-146 201.5,-152 195.5,-152" />
+<text text-anchor="middle" x="154" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Liabilities</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M318,-152C318,-152 242,-152 242,-152 236,-152 230,-146 230,-140 230,-140 230,-124 230,-124 230,-118 236,-112 242,-112 242,-112 318,-112 318,-112 324,-112 330,-118 330,-124 330,-124 330,-140 330,-140 330,-146 324,-152 318,-152" />
+<text text-anchor="middle" x="280" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Earnings</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M450,-152C450,-152 364,-152 364,-152 358,-152 352,-146 352,-140 352,-140 352,-124 352,-124 352,-118 358,-112 364,-112 364,-112 450,-112 450,-112 456,-112 462,-118 462,-124 462,-124 462,-140 462,-140 462,-146 456,-152 450,-152" />
+<text text-anchor="middle" x="407" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dividends</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="217,-80 71,-40 217,0 363,-40 217,-80" />
+<text text-anchor="middle" x="217" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intrinsic Value</text>
+</g>
+</g>
+</svg>

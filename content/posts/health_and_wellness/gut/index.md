@@ -27,11 +27,7 @@ The book debunks the misconception that the gut is solely responsible for digest
 
 Enders emphasizes the importance of gut microbiome diversity. A various microbiome with a wide variety of microbial species is more resilient and better equipped to handle challenges like infections and dietary changes. A less various microbiome, on the other hand, may be more susceptible to dysbiosis.
 
-```mermaid
-graph LR
-    A[Diverse Microbiome] --> B(Resilient Ecosystem);
-    C[Less Diverse Microbiome] --> D(Susceptible to Dysbiosis);
-```
+![The Power of the Microbiome: A Diverse Ecosystem. Diverse Microbiome; Resilient Ecosystem; Less Diverse Microbiome; Susceptible to Dysbiosis.](diagram-01.svg)
 
 ##  Maintaining a Healthy Gut: Practical Strategies
 
@@ -64,15 +60,7 @@ The gut-brain axis involves multiple pathways of communication:
 
 * **Immune System Signals:** Inflammation in the gut can affect brain function through immune system signaling pathways.
 
-```mermaid
-graph LR
-    A[Gut Microbiome] --> B(Neurotransmitters);
-    B --> C[Brain Function];
-    A --> D(Hormones);
-    D --> C;
-    A --> E(Immune Signals);
-    E --> C;
-```
+![The Gut-Brain Connection: Impact on Mental Health. Gut Microbiome; Neurotransmitters; Brain Function; Hormones; Immune Signals.](diagram-02.svg)
 
 
 ##  Addressing Gut Issues: Practical Approaches

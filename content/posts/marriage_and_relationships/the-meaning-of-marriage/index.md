@@ -15,13 +15,7 @@ Timothy Keller's "The Meaning of Marriage" isn't a self-help book promising quic
 
 Keller challenges the modern, romanticized view of marriage, where individual happiness is the sole determinant of its success. He counters this by emphasizing the sacramental nature of marriage, viewing it as a sacred covenant, a public declaration of commitment before God and community. This commitment, he stresses, transcends fleeting emotions, weathering the inevitable storms of life.  The focus shifts from individual gratification to mutual sanctification—the process of becoming more Christ-like through the relationship.
 
-```mermaid
-graph LR
-A[Individual Fulfillment] --> B(Romantic Idealism);
-B --> C{Unsustainable Marriage};
-D[Sacramental Covenant] --> E(Mutual Sanctification);
-E --> F{Sustainable Marriage};
-```
+![Marriage as a Sacrament:  Beyond Romantic Idealism. Individual Fulfillment; Romantic Idealism; Unsustainable Marriage; Sacramental Covenant; Mutual Sanctification; Sustainable Marriage.](diagram-01.svg)
 
 ## Understanding the Purpose of Marriage
 
@@ -41,13 +35,7 @@ Keller acknowledges the difficulties in marriage. He doesn't shy away from discu
 
 Keller devotes significant space to effective communication. He advocates for honest and empathetic dialogue, focusing on understanding each other rather than assigning blame. He highlights the importance of active listening and expressing needs clearly, without resorting to criticism or defensiveness. He provides a framework for constructive conflict resolution, encouraging couples to address disagreements directly and respectfully, aiming for reconciliation rather than victory.
 
-```mermaid
-graph LR
-A[Honest Communication] --> B(Active Listening);
-B --> C(Empathetic Understanding);
-C --> D(Constructive Conflict Resolution);
-D --> E[Reconciliation];
-```
+![Practical Strategies for a Successful Marriage:  Communication and Conflict Resolution. Honest Communication; Active Listening; Empathetic Understanding; Constructive Conflict Resolution; Reconciliation.](diagram-02.svg)
 
 ##  Dealing with Differences:  Celebrating Uniqueness
 
@@ -63,13 +51,7 @@ Forgiveness is a recurring theme. Keller acknowledges that hurt and betrayal are
 
 Keller repeatedly highlights the importance of selflessness in marriage. He argues that a successful marriage requires a willingness to prioritize the needs of one's spouse above one's own desires. This isn't about self-denial, but about a conscious choice to put the well-being of the partner first. This selfless approach fosters a deeper sense of connection and mutual respect.
 
-```mermaid
-graph LR
-A[Selfishness] --> B(Individual Needs);
-B --> C{Unsatisfied Marriage};
-D[Selflessness] --> E(Partner's Needs);
-E --> F{Fulfilling Marriage};
-```
+![The Role of Sacrifice and Selflessness:  Beyond "Me. Selfishness; Individual Needs; Unsatisfied Marriage; Selflessness; Partner's Needs; Fulfilling Marriage.](diagram-03.svg)
 
 
 ##  The Impact of External Factors:  Navigating External Pressures

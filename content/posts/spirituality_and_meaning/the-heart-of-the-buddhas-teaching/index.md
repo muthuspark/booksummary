@@ -15,12 +15,7 @@ Thich Nhat Hanh's "The Heart of the Buddha's Teaching" centers on the Four Noble
 
 The second noble truth explores the origin of suffering: *tanha*, craving or attachment. This isn't just about material possessions but extends to attachments to views, identities, and even our own ideas of self. Hanh emphasizes that our pursuit of things – pleasure, security, self-image – fuels our dissatisfaction. We constantly crave more, leading to a cycle of wanting and disappointment. The key here is understanding the nature of impermanence (*anicca*) and the unsatisfactoriness of grasping at the fleeting.
 
-```mermaid
-graph LR
-    A["Craving/Attachment (Tanha)"] --> B("Unsatisfactoriness/Suffering (Dukkha)")
-    B --> C[More Craving]
-    C --> A
-```
+![The Origin of Suffering: The Second Noble Truth. Craving/Attachment (Tanha); Unsatisfactoriness/Suffering (Dukkha; More Craving.](diagram-01.svg)
 
 # The Cessation of Suffering: The Third Noble Truth
 
@@ -31,25 +26,7 @@ The third noble truth points towards the cessation of suffering – *nirodha*.  
 
 The fourth noble truth outlines the path to the cessation of suffering: the Eightfold Path. This isn't a linear progression but an interconnected set of practices that work together to achieve wisdom, ethical conduct, and mental discipline.
 
-```mermaid
-graph LR
-A[Right Understanding] --> B(Right Thought)
-B --> C(Right Speech)
-C --> D(Right Action)
-D --> E(Right Livelihood)
-E --> F(Right Effort)
-F --> G(Right Mindfulness)
-G --> H(Right Concentration)
-H --> I(Cessation of Suffering)
-A -.-> I
-B -.-> I
-C -.-> I
-D -.-> I
-E -.-> I
-F -.-> I
-G -.-> I
-
-```
+![The Path to the Cessation of Suffering: The Eightfold Path. Right Understanding; Right Thought; Right Speech; Right Action; Right Livelihood; Right Effort; Right Mindfulness; Right Concentration; Cessation of Suffering.](diagram-02.svg)
 
 **Right Understanding:** Understanding the Four Noble Truths and the nature of reality.
 

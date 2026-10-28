@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="378pt" height="138pt" viewBox="0.00 0.00 378.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Finite vs. Infinite Games</title><desc id="description">Finite Game leads to Win/Lose. Infinite Game leads to Just Keep Playing.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 360,-120 360,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M132.62,-20C152.99,-20 175.58,-20 195.78,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.81,-22.45 202.81,-20 195.81,-17.55 195.81,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139.12,-82C147,-82 155.12,-82 163.24,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.68,-84.45 170.68,-82 163.68,-79.55 163.68,-84.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M120.5,-40C120.5,-40 18.5,-40 18.5,-40 12.5,-40 6.5,-34 6.5,-28 6.5,-28 6.5,-12 6.5,-12 6.5,-6 12.5,0 18.5,0 18.5,0 120.5,0 120.5,0 126.5,0 132.5,-6 132.5,-12 132.5,-12 132.5,-28 132.5,-28 132.5,-34 126.5,-40 120.5,-40" />
+<text text-anchor="middle" x="69.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Finite Game</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M298,-40C298,-40 215,-40 215,-40 209,-40 203,-34 203,-28 203,-28 203,-12 203,-12 203,-6 209,0 215,0 215,0 298,0 298,0 304,0 310,-6 310,-12 310,-12 310,-28 310,-28 310,-34 304,-40 298,-40" />
+<text text-anchor="middle" x="256.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Win/Lose</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M127,-102C127,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 127,-62 127,-62 133,-62 139,-68 139,-74 139,-74 139,-90 139,-90 139,-96 133,-102 127,-102" />
+<text text-anchor="middle" x="69.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Infinite Game</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M330,-102C330,-102 183,-102 183,-102 177,-102 171,-96 171,-90 171,-90 171,-74 171,-74 171,-68 177,-62 183,-62 183,-62 330,-62 330,-62 336,-62 342,-68 342,-74 342,-74 342,-90 342,-90 342,-96 336,-102 330,-102" />
+<text text-anchor="middle" x="256.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Just Keep Playing</text>
+</g>
+</g>
+</svg>

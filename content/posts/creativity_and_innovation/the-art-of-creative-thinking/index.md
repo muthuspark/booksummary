@@ -15,13 +15,7 @@ Rod Judkins' "The Art of Creative Thinking" isn't just a theoretical exploration
 
 The foundation of Judkins' approach lies in a thorough understanding of the creative process itself.  He deconstructs it into manageable stages, making it less daunting and more accessible.  Instead of viewing creativity as a spontaneous flash of inspiration, he presents it as a systematic process involving preparation, incubation, illumination, and verification. This cyclical nature highlights the iterative nature of creative work, emphasizing the importance of feedback and refinement.
 
-```mermaid
-graph LR
-A[Preparation] --> B(Incubation);
-B --> C{Illumination};
-C --> D[Verification];
-D --> A;
-```
+![Understanding the Creative Process. Preparation; Incubation; Illumination; Verification.](diagram-01.svg)
 
 Judkins stresses the importance of preparation – gathering information, researching, and immersing oneself in the problem or challenge. This phase lays the groundwork for subsequent stages.  Incubation involves stepping away from the problem consciously, allowing the subconscious mind to work on it.  Illumination, the "aha!" moment, often emerges during this period of detachment.  Finally, verification involves testing, refining, and validating the creative solution.
 

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="785pt" height="582pt" viewBox="0.00 0.00 785.00 582.00" role="img" aria-labelledby="title description">
+<title id="title">The Core Dilemma: Control vs. Cash</title><desc id="description">Founder's Dilemma leads to Control. Founder's Dilemma leads to Cash. Control leads to Maintain Vision, Autonomy. Control leads to Risk of slow growth, limited resources. Cash leads to Faster growth, greater resources. Cash leads to Loss of control, potential for conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 564)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-564 767,-564 767,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.55,-293.16C163.29,-302.37 189.05,-313.29 211.12,-322.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.45,-325.02 217.85,-325.5 212.36,-320.51 210.45,-325.02" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.55,-252.84C167.1,-242.01 198.22,-228.82 222.35,-218.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.48,-220.78 228.97,-215.79 221.56,-216.27 223.48,-220.78" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M280.6,-364.2C294.84,-379.92 316.38,-401.29 339,-415 370.27,-433.95 407.31,-448.76 441.19,-459.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="440.51,-462.2 447.92,-462.01 442.01,-457.53 440.51,-462.2" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M307.17,-344C318.85,-344 332.26,-344 346.63,-344" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="346.76,-346.45 353.76,-344 346.76,-341.55 346.76,-346.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M296.11,-202C306.35,-202 318.51,-202 331.85,-202" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="331.93,-204.45 338.93,-202 331.93,-199.55 331.93,-204.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M280.6,-181.8C294.84,-166.08 316.38,-144.71 339,-131 367.44,-113.76 400.67,-99.95 431.94,-89.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="432.73,-91.57 438.58,-87.02 431.16,-86.93 432.73,-91.57" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M174,-293C174,-293 12,-293 12,-293 6,-293 0,-287 0,-281 0,-281 0,-265 0,-265 0,-259 6,-253 12,-253 12,-253 174,-253 174,-253 180,-253 186,-259 186,-265 186,-265 186,-281 186,-281 186,-287 180,-293 174,-293" />
+<text text-anchor="middle" x="93" y="-268.6" font-family="Georgia" font-size="18.00" fill="#243d36">Founder's Dilemma</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M295,-364C295,-364 230,-364 230,-364 224,-364 218,-358 218,-352 218,-352 218,-336 218,-336 218,-330 224,-324 230,-324 230,-324 295,-324 295,-324 301,-324 307,-330 307,-336 307,-336 307,-352 307,-352 307,-358 301,-364 295,-364" />
+<text text-anchor="middle" x="262.5" y="-339.6" font-family="Georgia" font-size="18.00" fill="#243d36">Control</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M284,-222C284,-222 241,-222 241,-222 235,-222 229,-216 229,-210 229,-210 229,-194 229,-194 229,-188 235,-182 241,-182 241,-182 284,-182 284,-182 290,-182 296,-188 296,-194 296,-194 296,-210 296,-210 296,-216 290,-222 284,-222" />
+<text text-anchor="middle" x="262.5" y="-197.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cash</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="544,-546 384,-486 544,-426 704,-486 544,-546" />
+<text text-anchor="middle" x="544" y="-491.6" font-family="Georgia" font-size="18.00" fill="#243d36">Maintain Vision,</text>
+<text text-anchor="middle" x="544" y="-471.6" font-family="Georgia" font-size="18.00" fill="#243d36">Autonomy</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="544,-404 354,-344 544,-284 734,-344 544,-404" />
+<text text-anchor="middle" x="544" y="-349.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk of slow growth,</text>
+<text text-anchor="middle" x="544" y="-329.6" font-family="Georgia" font-size="18.00" fill="#243d36">limited resources</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="544,-262 339,-202 544,-142 749,-202 544,-262" />
+<text text-anchor="middle" x="544" y="-207.6" font-family="Georgia" font-size="18.00" fill="#243d36">Faster growth, greater</text>
+<text text-anchor="middle" x="544" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">resources</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="544,-120 353,-60 544,0 735,-60 544,-120" />
+<text text-anchor="middle" x="544" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Loss of control,</text>
+<text text-anchor="middle" x="544" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">potential for conflict</text>
+</g>
+</g>
+</svg>

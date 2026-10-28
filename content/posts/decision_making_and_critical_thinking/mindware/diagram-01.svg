@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357pt" height="466pt" viewBox="0.00 0.00 357.00 466.00" role="img" aria-labelledby="title description">
+<title id="title">The Two Systems of Thinking</title><desc id="description">System 1 leads to Fast, Automatic, Intuitive. System 1 leads to Emotional, Prone to Biases. System 2 leads to Slow, Deliberate, Logical. System 2 leads to Analytical, Effortful. System 1 leads to Default Mode. System 2 leads to Corrects System 1 Errors.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 448)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-448 339,-448 339,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.51,-112.04C102.89,-118.85 118.03,-126.41 132,-133 137.65,-135.67 143.52,-138.38 149.43,-141.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.48,-143.32 155.87,-143.97 150.5,-138.86 148.48,-143.32" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.14,-92C107.26,-92 115.95,-92 124.83,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.99,-94.45 131.99,-92 124.99,-89.55 124.99,-94.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M87.96,-71.84C101.59,-64.79 117.3,-57.12 132,-51 139.07,-48.06 146.53,-45.19 154.03,-42.48" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.14,-44.68 160.91,-40.02 153.49,-40.06 155.14,-44.68" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.61,-348.06C113.99,-353.99 130.13,-360.65 145.93,-367.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.27,-369.55 152.68,-369.95 147.14,-365.02 145.27,-369.55" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100.07,-328C108.34,-328 117.19,-328 126.21,-328" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.47,-330.45 133.47,-328 126.47,-325.55 126.47,-330.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.61,-307.94C113.99,-302.01 130.13,-295.35 145.93,-288.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="147.14,-290.98 152.68,-286.05 145.27,-286.45 147.14,-290.98" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M87,-112C87,-112 13,-112 13,-112 7,-112 1,-106 1,-100 1,-100 1,-84 1,-84 1,-78 7,-72 13,-72 13,-72 87,-72 87,-72 93,-72 99,-78 99,-84 99,-84 99,-100 99,-100 99,-106 93,-112 87,-112" />
+<text text-anchor="middle" x="50" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">System 1</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M293.5,-204C293.5,-204 159.5,-204 159.5,-204 153.5,-204 147.5,-198 147.5,-192 147.5,-192 147.5,-156 147.5,-156 147.5,-150 153.5,-144 159.5,-144 159.5,-144 293.5,-144 293.5,-144 299.5,-144 305.5,-150 305.5,-156 305.5,-156 305.5,-192 305.5,-192 305.5,-198 299.5,-204 293.5,-204" />
+<text text-anchor="middle" x="226.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fast, Automatic,</text>
+<text text-anchor="middle" x="226.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intuitive</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M309,-122C309,-122 144,-122 144,-122 138,-122 132,-116 132,-110 132,-110 132,-74 132,-74 132,-68 138,-62 144,-62 144,-62 309,-62 309,-62 315,-62 321,-68 321,-74 321,-74 321,-110 321,-110 321,-116 315,-122 309,-122" />
+<text text-anchor="middle" x="226.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional, Prone to</text>
+<text text-anchor="middle" x="226.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Biases</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M88,-348C88,-348 12,-348 12,-348 6,-348 0,-342 0,-336 0,-336 0,-320 0,-320 0,-314 6,-308 12,-308 12,-308 88,-308 88,-308 94,-308 100,-314 100,-320 100,-320 100,-336 100,-336 100,-342 94,-348 88,-348" />
+<text text-anchor="middle" x="50" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">System 2</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M296.5,-430C296.5,-430 156.5,-430 156.5,-430 150.5,-430 144.5,-424 144.5,-418 144.5,-418 144.5,-382 144.5,-382 144.5,-376 150.5,-370 156.5,-370 156.5,-370 296.5,-370 296.5,-370 302.5,-370 308.5,-376 308.5,-382 308.5,-382 308.5,-418 308.5,-418 308.5,-424 302.5,-430 296.5,-430" />
+<text text-anchor="middle" x="226.5" y="-405.6" font-family="Georgia" font-size="18.00" fill="#243d36">Slow, Deliberate,</text>
+<text text-anchor="middle" x="226.5" y="-385.6" font-family="Georgia" font-size="18.00" fill="#243d36">Logical</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M307.5,-348C307.5,-348 145.5,-348 145.5,-348 139.5,-348 133.5,-342 133.5,-336 133.5,-336 133.5,-320 133.5,-320 133.5,-314 139.5,-308 145.5,-308 145.5,-308 307.5,-308 307.5,-308 313.5,-308 319.5,-314 319.5,-320 319.5,-320 319.5,-336 319.5,-336 319.5,-342 313.5,-348 307.5,-348" />
+<text text-anchor="middle" x="226.5" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analytical, Effortful</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M283.5,-40C283.5,-40 169.5,-40 169.5,-40 163.5,-40 157.5,-34 157.5,-28 157.5,-28 157.5,-12 157.5,-12 157.5,-6 163.5,0 169.5,0 169.5,0 283.5,0 283.5,0 289.5,0 295.5,-6 295.5,-12 295.5,-12 295.5,-28 295.5,-28 295.5,-34 289.5,-40 283.5,-40" />
+<text text-anchor="middle" x="226.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Default Mode</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M299,-286C299,-286 154,-286 154,-286 148,-286 142,-280 142,-274 142,-274 142,-238 142,-238 142,-232 148,-226 154,-226 154,-226 299,-226 299,-226 305,-226 311,-232 311,-238 311,-238 311,-274 311,-274 311,-280 305,-286 299,-286" />
+<text text-anchor="middle" x="226.5" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">Corrects System 1</text>
+<text text-anchor="middle" x="226.5" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Errors</text>
+</g>
+</g>
+</svg>

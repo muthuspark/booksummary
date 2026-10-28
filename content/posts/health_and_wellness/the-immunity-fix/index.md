@@ -18,15 +18,7 @@ The book begins by explaining the complexities of the human immune system, disti
 
 A significant portion of the book is dedicated to the gut microbiome and its role in immunity. The authors explain how the gut's trillions of bacteria influence immune cell development, inflammation levels, and overall immune response. A varied and balanced gut microbiome is important for immunity. They caution against the overuse of antibiotics, which can disrupt the delicate balance of gut flora, and advocate for strategies to improve gut health, such as consuming prebiotics and probiotics.
 
-```mermaid
-graph LR
-    A[Gut Microbiome] --> B(Immune System);
-    B --> C[Improved Health];
-    A --> D[Nutrient Absorption];
-    D --> C;
-    A --> E[Inflammation Regulation];
-    E --> C;
-```
+![The Gut-Immune Connection. Gut Microbiome; Immune System; Improved Health; Nutrient Absorption; Inflammation Regulation.](diagram-01.svg)
 
 ### Diet and Nutrition: Pillars of Immunity
 

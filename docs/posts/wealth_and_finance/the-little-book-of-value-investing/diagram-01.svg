@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900pt" height="359pt" viewBox="0.00 0.00 900.00 359.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Undervalued Companies: The Key Metrics</title><desc id="description">Price-to-Earnings (P/E) leads to Undervaluation Signal. Price-to-Book (P/B) leads to Undervaluation Signal. Debt-to-Equity leads to Financial Risk Assessment. Return on Equity (ROE) leads to Profitability &amp; Efficiency. Cash Flow leads to Profitability &amp; Efficiency. Undervaluation Signal leads to Intrinsic Value Estimation. Financial Risk Assessment leads to Intrinsic Value Estimation. Profitability &amp; Efficiency leads to Intrinsic Value Estimation. Intrinsic Value Estimation leads to Investment Decision.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 341)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-341 882,-341 882,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196.82,-269.94C222.86,-262.82 251.47,-255 277.24,-247.95" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="277.97,-250.29 284.07,-246.08 276.67,-245.56 277.97,-250.29" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M428.67,-205.92C439.86,-202.43 451.29,-198.72 462,-195 470.17,-192.16 478.65,-189.06 487.09,-185.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="488.16,-188.1 493.83,-183.33 486.42,-183.52 488.16,-188.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M206.52,-222.92C219.97,-223.19 233.9,-223.48 247.61,-223.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="247.71,-226.21 254.76,-223.9 247.81,-221.31 247.71,-226.21" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.01,-154C215.76,-154 250.13,-154 280.25,-154" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.41,-156.45 287.41,-154 280.41,-151.55 280.41,-156.45" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M429.7,-154C447.97,-154 467.78,-154 486.5,-154" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="486.88,-156.45 493.88,-154 486.88,-151.55 486.88,-156.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223.17,-77.48C242.54,-76.69 262.31,-75.89 280.51,-75.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.78,-77.58 287.67,-74.85 280.58,-72.69 280.78,-77.58" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M429.12,-99.65C447.77,-107.05 468.05,-115.11 487.16,-122.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="486.45,-125.05 493.86,-125.35 488.26,-120.49 486.45,-125.05" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166.57,-31.48C199.99,-38.57 243.42,-47.79 280.42,-55.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.37,-58.13 287.73,-57.19 281.39,-53.34 280.37,-58.13" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M640.12,-154C648.21,-154 656.55,-154 664.92,-154" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="664.95,-156.45 671.95,-154 664.95,-151.55 664.95,-156.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184.5,-323C184.5,-323 38.5,-323 38.5,-323 32.5,-323 26.5,-317 26.5,-311 26.5,-311 26.5,-275 26.5,-275 26.5,-269 32.5,-263 38.5,-263 38.5,-263 184.5,-263 184.5,-263 190.5,-263 196.5,-269 196.5,-275 196.5,-275 196.5,-311 196.5,-311 196.5,-317 190.5,-323 184.5,-323" />
+<text text-anchor="middle" x="111.5" y="-298.6" font-family="Georgia" font-size="18.00" fill="#243d36">Price-to-Earnings</text>
+<text text-anchor="middle" x="111.5" y="-278.6" font-family="Georgia" font-size="18.00" fill="#243d36">(P/E)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M450,-246C450,-246 267,-246 267,-246 261,-246 255,-240 255,-234 255,-234 255,-218 255,-218 255,-212 261,-206 267,-206 267,-206 450,-206 450,-206 456,-206 462,-212 462,-218 462,-218 462,-234 462,-234 462,-240 456,-246 450,-246" />
+<text text-anchor="middle" x="358.5" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Undervaluation Signal</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M194.5,-241C194.5,-241 28.5,-241 28.5,-241 22.5,-241 16.5,-235 16.5,-229 16.5,-229 16.5,-213 16.5,-213 16.5,-207 22.5,-201 28.5,-201 28.5,-201 194.5,-201 194.5,-201 200.5,-201 206.5,-207 206.5,-213 206.5,-213 206.5,-229 206.5,-229 206.5,-235 200.5,-241 194.5,-241" />
+<text text-anchor="middle" x="111.5" y="-216.6" font-family="Georgia" font-size="18.00" fill="#243d36">Price-to-Book (P/B)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M174,-174C174,-174 49,-174 49,-174 43,-174 37,-168 37,-162 37,-162 37,-146 37,-146 37,-140 43,-134 49,-134 49,-134 174,-134 174,-134 180,-134 186,-140 186,-146 186,-146 186,-162 186,-162 186,-168 180,-174 174,-174" />
+<text text-anchor="middle" x="111.5" y="-149.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt-to-Equity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M417.5,-184C417.5,-184 299.5,-184 299.5,-184 293.5,-184 287.5,-178 287.5,-172 287.5,-172 287.5,-136 287.5,-136 287.5,-130 293.5,-124 299.5,-124 299.5,-124 417.5,-124 417.5,-124 423.5,-124 429.5,-130 429.5,-136 429.5,-136 429.5,-172 429.5,-172 429.5,-178 423.5,-184 417.5,-184" />
+<text text-anchor="middle" x="358.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Risk</text>
+<text text-anchor="middle" x="358.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assessment</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211,-102C211,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 211,-62 211,-62 217,-62 223,-68 223,-74 223,-74 223,-90 223,-90 223,-96 217,-102 211,-102" />
+<text text-anchor="middle" x="111.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Return on Equity (ROE)</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M417,-102C417,-102 300,-102 300,-102 294,-102 288,-96 288,-90 288,-90 288,-54 288,-54 288,-48 294,-42 300,-42 300,-42 417,-42 417,-42 423,-42 429,-48 429,-54 429,-54 429,-90 429,-90 429,-96 423,-102 417,-102" />
+<text text-anchor="middle" x="358.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Profitability &amp;</text>
+<text text-anchor="middle" x="358.5" y="-57.6" font-family="Georgia" font-size="18.00" fill="#243d36">Efficiency</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154.5,-40C154.5,-40 68.5,-40 68.5,-40 62.5,-40 56.5,-34 56.5,-28 56.5,-28 56.5,-12 56.5,-12 56.5,-6 62.5,0 68.5,0 68.5,0 154.5,0 154.5,0 160.5,0 166.5,-6 166.5,-12 166.5,-12 166.5,-28 166.5,-28 166.5,-34 160.5,-40 154.5,-40" />
+<text text-anchor="middle" x="111.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cash Flow</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M628,-184C628,-184 506,-184 506,-184 500,-184 494,-178 494,-172 494,-172 494,-136 494,-136 494,-130 500,-124 506,-124 506,-124 628,-124 628,-124 634,-124 640,-130 640,-136 640,-136 640,-172 640,-172 640,-178 634,-184 628,-184" />
+<text text-anchor="middle" x="567" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intrinsic Value</text>
+<text text-anchor="middle" x="567" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Estimation</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M852,-174C852,-174 684,-174 684,-174 678,-174 672,-168 672,-162 672,-162 672,-146 672,-146 672,-140 678,-134 684,-134 684,-134 852,-134 852,-134 858,-134 864,-140 864,-146 864,-146 864,-162 864,-162 864,-168 858,-174 852,-174" />
+<text text-anchor="middle" x="768" y="-149.6" font-family="Georgia" font-size="18.00" fill="#243d36">Investment Decision</text>
+</g>
+</g>
+</svg>

@@ -18,15 +18,7 @@ Lipman stresses the importance of individualized approaches to health.  Generic 
 
 The book heavily emphasizes the role of the gut microbiome in overall health. A healthy gut, Lipman argues, is fundamental to a healthy immune system, efficient digestion, and mental well-being. He details how imbalances in gut flora can contribute to various health problems, from autoimmune diseases to chronic fatigue.
 
-```mermaid
-graph LR
-    A[Healthy Gut] --> B(Strong Immune System);
-    A --> C(Efficient Digestion);
-    A --> D(Improved Mental Health);
-    E[Unhealthy Gut] --> F(Autoimmune Diseases);
-    E --> G(Chronic Fatigue);
-    E --> H(Inflammation);
-```
+![The Importance of Gut Health. Healthy Gut; Strong Immune System; Efficient Digestion; Improved Mental Health; Unhealthy Gut; Autoimmune Diseases; Chronic Fatigue; Inflammation.](diagram-01.svg)
 
 ##  The Cleanse
 

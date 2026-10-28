@@ -18,13 +18,7 @@ The book heavily emphasizes conquering the crippling fear of failure that preven
 
 Norton doesn't advocate for immediate, dramatic overhauls. Instead, he emphasizes the importance of initiating small, manageable steps. These small actions, insignificant they may initially seem, create momentum and build confidence. This incremental approach reduces the overwhelming feeling of facing a massive undertaking all at once, making the process more sustainable and less daunting.
 
-```mermaid
-graph LR
-    A[Idea] --> B{Small Step 1};
-    B --> C{Small Step 2};
-    C --> D{Small Step 3};
-    D --> E[Momentum & Confidence];
-```
+![The Power of Small Steps. Idea; Small Step 1; Small Step 2; Small Step 3; Momentum & Confidence.](diagram-01.svg)
 
 #  Identifying Your "Stupid" Idea
 

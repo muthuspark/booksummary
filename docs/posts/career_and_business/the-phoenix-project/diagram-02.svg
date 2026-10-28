@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192pt" height="436pt" viewBox="0.00 0.00 192.00 436.00" role="img" aria-labelledby="title description">
+<title id="title">The First Way: The Flow of Work</title><desc id="description">Idea leads to Development. Development leads to Testing. Testing leads to Deployment. Deployment leads to Production. Production leads to Customer Value.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 418)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-418 174,-418 174,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-359.87C78,-352.31 78,-343.49 78,-335.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-335.1 78,-328.1 75.55,-335.1 80.45,-335.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-287.87C78,-280.31 78,-271.49 78,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-263.1 78,-256.1 75.55,-263.1 80.45,-263.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-215.87C78,-208.31 78,-199.49 78,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-191.1 78,-184.1 75.55,-191.1 80.45,-191.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-143.87C78,-136.31 78,-127.49 78,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-119.1 78,-112.1 75.55,-119.1 80.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-71.87C78,-64.31 78,-55.49 78,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-47.1 78,-40.1 75.55,-47.1 80.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M98,-400C98,-400 58,-400 58,-400 52,-400 46,-394 46,-388 46,-388 46,-372 46,-372 46,-366 52,-360 58,-360 58,-360 98,-360 98,-360 104,-360 110,-366 110,-372 110,-372 110,-388 110,-388 110,-394 104,-400 98,-400" />
+<text text-anchor="middle" x="78" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134,-328C134,-328 22,-328 22,-328 16,-328 10,-322 10,-316 10,-316 10,-300 10,-300 10,-294 16,-288 22,-288 22,-288 134,-288 134,-288 140,-288 146,-294 146,-300 146,-300 146,-316 146,-316 146,-322 140,-328 134,-328" />
+<text text-anchor="middle" x="78" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Development</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M109.5,-256C109.5,-256 46.5,-256 46.5,-256 40.5,-256 34.5,-250 34.5,-244 34.5,-244 34.5,-228 34.5,-228 34.5,-222 40.5,-216 46.5,-216 46.5,-216 109.5,-216 109.5,-216 115.5,-216 121.5,-222 121.5,-228 121.5,-228 121.5,-244 121.5,-244 121.5,-250 115.5,-256 109.5,-256" />
+<text text-anchor="middle" x="78" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Testing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M129.5,-184C129.5,-184 26.5,-184 26.5,-184 20.5,-184 14.5,-178 14.5,-172 14.5,-172 14.5,-156 14.5,-156 14.5,-150 20.5,-144 26.5,-144 26.5,-144 129.5,-144 129.5,-144 135.5,-144 141.5,-150 141.5,-156 141.5,-156 141.5,-172 141.5,-172 141.5,-178 135.5,-184 129.5,-184" />
+<text text-anchor="middle" x="78" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deployment</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M125,-112C125,-112 31,-112 31,-112 25,-112 19,-106 19,-100 19,-100 19,-84 19,-84 19,-78 25,-72 31,-72 31,-72 125,-72 125,-72 131,-72 137,-78 137,-84 137,-84 137,-100 137,-100 137,-106 131,-112 125,-112" />
+<text text-anchor="middle" x="78" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Production</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M144,-40C144,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 144,0 144,0 150,0 156,-6 156,-12 156,-12 156,-28 156,-28 156,-34 150,-40 144,-40" />
+<text text-anchor="middle" x="78" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Customer Value</text>
+</g>
+</g>
+</svg>

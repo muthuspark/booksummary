@@ -14,13 +14,7 @@ Harriet Lerner's "The Dance of Connection" explores the patterns of relating in 
 
 The first step in improving relationships, Lerner argues, is recognizing the recurring patterns in your interactions. These patterns, often rooted in past experiences and family dynamics, dictate our responses in significant relationships.  Are you the pursuer, always initiating contact and seeking reassurance? Or are you the distancer, creating emotional space and avoiding intimacy?  Identifying these roles is crucial, as it's often the dynamic between these roles, rather than the individuals themselves, that creates conflict.
 
-```mermaid
-graph LR
-    A[Pursuer] --> B(Conflict);
-    C[Distancer] --> B;
-    B --> A;
-    B --> C;
-```
+![Recognizing Your Dance. Pursuer; Conflict; Distancer.](diagram-01.svg)
 
 Self-reflection is key to this process. Lerner encourages readers to honestly assess their contributions to the dance, acknowledging their own tendencies and triggers. Journaling, therapy, or even simply talking to a trusted friend can help this self-awareness.
 
@@ -50,12 +44,7 @@ Healthy communication is essential for breaking free from unhealthy relational d
 
 She also highlights the significance of active listening – truly hearing and understanding your partner's perspective, even if you don't agree with it.  This involves paying attention to both verbal and nonverbal cues, reflecting back what you've heard to ensure understanding, and suspending judgment.
 
-```mermaid
-graph LR
-    A[Assertive Communication] --> B(Healthy Relationship);
-    C[Active Listening] --> B;
-    B --> D[Mutual Respect];
-```
+![Developing Effective Communication. Assertive Communication; Healthy Relationship; Active Listening; Mutual Respect.](diagram-02.svg)
 
 Effective communication requires practice and patience. It involves learning to manage your emotions during disagreements, staying focused on the issue at hand, and avoiding personal attacks.
 

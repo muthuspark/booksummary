@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="566pt" height="168pt" viewBox="0.00 0.00 565.50 168.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Two Paths: Resume vs. Eulogy Virtues</title><desc id="description">Resume Virtues leads to Quantifiable Achievements. Resume Virtues leads to External Validation. Resume Virtues leads to Material Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 547.5,-150 547.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209.93,-91.84C189.99,-83.17 165.9,-72.69 143.35,-62.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="144.13,-60.56 136.73,-60.01 142.17,-65.05 144.13,-60.56" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M254,-91.63C254,-81.32 254,-68.48 254,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.45,-57.19 254,-50.19 251.55,-57.19 256.45,-57.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M300.71,-91.84C329.41,-80.06 366.26,-64.95 396.04,-52.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="397.13,-54.93 402.67,-50.01 395.27,-50.4 397.13,-54.93" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M319.5,-132C319.5,-132 188.5,-132 188.5,-132 182.5,-132 176.5,-126 176.5,-120 176.5,-120 176.5,-104 176.5,-104 176.5,-98 182.5,-92 188.5,-92 188.5,-92 319.5,-92 319.5,-92 325.5,-92 331.5,-98 331.5,-104 331.5,-104 331.5,-120 331.5,-120 331.5,-126 325.5,-132 319.5,-132" />
+<text text-anchor="middle" x="254" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resume Virtues</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M128,-60C128,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 128,0 128,0 134,0 140,-6 140,-12 140,-12 140,-48 140,-48 140,-54 134,-60 128,-60" />
+<text text-anchor="middle" x="70" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Quantifiable</text>
+<text text-anchor="middle" x="70" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achievements</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M334,-50C334,-50 174,-50 174,-50 168,-50 162,-44 162,-38 162,-38 162,-22 162,-22 162,-16 168,-10 174,-10 174,-10 334,-10 334,-10 340,-10 346,-16 346,-22 346,-22 346,-38 346,-38 346,-44 340,-50 334,-50" />
+<text text-anchor="middle" x="254" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">External Validation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M517.5,-50C517.5,-50 380.5,-50 380.5,-50 374.5,-50 368.5,-44 368.5,-38 368.5,-38 368.5,-22 368.5,-22 368.5,-16 374.5,-10 380.5,-10 380.5,-10 517.5,-10 517.5,-10 523.5,-10 529.5,-16 529.5,-22 529.5,-22 529.5,-38 529.5,-38 529.5,-44 523.5,-50 517.5,-50" />
+<text text-anchor="middle" x="449" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Material Success</text>
+</g>
+</g>
+</svg>

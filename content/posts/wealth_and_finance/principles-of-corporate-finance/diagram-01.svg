@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512pt" height="138pt" viewBox="0.00 0.00 512.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Time Value of Money: The Foundation of Financial Decisions</title><desc id="description">Future Value leads to Interest Rate. Present Value leads to Interest Rate. Interest Rate leads to Time.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 494,-120 494,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.61,-69.75C145.85,-68.02 155.4,-66.24 164.76,-64.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.44,-66.86 171.87,-63.16 164.54,-62.04 165.44,-66.86" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.13,-51C312.13,-51 320.36,-51 328.5,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="328.95,-53.45 335.95,-51 328.95,-48.55 328.95,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.44,-32.97C148.4,-34.45 156.53,-35.97 164.52,-37.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.49,-39.95 171.82,-38.83 165.39,-35.13 164.49,-39.95" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M124.5,-102C124.5,-102 15.5,-102 15.5,-102 9.5,-102 3.5,-96 3.5,-90 3.5,-90 3.5,-74 3.5,-74 3.5,-68 9.5,-62 15.5,-62 15.5,-62 124.5,-62 124.5,-62 130.5,-62 136.5,-68 136.5,-74 136.5,-74 136.5,-90 136.5,-90 136.5,-96 130.5,-102 124.5,-102" />
+<text text-anchor="middle" x="70" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Future Value</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-71C292,-71 184,-71 184,-71 178,-71 172,-65 172,-59 172,-59 172,-43 172,-43 172,-37 178,-31 184,-31 184,-31 292,-31 292,-31 298,-31 304,-37 304,-43 304,-43 304,-59 304,-59 304,-65 298,-71 292,-71" />
+<text text-anchor="middle" x="238" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interest Rate</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M128,-40C128,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 128,0 128,0 134,0 140,-6 140,-12 140,-12 140,-28 140,-28 140,-34 134,-40 128,-40" />
+<text text-anchor="middle" x="70" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Value</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="406,-91 336,-51 406,-11 476,-51 406,-91" />
+<text text-anchor="middle" x="406" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Time</text>
+</g>
+</g>
+</svg>

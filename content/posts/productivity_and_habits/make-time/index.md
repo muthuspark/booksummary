@@ -26,13 +26,7 @@ One aspect of LaserFocus is mindful technology usage. The authors aren't advocat
 
 The book outlines a practical framework to implement Highlight and LaserFocus effectively:
 
-```mermaid
-graph LR
-    A[Morning Routine] --> B(Highlight Selection);
-    B --> C{LaserFocus Strategies};
-    C --> D[Evening Review];
-    D --> A;
-```
+![The "Make Time" Framework:  A Step-by-Step Approach. Morning Routine; Highlight Selection; LaserFocus Strategies; Evening Review.](diagram-01.svg)
 
 **Morning Routine:** Begins with a mindful start to the day, setting the stage for intentional living.  This could include meditation, exercise, or simply a few moments of quiet reflection. The morning routine prepares you to consciously choose your highlights.
 

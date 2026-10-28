@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="366pt" height="332pt" viewBox="0.00 0.00 365.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">One-Minute Goal Setting: Defining Success</title><desc id="description">Define Goals leads to Write Down. Write Down leads to Review Daily. Review Daily leads to Achieve Goals. Review Daily leads to Adjust as Needed.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 347.5,-314 347.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158,-255.87C158,-248.31 158,-239.49 158,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="160.45,-231.1 158,-224.1 155.55,-231.1 160.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158,-183.91C158,-176.58 158,-167.86 158,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="160.45,-159.07 158,-152.07 155.55,-159.07 160.45,-159.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128.21,-80.53C116.98,-69.05 104.37,-56.15 93.77,-45.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.38,-43.45 88.74,-40.16 91.88,-46.88 95.38,-43.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M187.79,-80.53C199.02,-69.05 211.63,-56.15 222.23,-45.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.12,-46.88 227.26,-40.16 220.62,-43.45 224.12,-46.88" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211.5,-296C211.5,-296 104.5,-296 104.5,-296 98.5,-296 92.5,-290 92.5,-284 92.5,-284 92.5,-268 92.5,-268 92.5,-262 98.5,-256 104.5,-256 104.5,-256 211.5,-256 211.5,-256 217.5,-256 223.5,-262 223.5,-268 223.5,-268 223.5,-284 223.5,-284 223.5,-290 217.5,-296 211.5,-296" />
+<text text-anchor="middle" x="158" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M208.5,-224C208.5,-224 107.5,-224 107.5,-224 101.5,-224 95.5,-218 95.5,-212 95.5,-212 95.5,-196 95.5,-196 95.5,-190 101.5,-184 107.5,-184 107.5,-184 208.5,-184 208.5,-184 214.5,-184 220.5,-190 220.5,-196 220.5,-196 220.5,-212 220.5,-212 220.5,-218 214.5,-224 208.5,-224" />
+<text text-anchor="middle" x="158" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Write Down</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="158,-152 24,-112 158,-72 292,-112 158,-152" />
+<text text-anchor="middle" x="158" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Review Daily</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M128,-40C128,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 128,0 128,0 134,0 140,-6 140,-12 140,-12 140,-28 140,-28 140,-34 134,-40 128,-40" />
+<text text-anchor="middle" x="70" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieve Goals</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M317.5,-40C317.5,-40 174.5,-40 174.5,-40 168.5,-40 162.5,-34 162.5,-28 162.5,-28 162.5,-12 162.5,-12 162.5,-6 168.5,0 174.5,0 174.5,0 317.5,0 317.5,0 323.5,0 329.5,-6 329.5,-12 329.5,-12 329.5,-28 329.5,-28 329.5,-34 323.5,-40 317.5,-40" />
+<text text-anchor="middle" x="246" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjust as Needed</text>
+</g>
+</g>
+</svg>

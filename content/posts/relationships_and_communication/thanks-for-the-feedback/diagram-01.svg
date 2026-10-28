@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="834pt" height="320pt" viewBox="0.00 0.00 834.00 320.00" role="img" aria-labelledby="title description">
+<title id="title">The Three Reactions to Feedback</title><desc id="description">Feedback Received leads to It's Not True?. Feedback Received leads to It's Not Fair?. Feedback Received leads to It's Not Helpful?. It's Not True? leads to Denial/Dismissal. It's Not Fair? leads to Resentment/Anger. It's Not Helpful? leads to Helplessness/Frustration.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 302)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-302 816,-302 816,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M137.39,-162.09C160.19,-171.89 188.36,-183.57 214,-193 241.75,-203.2 272.62,-213.32 299.79,-221.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="299.2,-224.21 306.61,-223.95 300.65,-219.53 299.2,-224.21" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-142C199.43,-142 218.07,-142 236.62,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237,-144.45 244,-142 237,-139.55 237,-144.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M137.39,-121.91C160.19,-112.11 188.36,-100.43 214,-91 239.87,-81.49 268.46,-72.05 294.23,-63.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.12,-66.21 301.06,-61.77 293.65,-61.53 295.12,-66.21" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M512.44,-244C539.69,-244 567.64,-244 592.79,-244" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="592.8,-246.45 599.8,-244 592.8,-241.55 592.8,-246.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M506.22,-142C532.68,-142 560.08,-142 585.14,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="585.15,-144.45 592.15,-142 585.15,-139.55 585.15,-144.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M536.17,-40C544.36,-40 552.53,-40 560.57,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="560.92,-42.45 567.92,-40 560.92,-37.55 560.92,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-162C170,-162 12,-162 12,-162 6,-162 0,-156 0,-150 0,-150 0,-134 0,-134 0,-128 6,-122 12,-122 12,-122 170,-122 170,-122 176,-122 182,-128 182,-134 182,-134 182,-150 182,-150 182,-156 176,-162 170,-162" />
+<text text-anchor="middle" x="91" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback Received</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="375,-284 238,-244 375,-204 512,-244 375,-284" />
+<text text-anchor="middle" x="375" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">It's Not True?</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="375,-182 244,-142 375,-102 506,-142 375,-182" />
+<text text-anchor="middle" x="375" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">It's Not Fair?</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="375,-80 214,-40 375,0 536,-40 375,-80" />
+<text text-anchor="middle" x="375" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">It's Not Helpful?</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M754,-264C754,-264 612,-264 612,-264 606,-264 600,-258 600,-252 600,-252 600,-236 600,-236 600,-230 606,-224 612,-224 612,-224 754,-224 754,-224 760,-224 766,-230 766,-236 766,-236 766,-252 766,-252 766,-258 760,-264 754,-264" />
+<text text-anchor="middle" x="683" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Denial/Dismissal</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M761.5,-162C761.5,-162 604.5,-162 604.5,-162 598.5,-162 592.5,-156 592.5,-150 592.5,-150 592.5,-134 592.5,-134 592.5,-128 598.5,-122 604.5,-122 604.5,-122 761.5,-122 761.5,-122 767.5,-122 773.5,-128 773.5,-134 773.5,-134 773.5,-150 773.5,-150 773.5,-156 767.5,-162 761.5,-162" />
+<text text-anchor="middle" x="683" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resentment/Anger</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M786,-60C786,-60 580,-60 580,-60 574,-60 568,-54 568,-48 568,-48 568,-32 568,-32 568,-26 574,-20 580,-20 580,-20 786,-20 786,-20 792,-20 798,-26 798,-32 798,-32 798,-48 798,-48 798,-54 792,-60 786,-60" />
+<text text-anchor="middle" x="683" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Helplessness/Frustration</text>
+</g>
+</g>
+</svg>

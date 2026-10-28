@@ -20,13 +20,7 @@ Seligman introduces the concept of explanatory style as the key to understanding
 
 Pessimists tend to explain negative events with permanent, pervasive, and personal explanations (PPP), while optimists explain them with temporary, specific, and external explanations (TSE).
 
-```mermaid
-graph LR
-    A[Negative Event] --> B(Pessimist: PPP);
-    B --> C{Permanent, Pervasive, Personal};
-    A --> D(Optimist: TSE);
-    D --> E{Temporary, Specific, External};
-```
+![Understanding Explanatory Style. Negative Event; Pessimist: PPP; Permanent, Pervasive, Personal; Optimist: TSE; Temporary, Specific, External.](diagram-01.svg)
 
 ## Identifying Your Explanatory Style
 

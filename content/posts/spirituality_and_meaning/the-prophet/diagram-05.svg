@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="523pt" height="165pt" viewBox="0.00 0.00 522.50 165.00" role="img" aria-labelledby="title description">
+<title id="title">On Joy and Sorrow</title><desc id="description">Joy relates to Sorrow (Intertwined). Growth leads to Sorrow. Understanding leads to Sorrow. Compassion leads to Sorrow.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 147)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-147 504.5,-147 504.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M38.81,-88.88C46.02,-77.76 56.46,-64.34 69,-56 93.76,-39.53 126.18,-30.75 151.93,-26.1" />
+<text text-anchor="middle" x="109" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Intertwined</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139.76,-88.69C150.05,-76.08 163.6,-59.48 174.7,-45.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.76,-47.23 179.29,-40.25 172.96,-44.13 176.76,-47.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M249.46,-88.69C239.31,-76.08 225.96,-59.48 215.02,-45.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.79,-44.17 210.49,-40.25 212.97,-47.24 216.79,-44.17" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M373.74,-88.91C335.57,-74.4 283.31,-54.55 245.16,-40.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.62,-37.61 238.2,-37.41 243.88,-42.19 245.62,-37.61" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M44,-129C44,-129 12,-129 12,-129 6,-129 0,-123 0,-117 0,-117 0,-101 0,-101 0,-95 6,-89 12,-89 12,-89 44,-89 44,-89 50,-89 56,-95 56,-101 56,-101 56,-117 56,-117 56,-123 50,-129 44,-129" />
+<text text-anchor="middle" x="28" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Joy</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M226,-40C226,-40 164,-40 164,-40 158,-40 152,-34 152,-28 152,-28 152,-12 152,-12 152,-6 158,0 164,0 164,0 226,0 226,0 232,0 238,-6 238,-12 238,-12 238,-28 238,-28 238,-34 232,-40 226,-40" />
+<text text-anchor="middle" x="195" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sorrow</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156.5,-129C156.5,-129 91.5,-129 91.5,-129 85.5,-129 79.5,-123 79.5,-117 79.5,-117 79.5,-101 79.5,-101 79.5,-95 85.5,-89 91.5,-89 91.5,-89 156.5,-89 156.5,-89 162.5,-89 168.5,-95 168.5,-101 168.5,-101 168.5,-117 168.5,-117 168.5,-123 162.5,-129 156.5,-129" />
+<text text-anchor="middle" x="124" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M327,-129C327,-129 203,-129 203,-129 197,-129 191,-123 191,-117 191,-117 191,-101 191,-101 191,-95 197,-89 203,-89 203,-89 327,-89 327,-89 333,-89 339,-95 339,-101 339,-101 339,-117 339,-117 339,-123 333,-129 327,-129" />
+<text text-anchor="middle" x="265" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M474.5,-129C474.5,-129 373.5,-129 373.5,-129 367.5,-129 361.5,-123 361.5,-117 361.5,-117 361.5,-101 361.5,-101 361.5,-95 367.5,-89 373.5,-89 373.5,-89 474.5,-89 474.5,-89 480.5,-89 486.5,-95 486.5,-101 486.5,-101 486.5,-117 486.5,-117 486.5,-123 480.5,-129 474.5,-129" />
+<text text-anchor="middle" x="424" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compassion</text>
+</g>
+</g>
+</svg>

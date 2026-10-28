@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="426pt" height="332pt" viewBox="0.00 0.00 426.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Insight Five: The Interconnection of All Things</title><desc id="description">Individual leads to Interconnected. Interconnected leads to Community. Community leads to Unified Energy Field.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 408,-314 408,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195,-255.87C195,-248.31 195,-239.49 195,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.45,-231.1 195,-224.1 192.55,-231.1 197.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195,-183.87C195,-176.31 195,-167.49 195,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.45,-159.1 195,-152.1 192.55,-159.1 197.45,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195,-111.91C195,-104.58 195,-95.86 195,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.45,-87.07 195,-80.07 192.55,-87.07 197.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M238.5,-296C238.5,-296 151.5,-296 151.5,-296 145.5,-296 139.5,-290 139.5,-284 139.5,-284 139.5,-268 139.5,-268 139.5,-262 145.5,-256 151.5,-256 151.5,-256 238.5,-256 238.5,-256 244.5,-256 250.5,-262 250.5,-268 250.5,-268 250.5,-284 250.5,-284 250.5,-290 244.5,-296 238.5,-296" />
+<text text-anchor="middle" x="195" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-224C258,-224 132,-224 132,-224 126,-224 120,-218 120,-212 120,-212 120,-196 120,-196 120,-190 126,-184 132,-184 132,-184 258,-184 258,-184 264,-184 270,-190 270,-196 270,-196 270,-212 270,-212 270,-218 264,-224 258,-224" />
+<text text-anchor="middle" x="195" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interconnected</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244,-152C244,-152 146,-152 146,-152 140,-152 134,-146 134,-140 134,-140 134,-124 134,-124 134,-118 140,-112 146,-112 146,-112 244,-112 244,-112 250,-112 256,-118 256,-124 256,-124 256,-140 256,-140 256,-146 250,-152 244,-152" />
+<text text-anchor="middle" x="195" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Community</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="195,-80 0,-40 195,0 390,-40 195,-80" />
+<text text-anchor="middle" x="195" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unified Energy Field</text>
+</g>
+</g>
+</svg>

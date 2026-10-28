@@ -14,12 +14,7 @@ Mihaly Csikszentmihalyi's "Creativity" isn't just a theoretical exploration of t
 
 The book dismantles the "lone genius" myth. Csikszentmihalyi argues that creativity isn't solely an innate trait possessed by a select few. Instead, it's a product of interaction between a creative individual, a domain (a field of knowledge or activity), and a field (the social system that evaluates creative contributions).  This interaction is crucial.
 
-```mermaid
-graph LR
-    A[Individual] --> B(Domain);
-    B --> C{Field};
-    C --> A;
-```
+![The Nature of Creativity: Beyond the Myth of Genius. Individual; Domain; Field.](diagram-01.svg)
 
 This cyclical model highlights the interconnectedness of these three elements. A creative individual needs to possess relevant knowledge and skills within a chosen domain. The field, gatekeepers (critics, experts, audiences), provides feedback and determines the acceptance or rejection of the creative output. The dynamic interaction between these three elements fuels the creative process.
 
@@ -51,14 +46,7 @@ The creative field encompasses the social structures that evaluate and dissemina
 Central to Csikszentmihalyi's work is the concept of "flow," a state of deep immersion and intense focus where time seems to disappear and the individual is fully engaged in the activity. Flow is a balance between challenge and skill; tasks that are too easy are boring, while tasks that are too difficult lead to anxiety.
 
 
-```mermaid
-graph LR
-    A[Challenge] -- High --> B(Anxiety)
-    A -- Low --> C(Boredom)
-    A -- Optimal --> D(Flow)
-    D -- High --> E[Skill: High]
-    D -- Low --> F[Skill: Low]
-```
+![The Creative Process: Flow and the Importance of Intrinsic Motivation. Challenge; Anxiety; Boredom; Flow; Skill: High; Skill: Low.](diagram-02.svg)
 
 Achieving flow is strongly linked to intrinsic motivation. When individuals are driven by passion and the satisfaction of the creative process, they're more likely to experience flow and produce innovative work.
 

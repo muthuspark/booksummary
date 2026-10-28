@@ -17,13 +17,7 @@ The book emphasizes the role of attachment theory in shaping our relational patt
 
 Self-reflection is key.  Consider how you respond to stress or separation. Do you seek connection or withdraw? Do you trust easily, or are you more guarded?  Honest self-assessment is the first step towards change.
 
-```mermaid
-graph LR
-A[Secure] --> B(Balanced);
-C[Anxious-Preoccupied] --> D(Needy, Clingy);
-E[Dismissive-Avoidant] --> F(Distant, Withdrawn);
-G[Fearful-Avoidant] --> H(Fearful of Intimacy, Inconsistent);
-```
+![Understanding Your Attachment Style. Secure; Balanced; Anxious-Preoccupied; Needy, Clingy; Dismissive-Avoidant; Distant, Withdrawn; Fearful-Avoidant; Fearful of Intimacy, Inconsistent.](diagram-01.svg)
 
 
 ##  The Importance of  "Preoccupied" and "De-escalation"

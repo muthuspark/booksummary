@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="478pt" height="372pt" viewBox="0.00 0.00 478.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Defining the Problem: From Fuzzy to Focused</title><desc id="description">Initial Fuzzy Problem leads to Research &amp; Observation. Research &amp; Observation leads to Refined Problem Statement. Refined Problem Statement leads to Clear Problem Definition.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 460,-354 460,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221,-295.91C221,-288.58 221,-279.86 221,-271.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.45,-271.07 221,-264.07 218.55,-271.07 223.45,-271.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221,-183.76C221,-175.72 221,-167.29 221,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.45,-159.23 221,-152.23 218.55,-159.23 223.45,-159.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221,-91.53C221,-83.84 221,-75.45 221,-67.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.45,-67.23 221,-60.23 218.55,-67.23 223.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309,-336C309,-336 133,-336 133,-336 127,-336 121,-330 121,-324 121,-324 121,-308 121,-308 121,-302 127,-296 133,-296 133,-296 309,-296 309,-296 315,-296 321,-302 321,-308 321,-308 321,-324 321,-324 321,-330 315,-336 309,-336" />
+<text text-anchor="middle" x="221" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Initial Fuzzy Problem</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="221,-264 0,-224 221,-184 442,-224 221,-264" />
+<text text-anchor="middle" x="221" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Research &amp; Observation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291,-152C291,-152 151,-152 151,-152 145,-152 139,-146 139,-140 139,-140 139,-104 139,-104 139,-98 145,-92 151,-92 151,-92 291,-92 291,-92 297,-92 303,-98 303,-104 303,-104 303,-140 303,-140 303,-146 297,-152 291,-152" />
+<text text-anchor="middle" x="221" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refined Problem</text>
+<text text-anchor="middle" x="221" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Statement</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M280.5,-60C280.5,-60 161.5,-60 161.5,-60 155.5,-60 149.5,-54 149.5,-48 149.5,-48 149.5,-12 149.5,-12 149.5,-6 155.5,0 161.5,0 161.5,0 280.5,0 280.5,0 286.5,0 292.5,-6 292.5,-12 292.5,-12 292.5,-48 292.5,-48 292.5,-54 286.5,-60 280.5,-60" />
+<text text-anchor="middle" x="221" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Problem</text>
+<text text-anchor="middle" x="221" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Definition</text>
+</g>
+</g>
+</svg>

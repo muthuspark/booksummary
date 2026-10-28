@@ -18,12 +18,7 @@ The book's central thesis revolves around the idea that accomplishing even the s
 
 Throughout his SEAL training, McRaven emphasizes the role of teamwork. Success rarely comes from individual efforts alone. He highlights the importance of relying on others, trusting your teammates, and recognizing the strengths each member brings to the table.
 
-```mermaid
-graph LR
-    A[Individual] --> B(Teamwork);
-    B --> C{Success};
-    C --> D[Shared Goals];
-```
+![The Power of Teamwork. Individual; Teamwork; Success; Shared Goals.](diagram-01.svg)
 
 Understanding and leveraging the power of teamwork translates not only to professional settings but also to personal relationships and achieving personal goals.
 

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394pt" height="352pt" viewBox="0.00 0.00 394.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">The Foundational Skills of SEL</title><desc id="description">Self-Awareness leads to Self-Management. Self-Awareness leads to Social Awareness. Self-Management leads to Relationship Skills. Social Awareness leads to Relationship Skills. Relationship Skills leads to Responsible Decision-Making.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 376,-334 376,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.04,-275.87C142.52,-267.38 128.86,-257.32 116.74,-248.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.02,-246.28 110.93,-244.1 115.11,-250.23 118.02,-246.28" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M205.96,-275.87C217.48,-267.38 231.14,-257.32 243.26,-248.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="244.89,-250.23 249.07,-244.1 241.98,-246.28 244.89,-250.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.15,-203.91C115.63,-193.98 128.81,-181.49 141.18,-169.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="143.03,-171.4 146.42,-164.81 139.66,-167.85 143.03,-171.4" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M254.85,-203.91C244.37,-193.98 231.19,-181.49 218.82,-169.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="220.34,-167.85 213.58,-164.81 216.97,-171.4 220.34,-167.85" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180,-91.76C180,-83.72 180,-75.29 180,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.45,-67.23 180,-60.23 177.55,-67.23 182.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M243.5,-316C243.5,-316 116.5,-316 116.5,-316 110.5,-316 104.5,-310 104.5,-304 104.5,-304 104.5,-288 104.5,-288 104.5,-282 110.5,-276 116.5,-276 116.5,-276 243.5,-276 243.5,-276 249.5,-276 255.5,-282 255.5,-288 255.5,-288 255.5,-304 255.5,-304 255.5,-310 249.5,-316 243.5,-316" />
+<text text-anchor="middle" x="180" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158,-244C158,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-216 0,-216 0,-210 6,-204 12,-204 12,-204 158,-204 158,-204 164,-204 170,-210 170,-216 170,-216 170,-232 170,-232 170,-238 164,-244 158,-244" />
+<text text-anchor="middle" x="85" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Management</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M346,-244C346,-244 204,-244 204,-244 198,-244 192,-238 192,-232 192,-232 192,-216 192,-216 192,-210 198,-204 204,-204 204,-204 346,-204 346,-204 352,-204 358,-210 358,-216 358,-216 358,-232 358,-232 358,-238 352,-244 346,-244" />
+<text text-anchor="middle" x="275" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Awareness</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="180,-172 3,-132 180,-92 357,-132 180,-172" />
+<text text-anchor="middle" x="180" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship Skills</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M250,-60C250,-60 110,-60 110,-60 104,-60 98,-54 98,-48 98,-48 98,-12 98,-12 98,-6 104,0 110,0 110,0 250,0 250,0 256,0 262,-6 262,-12 262,-12 262,-48 262,-48 262,-54 256,-60 250,-60" />
+<text text-anchor="middle" x="180" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Responsible</text>
+<text text-anchor="middle" x="180" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision-Making</text>
+</g>
+</g>
+</svg>

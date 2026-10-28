@@ -85,16 +85,7 @@ Social skills are essential for navigating social situations and building strong
 
 The book emphasizes the synergistic nature of the five EQ components.  Improving one area often enhances others. For example, increased self-awareness can lead to better self-regulation, and enhanced empathy can improve social skills.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    A --> C(Motivation);
-    A --> D(Empathy);
-    A --> E(Social Skills);
-    B --> E;
-    C --> E;
-    D --> E;
-```
+![The Synergistic Effect of EQ Components. Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills.](diagram-01.svg)
 
 # Actionable Steps for Improving EQ
 

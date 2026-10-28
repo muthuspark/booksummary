@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512pt" height="220pt" viewBox="0.00 0.00 512.00 220.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Power Base</title><desc id="description">Self-Assessment leads to Strengths. Self-Assessment leads to Weaknesses. Self-Assessment leads to Values. Self-Assessment leads to Network. Strengths leads to Power Base. Weaknesses leads to Power Base. Values leads to Power Base. Network leads to Power Base.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 494,-202 494,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.61,-143.96C170.85,-134.6 138.53,-123.29 111.15,-113.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="111.72,-111.31 104.31,-111.31 110.1,-115.93 111.72,-111.31" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M234.78,-143.87C227.42,-135.69 218.74,-126.05 210.93,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.7,-115.67 206.19,-112.1 209.06,-118.95 212.7,-115.67" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M269.22,-143.87C276.58,-135.69 285.26,-126.05 293.07,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="294.94,-118.95 297.81,-112.1 291.3,-115.67 294.94,-118.95" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M299.82,-143.87C322.29,-134.88 349.2,-124.12 372.46,-114.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="373.65,-116.98 379.24,-112.1 371.83,-112.43 373.65,-116.98" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.03,-72.79C130.49,-63.53 162.82,-52.21 190.51,-42.52" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.64,-44.72 197.44,-40.1 190.02,-40.1 191.64,-44.72" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M206.22,-71.87C213.58,-63.69 222.26,-54.05 230.07,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="231.94,-46.95 234.81,-40.1 228.3,-43.67 231.94,-46.95" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M297.78,-71.87C290.42,-63.69 281.74,-54.05 273.93,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.7,-43.67 269.19,-40.1 272.06,-46.95 275.7,-43.67" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M379.18,-71.87C356.71,-62.88 329.8,-52.12 306.54,-42.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="307.17,-40.43 299.76,-40.1 305.35,-44.98 307.17,-40.43" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M319,-184C319,-184 185,-184 185,-184 179,-184 173,-178 173,-172 173,-172 173,-156 173,-156 173,-150 179,-144 185,-144 185,-144 319,-144 319,-144 325,-144 331,-150 331,-156 331,-156 331,-172 331,-172 331,-178 325,-184 319,-184" />
+<text text-anchor="middle" x="252" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M92,-112C92,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 92,-72 92,-72 98,-72 104,-78 104,-84 104,-84 104,-100 104,-100 104,-106 98,-112 92,-112" />
+<text text-anchor="middle" x="52" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengths</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M239.5,-112C239.5,-112 138.5,-112 138.5,-112 132.5,-112 126.5,-106 126.5,-100 126.5,-100 126.5,-84 126.5,-84 126.5,-78 132.5,-72 138.5,-72 138.5,-72 239.5,-72 239.5,-72 245.5,-72 251.5,-78 251.5,-84 251.5,-84 251.5,-100 251.5,-100 251.5,-106 245.5,-112 239.5,-112" />
+<text text-anchor="middle" x="189" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Weaknesses</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M344,-112C344,-112 286,-112 286,-112 280,-112 274,-106 274,-100 274,-100 274,-84 274,-84 274,-78 280,-72 286,-72 286,-72 344,-72 344,-72 350,-72 356,-78 356,-84 356,-84 356,-100 356,-100 356,-106 350,-112 344,-112" />
+<text text-anchor="middle" x="315" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M464,-112C464,-112 390,-112 390,-112 384,-112 378,-106 378,-100 378,-100 378,-84 378,-84 378,-78 384,-72 390,-72 390,-72 464,-72 464,-72 470,-72 476,-78 476,-84 476,-84 476,-100 476,-100 476,-106 470,-112 464,-112" />
+<text text-anchor="middle" x="427" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Network</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M301,-40C301,-40 203,-40 203,-40 197,-40 191,-34 191,-28 191,-28 191,-12 191,-12 191,-6 197,0 203,0 203,0 301,0 301,0 307,0 313,-6 313,-12 313,-12 313,-28 313,-28 313,-34 307,-40 301,-40" />
+<text text-anchor="middle" x="252" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Power Base</text>
+</g>
+</g>
+</svg>

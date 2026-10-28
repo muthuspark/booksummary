@@ -14,18 +14,7 @@ author: "V. Anton Spraul"
 
 A central theme is *decomposition*, the process of breaking down large, daunting problems into smaller, more manageable sub-problems. This recursive process continues until each sub-problem is simple enough to solve directly. This technique avoids being overwhelmed and fosters a sense of progress.
 
-```mermaid
-graph TD
-    A[Large Problem] --> B(Sub-problem 1);
-    A --> C(Sub-problem 2);
-    A --> D(Sub-problem 3);
-    B --> E(Smaller Sub-problem);
-    B --> F(Smaller Sub-problem);
-    C --> G(Smaller Sub-problem);
-    C --> H(Smaller Sub-problem);
-    D --> I(Smaller Sub-problem);
-    D --> J(Smaller Sub-problem);
-```
+![Decomposition: The Art of Breaking Down Problems. Large Problem; Sub-problem 1; Sub-problem 2; Sub-problem 3; Smaller Sub-problem; Smaller Sub-problem; Smaller Sub-problem; Smaller Sub-problem; Smaller Sub-problem; Smaller Sub-problem.](diagram-01.svg)
 
 Spraul stresses that this isn't a linear process;  backtracking and refinement are expected.  The initial decomposition might be imperfect, requiring adjustments as understanding deepens.
 
@@ -48,14 +37,7 @@ Testing is not an afterthought but an essential part of the development process.
 
 This iterative approach means building the solution in stages, testing at each step and refining based on results.  This contrasts with the traditional waterfall model, which often leads to significant rework at the end.
 
-```mermaid
-graph LR
-    A[Initial Idea] --> B(Design);
-    B --> C(Implementation);
-    C --> D{Testing};
-    D -- Pass --> E(Deployment);
-    D -- Fail --> C;
-```
+![Testing and Iteration: Building Solutions. Initial Idea; Design; Implementation; Testing; Deployment.](diagram-02.svg)
 
 #  The Importance of Pseudocode and Planning
 

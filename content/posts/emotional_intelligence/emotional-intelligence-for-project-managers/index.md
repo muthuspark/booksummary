@@ -14,15 +14,7 @@ Anthony Mersino's "Emotional Intelligence for Project Managers" argues that tech
 
 Self-awareness is the cornerstone of emotional intelligence. Mersino stresses the importance of understanding one's own strengths, weaknesses, values, and emotional triggers. This involves honest self-reflection and a willingness to seek feedback from others. He emphasizes the need for project managers to understand their emotional state and how it impacts their interactions and decision-making. Ignoring one's emotions can lead to poor judgment and strained relationships within the project team.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Understanding Strengths & Weaknesses);
-    A --> C(Identifying Emotional Triggers);
-    B --> D[Improved Decision Making];
-    C --> E(Effective Communication);
-    D --> F{Project Success};
-    E --> F;
-```
+![Self-Awareness: The Foundation of EQ. Self-Reflection; Understanding Strengths & Weaknesses; Identifying Emotional Triggers; Improved Decision Making; Effective Communication; Project Success.](diagram-01.svg)
 
 ## Self-Regulation: Mastering Your Reactions
 
@@ -33,16 +25,7 @@ Self-regulation involves managing one's emotions effectively, preventing impulsi
 
 Social awareness is important for building strong relationships and fostering collaboration within the project team.  Mersino emphasizes the importance of actively listening to team members, understanding their perspectives, and empathizing with their challenges.  He highlights the need to be perceptive to both verbal and nonverbal cues, reading the room to understand the overall emotional climate of the team.  This awareness enables proactive conflict management and strengthens team cohesion.
 
-```mermaid
-graph LR
-    A[Active Listening] --> B(Empathy);
-    B --> C(Understanding Team Dynamics);
-    C --> D[Improved Collaboration];
-    A --> E(Nonverbal Communication);
-    E --> D;
-    D --> F{Project Success};
-
-```
+![Social Awareness: Understanding Others' Perspectives. Active Listening; Empathy; Understanding Team Dynamics; Improved Collaboration; Nonverbal Communication; Project Success.](diagram-02.svg)
 
 ## Relationship Management: Building and Maintaining Trust
 

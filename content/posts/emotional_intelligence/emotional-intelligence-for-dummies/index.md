@@ -80,20 +80,7 @@ The principles of emotional intelligence are applicable across various aspects o
 
 #  Visualization of Key EQ Components
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    A --> C(Motivation);
-    B --> D{Empathy};
-    C --> D;
-    D --> E[Social Skills];
-    E --> F(Improved Relationships);
-    E --> G(Career Success);
-    E --> H(Personal Well-being);
-    style A fill:#ccf,stroke:#333,stroke-width:2px
-    style E fill:#ccf,stroke:#333,stroke-width:2px
-
-```
+![Visualization of Key EQ Components. Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills; Improved Relationships; Career Success; Personal Well-being.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of the key components of emotional intelligence and their impact on various aspects of life.  Self-awareness and self-regulation form the foundation, supporting motivation, empathy, and ultimately leading to improved social skills and overall well-being.
 

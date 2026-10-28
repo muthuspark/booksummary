@@ -22,13 +22,7 @@ The book frames financial intelligence around five key components:
 * **Financial Risk Management:** This focuses on understanding and mitigating financial risks.  It involves protecting yourself against unexpected events through insurance and diversification of investments.
 * **Financial Independence:**  The ultimate aim, this is about achieving a level of financial security that allows you to live comfortably without relying on a job or other external sources of income.
 
-```mermaid
-graph LR
-    A[Financial Literacy] --> B(Financial Planning);
-    B --> C{Financial Discipline};
-    C --> D[Financial Risk Management];
-    D --> E(Financial Independence);
-```
+![The Five Key Components of Financial Intelligence. Financial Literacy; Financial Planning; Financial Discipline; Financial Risk Management; Financial Independence.](diagram-01.svg)
 
 # Taking Control of Your Spending
 

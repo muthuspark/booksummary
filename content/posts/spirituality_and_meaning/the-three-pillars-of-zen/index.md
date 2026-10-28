@@ -17,13 +17,7 @@ Zazen, or seated meditation, forms the bedrock of Kapleau's teachings. He stress
 
 He details the physical aspects of zazen, including proper posture, breathing techniques, and the handling of physical discomfort.  This isn't passive relaxation; it's active engagement with one's physical and mental states.  The goal is not to clear the mind entirely, but to observe the ceaseless flow of thoughts and sensations without judgment.
 
-```mermaid
-graph LR
-    A[Correct Posture] --> B(Awareness of Breath);
-    B --> C{Observe Thoughts & Sensations};
-    C --> D[Non-Judgmental Observation];
-    D --> E(Deepening Awareness);
-```
+![Zazen: The Foundation of Practice. Correct Posture; Awareness of Breath; Observe Thoughts & Sensations; Non-Judgmental Observation; Deepening Awareness.](diagram-01.svg)
 
 The key takeaway is that zazen is a discipline, requiring patience, persistence, and a commitment to regular practice.  Kapleau encourages readers to start with short sessions and gradually increase the duration as their capacity for concentration grows. He emphasizes that the challenges faced during zazen – restlessness, discomfort, wandering thoughts – are themselves part of the process.
 

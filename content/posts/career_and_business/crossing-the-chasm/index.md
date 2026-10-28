@@ -21,14 +21,7 @@ Moore defines a five-stage technology adoption lifecycle:
 * **Laggards:** The final 16%, resistant to change, adopting only when a technology is outdated.
 
 
-```mermaid
-graph LR
-    A[Innovators] --> B(Early Adopters);
-    B --> C{Chasm};
-    C --> D(Early Majority);
-    D --> E(Late Majority);
-    E --> F(Laggards);
-```
+![The Technology Adoption Lifecycle. Innovators; Early Adopters; Chasm; Early Majority; Late Majority; Laggards.](diagram-01.svg)
 
 The chasm lies between the Early Adopters and the Early Majority. Early adopters are motivated by potential, while the Early Majority are motivated by proven solutions and practicality. Successfully bridging this chasm is essential for achieving mass-market success.
 

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452pt" height="351pt" viewBox="0.00 0.00 451.50 351.00" role="img" aria-labelledby="title description">
+<title id="title">Baby Step 1: $1000 Emergency Fund</title><desc id="description">Start leads to Unexpected Expense?. Unexpected Expense? leads to Use Emergency Fund (Yes). Use Emergency Fund leads to Problem Solved. Unexpected Expense? leads to Continue Baby Steps (No).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 333)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-333 433.5,-333 433.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209,-274.7C209,-267.21 209,-258.28 209,-249.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.45,-249.13 209,-242.13 206.55,-249.13 211.45,-249.13" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.7,-168.32C159.31,-152.22 139.89,-133.15 124.82,-118.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.19,-116.27 119.48,-113.12 122.75,-119.77 126.19,-116.27" />
+<text text-anchor="middle" x="164" y="-134" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M242.6,-168.32C259.15,-152.22 278.75,-133.15 293.96,-118.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="296.04,-119.75 299.35,-113.12 292.62,-116.24 296.04,-119.75" />
+<text text-anchor="middle" x="290" y="-134" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-72.97C100,-65.09 100,-55.82 100,-47.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-47.08 100,-40.08 97.55,-47.08 102.45,-47.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M230.5,-315C230.5,-315 187.5,-315 187.5,-315 181.5,-315 175.5,-309 175.5,-303 175.5,-303 175.5,-287 175.5,-287 175.5,-281 181.5,-275 187.5,-275 187.5,-275 230.5,-275 230.5,-275 236.5,-275 242.5,-281 242.5,-287 242.5,-287 242.5,-303 242.5,-303 242.5,-309 236.5,-315 230.5,-315" />
+<text text-anchor="middle" x="209" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Start</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="209,-242 5,-202 209,-162 413,-202 209,-242" />
+<text text-anchor="middle" x="209" y="-197.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unexpected Expense?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-113C188,-113 12,-113 12,-113 6,-113 0,-107 0,-101 0,-101 0,-85 0,-85 0,-79 6,-73 12,-73 12,-73 188,-73 188,-73 194,-73 200,-79 200,-85 200,-85 200,-101 200,-101 200,-107 194,-113 188,-113" />
+<text text-anchor="middle" x="100" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Use Emergency Fund</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M165.5,-40C165.5,-40 34.5,-40 34.5,-40 28.5,-40 22.5,-34 22.5,-28 22.5,-28 22.5,-12 22.5,-12 22.5,-6 28.5,0 34.5,0 34.5,0 165.5,0 165.5,0 171.5,0 177.5,-6 177.5,-12 177.5,-12 177.5,-28 177.5,-28 177.5,-34 171.5,-40 165.5,-40" />
+<text text-anchor="middle" x="100" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem Solved</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M403.5,-113C403.5,-113 234.5,-113 234.5,-113 228.5,-113 222.5,-107 222.5,-101 222.5,-101 222.5,-85 222.5,-85 222.5,-79 228.5,-73 234.5,-73 234.5,-73 403.5,-73 403.5,-73 409.5,-73 415.5,-79 415.5,-85 415.5,-85 415.5,-101 415.5,-101 415.5,-107 409.5,-113 403.5,-113" />
+<text text-anchor="middle" x="319" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Continue Baby Steps</text>
+</g>
+</g>
+</svg>

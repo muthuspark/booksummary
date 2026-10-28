@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435pt" height="332pt" viewBox="0.00 0.00 434.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">Listening to the Whispers of the Soul</title><desc id="description">Daily Life leads to Noise &amp; Distractions. Daily Life leads to Intuition &amp; Inner Wisdom. Intuition &amp; Inner Wisdom leads to Self-Awareness &amp; Clarity. Self-Awareness &amp; Clarity leads to Purpose &amp; Fulfillment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 416.5,-314 416.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.55,-255.84C157.57,-244.66 139.83,-230.46 124.99,-218.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.25,-216.47 119.26,-214.01 123.19,-220.29 126.25,-216.47" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M219.45,-255.84C229.68,-247.65 241.93,-237.86 253.58,-228.54" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.3,-230.3 259.23,-224.01 252.24,-226.47 255.3,-230.3" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M295.5,-163.53C295.5,-155.84 295.5,-147.45 295.5,-139.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="297.95,-139.23 295.5,-132.23 293.05,-139.23 297.95,-139.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M295.5,-71.67C295.5,-63.77 295.5,-55.28 295.5,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="297.95,-47.12 295.5,-40.12 293.05,-47.12 297.95,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M236.5,-296C236.5,-296 154.5,-296 154.5,-296 148.5,-296 142.5,-290 142.5,-284 142.5,-284 142.5,-268 142.5,-268 142.5,-262 148.5,-256 154.5,-256 154.5,-256 236.5,-256 236.5,-256 242.5,-256 248.5,-262 248.5,-268 248.5,-268 248.5,-284 248.5,-284 248.5,-290 242.5,-296 236.5,-296" />
+<text text-anchor="middle" x="195.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Daily Life</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M179,-214C179,-214 12,-214 12,-214 6,-214 0,-208 0,-202 0,-202 0,-186 0,-186 0,-180 6,-174 12,-174 12,-174 179,-174 179,-174 185,-174 191,-180 191,-186 191,-186 191,-202 191,-202 191,-208 185,-214 179,-214" />
+<text text-anchor="middle" x="95.5" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Noise &amp; Distractions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M366,-224C366,-224 225,-224 225,-224 219,-224 213,-218 213,-212 213,-212 213,-176 213,-176 213,-170 219,-164 225,-164 225,-164 366,-164 366,-164 372,-164 378,-170 378,-176 378,-176 378,-212 378,-212 378,-218 372,-224 366,-224" />
+<text text-anchor="middle" x="295.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intuition &amp; Inner</text>
+<text text-anchor="middle" x="295.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wisdom</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M367.5,-132C367.5,-132 223.5,-132 223.5,-132 217.5,-132 211.5,-126 211.5,-120 211.5,-120 211.5,-84 211.5,-84 211.5,-78 217.5,-72 223.5,-72 223.5,-72 367.5,-72 367.5,-72 373.5,-72 379.5,-78 379.5,-84 379.5,-84 379.5,-120 379.5,-120 379.5,-126 373.5,-132 367.5,-132" />
+<text text-anchor="middle" x="295.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness &amp;</text>
+<text text-anchor="middle" x="295.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M386.5,-40C386.5,-40 204.5,-40 204.5,-40 198.5,-40 192.5,-34 192.5,-28 192.5,-28 192.5,-12 192.5,-12 192.5,-6 198.5,0 204.5,0 204.5,0 386.5,0 386.5,0 392.5,0 398.5,-6 398.5,-12 398.5,-12 398.5,-28 398.5,-28 398.5,-34 392.5,-40 386.5,-40" />
+<text text-anchor="middle" x="295.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purpose &amp; Fulfillment</text>
+</g>
+</g>
+</svg>

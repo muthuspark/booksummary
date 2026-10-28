@@ -20,12 +20,7 @@ This doesn't mean we consciously seek out abusive or dysfunctional partners. Ins
 
 Hendrix describes the dynamic between partners as a "hook and mirror" process. One partner's unmet needs or unresolved issues act as a "hook," triggering a specific response in the partner who acts as a "mirror," reflecting those unmet needs back.  This often leads to conflict, but it also presents an opportunity for growth and healing.
 
-```mermaid
-graph LR
-    A["Unmet Need (Hook)"] --> B(Partner's Mirroring Behavior)
-    B --> C{Conflict/Opportunity}
-    C --> D[Healing/Growth]
-```
+![The "Hook" and the "Mirror. Unmet Need (Hook); Partner's Mirroring Behavior; Conflict/Opportunity; Healing/Growth.](diagram-01.svg)
 
 Understanding the hook and mirror dynamic is key for breaking free from destructive cycles. Recognizing your own "hooks" and how they elicit mirroring behaviors in your partner allows for conscious intervention and improved communication.
 
@@ -64,13 +59,7 @@ A significant element of IRT is the "Imago Dialogue," a structured communication
 
 The Imago Dialogue allows for a safe exploration of vulnerable emotions and facilitates a deeper understanding of each partner's internal world. It’s a process of mutual discovery and validation, strengthening the connection between partners.
 
-```mermaid
-graph LR
-    A[Partner 1 Expresses Feelings/Needs] --> B(Partner 2 Listens & Mirrors)
-    B --> C[Partner 2 Expresses Feelings/Needs]
-    C --> D(Partner 1 Listens & Mirrors)
-    D --> E[Cycle Repeats, Fostering Empathy]
-```
+![The Role of Dialogue. Partner 1 Expresses Feelings/Needs; Partner 2 Listens & Mirrors; Partner 2 Expresses Feelings/Needs; Partner 1 Listens & Mirrors; Cycle Repeats, Fostering Empathy.](diagram-02.svg)
 
 ##  Reframing Negative Experiences
 

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="436pt" height="464pt" viewBox="0.00 0.00 436.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Love Style</title><desc id="description">Self-Reflection leads to Identify Love Style. Identify Love Style leads to Understand Partner's Style. Understand Partner's Style leads to Effective Communication. Effective Communication leads to Conflict Resolution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 418,-446 418,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-387.87C200,-380.31 200,-371.49 200,-363.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-363.1 200,-356.1 197.55,-363.1 202.45,-363.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-315.84C200,-308.75 200,-300.25 200,-291.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-291.12 200,-284.12 197.55,-291.12 202.45,-291.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-163.7C200,-155.47 200,-147.21 200,-139.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-139.13 200,-132.13 197.55,-139.13 202.45,-139.13" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200,-71.67C200,-63.77 200,-55.28 200,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.45,-47.12 200,-40.12 197.55,-47.12 202.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M261.5,-428C261.5,-428 138.5,-428 138.5,-428 132.5,-428 126.5,-422 126.5,-416 126.5,-416 126.5,-400 126.5,-400 126.5,-394 132.5,-388 138.5,-388 138.5,-388 261.5,-388 261.5,-388 267.5,-388 273.5,-394 273.5,-400 273.5,-400 273.5,-416 273.5,-416 273.5,-422 267.5,-428 261.5,-428" />
+<text text-anchor="middle" x="200" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M277,-356C277,-356 123,-356 123,-356 117,-356 111,-350 111,-344 111,-344 111,-328 111,-328 111,-322 117,-316 123,-316 123,-316 277,-316 277,-316 283,-316 289,-322 289,-328 289,-328 289,-344 289,-344 289,-350 283,-356 277,-356" />
+<text text-anchor="middle" x="200" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Love Style</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="200,-284 0,-224 200,-164 400,-224 200,-284" />
+<text text-anchor="middle" x="200" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand Partner's</text>
+<text text-anchor="middle" x="200" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Style</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M266,-132C266,-132 134,-132 134,-132 128,-132 122,-126 122,-120 122,-120 122,-84 122,-84 122,-78 128,-72 134,-72 134,-72 266,-72 266,-72 272,-72 278,-78 278,-84 278,-84 278,-120 278,-120 278,-126 272,-132 266,-132" />
+<text text-anchor="middle" x="200" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="200" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M279,-40C279,-40 121,-40 121,-40 115,-40 109,-34 109,-28 109,-28 109,-12 109,-12 109,-6 115,0 121,0 121,0 279,0 279,0 285,0 291,-6 291,-12 291,-12 291,-28 291,-28 291,-34 285,-40 279,-40" />
+<text text-anchor="middle" x="200" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict Resolution</text>
+</g>
+</g>
+</svg>

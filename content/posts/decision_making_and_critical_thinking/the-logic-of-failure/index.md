@@ -15,13 +15,7 @@ Dietrich Dörner's "The Logic of Failure" isn't a self-help book. It explores co
 
 Dörner highlights the human tendency to simplify complex systems, reducing them to manageable, linear models. This "simplification" often leads to a flawed understanding and ultimately, failure.  He argues that many problems are inherently non-linear and involve feedback loops, making prediction and control incredibly challenging.
 
-```mermaid
-graph LR
-    A[Initial State] --> B(Action);
-    B --> C{Feedback Loop};
-    C --> D[New State];
-    D --> B;
-```
+![The Illusion of Simplicity:  Breaking Down Complexities. Initial State; Action; Feedback Loop; New State.](diagram-01.svg)
 
 This diagram illustrates a simple feedback loop.  In reality, complex systems have multiple interacting feedback loops, making them far more unpredictable than linear models suggest.  The key takeaway is recognizing the complexity of most life challenges and avoiding oversimplification.
 

@@ -23,16 +23,7 @@ The book highlights the critical role of prevention in maintaining health. Agus 
 
 Nutrition forms a cornerstone of Agus's approach.  He advocates for a balanced diet rich in fruits, vegetables, lean proteins, and healthy fats.  He cautions against processed foods, excessive sugar, and unhealthy fats, highlighting their detrimental effects on various bodily systems.  He encourages mindful eating, paying attention to portion sizes and hunger cues, rather than resorting to restrictive diets.  The goal isn't weight loss alone, but optimal bodily function.
 
-```mermaid
-graph LR
-    A[Balanced Diet] --> B(Fruits & Vegetables);
-    A --> C(Lean Protein);
-    A --> D(Healthy Fats);
-    A --> E{Minimize};
-    E --> F(Processed Foods);
-    E --> G(Excessive Sugar);
-    E --> H(Unhealthy Fats);
-```
+![Nutrition: Fueling Your Lucky Years. Balanced Diet; Fruits & Vegetables; Lean Protein; Healthy Fats; Minimize; Processed Foods; Excessive Sugar; Unhealthy Fats.](diagram-01.svg)
 
 ## Exercise: The Elixir of Longevity
 
@@ -53,13 +44,7 @@ Adequate sleep is another vital component of Agus's approach. He emphasizes the 
 
 Agus highlights the critical role of social connections in overall well-being. He explains how strong social networks provide emotional support, reduce stress, and a sense of belonging, all contributing to a longer and healthier life. Maintaining strong relationships with family and friends is presented as an essential aspect of a fulfilling life.
 
-```mermaid
-graph LR
-    A[Strong Social Connections] --> B(Emotional Support);
-    A --> C(Stress Reduction);
-    A --> D(Sense of Belonging);
-    A --> E(Longer, Healthier Life);
-```
+![The Importance of Social Connection. Strong Social Connections; Emotional Support; Stress Reduction; Sense of Belonging; Longer, Healthier Life.](diagram-02.svg)
 
 ## Cognitive Fitness: Keeping Your Mind Sharp
 

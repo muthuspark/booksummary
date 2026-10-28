@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243pt" height="424pt" viewBox="0.00 0.00 243.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Negotiation and Conflict Resolution</title><desc id="description">Active Listening leads to Understanding Needs. Understanding Needs leads to Identifying Shared Interests. Identifying Shared Interests leads to Collaborative Problem Solving. Collaborative Problem Solving leads to Mutually Beneficial Outcomes.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 225,-406 225,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.5,-347.87C103.5,-340.31 103.5,-331.49 103.5,-323.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-323.1 103.5,-316.1 101.05,-323.1 105.95,-323.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.5,-275.63C103.5,-268.34 103.5,-259.78 103.5,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-251.19 103.5,-244.19 101.05,-251.19 105.95,-251.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.5,-183.53C103.5,-175.84 103.5,-167.45 103.5,-159.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-159.23 103.5,-152.23 101.05,-159.23 105.95,-159.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.5,-91.53C103.5,-83.84 103.5,-75.45 103.5,-67.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-67.23 103.5,-60.23 101.05,-67.23 105.95,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-388C169.5,-388 37.5,-388 37.5,-388 31.5,-388 25.5,-382 25.5,-376 25.5,-376 25.5,-360 25.5,-360 25.5,-354 31.5,-348 37.5,-348 37.5,-348 169.5,-348 169.5,-348 175.5,-348 181.5,-354 181.5,-360 181.5,-360 181.5,-376 181.5,-376 181.5,-382 175.5,-388 169.5,-388" />
+<text text-anchor="middle" x="103.5" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192.5,-316C192.5,-316 14.5,-316 14.5,-316 8.5,-316 2.5,-310 2.5,-304 2.5,-304 2.5,-288 2.5,-288 2.5,-282 8.5,-276 14.5,-276 14.5,-276 192.5,-276 192.5,-276 198.5,-276 204.5,-282 204.5,-288 204.5,-288 204.5,-304 204.5,-304 204.5,-310 198.5,-316 192.5,-316" />
+<text text-anchor="middle" x="103.5" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Needs</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180,-244C180,-244 27,-244 27,-244 21,-244 15,-238 15,-232 15,-232 15,-196 15,-196 15,-190 21,-184 27,-184 27,-184 180,-184 180,-184 186,-184 192,-190 192,-196 192,-196 192,-232 192,-232 192,-238 186,-244 180,-244" />
+<text text-anchor="middle" x="103.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identifying Shared</text>
+<text text-anchor="middle" x="103.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interests</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M195,-152C195,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 195,-92 195,-92 201,-92 207,-98 207,-104 207,-104 207,-140 207,-140 207,-146 201,-152 195,-152" />
+<text text-anchor="middle" x="103.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaborative Problem</text>
+<text text-anchor="middle" x="103.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solving</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M184,-60C184,-60 23,-60 23,-60 17,-60 11,-54 11,-48 11,-48 11,-12 11,-12 11,-6 17,0 23,0 23,0 184,0 184,0 190,0 196,-6 196,-12 196,-12 196,-48 196,-48 196,-54 190,-60 184,-60" />
+<text text-anchor="middle" x="103.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutually Beneficial</text>
+<text text-anchor="middle" x="103.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcomes</text>
+</g>
+</g>
+</svg>

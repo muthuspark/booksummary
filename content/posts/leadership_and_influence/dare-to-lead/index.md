@@ -44,12 +44,7 @@ This involves embracing vulnerability in ourselves and others. It's about acknow
 *   **Self-compassion:** Treating yourself with kindness and understanding, especially during challenging times.
 *   **Emotional regulation:** Managing your emotions effectively in stressful situations.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Rumbling with Vulnerability);
-    C[Self-Compassion] --> B;
-    D[Emotional Regulation] --> B;
-```
+![1.  Rumbling with Vulnerability:. Self-Awareness; Rumbling with Vulnerability; Self-Compassion; Emotional Regulation.](diagram-01.svg)
 
 
 ### 2.  Living into Our Values:
@@ -60,12 +55,7 @@ This involves aligning our actions with our beliefs. It's about identifying our 
 *   **Courageous decision-making:** Choosing actions aligned with your values, despite potential risks.
 *   **Accountability:** Taking ownership of your actions and their consequences.
 
-```mermaid
-graph LR
-    A[Clarity of Values] --> B(Living into Our Values);
-    C[Courageous Decision-Making] --> B;
-    D[Accountability] --> B;
-```
+![2.  Living into Our Values:. Clarity of Values; Living into Our Values; Courageous Decision-Making; Accountability.](diagram-02.svg)
 
 ### 3.  Braving Trust:
 
@@ -79,17 +69,7 @@ This involves fostering trust within teams and organizations. It requires both c
 *   **Non-judgment:** Approaching others with empathy and understanding.
 *   **Generosity:** Showing kindness and compassion.
 
-```mermaid
-graph LR
-    A[Boundaries] --> B(BRAVING Trust);
-    B --> C[Reliability];
-    B --> D[Accountability];
-    B --> E[Vault];
-    B --> F[Integrity];
-    B --> G[Non-Judgment];
-    B --> H[Generosity];
-
-```
+![3.  Braving Trust:. Boundaries; BRAVING Trust; Reliability; Accountability; Vault; Integrity; Non-Judgment; Generosity.](diagram-03.svg)
 
 
 ### 4.  Learning to Rise:
@@ -100,12 +80,7 @@ This involves learning from setbacks and failures.  It's about viewing failure n
 *   **Growth mindset:** Embracing challenges and learning from mistakes.
 *   **Self-reflection:** Regularly examining your actions and their impact.
 
-```mermaid
-graph LR
-    A[Resilience] --> B(Learning to Rise);
-    C[Growth Mindset] --> B;
-    D[Self-Reflection] --> B;
-```
+![4.  Learning to Rise:. Resilience; Learning to Rise; Growth Mindset; Self-Reflection.](diagram-04.svg)
 
 
 ##  The Importance of Self-Reflection and Feedback

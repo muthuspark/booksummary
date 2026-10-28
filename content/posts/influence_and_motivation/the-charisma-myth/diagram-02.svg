@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1011pt" height="322pt" viewBox="0.00 0.00 1011.00 322.00" role="img" aria-labelledby="title description">
+<title id="title">Power: Projecting Influence</title><desc id="description">Clear Boundaries leads to Assertive Communication. Assertive Communication leads to Increased Influence. Increased Influence leads to Powerful Charisma. Powerful Vocalizations leads to Powerful Charisma. Confident Communication leads to Powerful Charisma. Competence &amp; Expertise leads to Powerful Charisma.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 304)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-304 993,-304 993,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.1,-246C175.16,-246 183.35,-246 191.43,-246" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.81,-248.45 198.81,-246 191.81,-243.55 191.81,-248.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M355.12,-246C362.99,-246 371.21,-246 379.65,-246" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="379.79,-248.45 386.79,-246 379.79,-243.55 379.79,-248.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M666.29,-225.53C696.9,-217.47 730.9,-207.2 761,-195 790.4,-183.09 821.73,-165.78 845.27,-151.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="846.66,-153.76 851.39,-148.05 844.13,-149.56 846.66,-153.76" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M680.13,-151.71C714.38,-147.71 752.23,-143.29 785.86,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="786.3,-141.77 792.97,-138.52 785.73,-136.9 786.3,-141.77" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M652.32,-101.04C692.75,-105.76 742.64,-111.59 785.67,-116.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="785.56,-119.08 792.79,-117.46 786.13,-114.21 785.56,-119.08" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M686.58,-31.2C711.57,-35.73 737.6,-42.08 761,-51 794.44,-63.74 828.56,-86.25 852.18,-103.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="850.88,-105.74 857.95,-107.96 853.81,-101.81 850.88,-105.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-266C155,-266 12,-266 12,-266 6,-266 0,-260 0,-254 0,-254 0,-238 0,-238 0,-232 6,-226 12,-226 12,-226 155,-226 155,-226 161,-226 167,-232 167,-238 167,-238 167,-254 167,-254 167,-260 161,-266 155,-266" />
+<text text-anchor="middle" x="83.5" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Boundaries</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M343,-276C343,-276 211,-276 211,-276 205,-276 199,-270 199,-264 199,-264 199,-228 199,-228 199,-222 205,-216 211,-216 211,-216 343,-216 343,-216 349,-216 355,-222 355,-228 355,-228 355,-264 355,-264 355,-270 349,-276 343,-276" />
+<text text-anchor="middle" x="277" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assertive</text>
+<text text-anchor="middle" x="277" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="574,-286 387,-246 574,-206 761,-246 574,-286" />
+<text text-anchor="middle" x="574" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Influence</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M963,-148C963,-148 805,-148 805,-148 799,-148 793,-142 793,-136 793,-136 793,-120 793,-120 793,-114 799,-108 805,-108 805,-108 963,-108 963,-108 969,-108 975,-114 975,-120 975,-120 975,-136 975,-136 975,-142 969,-148 963,-148" />
+<text text-anchor="middle" x="884" y="-123.6" font-family="Georgia" font-size="18.00" fill="#243d36">Powerful Charisma</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M668,-184C668,-184 480,-184 480,-184 474,-184 468,-178 468,-172 468,-172 468,-156 468,-156 468,-150 474,-144 480,-144 480,-144 668,-144 668,-144 674,-144 680,-150 680,-156 680,-156 680,-172 680,-172 680,-178 674,-184 668,-184" />
+<text text-anchor="middle" x="574" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Powerful Vocalizations</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M640,-122C640,-122 508,-122 508,-122 502,-122 496,-116 496,-110 496,-110 496,-74 496,-74 496,-68 502,-62 508,-62 508,-62 640,-62 640,-62 646,-62 652,-68 652,-74 652,-74 652,-110 652,-110 652,-116 646,-122 640,-122" />
+<text text-anchor="middle" x="574" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confident</text>
+<text text-anchor="middle" x="574" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M674.5,-40C674.5,-40 473.5,-40 473.5,-40 467.5,-40 461.5,-34 461.5,-28 461.5,-28 461.5,-12 461.5,-12 461.5,-6 467.5,0 473.5,0 473.5,0 674.5,0 674.5,0 680.5,0 686.5,-6 686.5,-12 686.5,-12 686.5,-28 686.5,-28 686.5,-34 680.5,-40 674.5,-40" />
+<text text-anchor="middle" x="574" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Competence &amp; Expertise</text>
+</g>
+</g>
+</svg>

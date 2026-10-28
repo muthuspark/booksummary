@@ -10,11 +10,7 @@ author: "Marcus Buckingham and Ashley Goodall"
 
 Buckingham and Goodall challenge the conventional wisdom that high-performing teams are built by assembling the "best" individuals. They argue that focusing solely on talent overlooks the role of *team dynamics* and individual *strengths*. Instead of homogenizing for "best," they advocate for deliberate team composition that uses various talents and strengths. This requires a shift from a talent-centric approach to a strengths-based one.
 
-```mermaid
-graph LR
-    A[Talent-Centric Approach] --> B(Homogenized Teams)
-    C[Strengths-Based Approach] --> D(Diverse, High-Performing Teams)
-```
+![The Myth of the "Best" Team. Talent-Centric Approach; Homogenized Teams; Strengths-Based Approach; Diverse, High-Performing Teams.](diagram-01.svg)
 
 # The Illusion of "Great" Managers
 

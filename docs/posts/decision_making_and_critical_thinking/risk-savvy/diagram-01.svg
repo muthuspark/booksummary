@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="699pt" height="392pt" viewBox="0.00 0.00 699.00 392.00" role="img" aria-labelledby="title description">
+<title id="title">Simple Heuristics: The Power of "Fast and Frugal" Thinking</title><desc id="description">Decision Problem leads to Identify Cues. Identify Cues leads to Take-the-best: Select most important cue. Take-the-best: Select most important cue leads to Decision. Identify Cues leads to Recognition Heuristic: Choose recognized option. Recognition Heuristic: Choose recognized option leads to Decision. Identify Cues leads to One-Reason Decision Making: Choose option favored by first relevant cue. One-Reason Decision Making: Choose option favored by first relevant cue leads to Decision.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 374)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-374 681,-374 681,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M323.5,-315.91C323.5,-308.58 323.5,-299.86 323.5,-291.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.95,-291.07 323.5,-284.07 321.05,-291.07 325.95,-291.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M276.61,-217.99C242.64,-199.87 196.41,-175.22 159.56,-155.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="160.59,-153.34 153.26,-152.21 158.28,-157.66 160.59,-153.34" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M323.5,-203.71C323.5,-192.83 323.5,-180.92 323.5,-169.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.95,-169.38 323.5,-162.38 321.05,-169.38 325.95,-169.38" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M371.5,-218.28C395.52,-205.91 425.58,-190.43 454.44,-175.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="455.86,-177.59 460.96,-172.21 453.61,-173.23 455.86,-177.59" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.01,-91.89C177.63,-85.33 193.09,-78.41 207.5,-72 229.09,-62.4 252.97,-51.88 273.43,-42.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="274.52,-45.1 279.95,-40.05 272.55,-40.62 274.52,-45.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M323.5,-81.76C323.5,-70.23 323.5,-57.89 323.5,-47.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.95,-47.06 323.5,-40.06 321.05,-47.06 325.95,-47.06" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M449.89,-75.24C423.6,-63.96 396.64,-52.39 374.41,-42.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="375.37,-40.6 367.97,-40.09 373.44,-45.1 375.37,-40.6" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M396.5,-356C396.5,-356 250.5,-356 250.5,-356 244.5,-356 238.5,-350 238.5,-344 238.5,-344 238.5,-328 238.5,-328 238.5,-322 244.5,-316 250.5,-316 250.5,-316 396.5,-316 396.5,-316 402.5,-316 408.5,-322 408.5,-328 408.5,-328 408.5,-344 408.5,-344 408.5,-350 402.5,-356 396.5,-356" />
+<text text-anchor="middle" x="323.5" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Problem</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="323.5,-284 189.5,-244 323.5,-204 457.5,-244 323.5,-284" />
+<text text-anchor="middle" x="323.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Cues</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-152C185,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 185,-92 185,-92 191,-92 197,-98 197,-104 197,-104 197,-140 197,-140 197,-146 191,-152 185,-152" />
+<text text-anchor="middle" x="98.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Take-the-best: Select</text>
+<text text-anchor="middle" x="98.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">most important cue</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M360.5,-40C360.5,-40 286.5,-40 286.5,-40 280.5,-40 274.5,-34 274.5,-28 274.5,-28 274.5,-12 274.5,-12 274.5,-6 280.5,0 286.5,0 286.5,0 360.5,0 360.5,0 366.5,0 372.5,-6 372.5,-12 372.5,-12 372.5,-28 372.5,-28 372.5,-34 366.5,-40 360.5,-40" />
+<text text-anchor="middle" x="323.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M416,-162C416,-162 231,-162 231,-162 225,-162 219,-156 219,-150 219,-150 219,-94 219,-94 219,-88 225,-82 231,-82 231,-82 416,-82 416,-82 422,-82 428,-88 428,-94 428,-94 428,-150 428,-150 428,-156 422,-162 416,-162" />
+<text text-anchor="middle" x="323.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognition Heuristic:</text>
+<text text-anchor="middle" x="323.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose recognized</text>
+<text text-anchor="middle" x="323.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">option</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M651,-172C651,-172 462,-172 462,-172 456,-172 450,-166 450,-160 450,-160 450,-84 450,-84 450,-78 456,-72 462,-72 462,-72 651,-72 651,-72 657,-72 663,-78 663,-84 663,-84 663,-160 663,-160 663,-166 657,-172 651,-172" />
+<text text-anchor="middle" x="556.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">One-Reason Decision</text>
+<text text-anchor="middle" x="556.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Making: Choose option</text>
+<text text-anchor="middle" x="556.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">favored by first</text>
+<text text-anchor="middle" x="556.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">relevant cue</text>
+</g>
+</g>
+</svg>

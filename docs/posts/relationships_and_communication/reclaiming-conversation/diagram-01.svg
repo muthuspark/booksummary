@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424pt" height="372pt" viewBox="0.00 0.00 424.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">The Illusion of Connection</title><desc id="description">Real Self leads to Curated Online Persona. Curated Online Persona leads to Social Comparison &amp; Loneliness. Social Comparison &amp; Loneliness leads to Diminished Self-Esteem.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 406,-354 406,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194,-295.87C194,-288.31 194,-279.49 194,-271.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.45,-271.1 194,-264.1 191.55,-271.1 196.45,-271.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194,-223.84C194,-216.75 194,-208.25 194,-199.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.45,-199.12 194,-192.12 191.55,-199.12 196.45,-199.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194,-71.81C194,-63.27 194,-54.86 194,-47.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.45,-47.33 194,-40.33 191.55,-47.33 196.45,-47.33" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M231.5,-336C231.5,-336 156.5,-336 156.5,-336 150.5,-336 144.5,-330 144.5,-324 144.5,-324 144.5,-308 144.5,-308 144.5,-302 150.5,-296 156.5,-296 156.5,-296 231.5,-296 231.5,-296 237.5,-296 243.5,-302 243.5,-308 243.5,-308 243.5,-324 243.5,-324 243.5,-330 237.5,-336 231.5,-336" />
+<text text-anchor="middle" x="194" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Real Self</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-264C292,-264 96,-264 96,-264 90,-264 84,-258 84,-252 84,-252 84,-236 84,-236 84,-230 90,-224 96,-224 96,-224 292,-224 292,-224 298,-224 304,-230 304,-236 304,-236 304,-252 304,-252 304,-258 298,-264 292,-264" />
+<text text-anchor="middle" x="194" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Curated Online Persona</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="194,-192 0,-132 194,-72 388,-132 194,-192" />
+<text text-anchor="middle" x="194" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Comparison &amp;</text>
+<text text-anchor="middle" x="194" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Loneliness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M293,-40C293,-40 95,-40 95,-40 89,-40 83,-34 83,-28 83,-28 83,-12 83,-12 83,-6 89,0 95,0 95,0 293,0 293,0 299,0 305,-6 305,-12 305,-12 305,-28 305,-28 305,-34 299,-40 293,-40" />
+<text text-anchor="middle" x="194" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diminished Self-Esteem</text>
+</g>
+</g>
+</svg>

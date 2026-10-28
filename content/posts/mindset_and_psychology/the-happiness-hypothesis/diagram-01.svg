@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="668pt" height="342pt" viewBox="0.00 0.00 668.00 342.00" role="img" aria-labelledby="title description">
+<title id="title">Visualization: The Rider and the Elephant</title><desc id="description">Rider (Reason) leads to Conscious Thought. Rider (Reason) leads to Planning. Rider (Reason) leads to Decision-Making. Elephant (Emotion) leads to Intuition. Elephant (Emotion) leads to Impulse. Elephant (Emotion) leads to Habits. Rider (Reason) leads to Elephant (Emotion) (Weak Control). Rider (Reason) leads to Elephant (Emotion) (dashed connection). Goal: Harmony: Rider (Reason), Elephant (Emotion).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 324)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-324 650,-324 650,18 -18,18" />
+<g id="clust1" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M20,-182C20,-182 496,-182 496,-182 502,-182 508,-188 508,-194 508,-194 508,-280 508,-280 508,-286 502,-292 496,-292 496,-292 20,-292 20,-292 14,-292 8,-286 8,-280 8,-280 8,-194 8,-194 8,-188 14,-182 20,-182" />
+<text text-anchor="middle" x="258" y="-273.6" font-family="Georgia" font-size="18.00" fill="#405b50">Goal: Harmony</text>
+</g>
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.32,-200.72C217.27,-190.1 268.25,-176.88 310.69,-165.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="311.53,-168.18 317.7,-164.05 310.3,-163.44 311.53,-168.18" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M134.64,-199.94C173.45,-176.71 240.7,-138.39 302,-113 313.81,-108.11 326.69,-103.42 339,-99.24" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="339.91,-101.51 345.77,-96.96 338.36,-96.87 339.91,-101.51" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.27,-199.89C132.76,-177.59 161.57,-141.4 192,-116 235.59,-79.61 250.33,-74.56 302,-51 308.39,-48.09 315.13,-45.31 321.95,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="323.09,-44.89 328.79,-40.14 321.37,-40.3 323.09,-44.89" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.31,-220.68C209.82,-221.02 249.9,-221.47 286,-222 288.93,-222.04 291.9,-222.09 294.9,-222.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="294.9,-224.58 301.94,-222.25 294.98,-219.69 294.9,-224.58" />
+<text text-anchor="middle" x="239" y="-227" font-family="Georgia" font-size="15.00" fill="#405b50">Weak Control</text>
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M176.44,-237.86C181.68,-238.71 186.91,-239.44 192,-240 225.32,-243.66 261.81,-242.41 294.55,-239.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.18,-241.79 301.91,-238.68 294.71,-236.91 295.18,-241.79" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M456.65,-244.04C478.97,-251.55 504.22,-260.03 526.15,-267.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="525.42,-269.74 532.84,-269.65 526.98,-265.09 525.42,-269.74" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M490.06,-224C503.11,-224 516.14,-224 528.11,-224" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="528.41,-226.45 535.41,-224 528.41,-221.55 528.41,-226.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M456.65,-203.96C482.04,-195.42 511.22,-185.62 534.97,-177.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="535.99,-179.88 541.84,-175.33 534.43,-175.23 535.99,-179.88" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-240C164,-240 38,-240 38,-240 32,-240 26,-234 26,-228 26,-228 26,-212 26,-212 26,-206 32,-200 38,-200 38,-200 164,-200 164,-200 170,-200 176,-206 176,-212 176,-212 176,-228 176,-228 176,-234 170,-240 164,-240" />
+<text text-anchor="middle" x="101" y="-215.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rider (Reason)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M474.5,-164C474.5,-164 317.5,-164 317.5,-164 311.5,-164 305.5,-158 305.5,-152 305.5,-152 305.5,-136 305.5,-136 305.5,-130 311.5,-124 317.5,-124 317.5,-124 474.5,-124 474.5,-124 480.5,-124 486.5,-130 486.5,-136 486.5,-136 486.5,-152 486.5,-152 486.5,-158 480.5,-164 474.5,-164" />
+<text text-anchor="middle" x="396" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conscious Thought</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M434,-102C434,-102 358,-102 358,-102 352,-102 346,-96 346,-90 346,-90 346,-74 346,-74 346,-68 352,-62 358,-62 358,-62 434,-62 434,-62 440,-62 446,-68 446,-74 446,-74 446,-90 446,-90 446,-96 440,-102 434,-102" />
+<text text-anchor="middle" x="396" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Planning</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M466,-40C466,-40 326,-40 326,-40 320,-40 314,-34 314,-28 314,-28 314,-12 314,-12 314,-6 320,0 326,0 326,0 466,0 466,0 472,0 478,-6 478,-12 478,-12 478,-28 478,-28 478,-34 472,-40 466,-40" />
+<text text-anchor="middle" x="396" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision-Making</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M478,-244C478,-244 314,-244 314,-244 308,-244 302,-238 302,-232 302,-232 302,-216 302,-216 302,-210 308,-204 314,-204 314,-204 478,-204 478,-204 484,-204 490,-210 490,-216 490,-216 490,-232 490,-232 490,-238 484,-244 478,-244" />
+<text text-anchor="middle" x="396" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Elephant (Emotion)</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M620,-306C620,-306 545,-306 545,-306 539,-306 533,-300 533,-294 533,-294 533,-278 533,-278 533,-272 539,-266 545,-266 545,-266 620,-266 620,-266 626,-266 632,-272 632,-278 632,-278 632,-294 632,-294 632,-300 626,-306 620,-306" />
+<text text-anchor="middle" x="582.5" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intuition</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M617.5,-244C617.5,-244 547.5,-244 547.5,-244 541.5,-244 535.5,-238 535.5,-232 535.5,-232 535.5,-216 535.5,-216 535.5,-210 541.5,-204 547.5,-204 547.5,-204 617.5,-204 617.5,-204 623.5,-204 629.5,-210 629.5,-216 629.5,-216 629.5,-232 629.5,-232 629.5,-238 623.5,-244 617.5,-244" />
+<text text-anchor="middle" x="582.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impulse</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M611,-182C611,-182 554,-182 554,-182 548,-182 542,-176 542,-170 542,-170 542,-154 542,-154 542,-148 548,-142 554,-142 554,-142 611,-142 611,-142 617,-142 623,-148 623,-154 623,-154 623,-170 623,-170 623,-176 617,-182 611,-182" />
+<text text-anchor="middle" x="582.5" y="-157.6" font-family="Georgia" font-size="18.00" fill="#243d36">Habits</text>
+</g>
+</g>
+</svg>

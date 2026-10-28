@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="539pt" height="240pt" viewBox="0.00 0.00 539.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">The Building Blocks: The Three Core Components</title><desc id="description">Tasks (•) leads to Record things to do. Notes (-) leads to Capture information &amp; ideas. Events (O) leads to Schedule appointments &amp; meetings. Record things to do leads to Collection. Capture information &amp; ideas leads to Collection. Schedule appointments &amp; meetings leads to Collection.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 521,-222 521,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.2,-184C120.81,-184 137.42,-184 154.08,-184" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.22,-186.45 161.22,-184 154.22,-181.55 154.22,-186.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M330.06,-163.96C340.88,-160.58 351.79,-156.9 362,-153 375.36,-147.9 389.5,-141.54 402.34,-135.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="403.71,-137.43 408.93,-132.16 401.57,-133.02 403.71,-137.43" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.7,-112C117.64,-112 129.69,-112 142.02,-112" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.31,-114.45 149.31,-112 142.31,-109.55 142.31,-114.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M358.58,-112C368.13,-112 377.58,-112 386.56,-112" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="386.65,-114.45 393.65,-112 386.65,-109.55 386.65,-114.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114.14,-30C121.96,-30 130.22,-30 138.66,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="138.77,-32.45 145.77,-30 138.77,-27.55 138.77,-32.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M335.62,-60.08C344.56,-63.66 353.5,-67.34 362,-71 374.75,-76.49 388.37,-82.81 400.91,-88.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="399.99,-91.09 407.36,-91.92 402.12,-86.68 399.99,-91.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M94,-204C94,-204 20,-204 20,-204 14,-204 8,-198 8,-192 8,-192 8,-176 8,-176 8,-170 14,-164 20,-164 20,-164 94,-164 94,-164 100,-164 106,-170 106,-176 106,-176 106,-192 106,-192 106,-198 100,-204 94,-204" />
+<text text-anchor="middle" x="57" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tasks (•)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M334.5,-204C334.5,-204 173.5,-204 173.5,-204 167.5,-204 161.5,-198 161.5,-192 161.5,-192 161.5,-176 161.5,-176 161.5,-170 167.5,-164 173.5,-164 173.5,-164 334.5,-164 334.5,-164 340.5,-164 346.5,-170 346.5,-176 346.5,-176 346.5,-192 346.5,-192 346.5,-198 340.5,-204 334.5,-204" />
+<text text-anchor="middle" x="254" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Record things to do</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M94.5,-132C94.5,-132 19.5,-132 19.5,-132 13.5,-132 7.5,-126 7.5,-120 7.5,-120 7.5,-104 7.5,-104 7.5,-98 13.5,-92 19.5,-92 19.5,-92 94.5,-92 94.5,-92 100.5,-92 106.5,-98 106.5,-104 106.5,-104 106.5,-120 106.5,-120 106.5,-126 100.5,-132 94.5,-132" />
+<text text-anchor="middle" x="57" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Notes (-)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M346.5,-142C346.5,-142 161.5,-142 161.5,-142 155.5,-142 149.5,-136 149.5,-130 149.5,-130 149.5,-94 149.5,-94 149.5,-88 155.5,-82 161.5,-82 161.5,-82 346.5,-82 346.5,-82 352.5,-82 358.5,-88 358.5,-94 358.5,-94 358.5,-130 358.5,-130 358.5,-136 352.5,-142 346.5,-142" />
+<text text-anchor="middle" x="254" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Capture information &amp;</text>
+<text text-anchor="middle" x="254" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">ideas</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M102,-50C102,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 102,-10 102,-10 108,-10 114,-16 114,-22 114,-22 114,-38 114,-38 114,-44 108,-50 102,-50" />
+<text text-anchor="middle" x="57" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Events (O)</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M350,-60C350,-60 158,-60 158,-60 152,-60 146,-54 146,-48 146,-48 146,-12 146,-12 146,-6 152,0 158,0 158,0 350,0 350,0 356,0 362,-6 362,-12 362,-12 362,-48 362,-48 362,-54 356,-60 350,-60" />
+<text text-anchor="middle" x="254" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Schedule appointments</text>
+<text text-anchor="middle" x="254" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">&amp; meetings</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M491,-132C491,-132 406,-132 406,-132 400,-132 394,-126 394,-120 394,-120 394,-104 394,-104 394,-98 400,-92 406,-92 406,-92 491,-92 491,-92 497,-92 503,-98 503,-104 503,-104 503,-120 503,-120 503,-126 497,-132 491,-132" />
+<text text-anchor="middle" x="448.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collection</text>
+</g>
+</g>
+</svg>

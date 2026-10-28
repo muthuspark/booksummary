@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="362pt" height="352pt" viewBox="0.00 0.00 362.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Cultivating Inner Peace: Mindfulness and Meditation</title><desc id="description">Challenges &amp; Suffering leads to Mindfulness &amp; Meditation. Mindfulness &amp; Meditation leads to Perspective Shift. Perspective Shift leads to Inner Peace &amp; Joy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 344,-334 344,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-275.63C163,-268.34 163,-259.78 163,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-251.19 163,-244.19 160.55,-251.19 165.45,-251.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-183.81C163,-176.06 163,-167.5 163,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-159.09 163,-152.09 160.55,-159.09 165.45,-159.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163,-71.79C163,-63.54 163,-55.04 163,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.45,-47.09 163,-40.09 160.55,-47.09 165.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M256,-316C256,-316 70,-316 70,-316 64,-316 58,-310 58,-304 58,-304 58,-288 58,-288 58,-282 64,-276 70,-276 70,-276 256,-276 256,-276 262,-276 268,-282 268,-288 268,-288 268,-304 268,-304 268,-310 262,-316 256,-316" />
+<text text-anchor="middle" x="163" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Challenges &amp; Suffering</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M223.5,-244C223.5,-244 102.5,-244 102.5,-244 96.5,-244 90.5,-238 90.5,-232 90.5,-232 90.5,-196 90.5,-196 90.5,-190 96.5,-184 102.5,-184 102.5,-184 223.5,-184 223.5,-184 229.5,-184 235.5,-190 235.5,-196 235.5,-196 235.5,-232 235.5,-232 235.5,-238 229.5,-244 223.5,-244" />
+<text text-anchor="middle" x="163" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness &amp;</text>
+<text text-anchor="middle" x="163" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meditation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="163,-152 0,-112 163,-72 326,-112 163,-152" />
+<text text-anchor="middle" x="163" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perspective Shift</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M237.5,-40C237.5,-40 88.5,-40 88.5,-40 82.5,-40 76.5,-34 76.5,-28 76.5,-28 76.5,-12 76.5,-12 76.5,-6 82.5,0 88.5,0 88.5,0 237.5,0 237.5,0 243.5,0 249.5,-6 249.5,-12 249.5,-12 249.5,-28 249.5,-28 249.5,-34 243.5,-40 237.5,-40" />
+<text text-anchor="middle" x="163" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Peace &amp; Joy</text>
+</g>
+</g>
+</svg>

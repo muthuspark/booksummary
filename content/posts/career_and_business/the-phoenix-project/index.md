@@ -16,14 +16,7 @@ The book opens with Parts Unlimited in a state of utter IT disarray.  Different 
 
 This siloed approach is visually represented below:
 
-```mermaid
-graph LR
-    A[Development] --> B(Deployment Bottleneck);
-    C[Operations] --> B;
-    D[Security] --> B;
-    E[Business] --> B;
-    B --> F{Chaos & Delays};
-```
+![The Chaos of Siloed Operations. Development; Deployment Bottleneck; Operations; Security; Business; Chaos & Delays.](diagram-01.svg)
 
 ## The Three Ways: A Foundation for Change
 
@@ -34,26 +27,13 @@ The core of the book revolves around "The Three Ways," a framework for improving
 
 The first way focuses on accelerating the flow of work from Development to Operations to the customer.  This involves identifying and eliminating bottlenecks that slow down the process.  In the book, this translates to streamlining the deployment pipeline, automating repetitive tasks, and improving communication between teams.  The goal is to deliver value to the customer faster and more reliably.
 
-```mermaid
-graph LR
-    A[Idea] --> B(Development);
-    B --> C(Testing);
-    C --> D(Deployment);
-    D --> E(Production);
-    E --> F[Customer Value];
-```
+![The First Way: The Flow of Work. Idea; Development; Testing; Deployment; Production; Customer Value.](diagram-02.svg)
 
 ### The Second Way: Amplifying Feedback Loops
 
 The second way emphasizes faster feedback loops.  This means quickly identifying and addressing problems, whether they are related to code, infrastructure, or processes.  By shortening feedback loops, teams can react faster to issues, preventing them from escalating and causing major disruptions.  This translates to more frequent deployments, continuous monitoring, and effective communication channels.
 
-```mermaid
-graph LR
-    A[Deployment] --> B(Monitoring);
-    B --> C(Feedback);
-    C --> D(Improvement);
-    D --> A;
-```
+![The Second Way: Amplifying Feedback Loops. Deployment; Monitoring; Feedback; Improvement.](diagram-03.svg)
 
 ### The Third Way: Continuous Learning and Experimentation
 

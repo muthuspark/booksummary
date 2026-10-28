@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="527pt" height="188pt" viewBox="0.00 0.00 526.50 188.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Awareness: The Foundation of EQ</title><desc id="description">Self-Reflection leads to Increased Self-Awareness. Seeking Feedback leads to Increased Self-Awareness. Personality Assessments leads to Increased Self-Awareness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 170)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-170 508.5,-170 508.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.89,-101.91C134.37,-90.73 163.36,-76.32 189.32,-63.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.67,-65.47 195.85,-60.16 188.49,-61.09 190.67,-65.47" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M254.5,-101.91C254.5,-91.91 254.5,-79.33 254.5,-67.54" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.95,-67.34 254.5,-60.34 252.05,-67.34 256.95,-67.34" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M370.66,-91.78C353.36,-82.73 334.2,-72.7 316.51,-63.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="317.4,-61.15 310.06,-60.07 315.13,-65.49 317.4,-61.15" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-142C135,-142 12,-142 12,-142 6,-142 0,-136 0,-130 0,-130 0,-114 0,-114 0,-108 6,-102 12,-102 12,-102 135,-102 135,-102 141,-102 147,-108 147,-114 147,-114 147,-130 147,-130 147,-136 141,-142 135,-142" />
+<text text-anchor="middle" x="73.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M318,-60C318,-60 191,-60 191,-60 185,-60 179,-54 179,-48 179,-48 179,-12 179,-12 179,-6 185,0 191,0 191,0 318,0 318,0 324,0 330,-6 330,-12 330,-12 330,-48 330,-48 330,-54 324,-60 318,-60" />
+<text text-anchor="middle" x="254.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="254.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M328,-142C328,-142 181,-142 181,-142 175,-142 169,-136 169,-130 169,-130 169,-114 169,-114 169,-108 175,-102 181,-102 181,-102 328,-102 328,-102 334,-102 340,-108 340,-114 340,-114 340,-130 340,-130 340,-136 334,-142 328,-142" />
+<text text-anchor="middle" x="254.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeking Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M478.5,-152C478.5,-152 374.5,-152 374.5,-152 368.5,-152 362.5,-146 362.5,-140 362.5,-140 362.5,-104 362.5,-104 362.5,-98 368.5,-92 374.5,-92 374.5,-92 478.5,-92 478.5,-92 484.5,-92 490.5,-98 490.5,-104 490.5,-104 490.5,-140 490.5,-140 490.5,-146 484.5,-152 478.5,-152" />
+<text text-anchor="middle" x="426.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personality</text>
+<text text-anchor="middle" x="426.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assessments</text>
+</g>
+</g>
+</svg>

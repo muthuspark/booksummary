@@ -88,34 +88,7 @@ The Challenger questions assumptions and challenges the status quo. They are not
 These roles aren't mutually exclusive; individuals can embody many of these archetypes, and successful teams will often have representatives from each.  The book emphasizes the importance of building various teams that use the strengths of each archetype.
 
 
-```mermaid
-graph TD
-    A[Anthropologist] --> B(User Understanding);
-    C[Experimenter] --> D(Trial & Error);
-    E[Cross-Pollinator] --> F(Diverse Inspiration);
-    G[Hurdler] --> H(Problem Solving);
-    I[Collaborator] --> J(Teamwork);
-    K[Director] --> L(Project Management);
-    M[Storyteller] --> N(Communication);
-    O[Caregiver] --> P(Nurturing Innovation);
-    Q[Set Designer] --> R(Immersive Experience);
-    S[Challenger] --> T(Critical Thinking);
-
-    B -- Synergistic Effects --> J;
-    D -- Synergistic Effects --> H;
-    F -- Synergistic Effects --> N;
-    H -- Synergistic Effects --> P;
-    J -- Synergistic Effects --> L;
-    L -- Synergistic Effects --> R;
-    N -- Synergistic Effects --> T;
-    P -- Synergistic Effects --> R;
-    R -- Synergistic Effects --> B;
-    T -- Synergistic Effects --> D;
-
-    subgraph "Ten Faces of Innovation"
-        A; C; E; G; I; K; M; O; Q; S;
-    end
-```
+![Interconnectedness of the Ten Faces. Anthropologist; User Understanding; Experimenter; Trial & Error; Cross-Pollinator; Diverse Inspiration; Hurdler; Problem Solving; Collaborator; Teamwork; Director; Project Management; Storyteller; Communication; Caregiver; Nurturing Innovation; Set Designer; Immersive Experience; Challenger; Critical Thinking.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of the ten archetypes, highlighting how each contributes to the overall success of the innovation process. The synergistic effects demonstrate how the strengths of one archetype support those of another.
 

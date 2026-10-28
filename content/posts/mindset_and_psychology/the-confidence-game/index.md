@@ -22,18 +22,7 @@ We are prone to cognitive biases, shortcuts in our thinking that can lead to poo
 
 A significant portion of the book focuses on "the mark," the victim of the confidence game. Konnikova argues that there's no single profile of a mark; rather, anyone can fall prey to a well-executed con.  It's not about intelligence or lack thereof; it's about understanding the psychological triggers that make individuals vulnerable.
 
-```mermaid
-graph LR
-    A[Vulnerabilities] --> B(Cognitive Biases);
-    A --> C(Emotional States);
-    A --> D(Situational Factors);
-    B --> E(Confirmation Bias);
-    B --> F(Availability Heuristic);
-    C --> G(Greed);
-    C --> H(Loneliness);
-    D --> I(Stress);
-    D --> J(Time Pressure);
-```
+![The Mark: Identifying and Protecting Yourself. Vulnerabilities; Cognitive Biases; Emotional States; Situational Factors; Confirmation Bias; Availability Heuristic; Greed; Loneliness; Stress; Time Pressure.](diagram-01.svg)
 
 Recognizing these vulnerabilities – both in ourselves and others – is the first step in protection.  The book encourages self-reflection and awareness of our own biases and emotional states.
 

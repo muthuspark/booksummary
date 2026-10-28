@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560pt" height="220pt" viewBox="0.00 0.00 559.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">Visualization of Key Interconnections</title><desc id="description">Nutrition leads to Energy Levels. Nutrition leads to Inflammation. Sleep leads to Energy Levels. Sleep leads to Mood. Stress Management leads to Mood. Stress Management leads to Inflammation. Exercise leads to Energy Levels. Exercise leads to Inflammation. Energy Levels leads to Cognitive Function. Inflammation leads to Cognitive Function. Mood leads to Cognitive Function.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 541.5,-202 541.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.27,-146.68C133.89,-137.02 173.02,-124.68 206.04,-114.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="207.04,-116.52 212.98,-112.08 205.57,-111.85 207.04,-116.52" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M68.17,-143.87C75.16,-135.85 83.39,-126.41 90.84,-117.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.1,-118.99 95.85,-112.1 89.41,-115.77 93.1,-118.99" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M273.5,-71.87C273.5,-64.31 273.5,-55.49 273.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.95,-47.1 273.5,-40.1 271.05,-47.1 275.95,-47.1" />
+</g>
+
+<g id="edge10" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.49,-71.87C177.08,-62.92 201.71,-52.21 223.05,-42.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.12,-45.14 229.56,-40.1 222.16,-40.65 224.12,-45.14" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M451.44,-148.05C447.76,-146.64 444.07,-145.26 440.5,-144 410.34,-133.32 376.66,-122.78 347.5,-114.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="347.98,-111.67 340.57,-112.02 346.59,-116.36 347.98,-111.67" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M464.55,-143.87C454.45,-135.46 442.5,-125.5 431.86,-116.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="433.37,-114.7 426.43,-112.1 430.23,-118.47 433.37,-114.7" />
+</g>
+
+<g id="edge11" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M367.98,-71.87C351.78,-63.15 332.49,-52.77 315.58,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="316.3,-41.27 308.98,-40.1 313.98,-45.58 316.3,-41.27" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M275.59,-143.96C246.08,-134.74 210.55,-123.64 180.19,-114.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.81,-111.78 173.4,-112.03 179.35,-116.46 180.81,-111.78" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M354.81,-143.87C362.64,-135.69 371.87,-126.05 380.18,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="382.14,-118.86 385.21,-112.1 378.6,-115.47 382.14,-118.86" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.83,-143.87C213.06,-135.31 227.6,-125.13 240.44,-116.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.88,-118.13 246.21,-112.1 239.07,-114.11 241.88,-118.13" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.83,-143.87C149.84,-135.85 141.61,-126.41 134.16,-117.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.59,-115.77 129.15,-112.1 131.9,-118.99 135.59,-115.77" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M91,-184C91,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 91,-144 91,-144 97,-144 103,-150 103,-156 103,-156 103,-172 103,-172 103,-178 97,-184 91,-184" />
+<text text-anchor="middle" x="51.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nutrition</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M331.5,-112C331.5,-112 215.5,-112 215.5,-112 209.5,-112 203.5,-106 203.5,-100 203.5,-100 203.5,-84 203.5,-84 203.5,-78 209.5,-72 215.5,-72 215.5,-72 331.5,-72 331.5,-72 337.5,-72 343.5,-78 343.5,-84 343.5,-84 343.5,-100 343.5,-100 343.5,-106 337.5,-112 331.5,-112" />
+<text text-anchor="middle" x="273.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Energy Levels</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-112C169.5,-112 55.5,-112 55.5,-112 49.5,-112 43.5,-106 43.5,-100 43.5,-100 43.5,-84 43.5,-84 43.5,-78 49.5,-72 55.5,-72 55.5,-72 169.5,-72 169.5,-72 175.5,-72 181.5,-78 181.5,-84 181.5,-84 181.5,-100 181.5,-100 181.5,-106 175.5,-112 169.5,-112" />
+<text text-anchor="middle" x="112.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M511.5,-184C511.5,-184 463.5,-184 463.5,-184 457.5,-184 451.5,-178 451.5,-172 451.5,-172 451.5,-156 451.5,-156 451.5,-150 457.5,-144 463.5,-144 463.5,-144 511.5,-144 511.5,-144 517.5,-144 523.5,-150 523.5,-156 523.5,-156 523.5,-172 523.5,-172 523.5,-178 517.5,-184 511.5,-184" />
+<text text-anchor="middle" x="487.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sleep</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M429,-112C429,-112 378,-112 378,-112 372,-112 366,-106 366,-100 366,-100 366,-84 366,-84 366,-78 372,-72 378,-72 378,-72 429,-72 429,-72 435,-72 441,-78 441,-84 441,-84 441,-100 441,-100 441,-106 435,-112 429,-112" />
+<text text-anchor="middle" x="403.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mood</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M417,-184C417,-184 256,-184 256,-184 250,-184 244,-178 244,-172 244,-172 244,-156 244,-156 244,-150 250,-144 256,-144 256,-144 417,-144 417,-144 423,-144 429,-150 429,-156 429,-156 429,-172 429,-172 429,-178 423,-184 417,-184" />
+<text text-anchor="middle" x="336.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress Management</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209.5,-184C209.5,-184 137.5,-184 137.5,-184 131.5,-184 125.5,-178 125.5,-172 125.5,-172 125.5,-156 125.5,-156 125.5,-150 131.5,-144 137.5,-144 137.5,-144 209.5,-144 209.5,-144 215.5,-144 221.5,-150 221.5,-156 221.5,-156 221.5,-172 221.5,-172 221.5,-178 215.5,-184 209.5,-184" />
+<text text-anchor="middle" x="173.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exercise</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351,-40C351,-40 196,-40 196,-40 190,-40 184,-34 184,-28 184,-28 184,-12 184,-12 184,-6 190,0 196,0 196,0 351,0 351,0 357,0 363,-6 363,-12 363,-12 363,-28 363,-28 363,-34 357,-40 351,-40" />
+<text text-anchor="middle" x="273.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Function</text>
+</g>
+</g>
+</svg>

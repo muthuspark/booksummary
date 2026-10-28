@@ -14,15 +14,7 @@ John C. Bogle's "The Little Book of Common Sense Investing" is a concise yet pow
 
 Bogle dedicates a significant portion of the book to debunking the myth of consistently beating the market.  He presents compelling evidence showing that the vast majority of actively managed mutual funds fail to outperform broad market indexes over the long term, even after accounting for fees.  This underperformance is attributed to many factors, including the high cost ratios of actively managed funds, the difficulty of consistently predicting market movements, and the impact of market timing.  The pursuit of "alpha" (excess returns) is often a fool's errand, costing investors more in fees than any potential outsized gains.
 
-```mermaid
-graph LR
-    A[Active Management] --> B(High Fees);
-    A --> C(Market Timing Difficulties);
-    A --> D(Underperformance);
-    E[Passive Management] --> F(Low Fees);
-    E --> G(Market Returns);
-    G --> H(Long-Term Growth);
-```
+![The Illusion of Superior Returns. Active Management; High Fees; Market Timing Difficulties; Underperformance; Passive Management; Low Fees; Market Returns; Long-Term Growth.](diagram-01.svg)
 
 ## The Power of Low-Cost Index Funds
 
@@ -32,12 +24,7 @@ The heart of Bogle's philosophy lies in the simple, yet highly effective, strate
 
 Bogle advocates for a highly diversified, low-cost portfolio. He suggests a simple three-fund portfolio: a total stock market index fund, a total international stock market index fund, and a total bond market index fund. The allocation of these funds depends on the investor's risk tolerance and time horizon, but the principle remains the same: broad diversification and low costs.
 
-```mermaid
-graph LR
-    A[Portfolio] --> B(Total Stock Market Index Fund);
-    A --> C(Total International Stock Market Index Fund);
-    A --> D(Total Bond Market Index Fund);
-```
+![Building a Simple Investment Portfolio. Portfolio; Total Stock Market Index Fund; Total International Stock Market Index Fund; Total Bond Market Index Fund.](diagram-02.svg)
 
 ##  The Importance of Asset Allocation
 

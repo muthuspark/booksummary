@@ -13,14 +13,7 @@ There is no known book titled "Decision Theory" by an author named Martin Peters
 
 Decision theory is a framework for making optimal decisions under conditions of uncertainty. It combines elements of probability, statistics, and economics to provide a systematic approach to choosing among different options.  The core principle is to maximize expected utility, meaning to choose the option that yields the highest average payoff considering the probabilities of different outcomes.
 
-```mermaid
-graph LR
-    A[Decision Problem] --> B(Identify Options);
-    B --> C{Assess Probabilities};
-    C --> D(Evaluate Utilities);
-    D --> E[Calculate Expected Utility];
-    E --> F(Choose Optimal Option);
-```
+![Understanding Decision Theory Fundamentals. Decision Problem; Identify Options; Assess Probabilities; Evaluate Utilities; Calculate Expected Utility; Choose Optimal Option.](diagram-01.svg)
 
 
 ### Defining Your Objectives and Values
@@ -43,14 +36,7 @@ Assigning numerical values (utilities) to different outcomes can be challenging 
 
 The expected value of an option is calculated by multiplying the utility of each outcome by its probability and summing the results.  However, people are not always rational utility maximizers.  Risk aversion—a preference for certain outcomes over uncertain ones with equal or higher expected value—plays a significant role.  Understanding your own risk tolerance is vital for making informed decisions.
 
-```mermaid
-graph LR
-    A[Option A] --> B(Outcome 1: 0.6 probability, Utility 10)
-    A --> C(Outcome 2: 0.4 probability, Utility 2)
-    D[Option B] --> E(Outcome 1: 1 probability, Utility 6)
-    B --> F["Expected Value: <br> (0.6*10) + (0.4 * 2) = 6.8"]
-    E --> G["Expected Value: 6"]
-```
+![Expected Value Calculation and Risk Aversion. Option A; Outcome 1: 0.6 probability, Utility 10; Outcome 2: 0.4 probability, Utility 2; Option B; Outcome 1: 1 probability, Utility 6; Expected Value:   (0.6*10) + (0.4 * 2) = 6.8; Expected Value: 6.](diagram-02.svg)
 
 In the example above, Option A has a higher expected value (6.8) than Option B (6). However, a risk-averse person might prefer Option B due to its certainty.
 

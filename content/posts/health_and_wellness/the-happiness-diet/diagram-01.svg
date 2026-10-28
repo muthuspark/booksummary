@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="643pt" height="312pt" viewBox="0.00 0.00 642.50 312.00" role="img" aria-labelledby="title description">
+<title id="title">The Gut-Brain Connection: A Foundation of Happiness</title><desc id="description">Gut Microbiome leads to Neurotransmitter Production. Gut Microbiome leads to Inflammation Levels. Gut Microbiome leads to Emotional Responses. Neurotransmitter Production leads to Brain Function. Inflammation Levels leads to Brain Function. Emotional Responses leads to Brain Function. Brain Function leads to Mental Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 624.5,-294 624.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.13,-235.94C216.96,-227.2 190.07,-216.6 164.97,-206.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.7,-204.37 158.29,-204.08 163.91,-208.93 165.7,-204.37" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M287.5,-235.63C287.5,-225.32 287.5,-212.48 287.5,-201.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="289.95,-201.19 287.5,-194.19 285.05,-201.19 289.95,-201.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M339.68,-235.94C372.18,-224.07 414.06,-208.77 447.72,-196.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="448.61,-198.76 454.34,-194.05 446.93,-194.15 448.61,-198.76" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.36,-143.89C182.82,-134.25 209.59,-123.71 232.38,-114.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.39,-116.96 239.01,-112.11 231.6,-112.4 233.39,-116.96" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M287.5,-153.63C287.5,-143.32 287.5,-130.48 287.5,-119.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="289.95,-119.19 287.5,-112.19 285.05,-119.19 289.95,-119.19" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M454.32,-153.94C421.82,-142.07 379.94,-126.77 346.28,-114.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="347.07,-112.15 339.66,-112.05 345.39,-116.76 347.07,-112.15" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M287.5,-71.87C287.5,-64.31 287.5,-55.49 287.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="289.95,-47.1 287.5,-40.1 285.05,-47.1 289.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M355,-276C355,-276 220,-276 220,-276 214,-276 208,-270 208,-264 208,-264 208,-248 208,-248 208,-242 214,-236 220,-236 220,-236 355,-236 355,-236 361,-236 367,-242 367,-248 367,-248 367,-264 367,-264 367,-270 361,-276 355,-276" />
+<text text-anchor="middle" x="287.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut Microbiome</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157,-204C157,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 157,-144 157,-144 163,-144 169,-150 169,-156 169,-156 169,-192 169,-192 169,-198 163,-204 157,-204" />
+<text text-anchor="middle" x="84.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Neurotransmitter</text>
+<text text-anchor="middle" x="84.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Production</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M372,-194C372,-194 203,-194 203,-194 197,-194 191,-188 191,-182 191,-182 191,-166 191,-166 191,-160 197,-154 203,-154 203,-154 372,-154 372,-154 378,-154 384,-160 384,-166 384,-166 384,-182 384,-182 384,-188 378,-194 372,-194" />
+<text text-anchor="middle" x="287.5" y="-169.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation Levels</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M594.5,-194C594.5,-194 418.5,-194 418.5,-194 412.5,-194 406.5,-188 406.5,-182 406.5,-182 406.5,-166 406.5,-166 406.5,-160 412.5,-154 418.5,-154 418.5,-154 594.5,-154 594.5,-154 600.5,-154 606.5,-160 606.5,-166 606.5,-166 606.5,-182 606.5,-182 606.5,-188 600.5,-194 594.5,-194" />
+<text text-anchor="middle" x="506.5" y="-169.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Responses</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M350,-112C350,-112 225,-112 225,-112 219,-112 213,-106 213,-100 213,-100 213,-84 213,-84 213,-78 219,-72 225,-72 225,-72 350,-72 350,-72 356,-72 362,-78 362,-84 362,-84 362,-100 362,-100 362,-106 356,-112 350,-112" />
+<text text-anchor="middle" x="287.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain Function</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M363.5,-40C363.5,-40 211.5,-40 211.5,-40 205.5,-40 199.5,-34 199.5,-28 199.5,-28 199.5,-12 199.5,-12 199.5,-6 205.5,0 211.5,0 211.5,0 363.5,0 363.5,0 369.5,0 375.5,-6 375.5,-12 375.5,-12 375.5,-28 375.5,-28 375.5,-34 369.5,-40 363.5,-40" />
+<text text-anchor="middle" x="287.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mental Well-being</text>
+</g>
+</g>
+</svg>

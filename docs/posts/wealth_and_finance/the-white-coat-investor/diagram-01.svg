@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="456pt" height="352pt" viewBox="0.00 0.00 456.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Aggressively Paying Down Debt</title><desc id="description">High-Interest Debt leads to Aggressive Repayment. Aggressive Repayment leads to Lower Interest Burden. Lower Interest Burden leads to Increased Financial Freedom.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 438,-334 438,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210,-275.87C210,-268.31 210,-259.49 210,-251.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.45,-251.1 210,-244.1 207.55,-251.1 212.45,-251.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210,-203.91C210,-196.58 210,-187.86 210,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.45,-179.07 210,-172.07 207.55,-179.07 212.45,-179.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210,-91.76C210,-83.72 210,-75.29 210,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.45,-67.23 210,-60.23 207.55,-67.23 212.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M288,-316C288,-316 132,-316 132,-316 126,-316 120,-310 120,-304 120,-304 120,-288 120,-288 120,-282 126,-276 132,-276 132,-276 288,-276 288,-276 294,-276 300,-282 300,-288 300,-288 300,-304 300,-304 300,-310 294,-316 288,-316" />
+<text text-anchor="middle" x="210" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Interest Debt</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M302.5,-244C302.5,-244 117.5,-244 117.5,-244 111.5,-244 105.5,-238 105.5,-232 105.5,-232 105.5,-216 105.5,-216 105.5,-210 111.5,-204 117.5,-204 117.5,-204 302.5,-204 302.5,-204 308.5,-204 314.5,-210 314.5,-216 314.5,-216 314.5,-232 314.5,-232 314.5,-238 308.5,-244 302.5,-244" />
+<text text-anchor="middle" x="210" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aggressive Repayment</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="210,-172 0,-132 210,-92 420,-132 210,-172" />
+<text text-anchor="middle" x="210" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lower Interest Burden</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M290.5,-60C290.5,-60 129.5,-60 129.5,-60 123.5,-60 117.5,-54 117.5,-48 117.5,-48 117.5,-12 117.5,-12 117.5,-6 123.5,0 129.5,0 129.5,0 290.5,0 290.5,0 296.5,0 302.5,-6 302.5,-12 302.5,-12 302.5,-48 302.5,-48 302.5,-54 296.5,-60 290.5,-60" />
+<text text-anchor="middle" x="210" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Financial</text>
+<text text-anchor="middle" x="210" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Freedom</text>
+</g>
+</g>
+</svg>

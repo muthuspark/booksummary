@@ -14,13 +14,7 @@ The Science of Emotional Intelligence, by Daniel Goleman and Richard Davidson, d
 
 The book extensively explores the neural pathways involved in emotional processing. It explains how the amygdala, a brain region for processing fear and other intense emotions, interacts with the prefrontal cortex, responsible for higher-level cognitive functions like planning and decision-making. Understanding this interplay reveals how we can learn to override impulsive emotional reactions with more thoughtful responses. The authors highlight the plasticity of the brain, emphasizing that emotional regulation skills can be learned and strengthened through consistent practice.
 
-```mermaid
-graph LR
-    A[Amygdala] --> B(Emotional Response);
-    C[Prefrontal Cortex] --> D(Cognitive Appraisal);
-    D --> E(Regulation of Response);
-    E --> B;
-```
+![The Neuroscience of Emotions:  Mapping the Brain. Amygdala; Emotional Response; Prefrontal Cortex; Cognitive Appraisal; Regulation of Response.](diagram-01.svg)
 
 This diagram illustrates the interplay between the amygdala and prefrontal cortex in emotional processing and regulation.  The prefrontal cortex can modulate the amygdala's response, allowing for more considered reactions.
 

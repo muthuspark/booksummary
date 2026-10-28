@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="307pt" height="528pt" viewBox="0.00 0.00 307.00 528.00" role="img" aria-labelledby="title description">
+<title id="title">People Management: Delegation and Feedback</title><desc id="description">Manager leads to Sets Clear Expectations. Sets Clear Expectations leads to Provides Resources. Provides Resources leads to Delegates Tasks. Delegates Tasks leads to Regular Check-ins. Regular Check-ins leads to Constructive Feedback. Constructive Feedback leads to Performance Review. Performance Review leads to Manager.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 510)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-510 289,-510 289,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.4,-451.63C163.61,-443.97 157.95,-434.91 152.48,-426.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.53,-424.82 148.74,-420.19 150.37,-427.42 154.53,-424.82" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125,-359.67C123.49,-351.61 121.86,-342.93 120.39,-335.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.78,-334.55 119.09,-328.12 117.97,-335.45 122.78,-334.55" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114.68,-287.87C114.36,-280.31 113.98,-271.49 113.63,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.07,-262.99 113.32,-256.1 111.17,-263.2 116.07,-262.99" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.86,-215.87C110.21,-208.31 109.46,-199.49 108.76,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="111.18,-190.87 108.14,-184.1 106.29,-191.29 111.18,-190.87" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.95,-143.87C105.74,-136.31 105.49,-127.49 105.25,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.69,-119.03 105.05,-112.1 102.8,-119.17 107.69,-119.03" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123.35,-71.87C131.42,-63.69 140.93,-54.05 149.48,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.5,-46.81 154.67,-40.1 148.01,-43.37 151.5,-46.81" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194.76,-40.11C203.55,-49.02 213.15,-60.25 219.5,-72 239.4,-108.79 243.5,-121.17 243.5,-163 243.5,-309 243.5,-309 243.5,-309 243.5,-360.27 215.75,-414.85 197.08,-445.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.83,-444.74 193.25,-451.98 199,-447.31 194.83,-444.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218,-492C218,-492 143,-492 143,-492 137,-492 131,-486 131,-480 131,-480 131,-464 131,-464 131,-458 137,-452 143,-452 143,-452 218,-452 218,-452 224,-452 230,-458 230,-464 230,-464 230,-480 230,-480 230,-486 224,-492 218,-492" />
+<text text-anchor="middle" x="180.5" y="-467.6" font-family="Georgia" font-size="18.00" fill="#243d36">Manager</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184,-420C184,-420 77,-420 77,-420 71,-420 65,-414 65,-408 65,-408 65,-372 65,-372 65,-366 71,-360 77,-360 77,-360 184,-360 184,-360 190,-360 196,-366 196,-372 196,-372 196,-408 196,-408 196,-414 190,-420 184,-420" />
+<text text-anchor="middle" x="130.5" y="-395.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sets Clear</text>
+<text text-anchor="middle" x="130.5" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expectations</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196,-328C196,-328 35,-328 35,-328 29,-328 23,-322 23,-316 23,-316 23,-300 23,-300 23,-294 29,-288 35,-288 35,-288 196,-288 196,-288 202,-288 208,-294 208,-300 208,-300 208,-316 208,-316 208,-322 202,-328 196,-328" />
+<text text-anchor="middle" x="115.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Provides Resources</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M178,-256C178,-256 47,-256 47,-256 41,-256 35,-250 35,-244 35,-244 35,-228 35,-228 35,-222 41,-216 47,-216 47,-216 178,-216 178,-216 184,-216 190,-222 190,-228 190,-228 190,-244 190,-244 190,-250 184,-256 178,-256" />
+<text text-anchor="middle" x="112.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Delegates Tasks</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-184C182,-184 31,-184 31,-184 25,-184 19,-178 19,-172 19,-172 19,-156 19,-156 19,-150 25,-144 31,-144 31,-144 182,-144 182,-144 188,-144 194,-150 194,-156 194,-156 194,-172 194,-172 194,-178 188,-184 182,-184" />
+<text text-anchor="middle" x="106.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regular Check-ins</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197,-112C197,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 197,-72 197,-72 203,-72 209,-78 209,-84 209,-84 209,-100 209,-100 209,-106 203,-112 197,-112" />
+<text text-anchor="middle" x="104.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Constructive Feedback</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M259,-40C259,-40 88,-40 88,-40 82,-40 76,-34 76,-28 76,-28 76,-12 76,-12 76,-6 82,0 88,0 88,0 259,0 259,0 265,0 271,-6 271,-12 271,-12 271,-28 271,-28 271,-34 265,-40 259,-40" />
+<text text-anchor="middle" x="173.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance Review</text>
+</g>
+</g>
+</svg>

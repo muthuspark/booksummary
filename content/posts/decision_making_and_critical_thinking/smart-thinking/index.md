@@ -36,15 +36,7 @@ Markman suggests a multi-step process:
 6. **Review and Adjust:** Evaluate the outcome and make adjustments as needed. This step is often overlooked.
 
 
-```mermaid
-graph LR
-    A[Define Problem] --> B(Gather Info);
-    B --> C(Identify Options);
-    C --> D(Evaluate Options);
-    D --> E(Choose & Implement);
-    E --> F(Review & Adjust);
-    F --> B;
-```
+![Improving Your Decision-Making Process. Define Problem; Gather Info; Identify Options; Evaluate Options; Choose & Implement; Review & Adjust.](diagram-01.svg)
 
 ### Enhancing Problem-Solving Skills
 

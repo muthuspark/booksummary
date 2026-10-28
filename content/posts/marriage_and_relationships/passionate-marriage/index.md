@@ -19,15 +19,7 @@ Schnarch directly challenges the romantic notion of "soul mates," arguing it set
 
 Central to Schnarch's approach is the concept of "differentiation of self."  This involves developing a strong sense of self, independent of one's partner's approval or influence.  It's about knowing your own values, needs, and desires, and having the courage to express them even when it means risking conflict.  A highly differentiated individual can maintain emotional balance and autonomy even under stress within the relationship.
 
-```mermaid
-graph LR
-A[Individual Identity] --> B(Self-Esteem);
-A --> C(Emotional Regulation);
-A --> D(Clear Values & Needs);
-B --> E{Healthy Relationship};
-C --> E;
-D --> E;
-```
+![Differentiation of Self: The Foundation of a Passionate Marriage. Individual Identity; Self-Esteem; Emotional Regulation; Clear Values & Needs; Healthy Relationship.](diagram-01.svg)
 
 A lack of differentiation leads to *fusion*, where partners become overly dependent on each other for validation and identity.  This results in reactivity, conflict avoidance, and ultimately, a stifling of passion.  Differentiation is not about disconnection but about a secure sense of self that allows for genuine connection and intimacy.
 
@@ -53,12 +45,7 @@ Sexual intimacy is a component of a passionate marriage, according to Schnarch. 
 
 Schnarch outlines stages of intimacy development within a marriage, progressing from early romance and fusion to the development of mature intimacy. The process involves acknowledging and working through inevitable conflicts and challenges. This often means actively engaging with the difficult emotions arising in the relationship and facing conflicts head-on. 
 
-```mermaid
-graph LR
-A[Romance/Fusion] --> B(Conflict & Differentiation);
-B --> C(Adult-to-Adult Communication);
-C --> D(Mature Intimacy);
-```
+![The Stages of Intimacy. Romance/Fusion; Conflict & Differentiation; Adult-to-Adult Communication; Mature Intimacy.](diagram-02.svg)
 
 
 ###  Strategies for Growth and Change

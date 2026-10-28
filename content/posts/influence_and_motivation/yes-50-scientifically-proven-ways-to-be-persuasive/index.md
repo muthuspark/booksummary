@@ -14,10 +14,7 @@ author: "Noah J. Goldstein"
 
 Reciprocity, the principle of returning favors, is a cornerstone of persuasion. Giving something first, whether it's a small gift, a thoughtful compliment, or helpful information, increases the likelihood of receiving something in return. This doesn't necessitate grand gestures; even small acts of kindness can trigger a powerful reciprocal response.
 
-```mermaid
-graph LR
-A[Giving Something] --> B(Receiving Favorable Response);
-```
+![Reciprocity: The Power of Giving First. Giving Something; Receiving Favorable Response.](diagram-01.svg)
 
 The authors highlight the importance of personalization and making the initial gift relevant to the recipient's needs and interests. This makes the gesture more meaningful and strengthens the reciprocal bond.
 
@@ -25,12 +22,7 @@ The authors highlight the importance of personalization and making the initial g
 
 Once someone commits to something, even something small, they're more likely to stay consistent with that commitment.  The "foot-in-the-door" technique capitalizes on this by starting with a small request, which most people readily agree to. This initial commitment paves the way for larger, related requests later on.
 
-```mermaid
-graph LR
-A[Small Request] --> B(Agreement);
-B --> C[Larger Request];
-C --> D(Increased Likelihood of Agreement);
-```
+![Commitment and Consistency: The Foot-in-the-Door Technique. Small Request; Agreement; Larger Request; Increased Likelihood of Agreement.](diagram-02.svg)
 
 The key is to ensure that the subsequent requests are logically connected to the initial commitment.  A sudden shift to an unrelated request would break the consistency and undermine the technique's effectiveness.
 
@@ -38,11 +30,7 @@ The key is to ensure that the subsequent requests are logically connected to the
 
 People often look to others for cues on how to behave, especially in uncertain situations. This is the principle of social proof. Highlighting the popularity or widespread acceptance of something increases its appeal. Testimonials, reviews, and statistics showing widespread adoption are powerful tools in leveraging social proof.
 
-```mermaid
-graph LR
-A[Uncertainty] --> B(Looking to Others for Guidance);
-B --> C[Adoption of Popular Choices];
-```
+![Social Proof: The Power of Conformity. Uncertainty; Looking to Others for Guidance; Adoption of Popular Choices.](diagram-03.svg)
 
 The authors highlight the importance of targeting the right audience. Social proof is most effective when it comes from similar others – individuals whom the target audience identifies with and respects.
 
@@ -50,11 +38,7 @@ The authors highlight the importance of targeting the right audience. Social pro
 
 People are more likely to say "yes" to those they like. Building rapport and establishing a connection is important for successful persuasion. Similarity, compliments, cooperation, and physical attractiveness all play a role in enhancing likability.
 
-```mermaid
-graph LR
-A[Building Rapport] --> B(Increased Liking);
-B --> C(Higher Likelihood of Compliance);
-```
+![Liking: Building Rapport for Influence. Building Rapport; Increased Liking; Higher Likelihood of Compliance.](diagram-04.svg)
 
 The book suggests focusing on shared interests, finding common ground, and genuinely showing interest in the other person.  Authenticity is key; insincere attempts at flattery are easily detectable and counterproductive.
 
@@ -62,10 +46,7 @@ The book suggests focusing on shared interests, finding common ground, and genui
 
 People tend to obey authority figures, even if those figures are not inherently more knowledgeable or skilled.  This doesn't endorse blind obedience; rather, it highlights the importance of establishing credibility and expertise.
 
-```mermaid
-graph LR
-A[Perceived Authority] --> B(Increased Compliance);
-```
+![Authority: The Impact of Credibility. Perceived Authority; Increased Compliance.](diagram-05.svg)
 
 Demonstrating credentials, evidence, and confident communication increases persuasiveness. However, the authors caution against exploiting this principle unethically. Authority should be earned, not fabricated.
 
@@ -73,11 +54,7 @@ Demonstrating credentials, evidence, and confident communication increases persu
 
 Limited availability increases the perceived value of something.  This principle is often used in marketing through phrases like "limited-time offer" or "while supplies last." The feeling of potential loss motivates people to act quickly.
 
-```mermaid
-graph LR
-A[Limited Availability] --> B(Increased Perceived Value);
-B --> C(Increased Urgency to Act);
-```
+![Scarcity: The Power of Limited Availability. Limited Availability; Increased Perceived Value; Increased Urgency to Act.](diagram-06.svg)
 
 The authors warn against overusing scarcity tactics, as overuse can lead to suspicion and distrust.  The scarcity must be genuine and presented subtly to be effective.
 
@@ -86,11 +63,7 @@ The authors warn against overusing scarcity tactics, as overuse can lead to susp
 
 How information is presented, or "framed," impacts its interpretation and acceptance.  Framing involves strategically choosing words and highlighting specific aspects of a situation to influence the listener's perception.  For instance, highlighting potential gains is often more effective than emphasizing potential losses.
 
-```mermaid
-graph LR
-A[Positive Framing] --> B(Increased Likelihood of Acceptance);
-C[Negative Framing] --> D(Decreased Likelihood of Acceptance);
-```
+![Framing: Shaping Perception Through Language. Positive Framing; Increased Likelihood of Acceptance; Negative Framing; Decreased Likelihood of Acceptance.](diagram-07.svg)
 
 The book provides numerous examples of how framing can influence choices, even when the underlying facts remain unchanged. Understanding framing enables one to craft persuasive messages for the target audience.
 

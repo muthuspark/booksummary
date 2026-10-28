@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="508pt" height="412pt" viewBox="0.00 0.00 508.00 412.00" role="img" aria-labelledby="title description">
+<title id="title">Competitive vs. Monopolistic Businesses</title><desc id="description">Price Wars leads to Low Margins. Low Margins leads to Constant Innovation Pressure. Constant Innovation Pressure leads to Short-term Focus. High Margins leads to Long-term Vision. Long-term Vision leads to Sustainable Growth. Sustainable Growth leads to Reinvestement in Innovation. Competitive Business: Price Wars, Low Margins, Constant Innovation Pressure, Short-term Focus. Monopolistic Business: High Margins, Long-term Vision, Sustainable Growth, Reinvestement in Innovation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 394)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-394 490,-394 490,18 -18,18" />
+<g id="clust1" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M20,-18C20,-18 224,-18 224,-18 230,-18 236,-24 236,-30 236,-30 236,-356 236,-356 236,-362 230,-368 224,-368 224,-368 20,-368 20,-368 14,-368 8,-362 8,-356 8,-356 8,-30 8,-30 8,-24 14,-18 20,-18" />
+<text text-anchor="middle" x="122" y="-349.6" font-family="Georgia" font-size="18.00" fill="#405b50">Competitive Business</text>
+</g>
+<g id="clust2" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M256,-8C256,-8 452,-8 452,-8 458,-8 464,-14 464,-20 464,-20 464,-356 464,-356 464,-362 458,-368 452,-368 452,-368 256,-368 256,-368 250,-368 244,-362 244,-356 244,-356 244,-20 244,-20 244,-14 250,-8 256,-8" />
+<text text-anchor="middle" x="354" y="-349.6" font-family="Georgia" font-size="18.00" fill="#405b50">Monopolistic Business</text>
+</g>
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122,-281.87C122,-274.31 122,-265.49 122,-257.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.45,-257.1 122,-250.1 119.55,-257.1 124.45,-257.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122,-209.63C122,-202.34 122,-193.78 122,-185.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.45,-185.19 122,-178.19 119.55,-185.19 124.45,-185.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122,-117.53C122,-106.45 122,-93.94 122,-83.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.45,-83.05 122,-76.05 119.55,-83.05 124.45,-83.05" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M354,-281.87C354,-274.31 354,-265.49 354,-257.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="356.45,-257.1 354,-250.1 351.55,-257.1 356.45,-257.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M354,-209.63C354,-199.32 354,-186.48 354,-175.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="356.45,-175.19 354,-168.19 351.55,-175.19 356.45,-175.19" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M354,-127.91C354,-117.91 354,-105.33 354,-93.54" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="356.45,-93.34 354,-86.34 351.55,-93.34 356.45,-93.34" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-322C168,-322 76,-322 76,-322 70,-322 64,-316 64,-310 64,-310 64,-294 64,-294 64,-288 70,-282 76,-282 76,-282 168,-282 168,-282 174,-282 180,-288 180,-294 180,-294 180,-310 180,-310 180,-316 174,-322 168,-322" />
+<text text-anchor="middle" x="122" y="-297.6" font-family="Georgia" font-size="18.00" fill="#243d36">Price Wars</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-250C176,-250 68,-250 68,-250 62,-250 56,-244 56,-238 56,-238 56,-222 56,-222 56,-216 62,-210 68,-210 68,-210 176,-210 176,-210 182,-210 188,-216 188,-222 188,-222 188,-238 188,-238 188,-244 182,-250 176,-250" />
+<text text-anchor="middle" x="122" y="-225.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low Margins</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M205.5,-178C205.5,-178 38.5,-178 38.5,-178 32.5,-178 26.5,-172 26.5,-166 26.5,-166 26.5,-130 26.5,-130 26.5,-124 32.5,-118 38.5,-118 38.5,-118 205.5,-118 205.5,-118 211.5,-118 217.5,-124 217.5,-130 217.5,-130 217.5,-166 217.5,-166 217.5,-172 211.5,-178 205.5,-178" />
+<text text-anchor="middle" x="122" y="-153.6" font-family="Georgia" font-size="18.00" fill="#243d36">Constant Innovation</text>
+<text text-anchor="middle" x="122" y="-133.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pressure</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M194,-76C194,-76 50,-76 50,-76 44,-76 38,-70 38,-64 38,-64 38,-48 38,-48 38,-42 44,-36 50,-36 50,-36 194,-36 194,-36 200,-36 206,-42 206,-48 206,-48 206,-64 206,-64 206,-70 200,-76 194,-76" />
+<text text-anchor="middle" x="122" y="-51.6" font-family="Georgia" font-size="18.00" fill="#243d36">Short-term Focus</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M411,-322C411,-322 297,-322 297,-322 291,-322 285,-316 285,-310 285,-310 285,-294 285,-294 285,-288 291,-282 297,-282 297,-282 411,-282 411,-282 417,-282 423,-288 423,-294 423,-294 423,-310 423,-310 423,-316 417,-322 411,-322" />
+<text text-anchor="middle" x="354" y="-297.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Margins</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M426,-250C426,-250 282,-250 282,-250 276,-250 270,-244 270,-238 270,-238 270,-222 270,-222 270,-216 276,-210 282,-210 282,-210 426,-210 426,-210 432,-210 438,-216 438,-222 438,-222 438,-238 438,-238 438,-244 432,-250 426,-250" />
+<text text-anchor="middle" x="354" y="-225.6" font-family="Georgia" font-size="18.00" fill="#243d36">Long-term Vision</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M434.5,-168C434.5,-168 273.5,-168 273.5,-168 267.5,-168 261.5,-162 261.5,-156 261.5,-156 261.5,-140 261.5,-140 261.5,-134 267.5,-128 273.5,-128 273.5,-128 434.5,-128 434.5,-128 440.5,-128 446.5,-134 446.5,-140 446.5,-140 446.5,-156 446.5,-156 446.5,-162 440.5,-168 434.5,-168" />
+<text text-anchor="middle" x="354" y="-143.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sustainable Growth</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M426,-86C426,-86 282,-86 282,-86 276,-86 270,-80 270,-74 270,-74 270,-38 270,-38 270,-32 276,-26 282,-26 282,-26 426,-26 426,-26 432,-26 438,-32 438,-38 438,-38 438,-74 438,-74 438,-80 432,-86 426,-86" />
+<text text-anchor="middle" x="354" y="-61.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reinvestement in</text>
+<text text-anchor="middle" x="354" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation</text>
+</g>
+</g>
+</svg>

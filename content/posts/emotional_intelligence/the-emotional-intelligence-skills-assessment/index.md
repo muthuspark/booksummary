@@ -81,15 +81,7 @@ The book doesn't just focus on theoretical understanding; it explicitly links EQ
 
 The interconnectedness of the five components of emotional intelligence is crucial. They work together to create an understanding of oneself and one's interactions with others. This can be represented visually:
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    A --> C(Motivation);
-    A --> D(Empathy);
-    B --> E(Social Skills);
-    C --> E;
-    D --> E;
-```
+![Visualizing the Interconnectedness of EQ Components. Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills.](diagram-01.svg)
 
 This diagram shows how self-awareness is foundational and influences other aspects of EQ.  Self-regulation and motivation support effective social skills, while empathy plays an important role in navigating social interactions.
 

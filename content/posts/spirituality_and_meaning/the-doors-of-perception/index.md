@@ -26,14 +26,7 @@ Huxley's mescaline experience served as a catalyst, temporarily dismantling this
 The core message revolves around the power of attention.  Our conscious focus shapes our reality.  By deliberately shifting our attention, we can transform our experience. This is not merely about paying attention to details but also about cultivating a state of mindful awareness – being present in the moment without judgment.
 
 
-```mermaid
-graph LR
-    A[Ordinary Consciousness] --> B{Reducing Valve};
-    B --> C[Limited Perception];
-    D[Expanded Consciousness] --> E[Heightened Awareness];
-    E --> F[Deeper Appreciation];
-    G[Mindful Attention] --> D;
-```
+![The Importance of Attention and Perception. Ordinary Consciousness; Reducing Valve; Limited Perception; Expanded Consciousness; Heightened Awareness; Deeper Appreciation; Mindful Attention.](diagram-01.svg)
 
 ## Cultivating a More Conscious Existence: Actionable Insights
 

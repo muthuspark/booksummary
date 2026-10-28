@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356pt" height="424pt" viewBox="0.00 0.00 356.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">The Structure and Flow of Effective Marriage Meetings</title><desc id="description">Check-in leads to Discuss Concerns. Discuss Concerns leads to Problem Solving. Problem Solving leads to Appreciation &amp; Gratitude. Appreciation &amp; Gratitude leads to Next Steps/Action Plan.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 338,-406 338,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160,-347.87C160,-340.31 160,-331.49 160,-323.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.45,-323.1 160,-316.1 157.55,-323.1 162.45,-323.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160,-275.91C160,-268.58 160,-259.86 160,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.45,-251.07 160,-244.07 157.55,-251.07 162.45,-251.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160,-163.76C160,-155.72 160,-147.29 160,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.45,-139.23 160,-132.23 157.55,-139.23 162.45,-139.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160,-71.67C160,-63.77 160,-55.28 160,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.45,-47.12 160,-40.12 157.55,-47.12 162.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198,-388C198,-388 122,-388 122,-388 116,-388 110,-382 110,-376 110,-376 110,-360 110,-360 110,-354 116,-348 122,-348 122,-348 198,-348 198,-348 204,-348 210,-354 210,-360 210,-360 210,-376 210,-376 210,-382 204,-388 198,-388" />
+<text text-anchor="middle" x="160" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Check-in</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M231.5,-316C231.5,-316 88.5,-316 88.5,-316 82.5,-316 76.5,-310 76.5,-304 76.5,-304 76.5,-288 76.5,-288 76.5,-282 82.5,-276 88.5,-276 88.5,-276 231.5,-276 231.5,-276 237.5,-276 243.5,-282 243.5,-288 243.5,-288 243.5,-304 243.5,-304 243.5,-310 237.5,-316 231.5,-316" />
+<text text-anchor="middle" x="160" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discuss Concerns</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="160,-244 0,-204 160,-164 320,-204 160,-244" />
+<text text-anchor="middle" x="160" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem Solving</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222.5,-132C222.5,-132 97.5,-132 97.5,-132 91.5,-132 85.5,-126 85.5,-120 85.5,-120 85.5,-84 85.5,-84 85.5,-78 91.5,-72 97.5,-72 97.5,-72 222.5,-72 222.5,-72 228.5,-72 234.5,-78 234.5,-84 234.5,-84 234.5,-120 234.5,-120 234.5,-126 228.5,-132 222.5,-132" />
+<text text-anchor="middle" x="160" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Appreciation &amp;</text>
+<text text-anchor="middle" x="160" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gratitude</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M255,-40C255,-40 65,-40 65,-40 59,-40 53,-34 53,-28 53,-28 53,-12 53,-12 53,-6 59,0 65,0 65,0 255,0 255,0 261,0 267,-6 267,-12 267,-12 267,-28 267,-28 267,-34 261,-40 255,-40" />
+<text text-anchor="middle" x="160" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Next Steps/Action Plan</text>
+</g>
+</g>
+</svg>

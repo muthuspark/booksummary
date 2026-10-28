@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480pt" height="386pt" viewBox="0.00 0.00 480.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Myth of Long and the Power of Short</title><desc id="description">Long Hours leads to Burnout. Long Hours leads to Diminished Creativity. Long Hours leads to Reduced Effectiveness. Short, Focused Bursts leads to Increased Productivity. Short, Focused Bursts leads to Enhanced Creativity. Short, Focused Bursts leads to Improved Focus.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 462,-368 462,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.28,-97.97C200.79,-107.82 248.49,-120.35 284.64,-129.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="284.32,-132.3 291.71,-131.71 285.57,-127.56 284.32,-132.3" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.28,-82C183.82,-82 207.42,-82 230.51,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="230.65,-84.45 237.65,-82 230.65,-79.55 230.65,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.28,-66.03C191.34,-58.66 225.09,-49.79 255.46,-41.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.13,-44.17 262.28,-40.02 254.89,-39.43 256.13,-44.17" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.8,-288.04C203.17,-294.45 230.27,-301.57 255.12,-308.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.67,-310.51 262.06,-309.92 255.91,-305.77 254.67,-310.51" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203.27,-268C214.27,-268 225.47,-268 236.48,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="236.68,-270.45 243.68,-268 236.68,-265.55 236.68,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.8,-247.96C203.17,-241.55 230.27,-234.43 255.12,-227.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.91,-230.23 262.06,-226.08 254.67,-225.49 255.91,-230.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151,-102C151,-102 52,-102 52,-102 46,-102 40,-96 40,-90 40,-90 40,-74 40,-74 40,-68 46,-62 52,-62 52,-62 151,-62 151,-62 157,-62 163,-68 163,-74 163,-74 163,-90 163,-90 163,-96 157,-102 151,-102" />
+<text text-anchor="middle" x="101.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Long Hours</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375,-164C375,-164 304,-164 304,-164 298,-164 292,-158 292,-152 292,-152 292,-136 292,-136 292,-130 298,-124 304,-124 304,-124 375,-124 375,-124 381,-124 387,-130 387,-136 387,-136 387,-152 387,-152 387,-158 381,-164 375,-164" />
+<text text-anchor="middle" x="339.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Burnout</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M429,-102C429,-102 250,-102 250,-102 244,-102 238,-96 238,-90 238,-90 238,-74 238,-74 238,-68 244,-62 250,-62 250,-62 429,-62 429,-62 435,-62 441,-68 441,-74 441,-74 441,-90 441,-90 441,-96 435,-102 429,-102" />
+<text text-anchor="middle" x="339.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diminished Creativity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M432,-40C432,-40 247,-40 247,-40 241,-40 235,-34 235,-28 235,-28 235,-12 235,-12 235,-6 241,0 247,0 247,0 432,0 432,0 438,0 444,-6 444,-12 444,-12 444,-28 444,-28 444,-34 438,-40 432,-40" />
+<text text-anchor="middle" x="339.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Effectiveness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-288C191,-288 12,-288 12,-288 6,-288 0,-282 0,-276 0,-276 0,-260 0,-260 0,-254 6,-248 12,-248 12,-248 191,-248 191,-248 197,-248 203,-254 203,-260 203,-260 203,-276 203,-276 203,-282 197,-288 191,-288" />
+<text text-anchor="middle" x="101.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Short, Focused Bursts</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M432,-350C432,-350 247,-350 247,-350 241,-350 235,-344 235,-338 235,-338 235,-322 235,-322 235,-316 241,-310 247,-310 247,-310 432,-310 432,-310 438,-310 444,-316 444,-322 444,-322 444,-338 444,-338 444,-344 438,-350 432,-350" />
+<text text-anchor="middle" x="339.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Productivity</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M423,-288C423,-288 256,-288 256,-288 250,-288 244,-282 244,-276 244,-276 244,-260 244,-260 244,-254 250,-248 256,-248 256,-248 423,-248 423,-248 429,-248 435,-254 435,-260 435,-260 435,-276 435,-276 435,-282 429,-288 423,-288" />
+<text text-anchor="middle" x="339.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enhanced Creativity</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M406.5,-226C406.5,-226 272.5,-226 272.5,-226 266.5,-226 260.5,-220 260.5,-214 260.5,-214 260.5,-198 260.5,-198 260.5,-192 266.5,-186 272.5,-186 272.5,-186 406.5,-186 406.5,-186 412.5,-186 418.5,-192 418.5,-198 418.5,-198 418.5,-214 418.5,-214 418.5,-220 412.5,-226 406.5,-226" />
+<text text-anchor="middle" x="339.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Focus</text>
+</g>
+</g>
+</svg>

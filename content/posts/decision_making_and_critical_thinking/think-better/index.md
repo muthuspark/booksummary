@@ -22,15 +22,7 @@ He suggests various self-assessment techniques like journaling, reflecting on pa
 
 Distraction is a major obstacle to clear thinking. Hurson provides numerous techniques for improving focus and concentration, ranging from mindfulness meditation to time management strategies like the Pomodoro Technique. He stresses the importance of creating a conducive environment for deep work, minimizing interruptions, and scheduling dedicated time for focused activity.
 
-```mermaid
-graph LR
-    A[Minimize Distractions] --> B(Dedicated Workspace);
-    A --> C(Time Management Techniques);
-    A --> D(Mindfulness Meditation);
-    B --> E[Improved Focus];
-    C --> E;
-    D --> E;
-```
+![Enhancing Focus and Concentration. Minimize Distractions; Dedicated Workspace; Time Management Techniques; Mindfulness Meditation; Improved Focus.](diagram-01.svg)
 
 
 ### Mastering Information Processing
@@ -42,13 +34,7 @@ The book delves into effective information processing. Hurson advocates for acti
 
 Decision-making is a central theme. Hurson presents a structured approach, advocating for a clear definition of the problem, identification of possible solutions, evaluation of their pros and cons, and finally, a commitment to the chosen course of action.  He highlights the importance of considering long-term consequences and mitigating potential risks.
 
-```mermaid
-graph LR
-    A[Define Problem] --> B{Identify Solutions};
-    B --> C[Evaluate Pros & Cons];
-    C --> D{Choose Solution};
-    D --> E[Implement & Review];
-```
+![Improving Decision-Making. Define Problem; Identify Solutions; Evaluate Pros & Cons; Choose Solution; Implement & Review.](diagram-02.svg)
 
 
 ### Cultivating Creativity and Innovation
@@ -70,13 +56,7 @@ The book recognizes the strong link between emotions and thinking. Hurson discus
 
 Hurson stresses the ongoing nature of cognitive development.  He advocates for regular self-reflection, encouraging readers to periodically evaluate their thinking processes, identify areas for improvement, and adjust their strategies accordingly. This cyclical process of self-assessment, learning, and adaptation is key to long-term cognitive enhancement.
 
-```mermaid
-graph LR
-    A[Self-Assessment] --> B(Identify Areas for Improvement);
-    B --> C[Adjust Strategies];
-    C --> D(Implement & Evaluate);
-    D --> A;
-```
+![The Power of Self-Reflection and Continuous Improvement. Self-Assessment; Identify Areas for Improvement; Adjust Strategies; Implement & Evaluate.](diagram-03.svg)
 
 ### Actionable Applications
 

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="554pt" height="200pt" viewBox="0.00 0.00 554.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Document Everything</title><desc id="description">Daily Practice leads to Blog. Daily Practice leads to Social Media. Daily Practice leads to Notebook. Blog leads to Share Your Process. Social Media leads to Share Your Process. Notebook leads to Share Your Process.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 536,-182 536,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124.73,-102.13C148.68,-111.1 176.35,-121.47 198.16,-129.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.32,-131.94 204.73,-132.1 199.04,-127.35 197.32,-131.94" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.23,-82C148.23,-82 156.41,-82 164.44,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.78,-84.45 171.78,-82 164.78,-79.55 164.78,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124.73,-61.87C141.65,-55.53 160.41,-48.5 177.66,-42.04" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.75,-44.25 184.45,-39.5 177.03,-39.66 178.75,-44.25" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.22,-133.48C294.25,-125.52 328.12,-114.29 358.1,-104.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="358.96,-106.64 364.83,-102.11 357.42,-101.99 358.96,-106.64" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M303.12,-82C311.12,-82 319.43,-82 327.79,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="327.81,-84.45 334.81,-82 327.81,-79.55 327.81,-84.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M290.59,-37.27C311.55,-44.22 335.99,-52.32 358.26,-59.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="357.68,-62.1 365.1,-61.97 359.22,-57.44 357.68,-62.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M128,-102C128,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 128,-62 128,-62 134,-62 140,-68 140,-74 140,-74 140,-90 140,-90 140,-96 134,-102 128,-102" />
+<text text-anchor="middle" x="70" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Daily Practice</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-164C258,-164 217,-164 217,-164 211,-164 205,-158 205,-152 205,-152 205,-136 205,-136 205,-130 211,-124 217,-124 217,-124 258,-124 258,-124 264,-124 270,-130 270,-136 270,-136 270,-152 270,-152 270,-158 264,-164 258,-164" />
+<text text-anchor="middle" x="237.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Blog</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291,-102C291,-102 184,-102 184,-102 178,-102 172,-96 172,-90 172,-90 172,-74 172,-74 172,-68 178,-62 184,-62 184,-62 291,-62 291,-62 297,-62 303,-68 303,-74 303,-74 303,-90 303,-90 303,-96 297,-102 291,-102" />
+<text text-anchor="middle" x="237.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Media</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278.5,-40C278.5,-40 196.5,-40 196.5,-40 190.5,-40 184.5,-34 184.5,-28 184.5,-28 184.5,-12 184.5,-12 184.5,-6 190.5,0 196.5,0 196.5,0 278.5,0 278.5,0 284.5,0 290.5,-6 290.5,-12 290.5,-12 290.5,-28 290.5,-28 290.5,-34 284.5,-40 278.5,-40" />
+<text text-anchor="middle" x="237.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Notebook</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M506,-102C506,-102 347,-102 347,-102 341,-102 335,-96 335,-90 335,-90 335,-74 335,-74 335,-68 341,-62 347,-62 347,-62 506,-62 506,-62 512,-62 518,-68 518,-74 518,-74 518,-90 518,-90 518,-96 512,-102 506,-102" />
+<text text-anchor="middle" x="426.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Share Your Process</text>
+</g>
+</g>
+</svg>

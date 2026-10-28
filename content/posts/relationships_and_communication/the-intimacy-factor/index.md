@@ -14,13 +14,7 @@ Pia Mellody's "The Intimacy Factor" delves deep into the complexities of human r
 
 Mellody emphasizes understanding our individual attachment styles, shaped by early experiences with caregivers. Secure attachment, formed by trust and independence, forms a healthy foundation for future relationships. Conversely, insecure attachments – avoidant, anxious, or fearful – lead to difficulties in intimacy. Recognizing your attachment style is the first step. Are you constantly seeking reassurance (anxious), pushing people away (avoidant), or oscillating between the two (fearful)? Understanding this helps you identify triggers and patterns that undermine your relationships.
 
-```mermaid
-graph LR
-A[Secure Attachment] --> B(Healthy Relationships);
-C[Avoidant Attachment] --> D(Fear of Intimacy);
-E[Anxious Attachment] --> F(Neediness, Clinginess);
-G[Fearful Attachment] --> H(Inconsistent Behavior);
-```
+![Identifying Your Attachment Style. Secure Attachment; Healthy Relationships; Avoidant Attachment; Fear of Intimacy; Anxious Attachment; Neediness, Clinginess; Fearful Attachment; Inconsistent Behavior.](diagram-01.svg)
 
 ## The Role of Family Dynamics
 

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="536pt" height="178pt" viewBox="0.00 0.00 536.00 178.00" role="img" aria-labelledby="title description">
+<title id="title">Quantifying Uncertainty:  Probabilities and Ranges</title><desc id="description">Alternative 1 leads to Probability Distribution. Probability Distribution leads to Expected Outcome. Alternative 2 leads to Probability Distribution. Probability Distribution leads to Expected Outcome.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 160)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-160 518,-160 518,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130.31,-30C138.67,-30 147.27,-30 155.71,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.76,-32.45 162.76,-30 155.76,-27.55 155.76,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.03,-30C296.04,-30 304.38,-30 312.78,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="312.85,-32.45 319.85,-30 312.85,-27.55 312.85,-32.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M131.22,-112C139.25,-112 147.48,-112 155.56,-112" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.94,-114.45 162.94,-112 155.94,-109.55 155.94,-114.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.03,-112C296.04,-112 304.38,-112 312.78,-112" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="312.85,-114.45 319.85,-112 312.85,-109.55 312.85,-114.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M118,-50C118,-50 13,-50 13,-50 7,-50 1,-44 1,-38 1,-38 1,-22 1,-22 1,-16 7,-10 13,-10 13,-10 118,-10 118,-10 124,-10 130,-16 130,-22 130,-22 130,-38 130,-38 130,-44 124,-50 118,-50" />
+<text text-anchor="middle" x="65.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Alternative 1</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-60C276,-60 175,-60 175,-60 169,-60 163,-54 163,-48 163,-48 163,-12 163,-12 163,-6 169,0 175,0 175,0 276,0 276,0 282,0 288,-6 288,-12 288,-12 288,-48 288,-48 288,-54 282,-60 276,-60" />
+<text text-anchor="middle" x="225.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Probability</text>
+<text text-anchor="middle" x="225.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Distribution</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M488,-50C488,-50 332,-50 332,-50 326,-50 320,-44 320,-38 320,-38 320,-22 320,-22 320,-16 326,-10 332,-10 332,-10 488,-10 488,-10 494,-10 500,-16 500,-22 500,-22 500,-38 500,-38 500,-44 494,-50 488,-50" />
+<text text-anchor="middle" x="410" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expected Outcome</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M119,-132C119,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 119,-92 119,-92 125,-92 131,-98 131,-104 131,-104 131,-120 131,-120 131,-126 125,-132 119,-132" />
+<text text-anchor="middle" x="65.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Alternative 2</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-142C276,-142 175,-142 175,-142 169,-142 163,-136 163,-130 163,-130 163,-94 163,-94 163,-88 169,-82 175,-82 175,-82 276,-82 276,-82 282,-82 288,-88 288,-94 288,-94 288,-130 288,-130 288,-136 282,-142 276,-142" />
+<text text-anchor="middle" x="225.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Probability</text>
+<text text-anchor="middle" x="225.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Distribution</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M488,-132C488,-132 332,-132 332,-132 326,-132 320,-126 320,-120 320,-120 320,-104 320,-104 320,-98 326,-92 332,-92 332,-92 488,-92 488,-92 494,-92 500,-98 500,-104 500,-104 500,-120 500,-120 500,-126 494,-132 488,-132" />
+<text text-anchor="middle" x="410" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expected Outcome</text>
+</g>
+</g>
+</svg>

@@ -24,13 +24,7 @@ Dalio's system emphasizes a structured approach to decision-making, minimizing r
 4. **Evaluate Ideas Objectively:** Employ analytical methods to assess the merit of each idea.
 5. **Decide and Act:** Commit to a course of action and take responsibility for the outcomes.
 
-```mermaid
-graph TD
-    A[Have Clear Goals] --> B(Identify & Analyze Problems);
-    B --> C{Generate Ideas};
-    C --> D[Evaluate Ideas Objectively];
-    D --> E(Decide & Act);
-```
+![Developing a Strong Decision-Making System. Have Clear Goals; Identify & Analyze Problems; Generate Ideas; Evaluate Ideas Objectively; Decide & Act.](diagram-01.svg)
 
 This structured approach minimizes emotional biases and increases the likelihood of making well-informed choices.
 

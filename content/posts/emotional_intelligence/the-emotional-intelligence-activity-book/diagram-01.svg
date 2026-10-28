@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="458pt" height="484pt" viewBox="0.00 0.00 458.00 484.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Awareness: Knowing Your Emotional Landscape</title><desc id="description">Identify Triggers leads to Recognize Physical Manifestations. Recognize Physical Manifestations leads to Understand Emotional Impact. Understand Emotional Impact leads to Develop Self-Awareness. Develop Self-Awareness leads to Improve Self-Regulation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 466)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-466 440,-466 440,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-407.63C211,-400.34 211,-391.78 211,-383.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-383.19 211,-376.19 208.55,-383.19 213.45,-383.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-315.95C211,-308.47 211,-300.11 211,-291.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-291.37 211,-284.37 208.55,-291.37 213.45,-291.37" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-163.81C211,-155.27 211,-146.86 211,-139.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-139.33 211,-132.33 208.55,-139.33 213.45,-139.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-91.63C211,-84.34 211,-75.78 211,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-67.19 211,-60.19 208.55,-67.19 213.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M280,-448C280,-448 142,-448 142,-448 136,-448 130,-442 130,-436 130,-436 130,-420 130,-420 130,-414 136,-408 142,-408 142,-408 280,-408 280,-408 286,-408 292,-414 292,-420 292,-420 292,-436 292,-436 292,-442 286,-448 280,-448" />
+<text text-anchor="middle" x="211" y="-423.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Triggers</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M289.5,-376C289.5,-376 132.5,-376 132.5,-376 126.5,-376 120.5,-370 120.5,-364 120.5,-364 120.5,-328 120.5,-328 120.5,-322 126.5,-316 132.5,-316 132.5,-316 289.5,-316 289.5,-316 295.5,-316 301.5,-322 301.5,-328 301.5,-328 301.5,-364 301.5,-364 301.5,-370 295.5,-376 289.5,-376" />
+<text text-anchor="middle" x="211" y="-351.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognize Physical</text>
+<text text-anchor="middle" x="211" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Manifestations</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="211,-284 0,-224 211,-164 422,-224 211,-284" />
+<text text-anchor="middle" x="211" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand Emotional</text>
+<text text-anchor="middle" x="211" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impact</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309.5,-132C309.5,-132 112.5,-132 112.5,-132 106.5,-132 100.5,-126 100.5,-120 100.5,-120 100.5,-104 100.5,-104 100.5,-98 106.5,-92 112.5,-92 112.5,-92 309.5,-92 309.5,-92 315.5,-92 321.5,-98 321.5,-104 321.5,-104 321.5,-120 321.5,-120 321.5,-126 315.5,-132 309.5,-132" />
+<text text-anchor="middle" x="211" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Self-Awareness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M275,-60C275,-60 147,-60 147,-60 141,-60 135,-54 135,-48 135,-48 135,-12 135,-12 135,-6 141,0 147,0 147,0 275,0 275,0 281,0 287,-6 287,-12 287,-12 287,-48 287,-48 287,-54 281,-60 275,-60" />
+<text text-anchor="middle" x="211" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improve</text>
+<text text-anchor="middle" x="211" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+</g>
+</svg>

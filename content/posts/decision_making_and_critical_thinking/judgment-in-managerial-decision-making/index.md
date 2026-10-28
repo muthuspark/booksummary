@@ -42,13 +42,7 @@ Relying on intuition alone is risky.  Bazerman advocates for structured decision
 * **Evaluating alternatives objectively:**  Using pre-defined criteria and data to assess options, rather than relying on gut feelings.
 * **Seeking various perspectives:**  Incorporating input from individuals with different backgrounds and viewpoints can counteract biases and introduce new ideas.  This includes actively seeking out dissenting opinions.
 
-```mermaid
-graph LR
-A[Clearly Define Problem] --> B(Generate Alternatives);
-B --> C{Evaluate Objectively};
-C --> D[Seek Diverse Perspectives];
-D --> E((Improved Decision));
-```
+![Structured Decision-Making Processes. Clearly Define Problem; Generate Alternatives; Evaluate Objectively; Seek Diverse Perspectives; Improved Decision.](diagram-01.svg)
 
 ###  The Role of Decision Support Systems
 
@@ -63,13 +57,7 @@ A substantial portion of the book focuses on negotiation and bargaining, highlig
 * **Setting clear goals and limits:**  Knowing your bottom line prevents emotional escalation and poor decisions.
 * **Avoiding emotional responses:** Maintaining a calm and rational approach for effective negotiation.
 
-```mermaid
-graph LR
-A[Understand Other's Perspective] --> B(Strategic Framing);
-B --> C[Set Clear Goals/Limits];
-C --> D(Avoid Emotional Responses);
-D --> E((Effective Negotiation));
-```
+![Negotiation and Bargaining: An Application. Understand Other's Perspective; Strategic Framing; Set Clear Goals/Limits; Avoid Emotional Responses; Effective Negotiation.](diagram-02.svg)
 
 ###  Ethical Considerations in Decision Making
 

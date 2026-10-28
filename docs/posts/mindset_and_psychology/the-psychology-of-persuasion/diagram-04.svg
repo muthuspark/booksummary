@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="259pt" height="260pt" viewBox="0.00 0.00 259.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">Authority: The Power of Credibility</title><desc id="description">Demonstrated Expertise &amp; Credentials leads to Perceived Authority. Perceived Authority leads to Increased Compliance with Requests.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 241,-242 241,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.5,-163.67C111.5,-155.77 111.5,-147.28 111.5,-139.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.95,-139.12 111.5,-132.12 109.05,-139.12 113.95,-139.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.5,-91.63C111.5,-84.34 111.5,-75.78 111.5,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.95,-67.19 111.5,-60.19 109.05,-67.19 113.95,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211,-224C211,-224 12,-224 12,-224 6,-224 0,-218 0,-212 0,-212 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 211,-164 211,-164 217,-164 223,-170 223,-176 223,-176 223,-212 223,-212 223,-218 217,-224 211,-224" />
+<text text-anchor="middle" x="111.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Demonstrated Expertise</text>
+<text text-anchor="middle" x="111.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">&amp; Credentials</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193.5,-132C193.5,-132 29.5,-132 29.5,-132 23.5,-132 17.5,-126 17.5,-120 17.5,-120 17.5,-104 17.5,-104 17.5,-98 23.5,-92 29.5,-92 29.5,-92 193.5,-92 193.5,-92 199.5,-92 205.5,-98 205.5,-104 205.5,-104 205.5,-120 205.5,-120 205.5,-126 199.5,-132 193.5,-132" />
+<text text-anchor="middle" x="111.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perceived Authority</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M202.5,-60C202.5,-60 20.5,-60 20.5,-60 14.5,-60 8.5,-54 8.5,-48 8.5,-48 8.5,-12 8.5,-12 8.5,-6 14.5,0 20.5,0 20.5,0 202.5,0 202.5,0 208.5,0 214.5,-6 214.5,-12 214.5,-12 214.5,-48 214.5,-48 214.5,-54 208.5,-60 202.5,-60" />
+<text text-anchor="middle" x="111.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Compliance</text>
+<text text-anchor="middle" x="111.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">with Requests</text>
+</g>
+</g>
+</svg>

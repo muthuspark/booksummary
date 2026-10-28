@@ -19,13 +19,7 @@ Bulsiewicz highlights a pervasive fiber deficiency in modern diets. Processed fo
 
 The book differentiates between soluble and insoluble fiber, explaining their unique properties and benefits.
 
-```mermaid
-graph LR
-    A[Fiber] --> B(Soluble Fiber);
-    A --> C(Insoluble Fiber);
-    B --> D{Binds to cholesterol, regulates blood sugar};
-    C --> E{Adds bulk to stool, promotes regularity};
-```
+![Understanding the Different Types of Fiber. Fiber; Soluble Fiber; Insoluble Fiber; Binds to cholesterol, regulates blood sugar; Adds bulk to stool, promotes regularity.](diagram-01.svg)
 
 Soluble fiber, found in sources like oats, barley, and apples, dissolves in water, forming a gel-like substance that helps regulate blood sugar and cholesterol levels. Insoluble fiber, prevalent in whole grains, vegetables, and seeds, adds bulk to the stool, promoting regular bowel movements and preventing constipation.  Bulsiewicz stresses the importance of consuming both types for optimal gut health.
 

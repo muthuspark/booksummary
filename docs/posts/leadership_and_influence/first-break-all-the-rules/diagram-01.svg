@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442pt" height="332pt" viewBox="0.00 0.00 442.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Strengths: Knowing Yourself Better</title><desc id="description">Self-Reflection leads to Identify Talents. Seek Feedback leads to Identify Talents. Identify Talents leads to Understand Strengths. Understand Strengths leads to Leverage Strengths.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 424,-314 424,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.95,-255.87C152.05,-247.46 164,-237.5 174.64,-228.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.27,-230.47 180.07,-224.1 173.13,-226.7 176.27,-230.47" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-183.91C203,-176.58 203,-167.86 203,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-159.07 203,-152.07 200.55,-159.07 205.45,-159.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M264.77,-255.87C254.56,-247.46 242.46,-237.5 231.69,-228.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.16,-226.66 226.2,-224.1 230.04,-230.45 233.16,-226.66" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-71.79C203,-63.54 203,-55.04 203,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-47.09 203,-40.09 200.55,-47.09 205.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180.5,-296C180.5,-296 57.5,-296 57.5,-296 51.5,-296 45.5,-290 45.5,-284 45.5,-284 45.5,-268 45.5,-268 45.5,-262 51.5,-256 57.5,-256 57.5,-256 180.5,-256 180.5,-256 186.5,-256 192.5,-262 192.5,-268 192.5,-268 192.5,-284 192.5,-284 192.5,-290 186.5,-296 180.5,-296" />
+<text text-anchor="middle" x="119" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M268.5,-224C268.5,-224 137.5,-224 137.5,-224 131.5,-224 125.5,-218 125.5,-212 125.5,-212 125.5,-196 125.5,-196 125.5,-190 131.5,-184 137.5,-184 137.5,-184 268.5,-184 268.5,-184 274.5,-184 280.5,-190 280.5,-196 280.5,-196 280.5,-212 280.5,-212 280.5,-218 274.5,-224 268.5,-224" />
+<text text-anchor="middle" x="203" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Talents</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M349,-296C349,-296 227,-296 227,-296 221,-296 215,-290 215,-284 215,-284 215,-268 215,-268 215,-262 221,-256 227,-256 227,-256 349,-256 349,-256 355,-256 361,-262 361,-268 361,-268 361,-284 361,-284 361,-290 355,-296 349,-296" />
+<text text-anchor="middle" x="288" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seek Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="203,-152 0,-112 203,-72 406,-112 203,-152" />
+<text text-anchor="middle" x="203" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand Strengths</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M281.5,-40C281.5,-40 124.5,-40 124.5,-40 118.5,-40 112.5,-34 112.5,-28 112.5,-28 112.5,-12 112.5,-12 112.5,-6 118.5,0 124.5,0 124.5,0 281.5,0 281.5,0 287.5,0 293.5,-6 293.5,-12 293.5,-12 293.5,-28 293.5,-28 293.5,-34 287.5,-40 281.5,-40" />
+<text text-anchor="middle" x="203" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leverage Strengths</text>
+</g>
+</g>
+</svg>

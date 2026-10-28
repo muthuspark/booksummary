@@ -15,12 +15,7 @@ Call Sign Chaos: Learning to Lead by Jim Mattis, with Bing West, isn't just a mi
 
 Mattis emphasizes the critical importance of understanding people.  He stresses the need to empathize, to see the world through the eyes of those you lead and those you oppose. This doesn't mean agreeing with everyone; it means appreciating their perspectives, motivations, and fears. Effective leadership stems from this understanding.
 
-```mermaid
-graph LR
-    A[Empathy] --> B(Understanding);
-    B --> C{Effective Leadership};
-    C --> D[Improved Decision-Making];
-```
+![Understanding the Human Element. Empathy; Understanding; Effective Leadership; Improved Decision-Making.](diagram-01.svg)
 
 
 ### The Value of Humility and Self-Reflection

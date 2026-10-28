@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="521pt" height="113pt" viewBox="0.00 0.00 521.00 113.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the "Chimp" Brain</title><desc id="description">Chimp Brain (Emotional) leads to Rational Brain. Rational Brain leads to Effective Pitch. Chimp Brain (Emotional) leads to Effective Pitch.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 95)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-95 503,-95 503,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M131.45,-40.44C139.3,-41.7 147.38,-43 155.4,-44.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.44,-46.78 162.74,-45.47 156.22,-41.94 155.44,-46.78" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M131.11,-26.95C141.76,-26.56 152.69,-26.21 163,-26 227.43,-24.67 243.57,-24.76 308,-26 316.08,-26.16 324.51,-26.38 332.91,-26.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="332.89,-29.09 339.97,-26.87 333.05,-24.2 332.89,-29.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M308.18,-45.94C316.21,-44.7 324.41,-43.44 332.52,-42.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="333.38,-44.53 339.93,-41.04 332.64,-39.69 333.38,-44.53" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M119,-60C119,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 119,0 119,0 125,0 131,-6 131,-12 131,-12 131,-48 131,-48 131,-54 125,-60 119,-60" />
+<text text-anchor="middle" x="65.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chimp Brain</text>
+<text text-anchor="middle" x="65.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Emotional)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M296,-77C296,-77 175,-77 175,-77 169,-77 163,-71 163,-65 163,-65 163,-49 163,-49 163,-43 169,-37 175,-37 175,-37 296,-37 296,-37 302,-37 308,-43 308,-49 308,-49 308,-65 308,-65 308,-71 302,-77 296,-77" />
+<text text-anchor="middle" x="235.5" y="-52.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rational Brain</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M473,-50C473,-50 352,-50 352,-50 346,-50 340,-44 340,-38 340,-38 340,-22 340,-22 340,-16 346,-10 352,-10 352,-10 473,-10 473,-10 479,-10 485,-16 485,-22 485,-22 485,-38 485,-38 485,-44 479,-50 473,-50" />
+<text text-anchor="middle" x="412.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective Pitch</text>
+</g>
+</g>
+</svg>

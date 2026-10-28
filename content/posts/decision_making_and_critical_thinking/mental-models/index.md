@@ -14,13 +14,7 @@ Peter Hollins' "Mental Models" isn't a self-help book in the traditional sense. 
 
 A recurring theme is the importance of systems thinking.  Hollins emphasizes that understanding individual components isn't enough; we must grasp the interconnectedness and feedback loops within systems. This is important for predicting outcomes and effectively influencing complex situations. He encourages readers to view problems not in isolation but as part of a larger, interconnected system.
 
-```mermaid
-graph LR
-    A[Individual Element] --> B(System);
-    B --> C[Outcome];
-    C --> B;
-    D[Feedback Loop] --> B;
-```
+![The Power of Systems Thinking. Individual Element; System; Outcome; Feedback Loop.](diagram-01.svg)
 
 This simple diagram illustrates the cyclical nature of systems. An action on an individual element A influences the whole system B, leading to an outcome C, which in turn feeds back into the system.
 

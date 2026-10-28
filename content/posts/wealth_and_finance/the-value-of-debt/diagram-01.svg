@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="621pt" height="666pt" viewBox="0.00 0.00 621.00 666.00" role="img" aria-labelledby="title description">
+<title id="title">Good Debt vs. Bad Debt: A Distinction</title><desc id="description">Debt leads to Good Debt. Debt leads to Bad Debt. Good Debt leads to Mortgages. Good Debt leads to Student Loans. Good Debt leads to Business Loans. Bad Debt leads to Credit Card Debt. Bad Debt leads to Payday Loans. Bad Debt leads to Auto Loans (High Interest).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 648)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-648 603,-648 603,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M50.25,-304C71.9,-331.49 110.87,-380.97 134.69,-411.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.99,-413.01 139.24,-416.99 136.84,-409.98 132.99,-413.01" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M67.11,-270.2C77.48,-265.81 89.25,-260.83 100.72,-255.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="101.94,-258.12 107.43,-253.13 100.03,-253.61 101.94,-258.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.37,-457.29C184.45,-480.36 212.05,-517.6 245,-539 271.05,-555.92 302.98,-567.44 332.03,-575.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="331.57,-577.59 338.96,-576.97 332.79,-572.85 331.57,-577.59" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M213.08,-448.13C245.34,-454.53 286.65,-462.73 323.41,-470.02" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="323.35,-472.51 330.69,-471.47 324.31,-467.7 323.35,-472.51" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M213.08,-425.87C244.65,-419.61 284.88,-411.62 321.03,-404.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="321.82,-406.79 328.21,-403.02 320.86,-401.98 321.82,-406.79" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207.77,-243.08C238.97,-249.27 279.95,-257.4 317.15,-264.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="316.71,-267.19 324.05,-266.15 317.66,-262.38 316.71,-267.19" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207.77,-222.92C241.24,-216.28 285.97,-207.41 325.22,-199.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="326.09,-201.94 332.48,-198.18 325.13,-197.14 326.09,-201.94" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.06,-212.91C185.58,-190.37 213.4,-153.96 245,-131 267.1,-114.94 293.38,-101.67 318.55,-91.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="319.72,-93.29 325.26,-88.36 317.86,-88.76 319.72,-93.29" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M55,-304C55,-304 12,-304 12,-304 6,-304 0,-298 0,-292 0,-292 0,-276 0,-276 0,-270 6,-264 12,-264 12,-264 55,-264 55,-264 61,-264 67,-270 67,-276 67,-276 67,-292 67,-292 67,-298 61,-304 55,-304" />
+<text text-anchor="middle" x="33.5" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M201,-457C201,-457 111,-457 111,-457 105,-457 99,-451 99,-445 99,-445 99,-429 99,-429 99,-423 105,-417 111,-417 111,-417 201,-417 201,-417 207,-417 213,-423 213,-429 213,-429 213,-445 213,-445 213,-451 207,-457 201,-457" />
+<text text-anchor="middle" x="156" y="-432.6" font-family="Georgia" font-size="18.00" fill="#243d36">Good Debt</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M195.5,-253C195.5,-253 116.5,-253 116.5,-253 110.5,-253 104.5,-247 104.5,-241 104.5,-241 104.5,-225 104.5,-225 104.5,-219 110.5,-213 116.5,-213 116.5,-213 195.5,-213 195.5,-213 201.5,-213 207.5,-219 207.5,-225 207.5,-225 207.5,-241 207.5,-241 207.5,-247 201.5,-253 195.5,-253" />
+<text text-anchor="middle" x="156" y="-228.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bad Debt</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-630 303,-590 415,-550 527,-590 415,-630" />
+<text text-anchor="middle" x="415" y="-585.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mortgages</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-528 272,-488 415,-448 558,-488 415,-528" />
+<text text-anchor="middle" x="415" y="-483.6" font-family="Georgia" font-size="18.00" fill="#243d36">Student Loans</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-426 265,-386 415,-346 565,-386 415,-426" />
+<text text-anchor="middle" x="415" y="-381.6" font-family="Georgia" font-size="18.00" fill="#243d36">Business Loans</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-324 251,-284 415,-244 579,-284 415,-324" />
+<text text-anchor="middle" x="415" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Credit Card Debt</text>
+</g>
+
+<g id="node8" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-222 277,-182 415,-142 553,-182 415,-222" />
+<text text-anchor="middle" x="415" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Payday Loans</text>
+</g>
+
+<g id="node9" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-120 245,-60 415,0 585,-60 415,-120" />
+<text text-anchor="middle" x="415" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Auto Loans (High</text>
+<text text-anchor="middle" x="415" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interest)</text>
+</g>
+</g>
+</svg>

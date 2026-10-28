@@ -15,13 +15,7 @@ Patrick Lencioni's "The Motive" centers on the fundamental human need for trust 
 
 The narrative explores the prevalent human tendency to seek control, often at the expense of genuine trust.  We build walls to protect ourselves from perceived threats, but in doing so, we isolate ourselves and limit our potential.  This fear of vulnerability prevents us from forming authentic connections and experiencing the benefits of teamwork, collaboration, and open communication.  The book challenges readers to question their need for control and consider vulnerability as a path to deeper trust.
 
-```mermaid
-graph LR
-    A[Fear of Vulnerability] --> B(Seeking Control);
-    B --> C[Isolation & Limited Potential];
-    C --> D(Lack of Trust);
-    D --> E[Unfulfilled Life];
-```
+![The Illusion of Control: Why We Avoid Trust. Fear of Vulnerability; Seeking Control; Isolation & Limited Potential; Lack of Trust; Unfulfilled Life.](diagram-01.svg)
 
 
 ## The Power of Vulnerability: The Path to Trust
@@ -77,18 +71,7 @@ Inevitably, conflicts will arise in any relationship.  The book highlights the i
 Building trust is an ongoing process, not a destination. It requires consistent effort and commitment. Lencioni emphasizes the need for continuous self-reflection, open communication, and a willingness to grow. Maintaining and strengthening trust requires constant vigilance and a dedication to fostering authentic connections.
 
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Vulnerability);
-    B --> C[Honest Communication];
-    C --> D(Empathy);
-    D --> E[Forgiveness];
-    E --> F(Trust);
-    F --> G[Stronger Relationships];
-    F --> H[Improved Work Environment];
-    F --> I[Personal Growth];
-    F --> J[Mental Well-being];
-```
+![The Ongoing Journey: Maintaining and Strengthening Trust. Self-Reflection; Vulnerability; Honest Communication; Empathy; Forgiveness; Trust; Stronger Relationships; Improved Work Environment; Personal Growth; Mental Well-being.](diagram-02.svg)
 
 
 ## Actionable Tips for Personal Growth

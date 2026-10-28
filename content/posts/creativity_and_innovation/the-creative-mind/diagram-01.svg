@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370pt" height="424pt" viewBox="0.00 0.00 369.50 424.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Creativity: Beyond the "Eureka!" Moment</title><desc id="description">Exploration leads to Combination. Combination leads to Transformation. Transformation leads to Creative Output. Creative Output leads to Iteration and Refinement. Iteration and Refinement leads to Combination.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 351.5,-406 351.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M248,-347.87C248,-340.31 248,-331.49 248,-323.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="250.45,-323.1 248,-316.1 245.55,-323.1 250.45,-323.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M228.07,-275.91C217.41,-265.71 203.93,-252.81 191.41,-240.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="192.86,-238.82 186.11,-235.74 189.47,-242.36 192.86,-238.82" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.91,-167.69C172.99,-158.03 177.33,-147.76 181.13,-138.75" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183.45,-139.54 183.92,-132.14 178.94,-137.63 183.45,-139.54" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210.16,-91.63C217.55,-83.75 226.32,-74.39 234.74,-65.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="236.64,-66.97 239.64,-60.19 233.06,-63.62 236.64,-66.97" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M286.3,-60.05C311.86,-102.5 350.27,-183.03 319,-244 313.33,-255.06 304.01,-264.27 293.97,-271.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="292.35,-269.82 287.99,-275.82 295.14,-273.84 292.35,-269.82" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M297.5,-388C297.5,-388 198.5,-388 198.5,-388 192.5,-388 186.5,-382 186.5,-376 186.5,-376 186.5,-360 186.5,-360 186.5,-354 192.5,-348 198.5,-348 198.5,-348 297.5,-348 297.5,-348 303.5,-348 309.5,-354 309.5,-360 309.5,-360 309.5,-376 309.5,-376 309.5,-382 303.5,-388 297.5,-388" />
+<text text-anchor="middle" x="248" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exploration</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M301.5,-316C301.5,-316 194.5,-316 194.5,-316 188.5,-316 182.5,-310 182.5,-304 182.5,-304 182.5,-288 182.5,-288 182.5,-282 188.5,-276 194.5,-276 194.5,-276 301.5,-276 301.5,-276 307.5,-276 313.5,-282 313.5,-288 313.5,-288 313.5,-304 313.5,-304 313.5,-310 307.5,-316 301.5,-316" />
+<text text-anchor="middle" x="248" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Combination</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="154,-244 0,-204 154,-164 308,-204 154,-244" />
+<text text-anchor="middle" x="154" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transformation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-132C258,-132 126,-132 126,-132 120,-132 114,-126 114,-120 114,-120 114,-104 114,-104 114,-98 120,-92 126,-92 126,-92 258,-92 258,-92 264,-92 270,-98 270,-104 270,-104 270,-120 270,-120 270,-126 264,-132 258,-132" />
+<text text-anchor="middle" x="192" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creative Output</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M321.5,-60C321.5,-60 212.5,-60 212.5,-60 206.5,-60 200.5,-54 200.5,-48 200.5,-48 200.5,-12 200.5,-12 200.5,-6 206.5,0 212.5,0 212.5,0 321.5,0 321.5,0 327.5,0 333.5,-6 333.5,-12 333.5,-12 333.5,-48 333.5,-48 333.5,-54 327.5,-60 321.5,-60" />
+<text text-anchor="middle" x="267" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iteration and</text>
+<text text-anchor="middle" x="267" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refinement</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="559pt" height="240pt" viewBox="0.00 0.00 559.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Thinking Styles</title><desc id="description">Preachers leads to Fixed Mindset. Prosecutors leads to Fixed Mindset. Scientists leads to Fluid Mindset. Sporters leads to Fluid Mindset. Fixed Mindset leads to Resistance to Change. Fluid Mindset leads to Open to New Information.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 541,-222 541,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M80.51,-163.87C92.27,-155.38 106.22,-145.32 118.59,-136.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="120.28,-138.19 124.53,-132.1 117.42,-134.21 120.28,-138.19" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151,-91.63C151,-81.32 151,-68.48 151,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="153.45,-57.19 151,-50.19 148.55,-57.19 153.45,-57.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.8,-163.87C176.19,-156 170.78,-146.77 165.85,-138.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="167.84,-136.91 162.19,-132.1 163.61,-139.38 167.84,-136.91" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M364.2,-163.87C368.81,-156 374.22,-146.77 379.15,-138.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="381.39,-139.38 382.81,-132.1 377.16,-136.91 381.39,-139.38" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M394,-91.63C394,-84.34 394,-75.78 394,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="396.45,-67.19 394,-60.19 391.55,-67.19 396.45,-67.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M452.87,-163.87C443.22,-155.54 431.82,-145.68 421.63,-136.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="423.01,-134.83 416.11,-132.1 419.8,-138.54 423.01,-134.83" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M96,-204C96,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 96,-164 96,-164 102,-164 108,-170 108,-176 108,-176 108,-192 108,-192 108,-198 102,-204 96,-204" />
+<text text-anchor="middle" x="54" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Preachers</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M210.5,-132C210.5,-132 91.5,-132 91.5,-132 85.5,-132 79.5,-126 79.5,-120 79.5,-120 79.5,-104 79.5,-104 79.5,-98 85.5,-92 91.5,-92 91.5,-92 210.5,-92 210.5,-92 216.5,-92 222.5,-98 222.5,-104 222.5,-104 222.5,-120 222.5,-120 222.5,-126 216.5,-132 210.5,-132" />
+<text text-anchor="middle" x="151" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fixed Mindset</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M241.5,-204C241.5,-204 142.5,-204 142.5,-204 136.5,-204 130.5,-198 130.5,-192 130.5,-192 130.5,-176 130.5,-176 130.5,-170 136.5,-164 142.5,-164 142.5,-164 241.5,-164 241.5,-164 247.5,-164 253.5,-170 253.5,-176 253.5,-176 253.5,-192 253.5,-192 253.5,-198 247.5,-204 241.5,-204" />
+<text text-anchor="middle" x="192" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prosecutors</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M393,-204C393,-204 313,-204 313,-204 307,-204 301,-198 301,-192 301,-192 301,-176 301,-176 301,-170 307,-164 313,-164 313,-164 393,-164 393,-164 399,-164 405,-170 405,-176 405,-176 405,-192 405,-192 405,-198 399,-204 393,-204" />
+<text text-anchor="middle" x="353" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Scientists</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M452,-132C452,-132 336,-132 336,-132 330,-132 324,-126 324,-120 324,-120 324,-104 324,-104 324,-98 330,-92 336,-92 336,-92 452,-92 452,-92 458,-92 464,-98 464,-104 464,-104 464,-120 464,-120 464,-126 458,-132 452,-132" />
+<text text-anchor="middle" x="394" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fluid Mindset</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M511,-204C511,-204 439,-204 439,-204 433,-204 427,-198 427,-192 427,-192 427,-176 427,-176 427,-170 433,-164 439,-164 439,-164 511,-164 511,-164 517,-164 523,-170 523,-176 523,-176 523,-192 523,-192 523,-198 517,-204 511,-204" />
+<text text-anchor="middle" x="475" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sporters</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M237.5,-50C237.5,-50 64.5,-50 64.5,-50 58.5,-50 52.5,-44 52.5,-38 52.5,-38 52.5,-22 52.5,-22 52.5,-16 58.5,-10 64.5,-10 64.5,-10 237.5,-10 237.5,-10 243.5,-10 249.5,-16 249.5,-22 249.5,-22 249.5,-38 249.5,-38 249.5,-44 243.5,-50 237.5,-50" />
+<text text-anchor="middle" x="151" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resistance to Change</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M448.5,-60C448.5,-60 339.5,-60 339.5,-60 333.5,-60 327.5,-54 327.5,-48 327.5,-48 327.5,-12 327.5,-12 327.5,-6 333.5,0 339.5,0 339.5,0 448.5,0 448.5,0 454.5,0 460.5,-6 460.5,-12 460.5,-12 460.5,-48 460.5,-48 460.5,-54 454.5,-60 448.5,-60" />
+<text text-anchor="middle" x="394" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Open to New</text>
+<text text-anchor="middle" x="394" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Information</text>
+</g>
+</g>
+</svg>

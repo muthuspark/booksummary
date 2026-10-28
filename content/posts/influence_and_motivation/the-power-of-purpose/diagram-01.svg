@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372pt" height="352pt" viewBox="0.00 0.00 371.50 352.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Values and Passions</title><desc id="description">Self-Reflection leads to Identify Values. Self-Reflection leads to Identify Passions. Identify Values leads to Prioritize Values. Identify Passions leads to Prioritize Values. Prioritize Values leads to Understand your Core Self.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 353.5,-334 353.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139.18,-275.87C128.49,-267.46 115.82,-257.5 104.54,-248.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.81,-246.51 98.79,-244.1 102.78,-250.36 105.81,-246.51" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M188.09,-275.87C198.91,-267.46 211.72,-257.5 223.12,-248.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.92,-250.34 228.94,-244.1 221.91,-246.47 224.92,-250.34" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.37,-203.91C103.29,-193.89 115.77,-181.27 127.45,-169.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="129.22,-171.15 132.4,-164.45 125.73,-167.71 129.22,-171.15" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M234.41,-203.91C224.39,-193.89 211.77,-181.27 199.96,-169.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.64,-167.67 194.95,-164.45 198.17,-171.14 201.64,-167.67" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.5,-91.76C163.5,-83.72 163.5,-75.29 163.5,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="165.95,-67.23 163.5,-60.23 161.05,-67.23 165.95,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M225,-316C225,-316 102,-316 102,-316 96,-316 90,-310 90,-304 90,-304 90,-288 90,-288 90,-282 96,-276 102,-276 102,-276 225,-276 225,-276 231,-276 237,-282 237,-288 237,-288 237,-304 237,-304 237,-310 231,-316 225,-316" />
+<text text-anchor="middle" x="163.5" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M137,-244C137,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-216 0,-216 0,-210 6,-204 12,-204 12,-204 137,-204 137,-204 143,-204 149,-210 149,-216 149,-216 149,-232 149,-232 149,-238 143,-244 137,-244" />
+<text text-anchor="middle" x="74.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Values</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M323.5,-244C323.5,-244 183.5,-244 183.5,-244 177.5,-244 171.5,-238 171.5,-232 171.5,-232 171.5,-216 171.5,-216 171.5,-210 177.5,-204 183.5,-204 183.5,-204 323.5,-204 323.5,-204 329.5,-204 335.5,-210 335.5,-216 335.5,-216 335.5,-232 335.5,-232 335.5,-238 329.5,-244 323.5,-244" />
+<text text-anchor="middle" x="253.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Passions</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="163.5,-172 2.5,-132 163.5,-92 324.5,-132 163.5,-172" />
+<text text-anchor="middle" x="163.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritize Values</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M254.5,-60C254.5,-60 72.5,-60 72.5,-60 66.5,-60 60.5,-54 60.5,-48 60.5,-48 60.5,-12 60.5,-12 60.5,-6 66.5,0 72.5,0 72.5,0 254.5,0 254.5,0 260.5,0 266.5,-6 266.5,-12 266.5,-12 266.5,-48 266.5,-48 266.5,-54 260.5,-60 254.5,-60" />
+<text text-anchor="middle" x="163.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand your Core</text>
+<text text-anchor="middle" x="163.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self</text>
+</g>
+</g>
+</svg>

@@ -14,15 +14,7 @@ John C. Bogle's "Common Sense on Mutual Funds" is a seminal work advocating for 
 
 Bogle's central argument revolves around the inefficiency and high costs associated with actively managed mutual funds. He dissects the various fees, expenses, and hidden costs that erode investors' returns over time. These include management fees, 12b-1 fees, transaction costs, and the impact of fund turnover. He argues that these expenses outweigh any potential benefits from active management's attempts to "beat the market". The vast majority of actively managed funds fail to outperform their benchmark indexes over the long term, after adjusting for fees.
 
-```mermaid
-graph LR
-    A[Investor] --> B(Actively Managed Fund);
-    B --> C{High Fees};
-    C --> D[Lower Returns];
-    A --> E(Index Fund);
-    E --> F{Low Fees};
-    F --> G[Higher Returns];
-```
+![The High Cost of Complexity. Investor; Actively Managed Fund; High Fees; Lower Returns; Index Fund; Low Fees; Higher Returns.](diagram-01.svg)
 
 ## The Power of Indexing
 

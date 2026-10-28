@@ -24,13 +24,7 @@ The core of the Sprint methodology lies in its five distinct phases:
 
 * **Friday: Validate.** The final day involves user testing the prototype. Feedback is gathered from real users, providing critical information on the effectiveness of the solution and areas for improvement. The team observes and analyzes user interactions, uncovering both strengths and weaknesses.
 
-```mermaid
-graph LR
-    A[Monday: Understand] --> B(Tuesday: Diverge);
-    B --> C(Wednesday: Decide);
-    C --> D(Thursday: Prototype);
-    D --> E(Friday: Validate);
-```
+![The Five Phases of a Sprint. Monday: Understand; Tuesday: Diverge; Wednesday: Decide; Thursday: Prototype; Friday: Validate.](diagram-01.svg)
 
 # Key Advice and Strategies
 

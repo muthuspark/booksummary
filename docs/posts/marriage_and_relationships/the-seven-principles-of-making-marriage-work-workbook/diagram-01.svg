@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="603pt" height="148pt" viewBox="0.00 0.00 603.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Build Love Maps: Knowing Your Partner</title><desc id="description">Knowing Your Partner leads to Shared Daily Details. Knowing Your Partner leads to Active Listening. Knowing Your Partner leads to Regular Check-ins.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 585,-130 585,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M238.2,-71.96C212.6,-62.82 181.81,-51.83 155.4,-42.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="156.2,-40.08 148.79,-40.03 154.56,-44.69 156.2,-40.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M291.5,-71.87C291.5,-64.31 291.5,-55.49 291.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="293.95,-47.1 291.5,-40.1 289.05,-47.1 293.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M342.87,-71.87C367.22,-62.81 396.42,-51.94 421.55,-42.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="422.49,-44.84 428.19,-40.1 420.78,-40.25 422.49,-44.84" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M384,-112C384,-112 199,-112 199,-112 193,-112 187,-106 187,-100 187,-100 187,-84 187,-84 187,-78 193,-72 199,-72 199,-72 384,-72 384,-72 390,-72 396,-78 396,-84 396,-84 396,-100 396,-100 396,-106 390,-112 384,-112" />
+<text text-anchor="middle" x="291.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Knowing Your Partner</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M179,-40C179,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 179,0 179,0 185,0 191,-6 191,-12 191,-12 191,-28 191,-28 191,-34 185,-40 179,-40" />
+<text text-anchor="middle" x="95.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Daily Details</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M357.5,-40C357.5,-40 225.5,-40 225.5,-40 219.5,-40 213.5,-34 213.5,-28 213.5,-28 213.5,-12 213.5,-12 213.5,-6 219.5,0 225.5,0 225.5,0 357.5,0 357.5,0 363.5,0 369.5,-6 369.5,-12 369.5,-12 369.5,-28 369.5,-28 369.5,-34 363.5,-40 357.5,-40" />
+<text text-anchor="middle" x="291.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M555,-40C555,-40 404,-40 404,-40 398,-40 392,-34 392,-28 392,-28 392,-12 392,-12 392,-6 398,0 404,0 404,0 555,0 555,0 561,0 567,-6 567,-12 567,-12 567,-28 567,-28 567,-34 561,-40 555,-40" />
+<text text-anchor="middle" x="479.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regular Check-ins</text>
+</g>
+</g>
+</svg>

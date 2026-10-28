@@ -15,14 +15,7 @@ Bruce Feiler's "The Secrets of Happy Families" isn't about achieving a picture-p
 Feiler stresses the importance of family rituals, both big and small. These aren't necessarily elaborate traditions, but consistent, repeated actions that build a sense of connection and shared identity.  They provide structure, predictability, and opportunities for emotional bonding.  These rituals can range from nightly dinners together to yearly vacations or weekly game nights.  The key is consistency and the shared experience they create.
 
 
-```mermaid
-graph LR
-    A[Shared Experience] --> B(Rituals);
-    B --> C{Connection};
-    B --> D{Identity};
-    C --> E[Family Well-being];
-    D --> E;
-```
+![The Power of Family Rituals. Shared Experience; Rituals; Connection; Identity; Family Well-being.](diagram-01.svg)
 
 Examples of rituals might include:
 
@@ -45,17 +38,7 @@ Effective communication is central to a happy family.  Feiler advocates for open
 This open communication builds trust and strengthens bonds within the family.
 
 
-```mermaid
-graph LR
-    A[Open Communication] --> B(Active Listening);
-    A --> C(Empathy);
-    A --> D(Respectful Expression);
-    B --> E[Trust];
-    C --> E;
-    D --> E;
-    E --> F[Stronger Bonds];
-
-```
+![Open Communication:  The Heart of a Strong Family. Open Communication; Active Listening; Empathy; Respectful Expression; Trust; Stronger Bonds.](diagram-02.svg)
 
 ##  Adaptability and Resilience: Navigating Life's Challenges
 

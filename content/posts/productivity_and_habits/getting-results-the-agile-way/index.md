@@ -15,17 +15,7 @@ J.D. Meier's "Getting Results the Agile Way" cleverly translates the principles 
 The book strongly emphasizes breaking down large, overwhelming goals into smaller, manageable tasks. This is the essence of iterative development. Instead of aiming for a monumental achievement, focus on completing smaller, achievable steps. Each step provides a sense of accomplishment, momentum, and feedback. This "chunking" of goals prevents burnout and keeps you motivated.
 
 
-```mermaid
-graph LR
-A[Large Goal] --> B(Smaller Task 1);
-A --> C(Smaller Task 2);
-A --> D(Smaller Task 3);
-B --> E[Feedback & Adjustment];
-C --> E;
-D --> E;
-E --> F[Revised Plan];
-F --> G[Next Iteration];
-```
+![Iterative Goal Setting: Breaking Down the Mountain. Large Goal; Smaller Task 1; Smaller Task 2; Smaller Task 3; Feedback & Adjustment; Revised Plan; Next Iteration.](diagram-01.svg)
 
 ## Embracing Change and Adaptability
 
@@ -54,13 +44,7 @@ Meier introduces many practical techniques derived from Agile, directly applicab
 * **Daily stand-up meetings (self-reflection):**  A brief daily review of progress, roadblocks, and plans for the day promotes self-awareness and keeps you on track.
 * **Sprint retrospectives (weekly/monthly reviews):**  Regular reflection on past periods helps to identify successful strategies, areas needing improvement, and opportunities for adaptation.
 
-```mermaid
-graph LR
-A[Kanban Board] --> B(Visual Task Management);
-C[Timeboxing] --> D(Focused Work);
-E[Daily Stand-up] --> F(Self-Assessment);
-G[Sprint Retrospective] --> H(Continuous Improvement);
-```
+![Agile Techniques for Personal Productivity:  Practical Tools. Kanban Board; Visual Task Management; Timeboxing; Focused Work; Daily Stand-up; Self-Assessment; Sprint Retrospective; Continuous Improvement.](diagram-02.svg)
 
 ## Avoiding Common Pitfalls:  Obstacles to Agile Living
 

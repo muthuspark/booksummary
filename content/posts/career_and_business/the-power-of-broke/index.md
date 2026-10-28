@@ -24,13 +24,7 @@ A key framework in the book is the F.A.C.E. method, a strategic approach to busi
 * **E**xecution:  Turn ideas into action.  Planning is vital, but execution is paramount.  Get things done, learn from mistakes, and iterate.
 
 
-```mermaid
-graph LR
-    A[Focus] --> B(Adaptation);
-    B --> C(Creation);
-    C --> D(Execution);
-    D --> A;
-```
+![Turning Limitations into Strengths: The F.A.C.E. Method. Focus; Adaptation; Creation; Execution.](diagram-01.svg)
 
 ##  Building a Brand on a Shoestring:  Leveraging Limited Resources
 

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252pt" height="312pt" viewBox="0.00 0.00 252.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">Building a Sustainable Business Model</title><desc id="description">Consistent Value leads to Adapt to Market Changes. Adapt to Market Changes leads to Continuous Learning. Continuous Learning leads to Profitable &amp; Rewarding.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 234,-294 234,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-235.63C108,-228.34 108,-219.78 108,-211.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-211.19 108,-204.19 105.55,-211.19 110.45,-211.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-143.67C108,-135.77 108,-127.28 108,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-119.12 108,-112.12 105.55,-119.12 110.45,-119.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-71.87C108,-64.31 108,-55.49 108,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-47.1 108,-40.1 105.55,-47.1 110.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177,-276C177,-276 39,-276 39,-276 33,-276 27,-270 27,-264 27,-264 27,-248 27,-248 27,-242 33,-236 39,-236 39,-236 177,-236 177,-236 183,-236 189,-242 189,-248 189,-248 189,-264 189,-264 189,-270 183,-276 177,-276" />
+<text text-anchor="middle" x="108" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consistent Value</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175.5,-204C175.5,-204 40.5,-204 40.5,-204 34.5,-204 28.5,-198 28.5,-192 28.5,-192 28.5,-156 28.5,-156 28.5,-150 34.5,-144 40.5,-144 40.5,-144 175.5,-144 175.5,-144 181.5,-144 187.5,-150 187.5,-156 187.5,-156 187.5,-192 187.5,-192 187.5,-198 181.5,-204 175.5,-204" />
+<text text-anchor="middle" x="108" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adapt to Market</text>
+<text text-anchor="middle" x="108" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Changes</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M194,-112C194,-112 22,-112 22,-112 16,-112 10,-106 10,-100 10,-100 10,-84 10,-84 10,-78 16,-72 22,-72 22,-72 194,-72 194,-72 200,-72 206,-78 206,-84 206,-84 206,-100 206,-100 206,-106 200,-112 194,-112" />
+<text text-anchor="middle" x="108" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Continuous Learning</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M204,-40C204,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 204,0 204,0 210,0 216,-6 216,-12 216,-12 216,-28 216,-28 216,-34 210,-40 204,-40" />
+<text text-anchor="middle" x="108" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Profitable &amp; Rewarding</text>
+</g>
+</g>
+</svg>

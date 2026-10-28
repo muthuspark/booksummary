@@ -14,13 +14,7 @@ Marshall Goldsmith's "Triggers" delves into the science of human behavior, speci
 
 The core of Goldsmith's methodology hinges on self-awareness. Before we can change our responses, we must first identify what triggers negative reactions within us. He suggests keeping a journal, recording situations, people, or even thoughts that cause us to behave in ways we regret. This process of self-monitoring is crucial. The book emphasizes the importance of honest self-assessment, aided by feedback from trusted colleagues and friends.
 
-```mermaid
-graph LR
-A[Identify Triggering Situations] --> B{Journaling};
-B --> C[Honest Self-Reflection];
-C --> D[Seeking Feedback];
-D --> E[Understanding Patterns];
-```
+![Identifying Your Personal Triggers. Identify Triggering Situations; Journaling; Honest Self-Reflection; Seeking Feedback; Understanding Patterns.](diagram-01.svg)
 
 # The Power of Feedback and Accountability
 
@@ -30,13 +24,7 @@ Goldsmith stresses the vital role of feedback in pinpointing our triggers.  He a
 
 Selecting the right people to provide feedback is crucial. The individuals chosen should be trusted and able to offer honest, actionable feedback.
 
-```mermaid
-graph LR
-A[Select Feedback Providers] --> B{Trusted Individuals};
-B --> C[Honest & Objective];
-C --> D[Actionable Insights];
-D --> E[Positive & Constructive];
-```
+![Choosing Your Feedback Sources. Select Feedback Providers; Trusted Individuals; Honest & Objective; Actionable Insights; Positive & Constructive.](diagram-02.svg)
 
 # The 30-Day Challenge and its Importance
 
@@ -54,13 +42,7 @@ The book offers various behavioral strategies to manage reactions to triggers.  
 * **Reframe:** Changing our perception of the trigger. This involves consciously shifting our interpretation of the event or situation.
 * **Replace:** Substituting the negative reaction with a more constructive one. This requires conscious effort and practice.
 
-```mermaid
-graph LR
-A[Trigger] --> B(Pause);
-B --> C(Reframe);
-C --> D(Replace);
-D --> E[Positive Response];
-```
+![Developing Behavioral Strategies. Trigger; Pause; Reframe; Replace; Positive Response.](diagram-03.svg)
 
 
 #  The Importance of Self-Compassion and Acceptance

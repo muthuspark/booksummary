@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558pt" height="123pt" viewBox="0.00 0.00 558.00 123.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Interest and Deliberate Practice</title><desc id="description">Interest leads to Deliberate Practice. Deliberate Practice leads to Mastery. Interest leads to Mastery.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 105)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-105 540,-105 540,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91.42,-47.31C99.07,-48.55 107.28,-49.89 115.67,-51.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.46,-53.7 122.76,-52.4 116.25,-48.86 115.46,-53.7" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91.39,-37.26C101.76,-36.74 112.76,-36.27 123,-36 203.42,-33.9 223.57,-34.7 304,-36 314.33,-36.17 325.15,-36.41 335.91,-36.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="335.9,-39.15 342.96,-36.89 336.03,-34.25 335.9,-39.15" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.12,-55.67C319.22,-53.76 334.79,-51.79 349.58,-49.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="350.13,-52.32 356.77,-49.01 349.52,-47.46 350.13,-52.32" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M79,-60C79,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 79,-20 79,-20 85,-20 91,-26 91,-32 91,-32 91,-48 91,-48 91,-54 85,-60 79,-60" />
+<text text-anchor="middle" x="45.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interest</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-87C292,-87 135,-87 135,-87 129,-87 123,-81 123,-75 123,-75 123,-59 123,-59 123,-53 129,-47 135,-47 135,-47 292,-47 292,-47 298,-47 304,-53 304,-59 304,-59 304,-75 304,-75 304,-81 298,-87 292,-87" />
+<text text-anchor="middle" x="213.5" y="-62.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deliberate Practice</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="429,-80 336,-40 429,0 522,-40 429,-80" />
+<text text-anchor="middle" x="429" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mastery</text>
+</g>
+</g>
+</svg>

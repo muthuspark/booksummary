@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="565pt" height="138pt" viewBox="0.00 0.00 565.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Proactive vs. Reactive Trading</title><desc id="description">Reactive Trading leads to Emotions. Emotions leads to Impulsive Decisions. Proactive Trading leads to Plan. Plan leads to Deliberate Actions.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 547,-120 547,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.55,-20C176.95,-20 186.4,-20 195.43,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.57,-22.45 202.57,-20 195.57,-17.55 195.57,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M308.17,-20C315.98,-20 324.26,-20 332.69,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="332.8,-22.45 339.8,-20 332.8,-17.55 332.8,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.48,-82C187,-82 202.48,-82 215.79,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.95,-84.45 222.95,-82 215.95,-79.55 215.95,-84.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.14,-82C302.63,-82 320.64,-82 338.99,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="339.31,-84.45 346.31,-82 339.31,-79.55 339.31,-84.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155.5,-40C155.5,-40 15.5,-40 15.5,-40 9.5,-40 3.5,-34 3.5,-28 3.5,-28 3.5,-12 3.5,-12 3.5,-6 9.5,0 15.5,0 15.5,0 155.5,0 155.5,0 161.5,0 167.5,-6 167.5,-12 167.5,-12 167.5,-28 167.5,-28 167.5,-34 161.5,-40 155.5,-40" />
+<text text-anchor="middle" x="85.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reactive Trading</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M296,-40C296,-40 215,-40 215,-40 209,-40 203,-34 203,-28 203,-28 203,-12 203,-12 203,-6 209,0 215,0 215,0 296,0 296,0 302,0 308,-6 308,-12 308,-12 308,-28 308,-28 308,-34 302,-40 296,-40" />
+<text text-anchor="middle" x="255.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M517,-40C517,-40 352,-40 352,-40 346,-40 340,-34 340,-28 340,-28 340,-12 340,-12 340,-6 346,0 352,0 352,0 517,0 517,0 523,0 529,-6 529,-12 529,-12 529,-28 529,-28 529,-34 523,-40 517,-40" />
+<text text-anchor="middle" x="434.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impulsive Decisions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159,-102C159,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 159,-62 159,-62 165,-62 171,-68 171,-74 171,-74 171,-90 171,-90 171,-96 165,-102 159,-102" />
+<text text-anchor="middle" x="85.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Proactive Trading</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-102C276,-102 235,-102 235,-102 229,-102 223,-96 223,-90 223,-90 223,-74 223,-74 223,-68 229,-62 235,-62 235,-62 276,-62 276,-62 282,-62 288,-68 288,-74 288,-74 288,-90 288,-90 288,-96 282,-102 276,-102" />
+<text text-anchor="middle" x="255.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Plan</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M510.5,-102C510.5,-102 358.5,-102 358.5,-102 352.5,-102 346.5,-96 346.5,-90 346.5,-90 346.5,-74 346.5,-74 346.5,-68 352.5,-62 358.5,-62 358.5,-62 510.5,-62 510.5,-62 516.5,-62 522.5,-68 522.5,-74 522.5,-74 522.5,-90 522.5,-90 522.5,-96 516.5,-102 510.5,-102" />
+<text text-anchor="middle" x="434.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deliberate Actions</text>
+</g>
+</g>
+</svg>

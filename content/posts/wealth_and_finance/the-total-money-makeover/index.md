@@ -14,27 +14,13 @@ Dave Ramsey's "The Total Money Makeover" isn't just a book about managing financ
 
 This seemingly small first step is crucial.  Ramsey advocates for building a $1000 emergency fund before tackling debt. This fund acts as a safety net, preventing further debt accumulation from unexpected expenses like car repairs or medical bills.  It establishes a sense of control and confidence, paving the way for tackling larger financial challenges.
 
-```mermaid
-graph LR
-    A[Start] --> B{Unexpected Expense?};
-    B -- Yes --> C[Use Emergency Fund];
-    C --> D[Problem Solved];
-    B -- No --> E[Continue Baby Steps];
-```
+![Baby Step 1: $1000 Emergency Fund. Start; Unexpected Expense?; Use Emergency Fund; Problem Solved; Continue Baby Steps.](diagram-01.svg)
 
 ## Baby Step 2: Debt Snowball
 
 This step focuses on aggressively paying off debt. Unlike the debt avalanche method (paying off highest interest debts first), Ramsey promotes the debt snowball method: paying off the smallest debt first, regardless of interest rate.  This approach uses psychological momentum. The quick wins build confidence and motivation to tackle larger debts.
 
-```mermaid
-graph LR
-    A["Debt 1 (Smallest)"] --> B(Pay Off);
-    B --> C[Debt 2];
-    C --> D(Pay Off);
-    D --> E[Debt 3];
-    E --> F(Pay Off);
-    F --> G[Debt Free!];
-```
+![Baby Step 2: Debt Snowball. Debt 1 (Smallest); Pay Off; Debt 2; Pay Off; Debt 3; Pay Off; Debt Free!.](diagram-02.svg)
 
 **Key Insight:**  The emotional satisfaction of eliminating debts fuels the process.  The psychological victory is often more important than the mathematical efficiency.
 

@@ -22,17 +22,7 @@ DiNicolantonio emphasizes different types of salt. He cautions against overconsu
 
 The core argument of "The Salt Fix" revolves around shifting the blame from salt itself to the true dietary villains: processed foods and excessive sugar consumption. These are highlighted as the primary drivers of high blood pressure, insulin resistance, and obesity, not necessarily sodium intake itself.
 
-```mermaid
-graph LR
-    A[Processed Foods] --> B(High Blood Pressure);
-    A --> C(Insulin Resistance);
-    A --> D(Obesity);
-    E[Excessive Sugar] --> B;
-    E --> C;
-    E --> D;
-    F[Salt] -.-> B;
-    style F fill:#f9f,stroke:#333,stroke-width:2px
-```
+![Identifying the Real Culprits: Processed Foods and Sugar. Processed Foods; High Blood Pressure; Insulin Resistance; Obesity; Excessive Sugar; Salt.](diagram-01.svg)
 
 
 This diagram illustrates that processed foods and sugar are major contributors to many health problems, while the effect of salt is less direct and dependent on other factors.

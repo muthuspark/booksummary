@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="462pt" height="76pt" viewBox="0.00 0.00 462.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">Authority: The Impact of Credibility</title><desc id="description">Perceived Authority leads to Increased Compliance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 444,-58 444,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M188.31,-20C196.27,-20 204.37,-20 212.43,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.83,-22.45 219.83,-20 212.83,-17.55 212.83,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-40C176,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 176,0 176,0 182,0 188,-6 188,-12 188,-12 188,-28 188,-28 188,-34 182,-40 176,-40" />
+<text text-anchor="middle" x="94" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perceived Authority</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M414,-40C414,-40 232,-40 232,-40 226,-40 220,-34 220,-28 220,-28 220,-12 220,-12 220,-6 226,0 232,0 232,0 414,0 414,0 420,0 426,-6 426,-12 426,-12 426,-28 426,-28 426,-34 420,-40 414,-40" />
+<text text-anchor="middle" x="323" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Compliance</text>
+</g>
+</g>
+</svg>

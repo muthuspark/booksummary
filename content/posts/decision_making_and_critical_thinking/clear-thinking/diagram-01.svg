@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="423pt" height="324pt" viewBox="0.00 0.00 423.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Cognitive Biases: The Foundation of Clear Thinking</title><desc id="description">Cognitive Biases leads to Confirmation Bias. Cognitive Biases leads to Availability Heuristic. Cognitive Biases leads to Anchoring Bias. Cognitive Biases leads to Halo Effect. Cognitive Biases leads to Bandwagon Effect.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 405,-306 405,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.88,-164.1C119.48,-184.97 154.32,-217.28 190,-237 195.31,-239.93 200.93,-242.64 206.7,-245.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.11,-247.52 213.52,-247.93 207.98,-242.99 206.11,-247.52" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.08,-164.04C168.24,-170.37 191.73,-177.38 213.35,-183.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.88,-186.26 220.29,-185.92 214.29,-181.57 212.88,-186.26" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.15,-144C173.79,-144 190.26,-144 206.01,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.19,-146.45 213.19,-144 206.19,-141.55 206.19,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.08,-123.96C171.01,-116.81 197.92,-108.77 221.73,-101.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.68,-103.92 228.69,-99.57 221.28,-99.23 222.68,-103.92" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.88,-123.9C119.48,-103.03 154.32,-70.72 190,-51 195.31,-48.07 200.93,-45.36 206.7,-42.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="207.98,-45.01 213.52,-40.07 206.11,-40.48 207.98,-45.01" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-164C146,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 146,-124 146,-124 152,-124 158,-130 158,-136 158,-136 158,-152 158,-152 158,-158 152,-164 146,-164" />
+<text text-anchor="middle" x="79" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Biases</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M363,-288C363,-288 214,-288 214,-288 208,-288 202,-282 202,-276 202,-276 202,-260 202,-260 202,-254 208,-248 214,-248 214,-248 363,-248 363,-248 369,-248 375,-254 375,-260 375,-260 375,-276 375,-276 375,-282 369,-288 363,-288" />
+<text text-anchor="middle" x="288.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confirmation Bias</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375,-226C375,-226 202,-226 202,-226 196,-226 190,-220 190,-214 190,-214 190,-198 190,-198 190,-192 196,-186 202,-186 202,-186 375,-186 375,-186 381,-186 387,-192 387,-198 387,-198 387,-214 387,-214 387,-220 381,-226 375,-226" />
+<text text-anchor="middle" x="288.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Availability Heuristic</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351.5,-164C351.5,-164 225.5,-164 225.5,-164 219.5,-164 213.5,-158 213.5,-152 213.5,-152 213.5,-136 213.5,-136 213.5,-130 219.5,-124 225.5,-124 225.5,-124 351.5,-124 351.5,-124 357.5,-124 363.5,-130 363.5,-136 363.5,-136 363.5,-152 363.5,-152 363.5,-158 357.5,-164 351.5,-164" />
+<text text-anchor="middle" x="288.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anchoring Bias</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M336,-102C336,-102 241,-102 241,-102 235,-102 229,-96 229,-90 229,-90 229,-74 229,-74 229,-68 235,-62 241,-62 241,-62 336,-62 336,-62 342,-62 348,-68 348,-74 348,-74 348,-90 348,-90 348,-96 342,-102 336,-102" />
+<text text-anchor="middle" x="288.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Halo Effect</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M363.5,-40C363.5,-40 213.5,-40 213.5,-40 207.5,-40 201.5,-34 201.5,-28 201.5,-28 201.5,-12 201.5,-12 201.5,-6 207.5,0 213.5,0 213.5,0 363.5,0 363.5,0 369.5,0 375.5,-6 375.5,-12 375.5,-12 375.5,-28 375.5,-28 375.5,-34 369.5,-40 363.5,-40" />
+<text text-anchor="middle" x="288.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bandwagon Effect</text>
+</g>
+</g>
+</svg>

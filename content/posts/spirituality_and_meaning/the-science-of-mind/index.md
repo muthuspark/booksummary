@@ -14,12 +14,7 @@ Ernest Holmes' "The Science of Mind" isn't a rigid, rule-based system but a phil
 
 The book’s central premise rests on the idea of a universal Mind, a creative intelligence permeating all existence.  This Mind is not separate from us; it's the source of our own consciousness and the wellspring of all creation.  Holmes argues that by aligning our thinking with this universal Mind, we tap into its limitless power and potential.  This alignment is achieved through conscious thought and affirmation.
 
-```mermaid
-graph LR
-    A[Universal Mind] --> B(Individual Consciousness);
-    B --> C{Thought};
-    C --> D[Manifestation];
-```
+![Understanding the Mind's Power. Universal Mind; Individual Consciousness; Thought; Manifestation.](diagram-01.svg)
 
 ### The Law of Cause and Effect: Thought as Creation
 

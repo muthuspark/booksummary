@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292pt" height="424pt" viewBox="0.00 0.00 292.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Overcoming Challenges:  Design Thinking</title><desc id="description">Identify Problem leads to Prototype. Prototype leads to Feedback. Feedback leads to Refine (Positive). Feedback leads to Iterate (Negative). Refine leads to Launch/Improve. Iterate leads to Prototype.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 274,-406 274,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173,-347.97C173,-340.09 173,-330.82 173,-322.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="175.45,-322.08 173,-315.08 170.55,-322.08 175.45,-322.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.37,-274.7C150.55,-264.39 140.66,-251.35 131.47,-239.23" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.21,-237.47 127.03,-233.37 129.31,-240.43 133.21,-237.47" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M90.34,-167.13C88.12,-160.25 86.17,-152.97 85,-146 83.63,-137.82 83.24,-128.81 83.31,-120.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="85.76,-120.45 83.48,-113.39 80.86,-120.33 85.76,-120.45" />
+<text text-anchor="middle" x="112" y="-134" font-family="Georgia" font-size="15.00" fill="#405b50">Positive</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.25,-170.82C138.3,-157.35 152.11,-141.68 166,-129 170.38,-125 175.23,-121.05 180.13,-117.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.7,-119.21 185.86,-113.07 178.78,-115.27 181.7,-119.21" />
+<text text-anchor="middle" x="195.5" y="-134" font-family="Georgia" font-size="15.00" fill="#405b50">Negative</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M85,-72.97C85,-65.09 85,-55.82 85,-47.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="87.45,-47.08 85,-40.08 82.55,-47.08 87.45,-47.08" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.13,-113.01C223.73,-118.13 225.19,-123.71 226,-129 233.63,-178.74 238.53,-195.62 219,-242 214.74,-252.11 207.7,-261.6 200.39,-269.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.37,-268.2 195.32,-274.96 201.92,-271.58 198.37,-268.2" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M243,-388C243,-388 103,-388 103,-388 97,-388 91,-382 91,-376 91,-376 91,-360 91,-360 91,-354 97,-348 103,-348 103,-348 243,-348 243,-348 249,-348 255,-354 255,-360 255,-360 255,-376 255,-376 255,-382 249,-388 243,-388" />
+<text text-anchor="middle" x="173" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M214.5,-315C214.5,-315 131.5,-315 131.5,-315 125.5,-315 119.5,-309 119.5,-303 119.5,-303 119.5,-287 119.5,-287 119.5,-281 125.5,-275 131.5,-275 131.5,-275 214.5,-275 214.5,-275 220.5,-275 226.5,-281 226.5,-287 226.5,-287 226.5,-303 226.5,-303 226.5,-309 220.5,-315 214.5,-315" />
+<text text-anchor="middle" x="173" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototype</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="104,-242 0,-202 104,-162 208,-202 104,-242" />
+<text text-anchor="middle" x="104" y="-197.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113.5,-113C113.5,-113 56.5,-113 56.5,-113 50.5,-113 44.5,-107 44.5,-101 44.5,-101 44.5,-85 44.5,-85 44.5,-79 50.5,-73 56.5,-73 56.5,-73 113.5,-73 113.5,-73 119.5,-73 125.5,-79 125.5,-85 125.5,-85 125.5,-101 125.5,-101 125.5,-107 119.5,-113 113.5,-113" />
+<text text-anchor="middle" x="85" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refine</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244,-113C244,-113 186,-113 186,-113 180,-113 174,-107 174,-101 174,-101 174,-85 174,-85 174,-79 180,-73 186,-73 186,-73 244,-73 244,-73 250,-73 256,-79 256,-85 256,-85 256,-101 256,-101 256,-107 250,-113 244,-113" />
+<text text-anchor="middle" x="215" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iterate</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M155,-40C155,-40 15,-40 15,-40 9,-40 3,-34 3,-28 3,-28 3,-12 3,-12 3,-6 9,0 15,0 15,0 155,0 155,0 161,0 167,-6 167,-12 167,-12 167,-28 167,-28 167,-34 161,-40 155,-40" />
+<text text-anchor="middle" x="85" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Launch/Improve</text>
+</g>
+</g>
+</svg>

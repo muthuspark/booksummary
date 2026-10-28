@@ -22,16 +22,7 @@ The book heavily features the 4% rule, a widely accepted guideline suggesting yo
 
 Sabatier strongly advocates for diversifying income sources beyond a single job. He emphasizes the importance of side hustles and entrepreneurial ventures. These aren't merely supplementary; they are important for accelerating wealth accumulation and building a safety net. The book details how he built multiple income streams, ranging from freelance writing to online marketing. The key is to identify skills and passions that can be monetized.
 
-```mermaid
-graph LR
-    A[Main Job] --> B(Side Hustle 1);
-    A --> C(Side Hustle 2);
-    A --> D(Side Hustle 3);
-    B --> E{Savings & Investments};
-    C --> E;
-    D --> E;
-    E --> F[Financial Freedom];
-```
+![The Power of Side Hustles and Multiple Income Streams. Main Job; Side Hustle 1; Side Hustle 2; Side Hustle 3; Savings & Investments; Financial Freedom.](diagram-01.svg)
 
 ### Budgeting and Mindful Spending
 

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="474pt" height="262pt" viewBox="0.00 0.00 474.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Attachment Style</title><desc id="description">Secure leads to Healthy Relationships. Anxious-Preoccupied leads to Fear of Abandonment. Dismissive-Avoidant leads to Emotional Distance. Fearful-Avoidant leads to Inconsistent Behavior.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 456,-244 456,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.59,-20C164.76,-20 195.04,-20 224.69,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.8,-22.45 231.8,-20 224.8,-17.55 224.8,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.15,-82C208.85,-82 217.68,-82 226.44,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.45,-84.45 233.45,-82 226.45,-79.55 226.45,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196.78,-144C209.49,-144 222.54,-144 235.29,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.35,-146.45 242.35,-144 235.35,-141.55 235.35,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.82,-206C196.79,-206 211.5,-206 226.03,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.14,-208.45 233.14,-206 226.14,-203.55 226.14,-208.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M129.5,-40C129.5,-40 70.5,-40 70.5,-40 64.5,-40 58.5,-34 58.5,-28 58.5,-28 58.5,-12 58.5,-12 58.5,-6 64.5,0 70.5,0 70.5,0 129.5,0 129.5,0 135.5,0 141.5,-6 141.5,-12 141.5,-12 141.5,-28 141.5,-28 141.5,-34 135.5,-40 129.5,-40" />
+<text text-anchor="middle" x="100" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Secure</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M426,-40C426,-40 244,-40 244,-40 238,-40 232,-34 232,-28 232,-28 232,-12 232,-12 232,-6 238,0 244,0 244,0 426,0 426,0 432,0 438,-6 438,-12 438,-12 438,-28 438,-28 438,-34 432,-40 426,-40" />
+<text text-anchor="middle" x="335" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Relationships</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-102C188,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 188,-62 188,-62 194,-62 200,-68 200,-74 200,-74 200,-90 200,-90 200,-96 194,-102 188,-102" />
+<text text-anchor="middle" x="100" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anxious-Preoccupied</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M424.5,-102C424.5,-102 245.5,-102 245.5,-102 239.5,-102 233.5,-96 233.5,-90 233.5,-90 233.5,-74 233.5,-74 233.5,-68 239.5,-62 245.5,-62 245.5,-62 424.5,-62 424.5,-62 430.5,-62 436.5,-68 436.5,-74 436.5,-74 436.5,-90 436.5,-90 436.5,-96 430.5,-102 424.5,-102" />
+<text text-anchor="middle" x="335" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear of Abandonment</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184.5,-164C184.5,-164 15.5,-164 15.5,-164 9.5,-164 3.5,-158 3.5,-152 3.5,-152 3.5,-136 3.5,-136 3.5,-130 9.5,-124 15.5,-124 15.5,-124 184.5,-124 184.5,-124 190.5,-124 196.5,-130 196.5,-136 196.5,-136 196.5,-152 196.5,-152 196.5,-158 190.5,-164 184.5,-164" />
+<text text-anchor="middle" x="100" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dismissive-Avoidant</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M415.5,-164C415.5,-164 254.5,-164 254.5,-164 248.5,-164 242.5,-158 242.5,-152 242.5,-152 242.5,-136 242.5,-136 242.5,-130 248.5,-124 254.5,-124 254.5,-124 415.5,-124 415.5,-124 421.5,-124 427.5,-130 427.5,-136 427.5,-136 427.5,-152 427.5,-152 427.5,-158 421.5,-164 415.5,-164" />
+<text text-anchor="middle" x="335" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Distance</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170.5,-226C170.5,-226 29.5,-226 29.5,-226 23.5,-226 17.5,-220 17.5,-214 17.5,-214 17.5,-198 17.5,-198 17.5,-192 23.5,-186 29.5,-186 29.5,-186 170.5,-186 170.5,-186 176.5,-186 182.5,-192 182.5,-198 182.5,-198 182.5,-214 182.5,-214 182.5,-220 176.5,-226 170.5,-226" />
+<text text-anchor="middle" x="100" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fearful-Avoidant</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M424.5,-226C424.5,-226 245.5,-226 245.5,-226 239.5,-226 233.5,-220 233.5,-214 233.5,-214 233.5,-198 233.5,-198 233.5,-192 239.5,-186 245.5,-186 245.5,-186 424.5,-186 424.5,-186 430.5,-186 436.5,-192 436.5,-198 436.5,-198 436.5,-214 436.5,-214 436.5,-220 430.5,-226 424.5,-226" />
+<text text-anchor="middle" x="335" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inconsistent Behavior</text>
+</g>
+</g>
+</svg>

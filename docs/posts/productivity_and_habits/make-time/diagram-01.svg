@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="492pt" height="332pt" viewBox="0.00 0.00 492.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">The "Make Time" Framework:  A Step-by-Step Approach</title><desc id="description">Morning Routine leads to Highlight Selection. Highlight Selection leads to LaserFocus Strategies. LaserFocus Strategies leads to Evening Review. Evening Review leads to Morning Routine.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 474,-314 474,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M341.03,-255.87C326.58,-247.23 309.4,-236.95 294.27,-227.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.2,-225.6 287.93,-224.1 292.68,-229.8 295.2,-225.6" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M244.34,-183.91C239.01,-175.2 232.49,-164.52 226.13,-154.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.16,-152.74 222.42,-148.05 223.98,-155.3 228.16,-152.74" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M241.59,-79.77C256.61,-68.22 273.36,-55.33 287.35,-44.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="289.11,-46.32 293.16,-40.11 286.12,-42.43 289.11,-46.32" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M376.61,-40.06C390.99,-47.66 404.64,-58.02 413,-72 447.04,-128.91 411.18,-209.32 388.53,-249.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="386.37,-248.57 385.03,-255.86 390.63,-251 386.37,-248.57" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M444,-296C444,-296 302,-296 302,-296 296,-296 290,-290 290,-284 290,-284 290,-268 290,-268 290,-262 296,-256 302,-256 302,-256 444,-256 444,-256 450,-256 456,-262 456,-268 456,-268 456,-284 456,-284 456,-290 450,-296 444,-296" />
+<text text-anchor="middle" x="373" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Morning Routine</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M335,-224C335,-224 177,-224 177,-224 171,-224 165,-218 165,-212 165,-212 165,-196 165,-196 165,-190 171,-184 177,-184 177,-184 335,-184 335,-184 341,-184 347,-190 347,-196 347,-196 347,-212 347,-212 347,-218 341,-224 335,-224" />
+<text text-anchor="middle" x="256" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Highlight Selection</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="201,-152 0,-112 201,-72 402,-112 201,-152" />
+<text text-anchor="middle" x="201" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">LaserFocus Strategies</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M384.5,-40C384.5,-40 251.5,-40 251.5,-40 245.5,-40 239.5,-34 239.5,-28 239.5,-28 239.5,-12 239.5,-12 239.5,-6 245.5,0 251.5,0 251.5,0 384.5,0 384.5,0 390.5,0 396.5,-6 396.5,-12 396.5,-12 396.5,-28 396.5,-28 396.5,-34 390.5,-40 384.5,-40" />
+<text text-anchor="middle" x="318" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evening Review</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="532pt" height="220pt" viewBox="0.00 0.00 531.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">The Dopamine System and its Feedback Loops</title><desc id="description">Positive Experience leads to Dopamine Release. Dopamine Release leads to Reinforced Behavior. Reinforced Behavior leads to Positive Experience. Negative Experience leads to Dopamine Dip. Dopamine Dip leads to Seeking Behavior. Seeking Behavior leads to Negative Experience.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 513.5,-202 513.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M153.68,-143.87C142.99,-135.46 130.32,-125.5 119.04,-116.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="120.31,-114.51 113.29,-112.1 117.28,-118.36 120.31,-114.51" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.86,-71.87C120.38,-63.54 131.65,-53.68 141.72,-44.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="143.51,-46.56 147.17,-40.1 140.28,-42.87 143.51,-46.56" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.56,-40.35C182.65,-49.67 186.95,-61.16 189,-72 193.1,-93.67 189.53,-118.55 185.4,-136.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183,-136.33 183.75,-143.71 187.76,-137.48 183,-136.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M389.98,-143.87C386.34,-136.16 382.09,-127.13 378.19,-118.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="380.21,-117.39 375.01,-112.1 375.78,-119.48 380.21,-117.39" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M377.48,-71.87C382.2,-64 387.74,-54.77 392.79,-46.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="395.04,-47.37 396.54,-40.1 390.83,-44.85 395.04,-47.37" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M429.24,-40.26C437.39,-49.04 445.74,-60.12 450,-72 456,-88.73 456.8,-95.58 450,-112 445.83,-122.06 438.62,-131.17 430.9,-138.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="428.94,-137.29 425.51,-143.86 432.29,-140.86 428.94,-137.29" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M259,-184C259,-184 97,-184 97,-184 91,-184 85,-178 85,-172 85,-172 85,-156 85,-156 85,-150 91,-144 97,-144 97,-144 259,-144 259,-144 265,-144 271,-150 271,-156 271,-156 271,-172 271,-172 271,-178 265,-184 259,-184" />
+<text text-anchor="middle" x="178" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Experience</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166,-112C166,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 166,-72 166,-72 172,-72 178,-78 178,-84 178,-84 178,-100 178,-100 178,-106 172,-112 166,-112" />
+<text text-anchor="middle" x="89" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dopamine Release</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M254,-40C254,-40 84,-40 84,-40 78,-40 72,-34 72,-28 72,-28 72,-12 72,-12 72,-6 78,0 84,0 84,0 254,0 254,0 260,0 266,-6 266,-12 266,-12 266,-28 266,-28 266,-34 260,-40 254,-40" />
+<text text-anchor="middle" x="169" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reinforced Behavior</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M483.5,-184C483.5,-184 314.5,-184 314.5,-184 308.5,-184 302.5,-178 302.5,-172 302.5,-172 302.5,-156 302.5,-156 302.5,-150 308.5,-144 314.5,-144 314.5,-144 483.5,-144 483.5,-144 489.5,-144 495.5,-150 495.5,-156 495.5,-156 495.5,-172 495.5,-172 495.5,-178 489.5,-184 483.5,-184" />
+<text text-anchor="middle" x="399" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Experience</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M427,-112C427,-112 305,-112 305,-112 299,-112 293,-106 293,-100 293,-100 293,-84 293,-84 293,-78 299,-72 305,-72 305,-72 427,-72 427,-72 433,-72 439,-78 439,-84 439,-84 439,-100 439,-100 439,-106 433,-112 427,-112" />
+<text text-anchor="middle" x="366" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dopamine Dip</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M479.5,-40C479.5,-40 336.5,-40 336.5,-40 330.5,-40 324.5,-34 324.5,-28 324.5,-28 324.5,-12 324.5,-12 324.5,-6 330.5,0 336.5,0 336.5,0 479.5,0 479.5,0 485.5,0 491.5,-6 491.5,-12 491.5,-12 491.5,-28 491.5,-28 491.5,-34 485.5,-40 479.5,-40" />
+<text text-anchor="middle" x="408" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeking Behavior</text>
+</g>
+</g>
+</svg>

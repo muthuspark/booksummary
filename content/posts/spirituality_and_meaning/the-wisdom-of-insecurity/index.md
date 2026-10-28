@@ -14,14 +14,7 @@ Alan Watts' "The Wisdom of Insecurity" isn't a self-help book in the conventiona
 
 Watts dismantles the conventional Western notion of the self as a separate, independent entity. He argues that this "ego," this feeling of being a distinct individual, is an illusion, a construct of the mind. This illusion, he claims, is the root of our anxieties and struggles.  We cling to this illusory self, fearing loss and striving for permanence, leading to a constant state of dissatisfaction.
 
-```mermaid
-graph LR
-    A["Illusion of Self (Ego)"] --> B(Anxiety & Suffering);
-    A --> C(Desire for Permanence);
-    C --> B;
-    A --> D(Fear of Loss);
-    D --> B;
-```
+![The Myth of the Ego. Illusion of Self (Ego); Anxiety & Suffering; Desire for Permanence; Fear of Loss.](diagram-01.svg)
 
 ## Embracing Impermanence
 
@@ -64,14 +57,7 @@ Watts' advice isn't easily packaged into a simple list of steps. His advice is m
 * **Living in the Present:**  Focus on the here and now, rather than dwelling on the past or worrying about the future.
 
 
-```mermaid
-graph LR
-    A[Mindfulness] --> B(Reduced Anxiety);
-    C[Acceptance] --> B;
-    D[Surrender] --> B;
-    E[Open-mindedness] --> F(Greater Adaptability);
-    G[Present Moment Focus] --> B;
-```
+![Actionable Takeaways from "The Wisdom of Insecurity. Mindfulness; Reduced Anxiety; Acceptance; Surrender; Open-mindedness; Greater Adaptability; Present Moment Focus.](diagram-02.svg)
 
 
 

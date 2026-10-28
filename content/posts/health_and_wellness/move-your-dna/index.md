@@ -116,26 +116,7 @@ The book emphasizes practical application. Here's a summarized action plan based
 
 ##  Visualizing the Transformation
 
-```mermaid
-graph LR
-    A[Sedentary Lifestyle] --> B(Musculoskeletal Problems);
-    A --> C(Metabolic Issues);
-    A --> D(Poor Posture);
-    A --> E(Decreased Cognitive Function);
-    
-    F[Natural Movement] --> G(Improved Physical Health);
-    F --> H(Enhanced Mental Well-being);
-    F --> I(Increased Energy Levels);
-    F --> J(Improved Sleep Quality);
-    F --> K(Reduced Risk of Chronic Diseases);
-
-    subgraph "Transformation"
-        B --> F;
-        C --> F;
-        D --> F;
-        E --> F;
-    end
-```
+![Visualizing the Transformation. Sedentary Lifestyle; Musculoskeletal Problems; Metabolic Issues; Poor Posture; Decreased Cognitive Function; Natural Movement; Improved Physical Health; Enhanced Mental Well-being; Increased Energy Levels; Improved Sleep Quality; Reduced Risk of Chronic Diseases.](diagram-01.svg)
 
 This diagram illustrates the transformation from a sedentary lifestyle to one that incorporates natural movement, highlighting the shift from negative health outcomes to positive ones.  The core message is clear:  moving your DNA isn't just about physical fitness; it's about reclaiming your health and well-being by aligning your lifestyle with your evolutionary design.
 

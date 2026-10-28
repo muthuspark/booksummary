@@ -15,11 +15,7 @@ Metcalf's "Marriage and Family Therapy" emphasizes an approach that understands 
 
 A core concept is the shift from linear to circular causality. Linear causality suggests a simple cause-and-effect relationship (A causes B). However, therapy emphasizes circular causality, where actions and reactions create a continuous feedback loop. For example, a child's misbehavior (A) might be a response to parental conflict (B), which is in turn exacerbated by the child's misbehavior (A). Understanding this cyclical nature is important for effective intervention.
 
-```mermaid
-graph LR
-A[Child's Misbehavior] --> B(Parental Conflict)
-B --> A
-```
+![Circular Causality vs. Linear Causality. Child's Misbehavior; Parental Conflict.](diagram-01.svg)
 
 ## Key Therapeutic Techniques
 

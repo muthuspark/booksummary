@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="566pt" height="300pt" viewBox="0.00 0.00 565.50 300.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Conflict: The Art of the Bid</title><desc id="description">Positive Response leads to Increased Connection. Ignored Bid leads to Emotional Distance. Increased Connection leads to Sound Relationship House. Emotional Distance leads to Conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 282)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-282 547.5,-282 547.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-223.87C185,-216.31 185,-207.49 185,-199.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-199.1 185,-192.1 182.55,-199.1 187.45,-199.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-151.84C185,-144.75 185,-136.25 185,-127.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-127.12 185,-120.12 182.55,-127.12 187.45,-127.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M437,-223.87C437,-216.31 437,-207.49 437,-199.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="439.45,-199.1 437,-192.1 434.55,-199.1 439.45,-199.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M437,-151.84C437,-134.05 437,-107.39 437,-87.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="439.45,-87.31 437,-80.31 434.55,-87.31 439.45,-87.31" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M259.5,-264C259.5,-264 110.5,-264 110.5,-264 104.5,-264 98.5,-258 98.5,-252 98.5,-252 98.5,-236 98.5,-236 98.5,-230 104.5,-224 110.5,-224 110.5,-224 259.5,-224 259.5,-224 265.5,-224 271.5,-230 271.5,-236 271.5,-236 271.5,-252 271.5,-252 271.5,-258 265.5,-264 259.5,-264" />
+<text text-anchor="middle" x="185" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Response</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M274,-192C274,-192 96,-192 96,-192 90,-192 84,-186 84,-180 84,-180 84,-164 84,-164 84,-158 90,-152 96,-152 96,-152 274,-152 274,-152 280,-152 286,-158 286,-164 286,-164 286,-180 286,-180 286,-186 280,-192 274,-192" />
+<text text-anchor="middle" x="185" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Connection</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M487,-264C487,-264 387,-264 387,-264 381,-264 375,-258 375,-252 375,-252 375,-236 375,-236 375,-230 381,-224 387,-224 387,-224 487,-224 487,-224 493,-224 499,-230 499,-236 499,-236 499,-252 499,-252 499,-258 493,-264 487,-264" />
+<text text-anchor="middle" x="437" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ignored Bid</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M517.5,-192C517.5,-192 356.5,-192 356.5,-192 350.5,-192 344.5,-186 344.5,-180 344.5,-180 344.5,-164 344.5,-164 344.5,-158 350.5,-152 356.5,-152 356.5,-152 517.5,-152 517.5,-152 523.5,-152 529.5,-158 529.5,-164 529.5,-164 529.5,-180 529.5,-180 529.5,-186 523.5,-192 517.5,-192" />
+<text text-anchor="middle" x="437" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Distance</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-120 0,-60 185,0 370,-60 185,-120" />
+<text text-anchor="middle" x="185" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sound Relationship</text>
+<text text-anchor="middle" x="185" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">House</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M470.5,-80C470.5,-80 403.5,-80 403.5,-80 397.5,-80 391.5,-74 391.5,-68 391.5,-68 391.5,-52 391.5,-52 391.5,-46 397.5,-40 403.5,-40 403.5,-40 470.5,-40 470.5,-40 476.5,-40 482.5,-46 482.5,-52 482.5,-52 482.5,-68 482.5,-68 482.5,-74 476.5,-80 470.5,-80" />
+<text text-anchor="middle" x="437" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="577pt" height="262pt" viewBox="0.00 0.00 577.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Cognitive Biases: The Enemy Within</title><desc id="description">Cognitive Biases leads to Confirmation Bias. Cognitive Biases leads to Anchoring Bias. Cognitive Biases leads to Availability Heuristic. Cognitive Biases leads to Bandwagon Effect. Bandwagon Effect leads to Groupthink.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 559,-244 559,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.83,-133.25C133.33,-146.35 162.66,-163.1 190,-175 196.92,-178.01 204.23,-180.88 211.61,-183.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.98,-185.94 218.39,-185.98 212.62,-181.32 210.98,-185.94" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.15,-124.68C173.79,-127.01 190.26,-129.47 206.01,-131.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.91,-134.29 213.19,-132.9 206.63,-129.44 205.91,-134.29" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.15,-101.32C166.23,-100.12 174.53,-98.88 182.83,-97.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183.25,-100.05 189.81,-96.59 182.52,-95.21 183.25,-100.05" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.83,-92.75C133.33,-79.65 162.66,-62.9 190,-51 196.92,-47.99 204.23,-45.12 211.61,-42.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.62,-44.68 218.39,-40.02 210.98,-40.06 212.62,-44.68" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M375.66,-20C387.72,-20 399.97,-20 411.62,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="411.79,-22.45 418.79,-20 411.79,-17.55 411.79,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-133C146,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 146,-93 146,-93 152,-93 158,-99 158,-105 158,-105 158,-121 158,-121 158,-127 152,-133 146,-133" />
+<text text-anchor="middle" x="79" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Biases</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M363,-226C363,-226 214,-226 214,-226 208,-226 202,-220 202,-214 202,-214 202,-198 202,-198 202,-192 208,-186 214,-186 214,-186 363,-186 363,-186 369,-186 375,-192 375,-198 375,-198 375,-214 375,-214 375,-220 369,-226 363,-226" />
+<text text-anchor="middle" x="288.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confirmation Bias</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351.5,-164C351.5,-164 225.5,-164 225.5,-164 219.5,-164 213.5,-158 213.5,-152 213.5,-152 213.5,-136 213.5,-136 213.5,-130 219.5,-124 225.5,-124 225.5,-124 351.5,-124 351.5,-124 357.5,-124 363.5,-130 363.5,-136 363.5,-136 363.5,-152 363.5,-152 363.5,-158 357.5,-164 351.5,-164" />
+<text text-anchor="middle" x="288.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anchoring Bias</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375,-102C375,-102 202,-102 202,-102 196,-102 190,-96 190,-90 190,-90 190,-74 190,-74 190,-68 196,-62 202,-62 202,-62 375,-62 375,-62 381,-62 387,-68 387,-74 387,-74 387,-90 387,-90 387,-96 381,-102 375,-102" />
+<text text-anchor="middle" x="288.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Availability Heuristic</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363.5,-40C363.5,-40 213.5,-40 213.5,-40 207.5,-40 201.5,-34 201.5,-28 201.5,-28 201.5,-12 201.5,-12 201.5,-6 207.5,0 213.5,0 213.5,0 363.5,0 363.5,0 369.5,0 375.5,-6 375.5,-12 375.5,-12 375.5,-28 375.5,-28 375.5,-34 369.5,-40 363.5,-40" />
+<text text-anchor="middle" x="288.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bandwagon Effect</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M529,-40C529,-40 431,-40 431,-40 425,-40 419,-34 419,-28 419,-28 419,-12 419,-12 419,-6 425,0 431,0 431,0 529,0 529,0 535,0 541,-6 541,-12 541,-12 541,-28 541,-28 541,-34 535,-40 529,-40" />
+<text text-anchor="middle" x="480" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Groupthink</text>
+</g>
+</g>
+</svg>

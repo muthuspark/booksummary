@@ -38,19 +38,7 @@ Several strategies can help improve decision-making by enhancing System 2's invo
 * **Framing Effects Mitigation:** Understand that the way information is presented can affect your choices. Reframe problems to reduce bias.
 * **Considering Base Rates:** Remember to account for general probabilities when assessing specific situations (e.g., considering the overall success rate of a treatment before making a decision).
 
-```mermaid
-graph TD
-    A[Awareness of Biases] --> B(Slowing Down);
-    A --> C(Seeking Diverse Perspectives);
-    A --> D(Using Checklists);
-    A --> E(Framing Effects Mitigation);
-    A --> F(Considering Base Rates);
-    B --> G[Better Decision-Making];
-    C --> G;
-    D --> G;
-    E --> G;
-    F --> G;
-```
+![Strategies for Better Decision-Making. Awareness of Biases; Slowing Down; Seeking Diverse Perspectives; Using Checklists; Framing Effects Mitigation; Considering Base Rates; Better Decision-Making.](diagram-01.svg)
 
 #  Overcoming Cognitive Illusions
 

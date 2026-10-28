@@ -10,13 +10,7 @@ author: "Julia B. Colwell"
 
 The book begins by emphasizing the role of attachment style in shaping relationship dynamics.  Colwell explains the four main attachment styles: secure, anxious-preoccupied, dismissive-avoidant, and fearful-avoidant. Understanding your own attachment style, and that of your partner, is the first step towards building healthier relationships.  This self-awareness allows for more empathy and realistic expectations.
 
-```mermaid
-graph LR
-    A[Secure] --> B(Healthy Relationships)
-    C[Anxious-Preoccupied] --> D(Fear of Abandonment)
-    E[Dismissive-Avoidant] --> F(Emotional Distance)
-    G[Fearful-Avoidant] --> H(Inconsistent Behavior)
-```
+![Understanding Your Attachment Style. Secure; Healthy Relationships; Anxious-Preoccupied; Fear of Abandonment; Dismissive-Avoidant; Emotional Distance; Fearful-Avoidant; Inconsistent Behavior.](diagram-01.svg)
 
 The workbook provides self-assessment tools to help readers identify their primary attachment style.  Recognizing patterns of behavior stemming from your attachment style is key to breaking unhealthy cycles.
 

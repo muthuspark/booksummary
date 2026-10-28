@@ -21,16 +21,7 @@ Techniques for identifying your values include:
 * **Values clarification exercises:** Many online resources and workbooks offer structured exercises to help you prioritize your values.
 * **Observing your actions:**  Your actions often reveal your unconscious values more accurately than your thoughts.  What do you spend your time and energy on?
 
-```mermaid
-graph LR
-    A[Identify Values] --> B(Reflection);
-    A --> C(Values Clarification Exercises);
-    A --> D(Observe Your Actions);
-    B --> E[Understand Priorities];
-    C --> E;
-    D --> E;
-    E --> F[Align Choices with Values];
-```
+![Understanding Your Values. Identify Values; Reflection; Values Clarification Exercises; Observe Your Actions; Understand Priorities; Align Choices with Values.](diagram-01.svg)
 
 
 ## Recognizing Your Strengths and Weaknesses

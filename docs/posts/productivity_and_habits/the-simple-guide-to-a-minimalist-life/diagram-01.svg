@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586pt" height="332pt" viewBox="0.00 0.00 586.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Decluttering Your Physical Space: The Starting Point</title><desc id="description">Identify Clutter leads to Ask: Need/Joy?. Ask: Need/Joy? leads to Keep. Ask: Need/Joy? leads to Donate/Sell/Discard. Keep leads to Organized Space. Donate/Sell/Discard leads to Organized Space.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 568,-314 568,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M213,-255.87C213,-248.31 213,-239.49 213,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.45,-231.1 213,-224.1 210.55,-231.1 215.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.67,-183.91C161.07,-170.32 131.87,-151.94 108.61,-137.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="109.75,-135.12 102.52,-133.47 107.14,-139.27 109.75,-135.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M243.33,-183.91C260.64,-173.02 282.83,-159.05 302.94,-146.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="304.49,-148.31 309.11,-142.51 301.88,-144.17 304.49,-148.31" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.81,-90.35C124.91,-76.44 154.07,-58.09 176.84,-43.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.17,-45.82 182.79,-40.02 175.56,-41.67 178.17,-45.82" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M309.18,-81.53C289.71,-69.28 267.46,-55.28 249.27,-43.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="250.5,-41.7 243.27,-40.05 247.89,-45.85 250.5,-41.7" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M277,-296C277,-296 149,-296 149,-296 143,-296 137,-290 137,-284 137,-284 137,-268 137,-268 137,-262 143,-256 149,-256 149,-256 277,-256 277,-256 283,-256 289,-262 289,-268 289,-268 289,-284 289,-284 289,-290 283,-296 277,-296" />
+<text text-anchor="middle" x="213" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Clutter</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278.5,-224C278.5,-224 147.5,-224 147.5,-224 141.5,-224 135.5,-218 135.5,-212 135.5,-212 135.5,-196 135.5,-196 135.5,-190 141.5,-184 147.5,-184 147.5,-184 278.5,-184 278.5,-184 284.5,-184 290.5,-190 290.5,-196 290.5,-196 290.5,-212 290.5,-212 290.5,-218 284.5,-224 278.5,-224" />
+<text text-anchor="middle" x="213" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ask: Need/Joy?</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="70,-152 0,-112 70,-72 140,-112 70,-152" />
+<text text-anchor="middle" x="70" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Keep</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="356,-152 162,-112 356,-72 550,-112 356,-152" />
+<text text-anchor="middle" x="356" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Donate/Sell/Discard</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M282,-40C282,-40 144,-40 144,-40 138,-40 132,-34 132,-28 132,-28 132,-12 132,-12 132,-6 138,0 144,0 144,0 282,0 282,0 288,0 294,-6 294,-12 294,-12 294,-28 294,-28 294,-34 288,-40 282,-40" />
+<text text-anchor="middle" x="213" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Organized Space</text>
+</g>
+</g>
+</svg>

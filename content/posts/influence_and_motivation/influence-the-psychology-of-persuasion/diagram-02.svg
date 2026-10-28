@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272pt" height="240pt" viewBox="0.00 0.00 272.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">Commitment and Consistency: The Drive for Self-Image</title><desc id="description">Small Commitment leads to Increased Consistency. Increased Consistency leads to Larger Commitment/Compliance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 254,-222 254,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M118,-163.87C118,-156.31 118,-147.49 118,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="120.45,-139.1 118,-132.1 115.55,-139.1 120.45,-139.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M118,-91.63C118,-84.34 118,-75.78 118,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="120.45,-67.19 118,-60.19 115.55,-67.19 120.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197.5,-204C197.5,-204 38.5,-204 38.5,-204 32.5,-204 26.5,-198 26.5,-192 26.5,-192 26.5,-176 26.5,-176 26.5,-170 32.5,-164 38.5,-164 38.5,-164 197.5,-164 197.5,-164 203.5,-164 209.5,-170 209.5,-176 209.5,-176 209.5,-192 209.5,-192 209.5,-198 203.5,-204 197.5,-204" />
+<text text-anchor="middle" x="118" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Small Commitment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-132C209,-132 27,-132 27,-132 21,-132 15,-126 15,-120 15,-120 15,-104 15,-104 15,-98 21,-92 27,-92 27,-92 209,-92 209,-92 215,-92 221,-98 221,-104 221,-104 221,-120 221,-120 221,-126 215,-132 209,-132" />
+<text text-anchor="middle" x="118" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Consistency</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M224,-60C224,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 224,0 224,0 230,0 236,-6 236,-12 236,-12 236,-48 236,-48 236,-54 230,-60 224,-60" />
+<text text-anchor="middle" x="118" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Larger</text>
+<text text-anchor="middle" x="118" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commitment/Compliance</text>
+</g>
+</g>
+</svg>

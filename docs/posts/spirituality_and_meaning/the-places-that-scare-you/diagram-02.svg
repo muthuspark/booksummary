@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="257pt" height="384pt" viewBox="0.00 0.00 257.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">The Path to Freedom</title><desc id="description">Fear leads to Acceptance. Acceptance leads to Present Moment Awareness. Present Moment Awareness leads to Compassion &amp; Kindness. Compassion &amp; Kindness leads to Freedom &amp; Peace.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 239,-366 239,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.5,-307.87C110.5,-300.31 110.5,-291.49 110.5,-283.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.95,-283.1 110.5,-276.1 108.05,-283.1 112.95,-283.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.5,-235.63C110.5,-228.34 110.5,-219.78 110.5,-211.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.95,-211.19 110.5,-204.19 108.05,-211.19 112.95,-211.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.5,-143.67C110.5,-135.77 110.5,-127.28 110.5,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.95,-119.12 110.5,-112.12 108.05,-119.12 112.95,-119.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.5,-71.87C110.5,-64.31 110.5,-55.49 110.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.95,-47.1 110.5,-40.1 108.05,-47.1 112.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M131,-348C131,-348 90,-348 90,-348 84,-348 78,-342 78,-336 78,-336 78,-320 78,-320 78,-314 84,-308 90,-308 90,-308 131,-308 131,-308 137,-308 143,-314 143,-320 143,-320 143,-336 143,-336 143,-342 137,-348 131,-348" />
+<text text-anchor="middle" x="110.5" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158,-276C158,-276 63,-276 63,-276 57,-276 51,-270 51,-264 51,-264 51,-248 51,-248 51,-242 57,-236 63,-236 63,-236 158,-236 158,-236 164,-236 170,-242 170,-248 170,-248 170,-264 170,-264 170,-270 164,-276 158,-276" />
+<text text-anchor="middle" x="110.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M179,-204C179,-204 42,-204 42,-204 36,-204 30,-198 30,-192 30,-192 30,-156 30,-156 30,-150 36,-144 42,-144 42,-144 179,-144 179,-144 185,-144 191,-150 191,-156 191,-156 191,-192 191,-192 191,-198 185,-204 179,-204" />
+<text text-anchor="middle" x="110.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+<text text-anchor="middle" x="110.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awareness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-112C209,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 209,-72 209,-72 215,-72 221,-78 221,-84 221,-84 221,-100 221,-100 221,-106 215,-112 209,-112" />
+<text text-anchor="middle" x="110.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compassion &amp; Kindness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M183,-40C183,-40 38,-40 38,-40 32,-40 26,-34 26,-28 26,-28 26,-12 26,-12 26,-6 32,0 38,0 38,0 183,0 183,0 189,0 195,-6 195,-12 195,-12 195,-28 195,-28 195,-34 189,-40 183,-40" />
+<text text-anchor="middle" x="110.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Freedom &amp; Peace</text>
+</g>
+</g>
+</svg>

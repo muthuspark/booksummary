@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390pt" height="352pt" viewBox="0.00 0.00 390.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">The Mind-Body Connection: Stress and Telomeres</title><desc id="description">Chronic Stress leads to Increased Inflammation. Increased Inflammation leads to Shorter Telomeres. Shorter Telomeres leads to Increased Risk of Disease.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 372,-334 372,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177,-275.87C177,-268.31 177,-259.49 177,-251.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="179.45,-251.1 177,-244.1 174.55,-251.1 179.45,-251.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177,-203.91C177,-196.58 177,-187.86 177,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="179.45,-179.07 177,-172.07 174.55,-179.07 179.45,-179.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177,-91.76C177,-83.72 177,-75.29 177,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="179.45,-67.23 177,-60.23 174.55,-67.23 179.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M236.5,-316C236.5,-316 117.5,-316 117.5,-316 111.5,-316 105.5,-310 105.5,-304 105.5,-304 105.5,-288 105.5,-288 105.5,-282 111.5,-276 117.5,-276 117.5,-276 236.5,-276 236.5,-276 242.5,-276 248.5,-282 248.5,-288 248.5,-288 248.5,-304 248.5,-304 248.5,-310 242.5,-316 236.5,-316" />
+<text text-anchor="middle" x="177" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronic Stress</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M275.5,-244C275.5,-244 78.5,-244 78.5,-244 72.5,-244 66.5,-238 66.5,-232 66.5,-232 66.5,-216 66.5,-216 66.5,-210 72.5,-204 78.5,-204 78.5,-204 275.5,-204 275.5,-204 281.5,-204 287.5,-210 287.5,-216 287.5,-216 287.5,-232 287.5,-232 287.5,-238 281.5,-244 275.5,-244" />
+<text text-anchor="middle" x="177" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Inflammation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="177,-172 0,-132 177,-92 354,-132 177,-172" />
+<text text-anchor="middle" x="177" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shorter Telomeres</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M248.5,-60C248.5,-60 105.5,-60 105.5,-60 99.5,-60 93.5,-54 93.5,-48 93.5,-48 93.5,-12 93.5,-12 93.5,-6 99.5,0 105.5,0 105.5,0 248.5,0 248.5,0 254.5,0 260.5,-6 260.5,-12 260.5,-12 260.5,-48 260.5,-48 260.5,-54 254.5,-60 248.5,-60" />
+<text text-anchor="middle" x="177" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Risk of</text>
+<text text-anchor="middle" x="177" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disease</text>
+</g>
+</g>
+</svg>

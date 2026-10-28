@@ -14,13 +14,7 @@ John Gottman's "What Makes Love Last?" presents a detailed model for building an
 
 The foundation of any lasting relationship is built on trust and commitment.  This isn't a passive state; it's actively cultivated through consistent actions and shared values.  Gottman emphasizes the importance of building friendship and shared meaning within the relationship.  This goes beyond romantic love; it encompasses genuine companionship and shared interests.
 
-```mermaid
-graph LR
-    A[Trust & Commitment] --> B(Friendship);
-    A --> C(Shared Meaning);
-    B --> D{Sound Relationship House};
-    C --> D;
-```
+![The Building Blocks: Trust and Commitment. Trust & Commitment; Friendship; Shared Meaning; Sound Relationship House.](diagram-01.svg)
 
 # Shared Meaning: Creating a Shared Life
 
@@ -30,13 +24,7 @@ Creating shared meaning involves understanding each other's dreams, aspirations,
 
 Gottman highlights the importance of responding to each other's "bids" for connection.  A bid is any attempt to connect, whether it's a simple question, a shared observation, or a request for attention.  Responding positively to these bids fosters a sense of emotional connection and understanding. Ignoring bids, on the other hand, creates a distance that can be hard to bridge.
 
-```mermaid
-graph LR
-    A[Positive Response] --> B(Increased Connection);
-    C[Ignored Bid] --> D(Emotional Distance);
-    B --> E{Sound Relationship House};
-    D --> F(Conflict);
-```
+![Managing Conflict: The Art of the Bid. Positive Response; Increased Connection; Ignored Bid; Emotional Distance; Sound Relationship House; Conflict.](diagram-02.svg)
 
 
 # The Four Horsemen of the Apocalypse
@@ -79,15 +67,7 @@ Gottman emphasizes the importance of accepting your partner's flaws and imperfec
 
 Gottman stresses the significance of "turning towards" each other in everyday moments. This involves actively responding to your partner's bids for attention and connection, even in small ways.  Turning away or turning against these bids contributes to feelings of disconnection and isolation.
 
-```mermaid
-graph LR
-    A[Bid for Connection] --> B{Turn Towards};
-    B --> C(Positive Connection);
-    A --> D{Turn Away};
-    D --> E(Disconnection);
-    A --> F{Turn Against};
-    F --> G(Conflict);
-```
+![Turning Towards Each Other:  Nurturing Emotional Responsiveness. Bid for Connection; Turn Towards; Positive Connection; Turn Away; Disconnection; Turn Against; Conflict.](diagram-03.svg)
 
 # Long Term Vision: Maintaining the Foundation
 

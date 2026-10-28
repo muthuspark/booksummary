@@ -27,14 +27,7 @@ Brown details a five-stage process that forms the backbone of design thinking:
 * **Test:**  Gather feedback on your prototypes from your target users,  allowing you to refine your solutions and identify areas for improvement.
 
 
-```mermaid
-graph LR
-A[Empathize] --> B(Define);
-B --> C{Ideate};
-C --> D[Prototype];
-D --> E(Test);
-E --> B;
-```
+![The Design Process: A Human-Centered Approach. Empathize; Define; Ideate; Prototype; Test.](diagram-01.svg)
 
 This cyclical process, as illustrated above, isn't linear. It's iterative; you might loop back to earlier stages based on the feedback you receive during testing.
 

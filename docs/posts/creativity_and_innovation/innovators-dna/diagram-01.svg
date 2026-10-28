@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="332pt" height="324pt" viewBox="0.00 0.00 332.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">The Five Discovery Skills</title><desc id="description">Associating leads to Innovation. Questioning leads to Innovation. Observing leads to Innovation. Networking leads to Innovation. Experimenting leads to Innovation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 314,-306 314,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.35,-247.88C135.85,-244.62 142.22,-240.99 148,-237 175.23,-218.19 200.74,-190.03 217.4,-169.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.38,-171.07 221.86,-164.09 215.56,-168 219.38,-171.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.6,-185.87C143.6,-179.74 161.3,-172.97 177.72,-166.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="179.01,-168.82 184.67,-164.03 177.25,-164.24 179.01,-168.82" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.39,-144C143.38,-144 158.55,-144 172.97,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.98,-146.45 179.98,-144 172.98,-141.55 172.98,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.6,-102.13C143.6,-108.26 161.3,-115.03 177.72,-121.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.25,-123.76 184.67,-123.97 179.01,-119.18 177.25,-123.76" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.35,-40.12C135.85,-43.38 142.22,-47.01 148,-51 175.23,-69.81 200.74,-97.97 217.4,-118.38" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.56,-120 221.86,-123.91 219.38,-116.93 215.56,-120" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M121.5,-288C121.5,-288 26.5,-288 26.5,-288 20.5,-288 14.5,-282 14.5,-276 14.5,-276 14.5,-260 14.5,-260 14.5,-254 20.5,-248 26.5,-248 26.5,-248 121.5,-248 121.5,-248 127.5,-248 133.5,-254 133.5,-260 133.5,-260 133.5,-276 133.5,-276 133.5,-282 127.5,-288 121.5,-288" />
+<text text-anchor="middle" x="74" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Associating</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M284,-164C284,-164 192,-164 192,-164 186,-164 180,-158 180,-152 180,-152 180,-136 180,-136 180,-130 186,-124 192,-124 192,-124 284,-124 284,-124 290,-124 296,-130 296,-136 296,-136 296,-152 296,-152 296,-158 290,-164 284,-164" />
+<text text-anchor="middle" x="238" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M124.5,-226C124.5,-226 23.5,-226 23.5,-226 17.5,-226 11.5,-220 11.5,-214 11.5,-214 11.5,-198 11.5,-198 11.5,-192 17.5,-186 23.5,-186 23.5,-186 124.5,-186 124.5,-186 130.5,-186 136.5,-192 136.5,-198 136.5,-198 136.5,-214 136.5,-214 136.5,-220 130.5,-226 124.5,-226" />
+<text text-anchor="middle" x="74" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Questioning</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M117,-164C117,-164 31,-164 31,-164 25,-164 19,-158 19,-152 19,-152 19,-136 19,-136 19,-130 25,-124 31,-124 31,-124 117,-124 117,-124 123,-124 129,-130 129,-136 129,-136 129,-152 129,-152 129,-158 123,-164 117,-164" />
+<text text-anchor="middle" x="74" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Observing</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M123,-102C123,-102 25,-102 25,-102 19,-102 13,-96 13,-90 13,-90 13,-74 13,-74 13,-68 19,-62 25,-62 25,-62 123,-62 123,-62 129,-62 135,-68 135,-74 135,-74 135,-90 135,-90 135,-96 129,-102 123,-102" />
+<text text-anchor="middle" x="74" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Networking</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M136,-40C136,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 136,0 136,0 142,0 148,-6 148,-12 148,-12 148,-28 148,-28 148,-34 142,-40 136,-40" />
+<text text-anchor="middle" x="74" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Experimenting</text>
+</g>
+</g>
+</svg>

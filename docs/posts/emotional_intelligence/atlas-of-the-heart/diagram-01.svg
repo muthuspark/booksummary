@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="629pt" height="148pt" viewBox="0.00 0.00 628.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Vulnerability: The Path to Connection</title><desc id="description">Vulnerability leads to Courage. Vulnerability leads to Authenticity. Vulnerability leads to Connection. Shame leads to Fear. Shame leads to Isolation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 610.5,-130 610.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.16,-71.87C127.44,-63.08 107.5,-52.58 90.09,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.13,-41.2 83.8,-40.1 88.85,-45.53 91.13,-41.2" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.5,-71.87C180.5,-64.31 180.5,-55.49 180.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.95,-47.1 180.5,-40.1 178.05,-47.1 182.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M220.12,-71.87C238.5,-63 260.46,-52.4 279.57,-43.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.69,-45.35 285.93,-40.1 278.56,-40.94 280.69,-45.35" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M477.29,-71.87C471.33,-63.85 464.32,-54.41 457.96,-45.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="459.83,-44.26 453.69,-40.1 455.9,-47.18 459.83,-44.26" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M505.71,-71.87C511.67,-63.85 518.68,-54.41 525.04,-45.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="527.1,-47.18 529.31,-40.1 523.17,-44.26 527.1,-47.18" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M235,-112C235,-112 126,-112 126,-112 120,-112 114,-106 114,-100 114,-100 114,-84 114,-84 114,-78 120,-72 126,-72 126,-72 235,-72 235,-72 241,-72 247,-78 247,-84 247,-84 247,-100 247,-100 247,-106 241,-112 235,-112" />
+<text text-anchor="middle" x="180.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vulnerability</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M83,-40C83,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 83,0 83,0 89,0 95,-6 95,-12 95,-12 95,-28 95,-28 95,-34 89,-40 83,-40" />
+<text text-anchor="middle" x="47.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Courage</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M232,-40C232,-40 129,-40 129,-40 123,-40 117,-34 117,-28 117,-28 117,-12 117,-12 117,-6 123,0 129,0 129,0 232,0 232,0 238,0 244,-6 244,-12 244,-12 244,-28 244,-28 244,-34 238,-40 232,-40" />
+<text text-anchor="middle" x="180.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Authenticity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M373,-40C373,-40 278,-40 278,-40 272,-40 266,-34 266,-28 266,-28 266,-12 266,-12 266,-6 272,0 278,0 278,0 373,0 373,0 379,0 385,-6 385,-12 385,-12 385,-28 385,-28 385,-34 379,-40 373,-40" />
+<text text-anchor="middle" x="325.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Connection</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M521,-112C521,-112 462,-112 462,-112 456,-112 450,-106 450,-100 450,-100 450,-84 450,-84 450,-78 456,-72 462,-72 462,-72 521,-72 521,-72 527,-72 533,-78 533,-84 533,-84 533,-100 533,-100 533,-106 527,-112 521,-112" />
+<text text-anchor="middle" x="491.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shame</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M460,-40C460,-40 419,-40 419,-40 413,-40 407,-34 407,-28 407,-28 407,-12 407,-12 407,-6 413,0 419,0 419,0 460,0 460,0 466,0 472,-6 472,-12 472,-12 472,-28 472,-28 472,-34 466,-40 460,-40" />
+<text text-anchor="middle" x="439.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M580.5,-40C580.5,-40 506.5,-40 506.5,-40 500.5,-40 494.5,-34 494.5,-28 494.5,-28 494.5,-12 494.5,-12 494.5,-6 500.5,0 506.5,0 506.5,0 580.5,0 580.5,0 586.5,0 592.5,-6 592.5,-12 592.5,-12 592.5,-28 592.5,-28 592.5,-34 586.5,-40 580.5,-40" />
+<text text-anchor="middle" x="543.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Isolation</text>
+</g>
+</g>
+</svg>

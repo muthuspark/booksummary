@@ -14,17 +14,7 @@ Jason Fung's "The Complete Guide to Fasting" challenges conventional wisdom abou
 
 The book extensively explores the hormonal interplay that governs our energy balance.  Central to Fung's argument are the hormones insulin and leptin. Insulin, secreted after eating, is the primary storage hormone, promoting fat storage and preventing fat burning. Leptin, produced by fat cells, signals satiety and energy sufficiency to the brain.  When we consistently overeat, insulin remains elevated, suppressing leptin signaling, leading to a state of chronic hunger and increased fat storage.  Fasting, by reducing insulin levels, allows leptin signaling to resume, restoring a sense of fullness and promoting weight loss.
 
-```mermaid
-graph LR
-    A[Eating] --> B(Insulin Release);
-    B --> C[Fat Storage];
-    B --> D(Leptin Suppression);
-    D --> E[Increased Hunger];
-    F[Fasting] --> G(Insulin Decrease);
-    G --> H[Fat Burning];
-    G --> I(Leptin Restoration);
-    I --> J[Decreased Hunger];
-```
+![The Science of Fasting: Insulin and Leptin. Eating; Insulin Release; Fat Storage; Leptin Suppression; Increased Hunger; Fasting; Insulin Decrease; Fat Burning; Leptin Restoration; Decreased Hunger.](diagram-01.svg)
 
 ## Types of Fasting: A Personalized Approach
 

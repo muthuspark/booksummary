@@ -21,17 +21,7 @@ Framing impacts how people perceive information. Presenting the same information
 * **Choice Architecture:** Carefully structuring the choices available to someone can subtly guide their decisions towards a desired outcome.
 
 
-```mermaid
-graph LR
-    A[Information] --> B{Gain Framing};
-    A --> C{Loss Framing};
-    B --> D[Positive Response];
-    C --> E["Positive Response (Often Stronger)"];
-    A --> F{Positive Framing};
-    A --> G{Negative Framing};
-    F --> D;
-    G --> E;
-```
+![The Power of Framing. Information; Gain Framing; Loss Framing; Positive Response; Positive Response (Often Stronger); Positive Framing; Negative Framing.](diagram-01.svg)
 
 #  Leveraging Cognitive Biases
 
@@ -55,17 +45,7 @@ People often look to others for cues on how to behave or what to believe.  This 
 
 * **Popularity and Scarcity:**  Highlighting the popularity or limited availability of a product or idea increases its desirability.
 
-```mermaid
-graph LR
-    A[Social Proof] --> B(Testimonials);
-    A --> C(Authority Figures);
-    A --> D(Popularity);
-    A --> E(Scarcity);
-    B --> F[Increased Trust];
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![The Importance of Social Proof. Social Proof; Testimonials; Authority Figures; Popularity; Scarcity; Increased Trust.](diagram-02.svg)
 
 
 #  Building Rapport and Trust

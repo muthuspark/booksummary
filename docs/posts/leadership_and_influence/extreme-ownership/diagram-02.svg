@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198pt" height="436pt" viewBox="0.00 0.00 198.00 436.00" role="img" aria-labelledby="title description">
+<title id="title">Covering and Supporting Your Team</title><desc id="description">Team Member A leads to Cover. Cover leads to Team Member B. Team Member B leads to Support. Support leads to Team Member A. Team Member A leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 418)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-418 180,-418 180,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81,-359.87C81,-352.31 81,-343.49 81,-335.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.45,-335.1 81,-328.1 78.55,-335.1 83.45,-335.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81,-287.87C81,-280.31 81,-271.49 81,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.45,-263.1 81,-256.1 78.55,-263.1 83.45,-263.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81,-215.87C81,-208.31 81,-199.49 81,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.45,-191.1 81,-184.1 78.55,-191.1 83.45,-191.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81,-143.87C81,-136.31 81,-127.49 81,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.45,-119.1 81,-112.1 78.55,-119.1 83.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81,-71.87C81,-64.31 81,-55.49 81,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.45,-47.1 81,-40.1 78.55,-47.1 83.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M150,-400C150,-400 12,-400 12,-400 6,-400 0,-394 0,-388 0,-388 0,-372 0,-372 0,-366 6,-360 12,-360 12,-360 150,-360 150,-360 156,-360 162,-366 162,-372 162,-372 162,-388 162,-388 162,-394 156,-400 150,-400" />
+<text text-anchor="middle" x="81" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Team Member A</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M106.5,-328C106.5,-328 55.5,-328 55.5,-328 49.5,-328 43.5,-322 43.5,-316 43.5,-316 43.5,-300 43.5,-300 43.5,-294 49.5,-288 55.5,-288 55.5,-288 106.5,-288 106.5,-288 112.5,-288 118.5,-294 118.5,-300 118.5,-300 118.5,-316 118.5,-316 118.5,-322 112.5,-328 106.5,-328" />
+<text text-anchor="middle" x="81" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cover</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M150,-256C150,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 150,-216 150,-216 156,-216 162,-222 162,-228 162,-228 162,-244 162,-244 162,-250 156,-256 150,-256" />
+<text text-anchor="middle" x="81" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Team Member B</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M115.5,-184C115.5,-184 46.5,-184 46.5,-184 40.5,-184 34.5,-178 34.5,-172 34.5,-172 34.5,-156 34.5,-156 34.5,-150 40.5,-144 46.5,-144 46.5,-144 115.5,-144 115.5,-144 121.5,-144 127.5,-150 127.5,-156 127.5,-156 127.5,-172 127.5,-172 127.5,-178 121.5,-184 115.5,-184" />
+<text text-anchor="middle" x="81" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Support</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M150,-112C150,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 150,-72 150,-72 156,-72 162,-78 162,-84 162,-84 162,-100 162,-100 162,-106 156,-112 150,-112" />
+<text text-anchor="middle" x="81" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Team Member A</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M113.5,-40C113.5,-40 48.5,-40 48.5,-40 42.5,-40 36.5,-34 36.5,-28 36.5,-28 36.5,-12 36.5,-12 36.5,-6 42.5,0 48.5,0 48.5,0 113.5,0 113.5,0 119.5,0 125.5,-6 125.5,-12 125.5,-12 125.5,-28 125.5,-28 125.5,-34 119.5,-40 113.5,-40" />
+<text text-anchor="middle" x="81" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

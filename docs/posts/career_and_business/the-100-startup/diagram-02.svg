@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="674pt" height="76pt" viewBox="0.00 0.00 674.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Small Steps and Iterative Development</title><desc id="description">Idea leads to MVP. MVP leads to Feedback. Feedback leads to Iteration. Iteration leads to Improved Product.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 656,-58 656,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M64.17,-20C71.88,-20 80.26,-20 88.35,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="88.67,-22.45 95.67,-20 88.67,-17.55 88.67,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.24,-20C171.88,-20 180.22,-20 188.57,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="188.58,-22.45 195.58,-20 188.58,-17.55 188.58,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M300.02,-20C308.05,-20 316.39,-20 324.52,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="324.9,-22.45 331.9,-20 324.9,-17.55 324.9,-22.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M430.3,-20C438.05,-20 446.3,-20 454.7,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="454.78,-22.45 461.78,-20 454.78,-17.55 454.78,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M52,-40C52,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 52,0 52,0 58,0 64,-6 64,-12 64,-12 64,-28 64,-28 64,-34 58,-40 52,-40" />
+<text text-anchor="middle" x="32" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-40C152,-40 108,-40 108,-40 102,-40 96,-34 96,-28 96,-28 96,-12 96,-12 96,-6 102,0 108,0 108,0 152,0 152,0 158,0 164,-6 164,-12 164,-12 164,-28 164,-28 164,-34 158,-40 152,-40" />
+<text text-anchor="middle" x="130" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">MVP</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M288,-40C288,-40 208,-40 208,-40 202,-40 196,-34 196,-28 196,-28 196,-12 196,-12 196,-6 202,0 208,0 208,0 288,0 288,0 294,0 300,-6 300,-12 300,-12 300,-28 300,-28 300,-34 294,-40 288,-40" />
+<text text-anchor="middle" x="248" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M418,-40C418,-40 344,-40 344,-40 338,-40 332,-34 332,-28 332,-28 332,-12 332,-12 332,-6 338,0 344,0 344,0 418,0 418,0 424,0 430,-6 430,-12 430,-12 430,-28 430,-28 430,-34 424,-40 418,-40" />
+<text text-anchor="middle" x="381" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iteration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M626,-40C626,-40 474,-40 474,-40 468,-40 462,-34 462,-28 462,-28 462,-12 462,-12 462,-6 468,0 474,0 474,0 626,0 626,0 632,0 638,-6 638,-12 638,-12 638,-28 638,-28 638,-34 632,-40 626,-40" />
+<text text-anchor="middle" x="550" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Product</text>
+</g>
+</g>
+</svg>

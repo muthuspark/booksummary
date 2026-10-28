@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="524pt" height="103pt" viewBox="0.00 0.00 524.00 103.00" role="img" aria-labelledby="title description">
+<title id="title">Abandoning the Illusory Self</title><desc id="description">Illusory Self (Ego) leads to Suffering. Suffering leads to Clinging to Self. Clinging to Self leads to Illusory Self (Ego).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 85)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-85 506,-85 506,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.21,-33.82C181.47,-35.15 189.7,-36.47 197.59,-37.75" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.42,-40.2 204.72,-38.9 198.2,-35.36 197.42,-40.2" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M307.06,-38.31C314.96,-36.94 323.31,-35.49 331.71,-34.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="332.28,-36.42 338.76,-32.8 331.44,-31.59 332.28,-36.42" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M338.73,-16.85C328.08,-16.5 317.26,-16.19 307,-16 261.67,-15.14 250.33,-15.23 205,-16 196.95,-16.14 188.59,-16.33 180.2,-16.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.09,-14.1 173.16,-16.74 180.23,-19 180.09,-14.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-40C161,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 161,0 161,0 167,0 173,-6 173,-12 173,-12 173,-28 173,-28 173,-34 167,-40 161,-40" />
+<text text-anchor="middle" x="86.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Illusory Self (Ego)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M295,-67C295,-67 217,-67 217,-67 211,-67 205,-61 205,-55 205,-55 205,-39 205,-39 205,-33 211,-27 217,-27 217,-27 295,-27 295,-27 301,-27 307,-33 307,-39 307,-39 307,-55 307,-55 307,-61 301,-67 295,-67" />
+<text text-anchor="middle" x="256" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suffering</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M476,-40C476,-40 351,-40 351,-40 345,-40 339,-34 339,-28 339,-28 339,-12 339,-12 339,-6 345,0 351,0 351,0 476,0 476,0 482,0 488,-6 488,-12 488,-12 488,-28 488,-28 488,-34 482,-40 476,-40" />
+<text text-anchor="middle" x="413.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clinging to Self</text>
+</g>
+</g>
+</svg>

@@ -15,13 +15,7 @@ Michael A. Singer's "The Untethered Soul" is a spiritual self-help guide focusin
 The book emphasizes that the sense of a solid, fixed "self" is largely an illusion created by the inner voice.  This "self" is constantly defining itself through thoughts, memories, and emotions, leading to a feeling of being trapped within a narrative.  Singer advocates for a shift in perspective: instead of identifying with the inner voice, we must learn to observe it as an external phenomenon.  This involves cultivating a sense of awareness that's separate from the thoughts and emotions themselves.  Think of it as watching a movie – you're aware of the events unfolding on the screen, but you're not the characters or the events themselves.
 
 
-```mermaid
-graph LR
-    A["Inner Voice (Thoughts, Emotions)"] --> B(Identification);
-    B --> C[Suffering, Stress, Unhappiness];
-    D[Awareness] --> E(Observation);
-    E --> F[Peace, Freedom, Well-being];
-```
+![The Illusion of Self and the Power of Observation. Inner Voice (Thoughts, Emotions); Identification; Suffering, Stress, Unhappiness; Awareness; Observation; Peace, Freedom, Well-being.](diagram-01.svg)
 
 ##  Practical Techniques for Cultivating Awareness
 

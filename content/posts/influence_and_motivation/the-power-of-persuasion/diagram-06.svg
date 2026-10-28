@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="658pt" height="116pt" viewBox="0.00 0.00 658.00 116.00" role="img" aria-labelledby="title description">
+<title id="title">Consensus: The Power of Social Proof</title><desc id="description">Demonstrate Popularity/Social Proof leads to Increased Perceived Value &amp; Credibility. Increased Perceived Value &amp; Credibility leads to Greater Likelihood of Adoption.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 98)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-98 640,-98 640,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.2,-40C176.13,-40 184.24,-40 192.32,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="192.72,-42.45 199.72,-40 192.72,-37.55 192.72,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M390.12,-40C398.14,-40 406.29,-40 414.4,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="414.83,-42.45 421.83,-40 414.83,-37.55 414.83,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156,-80C156,-80 12,-80 12,-80 6,-80 0,-74 0,-68 0,-68 0,-12 0,-12 0,-6 6,0 12,0 12,0 156,0 156,0 162,0 168,-6 168,-12 168,-12 168,-68 168,-68 168,-74 162,-80 156,-80" />
+<text text-anchor="middle" x="84" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Demonstrate</text>
+<text text-anchor="middle" x="84" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Popularity/Social</text>
+<text text-anchor="middle" x="84" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Proof</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M378,-70C378,-70 212,-70 212,-70 206,-70 200,-64 200,-58 200,-58 200,-22 200,-22 200,-16 206,-10 212,-10 212,-10 378,-10 378,-10 384,-10 390,-16 390,-22 390,-22 390,-58 390,-58 390,-64 384,-70 378,-70" />
+<text text-anchor="middle" x="295" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Perceived</text>
+<text text-anchor="middle" x="295" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Value &amp; Credibility</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M610,-70C610,-70 434,-70 434,-70 428,-70 422,-64 422,-58 422,-58 422,-22 422,-22 422,-16 428,-10 434,-10 434,-10 610,-10 610,-10 616,-10 622,-16 622,-22 622,-22 622,-58 622,-58 622,-64 616,-70 610,-70" />
+<text text-anchor="middle" x="522" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Greater Likelihood of</text>
+<text text-anchor="middle" x="522" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adoption</text>
+</g>
+</g>
+</svg>

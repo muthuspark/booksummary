@@ -39,17 +39,7 @@ Our eyes play a significant role in how much we eat.  The book highlights the im
 
 * **Variety on the table:**  Having many different types of food readily available can lead to increased consumption. Be mindful of what you put on the table and limit the variety of available snacks.
 
-```mermaid
-graph LR
-    A[Visual Cues] --> B(Plate Size);
-    A --> C(Packaging);
-    A --> D(Food Visibility);
-    A --> E(Variety);
-    B --> F{Increased Consumption};
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![Visual Cues and Their Impact. Visual Cues; Plate Size; Packaging; Food Visibility; Variety; Increased Consumption.](diagram-01.svg)
 
 ###  The Psychology of Eating
 

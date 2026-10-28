@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="443pt" height="386pt" viewBox="0.00 0.00 443.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Art of the Short Meeting</title><desc id="description">Long, Unfocused Meetings leads to Indecisiveness. Long, Unfocused Meetings leads to Participant Fatigue. Long, Unfocused Meetings leads to Wasted Time. Short, Focused Meetings leads to Clear Decisions. Short, Focused Meetings leads to Improved Engagement. Short, Focused Meetings leads to Time Efficiency.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 425,-368 425,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.18,-105C182.75,-110.58 203.63,-116.53 223.03,-122.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.42,-124.43 229.82,-124 223.76,-119.72 222.42,-124.43" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.18,-82C176.13,-82 189.66,-82 202.95,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.3,-84.45 210.3,-82 203.3,-79.55 203.3,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.18,-59C184.03,-53.06 206.37,-46.69 226.81,-40.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.61,-43.18 233.67,-38.91 226.27,-38.47 227.61,-43.18" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.23,-288.73C176.94,-294.92 200.81,-301.73 222.8,-307.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.15,-310.36 229.56,-309.92 223.5,-305.64 222.15,-310.36" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.23,-268C165.66,-268 176.59,-268 187.58,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.8,-270.45 194.8,-268 187.8,-265.55 187.8,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.23,-247.27C176.94,-241.08 200.81,-234.27 222.8,-228.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.5,-230.36 229.56,-226.08 222.15,-225.64 223.5,-230.36" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151,-112C151,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-64 0,-64 0,-58 6,-52 12,-52 12,-52 151,-52 151,-52 157,-52 163,-58 163,-64 163,-64 163,-100 163,-100 163,-106 157,-112 151,-112" />
+<text text-anchor="middle" x="81.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Long, Unfocused</text>
+<text text-anchor="middle" x="81.5" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meetings</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M361,-164C361,-164 241,-164 241,-164 235,-164 229,-158 229,-152 229,-152 229,-136 229,-136 229,-130 235,-124 241,-124 241,-124 361,-124 361,-124 367,-124 373,-130 373,-136 373,-136 373,-152 373,-152 373,-158 367,-164 361,-164" />
+<text text-anchor="middle" x="301" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Indecisiveness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M379.5,-102C379.5,-102 222.5,-102 222.5,-102 216.5,-102 210.5,-96 210.5,-90 210.5,-90 210.5,-74 210.5,-74 210.5,-68 216.5,-62 222.5,-62 222.5,-62 379.5,-62 379.5,-62 385.5,-62 391.5,-68 391.5,-74 391.5,-74 391.5,-90 391.5,-90 391.5,-96 385.5,-102 379.5,-102" />
+<text text-anchor="middle" x="301" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Participant Fatigue</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356,-40C356,-40 246,-40 246,-40 240,-40 234,-34 234,-28 234,-28 234,-12 234,-12 234,-6 240,0 246,0 246,0 356,0 356,0 362,0 368,-6 368,-12 368,-12 368,-28 368,-28 368,-34 362,-40 356,-40" />
+<text text-anchor="middle" x="301" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wasted Time</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-298C143,-298 20,-298 20,-298 14,-298 8,-292 8,-286 8,-286 8,-250 8,-250 8,-244 14,-238 20,-238 20,-238 143,-238 143,-238 149,-238 155,-244 155,-250 155,-250 155,-286 155,-286 155,-292 149,-298 143,-298" />
+<text text-anchor="middle" x="81.5" y="-273.6" font-family="Georgia" font-size="18.00" fill="#243d36">Short, Focused</text>
+<text text-anchor="middle" x="81.5" y="-253.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meetings</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M365,-350C365,-350 237,-350 237,-350 231,-350 225,-344 225,-338 225,-338 225,-322 225,-322 225,-316 231,-310 237,-310 237,-310 365,-310 365,-310 371,-310 377,-316 377,-322 377,-322 377,-338 377,-338 377,-344 371,-350 365,-350" />
+<text text-anchor="middle" x="301" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Decisions</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M395,-288C395,-288 207,-288 207,-288 201,-288 195,-282 195,-276 195,-276 195,-260 195,-260 195,-254 201,-248 207,-248 207,-248 395,-248 395,-248 401,-248 407,-254 407,-260 407,-260 407,-276 407,-276 407,-282 401,-288 395,-288" />
+<text text-anchor="middle" x="301" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Engagement</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M366,-226C366,-226 236,-226 236,-226 230,-226 224,-220 224,-214 224,-214 224,-198 224,-198 224,-192 230,-186 236,-186 236,-186 366,-186 366,-186 372,-186 378,-192 378,-198 378,-198 378,-214 378,-214 378,-220 372,-226 366,-226" />
+<text text-anchor="middle" x="301" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Time Efficiency</text>
+</g>
+</g>
+</svg>

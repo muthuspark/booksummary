@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464pt" height="240pt" viewBox="0.00 0.00 463.50 240.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Two Key Metrics</title><desc id="description">High Return on Capital leads to Undervalued Company. High Earnings Yield leads to Undervalued Company. Undervalued Company leads to Potential for High Returns.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 445.5,-222 445.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M138.1,-163.87C151.93,-155.23 168.38,-144.95 182.86,-135.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.3,-137.89 188.93,-132.1 181.7,-133.74 184.3,-137.89" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M219.5,-91.63C219.5,-84.34 219.5,-75.78 219.5,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.95,-67.19 219.5,-60.19 217.05,-67.19 221.95,-67.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301.62,-163.87C287.67,-155.23 271.08,-144.95 256.47,-135.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.58,-133.71 250.34,-132.1 255,-137.87 257.58,-133.71" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M203,-204C203,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 203,-164 203,-164 209,-164 215,-170 215,-176 215,-176 215,-192 215,-192 215,-198 209,-204 203,-204" />
+<text text-anchor="middle" x="107.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Return on Capital</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M314,-132C314,-132 125,-132 125,-132 119,-132 113,-126 113,-120 113,-120 113,-104 113,-104 113,-98 119,-92 125,-92 125,-92 314,-92 314,-92 320,-92 326,-98 326,-104 326,-104 326,-120 326,-120 326,-126 320,-132 314,-132" />
+<text text-anchor="middle" x="219.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Undervalued Company</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M415.5,-204C415.5,-204 249.5,-204 249.5,-204 243.5,-204 237.5,-198 237.5,-192 237.5,-192 237.5,-176 237.5,-176 237.5,-170 243.5,-164 249.5,-164 249.5,-164 415.5,-164 415.5,-164 421.5,-164 427.5,-170 427.5,-176 427.5,-176 427.5,-192 427.5,-192 427.5,-198 421.5,-204 415.5,-204" />
+<text text-anchor="middle" x="332.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Earnings Yield</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M294,-60C294,-60 145,-60 145,-60 139,-60 133,-54 133,-48 133,-48 133,-12 133,-12 133,-6 139,0 145,0 145,0 294,0 294,0 300,0 306,-6 306,-12 306,-12 306,-48 306,-48 306,-54 300,-60 294,-60" />
+<text text-anchor="middle" x="219.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Potential for High</text>
+<text text-anchor="middle" x="219.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Returns</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241pt" height="292pt" viewBox="0.00 0.00 241.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">Overcoming Fear and Embracing Failure: The Crucible of Growth</title><desc id="description">Fear leads to Action Despite Fear. Action Despite Fear leads to Learning from Failure. Learning from Failure leads to Growth &amp; Resilience.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 223,-274 223,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-215.87C102.5,-208.31 102.5,-199.49 102.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-191.1 102.5,-184.1 100.05,-191.1 104.95,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-143.87C102.5,-136.31 102.5,-127.49 102.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-119.1 102.5,-112.1 100.05,-119.1 104.95,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.5,-71.87C102.5,-64.31 102.5,-55.49 102.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.95,-47.1 102.5,-40.1 100.05,-47.1 104.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M123,-256C123,-256 82,-256 82,-256 76,-256 70,-250 70,-244 70,-244 70,-228 70,-228 70,-222 76,-216 82,-216 82,-216 123,-216 123,-216 129,-216 135,-222 135,-228 135,-228 135,-244 135,-244 135,-250 129,-256 123,-256" />
+<text text-anchor="middle" x="102.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183.5,-184C183.5,-184 21.5,-184 21.5,-184 15.5,-184 9.5,-178 9.5,-172 9.5,-172 9.5,-156 9.5,-156 9.5,-150 15.5,-144 21.5,-144 21.5,-144 183.5,-144 183.5,-144 189.5,-144 195.5,-150 195.5,-156 195.5,-156 195.5,-172 195.5,-172 195.5,-178 189.5,-184 183.5,-184" />
+<text text-anchor="middle" x="102.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action Despite Fear</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193,-112C193,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 193,-72 193,-72 199,-72 205,-78 205,-84 205,-84 205,-100 205,-100 205,-106 199,-112 193,-112" />
+<text text-anchor="middle" x="102.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learning from Failure</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M186.5,-40C186.5,-40 18.5,-40 18.5,-40 12.5,-40 6.5,-34 6.5,-28 6.5,-28 6.5,-12 6.5,-12 6.5,-6 12.5,0 18.5,0 18.5,0 186.5,0 186.5,0 192.5,0 198.5,-6 198.5,-12 198.5,-12 198.5,-28 198.5,-28 198.5,-34 192.5,-40 186.5,-40" />
+<text text-anchor="middle" x="102.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth &amp; Resilience</text>
+</g>
+</g>
+</svg>

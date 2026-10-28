@@ -47,14 +47,7 @@ The principles of Mini Habits are highly versatile and applicable across various
 The book draws on established principles of neuroplasticity and habit formation.  The repeated performance of the mini habit strengthens neural pathways associated with that behavior, making it increasingly automatic over time.  This reinforces the importance of consistency, as it's the repeated action that drives the change at a neurological level.  This scientific underpinning provides a solid foundation for the effectiveness of the methodology.
 
 
-```mermaid
-graph LR
-    A[Goal] --> B(Mini Habit);
-    B --> C{Success};
-    C --> D[Momentum];
-    D --> E[Larger Actions];
-    E --> F[Goal Achievement];
-```
+![The Science Behind Mini Habits:  Neuroplasticity and Habit Formation. Goal; Mini Habit; Success; Momentum; Larger Actions; Goal Achievement.](diagram-01.svg)
 
 This diagram shows the cyclical nature of the mini habit system: a goal leads to a small, achievable habit, which fosters success and momentum, leading to larger actions and ultimately goal achievement.
 

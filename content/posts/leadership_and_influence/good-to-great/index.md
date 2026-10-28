@@ -21,11 +21,7 @@ They credit success to factors outside themselves, taking responsibility for fai
 *   **Develop unwavering will:** Set ambitious goals and relentlessly pursue them, overcoming obstacles with determination.
 *   **Focus on the long term:**  Resist short-sighted gains for enduring achievement.
 
-```mermaid
-graph LR
-    A[Humility] --> B(Level 5 Leadership);
-    C[Professional Will] --> B;
-```
+![Level 5 Leadership: The Foundation of Greatness. Humility; Level 5 Leadership; Professional Will.](diagram-01.svg)
 
 ### First Who... Then What: Getting the Right People on the Bus
 
@@ -35,11 +31,7 @@ Before charting a course, great companies identify and attract the right people.
 *   **Ruthlessly eliminate the wrong people:**  Don't hesitate to remove those who consistently hinder progress, no matter how talented they might seem.  Sometimes, less is more.
 *   **Seek out people who are self-disciplined and results-oriented:**  You want people who are proactive, accountable, and dedicated to excellence.
 
-```mermaid
-graph LR
-    A[Right People] --> B(Successful Team);
-    C[Wrong People] --> D(Failure);
-```
+![First Who... Then What: Getting the Right People on the Bus. Right People; Successful Team; Wrong People; Failure.](diagram-02.svg)
 
 
 ### Confront the Brutal Facts: Understanding Reality
@@ -61,13 +53,7 @@ The Hedgehog Concept distills complex ideas into a single, unifying concept.  It
 
 When these three circles overlap, you have your Hedgehog Concept – a simple, powerful understanding of where you can achieve exceptional results. This concept helps narrow your focus, ensuring you're investing your energies wisely.
 
-```mermaid
-graph LR
-    A[What you can be best in the world at] --> B(Hedgehog Concept);
-    C[What drives your economic engine] --> B;
-    D[What you are deeply passionate about] --> B;
-
-```
+![The Hedgehog Concept: Simplicity in a Complex World. What you can be best in the world at; Hedgehog Concept; What drives your economic engine; What you are deeply passionate about.](diagram-03.svg)
 
 
 ### A Culture of Discipline: The Engine of Greatness
@@ -98,12 +84,7 @@ Good-to-great organizations maintain a consistent core ideology—a set of funda
 
 The transformation to greatness is not a single event, but a process of continuous improvement.  The Flywheel Effect illustrates this gradual building of momentum.  Consistent, focused efforts gradually gain momentum, eventually leading to a breakthrough. This involves understanding that significant achievements are rarely overnight successes; they require sustained effort over time.
 
-```mermaid
-graph LR
-    A[Consistent Effort] --> B(Flywheel);
-    B --> C[Increased Momentum];
-    C --> D[Breakthrough];
-```
+![The Flywheel Effect: Building Momentum. Consistent Effort; Flywheel; Increased Momentum; Breakthrough.](diagram-04.svg)
 
 ### Applying Good to Great Principles to Personal Life
 

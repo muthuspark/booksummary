@@ -19,16 +19,7 @@ The authors state that simply directing the Rider isn't enough; the path needs t
 * **Removing obstacles:** Identifying and eliminating barriers that hinder progress.
 
 
-```mermaid
-graph LR
-    A["Rider (Rational)"] --> B(Planning & Strategy);
-    C["Elephant (Emotional)"] --> D(Motivation & Drive);
-    E[Path] --> F(Reduce Friction);
-    E --> G(Increase Motivation);
-    E --> H(Remove Obstacles);
-    B -- Requires --> E;
-    D -- Requires --> E;
-```
+![The Power of Shaping the Path. Rider (Rational); Planning & Strategy; Elephant (Emotional); Motivation & Drive; Path; Reduce Friction; Increase Motivation; Remove Obstacles.](diagram-01.svg)
 
 
 # Finding the Bright Spots
@@ -106,14 +97,7 @@ A compelling vision serves as a guiding star for the change process. This vision
 The ultimate goal is to find the sweet spot where the Rider and Elephant work together harmoniously. The Rider provides the strategic direction, while the Elephant supplies the necessary motivation and emotional energy. Effective change requires both.  This necessitates careful consideration of both rational and emotional aspects in the change strategy.
 
 
-```mermaid
-graph LR
-    A[Rider] --> B(Strategic Direction);
-    C[Elephant] --> D(Motivation & Emotional Energy);
-    E[Sweet Spot] --> F(Effective Change);
-    B --> E;
-    D --> E;
-```
+![Finding the Sweet Spot: Balancing the Rider and the Elephant. Rider; Strategic Direction; Elephant; Motivation & Emotional Energy; Sweet Spot; Effective Change.](diagram-02.svg)
 
 In essence, "Switch" provides a practical framework for navigating the complexities of change. By understanding the interplay between the rational and emotional aspects of human behavior, and by strategically shaping the path, individuals and organizations can increase their chances of achieving lasting positive transformation. The book’s enduring value lies in its actionable insights, empowering readers to effect meaningful change in their lives and workplaces.
 

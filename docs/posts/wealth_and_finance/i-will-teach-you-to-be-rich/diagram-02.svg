@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="668pt" height="280pt" viewBox="0.00 0.00 668.00 280.00" role="img" aria-labelledby="title description">
+<title id="title">Week 4: Building Credit and Paying Off Debt</title><desc id="description">High-Interest Debt leads to Prioritize. Low-Interest Debt leads to Address Later. Debt Repayment Strategy leads to Snowball or Avalanche Method.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 262)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-262 650,-262 650,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.3,-20C238.16,-20 311.86,-20 362.38,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="362.66,-22.45 369.66,-20 362.66,-17.55 362.66,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177.27,-82C229.15,-82 294.58,-82 344.59,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="344.85,-84.45 351.85,-82 344.85,-79.55 344.85,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.73,-184C182.16,-184 193.2,-184 204.61,-184" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.75,-186.45 211.75,-184 204.75,-181.55 204.75,-186.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-40C168,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 168,0 168,0 174,0 180,-6 180,-12 180,-12 180,-28 180,-28 180,-34 174,-40 168,-40" />
+<text text-anchor="middle" x="90" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Interest Debt</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M462,-40C462,-40 382,-40 382,-40 376,-40 370,-34 370,-28 370,-28 370,-12 370,-12 370,-6 376,0 382,0 382,0 462,0 462,0 468,0 474,-6 474,-12 474,-12 474,-28 474,-28 474,-34 468,-40 462,-40" />
+<text text-anchor="middle" x="422" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritize</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M165,-102C165,-102 15,-102 15,-102 9,-102 3,-96 3,-90 3,-90 3,-74 3,-74 3,-68 9,-62 15,-62 15,-62 165,-62 165,-62 171,-62 177,-68 177,-74 177,-74 177,-90 177,-90 177,-96 171,-102 165,-102" />
+<text text-anchor="middle" x="90" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low-Interest Debt</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M480,-102C480,-102 364,-102 364,-102 358,-102 352,-96 352,-90 352,-90 352,-74 352,-74 352,-68 358,-62 364,-62 364,-62 480,-62 480,-62 486,-62 492,-68 492,-74 492,-74 492,-90 492,-90 492,-96 486,-102 480,-102" />
+<text text-anchor="middle" x="422" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Address Later</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-214C159.5,-214 20.5,-214 20.5,-214 14.5,-214 8.5,-208 8.5,-202 8.5,-202 8.5,-166 8.5,-166 8.5,-160 14.5,-154 20.5,-154 20.5,-154 159.5,-154 159.5,-154 165.5,-154 171.5,-160 171.5,-166 171.5,-166 171.5,-202 171.5,-202 171.5,-208 165.5,-214 159.5,-214" />
+<text text-anchor="middle" x="90" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Repayment</text>
+<text text-anchor="middle" x="90" y="-169.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategy</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="422,-244 212,-184 422,-124 632,-184 422,-244" />
+<text text-anchor="middle" x="422" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Snowball or Avalanche</text>
+<text text-anchor="middle" x="422" y="-169.6" font-family="Georgia" font-size="18.00" fill="#243d36">Method</text>
+</g>
+</g>
+</svg>

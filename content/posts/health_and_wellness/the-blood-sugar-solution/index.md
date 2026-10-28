@@ -86,19 +86,7 @@ Here’s a summary of actionable steps based on the book:
 
 The process of improving blood sugar control can be visualized using a diagram:
 
-```mermaid
-graph LR
-    A[Unhealthy Lifestyle] --> B(Insulin Resistance);
-    B --> C{High Blood Sugar};
-    C --> D[Chronic Diseases];
-    E[Healthy Diet] --> F(Improved Insulin Sensitivity);
-    F --> G{Stable Blood Sugar};
-    G --> H[Improved Health];
-    I[Exercise] --> F;
-    J[Stress Management] --> F;
-    K[Sleep] --> F;
-    L[Gut Health] --> F;
-```
+![Visualizing the Process. Unhealthy Lifestyle; Insulin Resistance; High Blood Sugar; Chronic Diseases; Healthy Diet; Improved Insulin Sensitivity; Stable Blood Sugar; Improved Health; Exercise; Stress Management; Sleep; Gut Health.](diagram-01.svg)
 
 This diagram illustrates how unhealthy lifestyle choices lead to insulin resistance, high blood sugar, and chronic diseases, whereas an approach incorporating healthy diet, exercise, stress management, and sleep can lead to improved insulin sensitivity, stable blood sugar, and better overall health.
 

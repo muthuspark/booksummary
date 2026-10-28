@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="598pt" height="148pt" viewBox="0.00 0.00 598.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Give Honest and Sincere Appreciation</title><desc id="description">Sincere Appreciation leads to Increased Morale. Sincere Appreciation leads to Stronger Bonds. Sincere Appreciation leads to Increased Motivation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 580,-130 580,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M216.27,-71.87C192.79,-62.84 164.67,-52.03 140.41,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.09,-40.33 133.67,-40.1 139.33,-44.9 141.09,-40.33" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266,-71.87C266,-64.31 266,-55.49 266,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="268.45,-47.1 266,-40.1 263.55,-47.1 268.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M319.57,-71.96C345.3,-62.82 376.25,-51.83 402.79,-42.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="403.66,-44.68 409.44,-40.03 402.02,-40.07 403.66,-44.68" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M352,-112C352,-112 180,-112 180,-112 174,-112 168,-106 168,-100 168,-100 168,-84 168,-84 168,-78 174,-72 180,-72 180,-72 352,-72 352,-72 358,-72 364,-78 364,-84 364,-84 364,-100 364,-100 364,-106 358,-112 352,-112" />
+<text text-anchor="middle" x="266" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sincere Appreciation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M156,-40C156,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 156,0 156,0 162,0 168,-6 168,-12 168,-12 168,-28 168,-28 168,-34 162,-40 156,-40" />
+<text text-anchor="middle" x="84" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Morale</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M330,-40C330,-40 202,-40 202,-40 196,-40 190,-34 190,-28 190,-28 190,-12 190,-12 190,-6 196,0 202,0 202,0 330,0 330,0 336,0 342,-6 342,-12 342,-12 342,-28 342,-28 342,-34 336,-40 330,-40" />
+<text text-anchor="middle" x="266" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Bonds</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M550,-40C550,-40 376,-40 376,-40 370,-40 364,-34 364,-28 364,-28 364,-12 364,-12 364,-6 370,0 376,0 376,0 550,0 550,0 556,0 562,-6 562,-12 562,-12 562,-28 562,-28 562,-34 556,-40 550,-40" />
+<text text-anchor="middle" x="463" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Motivation</text>
+</g>
+</g>
+</svg>

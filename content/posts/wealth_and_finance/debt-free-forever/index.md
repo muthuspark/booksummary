@@ -14,13 +14,7 @@ Gail Vaz-Oxlade's "Debt-Free Forever" isn't just about eliminating debt; it's ab
 
 Budgeting is presented not as a restrictive measure but as a tool for empowerment.  Vaz-Oxlade advocates for a straightforward, easy-to-understand budgeting method. She doesn't prescribe a specific format but stresses the importance of tracking every dollar and categorizing your spending.  This clarity reveals spending habits and helps identify areas where adjustments can be made.  Software or spreadsheets can assist, but the key is consistent tracking.
 
-```mermaid
-graph LR
-    A[Income] --> B(Budgeting);
-    C[Expenses] --> B;
-    B --> D{Savings/Debt Repayment};
-    D --> E[Financial Freedom];
-```
+![The Power of Budgeting. Income; Budgeting; Expenses; Savings/Debt Repayment; Financial Freedom.](diagram-01.svg)
 
 # Tackling Debt Strategically
 

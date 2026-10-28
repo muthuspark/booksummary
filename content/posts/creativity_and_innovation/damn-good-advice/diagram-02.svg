@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="583pt" height="138pt" viewBox="0.00 0.00 583.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Building Your Brand:  Personal and Professional</title><desc id="description">Skills leads to Values. Passions leads to Values. Values leads to Personal Brand.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 565,-120 565,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84.06,-73.03C95.81,-69.99 109.15,-66.53 121.72,-63.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.45,-65.61 128.61,-61.48 121.22,-60.86 122.45,-65.61" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211.13,-51C218.65,-51 226.91,-51 235.65,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.75,-53.45 242.75,-51 235.75,-48.55 235.75,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.07,-32.34C105.31,-34.48 113.87,-36.7 122.09,-38.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="121.51,-41.21 128.9,-40.6 122.74,-36.47 121.51,-41.21" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M72,-102C72,-102 25,-102 25,-102 19,-102 13,-96 13,-90 13,-90 13,-74 13,-74 13,-68 19,-62 25,-62 25,-62 72,-62 72,-62 78,-62 84,-68 84,-74 84,-74 84,-90 84,-90 84,-96 78,-102 72,-102" />
+<text text-anchor="middle" x="48.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skills</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M199,-71C199,-71 141,-71 141,-71 135,-71 129,-65 129,-59 129,-59 129,-43 129,-43 129,-37 135,-31 141,-31 141,-31 199,-31 199,-31 205,-31 211,-37 211,-43 211,-43 211,-59 211,-59 211,-65 205,-71 199,-71" />
+<text text-anchor="middle" x="170" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M85,-40C85,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 85,0 85,0 91,0 97,-6 97,-12 97,-12 97,-28 97,-28 97,-34 91,-40 85,-40" />
+<text text-anchor="middle" x="48.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passions</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="395,-91 243,-51 395,-11 547,-51 395,-91" />
+<text text-anchor="middle" x="395" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Brand</text>
+</g>
+</g>
+</svg>

@@ -16,13 +16,7 @@ Vanessa Van Edwards' "Captivate: The Science of Succeeding with People" is a det
 The foundation of "Captivate" rests on understanding how our brains work in social situations. Van Edwards emphasizes the importance of recognizing that human interaction is fundamentally biological. Our brains are wired to seek connection and respond to specific cues. Understanding these cues—both verbal and nonverbal—to building rapport and making a positive impression involves recognizing the power of mirroring and matching, attentive listening, and understanding the significance of body language.
 
 
-```mermaid
-graph LR
-    A[Brain's Reward System] --> B(Positive Connection);
-    C[Mirroring/Matching] --> B;
-    D[Attentive Listening] --> B;
-    E[Positive Body Language] --> B;
-```
+![The Science of Connection: Understanding the Human Brain. Brain's Reward System; Positive Connection; Mirroring/Matching; Attentive Listening; Positive Body Language.](diagram-01.svg)
 
 This diagram illustrates how various factors contribute to a positive connection.
 
@@ -59,15 +53,7 @@ Van Edwards presents a six-pillar framework to guide readers in their quest for 
 5.  **Practice:**  Continuously practicing and refining your interpersonal skills.
 6.  **Patience:**  Understanding that building strong connections takes time and effort.
 
-```mermaid
-graph LR
-    A[Presence] --> B(Captivation);
-    C[Power] --> B;
-    D[Passion] --> B;
-    E[Purpose] --> B;
-    F[Practice] --> B;
-    G[Patience] --> B;
-```
+![The Six Pillars of Captivation: A Framework for Success. Presence; Captivation; Power; Passion; Purpose; Practice; Patience.](diagram-02.svg)
 
 This diagram represents the interconnectedness of the six pillars.
 

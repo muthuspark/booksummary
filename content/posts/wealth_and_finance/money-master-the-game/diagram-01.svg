@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="278pt" height="404pt" viewBox="0.00 0.00 278.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Financial Goals</title><desc id="description">Define Your Goals leads to SMART Goals. SMART Goals leads to Action Plan. Action Plan leads to Track Progress. Track Progress leads to Revise as Needed.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 260,-386 260,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121,-327.87C121,-320.31 121,-311.49 121,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="123.45,-303.1 121,-296.1 118.55,-303.1 123.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121,-255.91C121,-248.58 121,-239.86 121,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="123.45,-231.07 121,-224.07 118.55,-231.07 123.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121,-143.79C121,-135.54 121,-127.04 121,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="123.45,-119.09 121,-112.09 118.55,-119.09 123.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121,-71.87C121,-64.31 121,-55.49 121,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="123.45,-47.1 121,-40.1 118.55,-47.1 123.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196,-368C196,-368 46,-368 46,-368 40,-368 34,-362 34,-356 34,-356 34,-340 34,-340 34,-334 40,-328 46,-328 46,-328 196,-328 196,-328 202,-328 208,-334 208,-340 208,-340 208,-356 208,-356 208,-362 202,-368 196,-368" />
+<text text-anchor="middle" x="121" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Your Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M179,-296C179,-296 63,-296 63,-296 57,-296 51,-290 51,-284 51,-284 51,-268 51,-268 51,-262 57,-256 63,-256 63,-256 179,-256 179,-256 185,-256 191,-262 191,-268 191,-268 191,-284 191,-284 191,-290 185,-296 179,-296" />
+<text text-anchor="middle" x="121" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">SMART Goals</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="121,-224 0,-184 121,-144 242,-184 121,-224" />
+<text text-anchor="middle" x="121" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action Plan</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183,-112C183,-112 59,-112 59,-112 53,-112 47,-106 47,-100 47,-100 47,-84 47,-84 47,-78 53,-72 59,-72 59,-72 183,-72 183,-72 189,-72 195,-78 195,-84 195,-84 195,-100 195,-100 195,-106 189,-112 183,-112" />
+<text text-anchor="middle" x="121" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Track Progress</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M193,-40C193,-40 49,-40 49,-40 43,-40 37,-34 37,-28 37,-28 37,-12 37,-12 37,-6 43,0 49,0 49,0 193,0 193,0 199,0 205,-6 205,-12 205,-12 205,-28 205,-28 205,-34 199,-40 193,-40" />
+<text text-anchor="middle" x="121" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Revise as Needed</text>
+</g>
+</g>
+</svg>

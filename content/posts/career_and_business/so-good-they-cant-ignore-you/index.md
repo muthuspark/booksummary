@@ -14,12 +14,7 @@ Cal Newport's "So Good They Can't Ignore You" challenges the conventional wisdom
 
 The book emphasizes the importance of becoming exceptionally good at something. This requires deliberate practice, a focused and structured approach to improving skills that goes beyond simply putting in time. It involves setting specific goals, receiving feedback, and consistently pushing yourself beyond your comfort zone. Newport champions the idea of developing "rare skills" – abilities that are both in high demand and difficult to replicate.
 
-```mermaid
-graph LR
-    A[Passion] --> B(Mastery);
-    B --> C[Meaningful Work];
-    C --> D{Success};
-```
+![The Importance of Craftsmanship. Passion; Mastery; Meaningful Work; Success.](diagram-01.svg)
 
 This illustrates Newport's view:  Passion often emerges as a byproduct of dedication and mastery, leading to fulfilling work and success.
 
@@ -62,15 +57,7 @@ While career capital is important for professional success, Newport acknowledges
 * **Create a balanced life:**  Nurture relationships, pursue hobbies, and engage in activities that bring you joy outside of work.
 
 
-```mermaid
-graph LR
-    A[Choose Field] --> B(Deliberate Practice);
-    B --> C[Build Career Capital];
-    C --> D(Seek Control);
-    D --> E{Passion Projects};
-    E --> F[Say No];
-    F --> G(Balanced Life);
-```
+![Actionable Steps:  Applying Newport's Advice. Choose Field; Deliberate Practice; Build Career Capital; Seek Control; Passion Projects; Say No; Balanced Life.](diagram-02.svg)
 
 
 This diagram outlines the key steps in applying Newport's advice to improve your life.

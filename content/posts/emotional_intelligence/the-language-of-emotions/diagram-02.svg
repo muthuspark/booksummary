@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242pt" height="292pt" viewBox="0.00 0.00 242.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Relationships in Emotional Well-being</title><desc id="description">Healthy Relationships leads to Emotional Support. Emotional Support leads to Self-Esteem. Self-Esteem leads to Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 224,-274 224,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-215.87C103,-208.31 103,-199.49 103,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-191.1 103,-184.1 100.55,-191.1 105.45,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-143.87C103,-136.31 103,-127.49 103,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-119.1 103,-112.1 100.55,-119.1 105.45,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-71.87C103,-64.31 103,-55.49 103,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-47.1 103,-40.1 100.55,-47.1 105.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M194,-256C194,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 194,-216 194,-216 200,-216 206,-222 206,-228 206,-228 206,-244 206,-244 206,-250 200,-256 194,-256" />
+<text text-anchor="middle" x="103" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Relationships</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181.5,-184C181.5,-184 24.5,-184 24.5,-184 18.5,-184 12.5,-178 12.5,-172 12.5,-172 12.5,-156 12.5,-156 12.5,-150 18.5,-144 24.5,-144 24.5,-144 181.5,-144 181.5,-144 187.5,-144 193.5,-150 193.5,-156 193.5,-156 193.5,-172 193.5,-172 193.5,-178 187.5,-184 181.5,-184" />
+<text text-anchor="middle" x="103" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Support</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M153.5,-112C153.5,-112 52.5,-112 52.5,-112 46.5,-112 40.5,-106 40.5,-100 40.5,-100 40.5,-84 40.5,-84 40.5,-78 46.5,-72 52.5,-72 52.5,-72 153.5,-72 153.5,-72 159.5,-72 165.5,-78 165.5,-84 165.5,-84 165.5,-100 165.5,-100 165.5,-106 159.5,-112 153.5,-112" />
+<text text-anchor="middle" x="103" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Esteem</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M149,-40C149,-40 57,-40 57,-40 51,-40 45,-34 45,-28 45,-28 45,-12 45,-12 45,-6 51,0 57,0 57,0 149,0 149,0 155,0 161,-6 161,-12 161,-12 161,-28 161,-28 161,-34 155,-40 149,-40" />
+<text text-anchor="middle" x="103" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Well-being</text>
+</g>
+</g>
+</svg>

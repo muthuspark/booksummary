@@ -79,23 +79,7 @@ While directly measuring team EQ is challenging, Druskat suggests focusing on ob
 The following diagram summarizes the key elements of enhancing team emotional intelligence, incorporating the advice and strategies discussed above:
 
 
-```mermaid
-graph LR
-    A[Leadership Commitment] --> B(Create Safe Space);
-    A --> C(Promote Self-Reflection);
-    A --> D(Provide Constructive Feedback);
-    A --> E(Model Emotional Regulation);
-    B --> F{Team Emotional Self-Awareness};
-    C --> F;
-    D --> F;
-    E --> F;
-    F --> G(Develop Emotional Vocabulary);
-    F --> H(Conflict Resolution Training);
-    F --> I(Building Trust & Psychological Safety);
-    G --> J[Improved Team Performance];
-    H --> J;
-    I --> J;
-```
+![A Framework for Enhancing Team Emotional Intelligence. Leadership Commitment; Create Safe Space; Promote Self-Reflection; Provide Constructive Feedback; Model Emotional Regulation; Team Emotional Self-Awareness; Develop Emotional Vocabulary; Conflict Resolution Training; Building Trust & Psychological Safety; Improved Team Performance.](diagram-01.svg)
 
 # Conclusion
 

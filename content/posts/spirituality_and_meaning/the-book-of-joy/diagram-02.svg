@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230pt" height="292pt" viewBox="0.00 0.00 230.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">Forgiveness:  A Path to Freedom</title><desc id="description">Resentment &amp; Anger leads to Forgiveness. Forgiveness leads to Healing &amp; Freedom. Healing &amp; Freedom leads to Inner Peace.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 212,-274 212,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-215.87C97,-208.31 97,-199.49 97,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-191.1 97,-184.1 94.55,-191.1 99.45,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-143.87C97,-136.31 97,-127.49 97,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-119.1 97,-112.1 94.55,-119.1 99.45,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97,-71.87C97,-64.31 97,-55.49 97,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-47.1 97,-40.1 94.55,-47.1 99.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-256C182,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 182,-216 182,-216 188,-216 194,-222 194,-228 194,-228 194,-244 194,-244 194,-250 188,-256 182,-256" />
+<text text-anchor="middle" x="97" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resentment &amp; Anger</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146.5,-184C146.5,-184 47.5,-184 47.5,-184 41.5,-184 35.5,-178 35.5,-172 35.5,-172 35.5,-156 35.5,-156 35.5,-150 41.5,-144 47.5,-144 47.5,-144 146.5,-144 146.5,-144 152.5,-144 158.5,-150 158.5,-156 158.5,-156 158.5,-172 158.5,-172 158.5,-178 152.5,-184 146.5,-184" />
+<text text-anchor="middle" x="97" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Forgiveness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177.5,-112C177.5,-112 16.5,-112 16.5,-112 10.5,-112 4.5,-106 4.5,-100 4.5,-100 4.5,-84 4.5,-84 4.5,-78 10.5,-72 16.5,-72 16.5,-72 177.5,-72 177.5,-72 183.5,-72 189.5,-78 189.5,-84 189.5,-84 189.5,-100 189.5,-100 189.5,-106 183.5,-112 177.5,-112" />
+<text text-anchor="middle" x="97" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healing &amp; Freedom</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M147,-40C147,-40 47,-40 47,-40 41,-40 35,-34 35,-28 35,-28 35,-12 35,-12 35,-6 41,0 47,0 47,0 147,0 147,0 153,0 159,-6 159,-12 159,-12 159,-28 159,-28 159,-34 153,-40 147,-40" />
+<text text-anchor="middle" x="97" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Peace</text>
+</g>
+</g>
+</svg>

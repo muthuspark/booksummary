@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="526pt" height="200pt" viewBox="0.00 0.00 526.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing the Interconnectedness of EQ Components</title><desc id="description">Self-Awareness leads to Self-Regulation. Self-Awareness leads to Motivation. Self-Awareness leads to Empathy. Self-Regulation leads to Social Skills. Motivation leads to Social Skills. Empathy leads to Social Skills.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 508,-182 508,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M135.18,-102.04C153.44,-108.28 173.69,-115.2 192.4,-121.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.8,-123.97 199.21,-123.92 193.38,-119.34 191.8,-123.97" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151.11,-82C165.26,-82 179.96,-82 193.76,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.88,-84.45 200.88,-82 193.88,-79.55 193.88,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M135.18,-61.96C156.49,-54.68 180.5,-46.47 201.61,-39.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.52,-41.54 208.35,-36.96 200.93,-36.9 202.52,-41.54" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M314.38,-123.87C331.08,-117.69 349.56,-110.85 366.66,-104.52" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="367.68,-106.76 373.39,-102.03 365.98,-102.16 367.68,-106.76" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M317.18,-82C330.81,-82 345.5,-82 359.57,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="359.86,-84.45 366.86,-82 359.86,-79.55 359.86,-84.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M309.8,-38.43C327.58,-45.01 347.82,-52.51 366.43,-59.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="365.8,-61.77 373.21,-61.91 367.5,-57.18 365.8,-61.77" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M139,-102C139,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 139,-62 139,-62 145,-62 151,-68 151,-74 151,-74 151,-90 151,-90 151,-96 145,-102 139,-102" />
+<text text-anchor="middle" x="75.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M323,-164C323,-164 195,-164 195,-164 189,-164 183,-158 183,-152 183,-152 183,-136 183,-136 183,-130 189,-124 195,-124 195,-124 323,-124 323,-124 329,-124 335,-130 335,-136 335,-136 335,-152 335,-152 335,-158 329,-164 323,-164" />
+<text text-anchor="middle" x="259" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M305,-102C305,-102 213,-102 213,-102 207,-102 201,-96 201,-90 201,-90 201,-74 201,-74 201,-68 207,-62 213,-62 213,-62 305,-62 305,-62 311,-62 317,-68 317,-74 317,-74 317,-90 317,-90 317,-96 311,-102 305,-102" />
+<text text-anchor="middle" x="259" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Motivation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M297.5,-40C297.5,-40 220.5,-40 220.5,-40 214.5,-40 208.5,-34 208.5,-28 208.5,-28 208.5,-12 208.5,-12 208.5,-6 214.5,0 220.5,0 220.5,0 297.5,0 297.5,0 303.5,0 309.5,-6 309.5,-12 309.5,-12 309.5,-28 309.5,-28 309.5,-34 303.5,-40 297.5,-40" />
+<text text-anchor="middle" x="259" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M478,-102C478,-102 379,-102 379,-102 373,-102 367,-96 367,-90 367,-90 367,-74 367,-74 367,-68 373,-62 379,-62 379,-62 478,-62 478,-62 484,-62 490,-68 490,-74 490,-74 490,-90 490,-90 490,-96 484,-102 478,-102" />
+<text text-anchor="middle" x="428.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Skills</text>
+</g>
+</g>
+</svg>

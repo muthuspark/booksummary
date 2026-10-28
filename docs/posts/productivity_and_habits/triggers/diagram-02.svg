@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406pt" height="444pt" viewBox="0.00 0.00 406.00 444.00" role="img" aria-labelledby="title description">
+<title id="title">Choosing Your Feedback Sources</title><desc id="description">Select Feedback Providers leads to Trusted Individuals. Trusted Individuals leads to Honest &amp; Objective. Honest &amp; Objective leads to Actionable Insights. Actionable Insights leads to Positive &amp; Constructive.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 426)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-426 388,-426 388,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-347.81C185,-340.06 185,-331.5 185,-323.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-323.09 185,-316.09 182.55,-323.09 187.45,-323.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-235.79C185,-227.54 185,-219.04 185,-211.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-211.09 185,-204.09 182.55,-211.09 187.45,-211.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-163.87C185,-156.31 185,-147.49 185,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-139.1 185,-132.1 182.55,-139.1 187.45,-139.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-91.63C185,-84.34 185,-75.78 185,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-67.19 185,-60.19 182.55,-67.19 187.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251,-408C251,-408 119,-408 119,-408 113,-408 107,-402 107,-396 107,-396 107,-360 107,-360 107,-354 113,-348 119,-348 119,-348 251,-348 251,-348 257,-348 263,-354 263,-360 263,-360 263,-396 263,-396 263,-402 257,-408 251,-408" />
+<text text-anchor="middle" x="185" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Select Feedback</text>
+<text text-anchor="middle" x="185" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Providers</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-316 0,-276 185,-236 370,-276 185,-316" />
+<text text-anchor="middle" x="185" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trusted Individuals</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264.5,-204C264.5,-204 105.5,-204 105.5,-204 99.5,-204 93.5,-198 93.5,-192 93.5,-192 93.5,-176 93.5,-176 93.5,-170 99.5,-164 105.5,-164 105.5,-164 264.5,-164 264.5,-164 270.5,-164 276.5,-170 276.5,-176 276.5,-176 276.5,-192 276.5,-192 276.5,-198 270.5,-204 264.5,-204" />
+<text text-anchor="middle" x="185" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Honest &amp; Objective</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263.5,-132C263.5,-132 106.5,-132 106.5,-132 100.5,-132 94.5,-126 94.5,-120 94.5,-120 94.5,-104 94.5,-104 94.5,-98 100.5,-92 106.5,-92 106.5,-92 263.5,-92 263.5,-92 269.5,-92 275.5,-98 275.5,-104 275.5,-104 275.5,-120 275.5,-120 275.5,-126 269.5,-132 263.5,-132" />
+<text text-anchor="middle" x="185" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Actionable Insights</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M237.5,-60C237.5,-60 132.5,-60 132.5,-60 126.5,-60 120.5,-54 120.5,-48 120.5,-48 120.5,-12 120.5,-12 120.5,-6 126.5,0 132.5,0 132.5,0 237.5,0 237.5,0 243.5,0 249.5,-6 249.5,-12 249.5,-12 249.5,-48 249.5,-48 249.5,-54 243.5,-60 237.5,-60" />
+<text text-anchor="middle" x="185" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive &amp;</text>
+<text text-anchor="middle" x="185" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Constructive</text>
+</g>
+</g>
+</svg>

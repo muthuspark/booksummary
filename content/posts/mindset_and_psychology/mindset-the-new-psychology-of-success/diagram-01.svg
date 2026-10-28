@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417pt" height="386pt" viewBox="0.00 0.00 417.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">Fixed vs. Growth Mindset: The Foundational Distinction</title><desc id="description">Fixed Mindset leads to Innate Abilities. Fixed Mindset leads to Fear of Failure. Fixed Mindset leads to Avoid Challenges. Growth Mindset leads to Malleable Abilities. Growth Mindset leads to Embrace Challenges. Growth Mindset leads to Effort as Key.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 399,-368 399,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.11,-102.04C166.96,-108.37 190.11,-115.38 211.42,-121.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.85,-124.23 218.26,-123.92 212.28,-119.54 210.85,-124.23" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M150.66,-82C168.3,-82 187.32,-82 205.33,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-84.45 212.45,-82 205.45,-79.55 205.45,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.11,-61.96C166.96,-55.63 190.11,-48.62 211.42,-42.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.28,-44.46 218.26,-40.08 210.85,-39.77 212.28,-44.46" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.11,-288.04C166.96,-294.37 190.11,-301.38 211.42,-307.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.85,-310.23 218.26,-309.92 212.28,-305.54 210.85,-310.23" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.19,-268C166.13,-268 174.28,-268 182.42,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.9,-270.45 189.9,-268 182.9,-265.55 182.9,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.11,-247.96C167.28,-241.54 190.81,-234.4 212.38,-227.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.33,-230.14 219.31,-225.76 211.9,-225.45 213.33,-230.14" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M138.5,-102C138.5,-102 19.5,-102 19.5,-102 13.5,-102 7.5,-96 7.5,-90 7.5,-90 7.5,-74 7.5,-74 7.5,-68 13.5,-62 19.5,-62 19.5,-62 138.5,-62 138.5,-62 144.5,-62 150.5,-68 150.5,-74 150.5,-74 150.5,-90 150.5,-90 150.5,-96 144.5,-102 138.5,-102" />
+<text text-anchor="middle" x="79" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fixed Mindset</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M348.5,-164C348.5,-164 222.5,-164 222.5,-164 216.5,-164 210.5,-158 210.5,-152 210.5,-152 210.5,-136 210.5,-136 210.5,-130 216.5,-124 222.5,-124 222.5,-124 348.5,-124 348.5,-124 354.5,-124 360.5,-130 360.5,-136 360.5,-136 360.5,-152 360.5,-152 360.5,-158 354.5,-164 348.5,-164" />
+<text text-anchor="middle" x="285.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innate Abilities</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M346.5,-102C346.5,-102 224.5,-102 224.5,-102 218.5,-102 212.5,-96 212.5,-90 212.5,-90 212.5,-74 212.5,-74 212.5,-68 218.5,-62 224.5,-62 224.5,-62 346.5,-62 346.5,-62 352.5,-62 358.5,-68 358.5,-74 358.5,-74 358.5,-90 358.5,-90 358.5,-96 352.5,-102 346.5,-102" />
+<text text-anchor="middle" x="285.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear of Failure</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356.5,-40C356.5,-40 214.5,-40 214.5,-40 208.5,-40 202.5,-34 202.5,-28 202.5,-28 202.5,-12 202.5,-12 202.5,-6 208.5,0 214.5,0 214.5,0 356.5,0 356.5,0 362.5,0 368.5,-6 368.5,-12 368.5,-12 368.5,-28 368.5,-28 368.5,-34 362.5,-40 356.5,-40" />
+<text text-anchor="middle" x="285.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Avoid Challenges</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-288C146,-288 12,-288 12,-288 6,-288 0,-282 0,-276 0,-276 0,-260 0,-260 0,-254 6,-248 12,-248 12,-248 146,-248 146,-248 152,-248 158,-254 158,-260 158,-260 158,-276 158,-276 158,-282 152,-288 146,-288" />
+<text text-anchor="middle" x="79" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth Mindset</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M361.5,-350C361.5,-350 209.5,-350 209.5,-350 203.5,-350 197.5,-344 197.5,-338 197.5,-338 197.5,-322 197.5,-322 197.5,-316 203.5,-310 209.5,-310 209.5,-310 361.5,-310 361.5,-310 367.5,-310 373.5,-316 373.5,-322 373.5,-322 373.5,-338 373.5,-338 373.5,-344 367.5,-350 361.5,-350" />
+<text text-anchor="middle" x="285.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Malleable Abilities</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369,-288C369,-288 202,-288 202,-288 196,-288 190,-282 190,-276 190,-276 190,-260 190,-260 190,-254 196,-248 202,-248 202,-248 369,-248 369,-248 375,-248 381,-254 381,-260 381,-260 381,-276 381,-276 381,-282 375,-288 369,-288" />
+<text text-anchor="middle" x="285.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Embrace Challenges</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M339.5,-226C339.5,-226 231.5,-226 231.5,-226 225.5,-226 219.5,-220 219.5,-214 219.5,-214 219.5,-198 219.5,-198 219.5,-192 225.5,-186 231.5,-186 231.5,-186 339.5,-186 339.5,-186 345.5,-186 351.5,-192 351.5,-198 351.5,-198 351.5,-214 351.5,-214 351.5,-220 345.5,-226 339.5,-226" />
+<text text-anchor="middle" x="285.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effort as Key</text>
+</g>
+</g>
+</svg>

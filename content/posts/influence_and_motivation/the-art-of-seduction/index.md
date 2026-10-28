@@ -18,15 +18,7 @@ Impulsive actions rarely lead to successful seduction, or any form of influence.
 
 Effective seduction requires understanding your target. Assess their personality type – are they ambitious, insecure, vain, or intellectual? Tailor your approach to their specific needs and desires. Avoid a generic approach; personalization is key to creating genuine connection and influence.
 
-```mermaid
-graph LR
-    A[Target Analysis] --> B(Personality);
-    A --> C(Desires);
-    A --> D(Weaknesses);
-    B --> E[Tailored Approach];
-    C --> E;
-    D --> E;
-```
+![Knowing Your Target. Target Analysis; Personality; Desires; Weaknesses; Tailored Approach.](diagram-01.svg)
 
 #  The Role of Appearance and Charm
 
@@ -89,19 +81,7 @@ While the book explores strategies for influence, it doesn't advocate for manipu
 
 #  Summary Diagram
 
-```mermaid
-graph LR
-    A[Understanding Power Dynamics] --> B(Strategic Planning);
-    B --> C(Target Analysis);
-    C --> D(Appearance & Charm);
-    D --> E(Creating Desire);
-    E --> F(Exploiting Weaknesses);
-    F --> G(Mastering Conversation);
-    G --> H(Adaptability & Timing);
-    H --> I(Ethical Considerations);
-    I --> J(Long-Term Connection);
-
-```
+![Summary Diagram. Understanding Power Dynamics; Strategic Planning; Target Analysis; Appearance & Charm; Creating Desire; Exploiting Weaknesses; Mastering Conversation; Adaptability & Timing; Ethical Considerations; Long-Term Connection.](diagram-02.svg)
 
 "The Art of Seduction" provides a framework for understanding and leveraging human psychology to achieve influence in various aspects of life. It emphasizes strategy, planning, and understanding the target's personality and vulnerabilities. While the book offers potent techniques, it ultimately emphasizes the importance of ethical considerations and the pursuit of genuine connections based on mutual respect. The ultimate aim is not merely to dominate, but to understand, influence, and build lasting relationships.
 

@@ -15,14 +15,7 @@ author: "Leo Babauta"
 
 Before diving into tasks, ZTD stresses the importance of self-reflection. This involves identifying your Areas of Focus (AOFs), which represent the major spheres of your life where you want to make progress. These could be family, health, work, creativity, spirituality, or anything else that holds personal significance.  Think of your AOFs as the compass directing your life.
 
-```mermaid
-graph LR
-    A["Areas of Focus (AOFs)"] --> B(Family);
-    A --> C(Health);
-    A --> D(Work);
-    A --> E(Creativity);
-    A --> F(Spirituality);
-```
+![Identifying Your Areas of Focus: The Compass and Map. Areas of Focus (AOFs); Family; Health; Work; Creativity; Spirituality.](diagram-01.svg)
 
 Once you've defined your AOFs, create a map – a long-term vision for each area.  What do you want to achieve in each area in the next year, five years, and beyond? This strategic overview prevents you from getting bogged down in daily tasks without a clear purpose.
 
@@ -31,14 +24,7 @@ Once you've defined your AOFs, create a map – a long-term vision for each area
 
 ZTD uses an "Inbox" as a central collection point for all incoming information: emails, ideas, tasks, errands, and anything else that demands your attention.  This prevents information overload and allows for focused processing at designated times.  Treat your Inbox as a holding area, not a place for decision-making.  The key is to get everything out of your head and into a trusted system.
 
-```mermaid
-graph LR
-    A[Inbox] --> B(Email);
-    A --> C(Ideas);
-    A --> D(Tasks);
-    A --> E(Errands);
-    A --> F(Anything Else);
-```
+![Capturing Your Thoughts: The Inbox. Inbox; Email; Ideas; Tasks; Errands; Anything Else.](diagram-02.svg)
 
 
 ## Processing Your Inbox: Mindful Clearing
@@ -58,13 +44,7 @@ This process keeps your Inbox clear and prevents it from becoming overwhelming.
 
 Once processed, tasks are added to your "Next Actions" list.  This list contains only actionable items, phrased as specific verbs.  Avoid vague entries; instead of "Write blog post," write "Write introduction to blog post."  This clarity helps you jump into action without hesitation.
 
-```mermaid
-graph LR
-    A[Next Actions] --> B("Write introduction to blog post");
-    A --> C("Send email to John");
-    A --> D("Schedule doctor's appointment");
-    A --> E("Pay bills");
-```
+![Defining Next Actions: The Engine of Productivity. Next Actions; Write introduction to blog post; Send email to John; Schedule doctor's appointment; Pay bills.](diagram-03.svg)
 
 This list should be context-based (e.g., "At home," "At work," "With computer"), making it easier to select tasks based on your current situation.
 

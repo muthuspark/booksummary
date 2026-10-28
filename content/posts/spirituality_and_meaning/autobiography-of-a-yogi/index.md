@@ -15,16 +15,7 @@ Paramahansa Yogananda's *Autobiography of a Yogi* is not merely a biographical a
 
 Central to Yogananda's teachings is Kriya Yoga, a powerful technique for achieving spiritual liberation.  He presents it not as a mystical practice confined to gurus, but as a scientifically grounded method accessible to all who sincerely seek it.  Kriya Yoga, as described, is a system of breath control, meditation, and concentration that systematically awakens Kundalini energy, the latent spiritual force residing within everyone.  It's not simply about physical postures but about an approach that integrates the mind, body, and spirit.
 
-```mermaid
-graph LR
-A[Kriya Yoga] --> B(Breath Control);
-A --> C(Meditation);
-A --> D(Concentration);
-B --> E{Kundalini Awakening};
-C --> E;
-D --> E;
-E --> F[Spiritual Liberation];
-```
+![The Power of Kriya Yoga. Kriya Yoga; Breath Control; Meditation; Concentration; Kundalini Awakening; Spiritual Liberation.](diagram-01.svg)
 
 The book stresses the importance of regular practice to experience its transformative effects. This isn't a quick fix but a path requiring dedication and perseverance, a commitment to self-improvement that yields rewards.
 

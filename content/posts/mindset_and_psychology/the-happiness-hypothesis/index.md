@@ -60,19 +60,7 @@ Self-control, or willpower, is the ability to regulate our impulses and make cho
 
 ##  Visualization: The Rider and the Elephant
 
-```mermaid
-graph LR
-    A["Rider (Reason)"] --> B(Conscious Thought);
-    A --> C(Planning);
-    A --> D(Decision-Making);
-    E["Elephant (Emotion)"] --> F(Intuition);
-    E --> G(Impulse);
-    E --> H(Habits);
-    A -- Weak Control --> E;
-    subgraph "Goal: Harmony"
-        A -.-> E;
-    end
-```
+![Visualization: The Rider and the Elephant. Rider (Reason); Conscious Thought; Planning; Decision-Making; Elephant (Emotion); Intuition; Impulse; Habits.](diagram-01.svg)
 
 This diagram illustrates the relationship between the rider (reason) and the elephant (emotion).  The goal is to achieve harmony, not dominance, between them.
 

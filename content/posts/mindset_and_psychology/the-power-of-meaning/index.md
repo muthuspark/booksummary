@@ -20,13 +20,7 @@ The book centers around four pillars that contribute to a meaningful life:
 * **Storytelling:**  Creating a narrative that gives coherence and significance to one's life experiences.
 * **Transcendence:**  Connecting to something larger than oneself, whether it's a spiritual belief, nature, or a cause.
 
-```mermaid
-graph LR
-A[Meaningful Life] --> B(Belonging);
-A --> C(Purpose);
-A --> D(Storytelling);
-A --> E(Transcendence);
-```
+![Four Pillars of Meaning. Meaningful Life; Belonging; Purpose; Storytelling; Transcendence.](diagram-01.svg)
 
 These pillars aren't mutually exclusive; they often intertwine and reinforce each other. The book argues that cultivating these pillars actively enhances well-being, providing a defense against life's inevitable challenges.
 

@@ -19,17 +19,7 @@ The book's core methodology rests on the principles of Neuro-Linguistic Programm
 
 Charvet highlights how limiting beliefs, often expressed through self-defeating language patterns, hinder personal growth. These beliefs, unconsciously adopted from past experiences or societal conditioning, manifest as negative self-talk and ultimately restrict our potential.  The book equips readers with techniques to identify and challenge these beliefs, replacing them with empowering affirmations and constructive self-dialogue.
 
-```mermaid
-graph LR
-A[Limiting Belief] --> B(Negative Self-Talk);
-B --> C{Restricted Potential};
-C --> D[Unfulfilled Life];
-D --> E((Transformation));
-E --> F[Empowering Belief];
-F --> G(Positive Self-Talk);
-G --> H{Expanded Potential};
-H --> I[Fulfilled Life];
-```
+![Identifying and Transforming Limiting Beliefs. Limiting Belief; Negative Self-Talk; Restricted Potential; Unfulfilled Life; Transformation; Empowering Belief; Positive Self-Talk; Expanded Potential; Fulfilled Life.](diagram-01.svg)
 
 # Mastering the Art of Meta-Modeling
 
@@ -66,17 +56,7 @@ Effective communication involves engaging all sensory modalities (visual, audito
 
 The book directly addresses the identification and transformation of limiting language patterns. These are recurring phrases or sentences that reflect negative beliefs or self-doubt.  The process involves consciously replacing these patterns with empowering alternatives. For example, replacing "I can't do it" with "I will find a way" or "I'm not good enough" with "I am capable and worthy."
 
-```mermaid
-graph LR
-A[Limiting Language Pattern] --> B(Negative Self-Image);
-B --> C{Low Self-Esteem};
-C --> D[Self-Sabotage];
-D --> E((Transformation));
-E --> F[Empowering Language Pattern];
-F --> G(Positive Self-Image);
-G --> H{High Self-Esteem};
-H --> I[Self-Confidence];
-```
+![Transforming Limiting Language Patterns. Limiting Language Pattern; Negative Self-Image; Low Self-Esteem; Self-Sabotage; Transformation; Empowering Language Pattern; Positive Self-Image; High Self-Esteem; Self-Confidence.](diagram-02.svg)
 
 
 #  The Importance of Congruence

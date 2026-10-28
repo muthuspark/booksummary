@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="858pt" height="332pt" viewBox="0.00 0.00 858.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Compassion: Embracing Imperfection</title><desc id="description">Failure leads to Self-Criticism. Self-Criticism leads to Stress &amp; Burnout. Stress &amp; Burnout leads to Ineffective Leadership. Failure leads to Self-Compassion. Self-Compassion leads to Learning &amp; Growth. Learning &amp; Growth leads to Resilient Leadership.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 840,-314 840,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-255.87C207,-248.31 207,-239.49 207,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-231.1 207,-224.1 204.55,-231.1 209.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-183.87C207,-176.31 207,-167.49 207,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-159.1 207,-152.1 204.55,-159.1 209.45,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-111.91C207,-104.58 207,-95.86 207,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-87.07 207,-80.07 204.55,-87.07 209.45,-87.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M629,-255.87C629,-248.31 629,-239.49 629,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="631.45,-231.1 629,-224.1 626.55,-231.1 631.45,-231.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M629,-183.87C629,-176.31 629,-167.49 629,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="631.45,-159.1 629,-152.1 626.55,-159.1 631.45,-159.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M629,-111.91C629,-104.58 629,-95.86 629,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="631.45,-87.07 629,-80.07 626.55,-87.07 631.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M238,-296C238,-296 176,-296 176,-296 170,-296 164,-290 164,-284 164,-284 164,-268 164,-268 164,-262 170,-256 176,-256 176,-256 238,-256 238,-256 244,-256 250,-262 250,-268 250,-268 250,-284 250,-284 250,-290 244,-296 238,-296" />
+<text text-anchor="middle" x="207" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Failure</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263.5,-224C263.5,-224 150.5,-224 150.5,-224 144.5,-224 138.5,-218 138.5,-212 138.5,-212 138.5,-196 138.5,-196 138.5,-190 144.5,-184 150.5,-184 150.5,-184 263.5,-184 263.5,-184 269.5,-184 275.5,-190 275.5,-196 275.5,-196 275.5,-212 275.5,-212 275.5,-218 269.5,-224 263.5,-224" />
+<text text-anchor="middle" x="207" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Criticism</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M277,-152C277,-152 137,-152 137,-152 131,-152 125,-146 125,-140 125,-140 125,-124 125,-124 125,-118 131,-112 137,-112 137,-112 277,-112 277,-112 283,-112 289,-118 289,-124 289,-124 289,-140 289,-140 289,-146 283,-152 277,-152" />
+<text text-anchor="middle" x="207" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress &amp; Burnout</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="207,-80 0,-40 207,0 414,-40 207,-80" />
+<text text-anchor="middle" x="207" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ineffective Leadership</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M660,-296C660,-296 598,-296 598,-296 592,-296 586,-290 586,-284 586,-284 586,-268 586,-268 586,-262 592,-256 598,-256 598,-256 660,-256 660,-256 666,-256 672,-262 672,-268 672,-268 672,-284 672,-284 672,-290 666,-296 660,-296" />
+<text text-anchor="middle" x="629" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Failure</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M698,-224C698,-224 560,-224 560,-224 554,-224 548,-218 548,-212 548,-212 548,-196 548,-196 548,-190 554,-184 560,-184 560,-184 698,-184 698,-184 704,-184 710,-190 710,-196 710,-196 710,-212 710,-212 710,-218 704,-224 698,-224" />
+<text text-anchor="middle" x="629" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Compassion</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M708,-152C708,-152 550,-152 550,-152 544,-152 538,-146 538,-140 538,-140 538,-124 538,-124 538,-118 544,-112 550,-112 550,-112 708,-112 708,-112 714,-112 720,-118 720,-124 720,-124 720,-140 720,-140 720,-146 714,-152 708,-152" />
+<text text-anchor="middle" x="629" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learning &amp; Growth</text>
+</g>
+
+<g id="node8" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="629,-80 436,-40 629,0 822,-40 629,-80" />
+<text text-anchor="middle" x="629" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilient Leadership</text>
+</g>
+</g>
+</svg>

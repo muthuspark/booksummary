@@ -14,12 +14,7 @@ author: "James Redfield"
 
 The first insight revolves around recognizing coincidences.  They aren't random; they're synchronicities, messages guiding us toward our life's purpose. Paying attention to these seemingly random occurrences and interpreting their significance is the first step toward self-discovery.
 
-```mermaid
-graph LR
-A[Coincidence] --> B(Synchronicity);
-B --> C{Meaningful Guidance};
-C --> D[Purpose];
-```
+![Insight One: The Discovery of Coincidence. Coincidence; Synchronicity; Meaningful Guidance; Purpose.](diagram-01.svg)
 
 **Actionable Insight:** Keep a journal.  Note down coincidences, patterns, and recurring themes.  Reflect on their possible meanings and how they relate to your life goals.
 
@@ -28,13 +23,7 @@ C --> D[Purpose];
 
 The second insight introduces the concept of energy fields surrounding individuals.  Our emotions and intentions affect these fields, influencing those around us.  Negative emotions create draining fields, while positive emotions generate uplifting ones.
 
-```mermaid
-graph LR
-A[Negative Emotions] --> B{Draining Energy Field};
-B --> C[Negative Interactions];
-D[Positive Emotions] --> E{Uplifting Energy Field};
-E --> F[Positive Interactions];
-```
+![Insight Two: The Power of Energy Fields. Negative Emotions; Draining Energy Field; Negative Interactions; Positive Emotions; Uplifting Energy Field; Positive Interactions.](diagram-02.svg)
 
 **Actionable Insight:** Become more aware of your emotional state.  Practice mindfulness and self-regulation techniques to maintain a positive and empowering energy field.  Surround yourself with positive people.
 
@@ -43,13 +32,7 @@ E --> F[Positive Interactions];
 
 This insight explains how controlling our attention is crucial. We unconsciously absorb others' energy fields.  Mastering attention allows us to choose what energy we receive, making us less susceptible to manipulation.
 
-```mermaid
-graph LR
-A[Uncontrolled Attention] --> B{Absorption of Negative Energies};
-B --> C[Vulnerability to Manipulation];
-D[Controlled Attention] --> E{Selection of Positive Energies};
-E --> F[Resilience];
-```
+![Insight Three: The Mastery of Attention. Uncontrolled Attention; Absorption of Negative Energies; Vulnerability to Manipulation; Controlled Attention; Selection of Positive Energies; Resilience.](diagram-03.svg)
 
 **Actionable Insight:** Practice focusing on your inner self, becoming more aware of your thoughts and feelings. Learn to consciously direct your attention away from negativity and toward positive stimuli.  Meditation and mindful breathing are key tools.
 
@@ -58,13 +41,7 @@ E --> F[Resilience];
 
 The fourth insight focuses on intention.  Our intentions are powerful forces influencing our reality.  Clear, positive intentions, combined with controlled attention, lead to more favorable outcomes.
 
-```mermaid
-graph LR
-A[Clear Intention] --> B(Controlled Attention);
-B --> C[Positive Outcome];
-D[Unclear Intention] --> E(Unfocused Attention);
-E --> F[Negative Outcome];
-```
+![Insight Four: The Role of Intention. Clear Intention; Controlled Attention; Positive Outcome; Unclear Intention; Unfocused Attention; Negative Outcome.](diagram-04.svg)
 
 **Actionable Insight:** Practice setting clear, specific, and positive intentions for your goals. Visualize your intentions achieving success.  Believe in your ability to achieve them.
 
@@ -73,12 +50,7 @@ E --> F[Negative Outcome];
 
 This highlights the interconnectedness of all living beings.  We're all part of a larger, unified energy field.  Understanding this interconnectedness promotes empathy, compassion, and cooperation.
 
-```mermaid
-graph LR
-A[Individual] --> B(Interconnected);
-B --> C[Community];
-C --> D{Unified Energy Field};
-```
+![Insight Five: The Interconnection of All Things. Individual; Interconnected; Community; Unified Energy Field.](diagram-05.svg)
 
 **Actionable Insight:** Practice empathy and compassion. Seek to understand different viewpoints and connect meaningfully with people around you. Your actions affect others, and vice-versa.
 

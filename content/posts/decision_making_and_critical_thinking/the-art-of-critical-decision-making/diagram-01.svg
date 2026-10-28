@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="437pt" height="367pt" viewBox="0.00 0.00 436.50 367.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Framing the Problem</title><desc id="description">Gather Information leads to Analyze Situation. Diverse Perspectives leads to Analyze Situation. Analyze Situation leads to Reframe Problem?. Reframe Problem? leads to Analyze Situation (Yes). Reframe Problem? leads to Develop Solutions (No).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 349)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-349 418.5,-349 418.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M120.64,-290.97C133.82,-282.06 149.64,-271.37 163.48,-262" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.86,-264.03 169.28,-258.08 162.11,-259.97 164.86,-264.03" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195.55,-217.76C195.12,-212.65 194.72,-207.12 194.5,-202 194.14,-193.5 194.18,-184.44 194.43,-175.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.89,-175.57 194.7,-168.49 191.99,-175.39 196.89,-175.57" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M275.09,-290.97C261.79,-282.06 245.82,-271.37 231.84,-262" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.16,-259.94 225.98,-258.08 230.44,-264.01 233.16,-259.94" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.5,-169.35C197.5,-183.19 197.5,-198.39 197.5,-210.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.05,-210.87 197.5,-217.87 199.95,-210.87 195.05,-210.87" />
+<text text-anchor="middle" x="209.5" y="-190" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.5,-88.76C197.5,-74.9 197.5,-59.67 197.5,-47.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.95,-47.14 197.5,-40.14 195.05,-47.14 199.95,-47.14" />
+<text text-anchor="middle" x="207.5" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-331C173,-331 12,-331 12,-331 6,-331 0,-325 0,-319 0,-319 0,-303 0,-303 0,-297 6,-291 12,-291 12,-291 173,-291 173,-291 179,-291 185,-297 185,-303 185,-303 185,-319 185,-319 185,-325 179,-331 173,-331" />
+<text text-anchor="middle" x="92.5" y="-306.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Information</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M269.5,-258C269.5,-258 125.5,-258 125.5,-258 119.5,-258 113.5,-252 113.5,-246 113.5,-246 113.5,-230 113.5,-230 113.5,-224 119.5,-218 125.5,-218 125.5,-218 269.5,-218 269.5,-218 275.5,-218 281.5,-224 281.5,-230 281.5,-230 281.5,-246 281.5,-246 281.5,-252 275.5,-258 269.5,-258" />
+<text text-anchor="middle" x="197.5" y="-233.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analyze Situation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M388.5,-331C388.5,-331 218.5,-331 218.5,-331 212.5,-331 206.5,-325 206.5,-319 206.5,-319 206.5,-303 206.5,-303 206.5,-297 212.5,-291 218.5,-291 218.5,-291 388.5,-291 388.5,-291 394.5,-291 400.5,-297 400.5,-303 400.5,-303 400.5,-319 400.5,-319 400.5,-325 394.5,-331 388.5,-331" />
+<text text-anchor="middle" x="303.5" y="-306.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diverse Perspectives</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="197.5,-169 18.5,-129 197.5,-89 376.5,-129 197.5,-169" />
+<text text-anchor="middle" x="197.5" y="-124.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reframe Problem?</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M272,-40C272,-40 123,-40 123,-40 117,-40 111,-34 111,-28 111,-28 111,-12 111,-12 111,-6 117,0 123,0 123,0 272,0 272,0 278,0 284,-6 284,-12 284,-12 284,-28 284,-28 284,-34 278,-40 272,-40" />
+<text text-anchor="middle" x="197.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Solutions</text>
+</g>
+</g>
+</svg>

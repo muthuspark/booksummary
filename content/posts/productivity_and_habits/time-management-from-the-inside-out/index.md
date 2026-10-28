@@ -28,12 +28,7 @@ Prioritization is paramount. Morgenstern advocates for a system that goes beyond
 
 This prioritization isn't a one-time event but an ongoing process requiring regular review and adjustment.  The book introduces strategies like the "Pareto Principle" (80/20 rule) to focus on the 20% of activities yielding 80% of the results.
 
-```mermaid
-graph LR
-    A[Values] --> B(Goals);
-    B --> C{Prioritized Tasks};
-    C --> D[Achievement];
-```
+![The Power of Prioritization:  Focusing on What Matters. Values; Goals; Prioritized Tasks; Achievement.](diagram-01.svg)
 
 ##  Creating a Functional System:  Organizing Your Time
 

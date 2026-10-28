@@ -14,12 +14,7 @@ Clayton Christensen's "The Innovator's Dilemma" explores why seemingly successfu
 
 Sustaining innovations improve existing products and services, catering to the needs of established customers. They offer better performance, higher quality, and increased functionality.  Companies excel at managing sustaining innovation because it aligns with their existing resources, processes, and customer base.
 
-```mermaid
-graph LR
-    A[Established Market] --> B(Sustaining Innovation);
-    B --> C[Improved Product/Service];
-    C --> D[Higher Profitability];
-```
+![Understanding Sustaining Innovation. Established Market; Sustaining Innovation; Improved Product/Service; Higher Profitability.](diagram-01.svg)
 
 However, a focus solely on sustaining innovations can blind companies to disruptive forces.
 
@@ -27,13 +22,7 @@ However, a focus solely on sustaining innovations can blind companies to disrupt
 
 Disruptive innovations initially appear inferior to existing products. They often target a new market or a neglected segment of the existing market, offering simpler, more convenient, and often cheaper solutions. While initially lacking in performance compared to established products, disruptive innovations improve rapidly, eventually surpassing established products and disrupting the entire market.
 
-```mermaid
-graph LR
-    A[New Market/Niche] --> B(Disruptive Innovation);
-    B --> C[Simpler, Cheaper Product];
-    C --> D[Gradual Performance Improvement];
-    D --> E[Market Disruption];
-```
+![The Threat of Disruptive Innovation. New Market/Niche; Disruptive Innovation; Simpler, Cheaper Product; Gradual Performance Improvement; Market Disruption.](diagram-02.svg)
 
 This is the "innovator's dilemma":  companies are often successful precisely because they listen to and serve their customers, but this very success can lead to their downfall when a disruptive innovation emerges.
 

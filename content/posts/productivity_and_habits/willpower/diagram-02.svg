@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="484pt" height="200pt" viewBox="0.00 0.00 484.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Physical and Mental Health</title><desc id="description">Sleep leads to Energy. Nutrition leads to Energy. Exercise leads to Energy. Energy leads to Improved Willpower.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 466,-182 466,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M87.51,-126.56C100.73,-119.98 116,-112.38 130.13,-105.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="131.36,-107.46 136.54,-102.15 129.18,-103.08 131.36,-107.46" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M221.15,-82C228.77,-82 237.02,-82 245.54,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.74,-84.45 252.74,-82 245.74,-79.55 245.74,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.14,-82C111.18,-82 119.49,-82 127.5,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.76,-84.45 134.76,-82 127.76,-79.55 127.76,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.92,-40.13C104.89,-46.09 118.1,-52.67 130.43,-58.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="129.42,-61.04 136.78,-61.97 131.61,-56.66 129.42,-61.04" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M75.5,-164C75.5,-164 27.5,-164 27.5,-164 21.5,-164 15.5,-158 15.5,-152 15.5,-152 15.5,-136 15.5,-136 15.5,-130 21.5,-124 27.5,-124 27.5,-124 75.5,-124 75.5,-124 81.5,-124 87.5,-130 87.5,-136 87.5,-136 87.5,-152 87.5,-152 87.5,-158 81.5,-164 75.5,-164" />
+<text text-anchor="middle" x="51.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sleep</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-102C209,-102 147,-102 147,-102 141,-102 135,-96 135,-90 135,-90 135,-74 135,-74 135,-68 141,-62 147,-62 147,-62 209,-62 209,-62 215,-62 221,-68 221,-74 221,-74 221,-90 221,-90 221,-96 215,-102 209,-102" />
+<text text-anchor="middle" x="178" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Energy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M91,-102C91,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 91,-62 91,-62 97,-62 103,-68 103,-74 103,-74 103,-90 103,-90 103,-96 97,-102 91,-102" />
+<text text-anchor="middle" x="51.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nutrition</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M87.5,-40C87.5,-40 15.5,-40 15.5,-40 9.5,-40 3.5,-34 3.5,-28 3.5,-28 3.5,-12 3.5,-12 3.5,-6 9.5,0 15.5,0 15.5,0 87.5,0 87.5,0 93.5,0 99.5,-6 99.5,-12 99.5,-12 99.5,-28 99.5,-28 99.5,-34 93.5,-40 87.5,-40" />
+<text text-anchor="middle" x="51.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exercise</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M436,-102C436,-102 265,-102 265,-102 259,-102 253,-96 253,-90 253,-90 253,-74 253,-74 253,-68 259,-62 265,-62 265,-62 436,-62 436,-62 442,-62 448,-68 448,-74 448,-74 448,-90 448,-90 448,-96 442,-102 436,-102" />
+<text text-anchor="middle" x="350.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Willpower</text>
+</g>
+</g>
+</svg>

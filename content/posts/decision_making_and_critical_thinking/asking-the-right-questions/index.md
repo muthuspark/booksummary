@@ -30,13 +30,7 @@ Once the conclusion is identified, one must look for the reasons provided to sup
 
 Assumptions are unstated beliefs that bridge the gap between reasons and the conclusion. They are often implicit, requiring the reader to identify what must be true for the reasons to support the conclusion. Uncovering assumptions often represents points of vulnerability in an argument. Challenging assumptions can alter the evaluation of the argument's validity.
 
-```mermaid
-graph LR
-    A[Issue] --> B(Conclusion);
-    B --> C{Reasons};
-    C --> D[Assumptions];
-    D --> E(Evaluation);
-```
+![Identifying Assumptions. Issue; Conclusion; Reasons; Assumptions; Evaluation.](diagram-01.svg)
 
 ### Evaluating Reasons and Evidence
 

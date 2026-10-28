@@ -45,15 +45,7 @@ The process of creating involves challenges. Anderson advocates for a design-thi
 
 **Actionable Insight:** Adopt a design thinking mindset. Create prototypes, test them, gather feedback, and iterate. Don't be afraid to fail; failure is a part of the learning process.
 
-```mermaid
-graph TD
-A[Identify Problem] --> B(Prototype);
-B --> C{Feedback};
-C -- Positive --> D(Refine);
-C -- Negative --> E(Iterate);
-D --> F[Launch/Improve];
-E --> B;
-```
+![Overcoming Challenges:  Design Thinking. Identify Problem; Prototype; Feedback; Refine; Iterate; Launch/Improve.](diagram-01.svg)
 
 
 ## The Importance of Community and Mentorship

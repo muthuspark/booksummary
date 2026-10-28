@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192pt" height="384pt" viewBox="0.00 0.00 192.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">Right Speech and Communication: The Path to Understanding</title><desc id="description">Right Speech leads to Truthfulness. Truthfulness leads to Kindness. Kindness leads to Compassion. Compassion leads to Harmonious Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 174,-366 174,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-307.87C78,-300.31 78,-291.49 78,-283.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-283.1 78,-276.1 75.55,-283.1 80.45,-283.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-235.87C78,-228.31 78,-219.49 78,-211.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-211.1 78,-204.1 75.55,-211.1 80.45,-211.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-163.87C78,-156.31 78,-147.49 78,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-139.1 78,-132.1 75.55,-139.1 80.45,-139.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78,-91.63C78,-84.34 78,-75.78 78,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.45,-67.19 78,-60.19 75.55,-67.19 80.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M133,-348C133,-348 23,-348 23,-348 17,-348 11,-342 11,-336 11,-336 11,-320 11,-320 11,-314 17,-308 23,-308 23,-308 133,-308 133,-308 139,-308 145,-314 145,-320 145,-320 145,-336 145,-336 145,-342 139,-348 133,-348" />
+<text text-anchor="middle" x="78" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Right Speech</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M131.5,-276C131.5,-276 24.5,-276 24.5,-276 18.5,-276 12.5,-270 12.5,-264 12.5,-264 12.5,-248 12.5,-248 12.5,-242 18.5,-236 24.5,-236 24.5,-236 131.5,-236 131.5,-236 137.5,-236 143.5,-242 143.5,-248 143.5,-248 143.5,-264 143.5,-264 143.5,-270 137.5,-276 131.5,-276" />
+<text text-anchor="middle" x="78" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Truthfulness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M117,-204C117,-204 39,-204 39,-204 33,-204 27,-198 27,-192 27,-192 27,-176 27,-176 27,-170 33,-164 39,-164 39,-164 117,-164 117,-164 123,-164 129,-170 129,-176 129,-176 129,-192 129,-192 129,-198 123,-204 117,-204" />
+<text text-anchor="middle" x="78" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Kindness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M128.5,-132C128.5,-132 27.5,-132 27.5,-132 21.5,-132 15.5,-126 15.5,-120 15.5,-120 15.5,-104 15.5,-104 15.5,-98 21.5,-92 27.5,-92 27.5,-92 128.5,-92 128.5,-92 134.5,-92 140.5,-98 140.5,-104 140.5,-104 140.5,-120 140.5,-120 140.5,-126 134.5,-132 128.5,-132" />
+<text text-anchor="middle" x="78" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compassion</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M144,-60C144,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 144,0 144,0 150,0 156,-6 156,-12 156,-12 156,-48 156,-48 156,-54 150,-60 144,-60" />
+<text text-anchor="middle" x="78" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Harmonious</text>
+<text text-anchor="middle" x="78" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+</g>
+</svg>

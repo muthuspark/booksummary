@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420pt" height="424pt" viewBox="0.00 0.00 420.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Structured Decision-Making Processes</title><desc id="description">Clearly Define Problem leads to Generate Alternatives. Generate Alternatives leads to Evaluate Objectively. Evaluate Objectively leads to Seek Diverse Perspectives. Seek Diverse Perspectives leads to Improved Decision.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 402,-406 402,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-347.87C192,-340.31 192,-331.49 192,-323.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-323.1 192,-316.1 189.55,-323.1 194.45,-323.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-275.91C192,-268.58 192,-259.86 192,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-251.07 192,-244.07 189.55,-251.07 194.45,-251.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-163.76C192,-155.72 192,-147.29 192,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-139.23 192,-132.23 189.55,-139.23 194.45,-139.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-71.67C192,-63.77 192,-55.28 192,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-47.12 192,-40.12 189.55,-47.12 194.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M287.5,-388C287.5,-388 96.5,-388 96.5,-388 90.5,-388 84.5,-382 84.5,-376 84.5,-376 84.5,-360 84.5,-360 84.5,-354 90.5,-348 96.5,-348 96.5,-348 287.5,-348 287.5,-348 293.5,-348 299.5,-354 299.5,-360 299.5,-360 299.5,-376 299.5,-376 299.5,-382 293.5,-388 287.5,-388" />
+<text text-anchor="middle" x="192" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clearly Define Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M281,-316C281,-316 103,-316 103,-316 97,-316 91,-310 91,-304 91,-304 91,-288 91,-288 91,-282 97,-276 103,-276 103,-276 281,-276 281,-276 287,-276 293,-282 293,-288 293,-288 293,-304 293,-304 293,-310 287,-316 281,-316" />
+<text text-anchor="middle" x="192" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Generate Alternatives</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="192,-244 0,-204 192,-164 384,-204 192,-244" />
+<text text-anchor="middle" x="192" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluate Objectively</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M245.5,-132C245.5,-132 138.5,-132 138.5,-132 132.5,-132 126.5,-126 126.5,-120 126.5,-120 126.5,-84 126.5,-84 126.5,-78 132.5,-72 138.5,-72 138.5,-72 245.5,-72 245.5,-72 251.5,-72 257.5,-78 257.5,-84 257.5,-84 257.5,-120 257.5,-120 257.5,-126 251.5,-132 245.5,-132" />
+<text text-anchor="middle" x="192" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seek Diverse</text>
+<text text-anchor="middle" x="192" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perspectives</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M270.5,-40C270.5,-40 113.5,-40 113.5,-40 107.5,-40 101.5,-34 101.5,-28 101.5,-28 101.5,-12 101.5,-12 101.5,-6 107.5,0 113.5,0 113.5,0 270.5,0 270.5,0 276.5,0 282.5,-6 282.5,-12 282.5,-12 282.5,-28 282.5,-28 282.5,-34 276.5,-40 270.5,-40" />
+<text text-anchor="middle" x="192" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Decision</text>
+</g>
+</g>
+</svg>

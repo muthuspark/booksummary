@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="479pt" height="260pt" viewBox="0.00 0.00 479.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Fundamentals of Logic</title><desc id="description">Deductive Reasoning leads to General Principle --&gt; Specific Conclusion. Inductive Reasoning leads to Specific Observations --&gt; General Conclusion. Abductive Reasoning leads to Observations --&gt; Most Likely Explanation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 461,-242 461,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.33,-30C208,-30 218.91,-30 229.67,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.72,-32.45 236.72,-30 229.72,-27.55 229.72,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194.61,-112C203.47,-112 212.51,-112 221.52,-112" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.74,-114.45 228.74,-112 221.74,-109.55 221.74,-114.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.33,-194C206.69,-194 216.23,-194 225.7,-194" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.92,-196.45 232.92,-194 225.92,-191.55 225.92,-196.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-50C185,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 185,-10 185,-10 191,-10 197,-16 197,-22 197,-22 197,-38 197,-38 197,-44 191,-50 185,-50" />
+<text text-anchor="middle" x="98.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deductive Reasoning</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M423,-60C423,-60 249,-60 249,-60 243,-60 237,-54 237,-48 237,-48 237,-12 237,-12 237,-6 243,0 249,0 249,0 423,0 423,0 429,0 435,-6 435,-12 435,-12 435,-48 435,-48 435,-54 429,-60 423,-60" />
+<text text-anchor="middle" x="336" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">General Principle --&gt;</text>
+<text text-anchor="middle" x="336" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Specific Conclusion</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182.5,-132C182.5,-132 14.5,-132 14.5,-132 8.5,-132 2.5,-126 2.5,-120 2.5,-120 2.5,-104 2.5,-104 2.5,-98 8.5,-92 14.5,-92 14.5,-92 182.5,-92 182.5,-92 188.5,-92 194.5,-98 194.5,-104 194.5,-104 194.5,-120 194.5,-120 194.5,-126 188.5,-132 182.5,-132" />
+<text text-anchor="middle" x="98.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inductive Reasoning</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M431,-142C431,-142 241,-142 241,-142 235,-142 229,-136 229,-130 229,-130 229,-94 229,-94 229,-88 235,-82 241,-82 241,-82 431,-82 431,-82 437,-82 443,-88 443,-94 443,-94 443,-130 443,-130 443,-136 437,-142 431,-142" />
+<text text-anchor="middle" x="336" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Specific Observations</text>
+<text text-anchor="middle" x="336" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">--&gt; General Conclusion</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-214C185,-214 12,-214 12,-214 6,-214 0,-208 0,-202 0,-202 0,-186 0,-186 0,-180 6,-174 12,-174 12,-174 185,-174 185,-174 191,-174 197,-180 197,-186 197,-186 197,-202 197,-202 197,-208 191,-214 185,-214" />
+<text text-anchor="middle" x="98.5" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Abductive Reasoning</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M427,-224C427,-224 245,-224 245,-224 239,-224 233,-218 233,-212 233,-212 233,-176 233,-176 233,-170 239,-164 245,-164 245,-164 427,-164 427,-164 433,-164 439,-170 439,-176 439,-176 439,-212 439,-212 439,-218 433,-224 427,-224" />
+<text text-anchor="middle" x="336" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Observations --&gt; Most</text>
+<text text-anchor="middle" x="336" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Likely Explanation</text>
+</g>
+</g>
+</svg>

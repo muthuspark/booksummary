@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644pt" height="138pt" viewBox="0.00 0.00 644.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Problem-Solving Frameworks: Structured Approaches to Challenges</title><desc id="description">Problem leads to Five Whys. Five Whys leads to Root Cause. Root Cause leads to Solution. Problem leads to Decision Matrix. Decision Matrix leads to Optimal Solution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 626,-120 626,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.15,-60.47C111.84,-63.39 128.22,-66.64 143.72,-69.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="143.42,-72.16 150.76,-71.12 144.38,-67.36 143.42,-72.16" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.15,-41.53C104.99,-39.97 113.32,-38.32 121.73,-36.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.43,-39.01 128.81,-35.24 121.47,-34.2 122.43,-39.01" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.2,-82C283.87,-82 308.96,-82 331.61,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="331.87,-84.45 338.87,-82 331.87,-79.55 331.87,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M458.17,-82C473.65,-82 490.28,-82 505.51,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="505.86,-84.45 512.86,-82 505.86,-79.55 505.86,-84.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M284.23,-20C292.2,-20 300.34,-20 308.42,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="308.83,-22.45 315.83,-20 308.83,-17.55 308.83,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M85,-71C85,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 85,-31 85,-31 91,-31 97,-37 97,-43 97,-43 97,-59 97,-59 97,-65 91,-71 85,-71" />
+<text text-anchor="middle" x="48.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M250,-102C250,-102 163,-102 163,-102 157,-102 151,-96 151,-90 151,-90 151,-74 151,-74 151,-68 157,-62 163,-62 163,-62 250,-62 250,-62 256,-62 262,-68 262,-74 262,-74 262,-90 262,-90 262,-96 256,-102 250,-102" />
+<text text-anchor="middle" x="206.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Five Whys</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M446,-102C446,-102 351,-102 351,-102 345,-102 339,-96 339,-90 339,-90 339,-74 339,-74 339,-68 345,-62 351,-62 351,-62 446,-62 446,-62 452,-62 458,-68 458,-74 458,-74 458,-90 458,-90 458,-96 452,-102 446,-102" />
+<text text-anchor="middle" x="398.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Root Cause</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M596,-102C596,-102 525,-102 525,-102 519,-102 513,-96 513,-90 513,-90 513,-74 513,-74 513,-68 519,-62 525,-62 525,-62 596,-62 596,-62 602,-62 608,-68 608,-74 608,-74 608,-90 608,-90 608,-96 602,-102 596,-102" />
+<text text-anchor="middle" x="560.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solution</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M272,-40C272,-40 141,-40 141,-40 135,-40 129,-34 129,-28 129,-28 129,-12 129,-12 129,-6 135,0 141,0 141,0 272,0 272,0 278,0 284,-6 284,-12 284,-12 284,-28 284,-28 284,-34 278,-40 272,-40" />
+<text text-anchor="middle" x="206.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Matrix</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M469,-40C469,-40 328,-40 328,-40 322,-40 316,-34 316,-28 316,-28 316,-12 316,-12 316,-6 322,0 328,0 328,0 469,0 469,0 475,0 481,-6 481,-12 481,-12 481,-28 481,-28 481,-34 475,-40 469,-40" />
+<text text-anchor="middle" x="398.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Optimal Solution</text>
+</g>
+</g>
+</svg>

@@ -15,13 +15,7 @@ Emotional intelligence (EQ) is not merely about being "nice." It's a skillset im
 
 Understanding your emotions, strengths, weaknesses, and values is paramount. Self-awareness allows for realistic self-assessment and prevents emotional hijacking, where impulsive reactions dominate rational decision-making.  Regular self-reflection, seeking feedback from trusted sources, and paying attention to your body's physical reactions are all tools.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Honest Self-Assessment);
-C[Feedback from Others] --> B;
-D[Body Awareness] --> B;
-B --> E(Improved Self-Understanding);
-```
+![Self-Awareness: Knowing Yourself. Self-Reflection; Honest Self-Assessment; Feedback from Others; Body Awareness; Improved Self-Understanding.](diagram-01.svg)
 
 
 ## Self-Regulation: Managing Your Emotions
@@ -30,13 +24,7 @@ This involves controlling impulses, managing stress, and adapting to changing ci
 
 Understanding your triggers—situations or people that elicit strong emotional responses—is essential for proactively managing reactions.  
 
-```mermaid
-graph LR
-A[Mindfulness] --> B(Emotional Control);
-C[Deep Breathing] --> B;
-D[Cognitive Reframing] --> B;
-B --> E(Improved Stress Management);
-```
+![Self-Regulation: Managing Your Emotions. Mindfulness; Emotional Control; Deep Breathing; Cognitive Reframing; Improved Stress Management.](diagram-02.svg)
 
 
 ## Motivation: Driving Yourself and Others
@@ -53,14 +41,7 @@ Empathy involves understanding and sharing the feelings of others.  Active liste
 
 Social skills include effective communication, collaboration, conflict management, and leadership. Strong communicators clearly convey their messages, actively listen, and seek to understand various perspectives. They are adept at building rapport and navigating challenging interpersonal dynamics. Effective conflict management involves finding win-win solutions and maintaining respect during disagreements. Leaders with strong social skills can inspire, motivate, and guide their teams towards shared goals.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Effective Communication);
-C[Non-Verbal Awareness] --> B;
-D[Clear Communication] --> B;
-E[Conflict Resolution] --> F(Strong Relationships);
-B --> F;
-```
+![Social Skills: Building Relationships. Active Listening; Effective Communication; Non-Verbal Awareness; Clear Communication; Conflict Resolution; Strong Relationships.](diagram-03.svg)
 
 
 ## Applying Emotional Intelligence in the Workplace: Leadership

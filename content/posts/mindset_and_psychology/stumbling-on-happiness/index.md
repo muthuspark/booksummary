@@ -19,12 +19,7 @@ We constantly make predictions about future happiness, guiding our decisions on 
 * **Immune Neglect:** We fail to account for our psychological immune system's remarkable ability to help us cope with even the most traumatic events. We underestimate our resilience.
 
 
-```mermaid
-graph LR
-A["Event (e.g., winning lottery)"] --> B(Predicted Emotional Response: Intense, Long-lasting);
-B --> C{Reality: Adaptation & Reduced Emotional Intensity};
-C --> D[Actual Emotional Response: Less Intense, Shorter Duration];
-```
+![The Psychology of Prediction: Why We're So Often Wrong. Event (e.g., winning lottery); Predicted Emotional Response: Intense, Long-lasting; Reality: Adaptation & Reduced Emotional Intensity; Actual Emotional Response: Less Intense, Shorter Duration.](diagram-01.svg)
 
 #  The Power of the Psychological Immune System:  Adapting to Change
 

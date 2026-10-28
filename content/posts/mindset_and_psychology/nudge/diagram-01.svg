@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381pt" height="324pt" viewBox="0.00 0.00 381.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">Cognitive Biases and Their Impact</title><desc id="description">Cognitive Biases leads to Loss Aversion. Cognitive Biases leads to Present Bias. Cognitive Biases leads to Framing Effects. Cognitive Biases leads to Anchoring Bias. Cognitive Biases leads to Status Quo Bias.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 363,-306 363,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.96,-164.32C120.91,-184.76 155.54,-216.18 190,-237 194.57,-239.76 199.43,-242.38 204.4,-244.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.37,-247.05 210.74,-247.84 205.47,-242.62 203.37,-247.05" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.29,-164.04C159.14,-170.31 180.05,-177.26 199.34,-183.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.68,-186.04 206.09,-185.92 200.23,-181.39 198.68,-186.04" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.01,-144C166.11,-144 174.37,-144 182.53,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183,-146.45 190,-144 183,-141.55 183,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.29,-123.96C159.14,-117.69 180.05,-110.74 199.34,-104.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.23,-106.61 206.09,-102.08 198.68,-101.96 200.23,-106.61" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.96,-123.68C120.91,-103.24 155.54,-71.82 190,-51 194.57,-48.24 199.43,-45.62 204.4,-43.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.47,-45.38 210.74,-40.16 203.37,-40.95 205.47,-45.38" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-164C146,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 146,-124 146,-124 152,-124 158,-130 158,-136 158,-136 158,-152 158,-152 158,-158 152,-164 146,-164" />
+<text text-anchor="middle" x="79" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Biases</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M325,-288C325,-288 210,-288 210,-288 204,-288 198,-282 198,-276 198,-276 198,-260 198,-260 198,-254 204,-248 210,-248 210,-248 325,-248 325,-248 331,-248 337,-254 337,-260 337,-260 337,-276 337,-276 337,-282 331,-288 325,-288" />
+<text text-anchor="middle" x="267.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Loss Aversion</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M319.5,-226C319.5,-226 215.5,-226 215.5,-226 209.5,-226 203.5,-220 203.5,-214 203.5,-214 203.5,-198 203.5,-198 203.5,-192 209.5,-186 215.5,-186 215.5,-186 319.5,-186 319.5,-186 325.5,-186 331.5,-192 331.5,-198 331.5,-198 331.5,-214 331.5,-214 331.5,-220 325.5,-226 319.5,-226" />
+<text text-anchor="middle" x="267.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Bias</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M333,-164C333,-164 202,-164 202,-164 196,-164 190,-158 190,-152 190,-152 190,-136 190,-136 190,-130 196,-124 202,-124 202,-124 333,-124 333,-124 339,-124 345,-130 345,-136 345,-136 345,-152 345,-152 345,-158 339,-164 333,-164" />
+<text text-anchor="middle" x="267.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Framing Effects</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M330.5,-102C330.5,-102 204.5,-102 204.5,-102 198.5,-102 192.5,-96 192.5,-90 192.5,-90 192.5,-74 192.5,-74 192.5,-68 198.5,-62 204.5,-62 204.5,-62 330.5,-62 330.5,-62 336.5,-62 342.5,-68 342.5,-74 342.5,-74 342.5,-90 342.5,-90 342.5,-96 336.5,-102 330.5,-102" />
+<text text-anchor="middle" x="267.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anchoring Bias</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M332.5,-40C332.5,-40 202.5,-40 202.5,-40 196.5,-40 190.5,-34 190.5,-28 190.5,-28 190.5,-12 190.5,-12 190.5,-6 196.5,0 202.5,0 202.5,0 332.5,0 332.5,0 338.5,0 344.5,-6 344.5,-12 344.5,-12 344.5,-28 344.5,-28 344.5,-34 338.5,-40 332.5,-40" />
+<text text-anchor="middle" x="267.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Status Quo Bias</text>
+</g>
+</g>
+</svg>

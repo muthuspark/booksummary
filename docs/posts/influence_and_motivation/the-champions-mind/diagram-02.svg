@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586pt" height="200pt" viewBox="0.00 0.00 586.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Confidence and Self-Efficacy</title><desc id="description">Attainable Goals leads to Increased Self-Efficacy. Mastering Skills leads to Increased Self-Efficacy. Positive Experiences leads to Increased Self-Efficacy. Increased Self-Efficacy leads to High Confidence.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 568,-182 568,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.23,-123.92C171.47,-120.29 183.09,-116.53 194,-113 202.11,-110.37 210.61,-107.62 219.06,-104.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.9,-107.18 225.81,-102.69 218.39,-102.52 219.9,-107.18" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M355.04,-82C363.12,-82 371.49,-82 379.86,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="379.89,-84.45 386.89,-82 379.89,-79.55 379.89,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.06,-82C189.4,-82 204.32,-82 218.47,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.79,-84.45 225.79,-82 218.79,-79.55 218.79,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.23,-40.08C171.47,-43.71 183.09,-47.47 194,-51 202.11,-53.63 210.61,-56.38 219.06,-59.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.39,-61.48 225.81,-61.31 219.9,-56.82 218.39,-61.48" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164.5,-164C164.5,-164 29.5,-164 29.5,-164 23.5,-164 17.5,-158 17.5,-152 17.5,-152 17.5,-136 17.5,-136 17.5,-130 23.5,-124 29.5,-124 29.5,-124 164.5,-124 164.5,-124 170.5,-124 176.5,-130 176.5,-136 176.5,-136 176.5,-152 176.5,-152 176.5,-158 170.5,-164 164.5,-164" />
+<text text-anchor="middle" x="97" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attainable Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M343,-112C343,-112 238,-112 238,-112 232,-112 226,-106 226,-100 226,-100 226,-64 226,-64 226,-58 232,-52 238,-52 238,-52 343,-52 343,-52 349,-52 355,-58 355,-64 355,-64 355,-100 355,-100 355,-106 349,-112 343,-112" />
+<text text-anchor="middle" x="290.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="290.5" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Efficacy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-102C163,-102 31,-102 31,-102 25,-102 19,-96 19,-90 19,-90 19,-74 19,-74 19,-68 25,-62 31,-62 31,-62 163,-62 163,-62 169,-62 175,-68 175,-74 175,-74 175,-90 175,-90 175,-96 169,-102 163,-102" />
+<text text-anchor="middle" x="97" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mastering Skills</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-40C182,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 182,0 182,0 188,0 194,-6 194,-12 194,-12 194,-28 194,-28 194,-34 188,-40 182,-40" />
+<text text-anchor="middle" x="97" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Experiences</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M538,-102C538,-102 399,-102 399,-102 393,-102 387,-96 387,-90 387,-90 387,-74 387,-74 387,-68 393,-62 399,-62 399,-62 538,-62 538,-62 544,-62 550,-68 550,-74 550,-74 550,-90 550,-90 550,-96 544,-102 538,-102" />
+<text text-anchor="middle" x="468.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Confidence</text>
+</g>
+</g>
+</svg>

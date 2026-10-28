@@ -16,11 +16,7 @@ Simon Sinek's "The Infinite Game" reframes conventional success narratives, movi
 The fundamental concept revolves around finite and infinite games.  Finite games have clearly defined rules, players, and a known end goal, such as a chess match or a sporting event.  Infinite games, on the other hand, are ongoing endeavors without a predetermined end, such as a career, a family, or a company.  The difference in mindset is crucial:
 
 
-```mermaid
-graph LR
-    A[Finite Game] --> B(Win/Lose);
-    C[Infinite Game] --> D(Just Keep Playing);
-```
+![Finite vs. Infinite Games. Finite Game; Win/Lose; Infinite Game; Just Keep Playing.](diagram-01.svg)
 
 # The Just Cause: Finding Your Purpose
 
@@ -34,12 +30,7 @@ It must be something people deeply believe in, not just something that sounds go
 Surrounding yourself with the right people is crucial. This isn't just about skills and experience; it's about shared values and a commitment to the Just Cause.  Building trust and fostering a culture of collaboration and shared purpose is paramount.
 
 
-```mermaid
-graph LR
-    A[Just Cause] --> B(Attracts);
-    B --> C(People with Shared Values);
-    C --> D(Strong Team);
-```
+![Building a Worthy Team. Just Cause; Attracts; People with Shared Values; Strong Team.](diagram-02.svg)
 
 
 # Adaptability & Resilience: Embracing Change

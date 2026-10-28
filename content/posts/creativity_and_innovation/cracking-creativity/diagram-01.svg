@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576pt" height="220pt" viewBox="0.00 0.00 575.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">Key Creative Thinking Techniques</title><desc id="description">Central Idea leads to Related Idea 1. Central Idea leads to Related Idea 2. Related Idea 1 leads to Sub-Idea 1. Related Idea 1 leads to Sub-Idea 2. Related Idea 2 leads to Sub-Idea 3. Related Idea 2 leads to Sub-Idea 4.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 557.5,-202 557.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M245.09,-143.87C235.33,-135.54 223.78,-125.68 213.47,-116.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.79,-114.79 207.88,-112.1 211.61,-118.51 214.79,-114.79" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M290.18,-143.87C300.15,-135.46 311.97,-125.5 322.48,-116.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="324.08,-118.49 327.85,-112.1 320.92,-114.74 324.08,-118.49" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M150.25,-71.87C134.18,-63.15 115.04,-52.77 98.25,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.03,-41.29 91.71,-40.1 96.69,-45.6 99.03,-41.29" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M187.41,-71.87C188.17,-64.31 189.05,-55.49 189.87,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="192.33,-47.31 190.59,-40.1 187.46,-46.83 192.33,-47.31" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M348.59,-71.87C347.83,-64.31 346.95,-55.49 346.13,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="348.54,-46.83 345.41,-40.1 343.67,-47.31 348.54,-46.83" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M386.3,-71.87C402.76,-63.08 422.4,-52.58 439.55,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="440.73,-45.56 445.75,-40.1 438.42,-41.24 440.73,-45.56" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M319,-184C319,-184 216,-184 216,-184 210,-184 204,-178 204,-172 204,-172 204,-156 204,-156 204,-150 210,-144 216,-144 216,-144 319,-144 319,-144 325,-144 331,-150 331,-156 331,-156 331,-172 331,-172 331,-178 325,-184 319,-184" />
+<text text-anchor="middle" x="267.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Central Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244.5,-112C244.5,-112 126.5,-112 126.5,-112 120.5,-112 114.5,-106 114.5,-100 114.5,-100 114.5,-84 114.5,-84 114.5,-78 120.5,-72 126.5,-72 126.5,-72 244.5,-72 244.5,-72 250.5,-72 256.5,-78 256.5,-84 256.5,-84 256.5,-100 256.5,-100 256.5,-106 250.5,-112 244.5,-112" />
+<text text-anchor="middle" x="185.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Related Idea 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M410.5,-112C410.5,-112 290.5,-112 290.5,-112 284.5,-112 278.5,-106 278.5,-100 278.5,-100 278.5,-84 278.5,-84 278.5,-78 284.5,-72 290.5,-72 290.5,-72 410.5,-72 410.5,-72 416.5,-72 422.5,-78 422.5,-84 422.5,-84 422.5,-100 422.5,-100 422.5,-106 416.5,-112 410.5,-112" />
+<text text-anchor="middle" x="350.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Related Idea 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M101,-40C101,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 101,0 101,0 107,0 113,-6 113,-12 113,-12 113,-28 113,-28 113,-34 107,-40 101,-40" />
+<text text-anchor="middle" x="56.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-Idea 1</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M238,-40C238,-40 147,-40 147,-40 141,-40 135,-34 135,-28 135,-28 135,-12 135,-12 135,-6 141,0 147,0 147,0 238,0 238,0 244,0 250,-6 250,-12 250,-12 250,-28 250,-28 250,-34 244,-40 238,-40" />
+<text text-anchor="middle" x="192.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-Idea 2</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M389,-40C389,-40 298,-40 298,-40 292,-40 286,-34 286,-28 286,-28 286,-12 286,-12 286,-6 292,0 298,0 298,0 389,0 389,0 395,0 401,-6 401,-12 401,-12 401,-28 401,-28 401,-34 395,-40 389,-40" />
+<text text-anchor="middle" x="343.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-Idea 3</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M527.5,-40C527.5,-40 435.5,-40 435.5,-40 429.5,-40 423.5,-34 423.5,-28 423.5,-28 423.5,-12 423.5,-12 423.5,-6 429.5,0 435.5,0 435.5,0 527.5,0 527.5,0 533.5,0 539.5,-6 539.5,-12 539.5,-12 539.5,-28 539.5,-28 539.5,-34 533.5,-40 527.5,-40" />
+<text text-anchor="middle" x="481.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sub-Idea 4</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="358pt" height="200pt" viewBox="0.00 0.00 358.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Power:  Conveying Authority and Influence</title><desc id="description">Clarity &amp; Conciseness leads to Power. Structure &amp; Framing leads to Power. Emotional Intelligence leads to Power.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 340,-182 340,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177.43,-123.96C188.41,-120.52 199.56,-116.82 210,-113 218.19,-110 226.79,-106.54 235.06,-103.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="236.45,-105.1 241.91,-100.08 234.52,-100.6 236.45,-105.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.69,-82C213.12,-82 224.36,-82 234.63,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="234.92,-84.45 241.92,-82 234.92,-79.55 234.92,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177.43,-40.04C188.41,-43.48 199.56,-47.18 210,-51 218.19,-54 226.79,-57.46 235.06,-60.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="234.52,-63.4 241.91,-63.92 236.45,-58.9 234.52,-63.4" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193,-164C193,-164 17,-164 17,-164 11,-164 5,-158 5,-152 5,-152 5,-136 5,-136 5,-130 11,-124 17,-124 17,-124 193,-124 193,-124 199,-124 205,-130 205,-136 205,-136 205,-152 205,-152 205,-158 199,-164 193,-164" />
+<text text-anchor="middle" x="105" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarity &amp; Conciseness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M310,-102C310,-102 254,-102 254,-102 248,-102 242,-96 242,-90 242,-90 242,-74 242,-74 242,-68 248,-62 254,-62 254,-62 310,-62 310,-62 316,-62 322,-68 322,-74 322,-74 322,-90 322,-90 322,-96 316,-102 310,-102" />
+<text text-anchor="middle" x="282" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Power</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M189.5,-102C189.5,-102 20.5,-102 20.5,-102 14.5,-102 8.5,-96 8.5,-90 8.5,-90 8.5,-74 8.5,-74 8.5,-68 14.5,-62 20.5,-62 20.5,-62 189.5,-62 189.5,-62 195.5,-62 201.5,-68 201.5,-74 201.5,-74 201.5,-90 201.5,-90 201.5,-96 195.5,-102 189.5,-102" />
+<text text-anchor="middle" x="105" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Structure &amp; Framing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198,-40C198,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 198,0 198,0 204,0 210,-6 210,-12 210,-12 210,-28 210,-28 210,-34 204,-40 198,-40" />
+<text text-anchor="middle" x="105" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Intelligence</text>
+</g>
+</g>
+</svg>

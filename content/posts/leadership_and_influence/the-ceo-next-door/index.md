@@ -38,13 +38,7 @@ The book goes beyond identifying traits and delves into actionable strategies fo
 
 Creating a clear vision and setting SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals is essential.  This process helps focus efforts and track progress.
 
-```mermaid
-graph LR
-A[Define Vision] --> B(Set SMART Goals);
-B --> C{Track Progress};
-C --> D[Adjust Strategies];
-D --> B;
-```
+![Goal Setting and Vision:. Define Vision; Set SMART Goals; Track Progress; Adjust Strategies.](diagram-01.svg)
 
 ###  Building a Strong Network:
 

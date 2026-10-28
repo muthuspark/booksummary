@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="526pt" height="220pt" viewBox="0.00 0.00 525.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Show Up</title><desc id="description">Resistance leads to Procrastination. Resistance leads to Self-Doubt. Resistance leads to Fear. Show Up leads to Action. Action leads to Progress.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 507.5,-202 507.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M189.37,-143.87C169.51,-134.96 145.77,-124.31 125.15,-115.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.97,-112.74 118.58,-112.1 123.96,-117.21 125.97,-112.74" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M232,-143.87C232,-136.31 232,-127.49 232,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="234.45,-119.1 232,-112.1 229.55,-119.1 234.45,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.6,-143.87C276.43,-135.23 292.88,-124.95 307.36,-115.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="308.8,-117.89 313.43,-112.1 306.2,-113.74 308.8,-117.89" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M439,-143.87C439,-136.31 439,-127.49 439,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="441.45,-119.1 439,-112.1 436.55,-119.1 441.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M439,-71.87C439,-64.31 439,-55.49 439,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="441.45,-47.1 439,-40.1 436.55,-47.1 441.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276.5,-184C276.5,-184 187.5,-184 187.5,-184 181.5,-184 175.5,-178 175.5,-172 175.5,-172 175.5,-156 175.5,-156 175.5,-150 181.5,-144 187.5,-144 187.5,-144 276.5,-144 276.5,-144 282.5,-144 288.5,-150 288.5,-156 288.5,-156 288.5,-172 288.5,-172 288.5,-178 282.5,-184 276.5,-184" />
+<text text-anchor="middle" x="232" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resistance</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M140,-112C140,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 140,-72 140,-72 146,-72 152,-78 152,-84 152,-84 152,-100 152,-100 152,-106 146,-112 140,-112" />
+<text text-anchor="middle" x="76" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Procrastination</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M277.5,-112C277.5,-112 186.5,-112 186.5,-112 180.5,-112 174.5,-106 174.5,-100 174.5,-100 174.5,-84 174.5,-84 174.5,-78 180.5,-72 186.5,-72 186.5,-72 277.5,-72 277.5,-72 283.5,-72 289.5,-78 289.5,-84 289.5,-84 289.5,-100 289.5,-100 289.5,-106 283.5,-112 277.5,-112" />
+<text text-anchor="middle" x="232" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Doubt</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M364.5,-112C364.5,-112 323.5,-112 323.5,-112 317.5,-112 311.5,-106 311.5,-100 311.5,-100 311.5,-84 311.5,-84 311.5,-78 317.5,-72 323.5,-72 323.5,-72 364.5,-72 364.5,-72 370.5,-72 376.5,-78 376.5,-84 376.5,-84 376.5,-100 376.5,-100 376.5,-106 370.5,-112 364.5,-112" />
+<text text-anchor="middle" x="344" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M477.5,-184C477.5,-184 400.5,-184 400.5,-184 394.5,-184 388.5,-178 388.5,-172 388.5,-172 388.5,-156 388.5,-156 388.5,-150 394.5,-144 400.5,-144 400.5,-144 477.5,-144 477.5,-144 483.5,-144 489.5,-150 489.5,-156 489.5,-156 489.5,-172 489.5,-172 489.5,-178 483.5,-184 477.5,-184" />
+<text text-anchor="middle" x="439" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Show Up</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M467,-112C467,-112 411,-112 411,-112 405,-112 399,-106 399,-100 399,-100 399,-84 399,-84 399,-78 405,-72 411,-72 411,-72 467,-72 467,-72 473,-72 479,-78 479,-84 479,-84 479,-100 479,-100 479,-106 473,-112 467,-112" />
+<text text-anchor="middle" x="439" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M476,-40C476,-40 402,-40 402,-40 396,-40 390,-34 390,-28 390,-28 390,-12 390,-12 390,-6 396,0 402,0 402,0 476,0 476,0 482,0 488,-6 488,-12 488,-12 488,-28 488,-28 488,-34 482,-40 476,-40" />
+<text text-anchor="middle" x="439" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Progress</text>
+</g>
+</g>
+</svg>

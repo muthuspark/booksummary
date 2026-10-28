@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364pt" height="476pt" viewBox="0.00 0.00 363.50 476.00" role="img" aria-labelledby="title description">
+<title id="title">Clarity: Defining Your Purpose and Goals</title><desc id="description">Values leads to Purpose. Purpose leads to SMART Goals. SMART Goals leads to Action Plan. Action Plan leads to Results. Results leads to Review &amp; Refine. Review &amp; Refine leads to Purpose.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 345.5,-458 345.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M227,-399.87C227,-392.31 227,-383.49 227,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.45,-375.1 227,-368.1 224.55,-375.1 229.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M208.55,-327.91C198.69,-317.71 186.22,-304.81 174.62,-292.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.35,-291.07 169.72,-287.74 172.82,-294.48 176.35,-291.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.47,-220.2C159.85,-210.33 164.55,-199.77 168.64,-190.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.9,-191.5 171.51,-184.11 166.42,-189.51 170.9,-191.5" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M187.65,-143.87C190.74,-136.16 194.35,-127.13 197.66,-118.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.03,-119.51 200.36,-112.1 195.48,-117.69 200.03,-119.51" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M218.66,-71.87C223.04,-64 228.18,-54.77 232.88,-46.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.09,-47.41 236.36,-40.1 230.81,-45.03 235.09,-47.41" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M257.35,-40.11C280.97,-86.47 333.6,-207.58 291,-296 285.84,-306.71 277.22,-315.86 267.95,-323.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.21,-321.58 262.12,-327.77 269.18,-325.48 266.21,-321.58" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M256,-440C256,-440 198,-440 198,-440 192,-440 186,-434 186,-428 186,-428 186,-412 186,-412 186,-406 192,-400 198,-400 198,-400 256,-400 256,-400 262,-400 268,-406 268,-412 268,-412 268,-428 268,-428 268,-434 262,-440 256,-440" />
+<text text-anchor="middle" x="227" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262.5,-368C262.5,-368 191.5,-368 191.5,-368 185.5,-368 179.5,-362 179.5,-356 179.5,-356 179.5,-340 179.5,-340 179.5,-334 185.5,-328 191.5,-328 191.5,-328 262.5,-328 262.5,-328 268.5,-328 274.5,-334 274.5,-340 274.5,-340 274.5,-356 274.5,-356 274.5,-362 268.5,-368 262.5,-368" />
+<text text-anchor="middle" x="227" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purpose</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="140,-296 0,-256 140,-216 280,-256 140,-296" />
+<text text-anchor="middle" x="140" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">SMART Goals</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M228.5,-184C228.5,-184 131.5,-184 131.5,-184 125.5,-184 119.5,-178 119.5,-172 119.5,-172 119.5,-156 119.5,-156 119.5,-150 125.5,-144 131.5,-144 131.5,-144 228.5,-144 228.5,-144 234.5,-144 240.5,-150 240.5,-156 240.5,-156 240.5,-172 240.5,-172 240.5,-178 234.5,-184 228.5,-184" />
+<text text-anchor="middle" x="180" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action Plan</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M239.5,-112C239.5,-112 176.5,-112 176.5,-112 170.5,-112 164.5,-106 164.5,-100 164.5,-100 164.5,-84 164.5,-84 164.5,-78 170.5,-72 176.5,-72 176.5,-72 239.5,-72 239.5,-72 245.5,-72 251.5,-78 251.5,-84 251.5,-84 251.5,-100 251.5,-100 251.5,-106 245.5,-112 239.5,-112" />
+<text text-anchor="middle" x="208" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Results</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M315.5,-40C315.5,-40 178.5,-40 178.5,-40 172.5,-40 166.5,-34 166.5,-28 166.5,-28 166.5,-12 166.5,-12 166.5,-6 172.5,0 178.5,0 178.5,0 315.5,0 315.5,0 321.5,0 327.5,-6 327.5,-12 327.5,-12 327.5,-28 327.5,-28 327.5,-34 321.5,-40 315.5,-40" />
+<text text-anchor="middle" x="247" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Review &amp; Refine</text>
+</g>
+</g>
+</svg>

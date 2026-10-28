@@ -43,21 +43,11 @@ Healthy relationships involve a balance of power and influence.  It's not about 
 
 **Power imbalance:**
 
-```mermaid
-graph LR
-A[Partner A] --> B(Dominates);
-C[Partner B] --> B;
-B --> D(Resentment/Conflict);
-```
+![Let Your Partner Influence You: Sharing Power and Responsibility. Partner A; Dominates; Partner B; Resentment/Conflict.](diagram-01.svg)
 
 **Shared Power:**
 
-```mermaid
-graph LR
-A[Partner A] -- Compromise --> E(Shared Decision);
-B[Partner B] -- Compromise --> E;
-E --> F(Harmony/Collaboration);
-```
+![Let Your Partner Influence You: Sharing Power and Responsibility. Partner A; Shared Decision; Partner B; Harmony/Collaboration.](diagram-02.svg)
 
 ## Solve Your Solvable Problems:  Effective Conflict Resolution
 
@@ -77,11 +67,7 @@ Not all conflicts are solvable.  Some issues represent deeply held values or bel
 
 **Gridlock vs. Solvable Problem:**
 
-```mermaid
-graph LR
-A[Solvable Problem] --> B(Compromise/Solution);
-C[Gridlock] --> D(Understanding/Compromise on managing);
-```
+![Overcome Gridlock:  Managing Unresolvable Conflicts. Solvable Problem; Compromise/Solution; Gridlock; Understanding/Compromise on managing.](diagram-03.svg)
 
 ## Create Shared Meaning:  Building a Shared Vision
 
@@ -90,12 +76,7 @@ This involves constructing a shared vision for the future – a sense of purpose
 
 **Shared Meaning:**
 
-```mermaid
-graph LR
-A[Individual Goals] --> B(Shared Vision);
-C[Individual Values] --> B;
-B --> D(Stronger Bond/Shared Purpose);
-```
+![Create Shared Meaning:  Building a Shared Vision. Individual Goals; Shared Vision; Individual Values; Stronger Bond/Shared Purpose.](diagram-04.svg)
 
 ## Actionable Strategies
 

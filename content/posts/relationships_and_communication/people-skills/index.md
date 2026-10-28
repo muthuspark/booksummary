@@ -37,13 +37,7 @@ Assertiveness involves expressing your needs and opinions respectfully and direc
 *   **Setting boundaries:** Clearly communicating your limits and expectations.
 *   **Negotiating:** Finding mutually acceptable solutions in conflict situations.
 
-```mermaid
-graph LR
-    A[Passive] --> B(Assertive);
-    C[Aggressive] --> B;
-    B --> D[Mutual Respect];
-    B --> E[Effective Communication];
-```
+![Assertiveness: Expressing Yourself Effectively. Passive; Assertive; Aggressive; Mutual Respect; Effective Communication.](diagram-01.svg)
 
 
 # Nonverbal Communication: The Unspoken Language

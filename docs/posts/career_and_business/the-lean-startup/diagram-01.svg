@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="501pt" height="133pt" viewBox="0.00 0.00 501.00 133.00" role="img" aria-labelledby="title description">
+<title id="title">The Lean Startup Methodology: A Framework for Learning</title><desc id="description">Build (MVP) leads to Measure. Measure leads to Learn. Learn leads to Build (MVP).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 115)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-115 483,-115 483,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130.27,-32.32C147.98,-35.72 167.33,-39.43 185.53,-42.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="185.37,-45.38 192.7,-44.29 186.29,-40.57 185.37,-45.38" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.04,-42.91C343.72,-38.51 364.97,-33.76 383,-29.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="383.69,-32.08 389.99,-28.16 382.63,-27.3 383.69,-32.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M389.74,-11.07C379.52,-8.98 368.39,-7.05 358,-6 271.33,2.77 248.88,0.3 162,-6 153.93,-6.59 145.51,-7.44 137.15,-8.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.79,-6.03 130.15,-9.33 137.4,-10.89 136.79,-6.03" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M118,-40C118,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 118,0 118,0 124,0 130,-6 130,-12 130,-12 130,-28 130,-28 130,-34 124,-40 118,-40" />
+<text text-anchor="middle" x="65" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Build (MVP)</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="260,-97 162,-57 260,-17 358,-57 260,-97" />
+<text text-anchor="middle" x="260" y="-52.6" font-family="Georgia" font-size="18.00" fill="#243d36">Measure</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M453,-40C453,-40 402,-40 402,-40 396,-40 390,-34 390,-28 390,-28 390,-12 390,-12 390,-6 396,0 402,0 402,0 453,0 453,0 459,0 465,-6 465,-12 465,-12 465,-28 465,-28 465,-34 459,-40 453,-40" />
+<text text-anchor="middle" x="427.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learn</text>
+</g>
+</g>
+</svg>

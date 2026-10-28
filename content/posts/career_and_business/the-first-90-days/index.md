@@ -15,15 +15,7 @@ Michael Watkins' "The First 90 Days" isn't just about new jobs; it's a blueprint
 
 Before even starting the new role, proactive preparation is key.  This involves meticulous research, understanding the organization's culture, challenges, and opportunities.  It's about gathering information, not just from official sources but also through informal networks, reaching out to people within the organization to learn their perspectives.  This pre-boarding phase allows for a smoother transition and reduces the initial learning curve.
 
-```mermaid
-graph LR
-A[Research Organization] --> B(Understand Culture);
-A --> C(Identify Key Players);
-A --> D(Assess Challenges & Opportunities);
-B --> E[Develop Initial Strategies];
-C --> E;
-D --> E;
-```
+![Pre-Boarding: Laying the Foundation for Success. Research Organization; Understand Culture; Identify Key Players; Assess Challenges & Opportunities; Develop Initial Strategies.](diagram-01.svg)
 
 ## The Learning Accelerators: Rapid Assimilation and Action
 
@@ -46,21 +38,7 @@ Watkins advocates a structured approach involving three phases:
 
 * **Phase 3: Execution and Strategic Planning:**  This phase emphasizes execution of plans, effective delegation, and building long-term strategies.
 
-```mermaid
-graph LR
-A[Phase 1: Learning & Acceleration] --> B(Rapid Learning);
-A --> C(Relationship Building);
-A --> D(Situational Diagnosis);
-B --> E[Phase 2: Building Team & Credibility];
-C --> E;
-D --> E;
-E --> F(Demonstrate Competence);
-E --> G(Set Direction);
-F --> H[Phase 3: Execution & Strategic Planning];
-G --> H;
-H --> I(Long-Term Strategies);
-H --> J(Effective Delegation);
-```
+![The "First 90 Days" Plan: A Framework for Action. Phase 1: Learning & Acceleration; Rapid Learning; Relationship Building; Situational Diagnosis; Phase 2: Building Team & Credibility; Demonstrate Competence; Set Direction; Phase 3: Execution & Strategic Planning; Long-Term Strategies; Effective Delegation.](diagram-02.svg)
 
 
 ##  The Importance of Effective Communication

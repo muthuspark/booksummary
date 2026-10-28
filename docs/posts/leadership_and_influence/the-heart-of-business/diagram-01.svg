@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444pt" height="476pt" viewBox="0.00 0.00 443.50 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Heart of Business Model</title><desc id="description">Purpose leads to Authentic Leadership. Purpose leads to Human Connection. Authentic Leadership leads to Trust. Human Connection leads to Trust. Trust leads to Continuous Growth. Continuous Growth leads to Personal Fulfillment. Personal Fulfillment leads to Organizational Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 425.5,-458 425.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177.76,-399.87C164.67,-391.31 149.12,-381.13 135.37,-372.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.4,-369.89 129.2,-368.1 133.72,-373.99 136.4,-369.89" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M236.51,-399.87C249.73,-391.31 265.42,-381.13 279.3,-372.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.98,-373.97 285.52,-368.1 278.32,-369.86 280.98,-373.97" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.69,-327.91C137.46,-315.49 156.99,-299.07 173.53,-285.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="175.23,-286.92 179.01,-280.54 172.08,-283.17 175.23,-286.92" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M292.1,-327.91C277.19,-315.49 257.48,-299.07 240.79,-285.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.2,-283.14 235.25,-280.54 239.06,-286.91 242.2,-283.14" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-215.79C207,-207.54 207,-199.04 207,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-191.09 207,-184.09 204.55,-191.09 209.45,-191.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-143.87C207,-136.31 207,-127.49 207,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-119.1 207,-112.1 204.55,-119.1 209.45,-119.1" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207,-71.87C207,-64.31 207,-55.49 207,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.45,-47.1 207,-40.1 204.55,-47.1 209.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M242.5,-440C242.5,-440 171.5,-440 171.5,-440 165.5,-440 159.5,-434 159.5,-428 159.5,-428 159.5,-412 159.5,-412 159.5,-406 165.5,-400 171.5,-400 171.5,-400 242.5,-400 242.5,-400 248.5,-400 254.5,-406 254.5,-412 254.5,-412 254.5,-428 254.5,-428 254.5,-434 248.5,-440 242.5,-440" />
+<text text-anchor="middle" x="207" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purpose</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-368C188,-368 12,-368 12,-368 6,-368 0,-362 0,-356 0,-356 0,-340 0,-340 0,-334 6,-328 12,-328 12,-328 188,-328 188,-328 194,-328 200,-334 200,-340 200,-340 200,-356 200,-356 200,-362 194,-368 188,-368" />
+<text text-anchor="middle" x="100" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Authentic Leadership</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M395.5,-368C395.5,-368 234.5,-368 234.5,-368 228.5,-368 222.5,-362 222.5,-356 222.5,-356 222.5,-340 222.5,-340 222.5,-334 228.5,-328 234.5,-328 234.5,-328 395.5,-328 395.5,-328 401.5,-328 407.5,-334 407.5,-340 407.5,-340 407.5,-356 407.5,-356 407.5,-362 401.5,-368 395.5,-368" />
+<text text-anchor="middle" x="315" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Human Connection</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="207,-296 136,-256 207,-216 278,-256 207,-296" />
+<text text-anchor="middle" x="207" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M287.5,-184C287.5,-184 126.5,-184 126.5,-184 120.5,-184 114.5,-178 114.5,-172 114.5,-172 114.5,-156 114.5,-156 114.5,-150 120.5,-144 126.5,-144 126.5,-144 287.5,-144 287.5,-144 293.5,-144 299.5,-150 299.5,-156 299.5,-156 299.5,-172 299.5,-172 299.5,-178 293.5,-184 287.5,-184" />
+<text text-anchor="middle" x="207" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Continuous Growth</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291,-112C291,-112 123,-112 123,-112 117,-112 111,-106 111,-100 111,-100 111,-84 111,-84 111,-78 117,-72 123,-72 123,-72 291,-72 291,-72 297,-72 303,-78 303,-84 303,-84 303,-100 303,-100 303,-106 297,-112 291,-112" />
+<text text-anchor="middle" x="207" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Fulfillment</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M301,-40C301,-40 113,-40 113,-40 107,-40 101,-34 101,-28 101,-28 101,-12 101,-12 101,-6 107,0 113,0 113,0 301,0 301,0 307,0 313,-6 313,-12 313,-12 313,-28 313,-28 313,-34 307,-40 301,-40" />
+<text text-anchor="middle" x="207" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Organizational Success</text>
+</g>
+</g>
+</svg>

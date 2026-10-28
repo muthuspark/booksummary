@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390pt" height="404pt" viewBox="0.00 0.00 390.45 404.00" role="img" aria-labelledby="title description">
+<title id="title">Review and Adjustment of the System</title><desc id="description">Set Goals leads to Create System. Create System leads to Implement Consistently. Implement Consistently leads to Monitor Progress. Monitor Progress leads to Review &amp; Adjust. Review &amp; Adjust leads to Create System.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 372.45,-386 372.45,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M268,-327.87C268,-320.31 268,-311.49 268,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="270.45,-303.1 268,-296.1 265.55,-303.1 270.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M248.33,-255.87C239.83,-247.62 229.8,-237.86 220.81,-229.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.38,-227.23 215.65,-224.1 218.96,-230.74 222.38,-227.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M189.85,-183.91C187.23,-175.78 184.06,-165.93 180.92,-156.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="183.24,-155.41 178.76,-149.5 178.58,-156.92 183.24,-155.41" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.41,-80.03C214.15,-68.56 228.39,-55.75 240.34,-45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.09,-46.72 245.65,-40.21 238.81,-43.08 242.09,-46.72" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M312.07,-40.1C325.06,-47.97 337.69,-58.48 345,-72 361.92,-103.27 351.56,-117.05 345,-152 338.67,-185.75 335.47,-195.06 317,-224 310.99,-233.42 303.06,-242.58 295.33,-250.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="293.28,-249.07 290.05,-255.75 296.74,-252.55 293.28,-249.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M307,-368C307,-368 229,-368 229,-368 223,-368 217,-362 217,-356 217,-356 217,-340 217,-340 217,-334 223,-328 229,-328 229,-328 307,-328 307,-328 313,-328 319,-334 319,-340 319,-340 319,-356 319,-356 319,-362 313,-368 307,-368" />
+<text text-anchor="middle" x="268" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Set Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M327,-296C327,-296 209,-296 209,-296 203,-296 197,-290 197,-284 197,-284 197,-268 197,-268 197,-262 203,-256 209,-256 209,-256 327,-256 327,-256 333,-256 339,-262 339,-268 339,-268 339,-284 339,-284 339,-290 333,-296 327,-296" />
+<text text-anchor="middle" x="268" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Create System</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M293.5,-224C293.5,-224 98.5,-224 98.5,-224 92.5,-224 86.5,-218 86.5,-212 86.5,-212 86.5,-196 86.5,-196 86.5,-190 92.5,-184 98.5,-184 98.5,-184 293.5,-184 293.5,-184 299.5,-184 305.5,-190 305.5,-196 305.5,-196 305.5,-212 305.5,-212 305.5,-218 299.5,-224 293.5,-224" />
+<text text-anchor="middle" x="196" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implement Consistently</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="167,-152 0,-112 167,-72 334,-112 167,-152" />
+<text text-anchor="middle" x="167" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Monitor Progress</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M335.5,-40C335.5,-40 198.5,-40 198.5,-40 192.5,-40 186.5,-34 186.5,-28 186.5,-28 186.5,-12 186.5,-12 186.5,-6 192.5,0 198.5,0 198.5,0 335.5,0 335.5,0 341.5,0 347.5,-6 347.5,-12 347.5,-12 347.5,-28 347.5,-28 347.5,-34 341.5,-40 335.5,-40" />
+<text text-anchor="middle" x="267" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Review &amp; Adjust</text>
+</g>
+</g>
+</svg>

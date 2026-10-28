@@ -24,15 +24,7 @@ McGonigal emphasizes the importance of mindset in shaping our experience of stre
 
 The book highlights the often-overlooked role of oxytocin, a hormone often associated with bonding and connection.  McGonigal explains that oxytocin is released during the stress response, acting as a natural buffer against the negative effects of cortisol.  Connecting with others during stressful times—through social support, physical touch, or simply feeling a sense of belonging—increases oxytocin levels, mitigating the negative impact of stress.
 
-```mermaid
-graph LR
-    A[Stress] --> B(Cortisol);
-    A --> C(Adrenaline);
-    C --> D{Negative Health Outcomes};
-    B --> D;
-    A --> E(Oxytocin);
-    E --> F{Resilience & Well-being};
-```
+![Oxytocin: The Stress-Buffering Hormone. Stress; Cortisol; Adrenaline; Negative Health Outcomes; Oxytocin; Resilience & Well-being.](diagram-01.svg)
 
 #  Actionable Strategies: Taming the Stress Response
 

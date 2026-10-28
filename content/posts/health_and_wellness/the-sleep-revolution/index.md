@@ -25,18 +25,7 @@ A central theme is the examination of our modern "hustle culture," where overwor
 
 The book dedicates significant space to explaining the science behind sleep.  It delves into the different sleep stages (REM, NREM), the role of circadian rhythms, and the importance of consistent sleep schedules.  Huffington simplifies complex scientific concepts, making them accessible to the average reader.  Understanding the science empowers individuals to make informed choices about their sleep habits.
 
-```mermaid
-graph LR
-    A[Circadian Rhythm] --> B(Sleep-Wake Cycle);
-    B --> C{REM Sleep};
-    B --> D{NREM Sleep};
-    C --> E[Memory Consolidation];
-    D --> F[Physical Restoration];
-    E --> G(Cognitive Function);
-    F --> H(Immune Function);
-    G --> I[Productivity];
-    H --> I;
-```
+![The Science of Sleep: Understanding Your Body Clock. Circadian Rhythm; Sleep-Wake Cycle; REM Sleep; NREM Sleep; Memory Consolidation; Physical Restoration; Cognitive Function; Immune Function; Productivity.](diagram-01.svg)
 
 
 ## Practical Strategies for Better Sleep

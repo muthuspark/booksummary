@@ -15,13 +15,7 @@ John C. Maxwell's "Leadershift" isn't just a leadership book; it's a self-help g
 
 Maxwell proposes a five-level leadership model to assess where you are in your leadership journey. Understanding your current level before striving for advancement. This model helps pinpoint areas for improvement and sets realistic goals.
 
-```mermaid
-graph LR
-    A[Level 1: Positional Leadership] --> B(Level 2: Permission Leadership);
-    B --> C(Level 3: Production Leadership);
-    C --> D(Level 4: People Development Leadership);
-    D --> E(Level 5: Pinnacle Leadership);
-```
+![Understanding Your Leadership Level. Level 1: Positional Leadership; Level 2: Permission Leadership; Level 3: Production Leadership; Level 4: People Development Leadership; Level 5: Pinnacle Leadership.](diagram-01.svg)
 
 * **Level 1: Positional Leadership:** Leadership based solely on title or position. Influence is limited to authority.
 * **Level 2: Permission Leadership:**  Leadership earned through respect and trust. People follow because they *choose* to.

@@ -20,12 +20,7 @@ The Magic Formula hinges on two fundamental financial ratios:
 * **Earnings Yield (EY):** This is the inverse of the Price-to-Earnings (P/E) ratio. It represents the earnings per share relative to the stock price. A higher earnings yield indicates that the market is valuing the company's earnings at a lower price. This suggests potential undervaluation. Greenblatt uses EBIT divided by Enterprise Value (Market Cap + Total Debt - Cash). This uses a more detailed view of the company's valuation compared to just using market capitalization.
 
 
-```mermaid
-graph LR
-    A[High Return on Capital] --> B(Undervalued Company);
-    C[High Earnings Yield] --> B;
-    B --> D[Potential for High Returns];
-```
+![Understanding the Two Key Metrics. High Return on Capital; Undervalued Company; High Earnings Yield; Potential for High Returns.](diagram-01.svg)
 
 # The Magic Formula in Action: A Step-by-Step Guide
 

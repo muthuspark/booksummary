@@ -85,22 +85,7 @@ The book argues that cultivating gratitude offers a high return on investment (R
 
 The book presents a structured framework for integrating gratitude into leadership and personal life. This could be visualized as follows:
 
-```mermaid
-graph LR
-    A[Identify Opportunities] --> B{Express Gratitude};
-    B --> C[Foster a Culture];
-    C --> D[Measure Impact];
-    D --> E[Refine & Repeat];
-    E --> A;
-    subgraph "Personal Growth"
-        F[Mindfulness];
-        G[Journaling];
-        H[Expressing to loved ones];
-    end
-    B --> F;
-    B --> G;
-    B --> H;
-```
+![The Framework for Leading with Gratitude. Identify Opportunities; Express Gratitude; Foster a Culture; Measure Impact; Refine & Repeat; Mindfulness; Journaling; Expressing to loved ones.](diagram-01.svg)
 
 
 ## A Transformative Approach to Leadership and Life

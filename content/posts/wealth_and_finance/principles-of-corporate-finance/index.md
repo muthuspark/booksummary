@@ -14,12 +14,7 @@ Brealey and Myers' "Principles of Corporate Finance" centers around maximizing t
 
 The book emphasizes the time value of money, a cornerstone of financial analysis. A dollar today is worth more than a dollar tomorrow due to its potential earning capacity. This principle underpins all investment decisions. Understanding concepts like present value, future value, annuities, and perpetuities is important for evaluating projects and investments.
 
-```mermaid
-graph LR
-    A[Future Value] --> B(Interest Rate);
-    C[Present Value] --> B;
-    B --> D{Time};
-```
+![Time Value of Money: The Foundation of Financial Decisions. Future Value; Interest Rate; Present Value; Time.](diagram-01.svg)
 
 The above diagram shows the core relationship between present value, future value, interest rates and time.  Ignoring the time value of money leads to poor financial decisions.  The book provides detailed methods to calculate these values and apply them to various scenarios.
 
@@ -27,12 +22,7 @@ The above diagram shows the core relationship between present value, future valu
 
 Investing inherently involves risk.  Higher potential returns usually come with higher risk.  The book explores different ways to measure and manage risk, including diversification, portfolio theory, and the capital asset pricing model (CAPM).  Understanding your risk tolerance and choosing investments accordingly is crucial.
 
-```mermaid
-graph LR
-A[Risk] --> B(Return);
-B --> C[Expected Return];
-C --> D[Portfolio Diversification];
-```
+![Risk and Return: A Balancing Act. Risk; Return; Expected Return; Portfolio Diversification.](diagram-02.svg)
 
 Effective risk management doesn't mean avoiding all risk.  It involves understanding the relationship between risk and return, selecting investments that align with your risk profile, and efficiently diversifying your portfolio.
 
@@ -41,13 +31,7 @@ Effective risk management doesn't mean avoiding all risk.  It involves understan
 Capital budgeting focuses on making sound investment decisions.  The book details various techniques for evaluating potential projects, such as net present value (NPV), internal rate of return (IRR), and payback period.  These methods help quantify the profitability and risk associated with different investments.  The key takeaway is to choose projects with positive NPVs, indicating they add value to the firm.
 
 
-```mermaid
-graph LR
-A[Project Proposal] --> B(NPV Calculation);
-B --> C{Positive NPV?};
-C -- Yes --> D[Accept Project];
-C -- No --> E[Reject Project];
-```
+![Capital Budgeting: Investing Wisely. Project Proposal; NPV Calculation; Positive NPV?; Accept Project; Reject Project.](diagram-03.svg)
 
 Projects should be evaluated based on their incremental cash flows, considering all relevant costs and benefits.  Ignoring sunk costs and opportunity costs is vital for accurate evaluation.
 
@@ -55,15 +39,7 @@ Projects should be evaluated based on their incremental cash flows, considering 
 
 The book discusses how firms raise capital, focusing on the optimal mix of debt and equity financing—the capital structure. The trade-off theory suggests that a balance is needed: Debt offers tax benefits but increases financial risk, while equity dilutes ownership but provides financial flexibility.  The book explores various financing options, considering factors like interest rates, tax implications, and bankruptcy costs.
 
-```mermaid
-graph LR
-A[Debt Financing] --> B(Tax Shield);
-A --> C(Financial Risk);
-D[Equity Financing] --> E(Dilution);
-D --> F(Financial Flexibility);
-G[Optimal Capital Structure] --> A;
-G --> D;
-```
+![Financing Decisions: The Capital Structure. Debt Financing; Tax Shield; Financial Risk; Equity Financing; Dilution; Financial Flexibility; Optimal Capital Structure.](diagram-04.svg)
 
 The optimal capital structure aims to minimize the firm's weighted average cost of capital (WACC), maximizing its value.  The book cautions against blindly following industry averages and emphasizes finding the capital structure that best suits the firm's specific circumstances.
 

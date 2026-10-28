@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="568pt" height="211pt" viewBox="0.00 0.00 568.00 211.00" role="img" aria-labelledby="title description">
+<title id="title">The Gut-Brain Axis: A Communication Network</title><desc id="description">Brain leads to Vagus Nerve. Vagus Nerve leads to Gut. Gut leads to Hormones. Hormones leads to Brain. Gut leads to Immune Signals. Immune Signals leads to Brain. Gut leads to Neurotransmitters. Neurotransmitters leads to Brain.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 193)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-193 550,-193 550,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M73.3,-85.38C80.93,-86.95 89.25,-88.67 97.68,-90.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.44,-92.85 104.79,-91.87 98.43,-88.06 97.44,-92.85" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M234.06,-105C242.39,-105 250.68,-105 258.32,-105" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="258.72,-107.45 265.72,-105 258.72,-102.55 258.72,-107.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.34,-114.64C340.31,-120.07 360.93,-127.08 380.48,-133.74" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="379.93,-136.14 387.35,-136.07 381.51,-131.5 379.93,-136.14" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.34,-101.92C334.18,-100.84 345.77,-99.58 357.79,-98.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="358.22,-100.69 364.91,-97.5 357.69,-95.82 358.22,-100.69" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.95,-84.8C329.73,-75.9 343.05,-65.73 356,-58 365.06,-52.59 375.02,-47.52 384.87,-42.94" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="385.96,-45.14 391.32,-40.01 383.93,-40.68 385.96,-45.14" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M387.39,-162.47C318.41,-169.39 198.49,-173.67 105,-136 87.57,-128.98 71.47,-115.54 59.36,-103.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="61.05,-101.58 54.43,-98.24 57.52,-104.98 61.05,-101.58" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M364.72,-77.72C351.17,-76.17 337.2,-74.83 324,-74 226.86,-67.9 202.29,-71.12 105,-74 97.09,-74.23 88.67,-74.62 80.56,-75.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.06,-72.64 73.21,-75.49 80.34,-77.53 80.06,-72.64" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M355.96,-30.18C287.58,-38.52 190.02,-51.17 105,-65 97.06,-66.29 88.63,-67.8 80.51,-69.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="79.58,-67.01 73.16,-70.73 80.5,-71.83 79.58,-67.01" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M61,-98C61,-98 12,-98 12,-98 6,-98 0,-92 0,-86 0,-86 0,-70 0,-70 0,-64 6,-58 12,-58 12,-58 61,-58 61,-58 67,-58 73,-64 73,-70 73,-70 73,-86 73,-86 73,-92 67,-98 61,-98" />
+<text text-anchor="middle" x="36.5" y="-73.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222,-125C222,-125 117,-125 117,-125 111,-125 105,-119 105,-113 105,-113 105,-97 105,-97 105,-91 111,-85 117,-85 117,-85 222,-85 222,-85 228,-85 234,-91 234,-97 234,-97 234,-113 234,-113 234,-119 228,-125 222,-125" />
+<text text-anchor="middle" x="169.5" y="-100.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vagus Nerve</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312,-125C312,-125 278,-125 278,-125 272,-125 266,-119 266,-113 266,-113 266,-97 266,-97 266,-91 272,-85 278,-85 278,-85 312,-85 312,-85 318,-85 324,-91 324,-97 324,-97 324,-113 324,-113 324,-119 318,-125 312,-125" />
+<text text-anchor="middle" x="295" y="-100.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M488.5,-175C488.5,-175 399.5,-175 399.5,-175 393.5,-175 387.5,-169 387.5,-163 387.5,-163 387.5,-147 387.5,-147 387.5,-141 393.5,-135 399.5,-135 399.5,-135 488.5,-135 488.5,-135 494.5,-135 500.5,-141 500.5,-147 500.5,-147 500.5,-163 500.5,-163 500.5,-169 494.5,-175 488.5,-175" />
+<text text-anchor="middle" x="444" y="-150.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hormones</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M511,-109C511,-109 377,-109 377,-109 371,-109 365,-103 365,-97 365,-97 365,-81 365,-81 365,-75 371,-69 377,-69 377,-69 511,-69 511,-69 517,-69 523,-75 523,-81 523,-81 523,-97 523,-97 523,-103 517,-109 511,-109" />
+<text text-anchor="middle" x="444" y="-84.6" font-family="Georgia" font-size="18.00" fill="#243d36">Immune Signals</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M520,-40C520,-40 368,-40 368,-40 362,-40 356,-34 356,-28 356,-28 356,-12 356,-12 356,-6 362,0 368,0 368,0 520,0 520,0 526,0 532,-6 532,-12 532,-12 532,-28 532,-28 532,-34 526,-40 520,-40" />
+<text text-anchor="middle" x="444" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Neurotransmitters</text>
+</g>
+</g>
+</svg>

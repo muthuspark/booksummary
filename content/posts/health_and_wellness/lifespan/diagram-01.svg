@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="473pt" height="292pt" viewBox="0.00 0.00 472.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">Senolytics and Senomorphics: Targeting Aging Cells</title><desc id="description">Aging Process leads to Senescent Cells. Senescent Cells leads to Inflammation. Senescent Cells leads to Tissue Damage. Inflammation leads to Age-Related Diseases. Tissue Damage leads to Age-Related Diseases. Senolytics leads to Senescent Cells. Senomorphics leads to Senescent Cells.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 454.5,-274 454.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.17,-215.87C128.8,-207 151.07,-196.4 170.43,-187.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.61,-189.33 176.88,-184.1 169.51,-184.9 171.61,-189.33" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194.32,-143.87C184.35,-135.46 172.53,-125.5 162.02,-116.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.58,-114.74 156.65,-112.1 160.42,-118.49 163.58,-114.74" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.68,-143.87C249.65,-135.46 261.47,-125.5 271.98,-116.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="273.58,-118.49 277.35,-112.1 270.42,-114.74 273.58,-118.49" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.68,-71.87C166.65,-63.46 178.47,-53.5 188.98,-44.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.58,-46.49 194.35,-40.1 187.42,-42.74 190.58,-46.49" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.32,-71.87C267.35,-63.46 255.53,-53.5 245.02,-44.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.58,-42.74 239.65,-40.1 243.42,-46.49 246.58,-42.74" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M217,-215.87C217,-208.31 217,-199.49 217,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.45,-191.1 217,-184.1 214.55,-191.1 219.45,-191.1" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.56,-215.87C305.8,-207 283.38,-196.4 263.88,-187.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="264.77,-184.88 257.39,-184.1 262.67,-189.31 264.77,-184.88" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M128,-256C128,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 128,-216 128,-216 134,-216 140,-222 140,-228 140,-228 140,-244 140,-244 140,-250 134,-256 128,-256" />
+<text text-anchor="middle" x="70" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aging Process</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M280.5,-184C280.5,-184 153.5,-184 153.5,-184 147.5,-184 141.5,-178 141.5,-172 141.5,-172 141.5,-156 141.5,-156 141.5,-150 147.5,-144 153.5,-144 153.5,-144 280.5,-144 280.5,-144 286.5,-144 292.5,-150 292.5,-156 292.5,-156 292.5,-172 292.5,-172 292.5,-178 286.5,-184 280.5,-184" />
+<text text-anchor="middle" x="217" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Senescent Cells</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-112C191,-112 77,-112 77,-112 71,-112 65,-106 65,-100 65,-100 65,-84 65,-84 65,-78 71,-72 77,-72 77,-72 191,-72 191,-72 197,-72 203,-78 203,-84 203,-84 203,-100 203,-100 203,-106 197,-112 191,-112" />
+<text text-anchor="middle" x="134" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M362.5,-112C362.5,-112 237.5,-112 237.5,-112 231.5,-112 225.5,-106 225.5,-100 225.5,-100 225.5,-84 225.5,-84 225.5,-78 231.5,-72 237.5,-72 237.5,-72 362.5,-72 362.5,-72 368.5,-72 374.5,-78 374.5,-84 374.5,-84 374.5,-100 374.5,-100 374.5,-106 368.5,-112 362.5,-112" />
+<text text-anchor="middle" x="300" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tissue Damage</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M305,-40C305,-40 129,-40 129,-40 123,-40 117,-34 117,-28 117,-28 117,-12 117,-12 117,-6 123,0 129,0 129,0 305,0 305,0 311,0 317,-6 317,-12 317,-12 317,-28 317,-28 317,-34 311,-40 305,-40" />
+<text text-anchor="middle" x="217" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Age-Related Diseases</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M259.5,-256C259.5,-256 174.5,-256 174.5,-256 168.5,-256 162.5,-250 162.5,-244 162.5,-244 162.5,-228 162.5,-228 162.5,-222 168.5,-216 174.5,-216 174.5,-216 259.5,-216 259.5,-216 265.5,-216 271.5,-222 271.5,-228 271.5,-228 271.5,-244 271.5,-244 271.5,-250 265.5,-256 259.5,-256" />
+<text text-anchor="middle" x="217" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Senolytics</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M424.5,-256C424.5,-256 305.5,-256 305.5,-256 299.5,-256 293.5,-250 293.5,-244 293.5,-244 293.5,-228 293.5,-228 293.5,-222 299.5,-216 305.5,-216 305.5,-216 424.5,-216 424.5,-216 430.5,-216 436.5,-222 436.5,-228 436.5,-228 436.5,-244 436.5,-244 436.5,-250 430.5,-256 424.5,-256" />
+<text text-anchor="middle" x="365" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Senomorphics</text>
+</g>
+</g>
+</svg>

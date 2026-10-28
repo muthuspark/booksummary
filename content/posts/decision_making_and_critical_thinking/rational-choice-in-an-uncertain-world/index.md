@@ -46,15 +46,7 @@ The book offers a practical framework for improved decision-making:
 
 7. **Monitor and Learn:**  After making a decision, track the outcomes and reflect on the process. This feedback loop helps refine your judgment and improve future decision-making.
 
-```mermaid
-graph TD
-    A[Define the Problem] --> B(Identify Options);
-    B --> C{Assess Probabilities};
-    C --> D(Evaluate Outcomes);
-    D --> E(Combine Probabilities & Values);
-    E --> F[Choose Best Option];
-    F --> G(Monitor & Learn);
-```
+![Improving Your Decision-Making Process: A Step-by-Step Guide. Define the Problem; Identify Options; Assess Probabilities; Evaluate Outcomes; Combine Probabilities & Values; Choose Best Option; Monitor & Learn.](diagram-01.svg)
 
 ## Dealing with Uncertainty
 

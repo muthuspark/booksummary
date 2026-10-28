@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="548pt" height="260pt" viewBox="0.00 0.00 548.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">Visual Cues and Their Impact</title><desc id="description">Visual Cues leads to Plate Size. Visual Cues leads to Packaging. Visual Cues leads to Food Visibility. Visual Cues leads to Variety. Plate Size leads to Increased Consumption. Packaging leads to Increased Consumption. Food Visibility leads to Increased Consumption. Variety leads to Increased Consumption.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 530,-242 530,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.53,-183.96C174,-174.52 140.72,-163.1 112.65,-153.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.42,-151.14 106,-151.19 111.83,-155.78 113.42,-151.14" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M236.78,-183.87C228.05,-175.62 217.74,-165.86 208.5,-157.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.97,-155.14 203.2,-152.1 206.6,-158.69 209.97,-155.14" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.49,-183.87C286.34,-175.62 296.79,-165.86 306.16,-157.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="308.08,-158.67 311.53,-152.1 304.74,-155.09 308.08,-158.67" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M317.14,-183.99C346.68,-174.55 382.77,-162.87 415,-152 416.31,-151.56 417.63,-151.11 418.97,-150.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="419.88,-152.93 425.71,-148.34 418.29,-148.3 419.88,-152.93" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96.26,-111.91C122.91,-100.16 157.66,-84.83 188.03,-71.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="189.03,-73.67 194.44,-68.6 187.05,-69.18 189.03,-73.67" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198.69,-111.91C206.21,-102.77 215.5,-91.47 224.44,-80.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.52,-81.92 229.08,-74.96 222.74,-78.81 226.52,-81.92" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M316.09,-111.91C308.48,-102.77 299.06,-91.47 290,-80.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="291.66,-78.77 285.3,-74.96 287.9,-81.91 291.66,-78.77" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M425.84,-112.68C397.81,-100.78 360.61,-84.98 328.25,-71.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="328.83,-68.83 321.43,-68.35 326.92,-73.34 328.83,-68.83" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M305.5,-224C305.5,-224 208.5,-224 208.5,-224 202.5,-224 196.5,-218 196.5,-212 196.5,-212 196.5,-196 196.5,-196 196.5,-190 202.5,-184 208.5,-184 208.5,-184 305.5,-184 305.5,-184 311.5,-184 317.5,-190 317.5,-196 317.5,-196 317.5,-212 317.5,-212 317.5,-218 311.5,-224 305.5,-224" />
+<text text-anchor="middle" x="257" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Visual Cues</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M94,-152C94,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 94,-112 94,-112 100,-112 106,-118 106,-124 106,-124 106,-140 106,-140 106,-146 100,-152 94,-152" />
+<text text-anchor="middle" x="53" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Plate Size</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M226,-152C226,-152 140,-152 140,-152 134,-152 128,-146 128,-140 128,-140 128,-124 128,-124 128,-118 134,-112 140,-112 140,-112 226,-112 226,-112 232,-112 238,-118 238,-124 238,-124 238,-140 238,-140 238,-146 232,-152 226,-152" />
+<text text-anchor="middle" x="183" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Packaging</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M392,-152C392,-152 272,-152 272,-152 266,-152 260,-146 260,-140 260,-140 260,-124 260,-124 260,-118 266,-112 272,-112 272,-112 392,-112 392,-112 398,-112 404,-118 404,-124 404,-124 404,-140 404,-140 404,-146 398,-152 392,-152" />
+<text text-anchor="middle" x="332" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Food Visibility</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M500,-152C500,-152 438,-152 438,-152 432,-152 426,-146 426,-140 426,-140 426,-124 426,-124 426,-118 432,-112 438,-112 438,-112 500,-112 500,-112 506,-112 512,-118 512,-124 512,-124 512,-140 512,-140 512,-146 506,-152 500,-152" />
+<text text-anchor="middle" x="469" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Variety</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="257,-80 39,-40 257,0 475,-40 257,-80" />
+<text text-anchor="middle" x="257" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Consumption</text>
+</g>
+</g>
+</svg>

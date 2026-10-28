@@ -20,14 +20,7 @@ Another key component is **controlling your body language**.  This goes beyond s
 
 Finally, Cabane highlights the role of **slowing down**.  Intentionally slowing your speech and movements creates an aura of calm confidence and allows you to fully engage with your surroundings and the people you interact with.  It projects a sense of control and self-assurance.
 
-```mermaid
-graph LR
-A[Calm Inner Critic] --> B(Mindfulness);
-B --> C{Reduced Anxiety};
-C --> D[Enhanced Presence];
-E[Controlled Body Language] --> D;
-F[Slowed Movements & Speech] --> D;
-```
+![Presence: Commanding Attention. Calm Inner Critic; Mindfulness; Reduced Anxiety; Enhanced Presence; Controlled Body Language; Slowed Movements & Speech.](diagram-01.svg)
 
 # Power: Projecting Influence
 
@@ -41,16 +34,7 @@ Crucially, Cabane advises against **overly apologetic language**.  Phrases like 
 
 Finally, power is enhanced by **genuine competence**. Confidence stems from knowing your stuff. This means continuous learning and development within your field of expertise.
 
-```mermaid
-graph LR
-A[Clear Boundaries] --> B(Assertive Communication);
-B --> C{Increased Influence};
-C --> D[Powerful Charisma];
-E[Powerful Vocalizations] --> D;
-F[Confident Communication] --> D;
-G[Competence & Expertise] --> D;
-
-```
+![Power: Projecting Influence. Clear Boundaries; Assertive Communication; Increased Influence; Powerful Charisma; Powerful Vocalizations; Confident Communication; Competence & Expertise.](diagram-02.svg)
 
 # Warmth: Building Connections
 
@@ -64,15 +48,7 @@ Furthermore, Cabane emphasizes the power of **mirroring and matching**. This inv
 
 Lastly, she highlights the importance of **showing vulnerability**. Sharing appropriate personal experiences builds trust and creates a sense of authenticity, fostering deeper connections.  Vulnerability doesn't mean revealing everything; it's about selective sharing that builds trust.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Genuine Connection);
-B --> C{Strong Relationships};
-C --> D[Warm Charisma];
-E[Sincere Compliments] --> D;
-F[Mirroring & Matching] --> D;
-G[Appropriate Vulnerability] --> D;
-```
+![Warmth: Building Connections. Active Listening; Genuine Connection; Strong Relationships; Warm Charisma; Sincere Compliments; Mirroring & Matching; Appropriate Vulnerability.](diagram-03.svg)
 
 # Cultivating Charisma: A Practical Approach
 

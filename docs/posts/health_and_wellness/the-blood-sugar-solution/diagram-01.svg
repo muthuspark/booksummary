@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012pt" height="352pt" viewBox="0.00 0.00 1011.50 352.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing the Process</title><desc id="description">Unhealthy Lifestyle leads to Insulin Resistance. Insulin Resistance leads to High Blood Sugar. High Blood Sugar leads to Chronic Diseases. Healthy Diet leads to Improved Insulin Sensitivity. Improved Insulin Sensitivity leads to Stable Blood Sugar. Stable Blood Sugar leads to Improved Health. Exercise leads to Improved Insulin Sensitivity. Stress Management leads to Improved Insulin Sensitivity. Sleep leads to Improved Insulin Sensitivity. Gut Health leads to Improved Insulin Sensitivity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 993.5,-334 993.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-275.63C170,-265.32 170,-252.48 170,-241.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-241.19 170,-234.19 167.55,-241.19 172.45,-241.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-193.72C170,-183.85 170,-171.38 170,-159.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-159.09 170,-152.09 167.55,-159.09 172.45,-159.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-71.79C170,-63.54 170,-55.04 170,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-47.09 170,-40.09 167.55,-47.09 172.45,-47.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M415.62,-277.44C457.31,-266.29 511.88,-251.69 557.76,-239.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="558.63,-241.72 564.76,-237.54 557.36,-236.98 558.63,-241.72" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M649,-183.81C649,-176.06 649,-167.5 649,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="651.45,-159.09 649,-152.09 646.55,-159.09 651.45,-159.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M649,-71.79C649,-63.54 649,-55.04 649,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="651.45,-47.09 649,-40.09 646.55,-47.09 651.45,-47.09" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M525.04,-275.84C542.55,-267.25 563.68,-256.87 583.5,-247.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="584.68,-249.3 589.88,-244.01 582.52,-244.9 584.68,-249.3" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M649,-275.63C649,-268.34 649,-259.78 649,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="651.45,-251.19 649,-244.19 646.55,-251.19 651.45,-251.19" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M763.83,-275.84C747.82,-267.36 728.54,-257.14 710.39,-247.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="711.1,-245.13 703.76,-244.01 708.8,-249.46 711.1,-245.13" />
+</g>
+
+<g id="edge10" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M858.19,-277.44C823.52,-267.1 778.93,-253.78 739.83,-242.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="740.51,-239.76 733.1,-240.1 739.11,-244.45 740.51,-239.76" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M250,-316C250,-316 90,-316 90,-316 84,-316 78,-310 78,-304 78,-304 78,-288 78,-288 78,-282 84,-276 90,-276 90,-276 250,-276 250,-276 256,-276 262,-282 262,-288 262,-288 262,-304 262,-304 262,-310 256,-316 250,-316" />
+<text text-anchor="middle" x="170" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unhealthy Lifestyle</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M245,-234C245,-234 95,-234 95,-234 89,-234 83,-228 83,-222 83,-222 83,-206 83,-206 83,-200 89,-194 95,-194 95,-194 245,-194 245,-194 251,-194 257,-200 257,-206 257,-206 257,-222 257,-222 257,-228 251,-234 245,-234" />
+<text text-anchor="middle" x="170" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insulin Resistance</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="170,-152 0,-112 170,-72 340,-112 170,-152" />
+<text text-anchor="middle" x="170" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Blood Sugar</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M240,-40C240,-40 100,-40 100,-40 94,-40 88,-34 88,-28 88,-28 88,-12 88,-12 88,-6 94,0 100,0 100,0 240,0 240,0 246,0 252,-6 252,-12 252,-12 252,-28 252,-28 252,-34 246,-40 240,-40" />
+<text text-anchor="middle" x="170" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronic Diseases</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M403.5,-316C403.5,-316 296.5,-316 296.5,-316 290.5,-316 284.5,-310 284.5,-304 284.5,-304 284.5,-288 284.5,-288 284.5,-282 290.5,-276 296.5,-276 296.5,-276 403.5,-276 403.5,-276 409.5,-276 415.5,-282 415.5,-288 415.5,-288 415.5,-304 415.5,-304 415.5,-310 409.5,-316 403.5,-316" />
+<text text-anchor="middle" x="350" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Diet</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M721,-244C721,-244 577,-244 577,-244 571,-244 565,-238 565,-232 565,-232 565,-196 565,-196 565,-190 571,-184 577,-184 577,-184 721,-184 721,-184 727,-184 733,-190 733,-196 733,-196 733,-232 733,-232 733,-238 727,-244 721,-244" />
+<text text-anchor="middle" x="649" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Insulin</text>
+<text text-anchor="middle" x="649" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sensitivity</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="649,-152 470,-112 649,-72 828,-112 649,-152" />
+<text text-anchor="middle" x="649" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stable Blood Sugar</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M720.5,-40C720.5,-40 577.5,-40 577.5,-40 571.5,-40 565.5,-34 565.5,-28 565.5,-28 565.5,-12 565.5,-12 565.5,-6 571.5,0 577.5,0 577.5,0 720.5,0 720.5,0 726.5,0 732.5,-6 732.5,-12 732.5,-12 732.5,-28 732.5,-28 732.5,-34 726.5,-40 720.5,-40" />
+<text text-anchor="middle" x="649" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Health</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M522,-316C522,-316 450,-316 450,-316 444,-316 438,-310 438,-304 438,-304 438,-288 438,-288 438,-282 444,-276 450,-276 450,-276 522,-276 522,-276 528,-276 534,-282 534,-288 534,-288 534,-304 534,-304 534,-310 528,-316 522,-316" />
+<text text-anchor="middle" x="486" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exercise</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M729.5,-316C729.5,-316 568.5,-316 568.5,-316 562.5,-316 556.5,-310 556.5,-304 556.5,-304 556.5,-288 556.5,-288 556.5,-282 562.5,-276 568.5,-276 568.5,-276 729.5,-276 729.5,-276 735.5,-276 741.5,-282 741.5,-288 741.5,-288 741.5,-304 741.5,-304 741.5,-310 735.5,-316 729.5,-316" />
+<text text-anchor="middle" x="649" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress Management</text>
+</g>
+
+<g id="node11" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M824,-316C824,-316 776,-316 776,-316 770,-316 764,-310 764,-304 764,-304 764,-288 764,-288 764,-282 770,-276 776,-276 776,-276 824,-276 824,-276 830,-276 836,-282 836,-288 836,-288 836,-304 836,-304 836,-310 830,-316 824,-316" />
+<text text-anchor="middle" x="800" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sleep</text>
+</g>
+
+<g id="node12" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M963.5,-316C963.5,-316 870.5,-316 870.5,-316 864.5,-316 858.5,-310 858.5,-304 858.5,-304 858.5,-288 858.5,-288 858.5,-282 864.5,-276 870.5,-276 870.5,-276 963.5,-276 963.5,-276 969.5,-276 975.5,-282 975.5,-288 975.5,-288 975.5,-304 975.5,-304 975.5,-310 969.5,-316 963.5,-316" />
+<text text-anchor="middle" x="917" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gut Health</text>
+</g>
+</g>
+</svg>

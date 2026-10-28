@@ -20,14 +20,7 @@ A key takeaway from the book is the impact of expanding our emotional vocabulary
 Brown emphasizes vulnerability as a necessary component of wholehearted living.  She defines vulnerability not as weakness, but as the courage to show up and be seen, even when there's a risk of being hurt. This involves embracing uncertainty, imperfection, and the emotional risks in genuine connection.  By embracing vulnerability, we open ourselves up to deeper relationships, greater empathy, and a more authentic sense of self.  She differentiates between vulnerability and shame, highlighting that shame is a crippling emotion that stifles connection, while vulnerability is a courageous act of showing up authentically.
 
 
-```mermaid
-graph LR
-    A[Vulnerability] --> B(Courage);
-    A --> C(Authenticity);
-    A --> D(Connection);
-    E[Shame] --> F(Fear);
-    E --> G(Isolation);
-```
+![Vulnerability: The Path to Connection. Vulnerability; Courage; Authenticity; Connection; Shame; Fear; Isolation.](diagram-01.svg)
 
 
 # Cultivating Empathy:  Understanding Others' Experiences

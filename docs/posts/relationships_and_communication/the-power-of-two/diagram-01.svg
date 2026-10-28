@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354pt" height="452pt" viewBox="0.00 0.00 354.00 452.00" role="img" aria-labelledby="title description">
+<title id="title">Communication: The Cornerstone of a Strong Relationship</title><desc id="description">Speaker leads to Clearly expresses needs. Clearly expresses needs leads to Listener actively listens and paraphrases. Listener actively listens and paraphrases leads to Understanding and Validation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 434)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-434 336,-434 336,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159,-375.63C159,-368.34 159,-359.78 159,-351.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.45,-351.19 159,-344.19 156.55,-351.19 161.45,-351.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159,-283.99C159,-276.53 159,-268.12 159,-259.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.45,-259.23 159,-252.23 156.55,-259.23 161.45,-259.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M159,-92C159,-83.53 159,-75.25 159,-67.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.45,-67.29 159,-60.29 156.55,-67.29 161.45,-67.29" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193.5,-416C193.5,-416 124.5,-416 124.5,-416 118.5,-416 112.5,-410 112.5,-404 112.5,-404 112.5,-388 112.5,-388 112.5,-382 118.5,-376 124.5,-376 124.5,-376 193.5,-376 193.5,-376 199.5,-376 205.5,-382 205.5,-388 205.5,-388 205.5,-404 205.5,-404 205.5,-410 199.5,-416 193.5,-416" />
+<text text-anchor="middle" x="159" y="-391.6" font-family="Georgia" font-size="18.00" fill="#243d36">Speaker</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M230,-344C230,-344 88,-344 88,-344 82,-344 76,-338 76,-332 76,-332 76,-296 76,-296 76,-290 82,-284 88,-284 88,-284 230,-284 230,-284 236,-284 242,-290 242,-296 242,-296 242,-332 242,-332 242,-338 236,-344 230,-344" />
+<text text-anchor="middle" x="159" y="-319.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clearly expresses</text>
+<text text-anchor="middle" x="159" y="-299.6" font-family="Georgia" font-size="18.00" fill="#243d36">needs</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="159,-252 0,-172 159,-92 318,-172 159,-252" />
+<text text-anchor="middle" x="159" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Listener actively</text>
+<text text-anchor="middle" x="159" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">listens and</text>
+<text text-anchor="middle" x="159" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">paraphrases</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M238,-60C238,-60 80,-60 80,-60 74,-60 68,-54 68,-48 68,-48 68,-12 68,-12 68,-6 74,0 80,0 80,0 238,0 238,0 244,0 250,-6 250,-12 250,-12 250,-48 250,-48 250,-54 244,-60 238,-60" />
+<text text-anchor="middle" x="159" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding and</text>
+<text text-anchor="middle" x="159" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Validation</text>
+</g>
+</g>
+</svg>

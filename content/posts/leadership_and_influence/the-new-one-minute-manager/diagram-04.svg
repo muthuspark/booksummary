@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="314pt" height="404pt" viewBox="0.00 0.00 314.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Your Time Effectively: Prioritization and Focus</title><desc id="description">Set Clear Goals leads to Prioritize Tasks. Prioritize Tasks leads to Allocate Time. Allocate Time leads to Minimize Distractions. Minimize Distractions leads to Achieve Goals.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 296,-386 296,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139,-327.87C139,-320.31 139,-311.49 139,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.45,-303.1 139,-296.1 136.55,-303.1 141.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139,-255.91C139,-248.58 139,-239.86 139,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.45,-231.07 139,-224.07 136.55,-231.07 141.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139,-143.79C139,-135.54 139,-127.04 139,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.45,-119.09 139,-112.09 136.55,-119.09 141.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139,-71.87C139,-64.31 139,-55.49 139,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.45,-47.1 139,-40.1 136.55,-47.1 141.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M201.5,-368C201.5,-368 76.5,-368 76.5,-368 70.5,-368 64.5,-362 64.5,-356 64.5,-356 64.5,-340 64.5,-340 64.5,-334 70.5,-328 76.5,-328 76.5,-328 201.5,-328 201.5,-328 207.5,-328 213.5,-334 213.5,-340 213.5,-340 213.5,-356 213.5,-356 213.5,-362 207.5,-368 201.5,-368" />
+<text text-anchor="middle" x="139" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Set Clear Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M203.5,-296C203.5,-296 74.5,-296 74.5,-296 68.5,-296 62.5,-290 62.5,-284 62.5,-284 62.5,-268 62.5,-268 62.5,-262 68.5,-256 74.5,-256 74.5,-256 203.5,-256 203.5,-256 209.5,-256 215.5,-262 215.5,-268 215.5,-268 215.5,-284 215.5,-284 215.5,-290 209.5,-296 203.5,-296" />
+<text text-anchor="middle" x="139" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritize Tasks</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="139,-224 0,-184 139,-144 278,-184 139,-224" />
+<text text-anchor="middle" x="139" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Allocate Time</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229.5,-112C229.5,-112 48.5,-112 48.5,-112 42.5,-112 36.5,-106 36.5,-100 36.5,-100 36.5,-84 36.5,-84 36.5,-78 42.5,-72 48.5,-72 48.5,-72 229.5,-72 229.5,-72 235.5,-72 241.5,-78 241.5,-84 241.5,-84 241.5,-100 241.5,-100 241.5,-106 235.5,-112 229.5,-112" />
+<text text-anchor="middle" x="139" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Minimize Distractions</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M197,-40C197,-40 81,-40 81,-40 75,-40 69,-34 69,-28 69,-28 69,-12 69,-12 69,-6 75,0 81,0 81,0 197,0 197,0 203,0 209,-6 209,-12 209,-12 209,-28 209,-28 209,-34 203,-40 197,-40" />
+<text text-anchor="middle" x="139" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieve Goals</text>
+</g>
+</g>
+</svg>

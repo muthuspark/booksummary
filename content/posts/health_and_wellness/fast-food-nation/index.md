@@ -63,21 +63,7 @@ The book argues that the problems associated with fast food are not merely indiv
 
 The following diagram illustrates the interconnected nature of the issues raised in "Fast Food Nation":
 
-```mermaid
-graph LR
-    A[Consumer Demand] --> B(Fast Food Industry);
-    B --> C[Exploitation of Labor];
-    B --> D[Environmental Damage];
-    B --> E[Public Health Crisis];
-    C --> F[Social Inequality];
-    D --> F;
-    E --> F;
-    F --> G[Need for Systemic Change];
-    A --> G;
-    G --> H[Informed Consumerism];
-    G --> I[Political Action];
-    G --> J[Support for Sustainable Practices];
-```
+![Visualizing the Interconnectedness. Consumer Demand; Fast Food Industry; Exploitation of Labor; Environmental Damage; Public Health Crisis; Social Inequality; Need for Systemic Change; Informed Consumerism; Political Action; Support for Sustainable Practices.](diagram-01.svg)
 
 This visualization highlights how consumer demand fuels the fast food industry, leading to various negative consequences. Addressing these issues necessitates a multi-faceted approach of informed consumerism, political action, and support for sustainable practices.
 

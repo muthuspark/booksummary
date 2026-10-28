@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="806pt" height="462pt" viewBox="0.00 0.00 806.00 462.00" role="img" aria-labelledby="title description">
+<title id="title">Strategic Prioritization and Task Management</title><desc id="description">Eisenhower Matrix leads to Urgent &amp; Important. Urgent &amp; Important leads to Do First. Eisenhower Matrix leads to Important, Not Urgent. Important, Not Urgent leads to Schedule. Eisenhower Matrix leads to Urgent, Not Important. Urgent, Not Important leads to Delegate. Eisenhower Matrix leads to Not Urgent, Not Important. Not Urgent, Not Important leads to Eliminate.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 444)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-444 788,-444 788,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M109.68,-253.04C131.84,-276.24 171.49,-313.94 213,-335 241.59,-349.5 274.52,-360.02 305.62,-367.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="305.27,-370.03 312.65,-369.26 306.4,-365.26 305.27,-370.03" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M181.1,-246.87C217.34,-252.48 259.75,-259.04 298.76,-265.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="298.7,-267.55 306,-266.2 299.45,-262.71 298.7,-267.55" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M181.1,-219.13C217.34,-213.52 259.75,-206.96 298.76,-200.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="299.45,-203.29 306,-199.8 298.7,-198.45 299.45,-203.29" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.82,-212.78C133.44,-190.12 172.94,-153.6 213,-131 246.34,-112.19 285.48,-97.22 320.77,-85.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="321.83,-88.21 327.77,-83.77 320.36,-83.53 321.83,-88.21" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M610.31,-386C629.11,-386 646.93,-386 662.37,-386" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="662.75,-388.45 669.75,-386 662.75,-383.55 662.75,-388.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M631.29,-284C640.99,-284 650.25,-284 658.83,-284" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="658.88,-286.45 665.88,-284 658.88,-281.55 658.88,-286.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M631.29,-182C641.53,-182 651.27,-182 660.25,-182" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="660.28,-184.45 667.28,-182 660.28,-179.55 660.28,-184.45" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M578.24,-60C605.76,-60 632.84,-60 655.59,-60" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="655.82,-62.45 662.82,-60 655.82,-57.55 655.82,-62.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169,-253C169,-253 12,-253 12,-253 6,-253 0,-247 0,-241 0,-241 0,-225 0,-225 0,-219 6,-213 12,-213 12,-213 169,-213 169,-213 175,-213 181,-219 181,-225 181,-225 181,-241 181,-241 181,-247 175,-253 169,-253" />
+<text text-anchor="middle" x="90.5" y="-228.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eisenhower Matrix</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="422,-426 234,-386 422,-346 610,-386 422,-426" />
+<text text-anchor="middle" x="422" y="-381.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent &amp; Important</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M751,-406C751,-406 682,-406 682,-406 676,-406 670,-400 670,-394 670,-394 670,-378 670,-378 670,-372 676,-366 682,-366 682,-366 751,-366 751,-366 757,-366 763,-372 763,-378 763,-378 763,-394 763,-394 763,-400 757,-406 751,-406" />
+<text text-anchor="middle" x="716.5" y="-381.6" font-family="Georgia" font-size="18.00" fill="#243d36">Do First</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="422,-324 213,-284 422,-244 631,-284 422,-324" />
+<text text-anchor="middle" x="422" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important, Not Urgent</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M755,-304C755,-304 678,-304 678,-304 672,-304 666,-298 666,-292 666,-292 666,-276 666,-276 666,-270 672,-264 678,-264 678,-264 755,-264 755,-264 761,-264 767,-270 767,-276 767,-276 767,-292 767,-292 767,-298 761,-304 755,-304" />
+<text text-anchor="middle" x="716.5" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Schedule</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="422,-222 213,-182 422,-142 631,-182 422,-222" />
+<text text-anchor="middle" x="422" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Urgent, Not Important</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M753.5,-202C753.5,-202 679.5,-202 679.5,-202 673.5,-202 667.5,-196 667.5,-190 667.5,-190 667.5,-174 667.5,-174 667.5,-168 673.5,-162 679.5,-162 679.5,-162 753.5,-162 753.5,-162 759.5,-162 765.5,-168 765.5,-174 765.5,-174 765.5,-190 765.5,-190 765.5,-196 759.5,-202 753.5,-202" />
+<text text-anchor="middle" x="716.5" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Delegate</text>
+</g>
+
+<g id="node8" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="422,-120 266,-60 422,0 578,-60 422,-120" />
+<text text-anchor="middle" x="422" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Not Urgent, Not</text>
+<text text-anchor="middle" x="422" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Important</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M758,-80C758,-80 675,-80 675,-80 669,-80 663,-74 663,-68 663,-68 663,-52 663,-52 663,-46 669,-40 675,-40 675,-40 758,-40 758,-40 764,-40 770,-46 770,-52 770,-52 770,-68 770,-68 770,-74 764,-80 758,-80" />
+<text text-anchor="middle" x="716.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eliminate</text>
+</g>
+</g>
+</svg>

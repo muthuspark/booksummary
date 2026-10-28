@@ -20,16 +20,7 @@ Berne identifies three fundamental ego states: Parent, Adult, and Child.
 
 Understanding these ego states allows us to determine which part of ourselves is driving our actions in any given situation. This self-awareness is important for effective communication and healthy relationships.
 
-```mermaid
-graph LR
-    A[Adult] --> P(Parent);
-    A --> C(Child);
-    P --> A;
-    C --> A;
-    P --> C;
-    C --> P;
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-```
+![Ego States: The Building Blocks of Personality. Adult; Parent; Child.](diagram-01.svg)
 
 
 # Crossed Transactions
@@ -41,17 +32,7 @@ Transactions are classified as crossed or not crossed.
 * **Crossed Transactions:**  These occur when the communication lines get tangled, leading to conflict and misunderstanding.  This typically happens when a message sent from one ego state receives an unexpected response from a different ego state, disrupting the flow of communication.
 
 
-```mermaid
-graph LR
-    subgraph Complementary Transaction
-        A1[Adult] --> A2(Adult);
-        P1[Parent] --> C2(Child);
-    end
-    subgraph Crossed Transaction
-        A1[Adult] --> C2(Child);
-        P2[Parent] --> A1;
-    end
-```
+![Crossed Transactions. Adult; Adult; Parent; Child; Parent.](diagram-02.svg)
 
 
 # Psychological Games: Hidden Agendas in Interactions

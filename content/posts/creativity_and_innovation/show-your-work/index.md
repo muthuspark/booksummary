@@ -15,13 +15,7 @@ Austin Kleon's "Show Your Work!" isn't a self-help book in the traditional sense
 
 Kleon argues against the myth of the solitary genius.  He champions a more collaborative and transparent approach, encouraging readers to document their creative journey. This involves sharing your failures alongside your successes.  Authenticity is key; people connect with the human element, not just the polished final product.
 
-```mermaid
-graph LR
-    A[Creative Process] --> B(Share Work in Progress);
-    B --> C{Authenticity};
-    C --> D[Connection with Audience];
-    D --> E(Meaningful Engagement);
-```
+![The Importance of Sharing Your Process. Creative Process; Share Work in Progress; Authenticity; Connection with Audience; Meaningful Engagement.](diagram-01.svg)
 
 This process fosters trust and allows your audience to understand your creative work on a deeper level, strengthening your connection with them.  It's about building a community around your craft, not just selling your output.
 
@@ -30,15 +24,7 @@ This process fosters trust and allows your audience to understand your creative 
 
 Kleon stresses the importance of documenting your creative process. This doesn't require a high level of technical skill; a simple blog, social media platform, or even a notebook can suffice. The focus is on consistency; regular updates keep your audience engaged and informed about your progress.
 
-```mermaid
-graph LR
-    A[Daily Practice] --> B(Blog);
-    A --> C(Social Media);
-    A --> D(Notebook);
-    B --> E[Share Your Process];
-    C --> E;
-    D --> E;
-```
+![Document Everything. Daily Practice; Blog; Social Media; Notebook; Share Your Process.](diagram-02.svg)
 
 This documentation serves a dual purpose: it not only attracts an audience but also helps solidify your own creative thinking and provides self-reflection opportunities.
 
@@ -47,14 +33,7 @@ This documentation serves a dual purpose: it not only attracts an audience but a
 
 The book emphasizes the importance of building genuine connections with your audience, rather than chasing superficial metrics like follower count.  Focus on quality interactions; respond to comments, engage in conversations, and genuinely interact with the people who are interested in your work.
 
-```mermaid
-graph LR
-    A[Share Your Work] --> B(Engage with Audience);
-    B --> C(Respond to Comments);
-    B --> D(Create Community);
-    C --> E[Build Relationships];
-    D --> E;
-```
+![Building an Audience: It's About Relationships, Not Numbers. Share Your Work; Engage with Audience; Respond to Comments; Create Community; Build Relationships.](diagram-03.svg)
 
 This approach fosters a loyal following that's more likely to support your work in the long run, whether through purchases, collaborations, or simply spreading the word. This is organic growth, more than any algorithm-driven boost.
 
@@ -63,13 +42,7 @@ This approach fosters a loyal following that's more likely to support your work 
 
 Kleon encourages readers to broaden their engagement by becoming curators of the work they admire.  Share content created by others that inspires you, offering insightful commentary and context.  This establishes you as someone who knows their field, someone worth following for more than just your own creations. This practice enhances your credibility and adds value to your online presence.
 
-```mermaid
-graph LR
-    A[Creative Work] --> B(Share related content);
-    B --> C(Offer insights);
-    C --> D[Build credibility];
-    D --> E(Expand reach);
-```
+![Be a Curator, Not Just a Creator. Creative Work; Share related content; Offer insights; Build credibility; Expand reach.](diagram-04.svg)
 
 This approach builds trust and reinforces the idea that you are part of a larger creative community, rather than a lone operator.
 
@@ -78,14 +51,7 @@ This approach builds trust and reinforces the idea that you are part of a larger
 
 The book champions consistency over sporadic bursts of activity.  Small, regular updates are far more effective than infrequent, large-scale releases.  This builds anticipation, sustains audience engagement, and cultivates a habit of creative practice.
 
-```mermaid
-graph LR
-    A[Small Steps] --> B(Consistency);
-    B --> C(Engagement);
-    C --> D(Build Habit);
-    D --> E[Sustained Progress];
-
-```
+![The Power of Small, Consistent Actions. Small Steps; Consistency; Engagement; Build Habit; Sustained Progress.](diagram-05.svg)
 
 It's better to share a small piece of your work regularly than to wait for a masterpiece before you engage your audience.  This consistent engagement builds anticipation and establishes a predictable pattern, fostering a loyal following.
 
@@ -94,16 +60,7 @@ It's better to share a small piece of your work regularly than to wait for a mas
 
 Kleon encourages readers to diversify their online presence.  Don't put all your eggs in one basket.  Experiment with different platforms, finding where your voice resonates best.  This broad approach increases your visibility and connects you with various audiences.
 
-```mermaid
-graph LR
-    A[Creative Work] --> B(Multiple Platforms);
-    B --> C(Blog);
-    B --> D(Social Media);
-    B --> E(Newsletter);
-    C --> F[Increased Visibility];
-    D --> F;
-    E --> F;
-```
+![Be a Secret Keeper: The "Scatter. Creative Work; Multiple Platforms; Blog; Social Media; Newsletter; Increased Visibility.](diagram-06.svg)
 
 This "scatter" approach avoids the pitfalls of over-reliance on any single platform and allows for a more flexible and resilient approach to building your audience.
 
@@ -117,24 +74,14 @@ Kleon advocates for creative appropriation, arguing that all artists build on th
 
 Authenticity is paramount. Don't try to imitate others; instead, let your unique voice and style shine through in your work and your online presence. Your genuine passion will connect with your audience far more effectively than any attempt at mimicking a trend.
 
-```mermaid
-graph LR
-    A[Authenticity] --> B(Unique Voice);
-    B --> C(Genuine Passion);
-    C --> D[Strong Connection with Audience];
-```
+![Be Yourself: Your Voice. Authenticity; Unique Voice; Genuine Passion; Strong Connection with Audience.](diagram-07.svg)
 
 
 ## The Long Game: Patience and Persistence
 
 Building a meaningful audience takes time and effort.  It's a marathon, not a sprint.  Don't get discouraged by slow growth.  Maintain consistency, remain patient, and keep refining your process.
 
-```mermaid
-graph LR
-    A[Consistent Effort] --> B(Patience);
-    B --> C(Persistence);
-    C --> D[Long-term Success];
-```
+![The Long Game: Patience and Persistence. Consistent Effort; Patience; Persistence; Long-term Success.](diagram-08.svg)
 
 
 ##  Actionable Insights:  A Summary

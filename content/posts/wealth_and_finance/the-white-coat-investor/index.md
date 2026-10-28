@@ -18,12 +18,7 @@ Physicians face a unique financial landscape.  High earning potential often mask
 
 Dahle strongly advocates for aggressively paying down high-interest debt, particularly student loans. He emphasizes the importance of viewing student loan interest as a high-cost investment that should be minimized as rapidly as possible.  This is often prioritized over other investments, even those with potentially higher returns, due to the guaranteed negative return associated with interest payments.
 
-```mermaid
-graph LR
-    A[High-Interest Debt] --> B(Aggressive Repayment);
-    B --> C{Lower Interest Burden};
-    C --> D[Increased Financial Freedom];
-```
+![The Power of Aggressively Paying Down Debt. High-Interest Debt; Aggressive Repayment; Lower Interest Burden; Increased Financial Freedom.](diagram-01.svg)
 
 ### The Importance of Tax-Advantaged Accounts
 
@@ -33,13 +28,7 @@ Maximizing contributions to tax-advantaged retirement accounts, such as 401(k)s 
 
 Dahle promotes a diversified investment portfolio based on one's risk tolerance and time horizon.  He advocates for a primarily low-cost index fund approach, emphasizing the historical outperformance of broad market indexes over actively managed funds.  The risk tolerance is directly tied to the investor's time horizon.  Younger investors with a longer time horizon can generally tolerate more risk.
 
-```mermaid
-graph LR
-    A[Risk Tolerance] --> B(Time Horizon);
-    B --> C{Asset Allocation};
-    C --> D[Portfolio Diversification];
-    D --> E(Index Funds);
-```
+![Asset Allocation: Diversification and Risk Tolerance. Risk Tolerance; Time Horizon; Asset Allocation; Portfolio Diversification; Index Funds.](diagram-02.svg)
 
 ### Low-Cost Investing: The Importance of Fees
 

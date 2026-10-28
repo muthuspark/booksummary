@@ -14,17 +14,7 @@ Carol S. Dweck's "Mindset" revolutionizes our understanding of success and achie
 
 The central thesis revolves around the fundamental belief we hold about our abilities.  A **fixed mindset** assumes our talents and intelligence are innate and unchangeable. Success is about proving intelligence and avoiding failure at all costs.  Conversely, a **growth mindset** embraces the idea that abilities can be developed through dedication and hard work. Challenges are seen as opportunities for learning and growth.
 
-```mermaid
-graph LR
-    A[Fixed Mindset] --> B(Talent is innate);
-    A --> C(Intelligence is fixed);
-    A --> D(Avoid challenges);
-    A --> E(Give up easily);
-    F[Growth Mindset] --> G(Talent is developed);
-    F --> H(Intelligence can grow);
-    F --> I(Embrace challenges);
-    F --> J(Persist in face of setbacks);
-```
+![Fixed vs. Growth Mindset: The Core Distinction. Fixed Mindset; Talent is innate; Intelligence is fixed; Avoid challenges; Give up easily; Growth Mindset; Talent is developed; Intelligence can grow; Embrace challenges; Persist in face of setbacks.](diagram-01.svg)
 
 # The Impact of Mindset on Achievement
 

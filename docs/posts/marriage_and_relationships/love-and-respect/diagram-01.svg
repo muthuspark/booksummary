@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306pt" height="312pt" viewBox="0.00 0.00 306.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">The Unhealthy Cycle: Criticism and Contempt</title><desc id="description">Wife feels unloved leads to Criticism/Nagging. Criticism/Nagging leads to Husband feels disrespected. Husband feels disrespected leads to Withdrawal/Defensiveness. Withdrawal/Defensiveness leads to Wife feels unloved.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 288,-294 288,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130.6,-235.87C123.73,-227.85 115.64,-218.41 108.31,-209.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="109.79,-207.83 103.38,-204.1 106.07,-211.01 109.79,-207.83" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M88.94,-163.63C89.67,-156.26 90.54,-147.61 91.38,-139.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.82,-139.4 92.08,-132.19 88.95,-138.91 93.82,-139.4" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114.43,-71.67C119.99,-63.28 125.99,-54.22 131.37,-46.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.51,-47.31 135.33,-40.12 129.42,-44.6 133.51,-47.31" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.22,-40.35C168.16,-49.49 174.5,-60.83 178,-72 185.25,-95.13 192.78,-180.55 185,-204 181.9,-213.35 176.34,-222.38 170.42,-230.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.31,-228.89 165.85,-235.89 172.14,-231.95 168.31,-228.89" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M223,-276C223,-276 71,-276 71,-276 65,-276 59,-270 59,-264 59,-264 59,-248 59,-248 59,-242 65,-236 71,-236 71,-236 223,-236 223,-236 229,-236 235,-242 235,-248 235,-248 235,-264 235,-264 235,-270 229,-276 223,-276" />
+<text text-anchor="middle" x="147" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wife feels unloved</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162,-204C162,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 162,-164 162,-164 168,-164 174,-170 174,-176 174,-176 174,-192 174,-192 174,-198 168,-204 162,-204" />
+<text text-anchor="middle" x="87" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criticism/Nagging</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154.5,-132C154.5,-132 35.5,-132 35.5,-132 29.5,-132 23.5,-126 23.5,-120 23.5,-120 23.5,-84 23.5,-84 23.5,-78 29.5,-72 35.5,-72 35.5,-72 154.5,-72 154.5,-72 160.5,-72 166.5,-78 166.5,-84 166.5,-84 166.5,-120 166.5,-120 166.5,-126 160.5,-132 154.5,-132" />
+<text text-anchor="middle" x="95" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Husband feels</text>
+<text text-anchor="middle" x="95" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">disrespected</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-40C258,-40 38,-40 38,-40 32,-40 26,-34 26,-28 26,-28 26,-12 26,-12 26,-6 32,0 38,0 38,0 258,0 258,0 264,0 270,-6 270,-12 270,-12 270,-28 270,-28 270,-34 264,-40 258,-40" />
+<text text-anchor="middle" x="148" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Withdrawal/Defensiveness</text>
+</g>
+</g>
+</svg>

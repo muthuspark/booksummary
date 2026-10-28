@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="524pt" height="332pt" viewBox="0.00 0.00 523.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">Communication: The Cornerstone of a Thriving Marriage</title><desc id="description">Honest Communication leads to Understanding. Understanding leads to Conflict Resolution. Conflict Resolution leads to Stronger Bond. Honest Communication leads to Empathy. Empathy leads to Stronger Bond.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 505.5,-314 505.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M294.24,-255.87C288.05,-247.85 280.77,-238.41 274.17,-229.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.95,-228.15 269.74,-224.1 272.07,-231.14 275.95,-228.15" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.19,-255.78C347.38,-226.43 391.62,-170.43 417.27,-137.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="419.42,-139.21 421.83,-132.19 415.57,-136.17 419.42,-139.21" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.52,-183.91C231.96,-174.6 222.58,-163.04 213.61,-151.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.27,-150.13 208.96,-146.24 211.47,-153.22 215.27,-150.13" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224.29,-81.03C241.11,-69.11 260.17,-55.61 275.94,-44.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="277.74,-46.15 282.04,-40.11 274.91,-42.16 277.74,-46.15" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M409.85,-91.91C390,-77.95 362.96,-58.94 341.88,-44.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="343.24,-42.08 336.11,-40.06 340.42,-46.09 343.24,-42.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M406,-296C406,-296 212,-296 212,-296 206,-296 200,-290 200,-284 200,-284 200,-268 200,-268 200,-262 206,-256 212,-256 212,-256 406,-256 406,-256 412,-256 418,-262 418,-268 418,-268 418,-284 418,-284 418,-290 412,-296 406,-296" />
+<text text-anchor="middle" x="309" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Honest Communication</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M317,-224C317,-224 193,-224 193,-224 187,-224 181,-218 181,-212 181,-212 181,-196 181,-196 181,-190 187,-184 193,-184 193,-184 317,-184 317,-184 323,-184 329,-190 329,-196 329,-196 329,-212 329,-212 329,-218 323,-224 317,-224" />
+<text text-anchor="middle" x="255" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="182,-152 0,-112 182,-72 364,-112 182,-152" />
+<text text-anchor="middle" x="182" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict Resolution</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369.5,-40C369.5,-40 248.5,-40 248.5,-40 242.5,-40 236.5,-34 236.5,-28 236.5,-28 236.5,-12 236.5,-12 236.5,-6 242.5,0 248.5,0 248.5,0 369.5,0 369.5,0 375.5,0 381.5,-6 381.5,-12 381.5,-12 381.5,-28 381.5,-28 381.5,-34 375.5,-40 369.5,-40" />
+<text text-anchor="middle" x="309" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Bond</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M475.5,-132C475.5,-132 398.5,-132 398.5,-132 392.5,-132 386.5,-126 386.5,-120 386.5,-120 386.5,-104 386.5,-104 386.5,-98 392.5,-92 398.5,-92 398.5,-92 475.5,-92 475.5,-92 481.5,-92 487.5,-98 487.5,-104 487.5,-104 487.5,-120 487.5,-120 487.5,-126 481.5,-132 475.5,-132" />
+<text text-anchor="middle" x="437" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+</g>
+</svg>

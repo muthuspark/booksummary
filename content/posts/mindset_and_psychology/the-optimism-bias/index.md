@@ -18,15 +18,7 @@ Sharot details numerous studies demonstrating the pervasiveness of the optimism 
 
 The book’s central thesis revolves around cultivating *realistic optimism*. This isn't about suppressing positive expectations, but about grounding them in reality. It involves acknowledging potential downsides while maintaining a hopeful outlook.  Sharot suggests this balance enhances decision-making by considering both probabilities and consequences, leading to more effective strategies.
 
-```mermaid
-graph LR
-    A[Unrealistic Optimism] --> B(Poor Planning);
-    A --> C(Risk Underestimation);
-    A --> D(Disappointment);
-    E[Realistic Optimism] --> F(Effective Planning);
-    E --> G(Informed Risk Assessment);
-    E --> H(Resilience);
-```
+![Realistic Optimism: A Balanced Approach. Unrealistic Optimism; Poor Planning; Risk Underestimation; Disappointment; Realistic Optimism; Effective Planning; Informed Risk Assessment; Resilience.](diagram-01.svg)
 
 # Strategies for Cultivating Realistic Optimism
 
@@ -51,19 +43,7 @@ Sharot emphasizes the influence of memory and emotion on our optimism bias. We t
 
 The book doesn't advocate for pessimism; rather it advocates for using optimism strategically. The author argues that while acknowledging potential challenges, maintaining a positive outlook is important for motivation and perseverance in pursuing goals. The key is to balance hope with realistic planning and contingency strategies. The book illustrates how this approach leads to more successful outcomes compared to either overly optimistic or excessively pessimistic approaches.
 
-```mermaid
-graph LR
-    A[Goal] --> B{Realistic Optimism};
-    B --> C(Effective Planning);
-    B --> D(Contingency Planning);
-    B --> E(Persistence);
-    C --> F(Increased Chances of Success);
-    D --> G(Mitigation of Setbacks);
-    E --> H(Resilience to Challenges);
-    F --> I[Goal Achievement];
-    G --> I;
-    H --> I;
-```
+![Harnessing Optimism for Goal Achievement. Goal; Realistic Optimism; Effective Planning; Contingency Planning; Persistence; Increased Chances of Success; Mitigation of Setbacks; Resilience to Challenges; Goal Achievement.](diagram-02.svg)
 
 #  Applications in Different Life Areas
 

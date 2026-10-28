@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384pt" height="444pt" viewBox="0.00 0.00 384.00 444.00" role="img" aria-labelledby="title description">
+<title id="title">The Six Core Processes of ACT</title><desc id="description">Acceptance leads to Cognitive Defusion. Acceptance leads to Self as Context. Cognitive Defusion leads to Present Moment Awareness. Self as Context leads to Present Moment Awareness. Present Moment Awareness leads to Values. Values leads to Committed Action.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 426)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-426 366,-426 366,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.86,-367.87C145.7,-359.38 132.47,-349.32 120.74,-340.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.16,-338.39 115.11,-336.1 119.2,-342.29 122.16,-338.39" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M207.41,-367.87C218.69,-359.38 232.07,-349.32 243.93,-340.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.5,-342.27 249.62,-336.1 242.55,-338.36 245.5,-342.27" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.03,-295.84C115.3,-284.75 127.45,-270.23 139.3,-256.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.39,-257.38 144,-250.44 137.63,-254.23 141.39,-257.38" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M258.8,-295.84C249.34,-284.65 236.91,-269.94 224.81,-255.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.41,-253.73 220.02,-249.97 222.67,-256.9 226.41,-253.73" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-143.81C182,-135.27 182,-126.86 182,-119.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-119.33 182,-112.33 179.55,-119.33 184.45,-119.33" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182,-71.87C182,-64.31 182,-55.49 182,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="184.45,-47.1 182,-40.1 179.55,-47.1 184.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229.5,-408C229.5,-408 134.5,-408 134.5,-408 128.5,-408 122.5,-402 122.5,-396 122.5,-396 122.5,-380 122.5,-380 122.5,-374 128.5,-368 134.5,-368 134.5,-368 229.5,-368 229.5,-368 235.5,-368 241.5,-374 241.5,-380 241.5,-380 241.5,-396 241.5,-396 241.5,-402 235.5,-408 229.5,-408" />
+<text text-anchor="middle" x="182" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-336C168,-336 12,-336 12,-336 6,-336 0,-330 0,-324 0,-324 0,-308 0,-308 0,-302 6,-296 12,-296 12,-296 168,-296 168,-296 174,-296 180,-302 180,-308 180,-308 180,-324 180,-324 180,-330 174,-336 168,-336" />
+<text text-anchor="middle" x="90" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Defusion</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M336,-336C336,-336 214,-336 214,-336 208,-336 202,-330 202,-324 202,-324 202,-308 202,-308 202,-302 208,-296 214,-296 214,-296 336,-296 336,-296 342,-296 348,-302 348,-308 348,-308 348,-324 348,-324 348,-330 342,-336 336,-336" />
+<text text-anchor="middle" x="275" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self as Context</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="182,-264 21,-204 182,-144 343,-204 182,-264" />
+<text text-anchor="middle" x="182" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+<text text-anchor="middle" x="182" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awareness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211,-112C211,-112 153,-112 153,-112 147,-112 141,-106 141,-100 141,-100 141,-84 141,-84 141,-78 147,-72 153,-72 153,-72 211,-72 211,-72 217,-72 223,-78 223,-84 223,-84 223,-100 223,-100 223,-106 217,-112 211,-112" />
+<text text-anchor="middle" x="182" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M257,-40C257,-40 107,-40 107,-40 101,-40 95,-34 95,-28 95,-28 95,-12 95,-12 95,-6 101,0 107,0 107,0 257,0 257,0 263,0 269,-6 269,-12 269,-12 269,-28 269,-28 269,-34 263,-40 257,-40" />
+<text text-anchor="middle" x="182" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Committed Action</text>
+</g>
+</g>
+</svg>

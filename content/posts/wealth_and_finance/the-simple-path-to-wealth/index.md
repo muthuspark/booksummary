@@ -15,13 +15,7 @@ JL Collins' "The Simple Path to Wealth" isn't about get-rich-quick schemes. It's
 
 The book's central tenet revolves around the power of compounding. Starting early because the longer your money has to grow, the more significant the effect of compounding becomes. Even small contributions made consistently over decades can accumulate into substantial wealth. Collins emphasizes that saving aggressively in your early years is more effective than trying to catch up later.
 
-```mermaid
-graph LR
-    A[Early Saving] --> B(Compounding);
-    B --> C{Significant Wealth};
-    D[Late Saving] --> E(Less Compounding);
-    E --> F{Less Wealth};
-```
+![The Importance of  Early and Consistent Saving. Early Saving; Compounding; Significant Wealth; Late Saving; Less Compounding; Less Wealth.](diagram-01.svg)
 
 This simple diagram illustrates the power of early and consistent saving.  It’s not just about the amount saved, but also the time it has to grow.
 

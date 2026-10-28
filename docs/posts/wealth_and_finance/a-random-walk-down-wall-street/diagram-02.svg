@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="493pt" height="200pt" viewBox="0.00 0.00 493.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Diversification: Minimizing Risk</title><desc id="description">Diversification leads to Stocks. Diversification leads to Bonds. Diversification leads to Real Estate. Stocks leads to Reduce Risk. Bonds leads to Reduce Risk. Real Estate leads to Reduce Risk.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 475,-182 475,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M126.76,-102.13C147.41,-110.01 170.87,-118.96 190.78,-126.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="189.98,-128.87 197.39,-129.08 191.72,-124.29 189.98,-128.87" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.22,-82C161.38,-82 176.96,-82 190.82,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.9,-84.45 197.9,-82 190.9,-79.55 190.9,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M126.76,-61.87C142.81,-55.74 160.57,-48.97 177.04,-42.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.34,-44.81 184.01,-40.03 176.59,-40.23 178.34,-44.81" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.63,-128.19C295.27,-121.07 316.43,-112.52 335.73,-104.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="336.9,-106.9 342.47,-102.01 335.06,-102.36 336.9,-106.9" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.23,-82C290.79,-82 306.46,-82 321.78,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="321.79,-84.45 328.79,-82 321.79,-79.55 321.79,-84.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.34,-40.13C303.5,-46.26 320.28,-53.03 335.83,-59.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="335,-61.62 342.41,-61.97 336.84,-57.08 335,-61.62" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134,-102C134,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 134,-62 134,-62 140,-62 146,-68 146,-74 146,-74 146,-90 146,-90 146,-96 140,-102 134,-102" />
+<text text-anchor="middle" x="73" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diversification</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265.5,-164C265.5,-164 209.5,-164 209.5,-164 203.5,-164 197.5,-158 197.5,-152 197.5,-152 197.5,-136 197.5,-136 197.5,-130 203.5,-124 209.5,-124 209.5,-124 265.5,-124 265.5,-124 271.5,-124 277.5,-130 277.5,-136 277.5,-136 277.5,-152 277.5,-152 277.5,-158 271.5,-164 265.5,-164" />
+<text text-anchor="middle" x="237.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stocks</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265,-102C265,-102 210,-102 210,-102 204,-102 198,-96 198,-90 198,-90 198,-74 198,-74 198,-68 204,-62 210,-62 210,-62 265,-62 265,-62 271,-62 277,-68 277,-74 277,-74 277,-90 277,-90 277,-96 271,-102 265,-102" />
+<text text-anchor="middle" x="237.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bonds</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M285,-40C285,-40 190,-40 190,-40 184,-40 178,-34 178,-28 178,-28 178,-12 178,-12 178,-6 184,0 190,0 190,0 285,0 285,0 291,0 297,-6 297,-12 297,-12 297,-28 297,-28 297,-34 291,-40 285,-40" />
+<text text-anchor="middle" x="237.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Real Estate</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M445,-102C445,-102 341,-102 341,-102 335,-102 329,-96 329,-90 329,-90 329,-74 329,-74 329,-68 335,-62 341,-62 341,-62 445,-62 445,-62 451,-62 457,-68 457,-74 457,-74 457,-90 457,-90 457,-96 451,-102 445,-102" />
+<text text-anchor="middle" x="393" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduce Risk</text>
+</g>
+</g>
+</svg>

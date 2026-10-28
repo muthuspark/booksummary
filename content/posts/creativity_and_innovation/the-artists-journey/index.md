@@ -14,12 +14,7 @@ Pressfield's central thesis revolves around the concept of "Resistance," a power
 
 A key element in overcoming Resistance is the shift from "amateur" to "professional." This isn't about accolades or financial success; it's about adopting a professional attitude. Professionals show up, consistently put in the work, regardless of mood or inspiration, and treat their craft with respect.  This commitment, this unwavering dedication to the process, transcends the whims of inspiration and allows for steady progress despite the Resistance's constant attempts to derail us.
 
-```mermaid
-graph LR
-    A[Amateur] --> B(Resistance);
-    C[Professional] --> D(Work);
-    D --> E(Progress);
-```
+![Turning Pro. Amateur; Resistance; Professional; Work; Progress.](diagram-01.svg)
 
 # The Myth of Inspiration
 
@@ -50,14 +45,7 @@ Discipline and self-control are essential tools in the creative arsenal.  It's t
 
 This is perhaps Pressfield's most potent piece of advice: Show up. This simple directive emphasizes the importance of consistency and action. It's about showing up to your work, regardless of your mood, your inspiration level, or the presence of Resistance. This consistent engagement is the cornerstone of the creative process, the foundation upon which true mastery is built.
 
-```mermaid
-graph LR
-    A[Resistance] --> B(Procrastination);
-    A --> C(Self-Doubt);
-    A --> D(Fear);
-    E[Show Up] --> F(Action);
-    F --> G(Progress);
-```
+![The Power of Show Up. Resistance; Procrastination; Self-Doubt; Fear; Show Up; Action; Progress.](diagram-02.svg)
 
 # The Nature of Genius
 

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292pt" height="138pt" viewBox="0.00 0.00 292.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Two Sides of Originality: Proposing and Pursuing</title><desc id="description">Proposing leads to Originality. Pursuing leads to Originality.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 274,-120 274,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.09,-70.19C118.17,-68.43 126.56,-66.59 134.82,-64.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.39,-67.18 141.7,-63.29 134.34,-62.39 135.39,-67.18" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.66,-30.84C115.06,-32.89 125.01,-35.06 134.75,-37.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="134.45,-39.63 141.81,-38.73 135.49,-34.85 134.45,-39.63" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M98,-102C98,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 98,-62 98,-62 104,-62 110,-68 110,-74 110,-74 110,-90 110,-90 110,-96 104,-102 98,-102" />
+<text text-anchor="middle" x="55" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Proposing</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M244,-71C244,-71 154,-71 154,-71 148,-71 142,-65 142,-59 142,-59 142,-43 142,-43 142,-37 148,-31 154,-31 154,-31 244,-31 244,-31 250,-31 256,-37 256,-43 256,-43 256,-59 256,-59 256,-65 250,-71 244,-71" />
+<text text-anchor="middle" x="199" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Originality</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M93.5,-40C93.5,-40 16.5,-40 16.5,-40 10.5,-40 4.5,-34 4.5,-28 4.5,-28 4.5,-12 4.5,-12 4.5,-6 10.5,0 16.5,0 16.5,0 93.5,0 93.5,0 99.5,0 105.5,-6 105.5,-12 105.5,-12 105.5,-28 105.5,-28 105.5,-34 99.5,-40 93.5,-40" />
+<text text-anchor="middle" x="55" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pursuing</text>
+</g>
+</g>
+</svg>

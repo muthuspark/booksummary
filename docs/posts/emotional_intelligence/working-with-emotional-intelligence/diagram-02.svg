@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245pt" height="364pt" viewBox="0.00 0.00 245.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Regulation: Mastering Your Emotional Responses</title><desc id="description">Deep Breathing leads to Mindfulness. Mindfulness leads to Cognitive Reframing. Cognitive Reframing leads to Stress Management. Stress Management leads to Improved Self-Control.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 227,-346 227,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-287.87C104.5,-280.31 104.5,-271.49 104.5,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-263.1 104.5,-256.1 102.05,-263.1 106.95,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-215.87C104.5,-208.31 104.5,-199.49 104.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-191.1 104.5,-184.1 102.05,-191.1 106.95,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-143.87C104.5,-136.31 104.5,-127.49 104.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-119.1 104.5,-112.1 102.05,-119.1 106.95,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-71.87C104.5,-64.31 104.5,-55.49 104.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-47.1 104.5,-40.1 102.05,-47.1 106.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-328C169.5,-328 39.5,-328 39.5,-328 33.5,-328 27.5,-322 27.5,-316 27.5,-316 27.5,-300 27.5,-300 27.5,-294 33.5,-288 39.5,-288 39.5,-288 169.5,-288 169.5,-288 175.5,-288 181.5,-294 181.5,-300 181.5,-300 181.5,-316 181.5,-316 181.5,-322 175.5,-328 169.5,-328" />
+<text text-anchor="middle" x="104.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deep Breathing</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156.5,-256C156.5,-256 52.5,-256 52.5,-256 46.5,-256 40.5,-250 40.5,-244 40.5,-244 40.5,-228 40.5,-228 40.5,-222 46.5,-216 52.5,-216 52.5,-216 156.5,-216 156.5,-216 162.5,-216 168.5,-222 168.5,-228 168.5,-228 168.5,-244 168.5,-244 168.5,-250 162.5,-256 156.5,-256" />
+<text text-anchor="middle" x="104.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M189,-184C189,-184 20,-184 20,-184 14,-184 8,-178 8,-172 8,-172 8,-156 8,-156 8,-150 14,-144 20,-144 20,-144 189,-144 189,-144 195,-144 201,-150 201,-156 201,-156 201,-172 201,-172 201,-178 195,-184 189,-184" />
+<text text-anchor="middle" x="104.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Reframing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-112C185,-112 24,-112 24,-112 18,-112 12,-106 12,-100 12,-100 12,-84 12,-84 12,-78 18,-72 24,-72 24,-72 185,-72 185,-72 191,-72 197,-78 197,-84 197,-84 197,-100 197,-100 197,-106 191,-112 185,-112" />
+<text text-anchor="middle" x="104.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress Management</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M197,-40C197,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 197,0 197,0 203,0 209,-6 209,-12 209,-12 209,-28 209,-28 209,-34 203,-40 197,-40" />
+<text text-anchor="middle" x="104.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Self-Control</text>
+</g>
+</g>
+</svg>

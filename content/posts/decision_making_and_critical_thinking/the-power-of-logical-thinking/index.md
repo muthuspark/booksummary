@@ -14,12 +14,7 @@ Marilyn vos Savant's "The Power of Logical Thinking" isn't a dry textbook on for
 
 The book begins by laying the groundwork for understanding logical reasoning. It introduces key concepts like deductive reasoning (moving from general principles to specific conclusions), inductive reasoning (drawing general conclusions from specific observations), and abductive reasoning (inferring the most likely explanation).  Understanding these different forms of reasoning is important for constructing sound arguments and evaluating the validity of others' claims.
 
-```mermaid
-graph LR
-A[Deductive Reasoning] --> B(General Principle --> Specific Conclusion)
-C[Inductive Reasoning] --> D(Specific Observations --> General Conclusion)
-E[Abductive Reasoning] --> F(Observations --> Most Likely Explanation)
-```
+![Understanding the Fundamentals of Logic. Deductive Reasoning; General Principle --> Specific Conclusion; Inductive Reasoning; Specific Observations --> General Conclusion; Abductive Reasoning; Observations --> Most Likely Explanation.](diagram-01.svg)
 
 Savant highlights the importance of distinguishing between correlation and causation.  Just because two events occur together doesn't mean one causes the other.  She emphasizes the need to consider alternative explanations and avoid jumping to conclusions based on incomplete information.
 

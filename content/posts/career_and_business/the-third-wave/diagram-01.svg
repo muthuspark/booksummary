@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="466pt" height="300pt" viewBox="0.00 0.00 466.00 300.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Three Waves of Change</title><desc id="description">First Wave: Mainframes leads to Second Wave: PCs. Second Wave: PCs leads to Third Wave: Internet &amp; Mobile.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 282)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-282 448,-282 448,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M215,-223.87C215,-216.31 215,-207.49 215,-199.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.45,-199.1 215,-192.1 212.55,-199.1 217.45,-199.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M215,-151.84C215,-144.75 215,-136.25 215,-127.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.45,-127.12 215,-120.12 212.55,-127.12 217.45,-127.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313.5,-264C313.5,-264 116.5,-264 116.5,-264 110.5,-264 104.5,-258 104.5,-252 104.5,-252 104.5,-236 104.5,-236 104.5,-230 110.5,-224 116.5,-224 116.5,-224 313.5,-224 313.5,-224 319.5,-224 325.5,-230 325.5,-236 325.5,-236 325.5,-252 325.5,-252 325.5,-258 319.5,-264 313.5,-264" />
+<text text-anchor="middle" x="215" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">First Wave: Mainframes</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291,-192C291,-192 139,-192 139,-192 133,-192 127,-186 127,-180 127,-180 127,-164 127,-164 127,-158 133,-152 139,-152 139,-152 291,-152 291,-152 297,-152 303,-158 303,-164 303,-164 303,-180 303,-180 303,-186 297,-192 291,-192" />
+<text text-anchor="middle" x="215" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Second Wave: PCs</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="215,-120 0,-60 215,0 430,-60 215,-120" />
+<text text-anchor="middle" x="215" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Third Wave: Internet &amp;</text>
+<text text-anchor="middle" x="215" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mobile</text>
+</g>
+</g>
+</svg>

@@ -15,15 +15,7 @@ author: "Chip Heath and Dan Heath"
 
 The Heath brothers introduce the SUCCESs framework as a mnemonic device for remembering the six key principles of sticky ideas: **Simple, Unexpected, Concrete, Credible, Emotional, and Stories**.  Each principle represents an element in designing a message that resonates and endures.
 
-```mermaid
-graph LR
-A[SUCCESs Framework] --> B(Simple);
-A --> C(Unexpected);
-A --> D(Concrete);
-A --> E(Credible);
-A --> F(Emotional);
-A --> G(Stories);
-```
+![The SUCCESs Framework:  The Core Principles. SUCCESs Framework; Simple; Unexpected; Concrete; Credible; Emotional; Stories.](diagram-01.svg)
 
 
 ## Simplicity: Finding the Core

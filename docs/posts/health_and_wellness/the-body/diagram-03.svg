@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528pt" height="168pt" viewBox="0.00 0.00 528.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">The Significance of Exercise: More Than Just Physical Fitness</title><desc id="description">Regular Exercise leads to Improved Mood. Regular Exercise leads to Better Sleep. Regular Exercise leads to Reduced Risk of Chronic Diseases.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 510,-150 510,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203.72,-91.84C179.88,-80.21 149.37,-65.33 124.49,-53.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.33,-50.87 117.96,-50.01 123.18,-55.28 125.33,-50.87" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M243,-91.63C243,-81.32 243,-68.48 243,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.45,-57.19 243,-50.19 240.55,-57.19 245.45,-57.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M283,-91.84C300.94,-83.25 322.59,-72.87 342.9,-63.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="344.18,-65.25 349.43,-60.01 342.06,-60.83 344.18,-65.25" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313,-132C313,-132 173,-132 173,-132 167,-132 161,-126 161,-120 161,-120 161,-104 161,-104 161,-98 167,-92 173,-92 173,-92 313,-92 313,-92 319,-92 325,-98 325,-104 325,-104 325,-120 325,-120 325,-126 319,-132 313,-132" />
+<text text-anchor="middle" x="243" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regular Exercise</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M146,-50C146,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 146,-10 146,-10 152,-10 158,-16 158,-22 158,-22 158,-38 158,-38 158,-44 152,-50 146,-50" />
+<text text-anchor="middle" x="79" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Mood</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M294,-50C294,-50 192,-50 192,-50 186,-50 180,-44 180,-38 180,-38 180,-22 180,-22 180,-16 186,-10 192,-10 192,-10 294,-10 294,-10 300,-10 306,-16 306,-22 306,-22 306,-38 306,-38 306,-44 300,-50 294,-50" />
+<text text-anchor="middle" x="243" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Better Sleep</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M480,-60C480,-60 340,-60 340,-60 334,-60 328,-54 328,-48 328,-48 328,-12 328,-12 328,-6 334,0 340,0 340,0 480,0 480,0 486,0 492,-6 492,-12 492,-12 492,-48 492,-48 492,-54 486,-60 480,-60" />
+<text text-anchor="middle" x="410" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Risk of</text>
+<text text-anchor="middle" x="410" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronic Diseases</text>
+</g>
+</g>
+</svg>

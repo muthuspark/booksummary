@@ -6,7 +6,7 @@ button,input,select{font:inherit;color:var(--color-text-primary);background:var(
 .catalog{margin-top:2rem}.catalog-controls{display:flex;flex-wrap:wrap;gap:1rem;align-items:end}.catalog-controls>div{flex:1;min-width:180px}.catalog-controls label{display:block;margin-bottom:.4rem}.catalog-controls input,.catalog-controls select{width:100%}.muted{color:var(--color-text-muted)}
 .book-grid{display:grid;gap:1.5rem}.book-card{display:grid;grid-template-columns:80px minmax(0,1fr);gap:1rem;padding:1.5rem 0;border-bottom:1px solid var(--color-border)}.book-image{border:0;margin:0;line-height:0}.book-image img{width:80px;height:80px;object-fit:cover;margin:0}.book-details h3{margin:0;font-size:1em;font-weight:400}.book-details h3:before{content:none}.book-details p{margin:.5rem 0}.book-details .muted{font-size:.9em}
 .pagination{display:flex;align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap;margin:2rem 0}#load-more{display:block;margin:2rem auto}.category-links{margin-top:2rem}.category-directory{list-style:none;margin:1rem 0}.category-directory li{margin:1rem 0}.category-directory a{display:flex;justify-content:space-between;gap:1rem;width:100%}
-.heroimage{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover;margin:2rem 0}.article-body{overflow-wrap:break-word}.article-body table{display:block;max-width:100%;overflow-x:auto}.article-body .container{max-width:100%}.article-body img{height:auto;max-width:100%}.diagram{max-width:100%;overflow:auto;margin:2rem 0}.diagram pre{white-space:pre;overflow:auto}.diagram svg{display:block;max-width:100%;height:auto;margin:auto}pre.mermaid[data-processed]{background:transparent;border:0;padding:0}.diagram-error{color:var(--color-text-muted)}.related{margin-top:3rem}
+.heroimage{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover;margin:2rem 0}.article-body{overflow-wrap:break-word}.article-body table{display:block;max-width:100%;overflow-x:auto}.article-body .container{max-width:100%}.article-body img{height:auto;max-width:100%}.diagram{max-width:100%;overflow:auto;margin:2rem 0}.diagram pre{white-space:pre;overflow:auto}.diagram svg{display:block;max-width:100%;height:auto;margin:auto}.related{margin-top:3rem}
 @media(max-width:600px){.catalog-controls>div{flex-basis:100%}.catalog-controls>button{width:100%}.book-card{grid-template-columns:60px minmax(0,1fr);gap:.75rem}.book-image img{width:60px;height:60px}.category-directory a{display:block}.category-directory span{display:block}}
 /* Use Shibui’s light palette, including native form controls, on every system. */
 :root{
@@ -140,3 +140,9 @@ pre, code, kbd, samp { font-family: var(--font-family-code); }
   body { padding-inline: 1.25rem; }
   .article-body { --leading-reading: 1.6; }
 }
+
+/* Diagram previews show the complete composition and link to the original. */
+.article-body .diagram-image { margin-inline: 0; }
+.article-body .diagram-preview { display: block; }
+.article-body .diagram-image img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+.diagram-image figcaption { margin-top: .5rem; text-align: right; }

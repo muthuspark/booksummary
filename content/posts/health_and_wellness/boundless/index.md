@@ -24,13 +24,7 @@ Greenfield details strategies for optimizing physical health. This involves more
 
 **Stress Management:** Chronic stress wreaks havoc on the body. Greenfield discusses various stress management techniques, including mindfulness, meditation, breathwork exercises, cold exposure, and spending time in nature.  He emphasizes the importance of identifying and addressing the root causes of stress.
 
-```mermaid
-graph LR
-A[Nutrition] --> B(Optimal Physical Functioning);
-C[Exercise] --> B;
-D[Sleep] --> B;
-E[Stress Management] --> B;
-```
+![Mastering Your Physical Body: Biohacking for Peak Performance. Nutrition; Optimal Physical Functioning; Exercise; Sleep; Stress Management.](diagram-01.svg)
 
 
 ### Enhancing Your Mental Acuity: Cognitive Optimization
@@ -46,13 +40,7 @@ E[Stress Management] --> B;
 **Learning & Neuroplasticity:** The book highlights the brain's capacity for neuroplasticity – its ability to reorganize itself by forming new neural connections. He encourages lifelong learning and the adoption of new skills to stimulate brain growth and cognitive function.
 
 
-```mermaid
-graph LR
-A[Nootropics] --> B(Enhanced Cognitive Function);
-C[Mindfulness] --> B;
-D[Cognitive Training] --> B;
-E[Lifelong Learning] --> B;
-```
+![Enhancing Your Mental Acuity: Cognitive Optimization. Nootropics; Enhanced Cognitive Function; Mindfulness; Cognitive Training; Lifelong Learning.](diagram-02.svg)
 
 
 ### Optimizing Your Relationships and Spiritual Well-being
@@ -66,12 +54,7 @@ E[Lifelong Learning] --> B;
 **Community:**  The book highlights the benefits of engaging in community and contributing to something larger than oneself.  He promotes volunteering, participating in group activities, and fostering a sense of belonging.
 
 
-```mermaid
-graph LR
-A[Strong Relationships] --> B(Fulfilled Life);
-C[Spiritual Growth] --> B;
-D[Community Engagement] --> B;
-```
+![Optimizing Your Relationships and Spiritual Well-being. Strong Relationships; Fulfilled Life; Spiritual Growth; Community Engagement.](diagram-03.svg)
 
 
 ### Actionable Strategies

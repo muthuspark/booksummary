@@ -57,17 +57,7 @@ The authors effectively highlight common financial mistakes that individuals oft
 
 The simplicity of the authors' message can be visualized using a  diagram:
 
-```mermaid
-graph LR
-    A[Income] --> B(Pay Yourself First);
-    B --> C{Savings & Investments};
-    B --> D(Emergency Fund);
-    A --> E(Expenses);
-    E --> F(Debt Repayment);
-    C --> G[Financial Security];
-    D --> G;
-    F --> G;
-```
+![Visualizing the Strategy:  A Simple Diagram. Income; Pay Yourself First; Savings & Investments; Emergency Fund; Expenses; Debt Repayment; Financial Security.](diagram-01.svg)
 
 This diagram illustrates how prioritizing savings and investments alongside responsible expense management contributes to long-term financial security.
 

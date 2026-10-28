@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="399pt" height="324pt" viewBox="0.00 0.00 399.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">Common Cognitive Biases: Traps for the Mind</title><desc id="description">Cognitive Biases leads to Mirror Imaging. Cognitive Biases leads to Confirmation Bias. Cognitive Biases leads to Availability Bias. Cognitive Biases leads to Groupthink. Cognitive Biases leads to Anchoring Bias.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 381,-306 381,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.42,-164.2C120.2,-184.85 154.94,-216.7 190,-237 195.01,-239.9 200.34,-242.61 205.79,-245.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.84,-247.37 212.23,-247.96 206.82,-242.89 204.84,-247.37" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.2,-164.04C163.05,-170.34 185.07,-177.32 205.37,-183.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.77,-186.14 212.18,-185.92 206.25,-181.47 204.77,-186.14" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.11,-144C168.84,-144 179.9,-144 190.74,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.83,-146.45 197.83,-144 190.83,-141.55 190.83,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.2,-123.96C164.04,-117.35 187.28,-109.98 208.4,-103.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.24,-105.58 215.18,-101.13 207.76,-100.91 209.24,-105.58" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.42,-123.8C120.2,-103.15 154.94,-71.3 190,-51 195.01,-48.1 200.34,-45.39 205.79,-42.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.82,-45.11 212.23,-40.04 204.84,-40.63 206.82,-45.11" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-164C146,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 146,-124 146,-124 152,-124 158,-130 158,-136 158,-136 158,-152 158,-152 158,-158 152,-164 146,-164" />
+<text text-anchor="middle" x="79" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Biases</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M340.5,-288C340.5,-288 212.5,-288 212.5,-288 206.5,-288 200.5,-282 200.5,-276 200.5,-276 200.5,-260 200.5,-260 200.5,-254 206.5,-248 212.5,-248 212.5,-248 340.5,-248 340.5,-248 346.5,-248 352.5,-254 352.5,-260 352.5,-260 352.5,-276 352.5,-276 352.5,-282 346.5,-288 340.5,-288" />
+<text text-anchor="middle" x="276.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mirror Imaging</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351,-226C351,-226 202,-226 202,-226 196,-226 190,-220 190,-214 190,-214 190,-198 190,-198 190,-192 196,-186 202,-186 202,-186 351,-186 351,-186 357,-186 363,-192 363,-198 363,-198 363,-214 363,-214 363,-220 357,-226 351,-226" />
+<text text-anchor="middle" x="276.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confirmation Bias</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M343,-164C343,-164 210,-164 210,-164 204,-164 198,-158 198,-152 198,-152 198,-136 198,-136 198,-130 204,-124 210,-124 210,-124 343,-124 343,-124 349,-124 355,-130 355,-136 355,-136 355,-152 355,-152 355,-158 349,-164 343,-164" />
+<text text-anchor="middle" x="276.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Availability Bias</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M325.5,-102C325.5,-102 227.5,-102 227.5,-102 221.5,-102 215.5,-96 215.5,-90 215.5,-90 215.5,-74 215.5,-74 215.5,-68 221.5,-62 227.5,-62 227.5,-62 325.5,-62 325.5,-62 331.5,-62 337.5,-68 337.5,-74 337.5,-74 337.5,-90 337.5,-90 337.5,-96 331.5,-102 325.5,-102" />
+<text text-anchor="middle" x="276.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Groupthink</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M339.5,-40C339.5,-40 213.5,-40 213.5,-40 207.5,-40 201.5,-34 201.5,-28 201.5,-28 201.5,-12 201.5,-12 201.5,-6 207.5,0 213.5,0 213.5,0 339.5,0 339.5,0 345.5,0 351.5,-6 351.5,-12 351.5,-12 351.5,-28 351.5,-28 351.5,-34 345.5,-40 339.5,-40" />
+<text text-anchor="middle" x="276.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anchoring Bias</text>
+</g>
+</g>
+</svg>

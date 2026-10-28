@@ -15,12 +15,7 @@ Joe Navarro's "What Every Body Is Saying" is a detailed guide to understanding n
 
 The foundation of Navarro's method lies in keen observation.  He stresses the importance of moving beyond simply listening to words and actively observing a person's entire body language. This includes facial expressions, posture, hand gestures, leg movements, and even subtle micro-expressions that flash across the face for fractions of a second.  The book encourages readers to adopt an approach, noticing inconsistencies between verbal statements and nonverbal cues. These inconsistencies often reveal underlying emotions or deceptive intent.
 
-```mermaid
-graph LR
-A[Verbal Statements] --> B(Inconsistencies);
-C[Nonverbal Cues] --> B;
-B --> D[Underlying Emotions/Deceptive Intent];
-```
+![The Power of Observation: Tuning into Subtle Cues. Verbal Statements; Inconsistencies; Nonverbal Cues; Underlying Emotions/Deceptive Intent.](diagram-01.svg)
 
 #  Decoding Facial Expressions:  The Window to the Soul
 
@@ -31,11 +26,7 @@ Facial expressions are a key focus.  Navarro explains how specific muscle moveme
 
 Posture provides significant information about a person's emotional state and intentions. Navarro details how posture conveys confidence, anxiety, submission, or dominance. He emphasizes the importance of observing the angle of the body, the position of the arms and legs, and the overall stance. Open postures often suggest openness and receptiveness, while closed-off postures might indicate defensiveness or discomfort. The book provides examples of how these postures can vary across different cultures, emphasizing the importance of cultural context in interpretation.
 
-```mermaid
-graph LR
-A[Open Posture] --> B(Openness & Receptiveness);
-C[Closed Posture] --> D(Defensiveness & Discomfort);
-```
+![Posture and Body Orientation: Unveiling Attitudes and Intentions. Open Posture; Openness & Receptiveness; Closed Posture; Defensiveness & Discomfort.](diagram-02.svg)
 
 
 # Hand Gestures and Micro-expressions:  Uncovering Hidden Meanings

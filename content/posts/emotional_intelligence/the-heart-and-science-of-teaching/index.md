@@ -16,14 +16,7 @@ Hansen stresses the vital importance of self-awareness as the foundation for eff
 
 The book encourages a practice of self-reflection through journaling, mindfulness, and seeking feedback from trusted sources.  This process helps us understand our triggers and reactions, enabling us to respond rather than react in challenging situations.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Understanding Strengths & Weaknesses);
-    A --> C(Identifying Biases & Beliefs);
-    B --> D[Improved Self-Awareness];
-    C --> D;
-    D --> E(Effective Communication & Relationships);
-```
+![Understanding the Heart: Self-Reflection and Emotional Intelligence. Self-Reflection; Understanding Strengths & Weaknesses; Identifying Biases & Beliefs; Improved Self-Awareness; Effective Communication & Relationships.](diagram-01.svg)
 
 ### The Science of Teaching: Effective Pedagogical Strategies
 
@@ -61,16 +54,7 @@ Hansen champions positive reinforcement over punishment as a more effective appr
 However, mistakes inevitably occur. The book advocates for restorative justice principles when addressing misbehavior, emphasizing repairing harm and fostering reconciliation rather than resorting to punitive measures.  This approach facilitates learning from mistakes and strengthens the classroom community.
 
 
-```mermaid
-graph LR
-    A[Misbehavior] --> B(Restorative Justice);
-    B --> C(Repairing Harm);
-    B --> D(Reconciliation);
-    C --> E[Stronger Classroom Community];
-    D --> E;
-    A --> F(Punitive Measures);
-    F --> G(Damaged Relationships);
-```
+![The Power of  Positive Reinforcement and Restorative Justice. Misbehavior; Restorative Justice; Repairing Harm; Reconciliation; Stronger Classroom Community; Punitive Measures; Damaged Relationships.](diagram-02.svg)
 
 
 ###  Creating a Culture of Collaboration and Support

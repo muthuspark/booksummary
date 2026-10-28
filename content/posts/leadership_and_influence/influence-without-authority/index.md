@@ -15,14 +15,7 @@ Allan Cohen's "Influence Without Authority" is a practical guide for navigating 
 
 Trust is critical in Cohen's framework.  He argues that influencing others effectively hinges on establishing credibility and fostering a sense of mutual respect. This involves being reliable, consistent, and demonstrating integrity in all interactions. Transparency in communication and a willingness to be accountable for your actions are vital for building trust.  Without trust, any attempt at influence will likely be met with resistance or skepticism.
 
-```mermaid
-graph LR
-A[Build Credibility] --> B(Consistency);
-A --> C(Integrity);
-B --> D{Trust};
-C --> D;
-D --> E[Effective Influence];
-```
+![Building Trust: The Cornerstone of Influence. Build Credibility; Consistency; Integrity; Trust; Effective Influence.](diagram-01.svg)
 
 ## Understanding Motivations: The Key to Persuasion
 
@@ -45,13 +38,7 @@ Cohen emphasizes the importance of cultivating strong, positive relationships. T
 
 Negotiation is an inevitable aspect of influencing others. However, Cohen advises against viewing negotiation as a win-lose scenario. Instead, he promotes a collaborative approach, focusing on finding mutually beneficial solutions. Active listening, understanding the other party's interests, and being willing to compromise are essential for achieving successful outcomes. Finding creative solutions that satisfy both sides is important.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Understanding Interests);
-B --> C(Finding Common Ground);
-C --> D{Mutual Benefit};
-D --> E[Successful Negotiation];
-```
+![Negotiating Effectively:  Collaboration, Not Confrontation. Active Listening; Understanding Interests; Finding Common Ground; Mutual Benefit; Successful Negotiation.](diagram-02.svg)
 
 
 ##  Handling Resistance:  Addressing Obstacles

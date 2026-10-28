@@ -27,13 +27,7 @@ Sobel and Panas categorize power questions into many key types, each designed to
 * **Reflective Questions:** These questions encourage self-reflection and critical introspection. They help individuals analyze their own situations and actions.  Examples include: "How do you feel about that?", "What did you learn from that experience?", "What could you have done differently?"
 
 
-```mermaid
-graph LR
-    A[Power Questions] --> B(Discovery Questions);
-    A --> C(Strategic Questions);
-    A --> D(Transition Questions);
-    A --> E(Reflective Questions);
-```
+![Types of Power Questions: A Taxonomy. Power Questions; Discovery Questions; Strategic Questions; Transition Questions; Reflective Questions.](diagram-01.svg)
 
 
 # Active Listening: The Unspoken Power

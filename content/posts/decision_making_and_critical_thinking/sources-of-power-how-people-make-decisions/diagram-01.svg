@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435pt" height="444pt" viewBox="0.00 0.00 435.00 444.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Recognition-Primed Decision-Making (RPD)</title><desc id="description">Situation leads to Recognition. Recognition leads to Satisficing Plan?. Satisficing Plan? leads to Implementation (Yes). Satisficing Plan? leads to Mental Simulation &amp; Adjustment (No). Mental Simulation &amp; Adjustment leads to Satisficing Plan?. Implementation leads to Outcome.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 426)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-426 417,-426 417,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M240,-367.97C240,-360.09 240,-350.82 240,-342.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.45,-342.08 240,-335.08 237.55,-342.08 242.45,-342.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M240,-294.7C240,-287.21 240,-278.28 240,-269.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.45,-269.13 240,-262.13 237.55,-269.13 242.45,-269.13" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199.79,-191.78C172.54,-171.98 137,-146.15 111.53,-127.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.71,-125.47 105.61,-123.34 109.83,-129.44 112.71,-125.47" />
+<text text-anchor="middle" x="172" y="-154" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M235.22,-183.17C235.05,-171.9 236.16,-159.71 240,-149 241.17,-145.72 242.7,-142.51 244.47,-139.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.72,-140.43 248.39,-133.21 242.58,-137.81 246.72,-140.43" />
+<text text-anchor="middle" x="250" y="-154" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79,-82.8C79,-72.21 79,-58.9 79,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.45,-47.06 79,-40.06 76.55,-47.06 81.45,-47.06" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.18,-133.21C267.56,-143.63 264.38,-155.41 261,-166 259.68,-170.15 258.21,-174.45 256.69,-178.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.35,-177.99 254.26,-185.41 258.95,-179.67 254.35,-177.99" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278.5,-408C278.5,-408 201.5,-408 201.5,-408 195.5,-408 189.5,-402 189.5,-396 189.5,-396 189.5,-380 189.5,-380 189.5,-374 195.5,-368 201.5,-368 201.5,-368 278.5,-368 278.5,-368 284.5,-368 290.5,-374 290.5,-380 290.5,-380 290.5,-396 290.5,-396 290.5,-402 284.5,-408 278.5,-408" />
+<text text-anchor="middle" x="240" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Situation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M290.5,-335C290.5,-335 189.5,-335 189.5,-335 183.5,-335 177.5,-329 177.5,-323 177.5,-323 177.5,-307 177.5,-307 177.5,-301 183.5,-295 189.5,-295 189.5,-295 290.5,-295 290.5,-295 296.5,-295 302.5,-301 302.5,-307 302.5,-307 302.5,-323 302.5,-323 302.5,-329 296.5,-335 290.5,-335" />
+<text text-anchor="middle" x="240" y="-310.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognition</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="240,-262 81,-222 240,-182 399,-222 240,-262" />
+<text text-anchor="middle" x="240" y="-217.6" font-family="Georgia" font-size="18.00" fill="#243d36">Satisficing Plan?</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-123C146,-123 12,-123 12,-123 6,-123 0,-117 0,-111 0,-111 0,-95 0,-95 0,-89 6,-83 12,-83 12,-83 146,-83 146,-83 152,-83 158,-89 158,-95 158,-95 158,-111 158,-111 158,-117 152,-123 146,-123" />
+<text text-anchor="middle" x="79" y="-98.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implementation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M362,-133C362,-133 192,-133 192,-133 186,-133 180,-127 180,-121 180,-121 180,-85 180,-85 180,-79 186,-73 192,-73 192,-73 362,-73 362,-73 368,-73 374,-79 374,-85 374,-85 374,-121 374,-121 374,-127 368,-133 362,-133" />
+<text text-anchor="middle" x="277" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mental Simulation &amp;</text>
+<text text-anchor="middle" x="277" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjustment</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M117.5,-40C117.5,-40 40.5,-40 40.5,-40 34.5,-40 28.5,-34 28.5,-28 28.5,-28 28.5,-12 28.5,-12 28.5,-6 34.5,0 40.5,0 40.5,0 117.5,0 117.5,0 123.5,0 129.5,-6 129.5,-12 129.5,-12 129.5,-28 129.5,-28 129.5,-34 123.5,-40 117.5,-40" />
+<text text-anchor="middle" x="79" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome</text>
+</g>
+</g>
+</svg>

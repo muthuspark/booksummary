@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233pt" height="352pt" viewBox="0.00 0.00 233.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Developing Intuition:</title><desc id="description">Mindfulness Practice leads to Increased Self-Awareness. Increased Self-Awareness leads to Recognition of Inner Voice. Recognition of Inner Voice leads to Trusting Your Gut Feeling.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 215,-334 215,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.5,-275.63C98.5,-268.34 98.5,-259.78 98.5,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="100.95,-251.19 98.5,-244.19 96.05,-251.19 100.95,-251.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.5,-183.53C98.5,-175.84 98.5,-167.45 98.5,-159.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="100.95,-159.23 98.5,-152.23 96.05,-159.23 100.95,-159.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.5,-91.53C98.5,-83.84 98.5,-75.45 98.5,-67.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="100.95,-67.23 98.5,-60.23 96.05,-67.23 100.95,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-316C185,-316 12,-316 12,-316 6,-316 0,-310 0,-304 0,-304 0,-288 0,-288 0,-282 6,-276 12,-276 12,-276 185,-276 185,-276 191,-276 197,-282 197,-288 197,-288 197,-304 197,-304 197,-310 191,-316 185,-316" />
+<text text-anchor="middle" x="98.5" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness Practice</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162,-244C162,-244 35,-244 35,-244 29,-244 23,-238 23,-232 23,-232 23,-196 23,-196 23,-190 29,-184 35,-184 35,-184 162,-184 162,-184 168,-184 174,-190 174,-196 174,-196 174,-232 174,-232 174,-238 168,-244 162,-244" />
+<text text-anchor="middle" x="98.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="98.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183.5,-152C183.5,-152 13.5,-152 13.5,-152 7.5,-152 1.5,-146 1.5,-140 1.5,-140 1.5,-104 1.5,-104 1.5,-98 7.5,-92 13.5,-92 13.5,-92 183.5,-92 183.5,-92 189.5,-92 195.5,-98 195.5,-104 195.5,-104 195.5,-140 195.5,-140 195.5,-146 189.5,-152 183.5,-152" />
+<text text-anchor="middle" x="98.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognition of Inner</text>
+<text text-anchor="middle" x="98.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Voice</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M173,-60C173,-60 24,-60 24,-60 18,-60 12,-54 12,-48 12,-48 12,-12 12,-12 12,-6 18,0 24,0 24,0 173,0 173,0 179,0 185,-6 185,-12 185,-12 185,-48 185,-48 185,-54 179,-60 173,-60" />
+<text text-anchor="middle" x="98.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trusting Your Gut</text>
+<text text-anchor="middle" x="98.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feeling</text>
+</g>
+</g>
+</svg>

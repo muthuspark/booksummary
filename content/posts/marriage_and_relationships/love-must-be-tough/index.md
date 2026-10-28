@@ -20,13 +20,7 @@ Dobson critiques the concept of "unconditional love" as often misinterpreted.  H
 
 Discipline, according to Dobson, is not punishment, but rather an important tool for shaping character and teaching self-control.  It’s presented as an expression of love, guiding children (and even adults in some contexts) toward positive choices and preventing them from damaging themselves or others.  Effective discipline should be consistent, age-appropriate, and focused on teaching, not just punishing.
 
-```mermaid
-graph LR
-A[Misbehavior] --> B(Consistent Discipline);
-B --> C{Correction & Teaching};
-C --> D[Improved Behavior];
-D --> E(Self-Control & Maturity);
-```
+![The Importance of Discipline. Misbehavior; Consistent Discipline; Correction & Teaching; Improved Behavior; Self-Control & Maturity.](diagram-01.svg)
 
 
 ##  Communication and Setting Boundaries

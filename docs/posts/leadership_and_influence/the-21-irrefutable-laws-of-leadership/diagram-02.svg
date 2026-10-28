@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221pt" height="364pt" viewBox="0.00 0.00 221.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Law 12: The Law of Reproduction: Leaders Multiply Themselves Through Others</title><desc id="description">Leader leads to Mentor. Mentor leads to Develops Followers. Develops Followers leads to New Leaders. New Leaders leads to Expansion.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 203,-346 203,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-287.87C92.5,-280.31 92.5,-271.49 92.5,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-263.1 92.5,-256.1 90.05,-263.1 94.95,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-215.87C92.5,-208.31 92.5,-199.49 92.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-191.1 92.5,-184.1 90.05,-191.1 94.95,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-143.87C92.5,-136.31 92.5,-127.49 92.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-119.1 92.5,-112.1 90.05,-119.1 94.95,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-71.87C92.5,-64.31 92.5,-55.49 92.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-47.1 92.5,-40.1 90.05,-47.1 94.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M122.5,-328C122.5,-328 62.5,-328 62.5,-328 56.5,-328 50.5,-322 50.5,-316 50.5,-316 50.5,-300 50.5,-300 50.5,-294 56.5,-288 62.5,-288 62.5,-288 122.5,-288 122.5,-288 128.5,-288 134.5,-294 134.5,-300 134.5,-300 134.5,-316 134.5,-316 134.5,-322 128.5,-328 122.5,-328" />
+<text text-anchor="middle" x="92.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leader</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M124.5,-256C124.5,-256 60.5,-256 60.5,-256 54.5,-256 48.5,-250 48.5,-244 48.5,-244 48.5,-228 48.5,-228 48.5,-222 54.5,-216 60.5,-216 60.5,-216 124.5,-216 124.5,-216 130.5,-216 136.5,-222 136.5,-228 136.5,-228 136.5,-244 136.5,-244 136.5,-250 130.5,-256 124.5,-256" />
+<text text-anchor="middle" x="92.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mentor</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-184C173,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 173,-144 173,-144 179,-144 185,-150 185,-156 185,-156 185,-172 185,-172 185,-178 179,-184 173,-184" />
+<text text-anchor="middle" x="92.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develops Followers</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146.5,-112C146.5,-112 38.5,-112 38.5,-112 32.5,-112 26.5,-106 26.5,-100 26.5,-100 26.5,-84 26.5,-84 26.5,-78 32.5,-72 38.5,-72 38.5,-72 146.5,-72 146.5,-72 152.5,-72 158.5,-78 158.5,-84 158.5,-84 158.5,-100 158.5,-100 158.5,-106 152.5,-112 146.5,-112" />
+<text text-anchor="middle" x="92.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">New Leaders</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M137,-40C137,-40 48,-40 48,-40 42,-40 36,-34 36,-28 36,-28 36,-12 36,-12 36,-6 42,0 48,0 48,0 137,0 137,0 143,0 149,-6 149,-12 149,-12 149,-28 149,-28 149,-34 143,-40 137,-40" />
+<text text-anchor="middle" x="92.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expansion</text>
+</g>
+</g>
+</svg>

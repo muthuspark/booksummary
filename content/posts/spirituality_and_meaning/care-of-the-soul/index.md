@@ -23,12 +23,7 @@ A core element of "Care of the Soul" is the importance of cultivating inner awar
 * **Contemplation:**  Engaging in quiet reflection on significant experiences and life's larger questions.
 * **Spending time in nature:**  Connecting with the natural world to experience a sense of peace and tranquility.
 
-```mermaid
-graph LR
-    A[Daily Life] --> B(Inner Reflection);
-    B --> C{Increased Self-Awareness};
-    C --> D[Meaningful Action];
-```
+![Listening to the Soul:  Cultivating Inner Awareness. Daily Life; Inner Reflection; Increased Self-Awareness; Meaningful Action.](diagram-01.svg)
 
 ## The Importance of Rhythm and Routine:  Honoring the Soul's Natural Cycles
 
@@ -43,12 +38,7 @@ The book explores the importance of acknowledging and integrating the "shadow se
 
 Moore highlights the importance of stories in shaping our lives and providing meaning.  He emphasizes the power of personal narratives and the role they play in creating a sense of identity and purpose.  This encourages exploration of your personal narratives – where you came from, where you are going, and what truly gives you meaning.
 
-```mermaid
-graph LR
-A[Personal Narratives] --> B(Self-Understanding);
-B --> C(Purpose);
-C --> D[Meaningful Life];
-```
+![The Power of Stories:  Finding Meaning and Purpose. Personal Narratives; Self-Understanding; Purpose; Meaningful Life.](diagram-02.svg)
 
 ## Cultivating Meaningful Relationships:  The Soul's Social Dimension
 

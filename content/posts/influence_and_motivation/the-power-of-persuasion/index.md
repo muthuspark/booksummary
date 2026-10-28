@@ -19,61 +19,37 @@ Persuasion is not about manipulation; it's about influencing others in a way tha
 
 The principle of reciprocity suggests that people feel obligated to return favors. This can be leveraged by offering something upfront, whether it's a small gift, helpful information, or a genuine compliment. This creates a sense of indebtedness that makes the other person more receptive to your request.
 
-```mermaid
-graph LR
-A["Offer Value (Gift, Information, Compliment)"] --> B(Increased Likeability & Trust);
-B --> C[Greater Receptiveness to Request];
-```
+![Reciprocity: The Power of Giving First. Offer Value (Gift, Information, Compliment); Increased Likeability & Trust; Greater Receptiveness to Request.](diagram-01.svg)
 
 ## Scarcity: Highlighting Limited Availability
 
 Scarcity creates a sense of urgency. Highlighting limited availability, whether it's a limited-time offer, a limited number of items, or exclusive information, can increase the perceived value and desirability of what you're offering. This taps into our fear of missing out (FOMO).
 
-```mermaid
-graph LR
-A[Highlight Limited Availability/Exclusivity] --> B(Increased Perceived Value);
-B --> C[Urgency & Increased Desire];
-```
+![Scarcity: Highlighting Limited Availability. Highlight Limited Availability/Exclusivity; Increased Perceived Value; Urgency & Increased Desire.](diagram-02.svg)
 
 ## Authority: The Influence of Expertise
 
 People are more likely to be persuaded by someone they perceive as an authority figure, demonstrated through credentials or confident, knowledgeable communication.  However, it's important to be genuine and avoid appearing arrogant or condescending.
 
-```mermaid
-graph LR
-A[Demonstrate Expertise/Credentials] --> B(Increased Credibility & Trust);
-B --> C[Greater Influence & Persuasion];
-```
+![Authority: The Influence of Expertise. Demonstrate Expertise/Credentials; Increased Credibility & Trust; Greater Influence & Persuasion.](diagram-03.svg)
 
 ## Consistency: The Power of Commitment
 
 People strive for consistency in their words and actions.  Once someone makes a commitment, they're more likely to follow through, even if the initial commitment was small.  This can be leveraged by obtaining small initial agreements that lead to larger commitments later on.
 
-```mermaid
-graph LR
-A[Obtain Small Initial Commitment] --> B(Increased Consistency Motivation);
-B --> C[Greater Likelihood of Larger Commitment];
-```
+![Consistency: The Power of Commitment. Obtain Small Initial Commitment; Increased Consistency Motivation; Greater Likelihood of Larger Commitment.](diagram-04.svg)
 
 ## Liking: Building Rapport and Connection
 
 People are more easily persuaded by those they like.  Liking can be fostered through shared interests, genuine compliments, active listening, and creating a positive and friendly atmosphere.  Building rapport is key to effective persuasion.
 
-```mermaid
-graph LR
-A[Build Rapport & Shared Interests] --> B(Increased Liking & Trust);
-B --> C[Greater Persuasive Influence];
-```
+![Liking: Building Rapport and Connection. Build Rapport & Shared Interests; Increased Liking & Trust; Greater Persuasive Influence.](diagram-05.svg)
 
 ## Consensus: The Power of Social Proof
 
 People tend to follow the lead of others, particularly when they're uncertain.  This is the principle of social proof.  Highlighting the popularity or widespread acceptance of something can increase its desirability and persuasiveness.  Testimonials and case studies are effective tools here.
 
-```mermaid
-graph LR
-A[Demonstrate Popularity/Social Proof] --> B(Increased Perceived Value & Credibility);
-B --> C[Greater Likelihood of Adoption];
-```
+![Consensus: The Power of Social Proof. Demonstrate Popularity/Social Proof; Increased Perceived Value & Credibility; Greater Likelihood of Adoption.](diagram-06.svg)
 
 
 ##  Framing and Messaging: Crafting Compelling Narratives

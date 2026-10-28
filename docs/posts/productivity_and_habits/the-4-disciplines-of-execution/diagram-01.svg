@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="566pt" height="158pt" viewBox="0.00 0.00 566.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">Lead and Lag Measures: Tracking Progress Effectively</title><desc id="description">Lagging Measures (Outcomes) leads to Results. Leading Measures (Activities) leads to Lagging Measures (Outcomes). Leading Measures (Activities) leads to Early Warning System.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 548,-140 548,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M394.15,-92C408.43,-92 422.82,-92 435.82,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="435.89,-94.45 442.89,-92 435.89,-89.55 435.89,-94.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.31,-70.07C186.93,-72.31 201.06,-74.63 214.82,-76.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.67,-79.34 221.97,-78.05 215.46,-74.5 214.67,-79.34" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.31,-41.93C181.39,-40.6 189.65,-39.25 197.9,-37.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.32,-40.31 204.83,-36.76 197.53,-35.47 198.32,-40.31" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M382,-122C382,-122 234,-122 234,-122 228,-122 222,-116 222,-110 222,-110 222,-74 222,-74 222,-68 228,-62 234,-62 234,-62 382,-62 382,-62 388,-62 394,-68 394,-74 394,-74 394,-110 394,-110 394,-116 388,-122 382,-122" />
+<text text-anchor="middle" x="308" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lagging Measures</text>
+<text text-anchor="middle" x="308" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Outcomes)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M518,-112C518,-112 455,-112 455,-112 449,-112 443,-106 443,-100 443,-100 443,-84 443,-84 443,-78 449,-72 455,-72 455,-72 518,-72 518,-72 524,-72 530,-78 530,-84 530,-84 530,-100 530,-100 530,-106 524,-112 518,-112" />
+<text text-anchor="middle" x="486.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Results</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-86C161,-86 12,-86 12,-86 6,-86 0,-80 0,-74 0,-74 0,-38 0,-38 0,-32 6,-26 12,-26 12,-26 161,-26 161,-26 167,-26 173,-32 173,-38 173,-38 173,-74 173,-74 173,-80 167,-86 161,-86" />
+<text text-anchor="middle" x="86.5" y="-61.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leading Measures</text>
+<text text-anchor="middle" x="86.5" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Activities)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M399,-40C399,-40 217,-40 217,-40 211,-40 205,-34 205,-28 205,-28 205,-12 205,-12 205,-6 211,0 217,0 217,0 399,0 399,0 405,0 411,-6 411,-12 411,-12 411,-28 411,-28 411,-34 405,-40 399,-40" />
+<text text-anchor="middle" x="308" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Early Warning System</text>
+</g>
+</g>
+</svg>

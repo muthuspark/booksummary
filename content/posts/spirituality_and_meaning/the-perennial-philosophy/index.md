@@ -84,20 +84,7 @@ Huxley doesn't advocate for abandoning the everyday world to pursue spiritual en
 
 The journey towards realizing the Perennial Philosophy can be visualized as follows:
 
-```mermaid
-graph LR
-    A[Ordinary Consciousness] --> B(Ego-Transcendence);
-    B --> C{Expanded Consciousness};
-    C --> D[Union with Transcendent Reality];
-    subgraph "Obstacles"
-        E[Ignorance] --> B;
-        F[Attachment] --> B;
-        G[Fear] --> B;
-    end
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#ccf,stroke:#333,stroke-width:2px
-    style D fill:#99f,stroke:#333,stroke-width:2px
-```
+![Visualizing the Path: A Conceptual Model. Ordinary Consciousness; Ego-Transcendence; Expanded Consciousness; Union with Transcendent Reality; Ignorance; Attachment; Fear.](diagram-01.svg)
 
 This diagram illustrates the process of moving from ordinary consciousness, by ego-identification, to an expanded state of consciousness through ego-transcendence, ultimately leading to union with the transcendent reality. Obstacles such as ignorance, attachment, and fear are depicted as hindering this process.
 

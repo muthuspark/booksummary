@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="553pt" height="138pt" viewBox="0.00 0.00 553.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Cultivating Mindfulness and Presence</title><desc id="description">Mindfulness leads to Present Moment. Present Moment leads to Reduced Anxiety. Present Moment leads to Appreciation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 535,-120 535,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128.49,-51C136.33,-51 144.44,-51 152.54,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="152.98,-53.45 159.98,-51 152.98,-48.55 152.98,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M321.19,-63.83C329.18,-65.12 337.34,-66.43 345.42,-67.74" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="345.52,-70.23 352.82,-68.93 346.3,-65.39 345.52,-70.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M321.19,-38.17C334.54,-36.02 348.33,-33.8 361.49,-31.68" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="362.21,-34.04 368.73,-30.51 361.43,-29.21 362.21,-34.04" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116,-71C116,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 116,-31 116,-31 122,-31 128,-37 128,-43 128,-43 128,-59 128,-59 128,-65 122,-71 116,-71" />
+<text text-anchor="middle" x="64" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309,-71C309,-71 172,-71 172,-71 166,-71 160,-65 160,-59 160,-59 160,-43 160,-43 160,-37 166,-31 172,-31 172,-31 309,-31 309,-31 315,-31 321,-37 321,-43 321,-43 321,-59 321,-59 321,-65 315,-71 309,-71" />
+<text text-anchor="middle" x="240.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M505,-102C505,-102 365,-102 365,-102 359,-102 353,-96 353,-90 353,-90 353,-74 353,-74 353,-68 359,-62 365,-62 365,-62 505,-62 505,-62 511,-62 517,-68 517,-74 517,-74 517,-90 517,-90 517,-96 511,-102 505,-102" />
+<text text-anchor="middle" x="435" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Anxiety</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M489,-40C489,-40 381,-40 381,-40 375,-40 369,-34 369,-28 369,-28 369,-12 369,-12 369,-6 375,0 381,0 381,0 489,0 489,0 495,0 501,-6 501,-12 501,-12 501,-28 501,-28 501,-34 495,-40 489,-40" />
+<text text-anchor="middle" x="435" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Appreciation</text>
+</g>
+</g>
+</svg>

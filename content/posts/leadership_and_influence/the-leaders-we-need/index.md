@@ -24,18 +24,7 @@ Maccoby introduces four primary leadership archetypes, based on his research usi
 * **The Productive Leader:**  A synthesis of the positive attributes of the other types. This individual possesses high emotional intelligence, understands their own values and limitations, and fosters collaboration and innovation. This is the ideal leader type Maccoby advocates for.
 
 
-```mermaid
-graph LR
-    A[Gamesman] --> B(Competitive, Ambitious);
-    A --> C(Ruthless);
-    D[Craftsman] --> E(Passionate, Detail-Oriented);
-    D --> F(Resistant to Change);
-    G[Organization Man] --> H(Conformist, Bureaucratic);
-    G --> I(Stable, Predictable);
-    J[Productive Leader] --> K(Collaborative, Innovative);
-    J --> L(High Emotional Intelligence);
-    J --> M(Self-Aware);
-```
+![Understanding the Different Leadership Personalities. Gamesman; Competitive, Ambitious; Ruthless; Craftsman; Passionate, Detail-Oriented; Resistant to Change; Organization Man; Conformist, Bureaucratic; Stable, Predictable; Productive Leader; Collaborative, Innovative; High Emotional Intelligence; Self-Aware.](diagram-01.svg)
 
 ## Cultivating Emotional Intelligence
 

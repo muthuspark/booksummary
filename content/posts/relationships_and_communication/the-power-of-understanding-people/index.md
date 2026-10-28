@@ -15,11 +15,7 @@ Dave Mitchell's "The Power of Understanding People" emphasizes the importance of
 
 Mitchell outlines various personality types, though without strictly adhering to a specific personality framework like Myers-Briggs.  He focuses on observable behavioral patterns, suggesting readers identify common traits like introversion/extroversion, dominance/submission, and task/people orientation. He advocates for flexible communication styles.  For example, a direct approach might be effective with a decisive individual, whereas a more collaborative approach might be necessary with someone who prefers consensus-building.
 
-```mermaid
-graph LR
-A["Person A (Direct)"] --> B("Direct Communication");
-C["Person B (Collaborative)"] --> D("Collaborative Communication");
-```
+![Recognizing and Adapting to Personality Types. Person A (Direct); Direct Communication; Person B (Collaborative); Collaborative Communication.](diagram-01.svg)
 
 The key takeaway here isn't rigid categorization but rather the importance of adjusting your communication to the specific individual.
 
@@ -28,14 +24,7 @@ The key takeaway here isn't rigid categorization but rather the importance of ad
 
 Effective communication is central to the book. Mitchell emphasizes active listening, a skill that goes beyond simply hearing words. It involves paying attention to nonverbal cues (body language, tone of voice), showing genuine interest, and reflecting back what the other person has said to ensure understanding.  He also highlights the power of asking clarifying questions to avoid misunderstandings.
 
-```mermaid
-graph LR
-A[Speaker] --> B(Verbal Communication);
-A --> C(Nonverbal Communication);
-C --> D["Listener (Active Listening)"];
-D --> E(Reflecting);
-D --> F(Clarifying Questions);
-```
+![Mastering the Art of Effective Communication. Speaker; Verbal Communication; Nonverbal Communication; Listener (Active Listening); Reflecting; Clarifying Questions.](diagram-02.svg)
 
 The ability to accurately interpret both verbal and nonverbal cues is important for building rapport and navigating social situations successfully.
 

@@ -28,13 +28,7 @@ The book outlines many typical emotional stages following an affair. These are n
 * **Acceptance and Healing:** Gradual acceptance of what happened and a move towards rebuilding.
 
 
-```mermaid
-graph LR
-    A[Shock & Denial] --> B(Anger & Rage);
-    B --> C{Bargaining & Negotiation};
-    C --> D[Depression & Despair];
-    D --> E(Acceptance & Healing);
-```
+![Processing Betrayal:  Emotional Stages and Responses. Shock & Denial; Anger & Rage; Bargaining & Negotiation; Depression & Despair; Acceptance & Healing.](diagram-01.svg)
 
 #  Reclaiming Your Identity and Self-Worth
 

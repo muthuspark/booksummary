@@ -22,13 +22,7 @@ Negative communication patterns, such as criticism, contempt, defensiveness, and
 
 Active listening goes beyond simply hearing your partner's words. It involves paying close attention to their verbal and nonverbal cues, reflecting back what you've heard to ensure understanding, and showing empathy for their feelings.
 
-```mermaid
-graph LR
-    A[Partner Speaks] --> B(Active Listening);
-    B --> C{Reflecting/Paraphrasing};
-    C --> D[Empathetic Response];
-    D --> E[Understanding & Connection];
-```
+![Active Listening: The Cornerstone of Understanding. Partner Speaks; Active Listening; Reflecting/Paraphrasing; Empathetic Response; Understanding & Connection.](diagram-01.svg)
 
 **Actionable Insight:** Practice summarizing your partner's perspective before offering your own.  For example, instead of immediately reacting to a complaint, say, "So it sounds like you felt frustrated because..."  This shows you are actively engaged and trying to understand their viewpoint.
 

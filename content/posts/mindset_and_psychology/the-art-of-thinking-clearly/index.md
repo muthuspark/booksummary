@@ -15,19 +15,7 @@ Rolf Dobelli's "The Art of Thinking Clearly" offers a compelling collection of c
 
 The core of Dobelli's work lies in identifying and explaining various cognitive biases.  He doesn't dwell on the academic definitions but provides clear, relatable examples to illustrate how these biases manifest in everyday situations.  This makes the book accessible and immediately applicable to the reader's own experiences.  Understanding these biases is the first step towards mitigating their influence.
 
-```mermaid
-graph LR
-    A[Cognitive Biases] --> B(Confirmation Bias);
-    A --> C(Anchoring Bias);
-    A --> D(Availability Heuristic);
-    A --> E(Survivorship Bias);
-    A --> F(Halo Effect);
-    B --> G(Seeking confirming evidence);
-    C --> H(Over-reliance on initial information);
-    D --> I(Judging based on memory availability);
-    E --> J(Ignoring failures);
-    F --> K(Generalizing from one trait);
-```
+![Recognizing and Avoiding Cognitive Biases. Cognitive Biases; Confirmation Bias; Anchoring Bias; Availability Heuristic; Survivorship Bias; Halo Effect; Seeking confirming evidence; Over-reliance on initial information; Judging based on memory availability; Ignoring failures; Generalizing from one trait.](diagram-01.svg)
 
 ###  The Importance of  Perspective and  Critical Thinking
 

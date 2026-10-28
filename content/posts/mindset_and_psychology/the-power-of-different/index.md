@@ -15,15 +15,7 @@ Gail Saltz's "The Power of Different" champions the idea that our differences, o
 The initial step in harnessing the power of your differences is to accurately assess your personality traits, strengths, and weaknesses. Saltz encourages a thorough self-reflection, perhaps aided by personality assessments like the Myers-Briggs Type Indicator (MBTI) or similar tools. This self-assessment is not about labeling yourself but about understanding your tendencies and patterns. Identifying your weaknesses isn't about dwelling on them; rather, it's about strategically mitigating their impact and finding ways to compensate.
 
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Strengths);
-    A --> C(Identify Weaknesses);
-    B --> D[Strategic Leverage];
-    C --> E[Mitigating Impact];
-    D --> F{Personal Growth};
-    E --> F;
-```
+![Recognizing Your "Different": Identifying Your Strengths and Weaknesses. Self-Reflection; Identify Strengths; Identify Weaknesses; Strategic Leverage; Mitigating Impact; Personal Growth.](diagram-01.svg)
 
 ##  Turning Differences into Strengths:  Developing Compensatory Strategies
 

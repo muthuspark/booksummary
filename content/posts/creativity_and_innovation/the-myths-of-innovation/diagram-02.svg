@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320pt" height="476pt" viewBox="0.00 0.00 319.50 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Myth of Innovation as a Linear Process</title><desc id="description">Idea leads to Experimentation. Experimentation leads to Failure. Failure leads to Refinement. Refinement leads to Iteration. Iteration leads to Success. Experimentation leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 301.5,-458 301.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162,-399.87C162,-392.31 162,-383.49 162,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.45,-375.1 162,-368.1 159.55,-375.1 164.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.88,-327.91C136.81,-317.17 125.22,-303.45 114.66,-290.94" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.28,-289.06 109.89,-285.29 112.53,-292.22 116.28,-289.06" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.33,-327.91C189.87,-314.43 205.43,-296.24 217.91,-281.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="220,-282.97 222.69,-276.06 216.28,-279.79 220,-282.97" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86,-215.79C86,-207.54 86,-199.04 86,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="88.45,-191.09 86,-184.09 83.55,-191.09 88.45,-191.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86,-143.87C86,-136.31 86,-127.49 86,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="88.45,-119.1 86,-112.1 83.55,-119.1 88.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86,-71.87C86,-64.31 86,-55.49 86,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="88.45,-47.1 86,-40.1 83.55,-47.1 88.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-440C182,-440 142,-440 142,-440 136,-440 130,-434 130,-428 130,-428 130,-412 130,-412 130,-406 136,-400 142,-400 142,-400 182,-400 182,-400 188,-400 194,-406 194,-412 194,-412 194,-428 194,-428 194,-434 188,-440 182,-440" />
+<text text-anchor="middle" x="162" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M232,-368C232,-368 92,-368 92,-368 86,-368 80,-362 80,-356 80,-356 80,-340 80,-340 80,-334 86,-328 92,-328 92,-328 232,-328 232,-328 238,-328 244,-334 244,-340 244,-340 244,-356 244,-356 244,-362 238,-368 232,-368" />
+<text text-anchor="middle" x="162" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Experimentation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="86,-296 0,-256 86,-216 172,-256 86,-296" />
+<text text-anchor="middle" x="86" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Failure</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-184C135,-184 37,-184 37,-184 31,-184 25,-178 25,-172 25,-172 25,-156 25,-156 25,-150 31,-144 37,-144 37,-144 135,-144 135,-144 141,-144 147,-150 147,-156 147,-156 147,-172 147,-172 147,-178 141,-184 135,-184" />
+<text text-anchor="middle" x="86" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refinement</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M123,-112C123,-112 49,-112 49,-112 43,-112 37,-106 37,-100 37,-100 37,-84 37,-84 37,-78 43,-72 49,-72 49,-72 123,-72 123,-72 129,-72 135,-78 135,-84 135,-84 135,-100 135,-100 135,-106 129,-112 123,-112" />
+<text text-anchor="middle" x="86" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iteration</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M118.5,-40C118.5,-40 53.5,-40 53.5,-40 47.5,-40 41.5,-34 41.5,-28 41.5,-28 41.5,-12 41.5,-12 41.5,-6 47.5,0 53.5,0 53.5,0 118.5,0 118.5,0 124.5,0 130.5,-6 130.5,-12 130.5,-12 130.5,-28 130.5,-28 130.5,-34 124.5,-40 118.5,-40" />
+<text text-anchor="middle" x="86" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M271.5,-276C271.5,-276 206.5,-276 206.5,-276 200.5,-276 194.5,-270 194.5,-264 194.5,-264 194.5,-248 194.5,-248 194.5,-242 200.5,-236 206.5,-236 206.5,-236 271.5,-236 271.5,-236 277.5,-236 283.5,-242 283.5,-248 283.5,-248 283.5,-264 283.5,-264 283.5,-270 277.5,-276 271.5,-276" />
+<text text-anchor="middle" x="239" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445pt" height="282pt" viewBox="0.00 0.00 445.00 282.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Individual Needs and Differences</title><desc id="description">Understanding Individual Needs leads to Self-Reflection. Understanding Individual Needs leads to Love Languages. Understanding Individual Needs leads to Respecting Differences. Understanding Individual Needs leads to Effective Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 264)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-264 427,-264 427,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133.21,-163.15C152.66,-174.13 175.43,-186.05 197,-195 205.18,-198.4 213.87,-201.59 222.6,-204.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.86,-206.87 229.28,-206.73 223.4,-202.21 221.86,-206.87" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.17,-144.59C182.46,-147.04 200.73,-149.63 218.1,-152.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.21,-154.59 225.49,-153.14 218.9,-149.74 218.21,-154.59" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.17,-121.41C173.22,-120.27 181.48,-119.1 189.77,-117.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.15,-120.34 196.73,-116.94 189.46,-115.49 190.15,-120.34" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M135.33,-102.87C154.44,-92.25 176.44,-80.58 197,-71 203.86,-67.8 211.04,-64.64 218.29,-61.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.45,-63.74 224.96,-58.77 217.56,-59.22 219.45,-63.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M153,-163C153,-163 12,-163 12,-163 6,-163 0,-157 0,-151 0,-151 0,-115 0,-115 0,-109 6,-103 12,-103 12,-103 153,-103 153,-103 159,-103 165,-109 165,-115 165,-115 165,-151 165,-151 165,-157 159,-163 153,-163" />
+<text text-anchor="middle" x="82.5" y="-138.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+<text text-anchor="middle" x="82.5" y="-118.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Needs</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M364.5,-246C364.5,-246 241.5,-246 241.5,-246 235.5,-246 229.5,-240 229.5,-234 229.5,-234 229.5,-218 229.5,-218 229.5,-212 235.5,-206 241.5,-206 241.5,-206 364.5,-206 364.5,-206 370.5,-206 376.5,-212 376.5,-218 376.5,-218 376.5,-234 376.5,-234 376.5,-240 370.5,-246 364.5,-246" />
+<text text-anchor="middle" x="303" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M368.5,-184C368.5,-184 237.5,-184 237.5,-184 231.5,-184 225.5,-178 225.5,-172 225.5,-172 225.5,-156 225.5,-156 225.5,-150 231.5,-144 237.5,-144 237.5,-144 368.5,-144 368.5,-144 374.5,-144 380.5,-150 380.5,-156 380.5,-156 380.5,-172 380.5,-172 380.5,-178 374.5,-184 368.5,-184" />
+<text text-anchor="middle" x="303" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Love Languages</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M397,-122C397,-122 209,-122 209,-122 203,-122 197,-116 197,-110 197,-110 197,-94 197,-94 197,-88 203,-82 209,-82 209,-82 397,-82 397,-82 403,-82 409,-88 409,-94 409,-94 409,-110 409,-110 409,-116 403,-122 397,-122" />
+<text text-anchor="middle" x="303" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Respecting Differences</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369,-60C369,-60 237,-60 237,-60 231,-60 225,-54 225,-48 225,-48 225,-12 225,-12 225,-6 231,0 237,0 237,0 369,0 369,0 375,0 381,-6 381,-12 381,-12 381,-48 381,-48 381,-54 375,-60 369,-60" />
+<text text-anchor="middle" x="303" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="303" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+</g>
+</svg>

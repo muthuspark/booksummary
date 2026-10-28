@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410pt" height="148pt" viewBox="0.00 0.00 409.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">The Strategic Triangle: A Framework for Analysis</title><desc id="description">Company leads to Strategic Triangle. Customer leads to Strategic Triangle. Competitor leads to Strategic Triangle.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 391.5,-130 391.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86.7,-71.87C102.52,-63.15 121.37,-52.77 137.89,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="139.39,-45.63 144.34,-40.1 137.03,-41.34 139.39,-45.63" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179,-71.87C179,-64.31 179,-55.49 179,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.45,-47.1 179,-40.1 176.55,-47.1 181.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.11,-71.87C260.15,-63.08 239.91,-52.58 222.23,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.19,-41.15 215.84,-40.1 220.93,-45.5 223.19,-41.15" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M92,-112C92,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 92,-72 92,-72 98,-72 104,-78 104,-84 104,-84 104,-100 104,-100 104,-106 98,-112 92,-112" />
+<text text-anchor="middle" x="52" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Company</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M252,-40C252,-40 106,-40 106,-40 100,-40 94,-34 94,-28 94,-28 94,-12 94,-12 94,-6 100,0 106,0 106,0 252,0 252,0 258,0 264,-6 264,-12 264,-12 264,-28 264,-28 264,-34 258,-40 252,-40" />
+<text text-anchor="middle" x="179" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategic Triangle</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M220,-112C220,-112 138,-112 138,-112 132,-112 126,-106 126,-100 126,-100 126,-84 126,-84 126,-78 132,-72 138,-72 138,-72 220,-72 220,-72 226,-72 232,-78 232,-84 232,-84 232,-100 232,-100 232,-106 226,-112 220,-112" />
+<text text-anchor="middle" x="179" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Customer</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M361.5,-112C361.5,-112 266.5,-112 266.5,-112 260.5,-112 254.5,-106 254.5,-100 254.5,-100 254.5,-84 254.5,-84 254.5,-78 260.5,-72 266.5,-72 266.5,-72 361.5,-72 361.5,-72 367.5,-72 373.5,-78 373.5,-84 373.5,-84 373.5,-100 373.5,-100 373.5,-106 367.5,-112 361.5,-112" />
+<text text-anchor="middle" x="314" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Competitor</text>
+</g>
+</g>
+</svg>

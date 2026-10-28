@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="215pt" height="384pt" viewBox="0.00 0.00 215.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">Strategic Planning:  Mapping Your Woo</title><desc id="description">Strategic Planning leads to Define Objectives. Define Objectives leads to Identify Target Audience. Identify Target Audience leads to Develop a Plan. Develop a Plan leads to Execute and Adapt.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 197,-366 197,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-307.87C89.5,-300.31 89.5,-291.49 89.5,-283.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-283.1 89.5,-276.1 87.05,-283.1 91.95,-283.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-235.63C89.5,-228.34 89.5,-219.78 89.5,-211.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-211.19 89.5,-204.19 87.05,-211.19 91.95,-211.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-143.67C89.5,-135.77 89.5,-127.28 89.5,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-119.12 89.5,-112.12 87.05,-119.12 91.95,-119.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.5,-71.87C89.5,-64.31 89.5,-55.49 89.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.95,-47.1 89.5,-40.1 87.05,-47.1 91.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164.5,-348C164.5,-348 14.5,-348 14.5,-348 8.5,-348 2.5,-342 2.5,-336 2.5,-336 2.5,-320 2.5,-320 2.5,-314 8.5,-308 14.5,-308 14.5,-308 164.5,-308 164.5,-308 170.5,-308 176.5,-314 176.5,-320 176.5,-320 176.5,-336 176.5,-336 176.5,-342 170.5,-348 164.5,-348" />
+<text text-anchor="middle" x="89.5" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategic Planning</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162,-276C162,-276 17,-276 17,-276 11,-276 5,-270 5,-264 5,-264 5,-248 5,-248 5,-242 11,-236 17,-236 17,-236 162,-236 162,-236 168,-236 174,-242 174,-248 174,-248 174,-264 174,-264 174,-270 168,-276 162,-276" />
+<text text-anchor="middle" x="89.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Objectives</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151.5,-204C151.5,-204 27.5,-204 27.5,-204 21.5,-204 15.5,-198 15.5,-192 15.5,-192 15.5,-156 15.5,-156 15.5,-150 21.5,-144 27.5,-144 27.5,-144 151.5,-144 151.5,-144 157.5,-144 163.5,-150 163.5,-156 163.5,-156 163.5,-192 163.5,-192 163.5,-198 157.5,-204 151.5,-204" />
+<text text-anchor="middle" x="89.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Target</text>
+<text text-anchor="middle" x="89.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Audience</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-112C152,-112 27,-112 27,-112 21,-112 15,-106 15,-100 15,-100 15,-84 15,-84 15,-78 21,-72 27,-72 27,-72 152,-72 152,-72 158,-72 164,-78 164,-84 164,-84 164,-100 164,-100 164,-106 158,-112 152,-112" />
+<text text-anchor="middle" x="89.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop a Plan</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M167,-40C167,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 167,0 167,0 173,0 179,-6 179,-12 179,-12 179,-28 179,-28 179,-34 173,-40 167,-40" />
+<text text-anchor="middle" x="89.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Execute and Adapt</text>
+</g>
+</g>
+</svg>

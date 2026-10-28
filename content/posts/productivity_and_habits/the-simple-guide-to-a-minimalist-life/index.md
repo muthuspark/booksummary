@@ -15,14 +15,7 @@ Leo Babauta's "The Simple Guide to a Minimalist Life" isn't just about declutter
 The journey to a minimalist life often begins with physical decluttering. Babauta advocates a gradual, manageable approach rather than an overwhelming purge. He suggests starting small, perhaps with a single drawer or shelf.  The key is to ask yourself:  "Do I truly need this? Does this bring me joy?"  Items that don't serve a purpose or spark joy should be donated, sold, or discarded.  This process isn't about discarding everything; it's about carefully curating your possessions to reflect your values and needs.
 
 
-```mermaid
-graph LR
-    A[Identify Clutter] --> B(Ask: Need/Joy?);
-    B --> C{Keep};
-    B --> D{Donate/Sell/Discard};
-    C --> E[Organized Space];
-    D --> E;
-```
+![Decluttering Your Physical Space: The Starting Point. Identify Clutter; Ask: Need/Joy?; Keep; Donate/Sell/Discard; Organized Space.](diagram-01.svg)
 
 ##  Digital Minimalism: Taming the Tech Tide
 
@@ -32,15 +25,7 @@ Modern life is saturated with technology, and Babauta emphasizes the importance 
 
 A cluttered schedule mirrors a cluttered life. Babauta advises prioritizing tasks and commitments based on their importance and impact. Focus on a few key areas—perhaps work, family, and personal well-being—and eliminate less important commitments. Learning to say "no" is a skill, allowing you to focus your energy on activities that truly align with your values and goals. This often involves breaking down large tasks into smaller, more manageable steps, minimizing feelings of overwhelm.
 
-```mermaid
-graph LR
-    A[Identify Commitments];
-    A --> B(Prioritize: Importance/Impact);
-    B --> C{Essential};
-    B --> D{Delegated/Eliminated};
-    C --> E[Focused Schedule];
-    D --> E;
-```
+![Simplifying Your Schedule:  Prioritizing What Matters. Identify Commitments; Prioritize: Importance/Impact; Essential; Delegated/Eliminated; Focused Schedule.](diagram-02.svg)
 
 ##  Mindfulness and Intentionality: The Heart of Minimalism
 

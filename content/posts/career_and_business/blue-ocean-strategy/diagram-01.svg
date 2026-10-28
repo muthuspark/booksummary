@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="646pt" height="174pt" viewBox="0.00 0.00 646.00 174.00" role="img" aria-labelledby="title description">
+<title id="title">The Strategy Canvas: Visualizing Your Market</title><desc id="description">Company A leads to Factor 1. Company A leads to Factor 2. Company A leads to Factor 3. Company B leads to Factor 1. Company B leads to Factor 4. Company B leads to Factor 5. Company C leads to Factor 1. Company C leads to Factor 2. Company C leads to Factor 5. : Factor 1, Factor 2, Factor 3, Factor 4, Factor 5.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 156)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-156 628,-156 628,18 -18,18" />
+<g id="clust1" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M20,-8C20,-8 590,-8 590,-8 596,-8 602,-14 602,-20 602,-20 602,-72 602,-72 602,-78 596,-84 590,-84 590,-84 20,-84 20,-84 14,-84 8,-78 8,-72 8,-72 8,-20 8,-20 8,-14 14,-8 20,-8" />
+</g>
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M215.89,-97.92C226.39,-93.71 237.17,-89.01 247,-84 254.97,-79.94 263.21,-75.04 270.87,-70.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="272.62,-71.95 277.15,-66.08 269.95,-67.84 272.62,-71.95" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.65,-97.87C171.74,-90.16 175.35,-81.13 178.66,-72.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.03,-73.51 181.36,-66.1 176.48,-71.69 181.03,-73.51" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.95,-97.87C126.38,-89.46 113.86,-79.5 102.71,-70.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.02,-68.55 97.02,-66.1 100.97,-72.38 104.02,-68.55" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M392.11,-97.92C381.61,-93.71 370.83,-89.01 361,-84 353.03,-79.94 344.79,-75.04 337.13,-70.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="338.05,-67.84 330.85,-66.08 335.38,-71.95 338.05,-67.84" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M471.32,-97.87C482.01,-89.46 494.68,-79.5 505.96,-70.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="507.72,-72.36 511.71,-66.1 504.69,-68.51 507.72,-72.36" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M439.35,-97.87C436.26,-90.16 432.65,-81.13 429.34,-72.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="431.52,-71.69 426.64,-66.1 426.97,-73.51 431.52,-71.69" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304,-97.87C304,-90.31 304,-81.49 304,-73.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="306.45,-73.1 304,-66.1 301.55,-73.1 306.45,-73.1" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.4,-97.87C262.68,-93.38 254.52,-88.57 247,-84 239.66,-79.54 231.88,-74.67 224.47,-69.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.57,-67.76 218.35,-66.07 222.94,-71.9 225.57,-67.76" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M337.6,-97.87C345.32,-93.38 353.48,-88.57 361,-84 368.34,-79.54 376.12,-74.67 383.53,-69.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="385.06,-71.9 389.65,-66.07 382.43,-67.76 385.06,-71.9" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209.5,-138C209.5,-138 112.5,-138 112.5,-138 106.5,-138 100.5,-132 100.5,-126 100.5,-126 100.5,-110 100.5,-110 100.5,-104 106.5,-98 112.5,-98 112.5,-98 209.5,-98 209.5,-98 215.5,-98 221.5,-104 221.5,-110 221.5,-110 221.5,-126 221.5,-126 221.5,-132 215.5,-138 209.5,-138" />
+<text text-anchor="middle" x="161" y="-113.6" font-family="Georgia" font-size="18.00" fill="#243d36">Company A</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M338,-66C338,-66 270,-66 270,-66 264,-66 258,-60 258,-54 258,-54 258,-38 258,-38 258,-32 264,-26 270,-26 270,-26 338,-26 338,-26 344,-26 350,-32 350,-38 350,-38 350,-54 350,-54 350,-60 344,-66 338,-66" />
+<text text-anchor="middle" x="304" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Factor 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M224,-66C224,-66 154,-66 154,-66 148,-66 142,-60 142,-54 142,-54 142,-38 142,-38 142,-32 148,-26 154,-26 154,-26 224,-26 224,-26 230,-26 236,-32 236,-38 236,-38 236,-54 236,-54 236,-60 230,-66 224,-66" />
+<text text-anchor="middle" x="189" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Factor 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M108,-66C108,-66 38,-66 38,-66 32,-66 26,-60 26,-54 26,-54 26,-38 26,-38 26,-32 32,-26 38,-26 38,-26 108,-26 108,-26 114,-26 120,-32 120,-38 120,-38 120,-54 120,-54 120,-60 114,-66 108,-66" />
+<text text-anchor="middle" x="73" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Factor 3</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M495.5,-138C495.5,-138 398.5,-138 398.5,-138 392.5,-138 386.5,-132 386.5,-126 386.5,-126 386.5,-110 386.5,-110 386.5,-104 392.5,-98 398.5,-98 398.5,-98 495.5,-98 495.5,-98 501.5,-98 507.5,-104 507.5,-110 507.5,-110 507.5,-126 507.5,-126 507.5,-132 501.5,-138 495.5,-138" />
+<text text-anchor="middle" x="447" y="-113.6" font-family="Georgia" font-size="18.00" fill="#243d36">Company B</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M571.5,-66C571.5,-66 500.5,-66 500.5,-66 494.5,-66 488.5,-60 488.5,-54 488.5,-54 488.5,-38 488.5,-38 488.5,-32 494.5,-26 500.5,-26 500.5,-26 571.5,-26 571.5,-26 577.5,-26 583.5,-32 583.5,-38 583.5,-38 583.5,-54 583.5,-54 583.5,-60 577.5,-66 571.5,-66" />
+<text text-anchor="middle" x="536" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Factor 4</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M454,-66C454,-66 384,-66 384,-66 378,-66 372,-60 372,-54 372,-54 372,-38 372,-38 372,-32 378,-26 384,-26 384,-26 454,-26 454,-26 460,-26 466,-32 466,-38 466,-38 466,-54 466,-54 466,-60 460,-66 454,-66" />
+<text text-anchor="middle" x="419" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Factor 5</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M352,-138C352,-138 256,-138 256,-138 250,-138 244,-132 244,-126 244,-126 244,-110 244,-110 244,-104 250,-98 256,-98 256,-98 352,-98 352,-98 358,-98 364,-104 364,-110 364,-110 364,-126 364,-126 364,-132 358,-138 352,-138" />
+<text text-anchor="middle" x="304" y="-113.6" font-family="Georgia" font-size="18.00" fill="#243d36">Company C</text>
+</g>
+</g>
+</svg>

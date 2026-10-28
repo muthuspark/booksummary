@@ -24,13 +24,7 @@ Beyond the 80/20 rule, Orman emphasizes the need to prioritize essential expense
 Debt is a significant obstacle to financial freedom.  Orman advocates for an aggressive debt-reduction strategy. She strongly recommends prioritizing high-interest debt, such as credit card debt, before tackling lower-interest loans like student loans.  This approach minimizes the overall interest paid, accelerating the path to debt freedom.
 
 
-```mermaid
-graph LR
-    A["High-Interest Debt (Credit Cards)"] --> B(Pay Off First);
-    C["Lower-Interest Debt (Student Loans)"] --> D(Pay Off Second);
-    B --> E{Debt Freedom};
-    D --> E;
-```
+![Paying Off Debt: A Priority. High-Interest Debt (Credit Cards); Pay Off First; Lower-Interest Debt (Student Loans); Pay Off Second; Debt Freedom.](diagram-01.svg)
 
 
 She advocates for various debt-reduction techniques, including the snowball method (paying off the smallest debt first for psychological motivation) and the avalanche method (paying off the highest-interest debt first for maximum financial efficiency).  The choice depends on individual preferences and financial psychology.  The ultimate goal is to eliminate debt and free up resources for saving and investing.
@@ -48,15 +42,7 @@ Having this fund reduces stress and the risk of falling into deeper debt. She pr
 Once debt is under control and an emergency fund is established, Orman guides readers towards investing.  She stresses the importance of understanding risk tolerance and aligning investment strategies accordingly.  She doesn't advocate for get-rich-quick schemes but instead promotes long-term, diversified investment portfolios.
 
 
-```mermaid
-graph LR
-    A[Risk Tolerance] --> B(Investment Strategy);
-    B --> C{Long-Term Growth};
-    B --> D(Diversification);
-    D --> E[Stocks];
-    D --> F[Bonds];
-    D --> G[Mutual Funds];
-```
+![Investing for the Future:  Understanding Risk and Return. Risk Tolerance; Investment Strategy; Long-Term Growth; Diversification; Stocks; Bonds; Mutual Funds.](diagram-02.svg)
 
 She encourages readers to look at different investment options – stocks, bonds, and mutual funds – explaining the potential risks and rewards associated with each.  She emphasizes the power of compounding, highlighting the long-term benefits of consistent investing.
 

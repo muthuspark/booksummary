@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="642pt" height="262pt" viewBox="0.00 0.00 642.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">The Biology of Willpower:  The Brain's Role</title><desc id="description">Stress leads to PFC. Glucose Depletion leads to PFC. Sleep Deprivation leads to PFC. PFC leads to Reduced Willpower. Improved Habits leads to Strengthened PFC. Strengthened PFC leads to Increased Willpower.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 624,-244 624,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125.92,-132.63C162.69,-121.45 218.49,-104.49 255.21,-93.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.31,-95.56 262.29,-91.18 254.88,-90.87 256.31,-95.56" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.64,-82C346.56,-82 377.59,-82 407.9,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="408.17,-84.45 415.17,-82 408.17,-79.55 408.17,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.01,-82C203.04,-82 232.66,-82 255.15,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.19,-84.45 262.19,-82 255.19,-79.55 255.19,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.45,-40.04C187.93,-50.22 227.36,-62.2 255.49,-70.75" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.98,-73.16 262.39,-72.85 256.4,-68.47 254.98,-73.16" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.71,-206C179.55,-206 189.65,-206 199.64,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.88,-208.45 206.88,-206 199.88,-203.55 199.88,-208.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M380.11,-206C388.1,-206 396.26,-206 404.4,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="404.85,-208.45 411.85,-206 404.85,-203.55 404.85,-208.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113.5,-164C113.5,-164 61.5,-164 61.5,-164 55.5,-164 49.5,-158 49.5,-152 49.5,-152 49.5,-136 49.5,-136 49.5,-130 55.5,-124 61.5,-124 61.5,-124 113.5,-124 113.5,-124 119.5,-124 125.5,-130 125.5,-136 125.5,-136 125.5,-152 125.5,-152 125.5,-158 119.5,-164 113.5,-164" />
+<text text-anchor="middle" x="87.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312.5,-102C312.5,-102 274.5,-102 274.5,-102 268.5,-102 262.5,-96 262.5,-90 262.5,-90 262.5,-74 262.5,-74 262.5,-68 268.5,-62 274.5,-62 274.5,-62 312.5,-62 312.5,-62 318.5,-62 324.5,-68 324.5,-74 324.5,-74 324.5,-90 324.5,-90 324.5,-96 318.5,-102 312.5,-102" />
+<text text-anchor="middle" x="293.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">PFC</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-102C163,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 163,-62 163,-62 169,-62 175,-68 175,-74 175,-74 175,-90 175,-90 175,-96 169,-102 163,-102" />
+<text text-anchor="middle" x="87.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Glucose Depletion</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161.5,-40C161.5,-40 13.5,-40 13.5,-40 7.5,-40 1.5,-34 1.5,-28 1.5,-28 1.5,-12 1.5,-12 1.5,-6 7.5,0 13.5,0 13.5,0 161.5,0 161.5,0 167.5,0 173.5,-6 173.5,-12 173.5,-12 173.5,-28 173.5,-28 173.5,-34 167.5,-40 161.5,-40" />
+<text text-anchor="middle" x="87.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sleep Deprivation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M590.5,-102C590.5,-102 427.5,-102 427.5,-102 421.5,-102 415.5,-96 415.5,-90 415.5,-90 415.5,-74 415.5,-74 415.5,-68 421.5,-62 427.5,-62 427.5,-62 590.5,-62 590.5,-62 596.5,-62 602.5,-68 602.5,-74 602.5,-74 602.5,-90 602.5,-90 602.5,-96 596.5,-102 590.5,-102" />
+<text text-anchor="middle" x="509" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Willpower</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157.5,-226C157.5,-226 17.5,-226 17.5,-226 11.5,-226 5.5,-220 5.5,-214 5.5,-214 5.5,-198 5.5,-198 5.5,-192 11.5,-186 17.5,-186 17.5,-186 157.5,-186 157.5,-186 163.5,-186 169.5,-192 169.5,-198 169.5,-198 169.5,-214 169.5,-214 169.5,-220 163.5,-226 157.5,-226" />
+<text text-anchor="middle" x="87.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Habits</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M368,-226C368,-226 219,-226 219,-226 213,-226 207,-220 207,-214 207,-214 207,-198 207,-198 207,-192 213,-186 219,-186 219,-186 368,-186 368,-186 374,-186 380,-192 380,-198 380,-198 380,-214 380,-214 380,-220 374,-226 368,-226" />
+<text text-anchor="middle" x="293.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengthened PFC</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M594,-226C594,-226 424,-226 424,-226 418,-226 412,-220 412,-214 412,-214 412,-198 412,-198 412,-192 418,-186 424,-186 424,-186 594,-186 594,-186 600,-186 606,-192 606,-198 606,-198 606,-214 606,-214 606,-220 600,-226 594,-226" />
+<text text-anchor="middle" x="509" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Willpower</text>
+</g>
+</g>
+</svg>

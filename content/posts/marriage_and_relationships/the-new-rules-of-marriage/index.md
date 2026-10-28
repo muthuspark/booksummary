@@ -16,13 +16,7 @@ Real argues that healthy relationships begin with healthy individuals.  We often
 
 This self-awareness requires introspection, honest self-reflection, and possibly professional help.  Understanding our own patterns of relating—how we react to conflict, how we express our needs, and how we handle emotions—is important for changing dysfunctional patterns.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Understanding Patterns);
-B --> C{Honest Self-Reflection};
-C --> D[Addressing Shadow Self];
-D --> E(Improved Relationships);
-```
+![Facing the Shadow Self: The Importance of Self-Awareness. Self-Awareness; Understanding Patterns; Honest Self-Reflection; Addressing Shadow Self; Improved Relationships.](diagram-01.svg)
 
 ### The Myth of "Fairness": Shifting Towards Responsibility
 
@@ -46,13 +40,7 @@ Many couples avoid conflict, fearing it will damage their relationship.  However
 
 Effective communication extends beyond just talking; it involves truly listening, understanding nonverbal cues, and validating your partner's feelings.  Real emphasizes the importance of empathy and compassion in understanding your partner's perspective, even when you don't agree with it.  This fosters a sense of safety and encourages open communication.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Understanding Nonverbal Cues);
-B --> C(Empathy & Compassion);
-C --> D(Validating Feelings);
-D --> E[Effective Communication];
-```
+![The Importance of Communication: Beyond Words. Active Listening; Understanding Nonverbal Cues; Empathy & Compassion; Validating Feelings; Effective Communication.](diagram-02.svg)
 
 ###  Men's and Women's Different Needs:  Navigating Gender Dynamics
 

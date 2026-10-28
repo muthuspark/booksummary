@@ -22,12 +22,7 @@ This practice emphasizes leading by example. Exemplary leaders align actions wit
 * **Living the Values:** Consistently acting in accordance with those values, showing integrity and authenticity.
 * **Setting the Example:** Demonstrating the desired behaviors and attitudes, inspiring others to follow suit.
 
-```mermaid
-graph LR
-    A[Clarity of Values] --> B(Living the Values);
-    B --> C(Setting the Example);
-    C --> D[Modeling the Way];
-```
+![Modeling the Way. Clarity of Values; Living the Values; Setting the Example; Modeling the Way.](diagram-01.svg)
 
 ### Inspiring a Shared Vision
 
@@ -37,12 +32,7 @@ Leaders need to articulate a compelling vision that inspires and motivates other
 * **Enhancing the Vision:**  Communicating the vision in a way that resonates with people's values and aspirations.
 * **Building Enthusiasm:**  Instilling a sense of excitement and shared purpose among team members.
 
-```mermaid
-graph LR
-    A[Envisioning the Future] --> B(Enhancing the Vision);
-    B --> C(Building Enthusiasm);
-    C --> D[Inspiring a Shared Vision];
-```
+![Inspiring a Shared Vision. Envisioning the Future; Enhancing the Vision; Building Enthusiasm; Inspiring a Shared Vision.](diagram-02.svg)
 
 ### Challenging the Process
 
@@ -52,12 +42,7 @@ Exemplary leaders are not afraid to take risks, experiment, and learn from failu
 * **Experimenting and Taking Risks:**  Being willing to try new things, even if it means facing potential setbacks.
 * **Learning from Mistakes:**  Viewing failures as learning opportunities and adapting strategies accordingly.
 
-```mermaid
-graph LR
-    A[Searching for Opportunities] --> B(Experimenting and Taking Risks);
-    B --> C(Learning from Mistakes);
-    C --> D[Challenging the Process];
-```
+![Challenging the Process. Searching for Opportunities; Experimenting and Taking Risks; Learning from Mistakes; Challenging the Process.](diagram-03.svg)
 
 
 ### Enabling Others to Act
@@ -69,12 +54,7 @@ Effective leaders foster collaboration, trust, and mutual respect in their team 
 * **Promoting Collaboration:**  Encouraging teamwork and shared responsibility.
 
 
-```mermaid
-graph LR
-    A[Fostering Collaboration] --> B(Strengthening Others);
-    B --> C(Promoting Collaboration);
-    C --> D[Enabling Others to Act];
-```
+![Enabling Others to Act. Fostering Collaboration; Strengthening Others; Promoting Collaboration; Enabling Others to Act.](diagram-04.svg)
 
 
 ### Encouraging the Heart
@@ -85,12 +65,7 @@ This practice focuses on recognizing and appreciating contributions, building re
 * **Creating a Positive Climate:**  Building a supportive and encouraging work environment.
 * **Building Relationships:**  Developing strong, positive relationships with team members.
 
-```mermaid
-graph LR
-    A[Celebrating Accomplishments] --> B(Creating a Positive Climate);
-    B --> C(Building Relationships);
-    C --> D[Encouraging the Heart];
-```
+![Encouraging the Heart. Celebrating Accomplishments; Creating a Positive Climate; Building Relationships; Encouraging the Heart.](diagram-05.svg)
 
 
 ## Actionable Strategies

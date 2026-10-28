@@ -19,13 +19,7 @@ Effective communication is repeatedly highlighted as the bedrock of a healthy ma
 
 They offer practical strategies for improving communication.  This includes scheduling regular "date nights" for uninterrupted quality time, learning to express needs and feelings constructively without blame or criticism, and practicing empathy to understand each other's viewpoints. The book stresses the significance of avoiding destructive patterns like stonewalling, defensiveness, and contempt, as identified in Gottman's research.
 
-```mermaid
-graph LR
-A[Effective Communication] --> B(Active Listening);
-A --> C(Constructive Expression);
-A --> D(Empathy);
-A --> E{Avoid Stonewalling, Defensiveness, Contempt};
-```
+![Communication: The Cornerstone of a Strong Marriage. Effective Communication; Active Listening; Constructive Expression; Empathy; Avoid Stonewalling, Defensiveness, Contempt.](diagram-01.svg)
 
 # Conflict Resolution: Navigating Disagreements
 
@@ -40,13 +34,7 @@ The book emphasizes the importance of recognizing and respecting individual diff
 
 The Lees encourage self-reflection, urging individuals to understand their own needs, expectations, and communication styles.  They suggest exploring the concept of "love languages" – the different ways individuals express and experience love – to ensure both partners feel appreciated and understood.
 
-```mermaid
-graph LR
-A[Understanding Individual Needs] --> B(Self-Reflection);
-A --> C(Love Languages);
-A --> D(Respecting Differences);
-A --> E(Effective Communication);
-```
+![Understanding Individual Needs and Differences. Understanding Individual Needs; Self-Reflection; Love Languages; Respecting Differences; Effective Communication.](diagram-02.svg)
 
 
 # Shared Vision and Goals: Building a Shared Future

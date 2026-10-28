@@ -21,13 +21,7 @@ Relationships often get trapped in negative interaction cycles. These are predic
 * **The Blame-Dismiss Cycle:** One partner blames the other for problems, leading the other to dismiss the concerns, causing a build-up of resentment and disconnection.
 
 
-```mermaid
-graph LR
-A[Pursuer] --> B(Increased Demands);
-B --> C[Distancer];
-C --> D(Withdrawal);
-D --> A;
-```
+![Identifying the Negative Cycles. Pursuer; Increased Demands; Distancer; Withdrawal.](diagram-01.svg)
 
 These cycles are not about individual fault but rather about unmet needs and emotional disconnection. Identifying your cycle is the first step towards breaking free.
 
@@ -67,13 +61,7 @@ The process of re-establishing emotional connection involves many steps:
 5. **Consolidating New Patterns:**  Creating new, healthier interaction patterns that strengthen emotional connection and intimacy.
 
 
-```mermaid
-graph LR
-A[Identify Cycle] --> B(Access Emotions);
-B --> C[Understand Partner];
-C --> D(Reframe Interaction);
-D --> E[Consolidate New Patterns];
-```
+![Re-establishing Emotional Connection. Identify Cycle; Access Emotions; Understand Partner; Reframe Interaction; Consolidate New Patterns.](diagram-02.svg)
 
 
 ##  Working with Difficult Emotions

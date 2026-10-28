@@ -26,19 +26,7 @@ Harley identifies ten primary emotional needs for men within the context of marr
 * **Spiritual Intimacy:** Sharing common values and beliefs create a deeper emotional connection.
 
 
-```mermaid
-graph LR
-    A[His Needs] --> B(Sexual Fulfillment);
-    A --> C(Recreational Companionship);
-    A --> D(Attractive Spouse);
-    A --> E(Domestic Support);
-    A --> F(Admiration);
-    A --> G(Approval);
-    A --> H(Trust);
-    A --> I(Affection);
-    A --> J(Conversation);
-    A --> K(Spiritual Intimacy);
-```
+![His Needs: The Masculine Perspective. His Needs; Sexual Fulfillment; Recreational Companionship; Attractive Spouse; Domestic Support; Admiration; Approval; Trust; Affection; Conversation; Spiritual Intimacy.](diagram-01.svg)
 
 # Her Needs: The Feminine Perspective
 
@@ -56,19 +44,7 @@ Similarly, Harley outlines ten primary emotional needs for women:
 * **Spiritual Intimacy:** Sharing spiritual values and beliefs.
 
 
-```mermaid
-graph LR
-    A[Her Needs] --> B(Affection);
-    A --> C(Conversation);
-    A --> D(Honesty & Openness);
-    A --> E(Financial Security);
-    A --> F(Family Commitment);
-    A --> G(Homemaking Support);
-    A --> H(Romantic Gestures);
-    A --> I(Household Help);
-    A --> J(Friendship);
-    A --> K(Spiritual Intimacy);
-```
+![Her Needs: The Feminine Perspective. Her Needs; Affection; Conversation; Honesty & Openness; Financial Security; Family Commitment; Homemaking Support; Romantic Gestures; Household Help; Friendship; Spiritual Intimacy.](diagram-02.svg)
 
 
 # Bridging the Gap:  Understanding the Differences

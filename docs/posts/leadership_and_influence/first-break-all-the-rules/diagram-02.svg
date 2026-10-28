@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="488pt" height="178pt" viewBox="0.00 0.00 488.00 178.00" role="img" aria-labelledby="title description">
+<title id="title">Talent vs. Skill: The Distinction</title><desc id="description">Talent (Natural Aptitudes) leads to Strengths. Skill (Learned Abilities) leads to Strengths. Strengths leads to Performance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 160)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-160 470,-160 470,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152.3,-92.46C160.45,-90.34 168.66,-88.21 176.57,-86.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.58,-88.43 183.74,-84.3 176.35,-83.69 177.58,-88.43" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.35,-71C296.15,-71 304.32,-71 312.46,-71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="312.93,-73.45 319.93,-71 312.93,-68.55 312.93,-73.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.76,-48.1C156.74,-50.69 166.92,-53.33 176.65,-55.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.25,-58.29 183.64,-57.67 177.48,-53.54 176.25,-58.29" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M140,-142C140,-142 12,-142 12,-142 6,-142 0,-136 0,-130 0,-130 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 140,-82 140,-82 146,-82 152,-88 152,-94 152,-94 152,-130 152,-130 152,-136 146,-142 140,-142" />
+<text text-anchor="middle" x="76" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Talent (Natural</text>
+<text text-anchor="middle" x="76" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aptitudes)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-91C276,-91 196,-91 196,-91 190,-91 184,-85 184,-79 184,-79 184,-63 184,-63 184,-57 190,-51 196,-51 196,-51 276,-51 276,-51 282,-51 288,-57 288,-63 288,-63 288,-79 288,-79 288,-85 282,-91 276,-91" />
+<text text-anchor="middle" x="236" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengths</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134.5,-60C134.5,-60 17.5,-60 17.5,-60 11.5,-60 5.5,-54 5.5,-48 5.5,-48 5.5,-12 5.5,-12 5.5,-6 11.5,0 17.5,0 17.5,0 134.5,0 134.5,0 140.5,0 146.5,-6 146.5,-12 146.5,-12 146.5,-48 146.5,-48 146.5,-54 140.5,-60 134.5,-60" />
+<text text-anchor="middle" x="76" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill (Learned</text>
+<text text-anchor="middle" x="76" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Abilities)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M440,-91C440,-91 332,-91 332,-91 326,-91 320,-85 320,-79 320,-79 320,-63 320,-63 320,-57 326,-51 332,-51 332,-51 440,-51 440,-51 446,-51 452,-57 452,-63 452,-63 452,-79 452,-79 452,-85 446,-91 440,-91" />
+<text text-anchor="middle" x="386" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance</text>
+</g>
+</g>
+</svg>

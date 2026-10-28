@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200pt" height="508pt" viewBox="0.00 0.00 200.00 508.00" role="img" aria-labelledby="title description">
+<title id="title">Baby Step 2: Debt Snowball</title><desc id="description">Debt 1 (Smallest) leads to Pay Off. Pay Off leads to Debt 2. Debt 2 leads to Pay Off. Pay Off leads to Debt 3. Debt 3 leads to Pay Off. Pay Off leads to Debt Free!.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 490)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-490 182,-490 182,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M82,-431.87C82,-424.31 82,-415.49 82,-407.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.45,-407.1 82,-400.1 79.55,-407.1 84.45,-407.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M82,-359.87C82,-352.31 82,-343.49 82,-335.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.45,-335.1 82,-328.1 79.55,-335.1 84.45,-335.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M82,-287.87C82,-280.31 82,-271.49 82,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.45,-263.1 82,-256.1 79.55,-263.1 84.45,-263.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M82,-215.87C82,-208.31 82,-199.49 82,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.45,-191.1 82,-184.1 79.55,-191.1 84.45,-191.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M82,-143.87C82,-136.31 82,-127.49 82,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.45,-119.1 82,-112.1 79.55,-119.1 84.45,-119.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M82,-71.87C82,-64.31 82,-55.49 82,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="84.45,-47.1 82,-40.1 79.55,-47.1 84.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-472C152,-472 12,-472 12,-472 6,-472 0,-466 0,-460 0,-460 0,-444 0,-444 0,-438 6,-432 12,-432 12,-432 152,-432 152,-432 158,-432 164,-438 164,-444 164,-444 164,-460 164,-460 164,-466 158,-472 152,-472" />
+<text text-anchor="middle" x="82" y="-447.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt 1 (Smallest)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M114,-400C114,-400 50,-400 50,-400 44,-400 38,-394 38,-388 38,-388 38,-372 38,-372 38,-366 44,-360 50,-360 50,-360 114,-360 114,-360 120,-360 126,-366 126,-372 126,-372 126,-388 126,-388 126,-394 120,-400 114,-400" />
+<text text-anchor="middle" x="82" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Off</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M110.5,-328C110.5,-328 53.5,-328 53.5,-328 47.5,-328 41.5,-322 41.5,-316 41.5,-316 41.5,-300 41.5,-300 41.5,-294 47.5,-288 53.5,-288 53.5,-288 110.5,-288 110.5,-288 116.5,-288 122.5,-294 122.5,-300 122.5,-300 122.5,-316 122.5,-316 122.5,-322 116.5,-328 110.5,-328" />
+<text text-anchor="middle" x="82" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M114,-256C114,-256 50,-256 50,-256 44,-256 38,-250 38,-244 38,-244 38,-228 38,-228 38,-222 44,-216 50,-216 50,-216 114,-216 114,-216 120,-216 126,-222 126,-228 126,-228 126,-244 126,-244 126,-250 120,-256 114,-256" />
+<text text-anchor="middle" x="82" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Off</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M110.5,-184C110.5,-184 53.5,-184 53.5,-184 47.5,-184 41.5,-178 41.5,-172 41.5,-172 41.5,-156 41.5,-156 41.5,-150 47.5,-144 53.5,-144 53.5,-144 110.5,-144 110.5,-144 116.5,-144 122.5,-150 122.5,-156 122.5,-156 122.5,-172 122.5,-172 122.5,-178 116.5,-184 110.5,-184" />
+<text text-anchor="middle" x="82" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt 3</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M114,-112C114,-112 50,-112 50,-112 44,-112 38,-106 38,-100 38,-100 38,-84 38,-84 38,-78 44,-72 50,-72 50,-72 114,-72 114,-72 120,-72 126,-78 126,-84 126,-84 126,-100 126,-100 126,-106 120,-112 114,-112" />
+<text text-anchor="middle" x="82" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Off</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M126.5,-40C126.5,-40 37.5,-40 37.5,-40 31.5,-40 25.5,-34 25.5,-28 25.5,-28 25.5,-12 25.5,-12 25.5,-6 31.5,0 37.5,0 37.5,0 126.5,0 126.5,0 132.5,0 138.5,-6 138.5,-12 138.5,-12 138.5,-28 138.5,-28 138.5,-34 132.5,-40 126.5,-40" />
+<text text-anchor="middle" x="82" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Free!</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242pt" height="364pt" viewBox="0.00 0.00 242.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Connecting with Nature and Spirituality</title><desc id="description">Self-Reflection leads to Values &amp; Aspirations. Values &amp; Aspirations leads to Meaningful Goals. Meaningful Goals leads to Intentional Living. Intentional Living leads to Fulfillment &amp; Purpose.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 224,-346 224,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-287.87C103,-280.31 103,-271.49 103,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-263.1 103,-256.1 100.55,-263.1 105.45,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-215.87C103,-208.31 103,-199.49 103,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-191.1 103,-184.1 100.55,-191.1 105.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-143.87C103,-136.31 103,-127.49 103,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-119.1 103,-112.1 100.55,-119.1 105.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-71.87C103,-64.31 103,-55.49 103,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-47.1 103,-40.1 100.55,-47.1 105.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164.5,-328C164.5,-328 41.5,-328 41.5,-328 35.5,-328 29.5,-322 29.5,-316 29.5,-316 29.5,-300 29.5,-300 29.5,-294 35.5,-288 41.5,-288 41.5,-288 164.5,-288 164.5,-288 170.5,-288 176.5,-294 176.5,-300 176.5,-300 176.5,-316 176.5,-316 176.5,-322 170.5,-328 164.5,-328" />
+<text text-anchor="middle" x="103" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-256C188,-256 18,-256 18,-256 12,-256 6,-250 6,-244 6,-244 6,-228 6,-228 6,-222 12,-216 18,-216 18,-216 188,-216 188,-216 194,-216 200,-222 200,-228 200,-228 200,-244 200,-244 200,-250 194,-256 188,-256" />
+<text text-anchor="middle" x="103" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values &amp; Aspirations</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175.5,-184C175.5,-184 30.5,-184 30.5,-184 24.5,-184 18.5,-178 18.5,-172 18.5,-172 18.5,-156 18.5,-156 18.5,-150 24.5,-144 30.5,-144 30.5,-144 175.5,-144 175.5,-144 181.5,-144 187.5,-150 187.5,-156 187.5,-156 187.5,-172 187.5,-172 187.5,-178 181.5,-184 175.5,-184" />
+<text text-anchor="middle" x="103" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Goals</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176.5,-112C176.5,-112 29.5,-112 29.5,-112 23.5,-112 17.5,-106 17.5,-100 17.5,-100 17.5,-84 17.5,-84 17.5,-78 23.5,-72 29.5,-72 29.5,-72 176.5,-72 176.5,-72 182.5,-72 188.5,-78 188.5,-84 188.5,-84 188.5,-100 188.5,-100 188.5,-106 182.5,-112 176.5,-112" />
+<text text-anchor="middle" x="103" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intentional Living</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M194,-40C194,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 194,0 194,0 200,0 206,-6 206,-12 206,-12 206,-28 206,-28 206,-34 200,-40 194,-40" />
+<text text-anchor="middle" x="103" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fulfillment &amp; Purpose</text>
+</g>
+</g>
+</svg>

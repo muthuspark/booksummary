@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="429pt" height="262pt" viewBox="0.00 0.00 429.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Financing Your Investments</title><desc id="description">Financing Options leads to Conventional Loans. Financing Options leads to FHA Loans. Financing Options leads to Hard Money Loans. Financing Options leads to Private Money.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 411,-244 411,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123.32,-133.07C146.56,-146 178.07,-162.65 207,-175 213.88,-177.94 221.15,-180.79 228.45,-183.5" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.75,-185.85 235.16,-185.94 229.42,-181.24 227.75,-185.85" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.03,-125.74C194.55,-128.62 214.96,-131.62 233.45,-134.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.43,-136.82 240.71,-135.42 234.14,-131.97 233.43,-136.82" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.03,-100.26C183.8,-98.97 192.75,-97.65 201.62,-96.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.15,-98.74 208.71,-95.3 201.43,-93.89 202.15,-98.74" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123.32,-92.93C146.56,-80 178.07,-63.35 207,-51 213.88,-48.06 221.15,-45.21 228.45,-42.5" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.42,-44.76 235.16,-40.06 227.75,-40.15 229.42,-44.76" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-133C163,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 163,-93 163,-93 169,-93 175,-99 175,-105 175,-105 175,-121 175,-121 175,-127 169,-133 163,-133" />
+<text text-anchor="middle" x="87.5" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financing Options</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M381,-226C381,-226 219,-226 219,-226 213,-226 207,-220 207,-214 207,-214 207,-198 207,-198 207,-192 213,-186 219,-186 219,-186 381,-186 381,-186 387,-186 393,-192 393,-198 393,-198 393,-214 393,-214 393,-220 387,-226 381,-226" />
+<text text-anchor="middle" x="300" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conventional Loans</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M347,-164C347,-164 253,-164 253,-164 247,-164 241,-158 241,-152 241,-152 241,-136 241,-136 241,-130 247,-124 253,-124 253,-124 347,-124 347,-124 353,-124 359,-130 359,-136 359,-136 359,-152 359,-152 359,-158 353,-164 347,-164" />
+<text text-anchor="middle" x="300" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">FHA Loans</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M379,-102C379,-102 221,-102 221,-102 215,-102 209,-96 209,-90 209,-90 209,-74 209,-74 209,-68 215,-62 221,-62 221,-62 379,-62 379,-62 385,-62 391,-68 391,-74 391,-74 391,-90 391,-90 391,-96 385,-102 379,-102" />
+<text text-anchor="middle" x="300" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hard Money Loans</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M360.5,-40C360.5,-40 239.5,-40 239.5,-40 233.5,-40 227.5,-34 227.5,-28 227.5,-28 227.5,-12 227.5,-12 227.5,-6 233.5,0 239.5,0 239.5,0 360.5,0 360.5,0 366.5,0 372.5,-6 372.5,-12 372.5,-12 372.5,-28 372.5,-28 372.5,-34 366.5,-40 360.5,-40" />
+<text text-anchor="middle" x="300" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Private Money</text>
+</g>
+</g>
+</svg>

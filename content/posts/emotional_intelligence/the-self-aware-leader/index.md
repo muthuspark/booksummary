@@ -22,15 +22,7 @@ The book outlines six distinct leadership styles, each with its own neural corre
 * **Commanding:**  Directing and controlling through clear instructions.  While effective in crisis situations, overuse can lead to resentment and decreased morale. This style also activates the amygdala.
 
 
-```mermaid
-graph LR
-A[Visionary] --> B(Reward Pathways)
-C[Coaching] --> D(Learning & Self-Efficacy)
-E[Affiliative] --> F(Social Bonding)
-G[Democratic] --> H(Cognitive Flexibility)
-I[Pacesetting] --> J(Amygdala - Fear)
-K[Commanding] --> L(Amygdala - Fear)
-```
+![The Six Leadership Styles and Their Neural Underpinnings. Visionary; Reward Pathways; Coaching; Learning & Self-Efficacy; Affiliative; Social Bonding; Democratic; Cognitive Flexibility; Pacesetting; Amygdala - Fear; Commanding; Amygdala - Fear.](diagram-01.svg)
 
 The authors stress the importance of *flexibility* in leadership style, adapting one's approach based on the specific context and needs of the situation and team members.  Over-reliance on a single style, especially the pacesetting or commanding styles, can be detrimental to team morale and long-term success.
 

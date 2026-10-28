@@ -23,13 +23,7 @@ It's about aligning your thoughts, words, and actions.  Lying, gossiping, judgin
 * **Avoid gossip and judgment:**  Refrain from spreading negativity and focus on constructive communication.
 * **Commit to honesty:**  Be truthful in your interactions, even when difficult.
 
-```mermaid
-graph LR
-A[Inner Dialogue] --> B(Self-Awareness);
-B --> C{Kind Words};
-C --> D[Respectful Communication];
-D --> E(Honest Interactions);
-```
+![The First Agreement: Be Impeccable with Your Word. Inner Dialogue; Self-Awareness; Kind Words; Respectful Communication; Honest Interactions.](diagram-01.svg)
 
 
 # The Second Agreement: Don't Take Anything Personally
@@ -43,13 +37,7 @@ This agreement addresses the emotional burdens we carry by taking things persona
 * **Practice self-compassion:** Treat yourself with kindness and understanding, even when facing criticism or negativity.
 * **Focus on your own journey:**  Don't get bogged down in others' opinions or actions.
 
-```mermaid
-graph LR
-A[Other's Actions] --> B(Their Reality);
-B --> C{Your Response};
-C --> D[Detach Emotionally];
-D --> E(Focus on Self);
-```
+![The Second Agreement: Don't Take Anything Personally. Other's Actions; Their Reality; Your Response; Detach Emotionally; Focus on Self.](diagram-02.svg)
 
 # The Third Agreement: Don't Make Assumptions
 
@@ -62,14 +50,7 @@ Assumptions are the root of much misunderstanding and conflict.  Ruiz stresses t
 * **Avoid mind-reading:** Avoid assuming another's thoughts or intentions.
 * **Embrace uncertainty:**  Accept that you cannot always know the full truth, and that's okay.
 
-```mermaid
-graph LR
-A[Unclear Situation] --> B{Assumption};
-B --> C[Misunderstanding];
-C --> D(Conflict);
-D --> E[Ask Questions];
-E --> F(Clear Communication);
-```
+![The Third Agreement: Don't Make Assumptions. Unclear Situation; Assumption; Misunderstanding; Conflict; Ask Questions; Clear Communication.](diagram-03.svg)
 
 # The Fourth Agreement: Always Do Your Best
 
@@ -82,13 +63,7 @@ This agreement emphasizes the importance of striving for excellence in all aspec
 * **Practice self-compassion:** Be kind to yourself when you fall short of expectations.
 * **Celebrate your progress:** Appreciate your achievements, no matter how small.
 
-```mermaid
-graph LR
-A[Present Moment] --> B{Effort};
-B --> C[Best Ability];
-C --> D(Self-Compassion);
-D --> E(Celebrate Progress);
-```
+![The Fourth Agreement: Always Do Your Best. Present Moment; Effort; Best Ability; Self-Compassion; Celebrate Progress.](diagram-04.svg)
 
 # Overcoming Domestication: The Toltec Perspective
 

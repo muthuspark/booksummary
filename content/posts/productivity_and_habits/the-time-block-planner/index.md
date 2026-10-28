@@ -22,11 +22,7 @@ The core of Newport's methodology is time blocking – scheduling specific block
 
 Deep work blocks should be scheduled strategically. Consider your peak energy levels.  Are you a morning person or a night owl? Schedule your most demanding tasks for when you're most alert and focused.  This maximization of cognitive function is key to the system's success.
 
-```mermaid
-graph LR
-    A[Peak Energy] --> B(Deep Work Block);
-    C[Low Energy] --> D(Shallow Work/Admin);
-```
+![Prioritizing Deep Work Blocks. Peak Energy; Deep Work Block; Low Energy; Shallow Work/Admin.](diagram-01.svg)
 
 ## The Scheduling Process: A Step-by-Step Guide
 
@@ -50,12 +46,7 @@ While structure is essential, the book acknowledges the inevitability of unexpec
 Deep work isn't about focus; it's about focused bursts interspersed with planned breaks. The book suggests utilizing these breaks mindfully – engaging in activities that foster relaxation and mental restoration, rather than passively scrolling through social media. High-quality breaks fuel deeper work sessions.
 
 
-```mermaid
-graph LR
-    A[Deep Work Block] --> B{Break};
-    B --> C[Refreshed & Ready];
-    C --> A;
-```
+![The Importance of High-Quality Breaks. Deep Work Block; Break; Refreshed & Ready.](diagram-02.svg)
 
 ##  The Role of Self-Knowledge: Understanding Your Peak Performance Times
 

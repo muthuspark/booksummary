@@ -15,14 +15,7 @@ author: "Jim Loehr and Tony Schwartz"
 
 The authors challenge the prevalent belief that sustained high performance depends primarily on willpower.  They argue this is a flawed model, leading to burnout and ultimately diminished performance. Instead, they propose an "energy model" centered around four key pillars: physical, emotional, mental, and spiritual.  Sustained high performance relies on proactively managing and replenishing energy in each of these domains.  Neglecting any one leads to an overall decline in capacity.
 
-```mermaid
-graph LR
-    A[Physical] --> B(Energy);
-    C[Emotional] --> B;
-    D[Mental] --> B;
-    E[Spiritual] --> B;
-    B --> F[High Performance];
-```
+![The Myth of Willpower and the Energy Model. Physical; Energy; Emotional; Mental; Spiritual; High Performance.](diagram-01.svg)
 
 # The Four Pillars of Energy Management
 
@@ -51,11 +44,7 @@ Spiritual energy, according to the authors, doesn't necessarily refer to religio
 
 Central to the book's message is the importance of incorporating *rhythms* into one's life – intentional cycles of high engagement followed by periods of recovery and renewal.  This cyclical approach, the authors argue, is essential for sustained high performance.  Pushing oneself to the limit without adequate recovery leads to burnout, while neglecting periods of intense focus prevents achieving peak performance.
 
-```mermaid
-graph LR
-A[High Engagement] --> B(Renewal);
-B --> A;
-```
+![The Power of Rhythms:  The Importance of Renewal. High Engagement; Renewal.](diagram-02.svg)
 
 The authors recommend structuring days, weeks, and even years according to this rhythm, prioritizing both high-intensity work periods and deliberate downtime.  The key is finding a balance that works for each individual, constantly adjusting the rhythm based on personal needs and circumstances.
 

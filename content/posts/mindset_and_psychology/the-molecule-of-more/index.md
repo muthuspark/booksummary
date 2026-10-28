@@ -16,15 +16,7 @@ The book "The Molecule of More" explores the powerful influence of dopamine, a n
 
 The authors detail the complex feedback loops within the dopamine system.  Positive experiences trigger dopamine release, reinforcing behaviors that lead to those experiences. This creates a cycle of reward and repetition.  Conversely,  negative experiences or the absence of expected rewards can lead to dopamine dips, resulting in disappointment, frustration, and potentially addictive behaviors as we seek to restore dopamine levels.  Understanding this system is key to managing our desires and avoiding pitfalls.
 
-```mermaid
-graph LR
-    A[Positive Experience] --> B(Dopamine Release);
-    B --> C[Reinforced Behavior];
-    C --> A;
-    D[Negative Experience] --> E(Dopamine Dip);
-    E --> F[Seeking Behavior];
-    F --> D;
-```
+![The Dopamine System and its Feedback Loops. Positive Experience; Dopamine Release; Reinforced Behavior; Negative Experience; Dopamine Dip; Seeking Behavior.](diagram-01.svg)
 
 # The Problem of "More": The Pursuit of Perpetual Reward
 

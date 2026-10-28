@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530pt" height="148pt" viewBox="0.00 0.00 529.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Rule #1: Work Deeply</title><desc id="description">Choose a Philosophy leads to Monastic. Choose a Philosophy leads to Bimodal. Choose a Philosophy leads to Rhythmic. Choose a Philosophy leads to Journalistic.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 511.5,-130 511.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M183.49,-71.87C159.89,-62.84 131.62,-52.03 107.22,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.86,-40.32 100.45,-40.1 106.11,-44.89 107.86,-40.32" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M216.56,-71.87C209.31,-63.69 200.77,-54.05 193.08,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.9,-43.72 188.42,-40.1 191.23,-46.97 194.9,-43.72" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M250.44,-71.87C257.69,-63.69 266.23,-54.05 273.92,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.77,-46.97 278.58,-40.1 272.1,-43.72 275.77,-46.97" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M287.61,-71.96C313.61,-62.82 344.86,-51.83 371.68,-42.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="372.61,-44.67 378.4,-40.03 370.98,-40.04 372.61,-44.67" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M318.5,-112C318.5,-112 148.5,-112 148.5,-112 142.5,-112 136.5,-106 136.5,-100 136.5,-100 136.5,-84 136.5,-84 136.5,-78 142.5,-72 148.5,-72 148.5,-72 318.5,-72 318.5,-72 324.5,-72 330.5,-78 330.5,-84 330.5,-84 330.5,-100 330.5,-100 330.5,-106 324.5,-112 318.5,-112" />
+<text text-anchor="middle" x="233.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose a Philosophy</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M89,-40C89,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 89,0 89,0 95,0 101,-6 101,-12 101,-12 101,-28 101,-28 101,-34 95,-40 89,-40" />
+<text text-anchor="middle" x="50.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Monastic</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M207.5,-40C207.5,-40 135.5,-40 135.5,-40 129.5,-40 123.5,-34 123.5,-28 123.5,-28 123.5,-12 123.5,-12 123.5,-6 129.5,0 135.5,0 135.5,0 207.5,0 207.5,0 213.5,0 219.5,-6 219.5,-12 219.5,-12 219.5,-28 219.5,-28 219.5,-34 213.5,-40 207.5,-40" />
+<text text-anchor="middle" x="171.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bimodal</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M337,-40C337,-40 254,-40 254,-40 248,-40 242,-34 242,-28 242,-28 242,-12 242,-12 242,-6 248,0 254,0 254,0 337,0 337,0 343,0 349,-6 349,-12 349,-12 349,-28 349,-28 349,-34 343,-40 337,-40" />
+<text text-anchor="middle" x="295.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rhythmic</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M481.5,-40C481.5,-40 383.5,-40 383.5,-40 377.5,-40 371.5,-34 371.5,-28 371.5,-28 371.5,-12 371.5,-12 371.5,-6 377.5,0 383.5,0 383.5,0 481.5,0 481.5,0 487.5,0 493.5,-6 493.5,-12 493.5,-12 493.5,-28 493.5,-28 493.5,-34 487.5,-40 481.5,-40" />
+<text text-anchor="middle" x="432.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Journalistic</text>
+</g>
+</g>
+</svg>

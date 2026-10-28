@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267pt" height="364pt" viewBox="0.00 0.00 267.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Learning from Mistakes: A Growth Mindset</title><desc id="description">Mistake leads to Analysis. Analysis leads to Understanding Causes. Understanding Causes leads to Corrective Measures. Corrective Measures leads to Learning &amp; Improvement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 249,-346 249,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.5,-287.87C115.5,-280.31 115.5,-271.49 115.5,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.95,-263.1 115.5,-256.1 113.05,-263.1 117.95,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.5,-215.87C115.5,-208.31 115.5,-199.49 115.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.95,-191.1 115.5,-184.1 113.05,-191.1 117.95,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.5,-143.87C115.5,-136.31 115.5,-127.49 115.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.95,-119.1 115.5,-112.1 113.05,-119.1 117.95,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.5,-71.87C115.5,-64.31 115.5,-55.49 115.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.95,-47.1 115.5,-40.1 113.05,-47.1 117.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149.5,-328C149.5,-328 81.5,-328 81.5,-328 75.5,-328 69.5,-322 69.5,-316 69.5,-316 69.5,-300 69.5,-300 69.5,-294 75.5,-288 81.5,-288 81.5,-288 149.5,-288 149.5,-288 155.5,-288 161.5,-294 161.5,-300 161.5,-300 161.5,-316 161.5,-316 161.5,-322 155.5,-328 149.5,-328" />
+<text text-anchor="middle" x="115.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mistake</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151,-256C151,-256 80,-256 80,-256 74,-256 68,-250 68,-244 68,-244 68,-228 68,-228 68,-222 74,-216 80,-216 80,-216 151,-216 151,-216 157,-216 163,-222 163,-228 163,-228 163,-244 163,-244 163,-250 157,-256 151,-256" />
+<text text-anchor="middle" x="115.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analysis</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M207,-184C207,-184 24,-184 24,-184 18,-184 12,-178 12,-172 12,-172 12,-156 12,-156 12,-150 18,-144 24,-144 24,-144 207,-144 207,-144 213,-144 219,-150 219,-156 219,-156 219,-172 219,-172 219,-178 213,-184 207,-184" />
+<text text-anchor="middle" x="115.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Causes</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M199.5,-112C199.5,-112 31.5,-112 31.5,-112 25.5,-112 19.5,-106 19.5,-100 19.5,-100 19.5,-84 19.5,-84 19.5,-78 25.5,-72 31.5,-72 31.5,-72 199.5,-72 199.5,-72 205.5,-72 211.5,-78 211.5,-84 211.5,-84 211.5,-100 211.5,-100 211.5,-106 205.5,-112 199.5,-112" />
+<text text-anchor="middle" x="115.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Corrective Measures</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M219,-40C219,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 219,0 219,0 225,0 231,-6 231,-12 231,-12 231,-28 231,-28 231,-34 225,-40 219,-40" />
+<text text-anchor="middle" x="115.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learning &amp; Improvement</text>
+</g>
+</g>
+</svg>

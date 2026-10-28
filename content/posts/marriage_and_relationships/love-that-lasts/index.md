@@ -14,13 +14,7 @@ author: "Jefferson and Alyssa Bethke"
 
 The Bethkes introduce the concept of understanding one's individual "love style," highlighting how differing approaches to love can create conflict if not understood and addressed.  They encourage self-reflection to identify one's dominant love style (e.g., romantic, pragmatic, friendship-based) and how it impacts interactions with a partner.  This self-awareness is for communicating needs and expectations effectively.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Love Style);
-    B --> C{Understand Partner's Style};
-    C --> D[Effective Communication];
-    D --> E(Conflict Resolution);
-```
+![Understanding Your Love Style. Self-Reflection; Identify Love Style; Understand Partner's Style; Effective Communication; Conflict Resolution.](diagram-01.svg)
 
 
 ### The Foundation: Self-Love and Personal Growth
@@ -51,14 +45,7 @@ Disagreements are inevitable in any relationship.  However, "Love That Lasts" em
 * **Forgiveness:** Letting go of resentment and moving forward.
 
 
-```mermaid
-graph LR
-    A[Conflict] --> B(Identify Root Cause);
-    B --> C[Respectful Communication];
-    C --> D(Compromise);
-    D --> E[Forgiveness];
-    E --> F(Resolution);
-```
+![Conflict Resolution: Navigating Disagreements. Conflict; Identify Root Cause; Respectful Communication; Compromise; Forgiveness; Resolution.](diagram-02.svg)
 
 ###  Building Intimacy: Beyond the Physical
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204pt" height="364pt" viewBox="0.00 0.00 204.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Updating Beliefs</title><desc id="description">Prior Belief leads to New Evidence. New Evidence leads to Updated Belief. Updated Belief leads to Further Evidence. Further Evidence leads to Refined Belief.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 186,-346 186,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84,-287.87C84,-280.31 84,-271.49 84,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="86.45,-263.1 84,-256.1 81.55,-263.1 86.45,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84,-215.87C84,-208.31 84,-199.49 84,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="86.45,-191.1 84,-184.1 81.55,-191.1 86.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84,-143.87C84,-136.31 84,-127.49 84,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="86.45,-119.1 84,-112.1 81.55,-119.1 86.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84,-71.87C84,-64.31 84,-55.49 84,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="86.45,-47.1 84,-40.1 81.55,-47.1 86.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M132.5,-328C132.5,-328 35.5,-328 35.5,-328 29.5,-328 23.5,-322 23.5,-316 23.5,-316 23.5,-300 23.5,-300 23.5,-294 29.5,-288 35.5,-288 35.5,-288 132.5,-288 132.5,-288 138.5,-288 144.5,-294 144.5,-300 144.5,-300 144.5,-316 144.5,-316 144.5,-322 138.5,-328 132.5,-328" />
+<text text-anchor="middle" x="84" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prior Belief</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143.5,-256C143.5,-256 24.5,-256 24.5,-256 18.5,-256 12.5,-250 12.5,-244 12.5,-244 12.5,-228 12.5,-228 12.5,-222 18.5,-216 24.5,-216 24.5,-216 143.5,-216 143.5,-216 149.5,-216 155.5,-222 155.5,-228 155.5,-228 155.5,-244 155.5,-244 155.5,-250 149.5,-256 143.5,-256" />
+<text text-anchor="middle" x="84" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">New Evidence</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146.5,-184C146.5,-184 21.5,-184 21.5,-184 15.5,-184 9.5,-178 9.5,-172 9.5,-172 9.5,-156 9.5,-156 9.5,-150 15.5,-144 21.5,-144 21.5,-144 146.5,-144 146.5,-144 152.5,-144 158.5,-150 158.5,-156 158.5,-156 158.5,-172 158.5,-172 158.5,-178 152.5,-184 146.5,-184" />
+<text text-anchor="middle" x="84" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Updated Belief</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156,-112C156,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 156,-72 156,-72 162,-72 168,-78 168,-84 168,-84 168,-100 168,-100 168,-106 162,-112 156,-112" />
+<text text-anchor="middle" x="84" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Further Evidence</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M143.5,-40C143.5,-40 24.5,-40 24.5,-40 18.5,-40 12.5,-34 12.5,-28 12.5,-28 12.5,-12 12.5,-12 12.5,-6 18.5,0 24.5,0 24.5,0 143.5,0 143.5,0 149.5,0 155.5,-6 155.5,-12 155.5,-12 155.5,-28 155.5,-28 155.5,-34 149.5,-40 143.5,-40" />
+<text text-anchor="middle" x="84" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refined Belief</text>
+</g>
+</g>
+</svg>

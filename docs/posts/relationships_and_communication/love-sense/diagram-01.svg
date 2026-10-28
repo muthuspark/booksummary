@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="638pt" height="103pt" viewBox="0.00 0.00 638.00 103.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying the Negative Cycles</title><desc id="description">Pursuer leads to Increased Demands. Increased Demands leads to Distancer. Distancer leads to Withdrawal. Withdrawal leads to Pursuer.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 85)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-85 620,-85 620,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.42,-27.24C100.08,-28.46 108.3,-29.76 116.71,-31.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.52,-33.56 123.82,-32.24 117.3,-28.72 116.52,-33.56" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M311.14,-47C319.51,-47 327.82,-47 335.77,-47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="335.97,-49.45 342.97,-47 335.97,-44.55 335.97,-49.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M448.31,-37.25C456.33,-35.74 464.72,-34.16 473.03,-32.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="473.55,-35 479.97,-31.29 472.64,-30.18 473.55,-35" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M479.64,-17C469.09,-16.58 458.23,-16.22 448,-16 304.03,-12.87 267.95,-12.26 124,-16 116.11,-16.2 107.77,-16.53 99.61,-16.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.05,-14.48 92.18,-17.26 99.29,-19.37 99.05,-14.48" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M80,-40C80,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 80,0 80,0 86,0 92,-6 92,-12 92,-12 92,-28 92,-28 92,-34 86,-40 80,-40" />
+<text text-anchor="middle" x="46" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pursuer</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M299,-67C299,-67 136,-67 136,-67 130,-67 124,-61 124,-55 124,-55 124,-39 124,-39 124,-33 130,-27 136,-27 136,-27 299,-27 299,-27 305,-27 311,-33 311,-39 311,-39 311,-55 311,-55 311,-61 305,-67 299,-67" />
+<text text-anchor="middle" x="217.5" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Demands</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M436,-67C436,-67 355,-67 355,-67 349,-67 343,-61 343,-55 343,-55 343,-39 343,-39 343,-33 349,-27 355,-27 355,-27 436,-27 436,-27 442,-27 448,-33 448,-39 448,-39 448,-55 448,-55 448,-61 442,-67 436,-67" />
+<text text-anchor="middle" x="395.5" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Distancer</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M590,-40C590,-40 492,-40 492,-40 486,-40 480,-34 480,-28 480,-28 480,-12 480,-12 480,-6 486,0 492,0 492,0 590,0 590,0 596,0 602,-6 602,-12 602,-12 602,-28 602,-28 602,-34 596,-40 590,-40" />
+<text text-anchor="middle" x="541" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Withdrawal</text>
+</g>
+</g>
+</svg>

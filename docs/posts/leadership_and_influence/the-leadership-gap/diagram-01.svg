@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348pt" height="536pt" viewBox="0.00 0.00 348.00 536.00" role="img" aria-labelledby="title description">
+<title id="title">Emotional Intelligence: Navigating the Human Landscape</title><desc id="description">Self-Awareness leads to Emotional Intelligence. Emotional Intelligence leads to Effective Communication. Effective Communication leads to Strong Relationships. Strong Relationships leads to Achieving Goals. Achieving Goals leads to Bridging the Leadership Gap.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 518)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-518 330,-518 330,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156,-459.87C156,-452.31 156,-443.49 156,-435.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="158.45,-435.1 156,-428.1 153.55,-435.1 158.45,-435.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156,-387.84C156,-380.75 156,-372.25 156,-363.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="158.45,-363.12 156,-356.12 153.55,-363.12 158.45,-363.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156,-235.81C156,-227.27 156,-218.86 156,-211.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="158.45,-211.33 156,-204.33 153.55,-211.33 158.45,-211.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156,-163.87C156,-156.31 156,-147.49 156,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="158.45,-139.1 156,-132.1 153.55,-139.1 158.45,-139.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156,-91.63C156,-84.34 156,-75.78 156,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="158.45,-67.19 156,-60.19 153.55,-67.19 158.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M219.5,-500C219.5,-500 92.5,-500 92.5,-500 86.5,-500 80.5,-494 80.5,-488 80.5,-488 80.5,-472 80.5,-472 80.5,-466 86.5,-460 92.5,-460 92.5,-460 219.5,-460 219.5,-460 225.5,-460 231.5,-466 231.5,-472 231.5,-472 231.5,-488 231.5,-488 231.5,-494 225.5,-500 219.5,-500" />
+<text text-anchor="middle" x="156" y="-475.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M249,-428C249,-428 63,-428 63,-428 57,-428 51,-422 51,-416 51,-416 51,-400 51,-400 51,-394 57,-388 63,-388 63,-388 249,-388 249,-388 255,-388 261,-394 261,-400 261,-400 261,-416 261,-416 261,-422 255,-428 249,-428" />
+<text text-anchor="middle" x="156" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Intelligence</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="156,-356 0,-296 156,-236 312,-296 156,-356" />
+<text text-anchor="middle" x="156" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="156" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M241,-204C241,-204 71,-204 71,-204 65,-204 59,-198 59,-192 59,-192 59,-176 59,-176 59,-170 65,-164 71,-164 71,-164 241,-164 241,-164 247,-164 253,-170 253,-176 253,-176 253,-192 253,-192 253,-198 247,-204 241,-204" />
+<text text-anchor="middle" x="156" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Relationships</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222,-132C222,-132 90,-132 90,-132 84,-132 78,-126 78,-120 78,-120 78,-104 78,-104 78,-98 84,-92 90,-92 90,-92 222,-92 222,-92 228,-92 234,-98 234,-104 234,-104 234,-120 234,-120 234,-126 228,-132 222,-132" />
+<text text-anchor="middle" x="156" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieving Goals</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M221.5,-60C221.5,-60 90.5,-60 90.5,-60 84.5,-60 78.5,-54 78.5,-48 78.5,-48 78.5,-12 78.5,-12 78.5,-6 84.5,0 90.5,0 90.5,0 221.5,0 221.5,0 227.5,0 233.5,-6 233.5,-12 233.5,-12 233.5,-48 233.5,-48 233.5,-54 227.5,-60 221.5,-60" />
+<text text-anchor="middle" x="156" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bridging the</text>
+<text text-anchor="middle" x="156" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leadership Gap</text>
+</g>
+</g>
+</svg>

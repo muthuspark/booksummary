@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316pt" height="464pt" viewBox="0.00 0.00 316.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Social Awareness: Understanding Your Client's Emotions</title><desc id="description">Active Listening leads to Observe Nonverbal Cues. Observe Nonverbal Cues leads to Ask Clarifying Questions. Ask Clarifying Questions leads to Understand Client Needs. Understand Client Needs leads to Tailor Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 298,-446 298,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-387.87C140,-380.31 140,-371.49 140,-363.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-363.1 140,-356.1 137.55,-363.1 142.45,-363.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-315.84C140,-308.75 140,-300.25 140,-291.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-291.12 140,-284.12 137.55,-291.12 142.45,-291.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-163.7C140,-155.47 140,-147.21 140,-139.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-139.13 140,-132.13 137.55,-139.13 142.45,-139.13" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-71.67C140,-63.77 140,-55.28 140,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-47.12 140,-40.12 137.55,-47.12 142.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M206,-428C206,-428 74,-428 74,-428 68,-428 62,-422 62,-416 62,-416 62,-400 62,-400 62,-394 68,-388 74,-388 74,-388 206,-388 206,-388 212,-388 218,-394 218,-400 218,-400 218,-416 218,-416 218,-422 212,-428 206,-428" />
+<text text-anchor="middle" x="140" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M240,-356C240,-356 40,-356 40,-356 34,-356 28,-350 28,-344 28,-344 28,-328 28,-328 28,-322 34,-316 40,-316 40,-316 240,-316 240,-316 246,-316 252,-322 252,-328 252,-328 252,-344 252,-344 252,-350 246,-356 240,-356" />
+<text text-anchor="middle" x="140" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Observe Nonverbal Cues</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="140,-284 0,-224 140,-164 280,-224 140,-284" />
+<text text-anchor="middle" x="140" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ask Clarifying</text>
+<text text-anchor="middle" x="140" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Questions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M215.5,-132C215.5,-132 64.5,-132 64.5,-132 58.5,-132 52.5,-126 52.5,-120 52.5,-120 52.5,-84 52.5,-84 52.5,-78 58.5,-72 64.5,-72 64.5,-72 215.5,-72 215.5,-72 221.5,-72 227.5,-78 227.5,-84 227.5,-84 227.5,-120 227.5,-120 227.5,-126 221.5,-132 215.5,-132" />
+<text text-anchor="middle" x="140" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand Client</text>
+<text text-anchor="middle" x="140" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Needs</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M232.5,-40C232.5,-40 47.5,-40 47.5,-40 41.5,-40 35.5,-34 35.5,-28 35.5,-28 35.5,-12 35.5,-12 35.5,-6 41.5,0 47.5,0 47.5,0 232.5,0 232.5,0 238.5,0 244.5,-6 244.5,-12 244.5,-12 244.5,-28 244.5,-28 244.5,-34 238.5,-40 232.5,-40" />
+<text text-anchor="middle" x="140" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tailor Communication</text>
+</g>
+</g>
+</svg>

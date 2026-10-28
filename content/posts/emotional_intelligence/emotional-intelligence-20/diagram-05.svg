@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444pt" height="406pt" viewBox="0.00 0.00 444.00 406.00" role="img" aria-labelledby="title description">
+<title id="title">Social Skills: Building Relationships</title><desc id="description">Active Listening leads to Effective Communication. Clear Articulation leads to Effective Communication. Non-Violent Communication leads to Effective Communication. Building Trust leads to Strong Relationships. Conflict Resolution leads to Strong Relationships. Teamwork leads to Strong Relationships.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 388)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-388 426,-388 426,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.48,-143.96C182.79,-138.18 205.16,-131.82 226.2,-125.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.92,-128.18 232.98,-123.9 225.58,-123.46 226.92,-128.18" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.28,-102C192.39,-102 209.25,-102 225.37,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.72,-104.45 232.72,-102 225.72,-99.55 225.72,-104.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.17,-55.49C187.6,-61.57 207.37,-68.1 226.09,-74.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.52,-76.68 232.94,-76.55 227.06,-72.03 225.52,-76.68" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.48,-329.96C184.8,-323.61 209.59,-316.56 232.39,-310.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.33,-312.35 239.39,-308.08 231.99,-307.64 233.33,-312.35" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.24,-288C190.22,-288 198.34,-288 206.42,-288" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.83,-290.45 213.83,-288 206.83,-285.55 206.83,-290.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148.14,-241.97C173.84,-249.28 204.72,-258.06 232.58,-265.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.19,-268.42 239.6,-267.98 233.53,-263.71 232.19,-268.42" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157,-184C157,-184 25,-184 25,-184 19,-184 13,-178 13,-172 13,-172 13,-156 13,-156 13,-150 19,-144 25,-144 25,-144 157,-144 157,-144 163,-144 169,-150 169,-156 169,-156 169,-172 169,-172 169,-178 163,-184 157,-184" />
+<text text-anchor="middle" x="91" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M377,-132C377,-132 245,-132 245,-132 239,-132 233,-126 233,-120 233,-120 233,-84 233,-84 233,-78 239,-72 245,-72 245,-72 377,-72 377,-72 383,-72 389,-78 389,-84 389,-84 389,-120 389,-120 389,-126 383,-132 377,-132" />
+<text text-anchor="middle" x="311" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="311" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-122C164,-122 18,-122 18,-122 12,-122 6,-116 6,-110 6,-110 6,-94 6,-94 6,-88 12,-82 18,-82 18,-82 164,-82 164,-82 170,-82 176,-88 176,-94 176,-94 176,-110 176,-110 176,-116 170,-122 164,-122" />
+<text text-anchor="middle" x="91" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Articulation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157,-60C157,-60 25,-60 25,-60 19,-60 13,-54 13,-48 13,-48 13,-12 13,-12 13,-6 19,0 25,0 25,0 157,0 157,0 163,0 169,-6 169,-12 169,-12 169,-48 169,-48 169,-54 163,-60 157,-60" />
+<text text-anchor="middle" x="91" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Non-Violent</text>
+<text text-anchor="middle" x="91" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151,-370C151,-370 31,-370 31,-370 25,-370 19,-364 19,-358 19,-358 19,-342 19,-342 19,-336 25,-330 31,-330 31,-330 151,-330 151,-330 157,-330 163,-336 163,-342 163,-342 163,-358 163,-358 163,-364 157,-370 151,-370" />
+<text text-anchor="middle" x="91" y="-345.6" font-family="Georgia" font-size="18.00" fill="#243d36">Building Trust</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M396,-308C396,-308 226,-308 226,-308 220,-308 214,-302 214,-296 214,-296 214,-280 214,-280 214,-274 220,-268 226,-268 226,-268 396,-268 396,-268 402,-268 408,-274 408,-280 408,-280 408,-296 408,-296 408,-302 402,-308 396,-308" />
+<text text-anchor="middle" x="311" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Relationships</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-308C170,-308 12,-308 12,-308 6,-308 0,-302 0,-296 0,-296 0,-280 0,-280 0,-274 6,-268 12,-268 12,-268 170,-268 170,-268 176,-268 182,-274 182,-280 182,-280 182,-296 182,-296 182,-302 176,-308 170,-308" />
+<text text-anchor="middle" x="91" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict Resolution</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M136,-246C136,-246 46,-246 46,-246 40,-246 34,-240 34,-234 34,-234 34,-218 34,-218 34,-212 40,-206 46,-206 46,-206 136,-206 136,-206 142,-206 148,-212 148,-218 148,-218 148,-234 148,-234 148,-240 142,-246 136,-246" />
+<text text-anchor="middle" x="91" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Teamwork</text>
+</g>
+</g>
+</svg>

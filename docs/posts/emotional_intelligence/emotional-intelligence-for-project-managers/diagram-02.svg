@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412pt" height="424pt" viewBox="0.00 0.00 411.50 424.00" role="img" aria-labelledby="title description">
+<title id="title">Social Awareness: Understanding Others' Perspectives</title><desc id="description">Active Listening leads to Empathy. Empathy leads to Understanding Team Dynamics. Understanding Team Dynamics leads to Improved Collaboration. Active Listening leads to Nonverbal Communication. Nonverbal Communication leads to Improved Collaboration. Improved Collaboration leads to Project Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 393.5,-406 393.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.02,-347.87C181.3,-340 175.76,-330.77 170.71,-322.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.67,-320.85 166.96,-316.1 168.46,-323.37 172.67,-320.85" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210.17,-347.75C226.28,-323.26 254.4,-280.5 274.38,-250.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="276.46,-251.43 278.26,-244.24 272.37,-248.74 276.46,-251.43" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.7,-275.63C136.19,-267.9 129.66,-258.74 123.38,-249.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.35,-248.47 119.3,-244.19 121.36,-251.31 125.35,-248.47" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M134.52,-183.89C145.53,-175 157.5,-165.32 168.02,-156.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.8,-158.54 173.7,-152.23 166.72,-154.72 169.8,-158.54" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.5,-111.91C197.5,-104.58 197.5,-95.86 197.5,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.95,-87.07 197.5,-80.07 195.05,-87.07 199.95,-87.07" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M261.11,-183.89C249.99,-175 237.9,-165.32 227.28,-156.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.53,-154.69 221.54,-152.23 225.47,-158.52 228.53,-154.69" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263.5,-388C263.5,-388 131.5,-388 131.5,-388 125.5,-388 119.5,-382 119.5,-376 119.5,-376 119.5,-360 119.5,-360 119.5,-354 125.5,-348 131.5,-348 131.5,-348 263.5,-348 263.5,-348 269.5,-348 275.5,-354 275.5,-360 275.5,-360 275.5,-376 275.5,-376 275.5,-382 269.5,-388 263.5,-388" />
+<text text-anchor="middle" x="197.5" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M194,-316C194,-316 117,-316 117,-316 111,-316 105,-310 105,-304 105,-304 105,-288 105,-288 105,-282 111,-276 117,-276 117,-276 194,-276 194,-276 200,-276 206,-282 206,-288 206,-288 206,-304 206,-304 206,-310 200,-316 194,-316" />
+<text text-anchor="middle" x="155.5" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-244C185,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 185,-184 185,-184 191,-184 197,-190 197,-196 197,-196 197,-232 197,-232 197,-238 191,-244 185,-244" />
+<text text-anchor="middle" x="98.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Team</text>
+<text text-anchor="middle" x="98.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dynamics</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M295.5,-152C295.5,-152 99.5,-152 99.5,-152 93.5,-152 87.5,-146 87.5,-140 87.5,-140 87.5,-124 87.5,-124 87.5,-118 93.5,-112 99.5,-112 99.5,-112 295.5,-112 295.5,-112 301.5,-112 307.5,-118 307.5,-124 307.5,-124 307.5,-140 307.5,-140 307.5,-146 301.5,-152 295.5,-152" />
+<text text-anchor="middle" x="197.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Collaboration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363.5,-244C363.5,-244 231.5,-244 231.5,-244 225.5,-244 219.5,-238 219.5,-232 219.5,-232 219.5,-196 219.5,-196 219.5,-190 225.5,-184 231.5,-184 231.5,-184 363.5,-184 363.5,-184 369.5,-184 375.5,-190 375.5,-196 375.5,-196 375.5,-232 375.5,-232 375.5,-238 369.5,-244 363.5,-244" />
+<text text-anchor="middle" x="297.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nonverbal</text>
+<text text-anchor="middle" x="297.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="197.5,-80 46.5,-40 197.5,0 348.5,-40 197.5,-80" />
+<text text-anchor="middle" x="197.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Project Success</text>
+</g>
+</g>
+</svg>

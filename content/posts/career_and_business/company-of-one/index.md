@@ -14,23 +14,13 @@ Paul Jarvis's "Company of One" isn't just a business book; it's a manifesto for 
 
 The book emphasizes the importance of specializing and identifying a unique niche. Instead of trying to be everything to everyone, Jarvis advocates for focusing on a specific area where you can excel and offer exceptional value.  This targeted approach allows you to build a strong reputation, attract ideal clients, and command premium prices.  Understanding your unique strengths and passions is paramount.
 
-```mermaid
-graph LR
-    A[Identify Strengths & Passions] --> B(Define Niche);
-    B --> C{Offer Unique Value};
-    C --> D[Attract Ideal Clients];
-```
+![Defining Your Niche and Offering Value. Identify Strengths & Passions; Define Niche; Offer Unique Value; Attract Ideal Clients.](diagram-01.svg)
 
 # Crafting Your Brand and Marketing Strategy
 
 Building a recognizable and trustworthy brand is crucial. Jarvis stresses authenticity and transparency, advising against mimicking others and encouraging readers to develop their own unique voice and style. Marketing, he argues, shouldn't be manipulative; it should focus on building genuine relationships with clients and potential clients. Content marketing – creating engaging content – is highlighted as a key strategy.
 
-```mermaid
-graph LR
-    A[Authenticity & Transparency] --> B(Unique Voice & Style);
-    B --> C[Content Marketing];
-    C --> D(Build Relationships);
-```
+![Crafting Your Brand and Marketing Strategy. Authenticity & Transparency; Unique Voice & Style; Content Marketing; Build Relationships.](diagram-02.svg)
 
 #  The Importance of Pricing Strategically
 
@@ -40,12 +30,7 @@ Jarvis debunks the myth of underselling to attract clients. He strongly advocate
 
 Time management is a recurring theme. Jarvis isn't advocating for productivity but rather for focused, intentional work. He stresses the importance of prioritizing tasks, eliminating distractions, and defining clear working hours to maintain a healthy work-life balance. This is critical for preventing burnout and maintaining long-term sustainability.
 
-```mermaid
-graph LR
-    A[Prioritize Tasks] --> B(Eliminate Distractions);
-    B --> C[Define Working Hours];
-    C --> D(Maintain Work-Life Balance);
-```
+![Managing Time and Productivity Effectively. Prioritize Tasks; Eliminate Distractions; Define Working Hours; Maintain Work-Life Balance.](diagram-03.svg)
 
 # The Power of Saying No and Setting Boundaries
 
@@ -56,12 +41,7 @@ One of the most impactful messages in the book is the importance of saying "no."
 
 Jarvis stresses the importance of creating a business that can thrive long-term.  This involves consistently providing value to clients, adapting to changes in the market, and continuously learning and improving.  He advocates for building a business that is both profitable and personally rewarding.
 
-```mermaid
-graph LR
-    A[Consistent Value] --> B(Adapt to Market Changes);
-    B --> C[Continuous Learning];
-    C --> D(Profitable & Rewarding);
-```
+![Building a Sustainable Business Model. Consistent Value; Adapt to Market Changes; Continuous Learning; Profitable & Rewarding.](diagram-04.svg)
 
 #  Embracing the Unexpected and Adapting to Change
 

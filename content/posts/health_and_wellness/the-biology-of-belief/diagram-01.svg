@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406pt" height="392pt" viewBox="0.00 0.00 406.00 392.00" role="img" aria-labelledby="title description">
+<title id="title">Epigenetics: Genes are not Destiny</title><desc id="description">Environment (Beliefs, Perceptions) leads to Epigenetic Changes. Epigenetic Changes leads to Gene Expression. Gene Expression leads to Cellular Function &amp; Health.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 374)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-374 388,-374 388,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-295.67C185,-287.77 185,-279.28 185,-271.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-271.12 185,-264.12 182.55,-271.12 187.45,-271.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-223.87C185,-216.31 185,-207.49 185,-199.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-199.1 185,-192.1 182.55,-199.1 187.45,-199.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-151.84C185,-144.75 185,-136.25 185,-127.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-127.12 185,-120.12 182.55,-127.12 187.45,-127.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M275,-356C275,-356 95,-356 95,-356 89,-356 83,-350 83,-344 83,-344 83,-308 83,-308 83,-302 89,-296 95,-296 95,-296 275,-296 275,-296 281,-296 287,-302 287,-308 287,-308 287,-344 287,-344 287,-350 281,-356 275,-356" />
+<text text-anchor="middle" x="185" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Environment (Beliefs,</text>
+<text text-anchor="middle" x="185" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perceptions)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265.5,-264C265.5,-264 104.5,-264 104.5,-264 98.5,-264 92.5,-258 92.5,-252 92.5,-252 92.5,-236 92.5,-236 92.5,-230 98.5,-224 104.5,-224 104.5,-224 265.5,-224 265.5,-224 271.5,-224 277.5,-230 277.5,-236 277.5,-236 277.5,-252 277.5,-252 277.5,-258 271.5,-264 265.5,-264" />
+<text text-anchor="middle" x="185" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Epigenetic Changes</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M254.5,-192C254.5,-192 115.5,-192 115.5,-192 109.5,-192 103.5,-186 103.5,-180 103.5,-180 103.5,-164 103.5,-164 103.5,-158 109.5,-152 115.5,-152 115.5,-152 254.5,-152 254.5,-152 260.5,-152 266.5,-158 266.5,-164 266.5,-164 266.5,-180 266.5,-180 266.5,-186 260.5,-192 254.5,-192" />
+<text text-anchor="middle" x="185" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gene Expression</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-120 0,-60 185,0 370,-60 185,-120" />
+<text text-anchor="middle" x="185" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cellular Function &amp;</text>
+<text text-anchor="middle" x="185" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Health</text>
+</g>
+</g>
+</svg>

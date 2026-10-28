@@ -35,12 +35,7 @@ Klaff outlines a six-step pitch process designed to achieve frame control and se
 
 Klaff introduces the concept of the "chimp brain" – the primal, emotional part of the brain that drives our decision-making. To effectively pitch, you must appeal to this emotional center while simultaneously addressing the logical, rational part of the brain. This requires an approach that considers both emotional resonance and factual accuracy.
 
-```mermaid
-graph LR
-    A["Chimp Brain (Emotional)"] --> B(Rational Brain);
-    B --> C[Effective Pitch];
-    A --> C;
-```
+![Understanding the "Chimp" Brain. Chimp Brain (Emotional); Rational Brain; Effective Pitch.](diagram-01.svg)
 
 # The Importance of Non-Verbal Communication
 

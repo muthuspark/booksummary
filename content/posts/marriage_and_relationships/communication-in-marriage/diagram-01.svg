@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316pt" height="432pt" viewBox="0.00 0.00 316.00 432.00" role="img" aria-labelledby="title description">
+<title id="title">Active Listening: The Cornerstone of Understanding</title><desc id="description">Partner Speaking leads to Active Listening. Active Listening leads to Mirroring, Summarizing, Validating. Mirroring, Summarizing, Validating leads to Understanding &amp; Empathy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 414)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-414 298,-414 298,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-355.87C140,-348.31 140,-339.49 140,-331.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-331.1 140,-324.1 137.55,-331.1 142.45,-331.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-283.82C140,-276.78 140,-268.29 140,-259.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-259.1 140,-252.1 137.55,-259.1 142.45,-259.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140,-92C140,-83.53 140,-75.25 140,-67.64" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.45,-67.29 140,-60.29 137.55,-67.29 142.45,-67.29" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211.5,-396C211.5,-396 68.5,-396 68.5,-396 62.5,-396 56.5,-390 56.5,-384 56.5,-384 56.5,-368 56.5,-368 56.5,-362 62.5,-356 68.5,-356 68.5,-356 211.5,-356 211.5,-356 217.5,-356 223.5,-362 223.5,-368 223.5,-368 223.5,-384 223.5,-384 223.5,-390 217.5,-396 211.5,-396" />
+<text text-anchor="middle" x="140" y="-371.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner Speaking</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M206,-324C206,-324 74,-324 74,-324 68,-324 62,-318 62,-312 62,-312 62,-296 62,-296 62,-290 68,-284 74,-284 74,-284 206,-284 206,-284 212,-284 218,-290 218,-296 218,-296 218,-312 218,-312 218,-318 212,-324 206,-324" />
+<text text-anchor="middle" x="140" y="-299.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="140,-252 0,-172 140,-92 280,-172 140,-252" />
+<text text-anchor="middle" x="140" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mirroring,</text>
+<text text-anchor="middle" x="140" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Summarizing,</text>
+<text text-anchor="middle" x="140" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Validating</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M210.5,-60C210.5,-60 69.5,-60 69.5,-60 63.5,-60 57.5,-54 57.5,-48 57.5,-48 57.5,-12 57.5,-12 57.5,-6 63.5,0 69.5,0 69.5,0 210.5,0 210.5,0 216.5,0 222.5,-6 222.5,-12 222.5,-12 222.5,-48 222.5,-48 222.5,-54 216.5,-60 210.5,-60" />
+<text text-anchor="middle" x="140" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding &amp;</text>
+<text text-anchor="middle" x="140" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+</g>
+</svg>

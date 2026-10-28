@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738pt" height="422pt" viewBox="0.00 0.00 738.00 422.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Framing</title><desc id="description">Information leads to Gain Framing. Information leads to Loss Framing. Gain Framing leads to Positive Response. Loss Framing leads to Positive Response (Often Stronger). Information leads to Positive Framing. Information leads to Negative Framing. Positive Framing leads to Positive Response. Negative Framing leads to Positive Response (Often Stronger).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 404)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-404 720,-404 720,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M76.94,-213.26C93.24,-236.31 122.83,-273.53 157,-295 180.8,-309.96 209.25,-320.74 235.95,-328.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.29,-330.79 242.69,-330.31 236.61,-326.07 235.29,-330.79" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125.04,-181.04C158.43,-174.56 200.29,-166.42 237.15,-159.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="238.05,-161.58 244.46,-157.84 237.12,-156.77 238.05,-161.58" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125.04,-204.96C155.8,-210.93 193.75,-218.31 228.36,-225.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.9,-227.44 235.24,-226.37 228.83,-222.63 227.9,-227.44" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M76.94,-172.74C93.24,-149.69 122.83,-112.47 157,-91 178.23,-77.66 203.15,-67.64 227.23,-60.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228,-62.5 234,-58.14 226.59,-57.81 228,-62.5" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M413.18,-330.84C447.36,-324.75 486.84,-317.72 521.74,-311.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="522.19,-313.92 528.65,-310.28 521.33,-309.1 522.19,-313.92" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M412.41,-126.97C446.76,-120.86 486.58,-113.77 521.74,-107.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="522.25,-109.91 528.71,-106.27 521.39,-105.09 522.25,-109.91" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M422.6,-260.84C454.43,-266.51 489.88,-272.82 521.57,-278.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="521.37,-280.91 528.7,-279.73 522.23,-276.09 521.37,-280.91" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M424.6,-57.2C456.01,-62.79 490.78,-68.98 521.9,-74.52" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="521.57,-76.95 528.89,-75.76 522.43,-72.12 521.57,-76.95" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113,-213C113,-213 12,-213 12,-213 6,-213 0,-207 0,-201 0,-201 0,-185 0,-185 0,-179 6,-173 12,-173 12,-173 113,-173 113,-173 119,-173 125,-179 125,-185 125,-185 125,-201 125,-201 125,-207 119,-213 113,-213" />
+<text text-anchor="middle" x="62.5" y="-188.6" font-family="Georgia" font-size="18.00" fill="#243d36">Information</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="327,-386 189,-346 327,-306 465,-346 327,-386" />
+<text text-anchor="middle" x="327" y="-341.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gain Framing</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="327,-182 191,-142 327,-102 463,-142 327,-182" />
+<text text-anchor="middle" x="327" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Loss Framing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M690,-315C690,-315 541,-315 541,-315 535,-315 529,-309 529,-303 529,-303 529,-287 529,-287 529,-281 535,-275 541,-275 541,-275 690,-275 690,-275 696,-275 702,-281 702,-287 702,-287 702,-303 702,-303 702,-309 696,-315 690,-315" />
+<text text-anchor="middle" x="615.5" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Response</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M690,-121C690,-121 541,-121 541,-121 535,-121 529,-115 529,-109 529,-109 529,-73 529,-73 529,-67 535,-61 541,-61 541,-61 690,-61 690,-61 696,-61 702,-67 702,-73 702,-73 702,-109 702,-109 702,-115 696,-121 690,-121" />
+<text text-anchor="middle" x="615.5" y="-96.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Response</text>
+<text text-anchor="middle" x="615.5" y="-76.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Often Stronger)</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="327,-284 163,-244 327,-204 491,-244 327,-284" />
+<text text-anchor="middle" x="327" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Framing</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="327,-80 157,-40 327,0 497,-40 327,-80" />
+<text text-anchor="middle" x="327" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Framing</text>
+</g>
+</g>
+</svg>

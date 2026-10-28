@@ -17,12 +17,7 @@ Trungpa defines the "warrior" not as a battlefield soldier but as someone who co
 
 The core of this warrior spirit is **basic goodness**. This isn't naive optimism, but a fundamental understanding that despite our flaws, we possess a capacity for compassion and wisdom.
 
-```mermaid
-graph LR
-    A[Basic Goodness] --> B(Courage);
-    A --> C(Compassion);
-    A --> D(Wisdom);
-```
+![Cultivating the Warrior Spirit. Basic Goodness; Courage; Compassion; Wisdom.](diagram-01.svg)
 
 This basic goodness forms the foundation upon which we build courage, compassion, and wisdom.  It’s the fuel that drives our journey.
 
@@ -88,16 +83,7 @@ Trungpa emphasizes the importance of community on the warrior's path.  The suppo
 
 * **Practice gentleness and rigor:**  Balance self-discipline with self-compassion.  Be both firm and kind to yourself.
 
-```mermaid
-graph LR
-    A[Mindful Breathing] --> B(Present Moment Awareness);
-    C[Self-Reflection] --> D(Understanding Suffering);
-    E[Compassionate Self-Talk] --> F(Self-Acceptance);
-    G[Courageous Action] --> H(Growth & Resilience);
-    I[Seek Community] --> J(Support & Encouragement);
-    K[Embrace Impermanence] --> L(Acceptance);
-    M[Gentleness & Rigor] --> N(Balance);
-```
+![Actionable Insights:  Putting it into Practice. Mindful Breathing; Present Moment Awareness; Self-Reflection; Understanding Suffering; Compassionate Self-Talk; Self-Acceptance; Courageous Action; Growth & Resilience; Seek Community; Support & Encouragement; Embrace Impermanence; Acceptance; Gentleness & Rigor; Balance.](diagram-02.svg)
 
 These practices, interwoven with the spirit of basic goodness, form the foundation of the warrior's path.  It is a path of continuous growth, requiring constant effort, self-reflection, and a willingness to confront the realities of life with courage, compassion, and wisdom.  It's not a path to escape suffering, but a path to engage with it fully, learning from it, and ultimately transcending it.
 

@@ -21,13 +21,7 @@ This section would likely focus on fostering deeper understanding and appreciati
 
 * **Gratitude:** Regularly expressing appreciation for your partner's actions, both big and small.  This reinforces positive behavior and strengthens the bond.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Understanding);
-C[Empathy] --> B;
-D[Gratitude] --> E(Strengthened Bond);
-B --> E;
-```
+![Understanding and Appreciating Your Partner. Active Listening; Understanding; Empathy; Gratitude; Strengthened Bond.](diagram-01.svg)
 
 ## Effective Communication Strategies
 
@@ -61,12 +55,7 @@ Intimacy encompasses emotional, physical, and intellectual connection.  The book
 
 * **Shared Interests and Activities:**  Engaging in activities you both enjoy fosters a sense of shared experience and strengthens your bond.
 
-```mermaid
-graph LR
-A[Quality Time] --> B(Intimacy);
-C[Physical Affection] --> B;
-D[Shared Interests] --> B;
-```
+![Building Intimacy and Connection. Quality Time; Intimacy; Physical Affection; Shared Interests.](diagram-02.svg)
 
 
 ## Maintaining a Healthy Relationship

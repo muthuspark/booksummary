@@ -70,14 +70,7 @@ Developing positive habits is important for long-term energy management.
 
 A simple diagram can illustrate the interplay between different aspects of energy management:
 
-```mermaid
-graph LR
-    A[Physical Well-being] --> B(Energy Levels);
-    C[Mental Well-being] --> B;
-    D[Prioritization & Scheduling] --> B;
-    E[Healthy Habits] --> B;
-    B --> F[Productivity & Fulfillment];
-```
+![Visualizing Energy Management. Physical Well-being; Energy Levels; Mental Well-being; Prioritization & Scheduling; Healthy Habits; Productivity & Fulfillment.](diagram-01.svg)
 
 
 This hypothetical "Energy Plan" emphasizes an approach, integrating physical, mental, and emotional well-being with effective time management and habit formation.  Remember to tailor these strategies to your individual needs and preferences.  What works for one person may not work for another.  Experiment, adapt, and find what best supports your energy levels and helps you lead a fulfilling life.

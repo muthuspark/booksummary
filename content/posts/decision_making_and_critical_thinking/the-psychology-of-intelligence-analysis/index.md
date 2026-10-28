@@ -21,14 +21,7 @@ The book details various biases. Some key ones include:
 * **Anchoring Bias:** Over-relying on the first piece of information received, even if irrelevant.  This initial "anchor" influences subsequent judgments, making them biased.
 
 
-```mermaid
-graph LR
-    A[Cognitive Biases] --> B(Mirror Imaging);
-    A --> C(Confirmation Bias);
-    A --> D(Availability Bias);
-    A --> E(Groupthink);
-    A --> F(Anchoring Bias);
-```
+![Common Cognitive Biases: Traps for the Mind. Cognitive Biases; Mirror Imaging; Confirmation Bias; Availability Bias; Groupthink; Anchoring Bias.](diagram-01.svg)
 
 ##  Structured Analytic Techniques: Mitigating Bias
 
@@ -45,13 +38,7 @@ Heuer advocates for structured analytic techniques – methods designed to count
 * **Premortem Analysis:**  Imagining a scenario where the decision has failed and then working backward to identify potential causes.  This proactive approach helps uncover hidden vulnerabilities and prevents unforeseen problems.
 
 
-```mermaid
-graph LR
-    A[Structured Analytic Techniques] --> B(Analysis of Competing Hypotheses);
-    A --> C(Devil's Advocacy);
-    A --> D(Team A/Team B Analysis);
-    A --> E(Premortem Analysis);
-```
+![Key Structured Analytic Techniques:. Structured Analytic Techniques; Analysis of Competing Hypotheses; Devil's Advocacy; Team A/Team B Analysis; Premortem Analysis.](diagram-02.svg)
 
 ##  Improving Personal Decision-Making Through Structured Analysis
 

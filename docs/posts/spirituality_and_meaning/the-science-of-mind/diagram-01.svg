@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228pt" height="352pt" viewBox="0.00 0.00 228.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Mind's Power</title><desc id="description">Universal Mind leads to Individual Consciousness. Individual Consciousness leads to Thought. Thought leads to Manifestation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 210,-334 210,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96,-275.63C96,-268.34 96,-259.78 96,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="98.45,-251.19 96,-244.19 93.55,-251.19 98.45,-251.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96,-183.81C96,-176.06 96,-167.5 96,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="98.45,-159.09 96,-152.09 93.55,-159.09 98.45,-159.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96,-71.79C96,-63.54 96,-55.04 96,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="98.45,-47.09 96,-40.09 93.55,-47.09 98.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M160,-316C160,-316 32,-316 32,-316 26,-316 20,-310 20,-304 20,-304 20,-288 20,-288 20,-282 26,-276 32,-276 32,-276 160,-276 160,-276 166,-276 172,-282 172,-288 172,-288 172,-304 172,-304 172,-310 166,-316 160,-316" />
+<text text-anchor="middle" x="96" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Universal Mind</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155.5,-244C155.5,-244 36.5,-244 36.5,-244 30.5,-244 24.5,-238 24.5,-232 24.5,-232 24.5,-196 24.5,-196 24.5,-190 30.5,-184 36.5,-184 36.5,-184 155.5,-184 155.5,-184 161.5,-184 167.5,-190 167.5,-196 167.5,-196 167.5,-232 167.5,-232 167.5,-238 161.5,-244 155.5,-244" />
+<text text-anchor="middle" x="96" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual</text>
+<text text-anchor="middle" x="96" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consciousness</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="96,-152 0,-112 96,-72 192,-112 96,-152" />
+<text text-anchor="middle" x="96" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thought</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M153.5,-40C153.5,-40 38.5,-40 38.5,-40 32.5,-40 26.5,-34 26.5,-28 26.5,-28 26.5,-12 26.5,-12 26.5,-6 32.5,0 38.5,0 38.5,0 153.5,0 153.5,0 159.5,0 165.5,-6 165.5,-12 165.5,-12 165.5,-28 165.5,-28 165.5,-34 159.5,-40 153.5,-40" />
+<text text-anchor="middle" x="96" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Manifestation</text>
+</g>
+</g>
+</svg>

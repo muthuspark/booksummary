@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="545pt" height="148pt" viewBox="0.00 0.00 545.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Building Intimacy and Connection</title><desc id="description">Quality Time leads to Intimacy. Physical Affection leads to Intimacy. Shared Interests leads to Intimacy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 527,-130 527,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114.32,-71.87C136.79,-62.88 163.7,-52.12 186.96,-42.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="188.15,-44.98 193.74,-40.1 186.33,-40.43 188.15,-44.98" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M241.5,-71.87C241.5,-64.31 241.5,-55.49 241.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="243.95,-47.1 241.5,-40.1 239.05,-47.1 243.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M378.13,-71.87C353.28,-62.62 323.39,-51.49 297.91,-42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="298.6,-39.65 291.19,-39.5 296.89,-44.24 298.6,-39.65" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M121,-112C121,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 121,-72 121,-72 127,-72 133,-78 133,-84 133,-84 133,-100 133,-100 133,-106 127,-112 121,-112" />
+<text text-anchor="middle" x="66.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Quality Time</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M279,-40C279,-40 204,-40 204,-40 198,-40 192,-34 192,-28 192,-28 192,-12 192,-12 192,-6 198,0 204,0 204,0 279,0 279,0 285,0 291,-6 291,-12 291,-12 291,-28 291,-28 291,-34 285,-40 279,-40" />
+<text text-anchor="middle" x="241.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intimacy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M315.5,-112C315.5,-112 167.5,-112 167.5,-112 161.5,-112 155.5,-106 155.5,-100 155.5,-100 155.5,-84 155.5,-84 155.5,-78 161.5,-72 167.5,-72 167.5,-72 315.5,-72 315.5,-72 321.5,-72 327.5,-78 327.5,-84 327.5,-84 327.5,-100 327.5,-100 327.5,-106 321.5,-112 315.5,-112" />
+<text text-anchor="middle" x="241.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Physical Affection</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M497,-112C497,-112 362,-112 362,-112 356,-112 350,-106 350,-100 350,-100 350,-84 350,-84 350,-78 356,-72 362,-72 362,-72 497,-72 497,-72 503,-72 509,-78 509,-84 509,-84 509,-100 509,-100 509,-106 503,-112 497,-112" />
+<text text-anchor="middle" x="429.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Interests</text>
+</g>
+</g>
+</svg>

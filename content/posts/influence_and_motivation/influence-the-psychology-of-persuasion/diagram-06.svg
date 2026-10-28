@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="239pt" height="240pt" viewBox="0.00 0.00 239.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">Scarcity: The Power of Limited Availability</title><desc id="description">Limited Availability leads to Increased Desirability. Increased Desirability leads to Higher Demand/Compliance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 221,-222 221,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.5,-163.87C101.5,-156.31 101.5,-147.49 101.5,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.95,-139.1 101.5,-132.1 99.05,-139.1 103.95,-139.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.5,-91.63C101.5,-84.34 101.5,-75.78 101.5,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.95,-67.19 101.5,-60.19 99.05,-67.19 103.95,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-204C182,-204 21,-204 21,-204 15,-204 9,-198 9,-192 9,-192 9,-176 9,-176 9,-170 15,-164 21,-164 21,-164 182,-164 182,-164 188,-164 194,-170 194,-176 194,-176 194,-192 194,-192 194,-198 188,-204 182,-204" />
+<text text-anchor="middle" x="101.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limited Availability</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-132C191,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 191,-92 191,-92 197,-92 203,-98 203,-104 203,-104 203,-120 203,-120 203,-126 197,-132 191,-132" />
+<text text-anchor="middle" x="101.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Desirability</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M189.5,-60C189.5,-60 13.5,-60 13.5,-60 7.5,-60 1.5,-54 1.5,-48 1.5,-48 1.5,-12 1.5,-12 1.5,-6 7.5,0 13.5,0 13.5,0 189.5,0 189.5,0 195.5,0 201.5,-6 201.5,-12 201.5,-12 201.5,-48 201.5,-48 201.5,-54 195.5,-60 189.5,-60" />
+<text text-anchor="middle" x="101.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Higher</text>
+<text text-anchor="middle" x="101.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Demand/Compliance</text>
+</g>
+</g>
+</svg>

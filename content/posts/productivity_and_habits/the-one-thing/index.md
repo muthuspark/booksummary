@@ -14,13 +14,7 @@ The One Thing by Gary Keller and Jay Papasan centers on the power of prioritizin
 
 The core concept revolves around the "domino effect." Keller illustrates how knocking down one large domino can trigger a chain reaction, toppling much larger obstacles than you could possibly manage individually.  Similarly, focusing on your "One Thing" creates a cascading effect, leading to the accomplishment of seemingly insurmountable goals. By identifying and prioritizing this task, you use your energy and time effectively.
 
-```mermaid
-graph LR
-    A[One Thing] --> B(Secondary Task);
-    B --> C(Tertiary Task);
-    C --> D{Goal Achieved};
-    style A fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Domino Effect:  Prioritization's Power. One Thing; Secondary Task; Tertiary Task; Goal Achieved.](diagram-01.svg)
 
 ## Identifying Your One Thing:  Questioning to Clarity
 
@@ -47,13 +41,7 @@ Effective prioritization necessitates the elimination of distractions and time-w
 * **Eliminating Multitasking:** Focus on one task at a time for optimal productivity.
 * **Saying "No":**  Learn to politely decline requests that detract from your "One Thing".
 
-```mermaid
-graph LR
-    A[Focus on One Thing] --> B(Increased Productivity);
-    B --> C(Reduced Stress);
-    C --> D(Achieved Goals);
-    style A fill:#ccf,stroke:#333,stroke-width:2px
-```
+![Eliminating Distractions:  Time Management & Focus. Focus on One Thing; Increased Productivity; Reduced Stress; Achieved Goals.](diagram-02.svg)
 
 ##  The Importance of Extracting Success:  Review and Adjustment
 

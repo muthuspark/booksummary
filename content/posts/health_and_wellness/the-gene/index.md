@@ -20,13 +20,7 @@ This knowledge empowers us to:
 *   **Seek early and frequent screenings:**  Regular check-ups and screenings can catch diseases early, when treatment is most effective.
 *   **Make informed reproductive choices:** Genetic counseling can help couples assess the risk of passing on genetic disorders to their children.
 
-```mermaid
-graph LR
-A[Genetic Testing] --> B(Identify Predispositions);
-B --> C[Lifestyle Changes];
-B --> D[Early Screenings];
-B --> E[Reproductive Decisions];
-```
+![The Power of Understanding Risk: Predictive Medicine. Genetic Testing; Identify Predispositions; Lifestyle Changes; Early Screenings; Reproductive Decisions.](diagram-01.svg)
 
 ## The Gene's Influence on Behavior and Personality
 
@@ -45,12 +39,7 @@ The book extensively discusses the ethical complexities surrounding genetic engi
 *   **Responsible innovation:** The development and application of gene editing technologies must be guided by ethical principles and regulatory frameworks to prevent misuse and unintended consequences.
 
 
-```mermaid
-graph LR
-A[Genetic Engineering] --> B(Informed Consent);
-A --> C(Equitable Access);
-A --> D(Responsible Innovation);
-```
+![Ethical Considerations and Genetic Engineering. Genetic Engineering; Informed Consent; Equitable Access; Responsible Innovation.](diagram-02.svg)
 
 ##  The Importance of Environmental Factors: Nature vs. Nurture
 

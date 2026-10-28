@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="471pt" height="406pt" viewBox="0.00 0.00 471.00 406.00" role="img" aria-labelledby="title description">
+<title id="title">Realistic Optimism: A Balanced Approach</title><desc id="description">Unrealistic Optimism leads to Poor Planning. Unrealistic Optimism leads to Risk Underestimation. Unrealistic Optimism leads to Disappointment. Realistic Optimism leads to Effective Planning. Realistic Optimism leads to Informed Risk Assessment. Realistic Optimism leads to Resilience.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 388)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-388 453,-388 453,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.84,-102.04C201.19,-108.83 229.53,-116.42 255.07,-123.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.45,-125.63 261.85,-125.08 255.72,-120.9 254.45,-125.63" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.18,-82C208.17,-82 216.26,-82 224.31,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.68,-84.45 231.68,-82 224.68,-79.55 224.68,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.84,-61.96C199.75,-55.55 226.33,-48.43 250.71,-41.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="251.39,-44.26 257.52,-40.08 250.12,-39.53 251.39,-44.26" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.95,-298.07C186.27,-304.75 210.15,-312.21 232,-319 241.19,-321.86 250.86,-324.85 260.41,-327.8" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="259.93,-330.22 267.34,-329.94 261.38,-325.54 259.93,-330.22" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M190.5,-278C211.45,-278 233.6,-278 254.02,-278" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.16,-280.45 261.16,-278 254.16,-275.55 254.16,-280.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.95,-257.93C186.27,-251.25 210.15,-243.79 232,-237 244.77,-233.03 258.46,-228.8 271.49,-224.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="272.28,-227.1 278.24,-222.69 270.83,-222.41 272.28,-227.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-102C188,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 188,-62 188,-62 194,-62 200,-68 200,-74 200,-74 200,-90 200,-90 200,-96 194,-102 188,-102" />
+<text text-anchor="middle" x="100" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unrealistic Optimism</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M393,-164C393,-164 274,-164 274,-164 268,-164 262,-158 262,-152 262,-152 262,-136 262,-136 262,-130 268,-124 274,-124 274,-124 393,-124 393,-124 399,-124 405,-130 405,-136 405,-136 405,-152 405,-152 405,-158 399,-164 393,-164" />
+<text text-anchor="middle" x="333.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Poor Planning</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M423,-102C423,-102 244,-102 244,-102 238,-102 232,-96 232,-90 232,-90 232,-74 232,-74 232,-68 238,-62 244,-62 244,-62 423,-62 423,-62 429,-62 435,-68 435,-74 435,-74 435,-90 435,-90 435,-96 429,-102 423,-102" />
+<text text-anchor="middle" x="333.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk Underestimation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M400.5,-40C400.5,-40 266.5,-40 266.5,-40 260.5,-40 254.5,-34 254.5,-28 254.5,-28 254.5,-12 254.5,-12 254.5,-6 260.5,0 266.5,0 266.5,0 400.5,0 400.5,0 406.5,0 412.5,-6 412.5,-12 412.5,-12 412.5,-28 412.5,-28 412.5,-34 406.5,-40 400.5,-40" />
+<text text-anchor="middle" x="333.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disappointment</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M178.5,-298C178.5,-298 21.5,-298 21.5,-298 15.5,-298 9.5,-292 9.5,-286 9.5,-286 9.5,-270 9.5,-270 9.5,-264 15.5,-258 21.5,-258 21.5,-258 178.5,-258 178.5,-258 184.5,-258 190.5,-264 190.5,-270 190.5,-270 190.5,-286 190.5,-286 190.5,-292 184.5,-298 178.5,-298" />
+<text text-anchor="middle" x="100" y="-273.6" font-family="Georgia" font-size="18.00" fill="#243d36">Realistic Optimism</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M409,-370C409,-370 258,-370 258,-370 252,-370 246,-364 246,-358 246,-358 246,-342 246,-342 246,-336 252,-330 258,-330 258,-330 409,-330 409,-330 415,-330 421,-336 421,-342 421,-342 421,-358 421,-358 421,-364 415,-370 409,-370" />
+<text text-anchor="middle" x="333.5" y="-345.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective Planning</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M393.5,-308C393.5,-308 273.5,-308 273.5,-308 267.5,-308 261.5,-302 261.5,-296 261.5,-296 261.5,-260 261.5,-260 261.5,-254 267.5,-248 273.5,-248 273.5,-248 393.5,-248 393.5,-248 399.5,-248 405.5,-254 405.5,-260 405.5,-260 405.5,-296 405.5,-296 405.5,-302 399.5,-308 393.5,-308" />
+<text text-anchor="middle" x="333.5" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Informed Risk</text>
+<text text-anchor="middle" x="333.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assessment</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M376.5,-226C376.5,-226 290.5,-226 290.5,-226 284.5,-226 278.5,-220 278.5,-214 278.5,-214 278.5,-198 278.5,-198 278.5,-192 284.5,-186 290.5,-186 290.5,-186 376.5,-186 376.5,-186 382.5,-186 388.5,-192 388.5,-198 388.5,-198 388.5,-214 388.5,-214 388.5,-220 382.5,-226 376.5,-226" />
+<text text-anchor="middle" x="333.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience</text>
+</g>
+</g>
+</svg>

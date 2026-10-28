@@ -48,14 +48,7 @@ This process requires both courage and vulnerability, as it necessitates open an
 
 Disagreements and conflicts are inevitable in any marriage. The book teaches couples how to navigate these challenges constructively.  It emphasizes the importance of mutual respect, compromise, and finding common ground.  Negotiation is a skill that requires practice, patience, and a willingness to understand each other’s perspectives.  It's not about winning or losing, but about finding solutions that satisfy both partners’ needs.
 
-```mermaid
-graph LR
-A[Identify Needs] --> B(Express Feelings);
-B --> C{Set Limits};
-C --> D[Enforce Consequences];
-D --> E(Active Listening);
-E --> F[Negotiate & Compromise];
-```
+![Negotiating Differences and Finding Common Ground. Identify Needs; Express Feelings; Set Limits; Enforce Consequences; Active Listening; Negotiate & Compromise.](diagram-01.svg)
 
 
 ##  Forgiveness and Reconciliation: Healing from Boundary Violations

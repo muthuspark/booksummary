@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412pt" height="344pt" viewBox="0.00 0.00 412.00 344.00" role="img" aria-labelledby="title description">
+<title id="title">The Core Components of Social Intelligence</title><desc id="description">Social Intelligence leads to Empathy. Social Intelligence leads to Social Awareness. Social Intelligence leads to Self-Awareness. Social Intelligence leads to Self-Management. Social Intelligence leads to Relationship Management.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 326)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-326 394,-326 394,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M109.13,-184.06C131.67,-204.6 169.13,-236.35 206,-257 214.71,-261.88 224.33,-266.25 233.86,-270.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="233.02,-272.38 240.43,-272.64 234.79,-267.82 233.02,-272.38" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M153.3,-184.04C173.9,-190.37 196.77,-197.38 217.81,-203.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.16,-206.21 224.57,-205.92 218.6,-201.52 217.16,-206.21" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M174.25,-164C185.51,-164 197.02,-164 208.2,-164" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.5,-166.45 215.5,-164 208.5,-161.55 208.5,-166.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M153.3,-143.96C173.9,-137.63 196.77,-130.62 217.81,-124.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.6,-126.48 224.57,-122.08 217.16,-121.79 218.6,-126.48" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.43,-143.94C133.4,-123.98 170.66,-93.2 206,-71 209.97,-68.51 214.11,-66.05 218.34,-63.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.65,-65.74 224.59,-60.21 217.27,-61.45 219.65,-65.74" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162,-184C162,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 162,-144 162,-144 168,-144 174,-150 174,-156 174,-156 174,-172 174,-172 174,-178 168,-184 162,-184" />
+<text text-anchor="middle" x="87" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Intelligence</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M329.5,-308C329.5,-308 252.5,-308 252.5,-308 246.5,-308 240.5,-302 240.5,-296 240.5,-296 240.5,-280 240.5,-280 240.5,-274 246.5,-268 252.5,-268 252.5,-268 329.5,-268 329.5,-268 335.5,-268 341.5,-274 341.5,-280 341.5,-280 341.5,-296 341.5,-296 341.5,-302 335.5,-308 329.5,-308" />
+<text text-anchor="middle" x="291" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M362,-246C362,-246 220,-246 220,-246 214,-246 208,-240 208,-234 208,-234 208,-218 208,-218 208,-212 214,-206 220,-206 220,-206 362,-206 362,-206 368,-206 374,-212 374,-218 374,-218 374,-234 374,-234 374,-240 368,-246 362,-246" />
+<text text-anchor="middle" x="291" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Awareness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M354.5,-184C354.5,-184 227.5,-184 227.5,-184 221.5,-184 215.5,-178 215.5,-172 215.5,-172 215.5,-156 215.5,-156 215.5,-150 221.5,-144 227.5,-144 227.5,-144 354.5,-144 354.5,-144 360.5,-144 366.5,-150 366.5,-156 366.5,-156 366.5,-172 366.5,-172 366.5,-178 360.5,-184 354.5,-184" />
+<text text-anchor="middle" x="291" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M364,-122C364,-122 218,-122 218,-122 212,-122 206,-116 206,-110 206,-110 206,-94 206,-94 206,-88 212,-82 218,-82 218,-82 364,-82 364,-82 370,-82 376,-88 376,-94 376,-94 376,-110 376,-110 376,-116 370,-122 364,-122" />
+<text text-anchor="middle" x="291" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Management</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M345.5,-60C345.5,-60 236.5,-60 236.5,-60 230.5,-60 224.5,-54 224.5,-48 224.5,-48 224.5,-12 224.5,-12 224.5,-6 230.5,0 236.5,0 236.5,0 345.5,0 345.5,0 351.5,0 357.5,-6 357.5,-12 357.5,-12 357.5,-48 357.5,-48 357.5,-54 351.5,-60 345.5,-60" />
+<text text-anchor="middle" x="291" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship</text>
+<text text-anchor="middle" x="291" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Management</text>
+</g>
+</g>
+</svg>

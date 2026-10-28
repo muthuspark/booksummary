@@ -23,15 +23,7 @@ A central theme revolves around the importance of diaphragmatic breathing (also 
 * **Better Sleep:** Deep, slow breaths contribute to improved sleep quality.
 * **Enhanced Athletic Performance:**  Optimal oxygen utilization enhances physical capabilities.
 
-```mermaid
-graph LR
-    A[Shallow Chest Breathing] --> B(Reduced Oxygen Intake);
-    A --> C(Increased Stress);
-    A --> D(Poor Sleep);
-    E[Diaphragmatic Breathing] --> F(Improved Oxygen Intake);
-    E --> G(Reduced Stress);
-    E --> H(Better Sleep);
-```
+![The Science of Breath: Diaphragmatic Breathing. Shallow Chest Breathing; Reduced Oxygen Intake; Increased Stress; Poor Sleep; Diaphragmatic Breathing; Improved Oxygen Intake; Reduced Stress; Better Sleep.](diagram-01.svg)
 
 # Practical Breathing Exercises and Techniques
 

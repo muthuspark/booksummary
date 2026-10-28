@@ -14,15 +14,7 @@ Steven J. Stein's "The EQ Leader" isn't just about leadership; it's a detailed g
 
 The cornerstone of high EQ is self-awareness.  This involves understanding your emotions, strengths, weaknesses, values, and how they influence your behavior.  Stein provides practical strategies for enhancing self-awareness, such as keeping a journal to track your emotional responses to different situations, seeking honest feedback from trusted colleagues and friends, and practicing mindfulness to become more attuned to your inner world.  Regular self-reflection is paramount.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Journaling);
-A --> C(Feedback from Others);
-A --> D(Mindfulness);
-B --> E[Increased Self-Awareness];
-C --> E;
-D --> E;
-```
+![Self-Awareness: Knowing Yourself. Self-Reflection; Journaling; Feedback from Others; Mindfulness; Increased Self-Awareness.](diagram-01.svg)
 
 # Self-Regulation: Managing Your Emotions
 
@@ -37,13 +29,7 @@ High EQ individuals are intrinsically motivated and possess a strong work ethic.
 
 Empathy involves understanding and sharing the feelings of others.  It's a critical element in building strong relationships and fostering collaboration. Stein highlights the importance of active listening, paying attention to both verbal and nonverbal cues, and demonstrating genuine concern for others' perspectives.  He suggests practicing perspective-taking, imagining yourself in another person's shoes to better understand their feelings and motivations.  Empathy fuels effective communication and conflict resolution.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Understanding Verbal Cues);
-A --> C(Understanding Nonverbal Cues);
-B --> D[Empathy];
-C --> D;
-```
+![Empathy: Understanding Others. Active Listening; Understanding Verbal Cues; Understanding Nonverbal Cues; Empathy.](diagram-02.svg)
 
 # Social Skills: Building Relationships
 

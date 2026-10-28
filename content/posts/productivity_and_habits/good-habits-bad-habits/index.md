@@ -14,12 +14,7 @@ Wendy Wood's "Good Habits, Bad Habits" delves into the science behind habit form
 
 The book's central framework is the "habit loop," a three-part process:
 
-```mermaid
-graph LR
-    A[Cue] --> B(Routine);
-    B --> C{Reward};
-    C --> A;
-```
+![The Habit Loop: Cue, Routine, Reward. Cue; Routine; Reward.](diagram-01.svg)
 
 * **Cue:** This is the trigger that initiates the habit. It can be an internal state (e.g., feeling stressed) or an external stimulus (e.g., seeing a certain place or person).  Identifying these cues is the first step toward habit change.
 

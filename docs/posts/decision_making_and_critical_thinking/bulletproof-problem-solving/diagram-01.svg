@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218pt" height="436pt" viewBox="0.00 0.00 218.00 436.00" role="img" aria-labelledby="title description">
+<title id="title">Defining the Problem: Clarity is Key</title><desc id="description">Problem Statement leads to Why?. Why? leads to Why?. Why? leads to Why?. Why? leads to Why?. Why? leads to Root Cause.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 418)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-418 200,-418 200,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-359.87C91,-352.31 91,-343.49 91,-335.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-335.1 91,-328.1 88.55,-335.1 93.45,-335.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-287.87C91,-280.31 91,-271.49 91,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-263.1 91,-256.1 88.55,-263.1 93.45,-263.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-215.87C91,-208.31 91,-199.49 91,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-191.1 91,-184.1 88.55,-191.1 93.45,-191.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-143.87C91,-136.31 91,-127.49 91,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-119.1 91,-112.1 88.55,-119.1 93.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-71.87C91,-64.31 91,-55.49 91,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-47.1 91,-40.1 88.55,-47.1 93.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-400C170,-400 12,-400 12,-400 6,-400 0,-394 0,-388 0,-388 0,-372 0,-372 0,-366 6,-360 12,-360 12,-360 170,-360 170,-360 176,-360 182,-366 182,-372 182,-372 182,-388 182,-388 182,-394 176,-400 170,-400" />
+<text text-anchor="middle" x="91" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem Statement</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116,-328C116,-328 66,-328 66,-328 60,-328 54,-322 54,-316 54,-316 54,-300 54,-300 54,-294 60,-288 66,-288 66,-288 116,-288 116,-288 122,-288 128,-294 128,-300 128,-300 128,-316 128,-316 128,-322 122,-328 116,-328" />
+<text text-anchor="middle" x="91" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116,-256C116,-256 66,-256 66,-256 60,-256 54,-250 54,-244 54,-244 54,-228 54,-228 54,-222 60,-216 66,-216 66,-216 116,-216 116,-216 122,-216 128,-222 128,-228 128,-228 128,-244 128,-244 128,-250 122,-256 116,-256" />
+<text text-anchor="middle" x="91" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116,-184C116,-184 66,-184 66,-184 60,-184 54,-178 54,-172 54,-172 54,-156 54,-156 54,-150 60,-144 66,-144 66,-144 116,-144 116,-144 122,-144 128,-150 128,-156 128,-156 128,-172 128,-172 128,-178 122,-184 116,-184" />
+<text text-anchor="middle" x="91" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116,-112C116,-112 66,-112 66,-112 60,-112 54,-106 54,-100 54,-100 54,-84 54,-84 54,-78 60,-72 66,-72 66,-72 116,-72 116,-72 122,-72 128,-78 128,-84 128,-84 128,-100 128,-100 128,-106 122,-112 116,-112" />
+<text text-anchor="middle" x="91" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M138.5,-40C138.5,-40 43.5,-40 43.5,-40 37.5,-40 31.5,-34 31.5,-28 31.5,-28 31.5,-12 31.5,-12 31.5,-6 37.5,0 43.5,0 43.5,0 138.5,0 138.5,0 144.5,0 150.5,-6 150.5,-12 150.5,-12 150.5,-28 150.5,-28 150.5,-34 144.5,-40 138.5,-40" />
+<text text-anchor="middle" x="91" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Root Cause</text>
+</g>
+</g>
+</svg>

@@ -26,17 +26,7 @@ Superforecasters aren't necessarily geniuses; they possess a unique combination 
 * **Disciplined thinking:**  Structured approach to problem-solving and forecasting.
 
 
-```mermaid
-graph LR
-A[Intelligence] --> B(Cognitive Skills);
-C[Open-mindedness] --> B;
-D[Numeracy] --> B;
-E[Active Info Gathering] --> F(Habits);
-G[Self-awareness] --> F;
-H[Disciplined Thinking] --> F;
-B --> I(Superforecaster);
-F --> I;
-```
+![Key Characteristics of Superforecasters. Intelligence; Cognitive Skills; Open-mindedness; Numeracy; Active Info Gathering; Habits; Self-awareness; Disciplined Thinking; Superforecaster.](diagram-01.svg)
 
 
 ##  Strategies for Improving Forecasting Accuracy

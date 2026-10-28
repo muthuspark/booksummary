@@ -14,15 +14,7 @@ Mihaly Csikszentmihalyi's "Flow: The Psychology of Optimal Experience" explores 
 
 Flow experiences aren't passive; they require active engagement.  The core of flow lies in the dynamic interaction between an individual's skills and the challenges presented by a task or activity.  When the challenge level is too low, boredom ensues. Conversely, if the challenge is too high, anxiety and frustration dominate.  Flow resides in the "sweet spot" where these two elements are optimally balanced.
 
-```mermaid
-graph LR
-    A[Boredom] --> B(Flow);
-    C[Anxiety] --> B;
-    B --> D{Low Challenge, High Skill};
-    B --> E{High Challenge, High Skill};
-    D --> F[Apathy];
-    E --> G[Control];
-```
+![The Essence of Flow:  A Balanced Act. Boredom; Flow; Anxiety; Low Challenge, High Skill; High Challenge, High Skill; Apathy; Control.](diagram-01.svg)
 
 # Identifying Your Flow Activities:  Know Thyself
 

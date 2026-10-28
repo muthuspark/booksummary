@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264pt" height="312pt" viewBox="0.00 0.00 264.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">Talk in Terms of the Other Person's Interests</title><desc id="description">Understanding Other's Interests leads to Tailored Communication. Tailored Communication leads to Stronger Connection. Stronger Connection leads to Mutual Respect.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 246,-294 246,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-215.67C114,-207.77 114,-199.28 114,-191.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-191.12 114,-184.12 111.55,-191.12 116.45,-191.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-143.87C114,-136.31 114,-127.49 114,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-119.1 114,-112.1 111.55,-119.1 116.45,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-71.87C114,-64.31 114,-55.49 114,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-47.1 114,-40.1 111.55,-47.1 116.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M207,-276C207,-276 21,-276 21,-276 15,-276 9,-270 9,-264 9,-264 9,-228 9,-228 9,-222 15,-216 21,-216 21,-216 207,-216 207,-216 213,-216 219,-222 219,-228 219,-228 219,-264 219,-264 219,-270 213,-276 207,-276" />
+<text text-anchor="middle" x="114" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Other's</text>
+<text text-anchor="middle" x="114" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interests</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M216,-184C216,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 216,-144 216,-144 222,-144 228,-150 228,-156 228,-156 228,-172 228,-172 228,-178 222,-184 216,-184" />
+<text text-anchor="middle" x="114" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tailored Communication</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198.5,-112C198.5,-112 29.5,-112 29.5,-112 23.5,-112 17.5,-106 17.5,-100 17.5,-100 17.5,-84 17.5,-84 17.5,-78 23.5,-72 29.5,-72 29.5,-72 198.5,-72 198.5,-72 204.5,-72 210.5,-78 210.5,-84 210.5,-84 210.5,-100 210.5,-100 210.5,-106 204.5,-112 198.5,-112" />
+<text text-anchor="middle" x="114" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Connection</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M179,-40C179,-40 49,-40 49,-40 43,-40 37,-34 37,-28 37,-28 37,-12 37,-12 37,-6 43,0 49,0 49,0 179,0 179,0 185,0 191,-6 191,-12 191,-12 191,-28 191,-28 191,-34 185,-40 179,-40" />
+<text text-anchor="middle" x="114" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Respect</text>
+</g>
+</g>
+</svg>

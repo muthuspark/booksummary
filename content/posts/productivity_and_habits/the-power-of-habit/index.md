@@ -17,12 +17,7 @@ Charles Duhigg's "The Power of Habit" reveals the science behind habit formation
 Understanding this loop is the first step toward changing unwanted habits or building beneficial ones.
 
 
-```mermaid
-graph LR
-A[Cue] --> B(Routine);
-B --> C{Reward};
-C --> A;
-```
+![The Habit Loop: Understanding the Mechanics of Habit. Cue; Routine; Reward.](diagram-01.svg)
 
 # Identifying Your Habits:  Awareness is Key
 

@@ -38,11 +38,7 @@ These are not presented as separate skills but as interconnected elements that t
 
 Trust is the bedrock of the entire framework presented in the book. Lencioni emphasizes that trust is not merely about honesty, but also about vulnerability. Team members need to feel safe to admit weaknesses, express concerns, and openly share without fear of judgment or retribution. A leader fosters this by demonstrating vulnerability themselves, modeling the behavior they expect from their team. This involves sharing personal experiences, admitting mistakes, and actively listening to others.
 
-```mermaid
-graph LR
-A[Leader's Vulnerability] --> B(Team Trust);
-B --> C{High Performance};
-```
+![Building Trust: The Cornerstone of Success. Leader's Vulnerability; Team Trust; High Performance.](diagram-01.svg)
 
 ## Fostering Healthy Conflict: Embracing Disagreement
 

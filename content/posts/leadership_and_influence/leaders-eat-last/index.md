@@ -15,13 +15,7 @@ Simon Sinek's "Leaders Eat Last" explores the biological and sociological bases 
 
 The book delves into the neurobiological basis of human cooperation. Our brains are wired for both competition and cooperation, but the latter is essential for survival and success. When we feel safe and protected, our bodies release oxytocin, a hormone associated with trust and bonding, reducing stress and enhancing our ability to collaborate effectively. Conversely, feeling threatened triggers the release of cortisol, a stress hormone that hinders cooperation and decision-making. Leaders who effectively manage these hormonal responses create an environment of collaboration rather than competition.
 
-```mermaid
-graph LR
-A[Threat] --> B(Cortisol Release);
-B --> C[Stress, Fear, Poor Performance];
-D[Safety & Trust] --> E(Oxytocin Release);
-E --> F[Cooperation, Reduced Stress, High Performance];
-```
+![The Biology of Trust and Cooperation: Understanding Our Instincts. Threat; Cortisol Release; Stress, Fear, Poor Performance; Safety & Trust; Oxytocin Release; Cooperation, Reduced Stress, High Performance.](diagram-01.svg)
 
 
 ## The Importance of  "The Circle": Building a Culture of Trust
@@ -53,13 +47,7 @@ The book addresses the power dynamics within hierarchies. Sinek argues that hier
 
 Rituals and symbols play a key role in creating and reinforcing the circle of safety. These could be team-building activities, regular meetings, or simply acknowledging and celebrating team successes. Such activities build trust, a sense of community, and reinforce shared values. Leaders can use symbols – like logos, mottos, or shared stories – to communicate the organization's values and a shared identity among team members. These rituals and symbols contribute to the sense of belonging and create a shared cultural identity within the team.
 
-```mermaid
-graph LR
-A[Rituals & Symbols] --> B(Team Building);
-B --> C(Shared Identity);
-C --> D[Stronger Circle of Safety];
-E[Shared Values] --> D;
-```
+![The Role of Rituals and Symbols: Reinforcing the Circle of Safety. Rituals & Symbols; Team Building; Shared Identity; Stronger Circle of Safety; Shared Values.](diagram-02.svg)
 
 ## Actionable Advice for Personal and Professional Growth: Practical Applications of the Principles
 

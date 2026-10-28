@@ -50,24 +50,7 @@ Finally, Wright emphasizes the importance of sharing a long-term vision.  He enc
 
 
 
-```mermaid
-graph LR
-    A[Understanding Values & Goals] --> B(Effective Communication);
-    B --> C{Financial Planning};
-    B --> D(Family & Friends Dynamics);
-    B --> E(Spiritual & Religious Beliefs);
-    B --> F(Sexual Intimacy);
-    B --> G(Conflict Resolution);
-    G --> H[Premarital Counseling];
-    C --> H;
-    D --> H;
-    E --> H;
-    F --> H;
-    H --> I(Lifestyle & Habits);
-    I --> J[Long-Term Vision];
-    A --> J;
-
-```
+![Long-Term Vision:  Planning for the Future. Understanding Values & Goals; Effective Communication; Financial Planning; Family & Friends Dynamics; Spiritual & Religious Beliefs; Sexual Intimacy; Conflict Resolution; Premarital Counseling; Lifestyle & Habits; Long-Term Vision.](diagram-01.svg)
 
 This diagram visually represents the interconnectedness of the key areas discussed in the book, illustrating how strong communication is the foundation upon which all other aspects of a successful marriage are built.  Each area feeds into the overall goal of creating a strong and lasting marriage.  The central role of premarital counseling is also clearly shown.  Wright's book provides a practical framework for couples to assess these areas, enabling them to build a stronger foundation for a fulfilling marriage.
 

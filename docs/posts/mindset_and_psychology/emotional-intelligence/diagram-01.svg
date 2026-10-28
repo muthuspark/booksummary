@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430pt" height="324pt" viewBox="0.00 0.00 430.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">The Pillars of Emotional Intelligence</title><desc id="description">Emotional Intelligence leads to Self-Awareness. Emotional Intelligence leads to Self-Regulation. Emotional Intelligence leads to Motivation. Emotional Intelligence leads to Empathy. Emotional Intelligence leads to Social Skills.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 412,-306 412,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M132.05,-164.24C158.68,-184.34 201.75,-215.22 242,-237 247.08,-239.75 252.45,-242.41 257.89,-244.94" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="256.92,-247.19 264.3,-247.85 258.94,-242.73 256.92,-247.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M174.21,-164.04C195.82,-170.39 219.82,-177.44 241.88,-183.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.25,-186.3 248.66,-185.92 242.63,-181.59 241.25,-186.3" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210.26,-144C224.72,-144 239.2,-144 252.63,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.98,-146.45 259.98,-144 252.98,-141.55 252.98,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M174.21,-123.96C202.07,-115.77 233.9,-106.42 260.43,-98.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="261.38,-100.9 267.41,-96.57 260,-96.2 261.38,-100.9" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M132.05,-123.76C158.68,-103.66 201.75,-72.78 242,-51 247.08,-48.25 252.45,-45.59 257.89,-43.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="258.94,-45.27 264.3,-40.15 256.92,-40.81 258.94,-45.27" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198,-164C198,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 198,-124 198,-124 204,-124 210,-130 210,-136 210,-136 210,-152 210,-152 210,-158 204,-164 198,-164" />
+<text text-anchor="middle" x="105" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Intelligence</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M381.5,-288C381.5,-288 254.5,-288 254.5,-288 248.5,-288 242.5,-282 242.5,-276 242.5,-276 242.5,-260 242.5,-260 242.5,-254 248.5,-248 254.5,-248 254.5,-248 381.5,-248 381.5,-248 387.5,-248 393.5,-254 393.5,-260 393.5,-260 393.5,-276 393.5,-276 393.5,-282 387.5,-288 381.5,-288" />
+<text text-anchor="middle" x="318" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M382,-226C382,-226 254,-226 254,-226 248,-226 242,-220 242,-214 242,-214 242,-198 242,-198 242,-192 248,-186 254,-186 254,-186 382,-186 382,-186 388,-186 394,-192 394,-198 394,-198 394,-214 394,-214 394,-220 388,-226 382,-226" />
+<text text-anchor="middle" x="318" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M364,-164C364,-164 272,-164 272,-164 266,-164 260,-158 260,-152 260,-152 260,-136 260,-136 260,-130 266,-124 272,-124 272,-124 364,-124 364,-124 370,-124 376,-130 376,-136 376,-136 376,-152 376,-152 376,-158 370,-164 364,-164" />
+<text text-anchor="middle" x="318" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Motivation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356.5,-102C356.5,-102 279.5,-102 279.5,-102 273.5,-102 267.5,-96 267.5,-90 267.5,-90 267.5,-74 267.5,-74 267.5,-68 273.5,-62 279.5,-62 279.5,-62 356.5,-62 356.5,-62 362.5,-62 368.5,-68 368.5,-74 368.5,-74 368.5,-90 368.5,-90 368.5,-96 362.5,-102 356.5,-102" />
+<text text-anchor="middle" x="318" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M367.5,-40C367.5,-40 268.5,-40 268.5,-40 262.5,-40 256.5,-34 256.5,-28 256.5,-28 256.5,-12 256.5,-12 256.5,-6 262.5,0 268.5,0 268.5,0 367.5,0 367.5,0 373.5,0 379.5,-6 379.5,-12 379.5,-12 379.5,-28 379.5,-28 379.5,-34 373.5,-40 367.5,-40" />
+<text text-anchor="middle" x="318" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Skills</text>
+</g>
+</g>
+</svg>

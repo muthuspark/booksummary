@@ -24,15 +24,7 @@ Goleman defines emotional intelligence as five key domains:
 
 These domains are interconnected and build upon each other.  Strong self-awareness is foundational to self-regulation, while empathy and social skills rely on both self-awareness and self-regulation.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Self-Regulation);
-A --> C(Empathy);
-B --> D(Social Skills);
-C --> D;
-A --> E[Motivation];
-B --> E;
-```
+![Defining Emotional Intelligence. Self-Awareness; Self-Regulation; Empathy; Social Skills; Motivation.](diagram-01.svg)
 
 ## Self-Awareness: Knowing Yourself
 

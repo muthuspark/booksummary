@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470pt" height="138pt" viewBox="0.00 0.00 470.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Systems Thinking</title><desc id="description">Individual Element leads to System. System leads to Outcome. Outcome leads to System. Feedback Loop leads to System.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 452,-120 452,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M183.41,-64.87C191.83,-63.28 200.13,-61.72 207.94,-60.24" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.55,-62.62 214.98,-58.92 207.64,-57.81 208.55,-62.62" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301.16,-43.13C308.97,-42.82 317.24,-42.7 325.41,-42.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.83,-45.23 332.87,-42.89 325.91,-40.33 325.83,-45.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M332.87,-59.11C324.82,-59.3 316.49,-59.3 308.44,-59.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="308.23,-56.64 301.16,-58.87 308.07,-61.54 308.23,-56.64" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166.09,-33.87C180.09,-36.51 194.43,-39.21 207.47,-41.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="207.23,-44.11 214.56,-43 208.14,-39.3 207.23,-44.11" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M171,-102C171,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 171,-62 171,-62 177,-62 183,-68 183,-74 183,-74 183,-90 183,-90 183,-96 177,-102 171,-102" />
+<text text-anchor="middle" x="91.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Element</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M289,-71C289,-71 227,-71 227,-71 221,-71 215,-65 215,-59 215,-59 215,-43 215,-43 215,-37 221,-31 227,-31 227,-31 289,-31 289,-31 295,-31 301,-37 301,-43 301,-43 301,-59 301,-59 301,-65 295,-71 289,-71" />
+<text text-anchor="middle" x="258" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">System</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M422,-71C422,-71 345,-71 345,-71 339,-71 333,-65 333,-59 333,-59 333,-43 333,-43 333,-37 339,-31 345,-31 345,-31 422,-31 422,-31 428,-31 434,-37 434,-43 434,-43 434,-59 434,-59 434,-65 428,-71 422,-71" />
+<text text-anchor="middle" x="383.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154,-40C154,-40 29,-40 29,-40 23,-40 17,-34 17,-28 17,-28 17,-12 17,-12 17,-6 23,0 29,0 29,0 154,0 154,0 160,0 166,-6 166,-12 166,-12 166,-28 166,-28 166,-34 160,-40 154,-40" />
+<text text-anchor="middle" x="91.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback Loop</text>
+</g>
+</g>
+</svg>

@@ -63,23 +63,7 @@ This translates into actionable advice: *Practice self-reflection*. Regularly as
 
 ###  Leading Through Crisis: A Summary
 
-```mermaid
-graph LR
-A[Turbulent Times] --> B(Empathy & Emotional Intelligence);
-A --> C(Strong Team Building);
-A --> D(Moral Decision Making);
-A --> E(Effective Communication);
-A --> F(Adaptability & Resilience);
-A --> G(Long-Term Vision);
-A --> H(Self-Reflection & Learning);
-B --> I(Active Listening);
-C --> J(Diversity & Collaboration);
-D --> K(Clear Values);
-E --> L(Storytelling & Transparency);
-F --> M(Stress Management);
-G --> N(Goal Setting & Risk Taking);
-H --> O(Feedback & Growth Mindset);
-```
+![Leading Through Crisis: A Summary. Turbulent Times; Empathy & Emotional Intelligence; Strong Team Building; Moral Decision Making; Effective Communication; Adaptability & Resilience; Long-Term Vision; Self-Reflection & Learning; Active Listening; Diversity & Collaboration; Clear Values; Storytelling & Transparency; Stress Management; Goal Setting & Risk Taking; Feedback & Growth Mindset.](diagram-01.svg)
 
 
 Ultimately, "Leadership in Turbulent Times" emphasizes that effective leadership is not simply about possessing innate qualities but about consciously cultivating key skills and adopting certain strategies. By understanding the lessons learned from these historical figures, readers can equip themselves to navigate their own challenges with greater wisdom, resilience, and success.  The book encourages us to be self-aware, empathetic, and courageous in the face of adversity – qualities that are essential not just for leaders in high office, but for everyone seeking to improve their lives and make a meaningful difference in the world.

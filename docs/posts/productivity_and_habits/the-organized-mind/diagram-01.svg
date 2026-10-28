@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340pt" height="76pt" viewBox="0.00 0.00 340.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">The Brain's Limitations and the Illusion of Multitasking</title><desc id="description">Task 1 leads to Switch. Switch leads to Task 2. Task 2 leads to Switch.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 322,-58 322,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78.16,-20C85.96,-20 94.25,-20 102.32,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.66,-22.45 109.66,-20 102.66,-17.55 102.66,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192.07,-12.04C199.97,-11.74 208.31,-11.67 216.4,-11.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.66,-14.3 223.73,-12.07 216.81,-9.41 216.66,-14.3" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223.73,-27.93C215.87,-28.25 207.53,-28.33 199.43,-28.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.14,-25.71 192.07,-27.96 199,-30.61 199.14,-25.71" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M66,-40C66,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 66,0 66,0 72,0 78,-6 78,-12 78,-12 78,-28 78,-28 78,-34 72,-40 66,-40" />
+<text text-anchor="middle" x="39" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Task 1</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180,-40C180,-40 122,-40 122,-40 116,-40 110,-34 110,-28 110,-28 110,-12 110,-12 110,-6 116,0 122,0 122,0 180,0 180,0 186,0 192,-6 192,-12 192,-12 192,-28 192,-28 192,-34 186,-40 180,-40" />
+<text text-anchor="middle" x="151" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Switch</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-40C292,-40 236,-40 236,-40 230,-40 224,-34 224,-28 224,-28 224,-12 224,-12 224,-6 230,0 236,0 236,0 292,0 292,0 298,0 304,-6 304,-12 304,-12 304,-28 304,-28 304,-34 298,-40 292,-40" />
+<text text-anchor="middle" x="264" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Task 2</text>
+</g>
+</g>
+</svg>

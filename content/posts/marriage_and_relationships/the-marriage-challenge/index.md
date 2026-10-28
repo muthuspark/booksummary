@@ -18,12 +18,7 @@ The Bennetts stress the critical role of self-awareness in building a successful
 
 Effective communication forms the backbone of the Bennetts' approach. They highlight the importance of active listening, empathy, and clear expression of needs and feelings.  The book strongly discourages passive-aggressive communication styles and promotes open, honest dialogue, even when discussing difficult or sensitive topics.  Learning to communicate constructively, focusing on "I" statements rather than accusatory "you" statements, is central to their advice.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Effective Communication);
-B --> C{Conflict Resolution};
-C --> D[Stronger Marriage];
-```
+![Communication: The Cornerstone of a Strong Marriage. Self-Awareness; Effective Communication; Conflict Resolution; Stronger Marriage.](diagram-01.svg)
 
 ## Navigating Conflict Constructively
 
@@ -61,17 +56,7 @@ The book acknowledges that life is constantly evolving, and marriages must to th
 
 Finally, the Bennetts acknowledge that seeking external support, such as professional counseling or guidance from trusted mentors or advisors, can be beneficial, particularly when couples face significant challenges. This isn't a sign of weakness but a proactive commitment to the marriage. They encourage couples to utilize available resources when needed to address specific issues or develop healthy coping mechanisms for handling stress and conflict.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Effective Communication);
-B --> C(Conflict Resolution);
-C --> D(Meeting Needs);
-D --> E(Shared Values);
-E --> F(Intimacy & Connection);
-F --> G(External Support);
-G --> H[Stronger Marriage];
-
-```
+![Seeking External Support When Needed. Self-Awareness; Effective Communication; Conflict Resolution; Meeting Needs; Shared Values; Intimacy & Connection; External Support; Stronger Marriage.](diagram-02.svg)
 
 "The Marriage Challenge" is not a quick-fix guide, but a roadmap for building a strong, enduring relationship. The Bennetts highlight the importance of ongoing effort, self-awareness, effective communication, and a willingness to grow together. By consistently applying the principles outlined in the book, couples can navigate the inevitable challenges of marriage and build a fulfilling and lasting partnership. The strategies offered are practical and actionable, encouraging proactive engagement and continuous work and mutual commitment.
 

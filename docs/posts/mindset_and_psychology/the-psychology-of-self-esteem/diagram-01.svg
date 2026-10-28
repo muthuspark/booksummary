@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372pt" height="386pt" viewBox="0.00 0.00 372.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Six Pillars of Self-Esteem</title><desc id="description">Self-Esteem leads to Living Consciously. Self-Esteem leads to Self-Acceptance. Self-Esteem leads to Self-Responsibility. Self-Esteem leads to Self-Assertiveness. Self-Esteem leads to Purposefulness. Self-Esteem leads to Personal Integrity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 354,-368 354,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M73.71,-195.1C88.52,-222.35 118.46,-270.85 157,-299 160.8,-301.77 164.87,-304.32 169.09,-306.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.05,-308.86 175.39,-309.91 170.3,-304.51 168.05,-308.86" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.84,-195.04C108.01,-208.2 133.1,-225.12 157,-237 162.78,-239.87 168.9,-242.6 175.1,-245.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="174.45,-247.54 181.86,-247.86 176.27,-242.99 174.45,-247.54" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125.12,-185.5C133.09,-186.85 141.41,-188.27 149.77,-189.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="149.5,-192.13 156.81,-190.89 150.32,-187.3 149.5,-192.13" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M125.12,-164.5C133.99,-162.99 143.28,-161.41 152.6,-159.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="153.24,-162.2 159.73,-158.61 152.42,-157.37 153.24,-162.2" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.84,-154.96C108.01,-141.8 133.1,-124.88 157,-113 162.78,-110.13 168.9,-107.4 175.1,-104.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.27,-107.01 181.86,-102.14 174.45,-102.46 176.27,-107.01" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M73.71,-154.9C88.52,-127.65 118.46,-79.15 157,-51 160.8,-48.23 164.87,-45.68 169.09,-43.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.3,-45.49 175.39,-40.09 168.05,-41.14 170.3,-45.49" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113,-195C113,-195 12,-195 12,-195 6,-195 0,-189 0,-183 0,-183 0,-167 0,-167 0,-161 6,-155 12,-155 12,-155 113,-155 113,-155 119,-155 125,-161 125,-167 125,-167 125,-183 125,-183 125,-189 119,-195 113,-195" />
+<text text-anchor="middle" x="62.5" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Esteem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M323,-350C323,-350 170,-350 170,-350 164,-350 158,-344 158,-338 158,-338 158,-322 158,-322 158,-316 164,-310 170,-310 170,-310 323,-310 323,-310 329,-310 335,-316 335,-322 335,-322 335,-338 335,-338 335,-344 329,-350 323,-350" />
+<text text-anchor="middle" x="246.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Living Consciously</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M312.5,-288C312.5,-288 180.5,-288 180.5,-288 174.5,-288 168.5,-282 168.5,-276 168.5,-276 168.5,-260 168.5,-260 168.5,-254 174.5,-248 180.5,-248 180.5,-248 312.5,-248 312.5,-248 318.5,-248 324.5,-254 324.5,-260 324.5,-260 324.5,-276 324.5,-276 324.5,-282 318.5,-288 312.5,-288" />
+<text text-anchor="middle" x="246.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Acceptance</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M324,-226C324,-226 169,-226 169,-226 163,-226 157,-220 157,-214 157,-214 157,-198 157,-198 157,-192 163,-186 169,-186 169,-186 324,-186 324,-186 330,-186 336,-192 336,-198 336,-198 336,-214 336,-214 336,-220 330,-226 324,-226" />
+<text text-anchor="middle" x="246.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Responsibility</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M321,-164C321,-164 172,-164 172,-164 166,-164 160,-158 160,-152 160,-152 160,-136 160,-136 160,-130 166,-124 172,-124 172,-124 321,-124 321,-124 327,-124 333,-130 333,-136 333,-136 333,-152 333,-152 333,-158 327,-164 321,-164" />
+<text text-anchor="middle" x="246.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assertiveness</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M310,-102C310,-102 183,-102 183,-102 177,-102 171,-96 171,-90 171,-90 171,-74 171,-74 171,-68 177,-62 183,-62 183,-62 310,-62 310,-62 316,-62 322,-68 322,-74 322,-74 322,-90 322,-90 322,-96 316,-102 310,-102" />
+<text text-anchor="middle" x="246.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purposefulness</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M320.5,-40C320.5,-40 172.5,-40 172.5,-40 166.5,-40 160.5,-34 160.5,-28 160.5,-28 160.5,-12 160.5,-12 160.5,-6 166.5,0 172.5,0 172.5,0 320.5,0 320.5,0 326.5,0 332.5,-6 332.5,-12 332.5,-12 332.5,-28 332.5,-28 332.5,-34 326.5,-40 320.5,-40" />
+<text text-anchor="middle" x="246.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Integrity</text>
+</g>
+</g>
+</svg>

@@ -18,16 +18,7 @@ Williamson posits that love isn't merely a feeling; it's a spiritual practice re
 
 A central theme revolves around the "fear-based ego," a self-protective mechanism developed from childhood experiences and societal conditioning. This ego prioritizes survival and self-preservation, often at the expense of vulnerability and authentic connection. It manipulates our perceptions, creating a false sense of self and hindering our ability to love and be loved unconditionally.
 
-```mermaid
-graph LR
-    A[Fear-Based Ego] --> B(Self-Protection);
-    A --> C(Control);
-    A --> D(Manipulation);
-    B --> E{Emotional Walls};
-    C --> E;
-    D --> E;
-    E --> F(Inability to Love);
-```
+![The Fear-Based Ego: The Obstacle to Love. Fear-Based Ego; Self-Protection; Control; Manipulation; Emotional Walls; Inability to Love.](diagram-01.svg)
 
 
 ###  Recognizing and Releasing the Ego's Grip
@@ -55,14 +46,7 @@ The book emphasizes the importance of connecting with something larger than ours
 
 Williamson addresses the challenges of navigating relationships, particularly romantic ones, from a perspective of unconditional love.  She emphasizes the importance of healthy boundaries, clear communication, and mutual respect.  Rather than seeking external validation, she encourages individuals to achieve inner wholeness, making relationships a source of mutual growth rather than a means of self-completion.
 
-```mermaid
-graph LR
-    A[Inner Wholeness] --> B(Self-Acceptance);
-    A --> C(Self-Love);
-    B --> D{Healthy Relationships};
-    C --> D;
-    D --> E(Mutual Growth);
-```
+![Relationships and the Expression of Love. Inner Wholeness; Self-Acceptance; Self-Love; Healthy Relationships; Mutual Growth.](diagram-02.svg)
 
 ### Actionable Strategies
 

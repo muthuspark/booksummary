@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422pt" height="324pt" viewBox="0.00 0.00 422.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">The Five Languages: Identifying Your Own and Your Partner's</title><desc id="description">Love Languages leads to Words of Affirmation. Love Languages leads to Acts of Service. Love Languages leads to Receiving Gifts. Love Languages leads to Quality Time. Love Languages leads to Physical Touch.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 404,-306 404,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.06,-164.13C117.32,-185.04 151.64,-217.37 187,-237 192.3,-239.94 197.91,-242.64 203.66,-245.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.07,-247.53 210.47,-247.93 204.93,-243 203.07,-247.53" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.42,-164.04C166.53,-170.37 189.96,-177.38 211.52,-183.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.05,-186.26 218.45,-185.92 212.45,-181.56 211.05,-186.26" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.28,-144C171.35,-144 188.34,-144 204.55,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.93,-146.45 211.93,-144 204.93,-141.55 204.93,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.42,-123.96C167.04,-117.48 191.11,-110.27 213.11,-103.68" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.87,-106.01 219.87,-101.66 212.46,-101.32 213.87,-106.01" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.06,-123.87C117.32,-102.96 151.64,-70.63 187,-51 192.7,-47.84 198.76,-44.95 204.98,-42.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.2,-44.46 211.77,-39.56 204.36,-39.92 206.2,-44.46" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-164C143,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 143,-124 143,-124 149,-124 155,-130 155,-136 155,-136 155,-152 155,-152 155,-158 149,-164 143,-164" />
+<text text-anchor="middle" x="77.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Love Languages</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M374,-288C374,-288 199,-288 199,-288 193,-288 187,-282 187,-276 187,-276 187,-260 187,-260 187,-254 193,-248 199,-248 199,-248 374,-248 374,-248 380,-248 386,-254 386,-260 386,-260 386,-276 386,-276 386,-282 380,-288 374,-288" />
+<text text-anchor="middle" x="286.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Words of Affirmation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M347,-226C347,-226 226,-226 226,-226 220,-226 214,-220 214,-214 214,-214 214,-198 214,-198 214,-192 220,-186 226,-186 226,-186 347,-186 347,-186 353,-186 359,-192 359,-198 359,-198 359,-214 359,-214 359,-220 353,-226 347,-226" />
+<text text-anchor="middle" x="286.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acts of Service</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M349,-164C349,-164 224,-164 224,-164 218,-164 212,-158 212,-152 212,-152 212,-136 212,-136 212,-130 218,-124 224,-124 224,-124 349,-124 349,-124 355,-124 361,-130 361,-136 361,-136 361,-152 361,-152 361,-158 355,-164 349,-164" />
+<text text-anchor="middle" x="286.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Receiving Gifts</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M341,-102C341,-102 232,-102 232,-102 226,-102 220,-96 220,-90 220,-90 220,-74 220,-74 220,-68 226,-62 232,-62 232,-62 341,-62 341,-62 347,-62 353,-68 353,-74 353,-74 353,-90 353,-90 353,-96 347,-102 341,-102" />
+<text text-anchor="middle" x="286.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Quality Time</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M349,-40C349,-40 224,-40 224,-40 218,-40 212,-34 212,-28 212,-28 212,-12 212,-12 212,-6 218,0 224,0 224,0 349,0 349,0 355,0 361,-6 361,-12 361,-12 361,-28 361,-28 361,-34 355,-40 349,-40" />
+<text text-anchor="middle" x="286.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Physical Touch</text>
+</g>
+</g>
+</svg>

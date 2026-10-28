@@ -23,14 +23,7 @@ The book begins by establishing the foundational concept: our brains are inheren
 
 Understanding these biases is the first step towards mitigating their impact.
 
-```mermaid
-graph LR
-    A[Cognitive Biases] --> B(Confirmation Bias);
-    A --> C(Availability Heuristic);
-    A --> D(Anchoring Bias);
-    A --> E(Halo Effect);
-    A --> F(Bandwagon Effect);
-```
+![Understanding Cognitive Biases: The Foundation of Clear Thinking. Cognitive Biases; Confirmation Bias; Availability Heuristic; Anchoring Bias; Halo Effect; Bandwagon Effect.](diagram-01.svg)
 
 
 ## Strategies for Overcoming Biases: Cultivating Critical Thinking

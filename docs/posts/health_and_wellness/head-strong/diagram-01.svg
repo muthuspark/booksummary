@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="628pt" height="240pt" viewBox="0.00 0.00 628.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">Optimizing Your Diet: Fueling the Brain</title><desc id="description">Healthy Fats leads to Improved Brain Function. Processed Foods leads to Inflammation. Brain-Boosting Nutrients leads to Enhanced Cognitive Performance. Inflammation leads to Reduced Cognitive Function.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 610,-222 610,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.64,-30C163.33,-30 182.78,-30 201.43,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.81,-32.45 208.81,-30 201.81,-27.55 201.81,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.15,-102C177.39,-102 194.43,-102 210.52,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.84,-104.45 217.84,-102 210.84,-99.55 210.84,-104.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M356.14,-102C371.94,-102 389.05,-102 405.79,-102" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="405.94,-104.45 412.94,-102 405.94,-99.55 405.94,-104.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.04,-174C165,-174 175.35,-174 185.67,-174" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="185.81,-176.45 192.81,-174 185.81,-171.55 185.81,-176.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M133.5,-50C133.5,-50 27.5,-50 27.5,-50 21.5,-50 15.5,-44 15.5,-38 15.5,-38 15.5,-22 15.5,-22 15.5,-16 21.5,-10 27.5,-10 27.5,-10 133.5,-10 133.5,-10 139.5,-10 145.5,-16 145.5,-22 145.5,-22 145.5,-38 145.5,-38 145.5,-44 139.5,-50 133.5,-50" />
+<text text-anchor="middle" x="80.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Fats</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M353,-60C353,-60 221,-60 221,-60 215,-60 209,-54 209,-48 209,-48 209,-12 209,-12 209,-6 215,0 221,0 221,0 353,0 353,0 359,0 365,-6 365,-12 365,-12 365,-48 365,-48 365,-54 359,-60 353,-60" />
+<text text-anchor="middle" x="287" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Brain</text>
+<text text-anchor="middle" x="287" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Function</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149,-122C149,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 149,-82 149,-82 155,-82 161,-88 161,-94 161,-94 161,-110 161,-110 161,-116 155,-122 149,-122" />
+<text text-anchor="middle" x="80.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Processed Foods</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M344,-122C344,-122 230,-122 230,-122 224,-122 218,-116 218,-110 218,-110 218,-94 218,-94 218,-88 224,-82 230,-82 230,-82 344,-82 344,-82 350,-82 356,-88 356,-94 356,-94 356,-110 356,-110 356,-116 350,-122 344,-122" />
+<text text-anchor="middle" x="287" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-204C143,-204 18,-204 18,-204 12,-204 6,-198 6,-192 6,-192 6,-156 6,-156 6,-150 12,-144 18,-144 18,-144 143,-144 143,-144 149,-144 155,-150 155,-156 155,-156 155,-192 155,-192 155,-198 149,-204 143,-204" />
+<text text-anchor="middle" x="80.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain-Boosting</text>
+<text text-anchor="middle" x="80.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nutrients</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369,-204C369,-204 205,-204 205,-204 199,-204 193,-198 193,-192 193,-192 193,-156 193,-156 193,-150 199,-144 205,-144 205,-144 369,-144 369,-144 375,-144 381,-150 381,-156 381,-156 381,-192 381,-192 381,-198 375,-204 369,-204" />
+<text text-anchor="middle" x="287" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enhanced Cognitive</text>
+<text text-anchor="middle" x="287" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M580,-132C580,-132 425,-132 425,-132 419,-132 413,-126 413,-120 413,-120 413,-84 413,-84 413,-78 419,-72 425,-72 425,-72 580,-72 580,-72 586,-72 592,-78 592,-84 592,-84 592,-120 592,-120 592,-126 586,-132 580,-132" />
+<text text-anchor="middle" x="502.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Cognitive</text>
+<text text-anchor="middle" x="502.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Function</text>
+</g>
+</g>
+</svg>

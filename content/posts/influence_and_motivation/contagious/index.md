@@ -14,15 +14,7 @@ Jonah Berger's "Contagious" explores the science of virality, explaining why som
 
 The core of Berger's argument rests on STEPPS, a mnemonic device representing six key principles driving contagiousness. Understanding and applying these principles can increase the likelihood of your ideas or products becoming widespread.
 
-```mermaid
-graph LR
-    A[STEPPS] --> B(Social Currency);
-    A --> C(Triggers);
-    A --> D(Emotion);
-    A --> E(Public);
-    A --> F(Practical Value);
-    A --> G(Stories);
-```
+![STEPPS: The Six Principles of Contagiousness. STEPPS; Social Currency; Triggers; Emotion; Public; Practical Value; Stories.](diagram-01.svg)
 
 ### Social Currency: Making People Feel Good About Themselves
 

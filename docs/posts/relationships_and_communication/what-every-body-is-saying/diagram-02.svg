@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360pt" height="168pt" viewBox="0.00 0.00 359.50 168.00" role="img" aria-labelledby="title description">
+<title id="title">Posture and Body Orientation: Unveiling Attitudes and Intentions</title><desc id="description">Open Posture leads to Openness &amp; Receptiveness. Closed Posture leads to Defensiveness &amp; Discomfort.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 341.5,-150 341.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71,-91.63C71,-84.34 71,-75.78 71,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="73.45,-67.19 71,-60.19 68.55,-67.19 73.45,-67.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M244,-91.63C244,-84.34 244,-75.78 244,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.45,-67.19 244,-60.19 241.55,-67.19 246.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M128,-132C128,-132 14,-132 14,-132 8,-132 2,-126 2,-120 2,-120 2,-104 2,-104 2,-98 8,-92 14,-92 14,-92 128,-92 128,-92 134,-92 140,-98 140,-104 140,-104 140,-120 140,-120 140,-126 134,-132 128,-132" />
+<text text-anchor="middle" x="71" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Open Posture</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M130,-60C130,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 130,0 130,0 136,0 142,-6 142,-12 142,-12 142,-48 142,-48 142,-54 136,-60 130,-60" />
+<text text-anchor="middle" x="71" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Openness &amp;</text>
+<text text-anchor="middle" x="71" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Receptiveness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M306,-132C306,-132 182,-132 182,-132 176,-132 170,-126 170,-120 170,-120 170,-104 170,-104 170,-98 176,-92 182,-92 182,-92 306,-92 306,-92 312,-92 318,-98 318,-104 318,-104 318,-120 318,-120 318,-126 312,-132 306,-132" />
+<text text-anchor="middle" x="244" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Closed Posture</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M311.5,-60C311.5,-60 176.5,-60 176.5,-60 170.5,-60 164.5,-54 164.5,-48 164.5,-48 164.5,-12 164.5,-12 164.5,-6 170.5,0 176.5,0 176.5,0 311.5,0 311.5,0 317.5,0 323.5,-6 323.5,-12 323.5,-12 323.5,-48 323.5,-48 323.5,-54 317.5,-60 311.5,-60" />
+<text text-anchor="middle" x="244" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defensiveness &amp;</text>
+<text text-anchor="middle" x="244" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discomfort</text>
+</g>
+</g>
+</svg>

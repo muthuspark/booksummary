@@ -15,16 +15,7 @@ Chris Bailey's "The Productivity Project" isn't about cramming more into your da
 
 The book emphasizes the importance of understanding your own cognitive strengths and weaknesses. There's no one-size-fits-all approach. Bailey highlights the need for introspection: understanding your energy levels throughout the day, identifying your peak performance times, and recognizing your most common distractions.
 
-```mermaid
-graph LR
-    A[Self-Assessment] --> B(Understand Strengths & Weaknesses);
-    B --> C{Identify Peak Performance Times};
-    B --> D{Recognize Common Distractions};
-    C --> E[Optimize Schedule];
-    D --> F[Minimize Distractions];
-    E --> G[Increased Productivity];
-    F --> G;
-```
+![Understanding Your Unique Productivity Profile. Self-Assessment; Understand Strengths & Weaknesses; Identify Peak Performance Times; Recognize Common Distractions; Optimize Schedule; Minimize Distractions; Increased Productivity.](diagram-01.svg)
 
 He advocates for detailed self-tracking to pinpoint these personal patterns. This involves logging your activities, mood, energy levels, and productivity levels. Analyzing this data reveals individual productivity rhythms and areas for improvement.
 
@@ -33,13 +24,7 @@ He advocates for detailed self-tracking to pinpoint these personal patterns. Thi
 
 Bailey dedicates significant attention to the concept of focused attention. He challenges the multi-tasking myth, demonstrating how switching between tasks drastically reduces efficiency and increases error rates. He advocates for deep work—periods of uninterrupted, focused concentration on a single task—for high-quality output. This isn't about working longer; it's about working *smarter*.
 
-```mermaid
-graph LR
-    A[Deep Work] --> B(Uninterrupted Focus);
-    B --> C{Increased Concentration};
-    C --> D(High-Quality Output);
-    D --> E[Reduced Errors];
-```
+![The Power of Focused Attention. Deep Work; Uninterrupted Focus; Increased Concentration; High-Quality Output; Reduced Errors.](diagram-02.svg)
 
 
 He suggests techniques like the Pomodoro Technique (working in focused bursts with short breaks) and time blocking to structure your day and maximize focused attention. The core idea is to eliminate distractions and create dedicated time slots for your most demanding and important tasks.
@@ -56,17 +41,7 @@ These breaks shouldn't be passive; they should actively help you recharge.  This
 
 Effective prioritization is another key element of Bailey's productivity system. He advocates for focusing on tasks with the highest impact, rather than simply tackling the most urgent ones.  He suggests using methods like the Eisenhower Matrix (urgent/important) to categorize tasks and prioritize accordingly.
 
-```mermaid
-graph LR
-    A[Eisenhower Matrix] --> B{Urgent & Important};
-    B --> C[Do First];
-    A --> D{Important, Not Urgent};
-    D --> E[Schedule];
-    A --> F{Urgent, Not Important};
-    F --> G[Delegate];
-    A --> H{Not Urgent, Not Important};
-    H --> I[Eliminate];
-```
+![Strategic Prioritization and Task Management. Eisenhower Matrix; Urgent & Important; Do First; Important, Not Urgent; Schedule; Urgent, Not Important; Delegate; Not Urgent, Not Important; Eliminate.](diagram-03.svg)
 
 Furthermore, he highlights the importance of task batching—grouping similar tasks together to minimize context switching and improve efficiency.  This reduces mental overhead and allows for smoother workflow.
 

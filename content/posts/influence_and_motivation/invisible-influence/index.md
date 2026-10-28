@@ -31,16 +31,7 @@ Berger dissects six fundamental principles of persuasion:
 * **Scarcity:** Things that are rare or limited are perceived as more desirable. This principle is heavily leveraged in marketing but can also apply to personal situations, emphasizing the unique qualities or limited availability of opportunities.
 
 
-```mermaid
-graph LR
-    A[Reciprocity] --> B(Influence);
-    C[Commitment/Consistency] --> B;
-    D[Social Proof] --> B;
-    E[Liking] --> B;
-    F[Authority] --> B;
-    G[Scarcity] --> B;
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-```
+![Principles of Persuasion:  Leveraging Social Influence. Reciprocity; Influence; Commitment/Consistency; Social Proof; Liking; Authority; Scarcity.](diagram-01.svg)
 
 ##  The Role of Context and Environment
 

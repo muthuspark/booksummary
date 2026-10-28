@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284pt" height="476pt" viewBox="0.00 0.00 284.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Third Agreement: Don't Make Assumptions</title><desc id="description">Unclear Situation leads to Assumption. Assumption leads to Misunderstanding. Misunderstanding leads to Conflict. Conflict leads to Ask Questions. Ask Questions leads to Clear Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 266,-458 266,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124,-399.91C124,-392.58 124,-383.86 124,-375.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.45,-375.07 124,-368.07 121.55,-375.07 126.45,-375.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124,-287.79C124,-279.54 124,-271.04 124,-263.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.45,-263.09 124,-256.09 121.55,-263.09 126.45,-263.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124,-215.87C124,-208.31 124,-199.49 124,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.45,-191.1 124,-184.1 121.55,-191.1 126.45,-191.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124,-143.87C124,-136.31 124,-127.49 124,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.45,-119.1 124,-112.1 121.55,-119.1 126.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124,-71.87C124,-64.31 124,-55.49 124,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.45,-47.1 124,-40.1 121.55,-47.1 126.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196,-440C196,-440 52,-440 52,-440 46,-440 40,-434 40,-428 40,-428 40,-412 40,-412 40,-406 46,-400 52,-400 52,-400 196,-400 196,-400 202,-400 208,-406 208,-412 208,-412 208,-428 208,-428 208,-434 202,-440 196,-440" />
+<text text-anchor="middle" x="124" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unclear Situation</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="124,-368 0,-328 124,-288 248,-328 124,-368" />
+<text text-anchor="middle" x="124" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assumption</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M199,-256C199,-256 49,-256 49,-256 43,-256 37,-250 37,-244 37,-244 37,-228 37,-228 37,-222 43,-216 49,-216 49,-216 199,-216 199,-216 205,-216 211,-222 211,-228 211,-228 211,-244 211,-244 211,-250 205,-256 199,-256" />
+<text text-anchor="middle" x="124" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Misunderstanding</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157.5,-184C157.5,-184 90.5,-184 90.5,-184 84.5,-184 78.5,-178 78.5,-172 78.5,-172 78.5,-156 78.5,-156 78.5,-150 84.5,-144 90.5,-144 90.5,-144 157.5,-144 157.5,-144 163.5,-144 169.5,-150 169.5,-156 169.5,-156 169.5,-172 169.5,-172 169.5,-178 163.5,-184 157.5,-184" />
+<text text-anchor="middle" x="124" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183,-112C183,-112 65,-112 65,-112 59,-112 53,-106 53,-100 53,-100 53,-84 53,-84 53,-78 59,-72 65,-72 65,-72 183,-72 183,-72 189,-72 195,-78 195,-84 195,-84 195,-100 195,-100 195,-106 189,-112 183,-112" />
+<text text-anchor="middle" x="124" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ask Questions</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M213.5,-40C213.5,-40 34.5,-40 34.5,-40 28.5,-40 22.5,-34 22.5,-28 22.5,-28 22.5,-12 22.5,-12 22.5,-6 28.5,0 34.5,0 34.5,0 213.5,0 213.5,0 219.5,0 225.5,-6 225.5,-12 225.5,-12 225.5,-28 225.5,-28 225.5,-34 219.5,-40 213.5,-40" />
+<text text-anchor="middle" x="124" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Communication</text>
+</g>
+</g>
+</svg>

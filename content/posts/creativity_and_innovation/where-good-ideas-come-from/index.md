@@ -18,12 +18,7 @@ Johnson identifies seven key factors that contribute to the emergence of good id
 
 Ideas rarely occur in isolation. Johnson emphasizes the role of networks, both physical and intellectual. He explores how the interconnectedness of people and ideas facilitates cross-pollination and the unexpected merging of seemingly disparate concepts. This suggests building and maintaining strong networks in our professional and personal lives to expand our adjacent possible.
 
-```mermaid
-graph LR
-A[Individual] --> B(Network of Ideas);
-B --> C(New Ideas);
-C --> D[Innovation];
-```
+![1. The Importance of Networks. Individual; Network of Ideas; New Ideas; Innovation.](diagram-01.svg)
 
 Actively engage with various groups, attend events, and build relationships. Seek out different perspectives, challenge your own assumptions, and listen to what others have to say. The more connections you have, the larger your adjacent possible becomes.
 
@@ -36,11 +31,7 @@ Ideas don't always spring forth fully formed. Johnson highlights the significanc
 
 The right level of connection is key.  Too little, and ideas stagnate.  Too much, and the resulting chaos can be overwhelming.  Johnson uses the metaphor of "liquid networks," emphasizing the need for a balance between structure and fluidity to create the ideal environment for innovation.  This translates to seeking out environments that offer both focused work time and opportunities for collaboration and brainstorming.
 
-```mermaid
-graph LR
-A[Structured Environment] -.-> B(Liquid Network);
-B -.-> C[Fluid Collaboration];
-```
+![3. Liquid Networks: Finding the Right Balance. Structured Environment; Liquid Network; Fluid Collaboration.](diagram-02.svg)
 
 ### 4. Error and Exaptation: Learning from Mistakes
 
@@ -55,12 +46,7 @@ Successful innovations often build upon existing platforms – technological, so
 
 Innovation rarely occurs in a linear progression. Johnson shows how breakthroughs often arise from the combination of existing ideas, techniques, and technologies. This highlights the importance of broad knowledge, various experiences, and a willingness to connect seemingly unrelated concepts. Seek out connections between different fields, look at interdisciplinary ideas, and be open to unexpected combinations.
 
-```mermaid
-graph LR
-A[Idea A] --> C(Combination);
-B[Idea B] --> C;
-C --> D[New Innovation];
-```
+![6. The Combinatorial Nature of Innovation. Idea A; Combination; Idea B; New Innovation.](diagram-03.svg)
 
 ### 7. The Role of Chance
 

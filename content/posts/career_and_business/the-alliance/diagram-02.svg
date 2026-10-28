@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256pt" height="497pt" viewBox="0.00 0.00 256.00 497.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Weak Ties</title><desc id="description">Strong Ties leads to Inner Circle. Inner Circle leads to Shared Goals &amp; Support. Shared Goals &amp; Support leads to Effective Collaboration. Effective Collaboration leads to Access to New Opportunities (Weak Ties). Access to New Opportunities leads to Expanded Network.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 479)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-479 238,-479 238,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-420.97C110,-413.09 110,-403.82 110,-395.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-395.08 110,-388.08 107.55,-395.08 112.45,-395.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-347.97C110,-340.09 110,-330.82 110,-322.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-322.08 110,-315.08 107.55,-322.08 112.45,-322.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-274.8C110,-267.2 110,-258.2 110,-249.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-249.2 110,-242.2 107.55,-249.2 112.45,-249.2" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-181.76C110,-169.02 110,-153.96 110,-140.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-140.2 110,-133.2 107.55,-140.2 112.45,-140.2" />
+<text text-anchor="middle" x="145" y="-154" font-family="Georgia" font-size="15.00" fill="#405b50">Weak Ties</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110,-72.76C110,-64.43 110,-55.41 110,-47.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.45,-47.09 110,-40.09 107.55,-47.09 112.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157.5,-461C157.5,-461 62.5,-461 62.5,-461 56.5,-461 50.5,-455 50.5,-449 50.5,-449 50.5,-433 50.5,-433 50.5,-427 56.5,-421 62.5,-421 62.5,-421 157.5,-421 157.5,-421 163.5,-421 169.5,-427 169.5,-433 169.5,-433 169.5,-449 169.5,-449 169.5,-455 163.5,-461 157.5,-461" />
+<text text-anchor="middle" x="110" y="-436.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Ties</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M160,-388C160,-388 60,-388 60,-388 54,-388 48,-382 48,-376 48,-376 48,-360 48,-360 48,-354 54,-348 60,-348 60,-348 160,-348 160,-348 166,-348 172,-354 172,-360 172,-360 172,-376 172,-376 172,-382 166,-388 160,-388" />
+<text text-anchor="middle" x="110" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Circle</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M208,-315C208,-315 12,-315 12,-315 6,-315 0,-309 0,-303 0,-303 0,-287 0,-287 0,-281 6,-275 12,-275 12,-275 208,-275 208,-275 214,-275 220,-281 220,-287 220,-287 220,-303 220,-303 220,-309 214,-315 208,-315" />
+<text text-anchor="middle" x="110" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Goals &amp; Support</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166.5,-242C166.5,-242 53.5,-242 53.5,-242 47.5,-242 41.5,-236 41.5,-230 41.5,-230 41.5,-194 41.5,-194 41.5,-188 47.5,-182 53.5,-182 53.5,-182 166.5,-182 166.5,-182 172.5,-182 178.5,-188 178.5,-194 178.5,-194 178.5,-230 178.5,-230 178.5,-236 172.5,-242 166.5,-242" />
+<text text-anchor="middle" x="110" y="-217.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="110" y="-197.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169,-133C169,-133 51,-133 51,-133 45,-133 39,-127 39,-121 39,-121 39,-85 39,-85 39,-79 45,-73 51,-73 51,-73 169,-73 169,-73 175,-73 181,-79 181,-85 181,-85 181,-121 181,-121 181,-127 175,-133 169,-133" />
+<text text-anchor="middle" x="110" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Access to New</text>
+<text text-anchor="middle" x="110" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Opportunities</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M189.5,-40C189.5,-40 30.5,-40 30.5,-40 24.5,-40 18.5,-34 18.5,-28 18.5,-28 18.5,-12 18.5,-12 18.5,-6 24.5,0 30.5,0 30.5,0 189.5,0 189.5,0 195.5,0 201.5,-6 201.5,-12 201.5,-12 201.5,-28 201.5,-28 201.5,-34 195.5,-40 189.5,-40" />
+<text text-anchor="middle" x="110" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expanded Network</text>
+</g>
+</g>
+</svg>

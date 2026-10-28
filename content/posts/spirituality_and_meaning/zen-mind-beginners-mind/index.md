@@ -14,14 +14,7 @@ Shunryu Suzuki's *Zen Mind, Beginner's Mind* is not a theoretical treatise on Ze
 
 The core concept revolves around cultivating a "beginner's mind." This isn't about lacking knowledge; rather, it's about approaching each task, each moment, with a sense of wonder and curiosity, as if it were the first time. Experienced practitioners can fall into the trap of relying on their existing knowledge and expertise, missing the subtle nuances and potential for growth in every experience. The beginner's mind is openness, humility, and a willingness to learn.
 
-```mermaid
-graph LR
-A[Experienced Practitioner] --> B(Relying on Past Knowledge);
-A --> C(Missing Nuances);
-D[Beginner's Mind] --> E(Openness);
-D --> F(Humility);
-D --> G(Willingness to Learn);
-```
+![The Beginner's Mind. Experienced Practitioner; Relying on Past Knowledge; Missing Nuances; Beginner's Mind; Openness; Humility; Willingness to Learn.](diagram-01.svg)
 
 
 ###  Zazen: The Foundation of Practice
@@ -65,12 +58,7 @@ A seemingly paradoxical concept explored is the interplay of action and non-acti
 
 The ultimate goal of the practice is not some distant achievement but rather a transformation of one's relationship with the present moment. Living fully in the present means acknowledging and embracing all aspects of experience, the pleasant and the unpleasant, without clinging to or rejecting any of it. This acceptance frees the individual from the cycle of craving and aversion, fostering a sense of peace and contentment.
 
-```mermaid
-graph LR
-A[Past] --> B(Regret/Attachment);
-C[Present] --> D(Acceptance/Peace);
-E[Future] --> F(Anxiety/Desire);
-```
+![Living in the Present Moment. Past; Regret/Attachment; Present; Acceptance/Peace; Future; Anxiety/Desire.](diagram-02.svg)
 
 ### Practical Application:  Actionable Insights
 

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326pt" height="292pt" viewBox="0.00 0.00 325.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Hexagrams: Symbols of Change</title><desc id="description">Hexagram (6 lines) leads to Yang Line. Hexagram (6 lines) leads to Yin Line. Yang Line leads to Judgment. Yin Line leads to Judgment. Judgment leads to Image. Judgment leads to Line Interpretations.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 307.5,-274 307.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100.06,-215.87C92.81,-207.69 84.27,-198.05 76.58,-189.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="78.4,-187.72 71.92,-184.1 74.73,-190.97 78.4,-187.72" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133.94,-215.87C141.19,-207.69 149.73,-198.05 157.42,-189.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="159.27,-190.97 162.08,-184.1 155.6,-187.72 159.27,-190.97" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71.94,-143.87C79.19,-135.69 87.73,-126.05 95.42,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.27,-118.97 100.08,-112.1 93.6,-115.72 97.27,-118.97" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.06,-143.87C154.81,-135.69 146.27,-126.05 138.58,-117.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="140.4,-115.72 133.92,-112.1 136.73,-118.97 140.4,-115.72" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95.69,-71.87C86.4,-63.54 75.42,-53.68 65.6,-44.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="67.13,-42.96 60.29,-40.1 63.86,-46.6 67.13,-42.96" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M138.31,-71.87C147.6,-63.54 158.58,-53.68 168.4,-44.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.14,-46.6 173.71,-40.1 166.87,-42.96 170.14,-46.6" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196,-256C196,-256 38,-256 38,-256 32,-256 26,-250 26,-244 26,-244 26,-228 26,-228 26,-222 32,-216 38,-216 38,-216 196,-216 196,-216 202,-216 208,-222 208,-228 208,-228 208,-244 208,-244 208,-250 202,-256 196,-256" />
+<text text-anchor="middle" x="117" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hexagram (6 lines)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M97,-184C97,-184 13,-184 13,-184 7,-184 1,-178 1,-172 1,-172 1,-156 1,-156 1,-150 7,-144 13,-144 13,-144 97,-144 97,-144 103,-144 109,-150 109,-156 109,-156 109,-172 109,-172 109,-178 103,-184 97,-184" />
+<text text-anchor="middle" x="55" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Yang Line</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M214.5,-184C214.5,-184 143.5,-184 143.5,-184 137.5,-184 131.5,-178 131.5,-172 131.5,-172 131.5,-156 131.5,-156 131.5,-150 137.5,-144 143.5,-144 143.5,-144 214.5,-144 214.5,-144 220.5,-144 226.5,-150 226.5,-156 226.5,-156 226.5,-172 226.5,-172 226.5,-178 220.5,-184 214.5,-184" />
+<text text-anchor="middle" x="179" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Yin Line</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-112C159.5,-112 74.5,-112 74.5,-112 68.5,-112 62.5,-106 62.5,-100 62.5,-100 62.5,-84 62.5,-84 62.5,-78 68.5,-72 74.5,-72 74.5,-72 159.5,-72 159.5,-72 165.5,-72 171.5,-78 171.5,-84 171.5,-84 171.5,-100 171.5,-100 171.5,-106 165.5,-112 159.5,-112" />
+<text text-anchor="middle" x="117" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Judgment</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M66,-40C66,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 66,0 66,0 72,0 78,-6 78,-12 78,-12 78,-28 78,-28 78,-34 72,-40 66,-40" />
+<text text-anchor="middle" x="39" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Image</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M277.5,-40C277.5,-40 112.5,-40 112.5,-40 106.5,-40 100.5,-34 100.5,-28 100.5,-28 100.5,-12 100.5,-12 100.5,-6 106.5,0 112.5,0 112.5,0 277.5,0 277.5,0 283.5,0 289.5,-6 289.5,-12 289.5,-12 289.5,-28 289.5,-28 289.5,-34 283.5,-40 277.5,-40" />
+<text text-anchor="middle" x="195" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Line Interpretations</text>
+</g>
+</g>
+</svg>

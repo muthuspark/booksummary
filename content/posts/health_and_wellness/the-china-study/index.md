@@ -45,19 +45,7 @@ The book doesn't just focus on food groups; it delves into specific nutrients an
 
 Campbell highlights the potentially negative roles of casein and cholesterol.  The study showed a strong correlation between casein consumption and increased cancer risk in animal studies.  While the human connection is less direct, the book emphasizes caution. Similarly, high cholesterol intake is linked to cardiovascular disease.
 
-```mermaid
-graph LR
-    A[High Animal Product Consumption] --> B(Increased Casein & Cholesterol);
-    B --> C{Increased Risk of:};
-    C --> D[Heart Disease];
-    C --> E[Cancer];
-    C --> F[Diabetes];
-    G[WFPB Diet] --> H(Reduced Casein & Cholesterol);
-    H --> I{Reduced Risk of:};
-    I --> J[Heart Disease];
-    I --> K[Cancer];
-    I --> L[Diabetes];
-```
+![The Impact of Specific Nutrients:  Casein and Cholesterol. High Animal Product Consumption; Increased Casein & Cholesterol; Increased Risk of:; Heart Disease; Cancer; Diabetes; WFPB Diet; Reduced Casein & Cholesterol; Reduced Risk of:; Heart Disease; Cancer; Diabetes.](diagram-01.svg)
 
 ## Actionable Strategies for a Healthier Lifestyle
 

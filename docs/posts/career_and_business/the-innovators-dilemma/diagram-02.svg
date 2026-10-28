@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240pt" height="404pt" viewBox="0.00 0.00 240.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">The Threat of Disruptive Innovation</title><desc id="description">New Market/Niche leads to Disruptive Innovation. Disruptive Innovation leads to Simpler, Cheaper Product. Simpler, Cheaper Product leads to Gradual Performance Improvement. Gradual Performance Improvement leads to Market Disruption.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 222,-386 222,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-327.87C102,-320.31 102,-311.49 102,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-303.1 102,-296.1 99.55,-303.1 104.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-255.63C102,-248.34 102,-239.78 102,-231.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-231.19 102,-224.19 99.55,-231.19 104.45,-231.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-163.53C102,-155.84 102,-147.45 102,-139.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-139.23 102,-132.23 99.55,-139.23 104.45,-139.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-71.67C102,-63.77 102,-55.28 102,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-47.12 102,-40.12 99.55,-47.12 104.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181,-368C181,-368 23,-368 23,-368 17,-368 11,-362 11,-356 11,-356 11,-340 11,-340 11,-334 17,-328 23,-328 23,-328 181,-328 181,-328 187,-328 193,-334 193,-340 193,-340 193,-356 193,-356 193,-362 187,-368 181,-368" />
+<text text-anchor="middle" x="102" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">New Market/Niche</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192,-296C192,-296 12,-296 12,-296 6,-296 0,-290 0,-284 0,-284 0,-268 0,-268 0,-262 6,-256 12,-256 12,-256 192,-256 192,-256 198,-256 204,-262 204,-268 204,-268 204,-284 204,-284 204,-290 198,-296 192,-296" />
+<text text-anchor="middle" x="102" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disruptive Innovation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173.5,-224C173.5,-224 30.5,-224 30.5,-224 24.5,-224 18.5,-218 18.5,-212 18.5,-212 18.5,-176 18.5,-176 18.5,-170 24.5,-164 30.5,-164 30.5,-164 173.5,-164 173.5,-164 179.5,-164 185.5,-170 185.5,-176 185.5,-176 185.5,-212 185.5,-212 185.5,-218 179.5,-224 173.5,-224" />
+<text text-anchor="middle" x="102" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Simpler, Cheaper</text>
+<text text-anchor="middle" x="102" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Product</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M190.5,-132C190.5,-132 13.5,-132 13.5,-132 7.5,-132 1.5,-126 1.5,-120 1.5,-120 1.5,-84 1.5,-84 1.5,-78 7.5,-72 13.5,-72 13.5,-72 190.5,-72 190.5,-72 196.5,-72 202.5,-78 202.5,-84 202.5,-84 202.5,-120 202.5,-120 202.5,-126 196.5,-132 190.5,-132" />
+<text text-anchor="middle" x="102" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gradual Performance</text>
+<text text-anchor="middle" x="102" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improvement</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M178.5,-40C178.5,-40 25.5,-40 25.5,-40 19.5,-40 13.5,-34 13.5,-28 13.5,-28 13.5,-12 13.5,-12 13.5,-6 19.5,0 25.5,0 25.5,0 178.5,0 178.5,0 184.5,0 190.5,-6 190.5,-12 190.5,-12 190.5,-28 190.5,-28 190.5,-34 184.5,-40 178.5,-40" />
+<text text-anchor="middle" x="102" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Market Disruption</text>
+</g>
+</g>
+</svg>

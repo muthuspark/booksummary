@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375pt" height="372pt" viewBox="0.00 0.00 375.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Strategies and Actionable Insights: A Summary</title><desc id="description">Commitment leads to Friendship. Commitment leads to Shared Values. Friendship leads to Effective Communication. Shared Values leads to Effective Communication. Effective Communication leads to Marital Happiness. Commitment leads to Marital Happiness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 357,-354 357,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198.47,-295.87C179.11,-286.96 155.98,-276.31 135.89,-267.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.87,-264.81 129.48,-264.1 134.82,-269.26 136.87,-264.81" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M240,-295.87C240,-288.31 240,-279.49 240,-271.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.45,-271.1 240,-264.1 237.55,-271.1 242.45,-271.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.07,-295.81C301.41,-288.02 314.33,-277.58 322,-264 332.29,-245.78 336.7,-98.48 323,-72 317.24,-60.85 307.79,-51.62 297.6,-44.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="298.7,-42 291.54,-40.06 295.94,-46.04 298.7,-42" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.84,-223.84C106.25,-213.48 114.5,-200.13 122.71,-186.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.87,-188.02 126.46,-180.78 120.7,-185.44 124.87,-188.02" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M225.37,-223.84C216.99,-212.86 206.03,-198.51 195.3,-184.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.25,-182.98 191.05,-178.9 193.35,-185.95 197.25,-182.98" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194.37,-86.58C206.51,-72.51 219.49,-57.49 229.95,-45.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="231.85,-46.93 234.57,-40.03 228.14,-43.72 231.85,-46.93" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M295,-336C295,-336 185,-336 185,-336 179,-336 173,-330 173,-324 173,-324 173,-308 173,-308 173,-302 179,-296 185,-296 185,-296 295,-296 295,-296 301,-296 307,-302 307,-308 307,-308 307,-324 307,-324 307,-330 301,-336 295,-336" />
+<text text-anchor="middle" x="240" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commitment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134,-264C134,-264 42,-264 42,-264 36,-264 30,-258 30,-252 30,-252 30,-236 30,-236 30,-230 36,-224 42,-224 42,-224 134,-224 134,-224 140,-224 146,-230 146,-236 146,-236 146,-252 146,-252 146,-258 140,-264 134,-264" />
+<text text-anchor="middle" x="88" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Friendship</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M299.5,-264C299.5,-264 180.5,-264 180.5,-264 174.5,-264 168.5,-258 168.5,-252 168.5,-252 168.5,-236 168.5,-236 168.5,-230 174.5,-224 180.5,-224 180.5,-224 299.5,-224 299.5,-224 305.5,-224 311.5,-230 311.5,-236 311.5,-236 311.5,-252 311.5,-252 311.5,-258 305.5,-264 299.5,-264" />
+<text text-anchor="middle" x="240" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Values</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="156,-192 0,-132 156,-72 312,-132 156,-192" />
+<text text-anchor="middle" x="156" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="156" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M327,-40C327,-40 175,-40 175,-40 169,-40 163,-34 163,-28 163,-28 163,-12 163,-12 163,-6 169,0 175,0 175,0 327,0 327,0 333,0 339,-6 339,-12 339,-12 339,-28 339,-28 339,-34 333,-40 327,-40" />
+<text text-anchor="middle" x="251" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Marital Happiness</text>
+</g>
+</g>
+</svg>

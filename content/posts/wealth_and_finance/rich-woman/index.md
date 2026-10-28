@@ -15,15 +15,7 @@ Kim Kiyosaki's "Rich Woman" isn't simply a guide to accumulating wealth; it's a 
 
 Kiyosaki emphasizes that many women, regardless of their income level, remain trapped in financial cycles they don't understand. She identifies two primary traps: the "poor" trap, by a lack of financial literacy and reliance on a single income source, and the "middle-class" trap, where individuals are burdened by debt, high living expenses, and a fear of risk-taking. The book highlights the dangers of relying solely on a job for financial security and emphasizes the importance of diversifying income streams and building assets.
 
-```mermaid
-graph LR
-    A[Poor Trap] --> B(Lack of Financial Literacy);
-    A --> C(Single Income Source);
-    D[Middle-Class Trap] --> E(High Debt);
-    D --> F(High Living Expenses);
-    D --> G(Fear of Risk);
-    
-```
+![Breaking Free from the "Poor" and "Middle-Class" Traps. Poor Trap; Lack of Financial Literacy; Single Income Source; Middle-Class Trap; High Debt; High Living Expenses; Fear of Risk.](diagram-01.svg)
 
 ## The Importance of Financial Literacy
 
@@ -74,17 +66,7 @@ The financial world is constantly evolving. The book stresses the importance of 
 
 Throughout the book, Kiyosaki provides numerous practical examples and actionable steps to help readers implement her strategies.  She provides templates, checklists, and real-world scenarios to guide readers through the process of building wealth.  She doesn't shy away from the hard work and dedication required but emphasizes that the rewards of financial independence are worth the effort.
 
-```mermaid
-graph LR
-    A[Financial Literacy] --> B(Asset Building);
-    B --> C(Multiple Income Streams);
-    C --> D(Real Estate Investing);
-    D --> E(Strategic Planning);
-    E --> F(Support System);
-    F --> G(Continuous Learning);
-    G --> H(Financial Independence);
-
-```
+![Actionable Steps and Practical Examples. Financial Literacy; Asset Building; Multiple Income Streams; Real Estate Investing; Strategic Planning; Support System; Continuous Learning; Financial Independence.](diagram-02.svg)
 
 ##  Beyond Financial Success: Achieving a Fulfilling Life
 

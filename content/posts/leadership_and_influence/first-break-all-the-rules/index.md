@@ -16,13 +16,7 @@ The book emphasizes the critical importance of self-awareness.  Understanding yo
 
 This process isn't about vanity; it's about identifying where you naturally excel. What tasks do you consistently perform well? What activities leave you feeling energized and fulfilled?  What do others consistently praise you for? The answers to these questions help pinpoint your unique strengths.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Talents);
-    C[Seek Feedback] --> B;
-    B --> D{Understand Strengths};
-    D --> E[Leverage Strengths];
-```
+![Identifying Your Strengths: Knowing Yourself Better. Self-Reflection; Identify Talents; Seek Feedback; Understand Strengths; Leverage Strengths.](diagram-01.svg)
 
 ## Focusing on Strengths: A Shift
 
@@ -42,12 +36,7 @@ The book introduces four questions designed to help individuals identify their s
 
 The book distinguishes between talent and skill. Talent represents your natural aptitudes, while skill represents the learned abilities developed through practice and training. While skills can be acquired, talents are inherent. Identifying and focusing on your talents – your natural inclinations – creates a stronger foundation for success.
 
-```mermaid
-graph LR
-    A["Talent (Natural Aptitudes)"] --> B(Strengths)
-    C["Skill (Learned Abilities)"] --> B
-    B --> D[Performance]
-```
+![Talent vs. Skill: The Distinction. Talent (Natural Aptitudes); Strengths; Skill (Learned Abilities); Performance.](diagram-02.svg)
 
 ## The Role of Management:  Supporting Strengths
 

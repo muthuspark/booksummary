@@ -51,19 +51,7 @@ The benefits of meditation extend beyond stress reduction.  Regular practice str
 
 ###  Visualizing Interdependence:
 
-```mermaid
-graph LR
-    A[Individual] --> B(Interconnectedness);
-    B --> C{Relationships};
-    B --> D{Environment};
-    B --> E{Community};
-    C --> F[Compassion];
-    D --> G[Sustainability];
-    E --> H[Contribution];
-    F --> I[Well-being];
-    G --> I;
-    H --> I;
-```
+![Visualizing Interdependence:. Individual; Interconnectedness; Relationships; Environment; Community; Compassion; Sustainability; Contribution; Well-being.](diagram-01.svg)
 
 This diagram illustrates how an individual (A) is not separate from, but deeply interconnected with (B) various aspects of life, ultimately leading to individual and collective well-being (I).
 

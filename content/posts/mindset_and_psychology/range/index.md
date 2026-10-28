@@ -28,13 +28,7 @@ Epstein emphasizes the effectiveness of interleaving – switching between diffe
 
 Diagram illustrating the difference between blocking and interleaving:
 
-```mermaid
-graph LR
-    A[Blocking: Focused on one skill] --> B{Repetition};
-    C[Interleaving: Switching between skills] --> D{Adaptation & Retrieval};
-    B --> E[Improved skill in that one area];
-    D --> F[Improved broader skill & adaptability];
-```
+![The Power of Interleaving. Blocking: Focused on one skill; Repetition; Interleaving: Switching between skills; Adaptation & Retrieval; Improved skill in that one area; Improved broader skill & adaptability.](diagram-01.svg)
 
 ## The Benefits of Late Specialization
 

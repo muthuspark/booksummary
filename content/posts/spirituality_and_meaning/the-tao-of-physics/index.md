@@ -15,14 +15,7 @@ Fritjof Capra's "The Tao of Physics" isn't a self-help book in the traditional s
 
 Capra's central thesis is the striking parallel between the findings of modern physics, particularly quantum physics and relativity, and the core tenets of mystical traditions like Buddhism, Hinduism, and Taoism. Both perspectives, he argues, point towards a reality that is fundamentally interconnected, dynamic, and process-oriented. Classical physics, with its mechanistic worldview, is contrasted with the understanding emerging from modern physics.
 
-```mermaid
-graph LR
-    A[Classical Physics] --> B(Mechanistic, Separated)
-    C[Modern Physics] --> D(Interconnected, Dynamic)
-    D --> E{Mystical Traditions}
-    B --> F(Fragmented View of Reality)
-    E --> G(Holistic View of Reality)
-```
+![The Convergence of Mysticism and Physics. Classical Physics; Mechanistic, Separated; Modern Physics; Interconnected, Dynamic; Mystical Traditions; Fragmented View of Reality; Holistic View of Reality.](diagram-01.svg)
 
 This convergence isn't about proving one with the other, but rather about highlighting a shared underlying vision of reality. This understanding provides a framework for personal transformation and improved well-being.
 

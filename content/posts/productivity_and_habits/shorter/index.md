@@ -17,15 +17,7 @@ Pang dismantles the deeply ingrained cultural belief that longer equates to bett
 
 This is supported by research on the Pomodoro Technique and other time management methodologies that use short, concentrated intervals of work followed by brief rest periods.
 
-```mermaid
-graph LR
-    A[Long Hours] --> B(Burnout);
-    A --> C(Diminished Creativity);
-    A --> D(Reduced Effectiveness);
-    E[Short, Focused Bursts] --> F(Increased Productivity);
-    E --> G(Enhanced Creativity);
-    E --> H(Improved Focus);
-```
+![The Myth of Long and the Power of Short. Long Hours; Burnout; Diminished Creativity; Reduced Effectiveness; Short, Focused Bursts; Increased Productivity; Enhanced Creativity; Improved Focus.](diagram-01.svg)
 
 
 ##  Strategic Shortening: Applying the Principle
@@ -47,15 +39,7 @@ Meetings are often prime examples of time wastage.  Pang advocates for shorter, 
 
 This is particularly relevant in the modern work environment dominated by virtual meetings.  Shorter meetings reduce participant fatigue and improve overall engagement.
 
-```mermaid
-graph LR
-    A[Long, Unfocused Meetings] --> B(Indecisiveness);
-    A --> C(Participant Fatigue);
-    A --> D(Wasted Time);
-    E[Short, Focused Meetings] --> F(Clear Decisions);
-    E --> G(Improved Engagement);
-    E --> H(Time Efficiency);
-```
+![The Art of the Short Meeting. Long, Unfocused Meetings; Indecisiveness; Participant Fatigue; Wasted Time; Short, Focused Meetings; Clear Decisions; Improved Engagement; Time Efficiency.](diagram-02.svg)
 
 
 ## Shorter Vacations, Deeper Experiences

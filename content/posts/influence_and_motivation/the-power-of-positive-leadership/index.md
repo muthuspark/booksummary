@@ -26,20 +26,7 @@ Creating a positive team requires intentional actions beyond simply being cheerf
 
 * **Providing constructive feedback:** Negative feedback, when delivered without empathy, can be demoralizing.  Positive leaders focus on coaching and offering specific, actionable suggestions for improvement rather than criticism.
 
-```mermaid
-graph LR
-A[Positive Leadership] --> B(Trust);
-A --> C(Collaboration);
-A --> D(Celebration);
-A --> E(Constructive Feedback);
-B --> F(Strong Relationships);
-C --> F;
-D --> G(High Morale);
-E --> H(Improved Performance);
-F --> I(Positive Team Culture);
-G --> I;
-H --> I;
-```
+![Building a Positive Team Culture. Positive Leadership; Trust; Collaboration; Celebration; Constructive Feedback; Strong Relationships; High Morale; Improved Performance; Positive Team Culture.](diagram-01.svg)
 
 ### Overcoming Challenges with a Positive Mindset
 

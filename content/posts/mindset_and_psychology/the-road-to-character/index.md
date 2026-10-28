@@ -15,21 +15,11 @@ David Brooks' "The Road to Character" explores two distinct paths to a fulfillin
 
 The core message centers on this dichotomy.  Resume virtues are the quantifiable achievements we readily showcase: prestigious jobs, high salaries, impressive titles.  They are easily measured and often drive our pursuit of worldly success.
 
-```mermaid
-graph LR
-A[Resume Virtues] --> B(Quantifiable Achievements);
-A --> C(External Validation);
-A --> D(Material Success);
-```
+![Understanding the Two Paths: Resume vs. Eulogy Virtues. Resume Virtues; Quantifiable Achievements; External Validation; Material Success.](diagram-01.svg)
 
 Eulogy virtues, conversely, are the qualities remembered and celebrated after our passing: humility, integrity, empathy, kindness.  They represent the essence of our character and leave a lasting impact on the lives of others.  They are harder to quantify, often developed through struggle and self-reflection.
 
-```mermaid
-graph LR
-E[Eulogy Virtues] --> F(Internal Strength);
-E --> G(Moral Integrity);
-E --> H(Impact on Others);
-```
+![Understanding the Two Paths: Resume vs. Eulogy Virtues. Eulogy Virtues; Internal Strength; Moral Integrity; Impact on Others.](diagram-02.svg)
 
 Brooks argues that while resume virtues are important, a life solely focused on them is ultimately unsatisfying.  True fulfillment comes from cultivating eulogy virtues, which provide a deeper sense of purpose and meaning.
 

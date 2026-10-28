@@ -14,14 +14,7 @@ Emily Nagoski's "Come as You Are" tackles the pervasive myths and misunderstandi
 
 Nagoski details the biological mechanisms behind female arousal and orgasm. She debunks the misconception that vaginal orgasms are superior to clitoral orgasms, emphasizing that clitoral stimulation is important for most women's orgasm. The book highlights the interplay of hormones, neurotransmitters, and the body's physiological responses during sexual activity. Understanding this biology is important for dispelling the shame and frustration often associated with difficulties achieving orgasm.
 
-```mermaid
-graph LR
-    A[Clitoris] --> B(Arousal);
-    B --> C{Orgasm};
-    D[Brain] --> B;
-    E[Hormones] --> B;
-    F[Neurotransmitters] --> B;
-```
+![The Biology of Pleasure: Beyond the Clitoris. Clitoris; Arousal; Orgasm; Brain; Hormones; Neurotransmitters.](diagram-01.svg)
 
 This diagram simplifies the pathway to orgasm, highlighting the clitoris' central role and the involvement of the brain and various bodily chemicals.  The book expands on this, discussing the nuances of this process and how individual differences impact it.
 

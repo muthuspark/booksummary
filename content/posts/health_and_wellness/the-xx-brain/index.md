@@ -30,17 +30,7 @@ The book emphasizes the importance of:
 * **B vitamins:** Essential for energy production and nerve function, found in whole grains, leafy greens, and legumes.
 * **Mediterranean diet:** A diet emphasizing plant-based foods, healthy fats, and lean protein, shown to have neuroprotective effects.
 
-```mermaid
-graph LR
-    A[Healthy Diet] --> B(Antioxidants);
-    A --> C(Omega-3 Fatty Acids);
-    A --> D(B Vitamins);
-    A --> E(Mediterranean Diet);
-    B --> F[Improved Brain Function];
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![Nutrition: Fueling the Female Brain. Healthy Diet; Antioxidants; Omega-3 Fatty Acids; B Vitamins; Mediterranean Diet; Improved Brain Function.](diagram-01.svg)
 
 Ignoring nutritional needs can exacerbate age-related cognitive decline and increase the risk of neurodegenerative diseases.  The book provides detailed guidance on creating a brain-boosting diet plan tailored to individual needs.
 
@@ -53,17 +43,7 @@ Nutrition is only one piece of the puzzle. Mosconi highlights the role of other 
 * **Stress Management:** Chronic stress negatively impacts brain function and increases the risk of neurodegenerative diseases.  The book advocates for stress-reduction techniques such as meditation, yoga, and spending time in nature.
 * **Cognitive Stimulation:** Engaging in mentally stimulating activities, such as learning new skills, playing games, and reading, helps maintain cognitive sharpness and plasticity.
 
-```mermaid
-graph LR
-    A[Lifestyle Factors] --> B(Exercise);
-    A --> C(Sleep);
-    A --> D(Stress Management);
-    A --> E(Cognitive Stimulation);
-    B --> F[Improved Brain Health];
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![Lifestyle: Beyond Diet for Optimal Brain Health. Lifestyle Factors; Exercise; Sleep; Stress Management; Cognitive Stimulation; Improved Brain Health.](diagram-02.svg)
 
 These interconnected lifestyle choices act synergistically, maximizing their positive impact on brain health.
 

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282pt" height="516pt" viewBox="0.00 0.00 282.00 516.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Collaboration: The IDEO Method</title><desc id="description">Identify Problem leads to Brainstorming. Brainstorming leads to Prototyping. Prototyping leads to Testing. Testing leads to Iteration. Iteration leads to Solution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 498)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-498 264,-498 264,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123,-439.87C123,-432.31 123,-423.49 123,-415.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.45,-415.1 123,-408.1 120.55,-415.1 125.45,-415.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123,-367.91C123,-360.58 123,-351.86 123,-343.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.45,-343.07 123,-336.07 120.55,-343.07 125.45,-343.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123,-255.79C123,-247.54 123,-239.04 123,-231.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.45,-231.09 123,-224.09 120.55,-231.09 125.45,-231.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123,-183.91C123,-176.58 123,-167.86 123,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.45,-159.07 123,-152.07 120.55,-159.07 125.45,-159.07" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123,-71.79C123,-63.54 123,-55.04 123,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.45,-47.09 123,-40.09 120.55,-47.09 125.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193,-480C193,-480 53,-480 53,-480 47,-480 41,-474 41,-468 41,-468 41,-452 41,-452 41,-446 47,-440 53,-440 53,-440 193,-440 193,-440 199,-440 205,-446 205,-452 205,-452 205,-468 205,-468 205,-474 199,-480 193,-480" />
+<text text-anchor="middle" x="123" y="-455.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183,-408C183,-408 63,-408 63,-408 57,-408 51,-402 51,-396 51,-396 51,-380 51,-380 51,-374 57,-368 63,-368 63,-368 183,-368 183,-368 189,-368 195,-374 195,-380 195,-380 195,-396 195,-396 195,-402 189,-408 183,-408" />
+<text text-anchor="middle" x="123" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brainstorming</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="123,-336 0,-296 123,-256 246,-296 123,-336" />
+<text text-anchor="middle" x="123" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototyping</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154.5,-224C154.5,-224 91.5,-224 91.5,-224 85.5,-224 79.5,-218 79.5,-212 79.5,-212 79.5,-196 79.5,-196 79.5,-190 85.5,-184 91.5,-184 91.5,-184 154.5,-184 154.5,-184 160.5,-184 166.5,-190 166.5,-196 166.5,-196 166.5,-212 166.5,-212 166.5,-218 160.5,-224 154.5,-224" />
+<text text-anchor="middle" x="123" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Testing</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="123,-152 25,-112 123,-72 221,-112 123,-152" />
+<text text-anchor="middle" x="123" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iteration</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M158.5,-40C158.5,-40 87.5,-40 87.5,-40 81.5,-40 75.5,-34 75.5,-28 75.5,-28 75.5,-12 75.5,-12 75.5,-6 81.5,0 87.5,0 87.5,0 158.5,0 158.5,0 164.5,0 170.5,-6 170.5,-12 170.5,-12 170.5,-28 170.5,-28 170.5,-34 164.5,-40 158.5,-40" />
+<text text-anchor="middle" x="123" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solution</text>
+</g>
+</g>
+</svg>

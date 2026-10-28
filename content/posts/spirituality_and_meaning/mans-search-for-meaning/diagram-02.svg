@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="621pt" height="138pt" viewBox="0.00 0.00 621.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Facing Adversity: The Power of Attitude</title><desc id="description">Adversity leads to Attitude. Attitude leads to Resilience (Positive). Attitude leads to Despair (Negative). Resilience leads to Meaning. Despair leads to Breakdown.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 603,-120 603,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.01,-51C112.45,-51 121.23,-51 129.73,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="129.8,-53.45 136.8,-51 129.8,-48.55 129.8,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M231.24,-58.5C256.27,-62.57 287.52,-67.64 314.57,-72.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="314.42,-74.49 321.72,-73.19 315.2,-69.65 314.42,-74.49" />
+<text text-anchor="middle" x="276.5" y="-75" font-family="Georgia" font-size="15.00" fill="#405b50">Positive</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M231,-41.86C236.39,-40.86 241.81,-39.88 247,-39 272.38,-34.68 300.67,-30.44 324.28,-27.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="324.86,-29.47 331.44,-26.06 324.17,-24.62 324.86,-29.47" />
+<text text-anchor="middle" x="276.5" y="-44" font-family="Georgia" font-size="15.00" fill="#405b50">Negative</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M432.37,-82C444.18,-82 456.7,-82 468.55,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="468.84,-84.45 475.84,-82 468.84,-79.55 468.84,-84.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M422.6,-20C433.64,-20 445.71,-20 457.55,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="457.88,-22.45 464.88,-20 457.88,-17.55 457.88,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M92,-71C92,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 92,-31 92,-31 98,-31 104,-37 104,-43 104,-43 104,-59 104,-59 104,-65 98,-71 92,-71" />
+<text text-anchor="middle" x="52" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adversity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M219,-71C219,-71 149,-71 149,-71 143,-71 137,-65 137,-59 137,-59 137,-43 137,-43 137,-37 143,-31 149,-31 149,-31 219,-31 219,-31 225,-31 231,-37 231,-43 231,-43 231,-59 231,-59 231,-65 225,-71 219,-71" />
+<text text-anchor="middle" x="184" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attitude</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M420,-102C420,-102 334,-102 334,-102 328,-102 322,-96 322,-90 322,-90 322,-74 322,-74 322,-68 328,-62 334,-62 334,-62 420,-62 420,-62 426,-62 432,-68 432,-74 432,-74 432,-90 432,-90 432,-96 426,-102 420,-102" />
+<text text-anchor="middle" x="377" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M410.5,-40C410.5,-40 343.5,-40 343.5,-40 337.5,-40 331.5,-34 331.5,-28 331.5,-28 331.5,-12 331.5,-12 331.5,-6 337.5,0 343.5,0 343.5,0 410.5,0 410.5,0 416.5,0 422.5,-6 422.5,-12 422.5,-12 422.5,-28 422.5,-28 422.5,-34 416.5,-40 410.5,-40" />
+<text text-anchor="middle" x="377" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Despair</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M562,-102C562,-102 488,-102 488,-102 482,-102 476,-96 476,-90 476,-90 476,-74 476,-74 476,-68 482,-62 488,-62 488,-62 562,-62 562,-62 568,-62 574,-68 574,-74 574,-74 574,-90 574,-90 574,-96 568,-102 562,-102" />
+<text text-anchor="middle" x="525" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaning</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M573,-40C573,-40 477,-40 477,-40 471,-40 465,-34 465,-28 465,-28 465,-12 465,-12 465,-6 471,0 477,0 477,0 573,0 573,0 579,0 585,-6 585,-12 585,-12 585,-28 585,-28 585,-34 579,-40 573,-40" />
+<text text-anchor="middle" x="525" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Breakdown</text>
+</g>
+</g>
+</svg>

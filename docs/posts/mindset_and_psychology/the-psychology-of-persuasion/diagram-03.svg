@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="662pt" height="96pt" viewBox="0.00 0.00 662.00 96.00" role="img" aria-labelledby="title description">
+<title id="title">Social Proof: Following the Crowd</title><desc id="description">Positive Testimonials &amp; Reviews leads to Perceived Social Acceptance. Perceived Social Acceptance leads to Increased Likelihood of Adoption/Purchase.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 78)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-78 644,-78 644,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198.14,-30C206.31,-30 214.53,-30 222.6,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.96,-32.45 229.96,-30 222.96,-27.55 222.96,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M389.14,-30C397.24,-30 405.57,-30 413.92,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="413.94,-32.45 420.94,-30 413.94,-27.55 413.94,-32.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M186,-60C186,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-12 0,-12 0,-6 6,0 12,0 12,0 186,0 186,0 192,0 198,-6 198,-12 198,-12 198,-48 198,-48 198,-54 192,-60 186,-60" />
+<text text-anchor="middle" x="99" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Testimonials</text>
+<text text-anchor="middle" x="99" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">&amp; Reviews</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M377,-60C377,-60 242,-60 242,-60 236,-60 230,-54 230,-48 230,-48 230,-12 230,-12 230,-6 236,0 242,0 242,0 377,0 377,0 383,0 389,-6 389,-12 389,-12 389,-48 389,-48 389,-54 383,-60 377,-60" />
+<text text-anchor="middle" x="309.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perceived Social</text>
+<text text-anchor="middle" x="309.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M614,-60C614,-60 433,-60 433,-60 427,-60 421,-54 421,-48 421,-48 421,-12 421,-12 421,-6 427,0 433,0 433,0 614,0 614,0 620,0 626,-6 626,-12 626,-12 626,-48 626,-48 626,-54 620,-60 614,-60" />
+<text text-anchor="middle" x="523.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Likelihood</text>
+<text text-anchor="middle" x="523.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">of Adoption/Purchase</text>
+</g>
+</g>
+</svg>

@@ -20,12 +20,7 @@ Heitler introduces the concept of understanding your own and your partner's rela
 
 Effective communication is presented as the bedrock of a thriving relationship. Heitler emphasizes the importance of active listening, expressing needs clearly and respectfully, and understanding non-verbal cues.  She debunks common communication myths and provides practical exercises to improve communication skills.  For example, she advocates for the "speaker-listener" technique, where one person speaks without interruption while the other actively listens and paraphrases.
 
-```mermaid
-graph LR
-A[Speaker] --> B(Clearly expresses needs)
-B --> C{Listener actively listens and paraphrases}
-C --> D[Understanding and Validation]
-```
+![Communication: The Cornerstone of a Strong Relationship. Speaker; Clearly expresses needs; Listener actively listens and paraphrases; Understanding and Validation.](diagram-01.svg)
 
 ##  Conflict Resolution: Navigating Disagreements Constructively
 

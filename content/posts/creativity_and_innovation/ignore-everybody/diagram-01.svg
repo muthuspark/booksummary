@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322pt" height="404pt" viewBox="0.00 0.00 322.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Finding Your God-Given Talent</title><desc id="description">Self-Reflection leads to Identify Strengths. Identify Strengths leads to Unique Talent. Unique Talent leads to Master Your Craft. Master Your Craft leads to Meaningful Work.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 304,-386 304,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-327.87C143,-320.31 143,-311.49 143,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-303.1 143,-296.1 140.55,-303.1 145.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-255.91C143,-248.58 143,-239.86 143,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-231.07 143,-224.07 140.55,-231.07 145.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-143.79C143,-135.54 143,-127.04 143,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-119.09 143,-112.09 140.55,-119.09 145.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-71.87C143,-64.31 143,-55.49 143,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-47.1 143,-40.1 140.55,-47.1 145.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M204.5,-368C204.5,-368 81.5,-368 81.5,-368 75.5,-368 69.5,-362 69.5,-356 69.5,-356 69.5,-340 69.5,-340 69.5,-334 75.5,-328 81.5,-328 81.5,-328 204.5,-328 204.5,-328 210.5,-328 216.5,-334 216.5,-340 216.5,-340 216.5,-356 216.5,-356 216.5,-362 210.5,-368 204.5,-368" />
+<text text-anchor="middle" x="143" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M217,-296C217,-296 69,-296 69,-296 63,-296 57,-290 57,-284 57,-284 57,-268 57,-268 57,-262 63,-256 69,-256 69,-256 217,-256 217,-256 223,-256 229,-262 229,-268 229,-268 229,-284 229,-284 229,-290 223,-296 217,-296" />
+<text text-anchor="middle" x="143" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Strengths</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="143,-224 0,-184 143,-144 286,-184 143,-224" />
+<text text-anchor="middle" x="143" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unique Talent</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M217,-112C217,-112 69,-112 69,-112 63,-112 57,-106 57,-100 57,-100 57,-84 57,-84 57,-78 63,-72 69,-72 69,-72 217,-72 217,-72 223,-72 229,-78 229,-84 229,-84 229,-100 229,-100 229,-106 223,-112 217,-112" />
+<text text-anchor="middle" x="143" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Master Your Craft</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M215.5,-40C215.5,-40 70.5,-40 70.5,-40 64.5,-40 58.5,-34 58.5,-28 58.5,-28 58.5,-12 58.5,-12 58.5,-6 64.5,0 70.5,0 70.5,0 215.5,0 215.5,0 221.5,0 227.5,-6 227.5,-12 227.5,-12 227.5,-28 227.5,-28 227.5,-34 221.5,-40 215.5,-40" />
+<text text-anchor="middle" x="143" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Work</text>
+</g>
+</g>
+</svg>

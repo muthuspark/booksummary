@@ -14,11 +14,7 @@ Maxwell's book isn't just about managing people; it's about influencing them pos
 
 This fundamental law states that your leadership capacity sets the ceiling on your personal and professional success.  No matter how talented or skilled you are, your effectiveness is limited by your leadership abilities. Improving your leadership directly improves your results.
 
-```mermaid
-graph LR
-    A[Your Leadership Level] --> B(Your Effectiveness Ceiling);
-    C[Improved Leadership] --> D(Higher Effectiveness Ceiling);
-```
+![Law 1: The Law of the Lid: Your Leadership Level Determines Your Effectiveness. Your Leadership Level; Your Effectiveness Ceiling; Improved Leadership; Higher Effectiveness Ceiling.](diagram-01.svg)
 
 Improving your leadership requires conscious effort and continuous development.
 
@@ -77,13 +73,7 @@ Effective leadership isn't about control; it's about empowerment. Great leaders 
 
 Leaders don't just achieve individual success; they build leaders.  They mentor, coach, and develop others, creating a ripple effect of leadership throughout their organizations.  This ensures long-term sustainability and growth.
 
-```mermaid
-graph LR
-    A[Leader] --> B(Mentor);
-    B --> C(Develops Followers);
-    C --> D(New Leaders);
-    D --> E(Expansion);
-```
+![Law 12: The Law of Reproduction: Leaders Multiply Themselves Through Others. Leader; Mentor; Develops Followers; New Leaders; Expansion.](diagram-02.svg)
 
 
 ## Law 13: The Law of Vision: The Potential of Leadership is Determined by the Leader's Vision

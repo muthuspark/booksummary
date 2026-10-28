@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286pt" height="436pt" viewBox="0.00 0.00 286.00 436.00" role="img" aria-labelledby="title description">
+<title id="title">Improving Your Decision-Making Process</title><desc id="description">Define Problem leads to Gather Info. Gather Info leads to Identify Options. Identify Options leads to Evaluate Options. Evaluate Options leads to Choose &amp; Implement. Choose &amp; Implement leads to Review &amp; Adjust. Review &amp; Adjust leads to Gather Info.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 418)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-418 268,-418 268,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M172.5,-359.87C172.5,-352.31 172.5,-343.49 172.5,-335.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="174.95,-335.1 172.5,-328.1 170.05,-335.1 174.95,-335.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M157.2,-287.87C150.78,-279.85 143.23,-270.41 136.39,-261.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="138.07,-260.04 131.78,-256.1 134.24,-263.1 138.07,-260.04" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113.77,-215.87C112.69,-208.31 111.43,-199.49 110.26,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.64,-190.69 109.23,-184.1 107.79,-191.38 112.64,-190.69" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.31,-143.87C103.45,-136.31 102.44,-127.49 101.51,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.91,-118.78 100.68,-112.1 99.04,-119.34 103.91,-118.78" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.53,-71.87C124.25,-63.69 133.34,-54.05 141.53,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="143.47,-46.88 146.49,-40.1 139.9,-43.52 143.47,-46.88" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.24,-40.17C194.57,-48.94 203.13,-60.03 207.5,-72 235.56,-148.81 230.47,-177.81 206.5,-256 203.72,-265.08 198.74,-274.03 193.44,-281.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.43,-280.44 189.35,-287.56 195.41,-283.28 191.43,-280.44" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M238,-400C238,-400 107,-400 107,-400 101,-400 95,-394 95,-388 95,-388 95,-372 95,-372 95,-366 101,-360 107,-360 107,-360 238,-360 238,-360 244,-360 250,-366 250,-372 250,-372 250,-388 250,-388 250,-394 244,-400 238,-400" />
+<text text-anchor="middle" x="172.5" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M221,-328C221,-328 124,-328 124,-328 118,-328 112,-322 112,-316 112,-316 112,-300 112,-300 112,-294 118,-288 124,-288 124,-288 221,-288 221,-288 227,-288 233,-294 233,-300 233,-300 233,-316 233,-316 233,-322 227,-328 221,-328" />
+<text text-anchor="middle" x="172.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Info</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184,-256C184,-256 49,-256 49,-256 43,-256 37,-250 37,-244 37,-244 37,-228 37,-228 37,-222 43,-216 49,-216 49,-216 184,-216 184,-216 190,-216 196,-222 196,-228 196,-228 196,-244 196,-244 196,-250 190,-256 184,-256" />
+<text text-anchor="middle" x="116.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Options</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177.5,-184C177.5,-184 35.5,-184 35.5,-184 29.5,-184 23.5,-178 23.5,-172 23.5,-172 23.5,-156 23.5,-156 23.5,-150 29.5,-144 35.5,-144 35.5,-144 177.5,-144 177.5,-144 183.5,-144 189.5,-150 189.5,-156 189.5,-156 189.5,-172 189.5,-172 189.5,-178 183.5,-184 177.5,-184" />
+<text text-anchor="middle" x="106.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluate Options</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-112C185,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 185,-72 185,-72 191,-72 197,-78 197,-84 197,-84 197,-100 197,-100 197,-106 191,-112 185,-112" />
+<text text-anchor="middle" x="98.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose &amp; Implement</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M233,-40C233,-40 96,-40 96,-40 90,-40 84,-34 84,-28 84,-28 84,-12 84,-12 84,-6 90,0 96,0 96,0 233,0 233,0 239,0 245,-6 245,-12 245,-12 245,-28 245,-28 245,-34 239,-40 233,-40" />
+<text text-anchor="middle" x="164.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Review &amp; Adjust</text>
+</g>
+</g>
+</svg>

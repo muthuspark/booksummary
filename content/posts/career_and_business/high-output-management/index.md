@@ -20,16 +20,7 @@ The book begins by defining "output" not as mere activity, but as the tangible r
 
 Time management is presented as a skill for high-output managers. The book advocates for prioritizing tasks based on their impact and urgency, using tools like the Eisenhower Matrix (urgent/important). Delegation is presented as an important skill, not merely a task dumping ground. Effective delegation involves assigning tasks with clear expectations, providing necessary resources, and establishing regular check-ins. The goal isn't to dump work, but to help others grow and contribute.
 
-```mermaid
-graph LR
-    A[Task] --> B{Urgent & Important?};
-    B -- Yes --> C[Do it immediately];
-    B -- No --> D{Important but not Urgent?};
-    D -- Yes --> E[Schedule it];
-    D -- No --> F{Urgent but not Important?};
-    F -- Yes --> G[Delegate it];
-    F -- No --> H[Eliminate it];
-```
+![Managing Time Effectively. Task; Urgent & Important?; Do it immediately; Important but not Urgent?; Schedule it; Urgent but not Important?; Delegate it; Eliminate it.](diagram-01.svg)
 
 ## Understanding Your Organization as a System
 
@@ -45,16 +36,7 @@ Effective people management is a cornerstone of high output. Grove doesn't shy a
 
 The process should be data-driven, referencing KPIs and objectively observed performance.
 
-```mermaid
-graph LR
-    A[Manager] --> B(Sets Clear Expectations);
-    B --> C(Provides Resources);
-    C --> D(Delegates Tasks);
-    D --> E(Regular Check-ins);
-    E --> F(Constructive Feedback);
-    F --> G(Performance Review);
-    G --> A;
-```
+![People Management: Delegation and Feedback. Manager; Sets Clear Expectations; Provides Resources; Delegates Tasks; Regular Check-ins; Constructive Feedback; Performance Review.](diagram-02.svg)
 
 ## Building High-Performing Teams
 

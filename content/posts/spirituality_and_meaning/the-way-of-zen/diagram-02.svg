@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="365pt" height="158pt" viewBox="0.00 0.00 365.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">The Illusion of Control and the Acceptance of Impermanence</title><desc id="description">Desire for Control leads to Suffering. Acceptance of Impermanence leads to Inner Peace.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 347,-140 347,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.09,-20C185.24,-20 197.48,-20 208.91,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.92,-22.45 215.92,-20 208.92,-17.55 208.92,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.65,-92C173.55,-92 185.82,-92 197.57,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.82,-94.45 204.82,-92 197.82,-89.55 197.82,-94.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-40C161,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 161,0 161,0 167,0 173,-6 173,-12 173,-12 173,-28 173,-28 173,-34 167,-40 161,-40" />
+<text text-anchor="middle" x="86.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Desire for Control</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M306,-40C306,-40 228,-40 228,-40 222,-40 216,-34 216,-28 216,-28 216,-12 216,-12 216,-6 222,0 228,0 228,0 306,0 306,0 312,0 318,-6 318,-12 318,-12 318,-28 318,-28 318,-34 312,-40 306,-40" />
+<text text-anchor="middle" x="267" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suffering</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149.5,-122C149.5,-122 23.5,-122 23.5,-122 17.5,-122 11.5,-116 11.5,-110 11.5,-110 11.5,-74 11.5,-74 11.5,-68 17.5,-62 23.5,-62 23.5,-62 149.5,-62 149.5,-62 155.5,-62 161.5,-68 161.5,-74 161.5,-74 161.5,-110 161.5,-110 161.5,-116 155.5,-122 149.5,-122" />
+<text text-anchor="middle" x="86.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance of</text>
+<text text-anchor="middle" x="86.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impermanence</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M317,-112C317,-112 217,-112 217,-112 211,-112 205,-106 205,-100 205,-100 205,-84 205,-84 205,-78 211,-72 217,-72 217,-72 317,-72 317,-72 323,-72 329,-78 329,-84 329,-84 329,-100 329,-100 329,-106 323,-112 317,-112" />
+<text text-anchor="middle" x="267" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Peace</text>
+</g>
+</g>
+</svg>

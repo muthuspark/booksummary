@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="673pt" height="96pt" viewBox="0.00 0.00 673.00 96.00" role="img" aria-labelledby="title description">
+<title id="title">Scarcity: The Power of Limited Availability</title><desc id="description">Limited Availability leads to Increased Perceived Value. Increased Perceived Value leads to Increased Urgency to Act.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 78)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-78 655,-78 655,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185.11,-30C193.11,-30 201.24,-30 209.31,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.71,-32.45 216.71,-30 209.71,-27.55 209.71,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M407.02,-30C415.09,-30 423.28,-30 431.43,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="431.9,-32.45 438.9,-30 431.9,-27.55 431.9,-32.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-50C173,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 173,-10 173,-10 179,-10 185,-16 185,-22 185,-22 185,-38 185,-38 185,-44 179,-50 173,-50" />
+<text text-anchor="middle" x="92.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limited Availability</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M395,-60C395,-60 229,-60 229,-60 223,-60 217,-54 217,-48 217,-48 217,-12 217,-12 217,-6 223,0 229,0 229,0 395,0 395,0 401,0 407,-6 407,-12 407,-12 407,-48 407,-48 407,-54 401,-60 395,-60" />
+<text text-anchor="middle" x="312" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Perceived</text>
+<text text-anchor="middle" x="312" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Value</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M625,-60C625,-60 451,-60 451,-60 445,-60 439,-54 439,-48 439,-48 439,-12 439,-12 439,-6 445,0 451,0 451,0 625,0 625,0 631,0 637,-6 637,-12 637,-12 637,-48 637,-48 637,-54 631,-60 625,-60" />
+<text text-anchor="middle" x="538" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Urgency to</text>
+<text text-anchor="middle" x="538" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Act</text>
+</g>
+</g>
+</svg>

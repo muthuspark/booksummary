@@ -18,12 +18,7 @@ Michalko emphasizes the role of lateral thinking in overcoming mental blocks and
 
 The book frequently champions the use of analogies and metaphors as powerful tools for creative problem-solving. By connecting seemingly unrelated concepts, we can break free from ingrained patterns of thought. For example, understanding the complexities of a business problem might become clearer by comparing it to a natural ecosystem.
 
-```mermaid
-graph LR
-A[Business Problem] --> B(Ecosystem Analogy);
-B --> C{New Insights};
-C --> D[Innovative Solutions];
-```
+![The Power of Analogies and Metaphors. Business Problem; Ecosystem Analogy; New Insights; Innovative Solutions.](diagram-01.svg)
 
 ## Questioning Assumptions: The Foundation of Innovation
 
@@ -32,77 +27,7 @@ A significant portion of the book revolves around questioning assumptions.  Many
 
 ##  Techniques for Idea Generation
 
-```mermaid
-graph LR
-    A[Techniques for Idea Generation] --> B[Random Stimulation]
-    A --> C[Attribute Listing]
-    A --> D[Morphological Analysis]
-    A --> E[SCAMPER]
-    A --> F[Brainwriting]
-    A --> G[Reverse Brainstorming]
-
-    B --> B1[Random Words]
-    B --> B2[Random Images]
-    B --> B3[Random Objects]
-    B1 --> B4[Unexpected Connections]
-    B2 --> B4[Unexpected Connections]
-    B3 --> B4[Unexpected Connections]
-    
-    C --> C1[Identify Attributes]
-    C --> C2[Modify Attributes]
-    C1 --> C3[Generate Ideas]
-    C2 --> C3[Generate Ideas]
-    
-    D --> D1[Create Matrix]
-    D --> D2[Combine Aspects]
-    D1 --> D3[New Idea Combinations]
-    D2 --> D3[New Idea Combinations]
-
-    E --> E1[Substitute]
-    E --> E2[Combine]
-    E --> E3[Adapt]
-    E --> E4[Modify]
-    E --> E5[Put to other uses]
-    E --> E6[Eliminate]
-    E --> E7[Reverse]
-    
-    F --> F1[Silent Brainstorming]
-    F --> F2[Individual Idea Writing]
-    F1 --> F3[Encourage Variety]
-    F2 --> F3[Encourage Variety]
-
-    G --> G1[Identify Ways to Make Worse]
-    G --> G2[Understand Negative Aspects]
-    G1 --> G3[Reveal Areas for Improvement]
-    G2 --> G3[Reveal Areas for Improvement]
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px;
-    style B fill:#ccf,stroke:#333,stroke-width:2px;
-    style C fill:#ccf,stroke:#333,stroke-width:2px;
-    style D fill:#ccf,stroke:#333,stroke-width:2px;
-    style E fill:#ccf,stroke:#333,stroke-width:2px;
-    style F fill:#ccf,stroke:#333,stroke-width:2px;
-    style G fill:#ccf,stroke:#333,stroke-width:2px;
-    style B1 fill:#cfc,stroke:#333,stroke-width:2px;
-    style B2 fill:#cfc,stroke:#333,stroke-width:2px;
-    style B3 fill:#cfc,stroke:#333,stroke-width:2px;
-    style C1 fill:#cfc,stroke:#333,stroke-width:2px;
-    style C2 fill:#cfc,stroke:#333,stroke-width:2px;
-    style D1 fill:#cfc,stroke:#333,stroke-width:2px;
-    style D2 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E1 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E2 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E3 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E4 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E5 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E6 fill:#cfc,stroke:#333,stroke-width:2px;
-    style E7 fill:#cfc,stroke:#333,stroke-width:2px;
-    style F1 fill:#cfc,stroke:#333,stroke-width:2px;
-    style F2 fill:#cfc,stroke:#333,stroke-width:2px;
-    style G1 fill:#cfc,stroke:#333,stroke-width:2px;
-    style G2 fill:#cfc,stroke:#333,stroke-width:2px;
-
-```
+![Techniques for Idea Generation. Techniques for Idea Generation; Random Stimulation; Attribute Listing; Morphological Analysis; SCAMPER; Brainwriting; Reverse Brainstorming; Random Words; Random Images; Random Objects; Unexpected Connections; Identify Attributes; Modify Attributes; Generate Ideas; Create Matrix; Combine Aspects; New Idea Combinations; Substitute; Combine; Adapt; Modify; Put to other uses; Eliminate; Reverse; Silent Brainstorming; Individual Idea Writing; Encourage Variety; Identify Ways to Make Worse; Understand Negative Aspects; Reveal Areas for Improvement.](diagram-02.svg)
 
 Thinkertoys introduces a plethora of specific techniques, categorized for easy use.  These include:
 

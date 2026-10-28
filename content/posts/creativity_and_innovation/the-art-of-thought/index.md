@@ -14,13 +14,7 @@ Graham Wallas' "The Art of Thought" is a seminal work exploring the creative pro
 
 Wallas' central contribution is his articulation of the four stages of creative thought: preparation, incubation, illumination, and verification.  These stages aren't necessarily linear; they often overlap and iterate.
 
-```mermaid
-graph LR
-    A[Preparation] --> B(Incubation);
-    B --> C{Illumination};
-    C --> D[Verification];
-    D --> B;
-```
+![The Four Stages of Thought. Preparation; Incubation; Illumination; Verification.](diagram-01.svg)
 
 **Preparation:** This involves diligent gathering of relevant information, thorough examination of the problem, and a conscious effort to understand its complexities. It demands focused attention and engagement with the subject matter. Actively seeking various viewpoints and engaging in deep reading are components of this stage.
 

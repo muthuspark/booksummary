@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="737pt" height="218pt" viewBox="0.00 0.00 737.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">Examples of Key Games and Their Application</title><desc id="description">Project Goal leads to Obstacles. Project Goal leads to Enablers. Obstacles leads to Identify and Mitigate. Enablers leads to Leverage and Amplify.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 719,-200 719,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.05,-108.63C135.35,-110.97 143.84,-113.36 152.06,-115.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.49,-118.06 158.89,-117.6 152.82,-113.34 151.49,-118.06" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.05,-77.67C136.04,-75.76 145.25,-73.8 154.11,-71.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.78,-74.27 161.12,-70.41 153.76,-69.48 154.78,-74.27" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263.28,-133.8C280.63,-134.41 301.1,-135.13 322.59,-135.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="322.52,-138.33 329.6,-136.13 322.69,-133.43 322.52,-138.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M260.67,-56.58C283.34,-54.99 311.7,-53 340.84,-50.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="341.05,-53.4 347.86,-50.47 340.71,-48.51 341.05,-53.4" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M115,-111C115,-111 12,-111 12,-111 6,-111 0,-105 0,-99 0,-99 0,-83 0,-83 0,-77 6,-71 12,-71 12,-71 115,-71 115,-71 121,-71 127,-77 127,-83 127,-83 127,-99 127,-99 127,-105 121,-111 115,-111" />
+<text text-anchor="middle" x="63.5" y="-86.6" font-family="Georgia" font-size="18.00" fill="#243d36">Project Goal</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251,-152C251,-152 171,-152 171,-152 165,-152 159,-146 159,-140 159,-140 159,-124 159,-124 159,-118 165,-112 171,-112 171,-112 251,-112 251,-112 257,-112 263,-118 263,-124 263,-124 263,-140 263,-140 263,-146 257,-152 251,-152" />
+<text text-anchor="middle" x="211" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Obstacles</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M248.5,-80C248.5,-80 173.5,-80 173.5,-80 167.5,-80 161.5,-74 161.5,-68 161.5,-68 161.5,-52 161.5,-52 161.5,-46 167.5,-40 173.5,-40 173.5,-40 248.5,-40 248.5,-40 254.5,-40 260.5,-46 260.5,-52 260.5,-52 260.5,-68 260.5,-68 260.5,-74 254.5,-80 248.5,-80" />
+<text text-anchor="middle" x="211" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enablers</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="498,-182 301,-142 498,-102 695,-142 498,-182" />
+<text text-anchor="middle" x="498" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify and Mitigate</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="498,-80 295,-40 498,0 701,-40 498,-80" />
+<text text-anchor="middle" x="498" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leverage and Amplify</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295pt" height="364pt" viewBox="0.00 0.00 294.50 364.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing the Interconnectedness of the Laws</title><desc id="description">Law of Value leads to Law of Compensation. Law of Compensation leads to Law of Influence. Law of Influence leads to Law of Authenticity. Law of Authenticity leads to Law of Receptivity. Law of Receptivity leads to Law of Value.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 276.5,-346 276.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149.19,-287.87C141.36,-279.69 132.13,-270.05 123.82,-261.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.4,-259.47 118.79,-256.1 121.86,-262.86 125.4,-259.47" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.59,-215.87C102.03,-208.31 102.53,-199.49 102.99,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-191.23 103.41,-184.1 100.56,-190.95 105.45,-191.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.32,-143.87C105.64,-136.31 106.02,-127.49 106.37,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="108.83,-119.2 106.68,-112.1 103.93,-118.99 108.83,-119.2" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124.72,-71.87C132.08,-63.69 140.76,-54.05 148.57,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.44,-46.95 153.31,-40.1 146.8,-43.67 150.44,-46.95" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M190.71,-40.44C198.46,-49.25 206.42,-60.31 210.5,-72 248.09,-179.61 222.35,-226.83 211.5,-256 207.86,-265.8 201.4,-274.97 194.53,-282.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="192.7,-281.12 189.74,-287.92 196.29,-284.46 192.7,-281.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M221.5,-328C221.5,-328 113.5,-328 113.5,-328 107.5,-328 101.5,-322 101.5,-316 101.5,-316 101.5,-300 101.5,-300 101.5,-294 107.5,-288 113.5,-288 113.5,-288 221.5,-288 221.5,-288 227.5,-288 233.5,-294 233.5,-300 233.5,-300 233.5,-316 233.5,-316 233.5,-322 227.5,-328 221.5,-328" />
+<text text-anchor="middle" x="167.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Law of Value</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M189,-256C189,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 189,-216 189,-216 195,-216 201,-222 201,-228 201,-228 201,-244 201,-244 201,-250 195,-256 189,-256" />
+<text text-anchor="middle" x="100.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Law of Compensation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173.5,-184C173.5,-184 35.5,-184 35.5,-184 29.5,-184 23.5,-178 23.5,-172 23.5,-172 23.5,-156 23.5,-156 23.5,-150 29.5,-144 35.5,-144 35.5,-144 173.5,-144 173.5,-144 179.5,-144 185.5,-150 185.5,-156 185.5,-156 185.5,-172 185.5,-172 185.5,-178 179.5,-184 173.5,-184" />
+<text text-anchor="middle" x="104.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Law of Influence</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-112C188,-112 27,-112 27,-112 21,-112 15,-106 15,-100 15,-100 15,-84 15,-84 15,-78 21,-72 27,-72 27,-72 188,-72 188,-72 194,-72 200,-78 200,-84 200,-84 200,-100 200,-100 200,-106 194,-112 188,-112" />
+<text text-anchor="middle" x="107.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Law of Authenticity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M246.5,-40C246.5,-40 94.5,-40 94.5,-40 88.5,-40 82.5,-34 82.5,-28 82.5,-28 82.5,-12 82.5,-12 82.5,-6 88.5,0 94.5,0 94.5,0 246.5,0 246.5,0 252.5,0 258.5,-6 258.5,-12 258.5,-12 258.5,-28 258.5,-28 258.5,-34 252.5,-40 246.5,-40" />
+<text text-anchor="middle" x="170.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Law of Receptivity</text>
+</g>
+</g>
+</svg>

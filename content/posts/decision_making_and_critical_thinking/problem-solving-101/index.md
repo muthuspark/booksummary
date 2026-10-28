@@ -12,18 +12,7 @@ There is no known book titled "Problem Solving 101" authored by Ken Watanabe.  T
 
 Before leaping into solutions, clearly defining the problem is paramount.  This seemingly simple step often gets overlooked, leading to ineffective solutions.  What exactly is the issue?  Avoid ambiguity.  Use the "5 Whys" technique to drill down to the root cause.
 
-```mermaid
-graph TD
-    A[Problem: Slow Computer] --> B(Why?);
-    B --> C{Old Hard Drive?};
-    C -- Yes --> D[Root Cause: Hard Drive Needs Replacing];
-    C -- No --> E(Why?);
-    E --> F{Insufficient RAM?};
-    F -- Yes --> G[Root Cause: Upgrade RAM];
-    F -- No --> H(Why?);
-    H --> I{Malware?};
-    I -- Yes --> J[Root Cause: Malware Removal];
-```
+![Defining the Problem. Problem: Slow Computer; Why?; Old Hard Drive?; Root Cause: Hard Drive Needs Replacing; Why?; Insufficient RAM?; Root Cause: Upgrade RAM; Why?; Malware?; Root Cause: Malware Removal.](diagram-01.svg)
 
 ## Gathering Information
 
@@ -34,15 +23,7 @@ Effective problem-solving relies on thorough information gathering.  Consider al
 
 Once the problem is well-defined, brainstorm a wide range of potential solutions. Encourage creativity and avoid premature judgment. Consider both short-term and long-term consequences of each solution. Mind mapping can be a powerful tool here.
 
-```mermaid
-mindmap
-  root((Brainstorming Solutions))
-    sub("Option 1: Upgrade Hardware")
-    sub("Option 2: Software Optimization")
-    sub("Option 3: Process Re-engineering")
-    sub("Option 4: Outsourcing")
-    sub("Option 5: Staff Training")
-```
+![Brainstorming Solutions. Brainstorming Solutions; Option 1: Upgrade Hardware; Option 2: Software Optimization; Option 3: Process Re-engineering; Option 4: Outsourcing; Option 5: Staff Training.](diagram-02.svg)
 
 ## Evaluating Solutions
 

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199pt" height="312pt" viewBox="0.00 0.00 199.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">Dealing with Difficult Decisions</title><desc id="description">Gather Data leads to Consider Factors. Consider Factors leads to Thoughtful Deliberation. Thoughtful Deliberation leads to Decision Making.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 181,-294 181,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81.5,-235.87C81.5,-228.31 81.5,-219.49 81.5,-211.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.95,-211.1 81.5,-204.1 79.05,-211.1 83.95,-211.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81.5,-163.63C81.5,-156.34 81.5,-147.78 81.5,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.95,-139.19 81.5,-132.19 79.05,-139.19 83.95,-139.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81.5,-71.67C81.5,-63.77 81.5,-55.28 81.5,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.95,-47.12 81.5,-40.12 79.05,-47.12 83.95,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M132,-276C132,-276 31,-276 31,-276 25,-276 19,-270 19,-264 19,-264 19,-248 19,-248 19,-242 25,-236 31,-236 31,-236 132,-236 132,-236 138,-236 144,-242 144,-248 144,-248 144,-264 144,-264 144,-270 138,-276 132,-276" />
+<text text-anchor="middle" x="81.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Data</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151,-204C151,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 151,-164 151,-164 157,-164 163,-170 163,-176 163,-176 163,-192 163,-192 163,-198 157,-204 151,-204" />
+<text text-anchor="middle" x="81.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consider Factors</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M133.5,-132C133.5,-132 29.5,-132 29.5,-132 23.5,-132 17.5,-126 17.5,-120 17.5,-120 17.5,-84 17.5,-84 17.5,-78 23.5,-72 29.5,-72 29.5,-72 133.5,-72 133.5,-72 139.5,-72 145.5,-78 145.5,-84 145.5,-84 145.5,-120 145.5,-120 145.5,-126 139.5,-132 133.5,-132" />
+<text text-anchor="middle" x="81.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thoughtful</text>
+<text text-anchor="middle" x="81.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deliberation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M150.5,-40C150.5,-40 12.5,-40 12.5,-40 6.5,-40 0.5,-34 0.5,-28 0.5,-28 0.5,-12 0.5,-12 0.5,-6 6.5,0 12.5,0 12.5,0 150.5,0 150.5,0 156.5,0 162.5,-6 162.5,-12 162.5,-12 162.5,-28 162.5,-28 162.5,-34 156.5,-40 150.5,-40" />
+<text text-anchor="middle" x="81.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Making</text>
+</g>
+</g>
+</svg>

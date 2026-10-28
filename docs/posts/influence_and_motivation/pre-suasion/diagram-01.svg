@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="583pt" height="96pt" viewBox="0.00 0.00 583.00 96.00" role="img" aria-labelledby="title description">
+<title id="title">Focusing Attention: The Priming Effect</title><desc id="description">Initial State leads to Prime: Images of Charity. Prime: Images of Charity leads to Increased Generosity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 78)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-78 565,-78 565,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121.04,-30C129.05,-30 137.42,-30 145.8,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.85,-32.45 152.85,-30 145.85,-27.55 145.85,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M318.08,-30C326.23,-30 334.59,-30 342.93,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="342.94,-32.45 349.94,-30 342.94,-27.55 342.94,-32.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M109,-50C109,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 109,-10 109,-10 115,-10 121,-16 121,-22 121,-22 121,-38 121,-38 121,-44 115,-50 109,-50" />
+<text text-anchor="middle" x="60.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Initial State</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M306,-60C306,-60 165,-60 165,-60 159,-60 153,-54 153,-48 153,-48 153,-12 153,-12 153,-6 159,0 165,0 165,0 306,0 306,0 312,0 318,-6 318,-12 318,-12 318,-48 318,-48 318,-54 312,-60 306,-60" />
+<text text-anchor="middle" x="235.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prime: Images of</text>
+<text text-anchor="middle" x="235.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Charity</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M535,-50C535,-50 362,-50 362,-50 356,-50 350,-44 350,-38 350,-38 350,-22 350,-22 350,-16 356,-10 362,-10 362,-10 535,-10 535,-10 541,-10 547,-16 547,-22 547,-22 547,-38 547,-38 547,-44 541,-50 535,-50" />
+<text text-anchor="middle" x="448.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Generosity</text>
+</g>
+</g>
+</svg>

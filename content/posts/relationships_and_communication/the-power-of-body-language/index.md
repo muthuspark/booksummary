@@ -68,12 +68,7 @@ Reiman specifically addresses the role of body language in the workplace, discus
 
 # Diagram illustrating mirroring technique:
 
-```mermaid
-graph LR
-    A[Person A] --> B(Mirroring);
-    B --> C[Person B];
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-```
+![Diagram illustrating mirroring technique:. Person A; Mirroring; Person B.](diagram-01.svg)
 
 
 # Key takeaways and Actionable Insights:

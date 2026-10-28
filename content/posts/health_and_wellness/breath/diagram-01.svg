@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442pt" height="386pt" viewBox="0.00 0.00 442.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Science of Breath: Diaphragmatic Breathing</title><desc id="description">Shallow Chest Breathing leads to Reduced Oxygen Intake. Shallow Chest Breathing leads to Increased Stress. Shallow Chest Breathing leads to Poor Sleep. Diaphragmatic Breathing leads to Improved Oxygen Intake. Diaphragmatic Breathing leads to Reduced Stress. Diaphragmatic Breathing leads to Better Sleep.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 424,-368 424,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.58,-102.7C155.39,-106.18 167.54,-109.72 179,-113 189.31,-115.95 200.16,-119 210.89,-121.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.52,-124.43 217.92,-123.95 211.83,-119.71 210.52,-124.43" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.76,-82C163.62,-82 185.51,-82 206.21,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.48,-84.45 213.48,-82 206.48,-79.55 206.48,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.58,-61.3C155.39,-57.82 167.54,-54.28 179,-51 194.85,-46.47 211.99,-41.68 228,-37.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.69,-39.62 234.79,-35.4 227.39,-34.89 228.69,-39.62" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.25,-289.78C157.89,-292.91 168.72,-296.06 179,-299 189.31,-301.95 200.16,-305 210.89,-307.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.52,-310.43 217.92,-309.95 211.83,-305.71 210.52,-310.43" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.06,-268C167.12,-268 189.03,-268 209.58,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.78,-270.45 216.78,-268 209.78,-265.55 209.78,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.25,-246.22C157.89,-243.09 168.72,-239.94 179,-237 192.98,-233 207.96,-228.81 222.28,-224.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.16,-227.15 229.25,-222.92 221.85,-222.42 223.16,-227.15" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M131.5,-112C131.5,-112 15.5,-112 15.5,-112 9.5,-112 3.5,-106 3.5,-100 3.5,-100 3.5,-64 3.5,-64 3.5,-58 9.5,-52 15.5,-52 15.5,-52 131.5,-52 131.5,-52 137.5,-52 143.5,-58 143.5,-64 143.5,-64 143.5,-100 143.5,-100 143.5,-106 137.5,-112 131.5,-112" />
+<text text-anchor="middle" x="73.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shallow Chest</text>
+<text text-anchor="middle" x="73.5" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Breathing</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M390,-164C390,-164 195,-164 195,-164 189,-164 183,-158 183,-152 183,-152 183,-136 183,-136 183,-130 189,-124 195,-124 195,-124 390,-124 390,-124 396,-124 402,-130 402,-136 402,-136 402,-152 402,-152 402,-158 396,-164 390,-164" />
+<text text-anchor="middle" x="292.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Oxygen Intake</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M359.5,-102C359.5,-102 225.5,-102 225.5,-102 219.5,-102 213.5,-96 213.5,-90 213.5,-90 213.5,-74 213.5,-74 213.5,-68 219.5,-62 225.5,-62 225.5,-62 359.5,-62 359.5,-62 365.5,-62 371.5,-68 371.5,-74 371.5,-74 371.5,-90 371.5,-90 371.5,-96 365.5,-102 359.5,-102" />
+<text text-anchor="middle" x="292.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Stress</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M338,-40C338,-40 247,-40 247,-40 241,-40 235,-34 235,-28 235,-28 235,-12 235,-12 235,-6 241,0 247,0 247,0 338,0 338,0 344,0 350,-6 350,-12 350,-12 350,-28 350,-28 350,-34 344,-40 338,-40" />
+<text text-anchor="middle" x="292.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Poor Sleep</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-298C135,-298 12,-298 12,-298 6,-298 0,-292 0,-286 0,-286 0,-250 0,-250 0,-244 6,-238 12,-238 12,-238 135,-238 135,-238 141,-238 147,-244 147,-250 147,-250 147,-286 147,-286 147,-292 141,-298 135,-298" />
+<text text-anchor="middle" x="73.5" y="-273.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diaphragmatic</text>
+<text text-anchor="middle" x="73.5" y="-253.6" font-family="Georgia" font-size="18.00" fill="#243d36">Breathing</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M394,-350C394,-350 191,-350 191,-350 185,-350 179,-344 179,-338 179,-338 179,-322 179,-322 179,-316 185,-310 191,-310 191,-310 394,-310 394,-310 400,-310 406,-316 406,-322 406,-322 406,-338 406,-338 406,-344 400,-350 394,-350" />
+<text text-anchor="middle" x="292.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Oxygen Intake</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356,-288C356,-288 229,-288 229,-288 223,-288 217,-282 217,-276 217,-276 217,-260 217,-260 217,-254 223,-248 229,-248 229,-248 356,-248 356,-248 362,-248 368,-254 368,-260 368,-260 368,-276 368,-276 368,-282 362,-288 356,-288" />
+<text text-anchor="middle" x="292.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Stress</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M343.5,-226C343.5,-226 241.5,-226 241.5,-226 235.5,-226 229.5,-220 229.5,-214 229.5,-214 229.5,-198 229.5,-198 229.5,-192 235.5,-186 241.5,-186 241.5,-186 343.5,-186 343.5,-186 349.5,-186 355.5,-192 355.5,-198 355.5,-198 355.5,-214 355.5,-214 355.5,-220 349.5,-226 343.5,-226" />
+<text text-anchor="middle" x="292.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Better Sleep</text>
+</g>
+</g>
+</svg>

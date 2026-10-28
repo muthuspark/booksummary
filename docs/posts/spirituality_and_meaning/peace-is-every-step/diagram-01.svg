@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="656pt" height="332pt" viewBox="0.00 0.00 656.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Mindfulness in Daily Life: Transforming Mundane Tasks</title><desc id="description">Daily Task leads to Mindful Awareness. Mindful Awareness leads to Sensations. Mindful Awareness leads to Feelings. Mindful Awareness leads to Action. Sensations leads to Peace. Feelings leads to Peace. Action leads to Peace.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 638,-314 638,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M343,-255.87C343,-248.31 343,-239.49 343,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="345.45,-231.1 343,-224.1 340.55,-231.1 345.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M294.22,-183.91C258.72,-170.02 210.44,-151.13 172.64,-136.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.12,-133.9 165.71,-133.63 171.34,-138.46 173.12,-133.9" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M343,-183.91C343,-176.58 343,-167.86 343,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="345.45,-159.07 343,-152.07 340.55,-159.07 345.45,-159.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M384.78,-183.91C416.33,-169.5 459.67,-149.7 492.53,-134.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="493.61,-136.89 498.96,-131.75 491.57,-132.43 493.61,-136.89" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.48,-90.46C205.67,-74.74 260.5,-53.28 298.54,-38.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="299.82,-40.53 305.44,-35.7 298.03,-35.97 299.82,-40.53" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M343,-71.79C343,-63.54 343,-55.04 343,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="345.45,-47.09 343,-40.09 340.55,-47.09 345.45,-47.09" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M499.18,-92.35C466.53,-77.44 420.83,-56.56 387.3,-41.24" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="388.15,-38.93 380.76,-38.25 386.11,-43.39 388.15,-38.93" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M387.5,-296C387.5,-296 298.5,-296 298.5,-296 292.5,-296 286.5,-290 286.5,-284 286.5,-284 286.5,-268 286.5,-268 286.5,-262 292.5,-256 298.5,-256 298.5,-256 387.5,-256 387.5,-256 393.5,-256 399.5,-262 399.5,-268 399.5,-268 399.5,-284 399.5,-284 399.5,-290 393.5,-296 387.5,-296" />
+<text text-anchor="middle" x="343" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Daily Task</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M422.5,-224C422.5,-224 263.5,-224 263.5,-224 257.5,-224 251.5,-218 251.5,-212 251.5,-212 251.5,-196 251.5,-196 251.5,-190 257.5,-184 263.5,-184 263.5,-184 422.5,-184 422.5,-184 428.5,-184 434.5,-190 434.5,-196 434.5,-196 434.5,-212 434.5,-212 434.5,-218 428.5,-224 422.5,-224" />
+<text text-anchor="middle" x="343" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindful Awareness</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="113,-152 0,-112 113,-72 226,-112 113,-152" />
+<text text-anchor="middle" x="113" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sensations</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="343,-152 248,-112 343,-72 438,-112 343,-152" />
+<text text-anchor="middle" x="343" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feelings</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="540,-152 460,-112 540,-72 620,-112 540,-152" />
+<text text-anchor="middle" x="540" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M368.5,-40C368.5,-40 317.5,-40 317.5,-40 311.5,-40 305.5,-34 305.5,-28 305.5,-28 305.5,-12 305.5,-12 305.5,-6 311.5,0 317.5,0 317.5,0 368.5,0 368.5,0 374.5,0 380.5,-6 380.5,-12 380.5,-12 380.5,-28 380.5,-28 380.5,-34 374.5,-40 368.5,-40" />
+<text text-anchor="middle" x="343" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Peace</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441pt" height="123pt" viewBox="0.00 0.00 441.00 123.00" role="img" aria-labelledby="title description">
+<title id="title">The Nature of Creativity: Beyond the Myth of Genius</title><desc id="description">Individual leads to Domain. Domain leads to Field. Field leads to Individual.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 105)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-105 423,-105 423,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.13,-51.22C119.23,-52.88 127.57,-54.59 135.62,-56.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.58,-58.74 142.93,-57.75 136.56,-53.94 135.58,-58.74" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M235.08,-58.61C248.11,-56.18 262.52,-53.5 276.25,-50.94" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="276.92,-53.31 283.36,-49.62 276.02,-48.49 276.92,-53.31" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M271.8,-37.09C259.59,-36.63 246.9,-36.24 235,-36 194.12,-35.18 183.88,-35.06 143,-36 135.18,-36.18 126.96,-36.45 118.83,-36.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.29,-34.34 111.4,-37.08 118.49,-39.24 118.29,-34.34" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M99,-60C99,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 99,-20 99,-20 105,-20 111,-26 111,-32 111,-32 111,-48 111,-48 111,-54 105,-60 99,-60" />
+<text text-anchor="middle" x="55.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M223,-87C223,-87 155,-87 155,-87 149,-87 143,-81 143,-75 143,-75 143,-59 143,-59 143,-53 149,-47 155,-47 155,-47 223,-47 223,-47 229,-47 235,-53 235,-59 235,-59 235,-75 235,-75 235,-81 229,-87 223,-87" />
+<text text-anchor="middle" x="189" y="-62.6" font-family="Georgia" font-size="18.00" fill="#243d36">Domain</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="336,-80 267,-40 336,0 405,-40 336,-80" />
+<text text-anchor="middle" x="336" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Field</text>
+</g>
+</g>
+</svg>

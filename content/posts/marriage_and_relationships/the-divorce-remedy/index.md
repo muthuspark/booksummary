@@ -14,15 +14,7 @@ Michele Weiner-Davis's "The Divorce Remedy" isn't solely about preventing divorc
 
 A cornerstone of Weiner-Davis's approach is taking radical responsibility.  This isn't about guilt; it's about acknowledging your contribution to the problems, regardless of your partner's actions.  It involves identifying negative patterns like criticism, defensiveness, contempt, and stonewalling (the "Four Horsemen" of relationship destruction, as identified by John Gottman).  Recognizing your own role allows you to break free from these detrimental habits.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Your Contribution);
-    A --> C(Partner's Contribution);
-    B --> D{Self-Reflection & Change};
-    C --> E{"Partner's potential change <br> (encouraged, not demanded)"};
-    D --> F[Improved Relationship];
-    E --> F;
-```
+![Taking Responsibility: Owning Your Part in the Relationship's Struggles. Problem; Your Contribution; Partner's Contribution; Self-Reflection & Change; Partner's potential change   (encouraged, not demanded); Improved Relationship.](diagram-01.svg)
 
 
 ## The Power of Positive Communication: Shifting from Blame to Understanding
@@ -56,16 +48,7 @@ Weiner-Davis acknowledges that some couples need professional help to navigate c
 
 The book highlights the importance of self-care. A happy, healthy relationship requires happy, healthy individuals. Investing time in personal growth, pursuing hobbies, and prioritizing mental and physical well-being strengthens the individual and, indirectly, the relationship. A strong sense of self is essential for a fulfilling partnership.
 
-```mermaid
-graph LR
-    A[Self-Care] --> B(Physical Health);
-    A --> C(Mental Health);
-    A --> D(Personal Growth);
-    B --> E[Stronger Individual];
-    C --> E;
-    D --> E;
-    E --> F[Healthier Relationship];
-```
+![Self-Care and Personal Growth:  Prioritizing Individual Well-being. Self-Care; Physical Health; Mental Health; Personal Growth; Stronger Individual; Healthier Relationship.](diagram-02.svg)
 
 ## Breaking Free from Negative Patterns: Identifying and Changing Unhealthy Habits
 

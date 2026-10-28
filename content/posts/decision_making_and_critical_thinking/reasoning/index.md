@@ -48,15 +48,7 @@ The book advocates for a more structured approach to decision-making, moving bey
 * **Monitoring and evaluating outcomes:** Assessing the effectiveness of the chosen solution and learning from the experience.
 
 
-```mermaid
-graph TD
-    A[Define Problem] --> B{Brainstorm Solutions};
-    B --> C[Evaluate Options];
-    C --> D[Consider Risks];
-    D --> E[Choose Solution];
-    E --> F[Monitor Outcomes];
-    F --> G[Learn & Adapt];
-```
+![Improving Decision-Making Through Structured Analysis. Define Problem; Brainstorm Solutions; Evaluate Options; Consider Risks; Choose Solution; Monitor Outcomes; Learn & Adapt.](diagram-01.svg)
 
 
 ##  The Importance of  Probabilistic Thinking

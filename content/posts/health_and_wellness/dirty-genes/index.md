@@ -18,25 +18,7 @@ Lynch argues that identifying genetic predispositions is crucial, but only as a 
 
 A significant portion of the book focuses on the metabolic process of methylation. Lynch explains that methylation is essential for numerous bodily functions, including detoxification, DNA repair, and neurotransmitter production. Genetic variations can disrupt methylation pathways, leading to various health problems. He provides a clear explanation of how different genes involved in the methylation cycle (like MTHFR, COMT, and others) impact overall health.
 
-```mermaid
-graph LR
-    A["Nutrients (B Vitamins, Choline)"] --> B(Methylation Cycle)
-    B --> C[Detoxification]
-    B --> D[DNA Repair]
-    B --> E[Neurotransmitter Production]
-    B --> F[Immune Function]
-    F --> G[Reduced Inflammation]
-    C --> G
-    D --> G
-    E --> G
-    G --> H[Improved Health]
-    
-    subgraph "Genetic Variations"
-        I[MTHFR] --> B
-        J[COMT] --> B
-        K[CBS] --> B
-    end
-```
+![The Importance of Methylation. Nutrients (B Vitamins, Choline); Methylation Cycle; Detoxification; DNA Repair; Neurotransmitter Production; Immune Function; Reduced Inflammation; Improved Health; MTHFR; COMT; CBS.](diagram-01.svg)
 
 This diagram illustrates how nutrient intake fuels the methylation cycle, which in turn affects various bodily processes, ultimately impacting overall health.  Genetic variations, symbolized by MTHFR, COMT, and CBS genes, can interfere with the efficient functioning of this cycle.
 

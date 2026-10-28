@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178pt" height="404pt" viewBox="0.00 0.00 178.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Love: The Ultimate Goal</title><desc id="description">Discipline leads to Facing Reality. Facing Reality leads to Love. Love leads to Growth. Growth leads to Fulfilling Life.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 160,-386 160,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71,-327.87C71,-320.31 71,-311.49 71,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="73.45,-303.1 71,-296.1 68.55,-303.1 73.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71,-255.91C71,-248.58 71,-239.86 71,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="73.45,-231.07 71,-224.07 68.55,-231.07 73.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71,-143.79C71,-135.54 71,-127.04 71,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="73.45,-119.09 71,-112.09 68.55,-119.09 73.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71,-71.87C71,-64.31 71,-55.49 71,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="73.45,-47.1 71,-40.1 68.55,-47.1 73.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113.5,-368C113.5,-368 28.5,-368 28.5,-368 22.5,-368 16.5,-362 16.5,-356 16.5,-356 16.5,-340 16.5,-340 16.5,-334 22.5,-328 28.5,-328 28.5,-328 113.5,-328 113.5,-328 119.5,-328 125.5,-334 125.5,-340 125.5,-340 125.5,-356 125.5,-356 125.5,-362 119.5,-368 113.5,-368" />
+<text text-anchor="middle" x="71" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discipline</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M130,-296C130,-296 12,-296 12,-296 6,-296 0,-290 0,-284 0,-284 0,-268 0,-268 0,-262 6,-256 12,-256 12,-256 130,-256 130,-256 136,-256 142,-262 142,-268 142,-268 142,-284 142,-284 142,-290 136,-296 130,-296" />
+<text text-anchor="middle" x="71" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Facing Reality</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="71,-224 4,-184 71,-144 138,-184 71,-224" />
+<text text-anchor="middle" x="71" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Love</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M103.5,-112C103.5,-112 38.5,-112 38.5,-112 32.5,-112 26.5,-106 26.5,-100 26.5,-100 26.5,-84 26.5,-84 26.5,-78 32.5,-72 38.5,-72 38.5,-72 103.5,-72 103.5,-72 109.5,-72 115.5,-78 115.5,-84 115.5,-84 115.5,-100 115.5,-100 115.5,-106 109.5,-112 103.5,-112" />
+<text text-anchor="middle" x="71" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M127.5,-40C127.5,-40 14.5,-40 14.5,-40 8.5,-40 2.5,-34 2.5,-28 2.5,-28 2.5,-12 2.5,-12 2.5,-6 8.5,0 14.5,0 14.5,0 127.5,0 127.5,0 133.5,0 139.5,-6 139.5,-12 139.5,-12 139.5,-28 139.5,-28 139.5,-34 133.5,-40 127.5,-40" />
+<text text-anchor="middle" x="71" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fulfilling Life</text>
+</g>
+</g>
+</svg>

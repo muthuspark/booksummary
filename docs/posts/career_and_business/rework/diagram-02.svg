@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710pt" height="116pt" viewBox="0.00 0.00 710.00 116.00" role="img" aria-labelledby="title description">
+<title id="title">Finding Your Niche and Passion</title><desc id="description">Passion leads to Talent. Talent leads to Niche. Niche leads to Business Idea. Business Idea leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 98)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-98 692,-98 692,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.11,-40C97.05,-40 105.36,-40 113.37,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.64,-42.45 120.64,-40 113.64,-37.55 113.64,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.24,-40C208.91,-40 217.21,-40 225.67,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.81,-42.45 232.81,-40 225.81,-37.55 225.81,-42.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M383.04,-40C391.12,-40 399.34,-40 407.43,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="407.82,-42.45 414.82,-40 407.82,-37.55 407.82,-42.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M553.39,-40C561.57,-40 569.81,-40 577.68,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="577.79,-42.45 584.79,-40 577.79,-37.55 577.79,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M77,-60C77,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 77,-20 77,-20 83,-20 89,-26 89,-32 89,-32 89,-48 89,-48 89,-54 83,-60 77,-60" />
+<text text-anchor="middle" x="44.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passion</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M189,-60C189,-60 133,-60 133,-60 127,-60 121,-54 121,-48 121,-48 121,-32 121,-32 121,-26 127,-20 133,-20 133,-20 189,-20 189,-20 195,-20 201,-26 201,-32 201,-32 201,-48 201,-48 201,-54 195,-60 189,-60" />
+<text text-anchor="middle" x="161" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Talent</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="308,-80 233,-40 308,0 383,-40 308,-80" />
+<text text-anchor="middle" x="308" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Niche</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M541,-60C541,-60 427,-60 427,-60 421,-60 415,-54 415,-48 415,-48 415,-32 415,-32 415,-26 421,-20 427,-20 427,-20 541,-20 541,-20 547,-20 553,-26 553,-32 553,-32 553,-48 553,-48 553,-54 547,-60 541,-60" />
+<text text-anchor="middle" x="484" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Business Idea</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M662,-60C662,-60 597,-60 597,-60 591,-60 585,-54 585,-48 585,-48 585,-32 585,-32 585,-26 591,-20 597,-20 597,-20 662,-20 662,-20 668,-20 674,-26 674,-32 674,-32 674,-48 674,-48 674,-54 668,-60 662,-60" />
+<text text-anchor="middle" x="629.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430pt" height="424pt" viewBox="0.00 0.00 430.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">1. Managing Time: Focusing on Contributions</title><desc id="description">Effective Executive leads to Prioritizes Contributions. Prioritizes Contributions leads to Focuses on Strengths. Focuses on Strengths leads to Delegates Effectively. Delegates Effectively leads to Achieves Results.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 412,-406 412,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197,-347.63C197,-340.34 197,-331.78 197,-323.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.45,-323.19 197,-316.19 194.55,-323.19 199.45,-323.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197,-255.81C197,-248.06 197,-239.5 197,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.45,-231.09 197,-224.09 194.55,-231.09 199.45,-231.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197,-143.79C197,-135.54 197,-127.04 197,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.45,-119.09 197,-112.09 194.55,-119.09 199.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197,-71.87C197,-64.31 197,-55.49 197,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.45,-47.1 197,-40.1 194.55,-47.1 199.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-388C276,-388 118,-388 118,-388 112,-388 106,-382 106,-376 106,-376 106,-360 106,-360 106,-354 112,-348 118,-348 118,-348 276,-348 276,-348 282,-348 288,-354 288,-360 288,-360 288,-376 288,-376 288,-382 282,-388 276,-388" />
+<text text-anchor="middle" x="197" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective Executive</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M254,-316C254,-316 140,-316 140,-316 134,-316 128,-310 128,-304 128,-304 128,-268 128,-268 128,-262 134,-256 140,-256 140,-256 254,-256 254,-256 260,-256 266,-262 266,-268 266,-268 266,-304 266,-304 266,-310 260,-316 254,-316" />
+<text text-anchor="middle" x="197" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritizes</text>
+<text text-anchor="middle" x="197" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Contributions</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="197,-224 0,-184 197,-144 394,-184 197,-224" />
+<text text-anchor="middle" x="197" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Focuses on Strengths</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M282.5,-112C282.5,-112 111.5,-112 111.5,-112 105.5,-112 99.5,-106 99.5,-100 99.5,-100 99.5,-84 99.5,-84 99.5,-78 105.5,-72 111.5,-72 111.5,-72 282.5,-72 282.5,-72 288.5,-72 294.5,-78 294.5,-84 294.5,-84 294.5,-100 294.5,-100 294.5,-106 288.5,-112 282.5,-112" />
+<text text-anchor="middle" x="197" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Delegates Effectively</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M266,-40C266,-40 128,-40 128,-40 122,-40 116,-34 116,-28 116,-28 116,-12 116,-12 116,-6 122,0 128,0 128,0 266,0 266,0 272,0 278,-6 278,-12 278,-12 278,-28 278,-28 278,-34 272,-40 266,-40" />
+<text text-anchor="middle" x="197" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieves Results</text>
+</g>
+</g>
+</svg>

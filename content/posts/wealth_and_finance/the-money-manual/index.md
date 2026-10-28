@@ -10,13 +10,7 @@ author: "Tonya B. Rapley"
 
 "The Money Manual" by Tonya Rapley emphasizes the importance of understanding your current financial situation before embarking on any improvement strategy.  This involves honestly assessing your income, expenses, assets, and debts.  It's about creating a realistic picture, not sugarcoating the truth.  Accurate tracking is key, utilizing budgeting apps or spreadsheets to monitor inflows and outflows.
 
-```mermaid
-graph LR
-    A[Income] --> B(Budget);
-    C[Expenses] --> B;
-    B --> D{Savings/Investments};
-    B --> E[Debt Reduction];
-```
+![Understanding Your Financial Situation. Income; Budget; Expenses; Savings/Investments; Debt Reduction.](diagram-01.svg)
 
 Ignoring your current reality will only hinder progress.  The book encourages a detailed examination of spending habits, identifying areas where unnecessary expenses can be reduced.
 

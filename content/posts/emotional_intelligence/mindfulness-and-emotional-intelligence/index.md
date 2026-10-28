@@ -21,16 +21,7 @@ This non-judgmental observation is crucial.  Negative emotions often arise from 
 One of the core practices Kabat-Zinn advocates is the body scan meditation.  This involves systematically bringing attention to different parts of the body, noticing sensations without attempting to change them.  This practice anchors us in the present moment and enhances our bodily awareness, which is essential for emotional regulation.  Unpleasant emotions often manifest physically – tension in the shoulders, tightness in the chest, etc.  The body scan helps us identify these physical manifestations, which can then be addressed through mindful breathing and acceptance.
 
 
-```mermaid
-graph LR
-    A[Begin Body Scan] --> B(Attend to Breath);
-    B --> C{Notice Sensations};
-    C --> D[Observe without Judgment];
-    D --> E(Acknowledge Sensations);
-    E --> F[Return to Breath];
-    F --> G(Repeat for Whole Body);
-    G --> H[End Body Scan];
-```
+![Body Scan Meditation:  Accessing Bodily Awareness. Begin Body Scan; Attend to Breath; Notice Sensations; Observe without Judgment; Acknowledge Sensations; Return to Breath; Repeat for Whole Body; End Body Scan.](diagram-01.svg)
 
 
 ## Mindful Breathing: The Anchor in the Storm

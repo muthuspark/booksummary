@@ -14,16 +14,7 @@ The core of "The Bogleheads' Guide to Investing" rests on the philosophy of John
 
 Asset allocation—the distribution of your investments across different asset classes (stocks, bonds, real estate, etc.)—is the most important decision you'll make. The book stresses the importance of diversification to mitigate risk. A well-diversified portfolio balances the potential for higher returns with the need to protect against losses. The specific allocation depends heavily on factors like your age, risk tolerance, and time horizon.
 
-```mermaid
-graph LR
-    A[Stocks] --> B(Growth);
-    A --> C(Higher Risk);
-    D[Bonds] --> E(Income);
-    D --> F(Lower Risk);
-    G[Real Estate] --> H(Tangible Asset);
-    G --> I(Potential Appreciation);
-    B -- Diversification --> E;
-```
+![Asset Allocation: The Cornerstone of a Successful Strategy. Stocks; Growth; Higher Risk; Bonds; Income; Lower Risk; Real Estate; Tangible Asset; Potential Appreciation.](diagram-01.svg)
 
 The book guides readers through determining their appropriate asset allocation using various methods, including questionnaires and considering their personal circumstances.  It emphasizes that a globally diversified portfolio can often provide better risk-adjusted returns than a solely domestically focused one.
 
@@ -59,17 +50,7 @@ Retirement planning is a central theme, guiding readers through the process of d
 
 The book emphasizes the importance of periodically rebalancing your portfolio to maintain your desired asset allocation.  Over time, certain asset classes may outperform others, causing your portfolio to drift from its target allocation.  Rebalancing involves selling some of the assets that have outperformed and buying more of the underperforming assets, bringing your portfolio back to its target allocation. This helps manage risk and take advantage of market fluctuations.
 
-```mermaid
-graph LR
-    A[Target Allocation];
-    B[Market Fluctuation];
-    C[Portfolio Drift];
-    D[Rebalancing];
-    A --> B;
-    B --> C;
-    C --> D;
-    D --> A;
-```
+![Rebalancing Your Portfolio: Maintaining Your Asset Allocation. Target Allocation; Market Fluctuation; Portfolio Drift; Rebalancing.](diagram-02.svg)
 
 #  Specific Actions and Steps for Readers
 

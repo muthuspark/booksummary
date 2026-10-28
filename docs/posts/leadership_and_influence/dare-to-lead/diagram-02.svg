@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="548pt" height="168pt" viewBox="0.00 0.00 547.50 168.00" role="img" aria-labelledby="title description">
+<title id="title">2.  Living into Our Values:</title><desc id="description">Clarity of Values leads to Living into Our Values. Courageous Decision-Making leads to Living into Our Values. Accountability leads to Living into Our Values.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 529.5,-150 529.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124.07,-81.84C151.04,-70.11 185.63,-55.07 213.68,-42.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.84,-45.04 220.29,-40.01 212.89,-40.55 214.84,-45.04" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M264,-71.67C264,-63.77 264,-55.28 264,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.45,-47.12 264,-40.12 261.55,-47.12 266.45,-47.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M397.84,-81.84C372.16,-70.16 339.24,-55.2 312.48,-43.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="313.2,-40.67 305.81,-40.01 311.17,-45.13 313.2,-40.67" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-122C148,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 148,-82 148,-82 154,-82 160,-88 160,-94 160,-94 160,-110 160,-110 160,-116 154,-122 148,-122" />
+<text text-anchor="middle" x="80" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarity of Values</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356,-40C356,-40 172,-40 172,-40 166,-40 160,-34 160,-28 160,-28 160,-12 160,-12 160,-6 166,0 172,0 172,0 356,0 356,0 362,0 368,-6 368,-12 368,-12 368,-28 368,-28 368,-34 362,-40 356,-40" />
+<text text-anchor="middle" x="264" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Living into Our Values</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M334,-132C334,-132 194,-132 194,-132 188,-132 182,-126 182,-120 182,-120 182,-84 182,-84 182,-78 188,-72 194,-72 194,-72 334,-72 334,-72 340,-72 346,-78 346,-84 346,-84 346,-120 346,-120 346,-126 340,-132 334,-132" />
+<text text-anchor="middle" x="264" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Courageous</text>
+<text text-anchor="middle" x="264" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision-Making</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M499.5,-122C499.5,-122 380.5,-122 380.5,-122 374.5,-122 368.5,-116 368.5,-110 368.5,-110 368.5,-94 368.5,-94 368.5,-88 374.5,-82 380.5,-82 380.5,-82 499.5,-82 499.5,-82 505.5,-82 511.5,-88 511.5,-94 511.5,-94 511.5,-110 511.5,-110 511.5,-116 505.5,-122 499.5,-122" />
+<text text-anchor="middle" x="440" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accountability</text>
+</g>
+</g>
+</svg>

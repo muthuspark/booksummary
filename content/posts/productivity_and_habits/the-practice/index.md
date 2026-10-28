@@ -16,12 +16,7 @@ Seth Godin's "The Practice" isn't about achieving quick wins or following a rigi
 The core message revolves around the power of consistent action. Godin argues that "practice" is not about perfection or even immediate success; it's about the act of *doing* itself. This daily commitment, even in small increments, is the engine that drives growth and creates a ripple effect of positive change in various areas of life. Skipping a day might seem insignificant, but the cumulative effect of inconsistent effort can hinder progress significantly.
 
 
-```mermaid
-graph LR
-    A[Consistent Effort] --> B(Growth);
-    A --> C(Positive Change);
-    A --> D(Momentum);
-```
+![The Importance of Showing Up. Consistent Effort; Growth; Positive Change; Momentum.](diagram-01.svg)
 
 ## Defining Your Practice
 
@@ -53,13 +48,7 @@ Once you've established your practice, regular self-reflection and feedback are 
 Connecting with others who share similar passions and goals can provide support and encouragement. This could be through online communities, workshops, or simply by sharing your journey with friends and family.  The support of a community can help you stay motivated and accountable, especially during challenging times.
 
 
-```mermaid
-graph LR
-    A[Individual Practice] --> B(Feedback);
-    B --> C[Refinement];
-    C --> D[Community Support];
-    D --> A;
-```
+![Connecting with Your Community. Individual Practice; Feedback; Refinement; Community Support.](diagram-02.svg)
 
 
 ## The Importance of Shiping

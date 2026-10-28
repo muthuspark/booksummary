@@ -34,20 +34,7 @@ Buffett searches for companies with sustainable competitive advantages, creating
 * **Network effects:** The value of the product or service increases as more people use it.
 * **Government regulations:**  Regulations can create barriers to entry for new competitors.
 
-```mermaid
-graph LR
-    A[Company] --> B(Strong Brand);
-    A --> C(Cost Advantage);
-    A --> D(Switching Costs);
-    A --> E(Network Effects);
-    A --> F(Regulations);
-    B --> G(Premium Prices);
-    C --> G;
-    D --> G;
-    E --> G;
-    F --> G;
-    G[Sustainable Competitive Advantage]
-```
+![Identifying Companies with Sustainable Competitive Advantages (Moats). Company; Strong Brand; Cost Advantage; Switching Costs; Network Effects; Regulations; Sustainable Competitive Advantage.](diagram-01.svg)
 
 ##  Understanding Management and Corporate Governance
 

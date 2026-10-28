@@ -32,17 +32,7 @@ The book provides a range of practical strategies for developing empathy:
 * **Self-Compassion:** Treating ourselves with kindness and understanding, recognizing that we all make mistakes and experience difficult emotions.
 
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Active Listening);
-    A --> C(Perspective-Taking);
-    A --> D(Emotional Regulation);
-    B --> E[Empathy];
-    C --> E;
-    D --> E;
-    E --> F[Stronger Relationships];
-    E --> G[Personal Growth];
-```
+![Cultivating Empathy: Strategies and Techniques. Self-Awareness; Active Listening; Perspective-Taking; Emotional Regulation; Empathy; Stronger Relationships; Personal Growth.](diagram-01.svg)
 
 
 # Applying Empathy in Different Contexts

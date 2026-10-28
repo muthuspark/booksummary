@@ -14,13 +14,7 @@ Gretchen Reynolds' "The First 20 Minutes" champions the incredible efficacy of s
 
 Reynolds delves into the scientific research supporting the benefits of high-intensity interval training (HIIT). She explains how short bursts of intense activity followed by brief recovery periods trigger significant physiological adaptations. This includes improvements in cardiovascular health, muscle strength and endurance, and metabolic function.  The book highlights studies demonstrating that HIIT is as effective, and sometimes even more effective, than longer, moderate-intensity workouts in achieving these goals.
 
-```mermaid
-graph LR
-    A["High-Intensity Interval Training (HIIT)"] --> B(Improved Cardiovascular Health);
-    A --> C(Increased Muscle Strength & Endurance);
-    A --> D(Enhanced Metabolic Function);
-    A --> E(Improved Insulin Sensitivity);
-```
+![The Science Behind Short Bursts. High-Intensity Interval Training (HIIT); Improved Cardiovascular Health; Increased Muscle Strength & Endurance; Enhanced Metabolic Function; Improved Insulin Sensitivity.](diagram-01.svg)
 
 
 ##  Finding Your "20 Minutes"
@@ -31,15 +25,7 @@ The book stresses personalization.  "The First 20 Minutes" doesn't prescribe a s
 
 Reynolds offers various examples of 20-minute HIIT workouts, catering to different fitness levels.  These often involve alternating between high-intensity periods (e.g., sprinting) and lower-intensity recovery periods (e.g., walking).  The book provides clear instructions on how to structure these workouts, emphasizing proper form and listening to one's body.
 
-```mermaid
-graph TB
-    A["Warm-up (5 min)"] --> B("High-Intensity <br> Interval 1 (30 sec)");
-    B --> C("Low-Intensity <br> Recovery (60 sec)");
-    C --> D("High-Intensity <br> Interval 2 (30 sec)");
-    D --> E("Low-Intensity <br> Recovery (60 sec)");
-    E --> F[Repeat <br> 6-8 times];
-    F --> G("Cool-down <br> (5 min)");
-```
+![HIIT Workout Examples. Warm-up (5 min); High-Intensity   Interval 1 (30 sec; Low-Intensity   Recovery (60 sec; High-Intensity   Interval 2 (30 sec; Low-Intensity   Recovery (60 sec; Repeat   6-8 times; Cool-down   (5 min.](diagram-02.svg)
 
 ##  Beyond the Physical: Mental Benefits
 

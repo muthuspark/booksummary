@@ -17,17 +17,7 @@ Anderson's core message revolves around differentiating between "good" and "bad"
 Conversely, "good" debt is used to acquire assets that appreciate in value over time and generate income or increase earning potential.  Examples include mortgages for appreciating homes, student loans for higher education leading to increased earning capacity, or business loans for profitable ventures.
 
 
-```mermaid
-graph LR
-    A[Debt] --> B(Good Debt);
-    A --> C(Bad Debt);
-    B --> D{Mortgages};
-    B --> E{Student Loans};
-    B --> F{Business Loans};
-    C --> G{Credit Card Debt};
-    C --> H{Payday Loans};
-    C --> I{"Auto Loans (High Interest)"};
-```
+![Good Debt vs. Bad Debt: A Distinction. Debt; Good Debt; Bad Debt; Mortgages; Student Loans; Business Loans; Credit Card Debt; Payday Loans; Auto Loans (High Interest).](diagram-01.svg)
 
 
 ## Strategic Use of Debt for Asset Acquisition
@@ -60,15 +50,7 @@ Beyond identifying good debt, the book emphasizes the importance of effective de
 * **Negotiating Lower Interest Rates:** Anderson encourages readers to negotiate with lenders to secure lower interest rates, especially for existing debts. This can reduce the overall cost of borrowing.
 
 
-```mermaid
-graph LR
-    A[Effective Debt Management] --> B(Budgeting);
-    A --> C(Debt Repayment Strategy);
-    A --> D(Credit Score Management);
-    A --> E(Interest Rate Negotiation);
-    C --> F{Debt Snowball};
-    C --> G{Debt Avalanche};
-```
+![Effective Debt Management Strategies. Effective Debt Management; Budgeting; Debt Repayment Strategy; Credit Score Management; Interest Rate Negotiation; Debt Snowball; Debt Avalanche.](diagram-02.svg)
 
 ##  Understanding Your Risk Tolerance
 

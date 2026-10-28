@@ -36,15 +36,7 @@ The book introduces a three-part approach for tackling procrastination:
 3. **Positive Self-Talk:** Using supportive language to motivate and encourage yourself.
 
 
-```mermaid
-graph LR
-A[Overwhelming Task] --> B(Break down into mini-tasks);
-B --> C{15-Minute Work Session};
-C --> D[Review Progress];
-D --> E{Continue or Pause};
-E --> F[Positive Self-Talk];
-F --> G[Completion/Next Mini-Task];
-```
+![The Three-Part Approach to Task Completion:  A Structured Framework. Overwhelming Task; Break down into mini-tasks; 15-Minute Work Session; Review Progress; Continue or Pause; Positive Self-Talk; Completion/Next Mini-Task.](diagram-01.svg)
 
 
 ##  Perfectionism:  The Enemy of Progress

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="742pt" height="404pt" viewBox="0.00 0.00 742.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Deep Practice: The Engine of Skill Development</title><desc id="description">Skill Acquisition leads to Deep Practice. Deep Practice leads to Focused Effort. Deep Practice leads to Immediate Feedback. Focused Effort leads to Myelin Production. Immediate Feedback leads to Myelin Production. Myelin Production leads to Skill Improvement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 724,-386 724,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M328,-327.87C328,-320.31 328,-311.49 328,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330.45,-303.1 328,-296.1 325.55,-303.1 330.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M289.4,-255.91C264.37,-243.54 231.32,-227.19 203.26,-213.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.35,-211.12 196.98,-210.21 202.17,-215.51 204.35,-211.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M366.6,-255.91C390.07,-244.31 420.6,-229.21 447.46,-215.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="448.65,-218.07 453.84,-212.77 446.48,-213.68 448.65,-218.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.18,-157.69C224.13,-144.37 256.87,-128.17 282.86,-115.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="284.13,-117.43 289.32,-112.13 281.96,-113.04 284.13,-117.43" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M453.91,-155.26C427.93,-142.41 397.47,-127.35 373.02,-115.26" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="373.97,-113 366.61,-112.09 371.8,-117.39 373.97,-113" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M328,-71.87C328,-64.31 328,-55.49 328,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330.45,-47.1 328,-40.1 325.55,-47.1 330.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M395,-368C395,-368 261,-368 261,-368 255,-368 249,-362 249,-356 249,-356 249,-340 249,-340 249,-334 255,-328 261,-328 261,-328 395,-328 395,-328 401,-328 407,-334 407,-340 407,-340 407,-356 407,-356 407,-362 401,-368 395,-368" />
+<text text-anchor="middle" x="328" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill Acquisition</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M386,-296C386,-296 270,-296 270,-296 264,-296 258,-290 258,-284 258,-284 258,-268 258,-268 258,-262 264,-256 270,-256 270,-256 386,-256 386,-256 392,-256 398,-262 398,-268 398,-268 398,-284 398,-284 398,-290 392,-296 386,-296" />
+<text text-anchor="middle" x="328" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deep Practice</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="146,-224 0,-184 146,-144 292,-184 146,-224" />
+<text text-anchor="middle" x="146" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Focused Effort</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="510,-224 314,-184 510,-144 706,-184 510,-224" />
+<text text-anchor="middle" x="510" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Immediate Feedback</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M405,-112C405,-112 251,-112 251,-112 245,-112 239,-106 239,-100 239,-100 239,-84 239,-84 239,-78 245,-72 251,-72 251,-72 405,-72 405,-72 411,-72 417,-78 417,-84 417,-84 417,-100 417,-100 417,-106 411,-112 405,-112" />
+<text text-anchor="middle" x="328" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Myelin Production</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M405,-40C405,-40 251,-40 251,-40 245,-40 239,-34 239,-28 239,-28 239,-12 239,-12 239,-6 245,0 251,0 251,0 405,0 405,0 411,0 417,-6 417,-12 417,-12 417,-28 417,-28 417,-34 411,-40 405,-40" />
+<text text-anchor="middle" x="328" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill Improvement</text>
+</g>
+</g>
+</svg>

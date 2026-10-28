@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223pt" height="312pt" viewBox="0.00 0.00 223.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">The Nature of Reality: Emptiness (Sunyata)</title><desc id="description">Phenomena leads to Interdependent. Interdependent leads to Empty of Inherent Existence (Sunyata). Empty of Inherent Existence (Sunyata) leads to No Separate Self.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 205,-294 205,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-235.87C93.5,-228.31 93.5,-219.49 93.5,-211.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-211.1 93.5,-204.1 91.05,-211.1 95.95,-211.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-163.63C93.5,-156.34 93.5,-147.78 93.5,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-139.19 93.5,-132.19 91.05,-139.19 95.95,-139.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-71.67C93.5,-63.77 93.5,-55.28 93.5,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-47.12 93.5,-40.12 91.05,-47.12 95.95,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143.5,-276C143.5,-276 43.5,-276 43.5,-276 37.5,-276 31.5,-270 31.5,-264 31.5,-264 31.5,-248 31.5,-248 31.5,-242 37.5,-236 43.5,-236 43.5,-236 143.5,-236 143.5,-236 149.5,-236 155.5,-242 155.5,-248 155.5,-248 155.5,-264 155.5,-264 155.5,-270 149.5,-276 143.5,-276" />
+<text text-anchor="middle" x="93.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Phenomena</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158.5,-204C158.5,-204 28.5,-204 28.5,-204 22.5,-204 16.5,-198 16.5,-192 16.5,-192 16.5,-176 16.5,-176 16.5,-170 22.5,-164 28.5,-164 28.5,-164 158.5,-164 158.5,-164 164.5,-164 170.5,-170 170.5,-176 170.5,-176 170.5,-192 170.5,-192 170.5,-198 164.5,-204 158.5,-204" />
+<text text-anchor="middle" x="93.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interdependent</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-132C175,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 175,-72 175,-72 181,-72 187,-78 187,-84 187,-84 187,-120 187,-120 187,-126 181,-132 175,-132" />
+<text text-anchor="middle" x="93.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empty of Inherent</text>
+<text text-anchor="middle" x="93.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Existence (Sunyata)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M162,-40C162,-40 25,-40 25,-40 19,-40 13,-34 13,-28 13,-28 13,-12 13,-12 13,-6 19,0 25,0 25,0 162,0 162,0 168,0 174,-6 174,-12 174,-12 174,-28 174,-28 174,-34 168,-40 162,-40" />
+<text text-anchor="middle" x="93.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">No Separate Self</text>
+</g>
+</g>
+</svg>

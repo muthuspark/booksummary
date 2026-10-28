@@ -95,22 +95,7 @@ Forgiveness is presented as a component of a healthy marriage. Holding onto rese
 The following diagram summarizes the interconnectedness of key elements in Markman's approach:
 
 
-```mermaid
-graph LR
-    A[Constructive Communication] --> B(Active Listening);
-    A --> C(Empathy);
-    A --> D("I" Statements);
-    B --> E[Conflict Resolution];
-    C --> E;
-    D --> E;
-    E --> F[Shared Values & Goals];
-    E --> G[Understanding Needs];
-    F --> H[Stronger Marriage];
-    G --> H;
-    H --> I[Intimacy & Affection];
-    I --> H;
-    E --> J["Seeking Professional Help (if needed)"];
-```
+![Visualizing Key Concepts. Constructive Communication; Active Listening; Empathy; "I" Statements; Conflict Resolution; Shared Values & Goals; Understanding Needs; Stronger Marriage; Intimacy & Affection; Seeking Professional Help (if needed).](diagram-01.svg)
 
 
 "Fighting for Your Marriage" offers a detailed and practical guide to improving marital relationships.  It emphasizes the importance of understanding conflict dynamics, developing healthy communication skills, and nurturing intimacy and affection.  While it acknowledges the challenges in marriage, it provides a roadmap for building a strong and fulfilling partnership, reminding couples that a successful marriage requires ongoing effort, commitment, and a willingness to learn and grow together.  The book's actionable advice, combined with its focus on empathy and understanding, empowers couples to take control of their relationship's trajectory and build a more resilient and loving future.

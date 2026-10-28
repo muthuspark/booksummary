@@ -21,16 +21,7 @@ The central thesis revolves around the idea that we are co-creators of our reali
 A significant portion of the book is dedicated to identifying and releasing limiting beliefs. These are often subconscious, ingrained patterns of thinking that hinder our ability to manifest our intentions.  Dyer suggests that these beliefs stem from fears, insecurities, and past negative experiences.  He provides practical techniques to identify and challenge these beliefs, encouraging readers to replace them with empowering, positive affirmations.
 
 
-```mermaid
-graph LR
-    A[Limiting Beliefs] --> B(Fear);
-    A --> C(Insecurity);
-    A --> D(Past Negative Experiences);
-    B --> E{Negative Outcomes};
-    C --> E;
-    D --> E;
-    E --> F[Unfulfilled Intentions];
-```
+![Letting Go of Limiting Beliefs:  Obstacles to Intention. Limiting Beliefs; Fear; Insecurity; Past Negative Experiences; Negative Outcomes; Unfulfilled Intentions.](diagram-01.svg)
 
 # The Process of Intention:  Steps to Manifestation
 
@@ -52,15 +43,7 @@ The book acknowledges that fear and doubt are inevitable parts of the process.  
 Dyer emphasizes the importance of connecting with a higher power, whatever that may mean to the individual. This connection provides a sense of support, guidance, and trust in the universe's ability to orchestrate events to align with one's intentions.  Surrendering to this higher power involves releasing control and trusting the process, even when the path is unclear.  This requires faith and belief in a plan greater than oneself.
 
 
-```mermaid
-graph LR
-    A[Intention] --> B(Belief);
-    B --> C(Action);
-    C --> D(Gratitude);
-    D --> E(Spiritual Connection);
-    E --> F(Surrender);
-    F --> G[Manifestation];
-```
+![Spiritual Connection and Surrender:  Trusting the Universe. Intention; Belief; Action; Gratitude; Spiritual Connection; Surrender; Manifestation.](diagram-02.svg)
 
 
 #  Actionable Steps:  Applying the Principles

@@ -14,15 +14,7 @@ Alan Watts' "The Book on the Taboo Against Knowing Who You Are" is not a self-he
 
 Watts emphasizes the interconnectedness of all things. We are not separate entities existing in isolation but rather essential parts of a larger, dynamic whole. This interconnectedness is often described as non-duality – the absence of a fundamental separation between subject and object, self and other, mind and body. Understanding this principle is key to breaking free from the limitations of the ego-centric worldview.
 
-```mermaid
-graph LR
-    A[Universe] --> B(You);
-    B --> C(Everything Else);
-    A --> C;
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-    style C fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Nature of Reality: Interconnectedness and Non-duality. Universe; You; Everything Else.](diagram-01.svg)
 
 The diagram shows the interconnectedness; you are not separate from the universe or anything else within it.
 
@@ -67,17 +59,7 @@ Though not explicitly laid out, Watts' ideas offer practical advice for daily li
 * **Connecting with nature:** Spend time in nature to reconnect with the larger whole and feel a sense of belonging beyond the confines of the ego.
 
 
-```mermaid
-graph LR
-  A[Awareness] --> B(Acceptance);
-  B --> C(Letting Go);
-  C --> D{Present Moment};
-  D --> E[Authenticity];
-  E --> F(Fulfillment);
-  style D fill:#ccf,stroke:#333,stroke-width:2px
-  style F fill:#f9f,stroke:#333,stroke-width:2px
-
-```
+![Practical Application:  Living in the Now. Awareness; Acceptance; Letting Go; Present Moment; Authenticity; Fulfillment.](diagram-02.svg)
 
 This diagram illustrates the progression of concepts and their culmination in a fulfilling life.
 

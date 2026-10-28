@@ -70,24 +70,11 @@ Gundry offers practical advice and actionable steps readers can take immediately
 
 **Plant Agressors Impact:**
 
-```mermaid
-graph LR
-A["Plant Agressors (Lectins, Saponins, Phytates)"] --> B(Inflammation);
-B --> C(Chronic Diseases);
-C --> D(Accelerated Aging);
-```
+![Visualizing Key Concepts. Plant Agressors (Lectins, Saponins, Phytates); Inflammation; Chronic Diseases; Accelerated Aging.](diagram-01.svg)
 
 **The Longevity Diet Pillars:**
 
-```mermaid
-graph LR
-A[Healthy Fats] --> B(Cellular Function);
-B --> C(Reduced Inflammation);
-C --> D(Longevity);
-E[Low-Lectin Vegetables] --> C;
-F[Gut Health] --> C;
-G[Stress Management] --> C;
-```
+![Visualizing Key Concepts. Healthy Fats; Cellular Function; Reduced Inflammation; Longevity; Low-Lectin Vegetables; Gut Health; Stress Management.](diagram-02.svg)
 
 
 ##  Criticisms and Considerations

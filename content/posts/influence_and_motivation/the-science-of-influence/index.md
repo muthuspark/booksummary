@@ -27,13 +27,7 @@ This principle can be applied in various contexts:  offering helpful advice, pro
 
 Building strong rapport is critical to effective influence.  This involves creating a connection with the other person based on shared values, interests, or experiences.  Hogan provides techniques for quickly establishing rapport, including mirroring and matching body language (subtly, and ethically), actively listening, and finding common ground.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Rapport Building);
-    C[Emotional Intelligence] --> B;
-    B --> D{Influence};
-    D --> E[Positive Outcomes];
-```
+![The Importance of Rapport Building. Self-Awareness; Rapport Building; Emotional Intelligence; Influence; Positive Outcomes.](diagram-01.svg)
 
 ###  Framing and Anchoring: Shaping Perceptions
 

@@ -15,14 +15,7 @@ Joseph LeDoux's "The Emotional Brain" is not a self-help book offering quick fix
 
 LeDoux's research focuses heavily on the amygdala, a small almond-shaped structure deep within the brain. He reveals that the amygdala plays a role in processing emotional information, particularly fear. The amygdala's pathway for processing fear is faster than the pathway leading to conscious awareness. This means we can experience a fear response *before* we consciously understand the situation.
 
-```mermaid
-graph LR
-    A["Sensory Input <br>(e.g., sight, sound)"] --> B(Thalamus);
-    B --> C{Amygdala};
-    C --> D["Fear Response (physiological & behavioral)"];
-    B --> E["Cortex (conscious processing)"];
-    E --> C;
-```
+![The Amygdala's Role in Fear and Emotional Responses. Sensory Input  (e.g., sight, sound); Thalamus; Amygdala; Fear Response (physiological & behavioral); Cortex (conscious processing).](diagram-01.svg)
 
 This diagram shows the "low road" (A -> B -> C -> D) and "high road" (A -> B -> E -> C -> D) pathways of fear processing. The low road is fast but less detailed; the high road is slower but allows for more interpretation. Understanding this dual pathway is key. Our initial, often unconscious, fear response is shaped by the amygdala's quick processing.
 
@@ -41,13 +34,7 @@ LeDoux's work doesn't directly prescribe CBT, but it provides a strong neuroscie
 Mindfulness practices, focusing on present moment awareness, indirectly support emotional regulation by engaging the prefrontal cortex (PFC). The PFC plays a role in executive functions, including attention and emotional control. By strengthening PFC function through mindfulness, we can improve our ability to regulate amygdala activity and dampen excessive fear responses. Mindfulness helps shift attention away from the amygdala's rapid, often irrational, responses.
 
 
-```mermaid
-graph LR
-    A[Stimulus] --> B(Amygdala);
-    B --> C[Fear Response];
-    D["Prefrontal Cortex (PFC) - Mindfulness"] --> B;
-    D -.-> C;
-```
+![Mindfulness and Emotional Regulation. Stimulus; Amygdala; Fear Response; Prefrontal Cortex (PFC) - Mindfulness.](diagram-02.svg)
 
 This diagram shows how mindfulness (D) can moderate the amygdala's (B) influence on fear responses (C).
 

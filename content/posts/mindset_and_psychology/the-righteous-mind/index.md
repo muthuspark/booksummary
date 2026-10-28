@@ -48,16 +48,7 @@ To improve communication and navigate moral disagreements, Haidt suggests many s
 * **Frame arguments strategically:** Tailor your arguments to the other person's moral foundations.
 * **Acknowledge limitations:** Your own moral judgments are fallible and influenced by biases.
 
-```mermaid
-graph LR
-A[Empathetic Listening] --> B(Finding Common Ground);
-B --> C{Strategic Framing};
-C --> D[Effective Communication];
-A --> E(Using Narratives);
-E --> D;
-C --> F(Acknowledging Limitations);
-F --> D;
-```
+![Strategies for Improved Communication. Empathetic Listening; Finding Common Ground; Strategic Framing; Effective Communication; Using Narratives; Acknowledging Limitations.](diagram-01.svg)
 
 #  The Importance of Community and Belonging
 

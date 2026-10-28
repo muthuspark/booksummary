@@ -55,17 +55,7 @@ The book highlights the importance of continuous learning and growth as essentia
 The core principles of "The Heart of Business" can be visualized in this simplified model:
 
 
-```mermaid
-graph LR
-    A[Purpose] --> B(Authentic Leadership);
-    A --> C(Human Connection);
-    B --> D{Trust};
-    C --> D;
-    D --> E[Continuous Growth];
-    E --> F(Personal Fulfillment);
-    F --> G(Organizational Success);
-
-```
+![The Heart of Business Model. Purpose; Authentic Leadership; Human Connection; Trust; Continuous Growth; Personal Fulfillment; Organizational Success.](diagram-01.svg)
 
 "The Heart of Business" offers a powerful framework for both professional and personal success. By focusing on purpose, authenticity, human connection, and continuous growth, individuals can build fulfilling lives and create thriving organizations. The book's emphasis on the human element transcends business strategies, providing a roadmap for navigating life's complexities and achieving lasting fulfillment.
 

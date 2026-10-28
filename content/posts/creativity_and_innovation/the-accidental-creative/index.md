@@ -23,14 +23,7 @@ Contrary to popular belief, Henry argues that structure and routine are essentia
 
 Effective time management is crucial. Henry encourages readers to identify their peak performance times and to schedule their most demanding creative tasks accordingly. He suggests techniques like time blocking and the Pomodoro Technique to maximize focus and productivity.  He also highlights the importance of recognizing and managing energy levels throughout the day, understanding that creativity is not solely a function of time but also of energy and mental clarity.
 
-```mermaid
-graph LR
-A[Identify Peak Performance Times] --> B(Schedule Demanding Tasks);
-C[Time Blocking] --> B;
-D[Pomodoro Technique] --> B;
-E[Manage Energy Levels] --> B;
-B --> F{Increased Productivity & Creativity};
-```
+![Managing Time and Energy Effectively. Identify Peak Performance Times; Schedule Demanding Tasks; Time Blocking; Pomodoro Technique; Manage Energy Levels; Increased Productivity & Creativity.](diagram-01.svg)
 
 #  The Power of Focused Attention
 

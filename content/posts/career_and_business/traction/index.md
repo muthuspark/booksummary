@@ -15,11 +15,7 @@ author: "Gabriel Weinberg and Justin Mares"
 
 The book introduces the "bullseye framework," a concept for identifying your ideal customer. This isn't about casting a wide net; it's about precise targeting. The framework encourages you to start broad and gradually refine your focus, identifying the most receptive audience segments.
 
-```mermaid
-graph LR
-    A[Broad Market] --> B(Target Audience);
-    B --> C{Ideal Customer Profile};
-```
+![The Bullseye Framework: Finding Your Target Audience. Broad Market; Target Audience; Ideal Customer Profile.](diagram-01.svg)
 
 This iterative process involves analyzing data to understand what demographics, psychographics, and behaviors correlate with success. The more precisely you define your target, the more effective your marketing efforts become.  It avoids wasted effort by focusing resources on those most likely to convert.
 
@@ -28,22 +24,7 @@ This iterative process involves analyzing data to understand what demographics, 
 
 The core of "Traction" lies in its exploration of various marketing channels. The authors don't advocate for one "best" channel; instead, they use a systematic approach of testing different channels concurrently. This approach, however, requires prioritization and a clearly defined set of metrics for evaluating success.
 
-```mermaid
-graph LR
-    A[Marketing Channels] --> B(SEO);
-    A --> C(Content Marketing);
-    A --> D(Social Media Marketing);
-    A --> E(Paid Advertising);
-    A --> F(Email Marketing);
-    A --> G(Affiliate Marketing);
-    B -- Measurement --> H[Results];
-    C -- Measurement --> H;
-    D -- Measurement --> H;
-    E -- Measurement --> H;
-    F -- Measurement --> H;
-    G -- Measurement --> H;
-
-```
+![The Engine of Growth: The Importance of Marketing Channels. Marketing Channels; SEO; Content Marketing; Social Media Marketing; Paid Advertising; Email Marketing; Affiliate Marketing; Results.](diagram-02.svg)
 
 Each channel requires a unique strategy and set of metrics.  For instance, SEO focuses on organic reach through search engine optimization, while paid advertising demands budget allocation and ad copy testing.  Regular analysis of the results is vital for optimizing each channel and determining which ones generate the highest return on investment (ROI).
 
@@ -52,14 +33,7 @@ Each channel requires a unique strategy and set of metrics.  For instance, SEO f
 
 The authors stress the iterative nature of growth. It's not a linear progression but a continuous cycle of testing, analyzing, and refining. This means embracing failure as a learning opportunity, rather than seeing it as a setback. The key is to develop a system for tracking results and using that data to inform future decisions.
 
-```mermaid
-graph LR
-    A[Idea] --> B(Test);
-    B --> C{Analyze Results};
-    C -- Positive Results --> D(Scale);
-    C -- Negative Results --> E(Refine & Iterate);
-    E --> B;
-```
+![The Power of Iteration: Testing and Refining Your Approach. Idea; Test; Analyze Results; Scale; Refine & Iterate.](diagram-03.svg)
 
 This iterative approach encourages experimentation with different strategies within each marketing channel. It is a continuous feedback loop.
 

@@ -15,11 +15,7 @@ Adam Grant's "Originals" challenges the conventional wisdom surrounding original
 
 Originals have two key traits: **proposing** and **pursuing**.  Proposing involves generating new ideas, formulating creative solutions, and envisioning different possibilities. Pursuing, on the other hand, is about the perseverance and determination required to bring those ideas to fruition.  The book highlights that both aspects are critical for success, and neglecting either can lead to unfulfilled potential. A brilliant idea with no action plan is as useless as a determined effort without a worthwhile goal.
 
-```mermaid
-graph LR
-    A[Proposing] --> B(Originality);
-    C[Pursuing] --> B;
-```
+![The Two Sides of Originality: Proposing and Pursuing. Proposing; Originality; Pursuing.](diagram-01.svg)
 
 
 # The Power of Proposing: Cultivating Creative Thinking
@@ -43,11 +39,7 @@ Grant emphasizes the significance of timing in presenting original ideas. He int
 
 The environment plays a role in fostering originality. Grant stresses the importance of finding a culture that encourages innovation and risk-taking. This involves identifying organizations and teams that value various opinions and are willing to tolerate failure as a part of the learning process. He discusses the detrimental effects of "groupthink" and offers strategies for creating environments that encourage dissent and creative conflict.
 
-```mermaid
-graph LR
-    A[Supportive Environment] --> B(Increased Originality);
-    C[Suppressive Environment] --> D(Decreased Originality);
-```
+![Finding the Right Environment: The Power of Context. Supportive Environment; Increased Originality; Suppressive Environment; Decreased Originality.](diagram-02.svg)
 
 #  The Power of Passion: Connecting to Intrinsic Motivation
 

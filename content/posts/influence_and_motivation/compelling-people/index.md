@@ -21,12 +21,7 @@ Presence, the first element, involves commanding attention and establishing cred
 
 * **Vocal Delivery:**  A clear, strong voice projects confidence. Varying tone and pace keeps the audience engaged and prevents monotony.  Pauses, used strategically, add emphasis and allow the audience to process information.
 
-```mermaid
-graph LR
-A[Posture & Movement] --> B(Presence);
-C[Eye Contact] --> B;
-D[Vocal Delivery] --> B;
-```
+![Presence: Commanding Attention. Posture & Movement; Presence; Eye Contact; Vocal Delivery.](diagram-01.svg)
 
 # Power:  Conveying Authority and Influence
 
@@ -38,12 +33,7 @@ Power is not about dominating others but about conveying authority and influence
 
 * **Emotional Intelligence:** Understanding and responding appropriately to the audience's emotions is paramount. This involves empathy, active listening, and adapting the message to their specific emotional state.
 
-```mermaid
-graph LR
-A[Clarity & Conciseness] --> B(Power);
-C[Structure & Framing] --> B;
-D[Emotional Intelligence] --> B;
-```
+![Power:  Conveying Authority and Influence. Clarity & Conciseness; Power; Structure & Framing; Emotional Intelligence.](diagram-02.svg)
 
 
 # Passion:  Connecting on an Emotional Level
@@ -56,12 +46,7 @@ Passion is the emotional fuel that drives compelling communication. It's about g
 
 * **Enthusiasm and Energy:**  Passion is infectious.  Enthusiasm, expressed through vocal delivery and body language, energizes the audience and makes the message more compelling.
 
-```mermaid
-graph LR
-A[Authenticity] --> B(Passion);
-C[Storytelling] --> B;
-D[Enthusiasm & Energy] --> B;
-```
+![Passion:  Connecting on an Emotional Level. Authenticity; Passion; Storytelling; Enthusiasm & Energy.](diagram-03.svg)
 
 
 # Integrating the Three Elements:  Creating a Compelling Presence

@@ -16,11 +16,7 @@ The base of the Sound Relationship House is *friendship*. A strong friendship, w
 
 Without this foundational friendship, the remaining levels become more challenging to establish and maintain.
 
-```mermaid
-graph LR
-    A[Friendship] --> B(Shared Meaning);
-    B --> C(Commitment);
-```
+![Building a Solid Foundation: Friendship and Shared Meaning. Friendship; Shared Meaning; Commitment.](diagram-01.svg)
 
 ##  Shared Meaning:  Creating a Shared Life Narrative
 
@@ -34,11 +30,7 @@ Above friendship sits *shared meaning*.  This involves creating a shared history
 
 Next comes *positive perspectives*. This is about fostering a climate of appreciation and affection. It involves noticing and appreciating each other's positive qualities, expressing gratitude, and actively working to achieve a positive sentiment override. This means that even during conflict, the overall tone of the relationship remains positive due to the accumulated positive interactions.
 
-```mermaid
-graph LR
-    C[Commitment] --> D(Positive Perspectives);
-    D --> E(Manage Conflict);
-```
+![Positive Perspectives:  Cultivating a Positive Sentiment Override. Commitment; Positive Perspectives; Manage Conflict.](diagram-02.svg)
 
 ##  Managing Conflict:  Navigating Disagreements Constructively
 
@@ -64,19 +56,7 @@ Gottman extensively explores the "Four Horsemen of the Apocalypse"—criticism, 
 * **Stonewalling:**  Stonewalling, or withdrawing emotionally and physically, shuts down communication.  Learning to regulate emotions and take breaks when needed is essential.
 
 
-```mermaid
-graph LR
-    subgraph "Four Horsemen"
-        A[Criticism]
-        B[Contempt]
-        C[Defensiveness]
-        D[Stonewalling]
-    end
-    A --> E(Relationship Failure);
-    B --> E;
-    C --> E;
-    D --> E;
-```
+![The Four Horsemen of the Apocalypse: Identifying and Avoiding Relationship Wreckers. Criticism; Contempt; Defensiveness; Stonewalling; Relationship Failure.](diagram-03.svg)
 
 ##  Repair Attempts:  Mending Rips in the Fabric of the Relationship
 

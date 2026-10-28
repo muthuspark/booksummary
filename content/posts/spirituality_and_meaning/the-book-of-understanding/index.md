@@ -16,12 +16,7 @@ Osho's "The Book of Understanding" isn't a self-help manual in the conventional 
 A strategy Osho emphasizes is witnessing. This involves observing your thoughts and emotions without judgment or identification. Instead of getting swept away by the torrent of your inner world, you become a detached observer, watching the drama unfold. This creates a space between you and your thoughts, reducing their power over you. Witnessing is not passive; it’s active observation, a mindful engagement with your inner landscape.
 
 
-```mermaid
-graph LR
-A[Thoughts & Emotions] --> B(Witnessing);
-B --> C[Detached Observation];
-C --> D{Reduced Power of Thoughts};
-```
+![Witnessing: The Art of Non-Identification. Thoughts & Emotions; Witnessing; Detached Observation; Reduced Power of Thoughts.](diagram-01.svg)
 
 ## Detachment from the Ego: Letting Go of the Illusion of Self
 

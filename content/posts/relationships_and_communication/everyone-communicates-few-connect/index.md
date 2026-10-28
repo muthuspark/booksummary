@@ -21,13 +21,7 @@ Maxwell posits that character is the bedrock of effective communication.  Withou
 Listening isn't simply hearing words; it's actively engaging with the speaker, understanding their perspective, and responding thoughtfully. Maxwell emphasizes the importance of empathetic listening, which involves putting oneself in the other person's shoes and understanding their emotional state. He advocates techniques such as paying close attention to nonverbal cues, asking clarifying questions, and summarizing to ensure understanding. Effective listening fosters trust and creates a safe space for open communication.
 
 
-```mermaid
-graph LR
-A[Speaker] --> B{Listening};
-B --> C[Understanding];
-C --> D[Responding];
-D --> E[Connection];
-```
+![Connecting Through Effective Listening. Speaker; Listening; Understanding; Responding; Connection.](diagram-01.svg)
 
 # The Power of Clarity and Storytelling
 
@@ -44,12 +38,7 @@ Genuine connection stems from building strong relationships.  Maxwell advises in
 Influence is not about manipulation; it's about inspiring others to act.  Maxwell advocates for influencing others through inspiration, not coercion.  This involves understanding their motivations, values, and aspirations.  He suggests aligning one's message with their needs and desires.  Persuasion through genuine connection will create more lasting impact than manipulation.
 
 
-```mermaid
-graph LR
-A[Understanding Needs] --> B(Inspiring Action);
-B --> C[Positive Influence];
-C --> D[Sustainable Change];
-```
+![Influence and Persuasion: Connecting to Motivate. Understanding Needs; Inspiring Action; Positive Influence; Sustainable Change.](diagram-02.svg)
 
 # Overcoming Communication Barriers
 

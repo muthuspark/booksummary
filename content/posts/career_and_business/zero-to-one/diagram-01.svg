@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="431pt" height="292pt" viewBox="0.00 0.00 431.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Monopoly</title><desc id="description">Competitive Market leads to Low Profit Margins. Monopoly leads to High Profit Margins. High Profit Margins leads to Reinvestement. Reinvestement leads to Growth.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 413,-274 413,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94,-215.87C94,-208.31 94,-199.49 94,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.45,-191.1 94,-184.1 91.55,-191.1 96.45,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301,-215.87C301,-208.31 301,-199.49 301,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="303.45,-191.1 301,-184.1 298.55,-191.1 303.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301,-143.87C301,-136.31 301,-127.49 301,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="303.45,-119.1 301,-112.1 298.55,-119.1 303.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301,-71.87C301,-64.31 301,-55.49 301,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="303.45,-47.1 301,-40.1 298.55,-47.1 303.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-256C176,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 176,-216 176,-216 182,-216 188,-222 188,-228 188,-228 188,-244 188,-244 188,-250 182,-256 176,-256" />
+<text text-anchor="middle" x="94" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Competitive Market</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M173,-184C173,-184 15,-184 15,-184 9,-184 3,-178 3,-172 3,-172 3,-156 3,-156 3,-150 9,-144 15,-144 15,-144 173,-144 173,-144 179,-144 185,-150 185,-156 185,-156 185,-172 185,-172 185,-178 179,-184 173,-184" />
+<text text-anchor="middle" x="94" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low Profit Margins</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M344,-256C344,-256 258,-256 258,-256 252,-256 246,-250 246,-244 246,-244 246,-228 246,-228 246,-222 252,-216 258,-216 258,-216 344,-216 344,-216 350,-216 356,-222 356,-228 356,-228 356,-244 356,-244 356,-250 350,-256 344,-256" />
+<text text-anchor="middle" x="301" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Monopoly</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M383,-184C383,-184 219,-184 219,-184 213,-184 207,-178 207,-172 207,-172 207,-156 207,-156 207,-150 213,-144 219,-144 219,-144 383,-144 383,-144 389,-144 395,-150 395,-156 395,-156 395,-172 395,-172 395,-178 389,-184 383,-184" />
+<text text-anchor="middle" x="301" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Profit Margins</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363,-112C363,-112 239,-112 239,-112 233,-112 227,-106 227,-100 227,-100 227,-84 227,-84 227,-78 233,-72 239,-72 239,-72 363,-72 363,-72 369,-72 375,-78 375,-84 375,-84 375,-100 375,-100 375,-106 369,-112 363,-112" />
+<text text-anchor="middle" x="301" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reinvestement</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M333.5,-40C333.5,-40 268.5,-40 268.5,-40 262.5,-40 256.5,-34 256.5,-28 256.5,-28 256.5,-12 256.5,-12 256.5,-6 262.5,0 268.5,0 268.5,0 333.5,0 333.5,0 339.5,0 345.5,-6 345.5,-12 345.5,-12 345.5,-28 345.5,-28 345.5,-34 339.5,-40 333.5,-40" />
+<text text-anchor="middle" x="301" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth</text>
+</g>
+</g>
+</svg>

@@ -14,15 +14,7 @@ Roberto Verganti's "Design-Driven Innovation" challenges the traditional innovat
 
 Verganti critiques the "technology-push" model, where innovations are driven by technological advancements seeking a market. He advocates for a "meaning-pull" model, where unmet needs and aspirations within a specific social context drive the innovation process. This shift requires understanding the user's world and the meaning they ascribe to products and services.
 
-```mermaid
-graph LR
-A[Technology-Push] --> B(Technological Advancements);
-B --> C{Market Search};
-C --> D[Potential Adoption];
-E[Meaning-Pull] --> F(Unmet Needs);
-F --> G{Design Solutions};
-G --> H[Meaningful Adoption];
-```
+![Shifting from Technology-Push to Meaning-Pull Innovation. Technology-Push; Technological Advancements; Market Search; Potential Adoption; Meaning-Pull; Unmet Needs; Design Solutions; Meaningful Adoption.](diagram-01.svg)
 
 # The Role of Design in Creating Meaning
 

@@ -20,13 +20,7 @@ The book debunks the widely held belief that multitasking improves efficiency.  
 
 A core tenet of "Hyperfocus" is understanding your personal energy patterns.  Bailey encourages self-experimentation to identify your peak performance times.  Are you a morning person or a night owl?  When do you feel most alert and focused?  Understanding your chronotype allows you to strategically schedule demanding tasks for when your energy is highest, maximizing your productivity and minimizing frustration.
 
-```mermaid
-graph LR
-    A[Identify Peak Performance Times] --> B(Schedule Demanding Tasks);
-    A --> C(Schedule Less Demanding Tasks);
-    C --> D[Rest & Recharge];
-    B --> D;
-```
+![Identifying Your Energy Rhythms. Identify Peak Performance Times; Schedule Demanding Tasks; Schedule Less Demanding Tasks; Rest & Recharge.](diagram-01.svg)
 
 
 # Crafting Your Hyperfocus Schedule
@@ -48,13 +42,7 @@ The book offers many actionable techniques for hyperfocus:
 * **Pomodoro Technique:** Work in focused bursts (e.g., 25 minutes) followed by short breaks (e.g., 5 minutes).
 * **Mindfulness and Meditation:** Practicing mindfulness can improve focus and reduce mental clutter.
 
-```mermaid
-graph LR
-    A[Minimize Distractions] --> B(Deep Work);
-    C[Timeboxing] --> B;
-    D[Pomodoro Technique] --> B;
-    E[Mindfulness & Meditation] --> B;
-```
+![Techniques for Deep Focus. Minimize Distractions; Deep Work; Timeboxing; Pomodoro Technique; Mindfulness & Meditation.](diagram-02.svg)
 
 
 # The Importance of Strategic Breaks

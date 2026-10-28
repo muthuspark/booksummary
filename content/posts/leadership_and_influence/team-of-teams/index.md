@@ -14,15 +14,7 @@ author: "Stanley McChrystal"
 
 The core of McChrystal's solution lies in fostering a "shared consciousness" across the organization.  Traditional hierarchies often create information silos, where different units operate in isolation, unaware of each other's activities and insights.  This lack of transparency hinders collaboration and leads to fragmented responses.  To combat this, McChrystal implemented a system emphasizing radical transparency, open communication, and a culture of trust.  This meant breaking down barriers between units, encouraging the free flow of information, and fostering a sense of shared purpose.
 
-```mermaid
-graph LR
-    A[Individual Units] --> B(Information Silos);
-    B --> C{Slow Decision Making};
-    B --> D{Lack of Coordination};
-    E[Shared Consciousness] --> F(Rapid Information Sharing);
-    F --> G{Fast Decision Making};
-    F --> H{Effective Collaboration};
-```
+![The Power of Shared Consciousness:  Breaking Down Silos. Individual Units; Information Silos; Slow Decision Making; Lack of Coordination; Shared Consciousness; Rapid Information Sharing; Fast Decision Making; Effective Collaboration.](diagram-01.svg)
 
 ## Decentralization and Empowerment:  Trusting the Team
 

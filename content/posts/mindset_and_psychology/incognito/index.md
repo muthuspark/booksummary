@@ -14,14 +14,7 @@ David Eagleman's "Incognito: The Secret Lives of the Brain" isn't a self-help bo
 
 The book forcefully argues against the idea of a unified, conscious "self" making rational decisions.  Instead, Eagleman portrays the brain as a collection of specialized modules, often operating independently and sometimes even in conflict. Our conscious experience is merely a "post-hoc" narrative, a story our brain constructs to make sense of its own actions.
 
-```mermaid
-graph LR
-A[Sensory Input] --> B(Unconscious Processing);
-B --> C{Multiple Specialized Modules};
-C --> D[Decision/Action];
-D --> E[Conscious Narrative];
-E --> F[Experience];
-```
+![The Illusion of Conscious Control: Understanding Your Internal Landscape. Sensory Input; Unconscious Processing; Multiple Specialized Modules; Decision/Action; Conscious Narrative; Experience.](diagram-01.svg)
 
 This understanding shatters the illusion of complete self-control. We rarely understand the true origins of our thoughts and behaviors. This doesn't mean we are powerless; it means we need to change our strategies.
 

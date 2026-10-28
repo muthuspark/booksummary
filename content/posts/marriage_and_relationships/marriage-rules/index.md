@@ -14,15 +14,7 @@ Harriet Lerner's "Marriage Rules" isn't a simple how-to manual for a perfect mar
 
 The foundation of Lerner's advice rests on self-awareness. Before seeking to change your partner, you must understand your own behaviors, needs, and emotional responses within the marriage. This involves identifying recurring patterns, understanding your emotional triggers, and acknowledging your own contributions to conflict. Honest introspection is key.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Understanding your needs);
-A --> C(Recognizing your patterns);
-A --> D(Identifying triggers);
-B --> E[Improved Communication];
-C --> E;
-D --> E;
-```
+![The Power of Self-Awareness: Knowing Yourself, Knowing Your Partner. Self-Awareness; Understanding your needs; Recognizing your patterns; Identifying triggers; Improved Communication.](diagram-01.svg)
 
 # Stepping Out of the "Dance": Breaking Unhealthy Patterns
 
@@ -37,17 +29,7 @@ A central theme is taking ownership of your emotions and actions.  Blaming your 
 Effective communication is not simply talking; it's truly listening and understanding your partner's perspective, even if you disagree.  This involves active listening, empathy, and a willingness to validate your partner's feelings. Lerner emphasizes the importance of creating a safe space for vulnerability, where both partners feel comfortable expressing their thoughts and emotions without fear of judgment.  Learning to negotiate and compromise is paramount.
 
 
-```mermaid
-graph LR
-A[Effective Communication] --> B(Active Listening);
-A --> C(Empathy);
-A --> D(Validation);
-A --> E(Negotiation & Compromise);
-B --> F[Stronger Connection];
-C --> F;
-D --> F;
-E --> F;
-```
+![Effective Communication: Bridging the Divide. Effective Communication; Active Listening; Empathy; Validation; Negotiation & Compromise; Stronger Connection.](diagram-02.svg)
 
 #  Negotiation and Compromise: Finding Common Ground
 
@@ -61,15 +43,7 @@ Conflict is inevitable in any relationship.  Lerner emphasizes the importance of
 
 Setting healthy boundaries is important for both individual well-being and relational health. This involves identifying your limits and communicating them clearly to your partner. Boundaries protect against exploitation and ensure that both partners feel respected and valued within the relationship. It also prevents resentment from building up.
 
-```mermaid
-graph LR
-A[Setting Boundaries] --> B(Identifying limits);
-A --> C(Clear communication);
-A --> D(Respect & Value);
-B --> E[Healthy Relationship];
-C --> E;
-D --> E;
-```
+![Setting Boundaries: Protecting Yourself and the Relationship. Setting Boundaries; Identifying limits; Clear communication; Respect & Value; Healthy Relationship.](diagram-03.svg)
 
 
 # Forgiveness and Second Chances:  Moving Beyond Hurt
@@ -85,17 +59,7 @@ Lerner acknowledges that some relationship challenges require professional help.
 Maintaining a strong and fulfilling relationship is an ongoing process. It requires conscious effort to nurture the connection, prioritize quality time together, and cultivate intimacy. This involves expressing appreciation, engaging in shared activities, and making time for romance. Consistent effort, even amidst busy schedules, is essential for keeping the relationship vibrant and fulfilling.
 
 
-```mermaid
-graph LR
-A[Maintaining the Spark] --> B(Quality time);
-A --> C(Shared activities);
-A --> D(Romance);
-A --> E(Appreciation);
-B --> F[Stronger Bond];
-C --> F;
-D --> F;
-E --> F;
-```
+![Maintaining the Spark: Nurturing the Relationship. Maintaining the Spark; Quality time; Shared activities; Romance; Appreciation; Stronger Bond.](diagram-04.svg)
 
 # Self-Care and Individual Growth:  The Foundation of a Strong Marriage
 

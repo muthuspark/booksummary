@@ -14,14 +14,7 @@ author: "Kurt W. Mortensen"
 
 Strong relationships are the bedrock of influence.  Mortensen highlights the importance of actively listening, showing genuine interest in others, and understanding their perspectives.  This involves more than just hearing words; it’s about grasping emotions and underlying motivations.  He emphasizes mirroring and matching body language subtly to create a sense of connection and rapport, but cautions against overt mimicry which can appear insincere.  This rapport-building process lays the groundwork for future influence attempts.
 
-```mermaid
-graph LR
-    A[Active Listening] --> B(Understanding Perspectives);
-    B --> C{Genuine Interest};
-    C --> D[Mirroring & Matching];
-    D --> E(Building Rapport);
-    E --> F[Influence];
-```
+![Building Rapport: The Foundation of Influence. Active Listening; Understanding Perspectives; Genuine Interest; Mirroring & Matching; Building Rapport; Influence.](diagram-01.svg)
 
 # Mastering Communication: Clarity and Emotional Intelligence
 
@@ -43,16 +36,7 @@ Throughout the book, Mortensen stresses the importance of ethical persuasion. He
 
 Mortensen advocates using powerful questioning techniques to guide conversations and elicit desired responses. Open-ended questions encourage deeper engagement, while strategically placed closed-ended questions confirm understanding or gather specific information. He emphasizes the power of reflective listening – paraphrasing and summarizing the other person's statements to demonstrate understanding and build rapport. The right questions can reveal hidden motivations and agreement.
 
-```mermaid
-graph LR
-    A[Open-ended Questions] --> B(Deep Engagement);
-    B --> C{Understanding Motivations};
-    C --> D[Closed-ended Questions];
-    D --> E(Gathering Specific Info);
-    E --> F[Reflective Listening];
-    F --> G(Building Rapport);
-    G --> H[Influencing Outcomes];
-```
+![The Power of Questions: Unlocking Understanding and Building Connection. Open-ended Questions; Deep Engagement; Understanding Motivations; Closed-ended Questions; Gathering Specific Info; Reflective Listening; Building Rapport; Influencing Outcomes.](diagram-02.svg)
 
 #  Leveraging Nonverbal Communication: The Unspoken Language
 

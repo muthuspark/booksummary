@@ -42,14 +42,7 @@ The diet restricts processed foods, refined sugars, and high-glycemic carbohydra
 Davis explains the link between wheat consumption and inflammation. He posits that modern wheat's unique composition triggers an inflammatory response in many individuals, even those without a formal celiac diagnosis. This inflammation, he argues, is a root cause of various diseases.
 
 
-```mermaid
-graph LR
-    A[Wheat Consumption] --> B(Gliadin & Other Proteins);
-    B --> C[Intestinal Damage];
-    C --> D(Leaky Gut Syndrome);
-    D --> E[Inflammation];
-    E --> F{Weight Gain, Heart Disease, Diabetes, Autoimmune Disorders};
-```
+![Understanding the Inflammatory Process. Wheat Consumption; Gliadin & Other Proteins; Intestinal Damage; Leaky Gut Syndrome; Inflammation; Weight Gain, Heart Disease, Diabetes, Autoimmune Disorders.](diagram-01.svg)
 
 ##  Actionable Strategies and Insights
 
@@ -90,14 +83,7 @@ Davis also emphasizes the importance of lifestyle changes, including:
 *   **Adequate sleep:**  Sleep deprivation impairs immune function and increases inflammation.
 *   **Hydration:**  Drinking plenty of water is essential for overall health.
 
-```mermaid
-graph LR
-    A[Wheat Belly Diet] --> B(Eliminate Wheat);
-    B --> C(Reduce Inflammation);
-    C --> D(Improved Health);
-    E[Lifestyle Changes] --> D;
-    E --> F(Exercise, Stress Management, Sleep, Hydration);
-```
+![Beyond Diet: Lifestyle Changes. Wheat Belly Diet; Eliminate Wheat; Reduce Inflammation; Improved Health; Lifestyle Changes; Exercise, Stress Management, Sleep, Hydration.](diagram-02.svg)
 
 ##  Long-Term Success and Maintenance
 

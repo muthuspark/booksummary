@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="622pt" height="200pt" viewBox="0.00 0.00 622.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Understanding Risk: Predictive Medicine</title><desc id="description">Genetic Testing leads to Identify Predispositions. Identify Predispositions leads to Lifestyle Changes. Identify Predispositions leads to Early Screenings. Identify Predispositions leads to Reproductive Decisions.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 604,-182 604,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152.08,-82C160.1,-82 168.29,-82 176.39,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.8,-84.45 183.8,-82 176.8,-79.55 176.8,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M336.11,-103.79C346.82,-106.88 357.69,-110.03 368,-113 378.07,-115.9 388.67,-118.95 399.14,-121.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="398.58,-124.35 405.99,-123.93 399.94,-119.64 398.58,-124.35" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M336.2,-82C353.04,-82 371.06,-82 388.36,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="388.73,-84.45 395.73,-82 388.73,-79.55 388.73,-84.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M336.11,-60.21C346.82,-57.12 357.69,-53.97 368,-51 378.07,-48.1 388.67,-45.05 399.14,-42.04" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="399.94,-44.36 405.99,-40.07 398.58,-39.65 399.94,-44.36" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M140,-102C140,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 140,-62 140,-62 146,-62 152,-68 152,-74 152,-74 152,-90 152,-90 152,-96 146,-102 140,-102" />
+<text text-anchor="middle" x="76" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Genetic Testing</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M324,-112C324,-112 196,-112 196,-112 190,-112 184,-106 184,-100 184,-100 184,-64 184,-64 184,-58 190,-52 196,-52 196,-52 324,-52 324,-52 330,-52 336,-58 336,-64 336,-64 336,-100 336,-100 336,-106 330,-112 324,-112" />
+<text text-anchor="middle" x="260" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify</text>
+<text text-anchor="middle" x="260" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Predispositions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M548.5,-164C548.5,-164 405.5,-164 405.5,-164 399.5,-164 393.5,-158 393.5,-152 393.5,-152 393.5,-136 393.5,-136 393.5,-130 399.5,-124 405.5,-124 405.5,-124 548.5,-124 548.5,-124 554.5,-124 560.5,-130 560.5,-136 560.5,-136 560.5,-152 560.5,-152 560.5,-158 554.5,-164 548.5,-164" />
+<text text-anchor="middle" x="477" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lifestyle Changes</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M546,-102C546,-102 408,-102 408,-102 402,-102 396,-96 396,-90 396,-90 396,-74 396,-74 396,-68 402,-62 408,-62 408,-62 546,-62 546,-62 552,-62 558,-68 558,-74 558,-74 558,-90 558,-90 558,-96 552,-102 546,-102" />
+<text text-anchor="middle" x="477" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Early Screenings</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M574,-40C574,-40 380,-40 380,-40 374,-40 368,-34 368,-28 368,-28 368,-12 368,-12 368,-6 374,0 380,0 380,0 574,0 574,0 580,0 586,-6 586,-12 586,-12 586,-28 586,-28 586,-34 580,-40 574,-40" />
+<text text-anchor="middle" x="477" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reproductive Decisions</text>
+</g>
+</g>
+</svg>

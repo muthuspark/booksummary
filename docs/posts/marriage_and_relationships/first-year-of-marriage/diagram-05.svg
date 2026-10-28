@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="458pt" height="332pt" viewBox="0.00 0.00 458.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Maintaining Individuality While Building a Team</title><desc id="description">Individual Identity leads to Shared Interests. Shared Interests leads to Personal Space. Personal Space leads to Strong Partnership. Individual Identity leads to Strong Partnership. Shared Interests leads to Strong Partnership.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 440,-314 440,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M305.7,-255.87C299.28,-247.85 291.73,-238.41 284.89,-229.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="286.57,-228.04 280.28,-224.1 282.74,-231.1 286.57,-228.04" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M337.89,-255.57C344.61,-246.59 351.55,-235.41 355,-224 373.63,-162.48 354.36,-86.33 341.51,-47.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="343.75,-46.07 339.2,-40.21 339.1,-47.63 343.75,-46.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M240.4,-183.91C226.42,-173.07 208.52,-159.18 192.26,-146.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.39,-144.34 186.36,-141.99 190.39,-148.21 193.39,-144.34" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M285.78,-183.98C294.26,-175.07 303.39,-163.83 309,-152 325.01,-118.24 329.97,-74.83 331.45,-47.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="333.91,-47.28 331.78,-40.18 329.02,-47.06 333.91,-47.28" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.46,-85.69C227.56,-72.37 260.48,-56.17 286.61,-43.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="287.9,-45.42 293.1,-40.13 285.74,-41.02 287.9,-45.42" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M398.5,-296C398.5,-296 243.5,-296 243.5,-296 237.5,-296 231.5,-290 231.5,-284 231.5,-284 231.5,-268 231.5,-268 231.5,-262 237.5,-256 243.5,-256 243.5,-256 398.5,-256 398.5,-256 404.5,-256 410.5,-262 410.5,-268 410.5,-268 410.5,-284 410.5,-284 410.5,-290 404.5,-296 398.5,-296" />
+<text text-anchor="middle" x="321" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Identity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M332.5,-224C332.5,-224 197.5,-224 197.5,-224 191.5,-224 185.5,-218 185.5,-212 185.5,-212 185.5,-196 185.5,-196 185.5,-190 191.5,-184 197.5,-184 197.5,-184 332.5,-184 332.5,-184 338.5,-184 344.5,-190 344.5,-196 344.5,-196 344.5,-212 344.5,-212 344.5,-218 338.5,-224 332.5,-224" />
+<text text-anchor="middle" x="265" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Interests</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="149,-152 0,-112 149,-72 298,-112 149,-152" />
+<text text-anchor="middle" x="149" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Space</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M410,-40C410,-40 254,-40 254,-40 248,-40 242,-34 242,-28 242,-28 242,-12 242,-12 242,-6 248,0 254,0 254,0 410,0 410,0 416,0 422,-6 422,-12 422,-12 422,-28 422,-28 422,-34 416,-40 410,-40" />
+<text text-anchor="middle" x="332" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Partnership</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="609pt" height="76pt" viewBox="0.00 0.00 609.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">Building a Team: The Power of Collaboration</title><desc id="description">Phil Knight leads to Team Members. Team Members leads to Innovation. Innovation leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 591,-58 591,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M119.03,-20C127.05,-20 135.4,-20 143.76,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="143.77,-22.45 150.77,-20 143.77,-17.55 143.77,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.01,-20C312.16,-20 320.39,-20 328.4,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="328.67,-22.45 335.67,-20 328.67,-17.55 328.67,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M452.35,-20C460.38,-20 468.59,-20 476.49,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="476.65,-22.45 483.65,-20 476.65,-17.55 476.65,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M107,-40C107,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 107,0 107,0 113,0 119,-6 119,-12 119,-12 119,-28 119,-28 119,-34 113,-40 107,-40" />
+<text text-anchor="middle" x="59.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Phil Knight</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-40C292,-40 163,-40 163,-40 157,-40 151,-34 151,-28 151,-28 151,-12 151,-12 151,-6 157,0 163,0 163,0 292,0 292,0 298,0 304,-6 304,-12 304,-12 304,-28 304,-28 304,-34 298,-40 292,-40" />
+<text text-anchor="middle" x="227.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Team Members</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M440,-40C440,-40 348,-40 348,-40 342,-40 336,-34 336,-28 336,-28 336,-12 336,-12 336,-6 342,0 348,0 348,0 440,0 440,0 446,0 452,-6 452,-12 452,-12 452,-28 452,-28 452,-34 446,-40 440,-40" />
+<text text-anchor="middle" x="394" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M561,-40C561,-40 496,-40 496,-40 490,-40 484,-34 484,-28 484,-28 484,-12 484,-12 484,-6 490,0 496,0 496,0 561,0 561,0 567,0 573,-6 573,-12 573,-12 573,-28 573,-28 573,-34 567,-40 561,-40" />
+<text text-anchor="middle" x="528.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

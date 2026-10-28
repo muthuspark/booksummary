@@ -14,12 +14,7 @@ John Gottman's "Raising an Emotionally Intelligent Child" emphasizes the role of
 
 A cornerstone of emotional intelligence is a secure attachment to caregivers.  This means a child feels safe, seen, and understood by their parents.  Gottman highlights the importance of responsive parenting, where parents accurately identify and respond to their child's emotional needs. This involves paying close attention to their child's nonverbal cues and validating their feelings, even negative ones.  A secure attachment fosters trust and allows children to look at the world confidently, knowing they have a reliable support system.
 
-```mermaid
-graph LR
-A[Responsive Parenting] --> B(Secure Attachment);
-B --> C[Emotional Regulation];
-C --> D{Resilience & Well-being};
-```
+![Building a Secure Attachment. Responsive Parenting; Secure Attachment; Emotional Regulation; Resilience & Well-being.](diagram-01.svg)
 
 # Identifying and Naming Emotions
 
@@ -51,13 +46,7 @@ Children will inevitably exhibit challenging behaviors.  Gottman suggests respon
 * **Setting limits with empathy:**  Establish clear boundaries while acknowledging the child's feelings.  For example, "I understand you're angry, but hitting is not allowed."
 * **Problem-solving together:**  Involve the child in finding solutions to challenging situations. This fosters a sense of responsibility and empowers the child.
 
-```mermaid
-graph LR
-A[Challenging Behavior] --> B(Identify Underlying Emotions);
-B --> C(Set Limits with Empathy);
-C --> D(Problem-solving Together);
-D --> E[Positive Resolution];
-```
+![Dealing with Challenging Behaviors. Challenging Behavior; Identify Underlying Emotions; Set Limits with Empathy; Problem-solving Together; Positive Resolution.](diagram-02.svg)
 
 # Building Family Rituals and Traditions
 

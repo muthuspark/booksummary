@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="395pt" height="148pt" viewBox="0.00 0.00 395.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Cultivating the Warrior Spirit</title><desc id="description">Basic Goodness leads to Courage. Basic Goodness leads to Compassion. Basic Goodness leads to Wisdom.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 377,-130 377,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143.43,-71.87C126.84,-63.08 107.05,-52.58 89.77,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="90.86,-41.22 83.53,-40.1 88.56,-45.55 90.86,-41.22" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179.5,-71.87C179.5,-64.31 179.5,-55.49 179.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.95,-47.1 179.5,-40.1 177.05,-47.1 181.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M215.57,-71.87C232.16,-63.08 251.95,-52.58 269.23,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="270.44,-45.55 275.47,-40.1 268.14,-41.22 270.44,-45.55" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M243.5,-112C243.5,-112 115.5,-112 115.5,-112 109.5,-112 103.5,-106 103.5,-100 103.5,-100 103.5,-84 103.5,-84 103.5,-78 109.5,-72 115.5,-72 115.5,-72 243.5,-72 243.5,-72 249.5,-72 255.5,-78 255.5,-84 255.5,-84 255.5,-100 255.5,-100 255.5,-106 249.5,-112 243.5,-112" />
+<text text-anchor="middle" x="179.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Basic Goodness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M83,-40C83,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 83,0 83,0 89,0 95,-6 95,-12 95,-12 95,-28 95,-28 95,-34 89,-40 83,-40" />
+<text text-anchor="middle" x="47.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Courage</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M230,-40C230,-40 129,-40 129,-40 123,-40 117,-34 117,-28 117,-28 117,-12 117,-12 117,-6 123,0 129,0 129,0 230,0 230,0 236,0 242,-6 242,-12 242,-12 242,-28 242,-28 242,-34 236,-40 230,-40" />
+<text text-anchor="middle" x="179.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compassion</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M347,-40C347,-40 276,-40 276,-40 270,-40 264,-34 264,-28 264,-28 264,-12 264,-12 264,-6 270,0 276,0 276,0 347,0 347,0 353,0 359,-6 359,-12 359,-12 359,-28 359,-28 359,-34 353,-40 347,-40" />
+<text text-anchor="middle" x="311.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wisdom</text>
+</g>
+</g>
+</svg>

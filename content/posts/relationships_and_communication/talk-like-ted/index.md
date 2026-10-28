@@ -15,11 +15,7 @@ Carmine Gallo's "Talk Like TED" dissects the compelling presentations delivered 
 
 TED Talks excel in their storytelling abilities. Gallo emphasizes the importance of weaving narratives that connect emotionally with the audience.  This isn't about dry facts and figures; it's about creating a relatable journey that elicits empathy and understanding.  A strong narrative should have a clear beginning, middle, and end, with a compelling protagonist (often the speaker themselves) facing a challenge and ultimately achieving a transformation or resolution.
 
-```mermaid
-graph LR
-A[Beginning: Setup & Hook] --> B(Middle: Challenge & Transformation);
-B --> C{End: Resolution & Call to Action};
-```
+![The Power of Storytelling. Beginning: Setup & Hook; Middle: Challenge & Transformation; End: Resolution & Call to Action.](diagram-01.svg)
 
 The book encourages finding a universal theme within your story that resonates across cultures and backgrounds. This makes your message accessible and memorable.  Authenticity is key – your story should reflect your genuine experiences and passions.
 

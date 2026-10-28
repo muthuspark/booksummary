@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528pt" height="815pt" viewBox="0.00 0.00 528.00 815.00" role="img" aria-labelledby="title description">
+<title id="title">Defining the Problem</title><desc id="description">Problem: Slow Computer leads to Why?. Why? leads to Old Hard Drive?. Old Hard Drive? leads to Root Cause: Hard Drive Needs Replacing (Yes). Old Hard Drive? leads to Why? (No). Why? leads to Insufficient RAM?. Insufficient RAM? leads to Root Cause: Upgrade RAM (Yes). Insufficient RAM? leads to Why? (No). Why? leads to Malware?. Malware? leads to Root Cause: Malware Removal (Yes).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 797)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-797 510,-797 510,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165,-738.97C165,-731.09 165,-721.82 165,-713.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="167.45,-713.08 165,-706.08 162.55,-713.08 167.45,-713.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165,-665.7C165,-658.21 165,-649.28 165,-640.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="167.45,-640.13 165,-633.13 162.55,-640.13 167.45,-640.13" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148.5,-556.9C141.64,-542.3 133.69,-525.39 126.79,-510.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="128.91,-509.46 123.71,-504.17 124.47,-511.55 128.91,-509.46" />
+<text text-anchor="middle" x="150" y="-525" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195.85,-560.34C214.49,-541.2 237.91,-517.18 255.13,-499.5" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.14,-500.95 260.27,-494.23 253.63,-497.53 257.14,-500.95" />
+<text text-anchor="middle" x="242" y="-525" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M279,-453.53C279,-443.46 279,-430.72 279,-418.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="281.45,-418.07 279,-411.07 276.55,-418.07 281.45,-418.07" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263.26,-334.58C256.78,-320 249.28,-303.14 242.8,-288.54" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="244.98,-287.42 239.9,-282.01 240.5,-289.41 244.98,-287.42" />
+<text text-anchor="middle" x="265" y="-303" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M308.25,-337.72C325.57,-318.59 347.17,-294.76 363.04,-277.24" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="364.88,-278.85 367.77,-272.02 361.25,-275.56 364.88,-278.85" />
+<text text-anchor="middle" x="351" y="-303" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M385,-231.53C385,-221.46 385,-208.72 385,-196.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="387.45,-196.07 385,-189.07 382.55,-196.07 387.45,-196.07" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M385,-108.72C385,-95.27 385,-80.31 385,-67.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="387.45,-67.01 385,-60.01 382.55,-67.01 387.45,-67.01" />
+<text text-anchor="middle" x="397" y="-81" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M268,-779C268,-779 62,-779 62,-779 56,-779 50,-773 50,-767 50,-767 50,-751 50,-751 50,-745 56,-739 62,-739 62,-739 268,-739 268,-739 274,-739 280,-745 280,-751 280,-751 280,-767 280,-767 280,-773 274,-779 268,-779" />
+<text text-anchor="middle" x="165" y="-754.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem: Slow Computer</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M190,-706C190,-706 140,-706 140,-706 134,-706 128,-700 128,-694 128,-694 128,-678 128,-678 128,-672 134,-666 140,-666 140,-666 190,-666 190,-666 196,-666 202,-672 202,-678 202,-678 202,-694 202,-694 202,-700 196,-706 190,-706" />
+<text text-anchor="middle" x="165" y="-681.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="165,-633 4,-593 165,-553 326,-593 165,-633" />
+<text text-anchor="middle" x="165" y="-588.6" font-family="Georgia" font-size="18.00" fill="#243d36">Old Hard Drive?</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M208,-504C208,-504 12,-504 12,-504 6,-504 0,-498 0,-492 0,-492 0,-456 0,-456 0,-450 6,-444 12,-444 12,-444 208,-444 208,-444 214,-444 220,-450 220,-456 220,-456 220,-492 220,-492 220,-498 214,-504 208,-504" />
+<text text-anchor="middle" x="110" y="-479.6" font-family="Georgia" font-size="18.00" fill="#243d36">Root Cause: Hard Drive</text>
+<text text-anchor="middle" x="110" y="-459.6" font-family="Georgia" font-size="18.00" fill="#243d36">Needs Replacing</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M304,-494C304,-494 254,-494 254,-494 248,-494 242,-488 242,-482 242,-482 242,-466 242,-466 242,-460 248,-454 254,-454 254,-454 304,-454 304,-454 310,-454 316,-460 316,-466 316,-466 316,-482 316,-482 316,-488 310,-494 304,-494" />
+<text text-anchor="middle" x="279" y="-469.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="279,-411 105,-371 279,-331 453,-371 279,-411" />
+<text text-anchor="middle" x="279" y="-366.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insufficient RAM?</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M314,-282C314,-282 140,-282 140,-282 134,-282 128,-276 128,-270 128,-270 128,-234 128,-234 128,-228 134,-222 140,-222 140,-222 314,-222 314,-222 320,-222 326,-228 326,-234 326,-234 326,-270 326,-270 326,-276 320,-282 314,-282" />
+<text text-anchor="middle" x="227" y="-257.6" font-family="Georgia" font-size="18.00" fill="#243d36">Root Cause: Upgrade</text>
+<text text-anchor="middle" x="227" y="-237.6" font-family="Georgia" font-size="18.00" fill="#243d36">RAM</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M410,-272C410,-272 360,-272 360,-272 354,-272 348,-266 348,-260 348,-260 348,-244 348,-244 348,-238 354,-232 360,-232 360,-232 410,-232 410,-232 416,-232 422,-238 422,-244 422,-244 422,-260 422,-260 422,-266 416,-272 410,-272" />
+<text text-anchor="middle" x="385" y="-247.6" font-family="Georgia" font-size="18.00" fill="#243d36">Why?</text>
+</g>
+
+<g id="node9" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="385,-189 278,-149 385,-109 492,-149 385,-189" />
+<text text-anchor="middle" x="385" y="-144.6" font-family="Georgia" font-size="18.00" fill="#243d36">Malware?</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M472.5,-60C472.5,-60 297.5,-60 297.5,-60 291.5,-60 285.5,-54 285.5,-48 285.5,-48 285.5,-12 285.5,-12 285.5,-6 291.5,0 297.5,0 297.5,0 472.5,0 472.5,0 478.5,0 484.5,-6 484.5,-12 484.5,-12 484.5,-48 484.5,-48 484.5,-54 478.5,-60 472.5,-60" />
+<text text-anchor="middle" x="385" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Root Cause: Malware</text>
+<text text-anchor="middle" x="385" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Removal</text>
+</g>
+</g>
+</svg>

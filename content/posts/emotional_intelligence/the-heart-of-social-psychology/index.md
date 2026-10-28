@@ -16,13 +16,7 @@ A significant part of the book explores social cognition – how we perceive, in
 
 Understanding biases like the confirmation bias (seeking information confirming pre-existing beliefs) and the fundamental attribution error (overemphasizing dispositional factors while underestimating situational factors in explaining others' behavior) is essential. Recognizing these biases allows us to question our assumptions and engage in more objective analysis.
 
-```mermaid
-graph LR
-    A[Situation] --> B(Attribution);
-    B --> C{"Dispositional (Internal)"};
-    B --> D{"Situational (External)"};
-    C --> E[Bias: Fundamental <br> Attribution Error];
-```
+![The Power of Social Cognition. Situation; Attribution; Dispositional (Internal); Situational (External); Bias: Fundamental   Attribution Error.](diagram-01.svg)
 
 Actionable insight:  Actively challenge your own interpretations.  When you encounter negative behavior, consciously consider the situational factors before jumping to conclusions about the person's character.
 
@@ -46,13 +40,7 @@ The influence of groups on individual behavior is a central theme.  Holmes descr
 
 Understanding these dynamics enables us to resist undue pressure from groups and encourage more productive group interactions by fostering open communication and critical thinking.
 
-```mermaid
-graph LR
-    A[Individual] --> B(Group Pressure);
-    B --> C{Conformity};
-    B --> D{Obedience};
-    B --> E{Groupthink};
-```
+![Group Dynamics and Social Influence. Individual; Group Pressure; Conformity; Obedience; Groupthink.](diagram-02.svg)
 
 Actionable insight:  Develop the skill to express dissenting opinions respectfully in group settings.  Encourage critical evaluation of ideas.
 

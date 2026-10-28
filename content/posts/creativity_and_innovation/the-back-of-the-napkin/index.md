@@ -18,11 +18,7 @@ Roam outlines six key visual thinking processes, each designed to address differ
 
 Explaining involves simplifying complex information into easily understandable visuals.  This process focuses on distilling the essence of a concept and representing it visually using simple diagrams, charts, or metaphors.  The goal isn't artistic perfection but clear communication.
 
-```mermaid
-graph LR
-    A[Complex Idea] --> B(Simplified Representation);
-    B --> C[Clear Communication];
-```
+![1.  Explain:  Clarifying Complex Ideas. Complex Idea; Simplified Representation; Clear Communication.](diagram-01.svg)
 
 Key elements include identifying core concepts, eliminating unnecessary details, and choosing appropriate visual metaphors to convey meaning effectively.  Think flowcharts, timelines, or simple Venn diagrams.
 

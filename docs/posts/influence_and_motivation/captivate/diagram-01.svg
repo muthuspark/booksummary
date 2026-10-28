@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="473pt" height="262pt" viewBox="0.00 0.00 473.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">The Science of Connection: Understanding the Human Brain</title><desc id="description">Brain's Reward System leads to Positive Connection. Mirroring/Matching leads to Positive Connection. Attentive Listening leads to Positive Connection. Positive Body Language leads to Positive Connection.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 455,-244 455,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.4,-185.96C197.12,-182.6 207.91,-178.92 218,-175 246.2,-164.04 276.62,-148.95 300.33,-136.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="301.5,-138.56 306.52,-133.11 299.19,-134.24 301.5,-138.56" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M204.57,-131.39C217.19,-129.71 230.17,-127.98 242.87,-126.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="243.29,-128.7 249.9,-125.35 242.64,-123.84 243.29,-128.7" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198.56,-93.81C213.01,-95.73 228.06,-97.74 242.76,-99.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.67,-102.16 249.94,-100.66 243.32,-97.3 242.67,-102.16" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.4,-40.04C197.12,-43.4 207.91,-47.08 218,-51 246.2,-61.96 276.62,-77.05 300.33,-89.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="299.19,-91.76 306.52,-92.89 301.5,-87.44 299.19,-91.76" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M203,-226C203,-226 15,-226 15,-226 9,-226 3,-220 3,-214 3,-214 3,-198 3,-198 3,-192 9,-186 15,-186 15,-186 203,-186 203,-186 209,-186 215,-192 215,-198 215,-198 215,-214 215,-214 215,-220 209,-226 203,-226" />
+<text text-anchor="middle" x="109" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brain's Reward System</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M425,-133C425,-133 262,-133 262,-133 256,-133 250,-127 250,-121 250,-121 250,-105 250,-105 250,-99 256,-93 262,-93 262,-93 425,-93 425,-93 431,-93 437,-99 437,-105 437,-105 437,-121 437,-121 437,-127 431,-133 425,-133" />
+<text text-anchor="middle" x="343.5" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Connection</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192.5,-164C192.5,-164 25.5,-164 25.5,-164 19.5,-164 13.5,-158 13.5,-152 13.5,-152 13.5,-136 13.5,-136 13.5,-130 19.5,-124 25.5,-124 25.5,-124 192.5,-124 192.5,-124 198.5,-124 204.5,-130 204.5,-136 204.5,-136 204.5,-152 204.5,-152 204.5,-158 198.5,-164 192.5,-164" />
+<text text-anchor="middle" x="109" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mirroring/Matching</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M186.5,-102C186.5,-102 31.5,-102 31.5,-102 25.5,-102 19.5,-96 19.5,-90 19.5,-90 19.5,-74 19.5,-74 19.5,-68 25.5,-62 31.5,-62 31.5,-62 186.5,-62 186.5,-62 192.5,-62 198.5,-68 198.5,-74 198.5,-74 198.5,-90 198.5,-90 198.5,-96 192.5,-102 186.5,-102" />
+<text text-anchor="middle" x="109" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attentive Listening</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M206,-40C206,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 206,0 206,0 212,0 218,-6 218,-12 218,-12 218,-28 218,-28 218,-34 212,-40 206,-40" />
+<text text-anchor="middle" x="109" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Body Language</text>
+</g>
+</g>
+</svg>

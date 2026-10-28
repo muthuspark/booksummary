@@ -31,16 +31,7 @@ Gigerenzer introduces the concept of "fast and frugal heuristics," simple decisi
 * **One-reason decision making:**  This approach chooses the first factor that favors one option over another.
 
 
-```mermaid
-graph TD
-    A[Decision Problem] --> B{Identify Cues};
-    B --> C[Take-the-best: Select most important cue];
-    C --> D[Decision];
-    B --> E[Recognition Heuristic: Choose recognized option];
-    E --> D;
-    B --> F[One-Reason Decision Making: Choose option favored by first relevant cue];
-    F --> D;
-```
+![Simple Heuristics: The Power of "Fast and Frugal" Thinking. Decision Problem; Identify Cues; Take-the-best: Select most important cue; Decision; Recognition Heuristic: Choose recognized option; One-Reason Decision Making: Choose option favored by first relevant cue.](diagram-01.svg)
 
 
 # Understanding Frequencies, Not Probabilities

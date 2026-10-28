@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="538pt" height="168pt" viewBox="0.00 0.00 538.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of the "Three Commitments</title><desc id="description">Speak Your Truth leads to Fierce Conversation. Listen to Others' Truth leads to Fierce Conversation. Stay Present leads to Fierce Conversation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 520,-150 520,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.79,-81.84C157.2,-70.11 192.36,-55.07 220.86,-42.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.1,-45.01 227.57,-40.01 220.17,-40.51 222.1,-45.01" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M272,-71.67C272,-63.77 272,-55.28 272,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="274.45,-47.12 272,-40.12 269.55,-47.12 274.45,-47.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M398.24,-81.84C374.11,-70.21 343.23,-55.33 318.04,-43.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="318.81,-40.84 311.44,-40.01 316.68,-45.25 318.81,-40.84" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158,-122C158,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 158,-82 158,-82 164,-82 170,-88 170,-94 170,-94 170,-110 170,-110 170,-116 164,-122 158,-122" />
+<text text-anchor="middle" x="85" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Speak Your Truth</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M354,-40C354,-40 190,-40 190,-40 184,-40 178,-34 178,-28 178,-28 178,-12 178,-12 178,-6 184,0 190,0 190,0 354,0 354,0 360,0 366,-6 366,-12 366,-12 366,-28 366,-28 366,-34 360,-40 354,-40" />
+<text text-anchor="middle" x="272" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fierce Conversation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M340,-132C340,-132 204,-132 204,-132 198,-132 192,-126 192,-120 192,-120 192,-84 192,-84 192,-78 198,-72 204,-72 204,-72 340,-72 340,-72 346,-72 352,-78 352,-84 352,-84 352,-120 352,-120 352,-126 346,-132 340,-132" />
+<text text-anchor="middle" x="272" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Listen to Others'</text>
+<text text-anchor="middle" x="272" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Truth</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M490,-122C490,-122 386,-122 386,-122 380,-122 374,-116 374,-110 374,-110 374,-94 374,-94 374,-88 380,-82 386,-82 386,-82 490,-82 490,-82 496,-82 502,-88 502,-94 502,-94 502,-110 502,-110 502,-116 496,-122 490,-122" />
+<text text-anchor="middle" x="438" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stay Present</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242pt" height="352pt" viewBox="0.00 0.00 242.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Harnessing the Power of the Self-Concept</title><desc id="description">Weak Self-Concept leads to Reminder of Past Acts of Generosity. Reminder of Past Acts of Generosity leads to Strengthened Self-Concept. Strengthened Self-Concept leads to Increased Likelihood of Donation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 224,-334 224,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-275.63C103,-268.34 103,-259.78 103,-251.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-251.19 103,-244.19 100.55,-251.19 105.45,-251.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-183.53C103,-175.84 103,-167.45 103,-159.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-159.23 103,-152.23 100.55,-159.23 105.45,-159.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-91.53C103,-83.84 103,-75.45 103,-67.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-67.23 103,-60.23 100.55,-67.23 105.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181,-316C181,-316 25,-316 25,-316 19,-316 13,-310 13,-304 13,-304 13,-288 13,-288 13,-282 19,-276 25,-276 25,-276 181,-276 181,-276 187,-276 193,-282 193,-288 193,-288 193,-304 193,-304 193,-310 187,-316 181,-316" />
+<text text-anchor="middle" x="103" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Weak Self-Concept</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M194,-244C194,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 194,-184 194,-184 200,-184 206,-190 206,-196 206,-196 206,-232 206,-232 206,-238 200,-244 194,-244" />
+<text text-anchor="middle" x="103" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reminder of Past Acts</text>
+<text text-anchor="middle" x="103" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">of Generosity</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159,-152C159,-152 47,-152 47,-152 41,-152 35,-146 35,-140 35,-140 35,-104 35,-104 35,-98 41,-92 47,-92 47,-92 159,-92 159,-92 165,-92 171,-98 171,-104 171,-104 171,-140 171,-140 171,-146 165,-152 159,-152" />
+<text text-anchor="middle" x="103" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengthened</text>
+<text text-anchor="middle" x="103" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Concept</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M189.5,-60C189.5,-60 16.5,-60 16.5,-60 10.5,-60 4.5,-54 4.5,-48 4.5,-48 4.5,-12 4.5,-12 4.5,-6 10.5,0 16.5,0 16.5,0 189.5,0 189.5,0 195.5,0 201.5,-6 201.5,-12 201.5,-12 201.5,-48 201.5,-48 201.5,-54 195.5,-60 189.5,-60" />
+<text text-anchor="middle" x="103" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Likelihood</text>
+<text text-anchor="middle" x="103" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">of Donation</text>
+</g>
+</g>
+</svg>

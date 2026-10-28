@@ -14,11 +14,7 @@ Ben Horowitz's "What You Do Is Who You Are" isn't just a business book; it's a g
 
 Horowitz emphasizes that a strong company culture is not a luxury but a necessity for survival and success.  It's the glue that holds a team together during difficult times and propels them towards achieving ambitious goals.  He argues that culture is defined by the actions of the leadership team, not by slogans or mission statements. What leaders *do* shapes the culture more than what they *say*.
 
-```mermaid
-graph LR
-A[Leadership Actions] --> B(Company Culture);
-C[Mission Statements/Slogans] -.-> B;
-```
+![The Importance of Culture. Leadership Actions; Company Culture; Mission Statements/Slogans.](diagram-01.svg)
 
 ### Hiring: Finding the Right People
 
@@ -52,12 +48,7 @@ Horowitz acknowledges that failure is an inevitable part of the journey. He enco
 
 The book delves into the complexities of making difficult decisions, often involving trade-offs and ethical considerations.  Horowitz emphasizes the importance of considering all relevant factors, gathering sufficient data, and engaging in thoughtful deliberation before making a final choice.  He advises against avoiding difficult decisions, even if they are unpleasant.
 
-```mermaid
-graph LR
-A[Gather Data] --> B(Consider Factors);
-B --> C[Thoughtful Deliberation];
-C --> D(Decision Making);
-```
+![Dealing with Difficult Decisions. Gather Data; Consider Factors; Thoughtful Deliberation; Decision Making.](diagram-02.svg)
 
 ### Maintaining a Long-Term Perspective
 

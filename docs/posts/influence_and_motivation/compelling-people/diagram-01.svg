@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="547pt" height="148pt" viewBox="0.00 0.00 547.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Presence: Commanding Attention</title><desc id="description">Posture &amp; Movement leads to Presence. Eye Contact leads to Presence. Vocal Delivery leads to Presence.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 529,-130 529,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148.51,-71.87C172.11,-62.84 200.38,-52.03 224.78,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.89,-44.89 231.55,-40.1 224.14,-40.32 225.89,-44.89" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M281.5,-71.87C281.5,-64.31 281.5,-55.49 281.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="283.95,-47.1 281.5,-40.1 279.05,-47.1 283.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M395.6,-71.87C375.61,-62.96 351.71,-52.31 330.97,-43.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="331.74,-40.72 324.35,-40.1 329.74,-45.19 331.74,-40.72" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-112C185,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 185,-72 185,-72 191,-72 197,-78 197,-84 197,-84 197,-100 197,-100 197,-106 191,-112 185,-112" />
+<text text-anchor="middle" x="98.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Posture &amp; Movement</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M320,-40C320,-40 243,-40 243,-40 237,-40 231,-34 231,-28 231,-28 231,-12 231,-12 231,-6 237,0 243,0 243,0 320,0 320,0 326,0 332,-6 332,-12 332,-12 332,-28 332,-28 332,-34 326,-40 320,-40" />
+<text text-anchor="middle" x="281.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Presence</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M331.5,-112C331.5,-112 231.5,-112 231.5,-112 225.5,-112 219.5,-106 219.5,-100 219.5,-100 219.5,-84 219.5,-84 219.5,-78 225.5,-72 231.5,-72 231.5,-72 331.5,-72 331.5,-72 337.5,-72 343.5,-78 343.5,-84 343.5,-84 343.5,-100 343.5,-100 343.5,-106 337.5,-112 331.5,-112" />
+<text text-anchor="middle" x="281.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eye Contact</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M499,-112C499,-112 378,-112 378,-112 372,-112 366,-106 366,-100 366,-100 366,-84 366,-84 366,-78 372,-72 378,-72 378,-72 499,-72 499,-72 505,-72 511,-78 511,-84 511,-84 511,-100 511,-100 511,-106 505,-112 499,-112" />
+<text text-anchor="middle" x="438.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vocal Delivery</text>
+</g>
+</g>
+</svg>

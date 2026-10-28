@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="378pt" height="496pt" viewBox="0.00 0.00 378.00 496.00" role="img" aria-labelledby="title description">
+<title id="title">Overcoming Emotional Trauma</title><desc id="description">Trauma leads to Suppressed Emotions. Suppressed Emotions leads to Negative Coping Mechanisms. Negative Coping Mechanisms leads to Professional Help. Professional Help leads to Emotional Processing. Emotional Processing leads to Healing &amp; Growth.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 478)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-478 360,-478 360,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-419.87C171,-412.31 171,-403.49 171,-395.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-395.1 171,-388.1 168.55,-395.1 173.45,-395.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-347.63C171,-340.34 171,-331.78 171,-323.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-323.19 171,-316.19 168.55,-323.19 173.45,-323.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-255.81C171,-248.06 171,-239.5 171,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-231.09 171,-224.09 168.55,-231.09 173.45,-231.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-143.79C171,-135.54 171,-127.04 171,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-119.09 171,-112.09 168.55,-119.09 173.45,-119.09" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171,-71.87C171,-64.31 171,-55.49 171,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="173.45,-47.1 171,-40.1 168.55,-47.1 173.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M205,-460C205,-460 137,-460 137,-460 131,-460 125,-454 125,-448 125,-448 125,-432 125,-432 125,-426 131,-420 137,-420 137,-420 205,-420 205,-420 211,-420 217,-426 217,-432 217,-432 217,-448 217,-448 217,-454 211,-460 205,-460" />
+<text text-anchor="middle" x="171" y="-435.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trauma</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M260,-388C260,-388 82,-388 82,-388 76,-388 70,-382 70,-376 70,-376 70,-360 70,-360 70,-354 76,-348 82,-348 82,-348 260,-348 260,-348 266,-348 272,-354 272,-360 272,-360 272,-376 272,-376 272,-382 266,-388 260,-388" />
+<text text-anchor="middle" x="171" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suppressed Emotions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M238.5,-316C238.5,-316 103.5,-316 103.5,-316 97.5,-316 91.5,-310 91.5,-304 91.5,-304 91.5,-268 91.5,-268 91.5,-262 97.5,-256 103.5,-256 103.5,-256 238.5,-256 238.5,-256 244.5,-256 250.5,-262 250.5,-268 250.5,-268 250.5,-304 250.5,-304 250.5,-310 244.5,-316 238.5,-316" />
+<text text-anchor="middle" x="171" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Coping</text>
+<text text-anchor="middle" x="171" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mechanisms</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="171,-224 0,-184 171,-144 342,-184 171,-224" />
+<text text-anchor="middle" x="171" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Professional Help</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M260,-112C260,-112 82,-112 82,-112 76,-112 70,-106 70,-100 70,-100 70,-84 70,-84 70,-78 76,-72 82,-72 82,-72 260,-72 260,-72 266,-72 272,-78 272,-84 272,-84 272,-100 272,-100 272,-106 266,-112 260,-112" />
+<text text-anchor="middle" x="171" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Processing</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M245.5,-40C245.5,-40 96.5,-40 96.5,-40 90.5,-40 84.5,-34 84.5,-28 84.5,-28 84.5,-12 84.5,-12 84.5,-6 90.5,0 96.5,0 96.5,0 245.5,0 245.5,0 251.5,0 257.5,-6 257.5,-12 257.5,-12 257.5,-28 257.5,-28 257.5,-34 251.5,-40 245.5,-40" />
+<text text-anchor="middle" x="171" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healing &amp; Growth</text>
+</g>
+</g>
+</svg>

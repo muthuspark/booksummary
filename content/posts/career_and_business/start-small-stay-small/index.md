@@ -19,13 +19,7 @@ Walling dismantles the pervasive myth that "bigger is better." He argues that sc
 
 A critical element of the "Start Small, Stay Small" strategy is identifying a specific niche.  This allows for focused marketing, deeper customer relationships, and reduced competition.  Walling emphasizes the importance of understanding your ideal customer: their needs, pain points, and purchasing behavior.  This understanding informs every aspect of the business, from product development to marketing and customer service.
 
-```mermaid
-graph LR
-    A[Understand Customer Needs] --> B(Develop Targeted Product);
-    B --> C[Effective Marketing];
-    C --> D(Strong Customer Relationships);
-    D --> E[Sustainable Business];
-```
+![Defining Your Niche: Finding Your Sweet Spot. Understand Customer Needs; Develop Targeted Product; Effective Marketing; Strong Customer Relationships; Sustainable Business.](diagram-01.svg)
 
 ## Building a Minimum Viable Product (MVP): Iterative Development
 
@@ -36,15 +30,7 @@ Walling advocates for the agile development methodology, particularly emphasizin
 Marketing in a small business context differs from large-scale campaigns. Walling champions lean marketing strategies focusing on direct engagement with the target audience. This involves building a strong online presence, leveraging social media effectively, and fostering a loyal customer base through exceptional service. Content marketing, email marketing, and targeted advertising are presented as cost-effective options.
 
 
-```mermaid
-graph LR
-    A[Build Online Presence] --> B(Content Marketing);
-    A --> C(Social Media Marketing);
-    B --> D(Email Marketing);
-    C --> D;
-    D --> E[Customer Loyalty];
-    E --> F(Sustainable Growth);
-```
+![Marketing and Sales: Reaching Your Ideal Customer. Build Online Presence; Content Marketing; Social Media Marketing; Email Marketing; Customer Loyalty; Sustainable Growth.](diagram-02.svg)
 
 
 ## Pricing Strategies: Profitability Over Volume
@@ -63,14 +49,7 @@ Unlike large corporations, small businesses can build genuine, long-term relatio
 
 The book strongly emphasizes the importance of work-life balance, an element often overlooked in the pursuit of entrepreneurial success.  Walling stresses the need for setting boundaries, prioritizing personal well-being, and avoiding burnout.  He argues that a sustainable business model must consider the well-being of the entrepreneur to be truly successful.  This translates into better decision-making, increased productivity, and long-term business viability.
 
-```mermaid
-graph LR
-    A[Set Boundaries] --> B(Prioritize Well-being);
-    B --> C(Avoid Burnout);
-    C --> D(Better Decision-Making);
-    D --> E(Increased Productivity);
-    E --> F(Long-Term Sustainability);
-```
+![Maintaining Work-Life Balance: Avoiding Burnout. Set Boundaries; Prioritize Well-being; Avoid Burnout; Better Decision-Making; Increased Productivity; Long-Term Sustainability.](diagram-03.svg)
 
 ## Long-Term Vision: Sustainable Growth and Profitability
 

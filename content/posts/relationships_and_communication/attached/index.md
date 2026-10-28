@@ -14,13 +14,7 @@ Attached: The New Science of Adult Attachment and How It Can Help You Find—and
 
 The book identifies four primary attachment styles: Secure, Anxious-Preoccupied, Dismissive-Avoidant, and Fearful-Avoidant.  These styles are not rigid categories but rather represent a spectrum, with individuals exhibiting characteristics of multiple styles to varying degrees.
 
-```mermaid
-graph LR
-    A[Secure] --> B(Balanced Approach);
-    C[Anxious-Preoccupied] --> D(High Need for Closeness);
-    E[Dismissive-Avoidant] --> F(Need for Independence);
-    G[Fearful-Avoidant] --> H(Mixed Signals);
-```
+![The Four Attachment Styles: A Quick Overview. Secure; Balanced Approach; Anxious-Preoccupied; High Need for Closeness; Dismissive-Avoidant; Need for Independence; Fearful-Avoidant; Mixed Signals.](diagram-01.svg)
 
 * **Secure:** Secure individuals feel comfortable with intimacy and independence, balancing their own needs with those of their partners. They are generally trusting and confident in relationships.
 

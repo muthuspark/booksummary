@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="804pt" height="464pt" viewBox="0.00 0.00 804.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Unique Productivity Profile</title><desc id="description">Self-Assessment leads to Understand Strengths &amp; Weaknesses. Understand Strengths &amp; Weaknesses leads to Identify Peak Performance Times. Understand Strengths &amp; Weaknesses leads to Recognize Common Distractions. Identify Peak Performance Times leads to Optimize Schedule. Recognize Common Distractions leads to Minimize Distractions. Optimize Schedule leads to Increased Productivity. Minimize Distractions leads to Increased Productivity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 786,-446 786,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M382,-387.63C382,-380.34 382,-371.78 382,-363.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="384.45,-363.19 382,-356.19 379.55,-363.19 384.45,-363.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M334.31,-295.95C310.38,-281.37 280.94,-263.44 254.54,-247.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.51,-245.08 248.26,-243.53 252.96,-249.27 255.51,-245.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M429.93,-295.95C453.88,-281.44 483.31,-263.6 509.75,-247.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="511.33,-249.48 516.05,-243.76 508.79,-245.29 511.33,-249.48" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M206.31,-150.9C210.88,-139.73 215.52,-128.4 219.46,-118.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.82,-119.47 222.2,-112.06 217.28,-117.61 221.82,-119.47" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M558.21,-150.9C553.54,-139.73 548.8,-128.4 544.77,-118.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="546.93,-117.57 541.97,-112.06 542.41,-119.46 546.93,-117.57" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M271.53,-71.87C290.89,-62.96 314.02,-52.31 334.11,-43.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="335.18,-45.26 340.52,-40.1 333.13,-40.81 335.18,-45.26" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M492.47,-71.87C473.11,-62.96 449.98,-52.31 429.89,-43.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="430.87,-40.81 423.48,-40.1 428.82,-45.26 430.87,-40.81" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M449,-428C449,-428 315,-428 315,-428 309,-428 303,-422 303,-416 303,-416 303,-400 303,-400 303,-394 309,-388 315,-388 315,-388 449,-388 449,-388 455,-388 461,-394 461,-400 461,-400 461,-416 461,-416 461,-422 455,-428 449,-428" />
+<text text-anchor="middle" x="382" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M480.5,-356C480.5,-356 283.5,-356 283.5,-356 277.5,-356 271.5,-350 271.5,-344 271.5,-344 271.5,-308 271.5,-308 271.5,-302 277.5,-296 283.5,-296 283.5,-296 480.5,-296 480.5,-296 486.5,-296 492.5,-302 492.5,-308 492.5,-308 492.5,-344 492.5,-344 492.5,-350 486.5,-356 480.5,-356" />
+<text text-anchor="middle" x="382" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand Strengths &amp;</text>
+<text text-anchor="middle" x="382" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Weaknesses</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-264 0,-204 185,-144 370,-204 185,-264" />
+<text text-anchor="middle" x="185" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Peak</text>
+<text text-anchor="middle" x="185" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance Times</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="580,-264 392,-204 580,-144 768,-204 580,-264" />
+<text text-anchor="middle" x="580" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognize Common</text>
+<text text-anchor="middle" x="580" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Distractions</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M307.5,-112C307.5,-112 152.5,-112 152.5,-112 146.5,-112 140.5,-106 140.5,-100 140.5,-100 140.5,-84 140.5,-84 140.5,-78 146.5,-72 152.5,-72 152.5,-72 307.5,-72 307.5,-72 313.5,-72 319.5,-78 319.5,-84 319.5,-84 319.5,-100 319.5,-100 319.5,-106 313.5,-112 307.5,-112" />
+<text text-anchor="middle" x="230" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Optimize Schedule</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M624.5,-112C624.5,-112 443.5,-112 443.5,-112 437.5,-112 431.5,-106 431.5,-100 431.5,-100 431.5,-84 431.5,-84 431.5,-78 437.5,-72 443.5,-72 443.5,-72 624.5,-72 624.5,-72 630.5,-72 636.5,-78 636.5,-84 636.5,-84 636.5,-100 636.5,-100 636.5,-106 630.5,-112 624.5,-112" />
+<text text-anchor="middle" x="534" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Minimize Distractions</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M474.5,-40C474.5,-40 289.5,-40 289.5,-40 283.5,-40 277.5,-34 277.5,-28 277.5,-28 277.5,-12 277.5,-12 277.5,-6 283.5,0 289.5,0 289.5,0 474.5,0 474.5,0 480.5,0 486.5,-6 486.5,-12 486.5,-12 486.5,-28 486.5,-28 486.5,-34 480.5,-40 474.5,-40" />
+<text text-anchor="middle" x="382" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Productivity</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430pt" height="260pt" viewBox="0.00 0.00 429.50 260.00" role="img" aria-labelledby="title description">
+<title id="title">Tackling Debt: A Strategic Approach</title><desc id="description">High-Interest Debt leads to Aggressive Payment. Low-Interest Debt leads to Minimum Payment. Aggressive Payment leads to Debt Free!. Minimum Payment leads to Debt Free!.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 411.5,-242 411.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94,-183.87C94,-176.31 94,-167.49 94,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.45,-159.1 94,-152.1 91.55,-159.1 96.45,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.06,-111.91C128.91,-100.79 145.46,-86.47 160.32,-73.61" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.02,-75.38 165.71,-68.94 158.81,-71.67 162.02,-75.38" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M302,-183.87C302,-176.31 302,-167.49 302,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="304.45,-159.1 302,-152.1 299.55,-159.1 304.45,-159.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M279.94,-111.91C267.09,-100.79 250.54,-86.47 235.68,-73.61" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237.19,-71.67 230.29,-68.94 233.98,-75.38 237.19,-71.67" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M172,-224C172,-224 16,-224 16,-224 10,-224 4,-218 4,-212 4,-212 4,-196 4,-196 4,-190 10,-184 16,-184 16,-184 172,-184 172,-184 178,-184 184,-190 184,-196 184,-196 184,-212 184,-212 184,-218 178,-224 172,-224" />
+<text text-anchor="middle" x="94" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Interest Debt</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-152C176,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 176,-112 176,-112 182,-112 188,-118 188,-124 188,-124 188,-140 188,-140 188,-146 182,-152 176,-152" />
+<text text-anchor="middle" x="94" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aggressive Payment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M377,-224C377,-224 227,-224 227,-224 221,-224 215,-218 215,-212 215,-212 215,-196 215,-196 215,-190 221,-184 227,-184 227,-184 377,-184 377,-184 383,-184 389,-190 389,-196 389,-196 389,-212 389,-212 389,-218 383,-224 377,-224" />
+<text text-anchor="middle" x="302" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low-Interest Debt</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M381.5,-152C381.5,-152 222.5,-152 222.5,-152 216.5,-152 210.5,-146 210.5,-140 210.5,-140 210.5,-124 210.5,-124 210.5,-118 216.5,-112 222.5,-112 222.5,-112 381.5,-112 381.5,-112 387.5,-112 393.5,-118 393.5,-124 393.5,-124 393.5,-140 393.5,-140 393.5,-146 387.5,-152 381.5,-152" />
+<text text-anchor="middle" x="302" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Minimum Payment</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="198,-80 85,-40 198,0 311,-40 198,-80" />
+<text text-anchor="middle" x="198" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Free!</text>
+</g>
+</g>
+</svg>

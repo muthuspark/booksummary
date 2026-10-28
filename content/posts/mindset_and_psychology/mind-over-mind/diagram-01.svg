@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430pt" height="300pt" viewBox="0.00 0.00 430.00 300.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying and Addressing Limiting Beliefs</title><desc id="description">Past Experiences leads to Limiting Beliefs. Learned Behaviors leads to Limiting Beliefs. Limiting Beliefs leads to Hindered Progress &amp; Potential.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 282)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-282 412,-282 412,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M126.51,-223.87C138.27,-215.38 152.22,-205.32 164.59,-196.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="166.28,-198.19 170.53,-192.1 163.42,-194.21 166.28,-198.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197,-151.84C197,-144.75 197,-136.25 197,-127.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.45,-127.12 197,-120.12 194.55,-127.12 199.45,-127.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M267.49,-223.87C255.73,-215.38 241.78,-205.32 229.41,-196.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="230.58,-194.21 223.47,-192.1 227.72,-198.19 230.58,-194.21" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-264C170,-264 30,-264 30,-264 24,-264 18,-258 18,-252 18,-252 18,-236 18,-236 18,-230 24,-224 30,-224 30,-224 170,-224 170,-224 176,-224 182,-230 182,-236 182,-236 182,-252 182,-252 182,-258 176,-264 170,-264" />
+<text text-anchor="middle" x="100" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Past Experiences</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262.5,-192C262.5,-192 131.5,-192 131.5,-192 125.5,-192 119.5,-186 119.5,-180 119.5,-180 119.5,-164 119.5,-164 119.5,-158 125.5,-152 131.5,-152 131.5,-152 262.5,-152 262.5,-152 268.5,-152 274.5,-158 274.5,-164 274.5,-164 274.5,-180 274.5,-180 274.5,-186 268.5,-192 262.5,-192" />
+<text text-anchor="middle" x="197" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limiting Beliefs</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M371.5,-264C371.5,-264 216.5,-264 216.5,-264 210.5,-264 204.5,-258 204.5,-252 204.5,-252 204.5,-236 204.5,-236 204.5,-230 210.5,-224 216.5,-224 216.5,-224 371.5,-224 371.5,-224 377.5,-224 383.5,-230 383.5,-236 383.5,-236 383.5,-252 383.5,-252 383.5,-258 377.5,-264 371.5,-264" />
+<text text-anchor="middle" x="294" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learned Behaviors</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="197,-120 0,-60 197,0 394,-60 197,-120" />
+<text text-anchor="middle" x="197" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hindered Progress &amp;</text>
+<text text-anchor="middle" x="197" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Potential</text>
+</g>
+</g>
+</svg>

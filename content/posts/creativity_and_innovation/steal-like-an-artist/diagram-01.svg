@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="545pt" height="200pt" viewBox="0.00 0.00 545.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Show Your Work</title><desc id="description">Create leads to Share. Share leads to Improve (Feedback). Share leads to Community (Connections). Share leads to Growth (Opportunities).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 527,-182 527,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M80.24,-82C88.25,-82 96.95,-82 105.8,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.92,-84.45 112.92,-82 105.92,-79.55 105.92,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M238.34,-94.55C250.96,-97.66 264.47,-100.98 277,-104 315.52,-113.29 359.02,-123.52 392.38,-131.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="391.96,-133.73 399.34,-132.94 393.08,-128.96 391.96,-133.73" />
+<text text-anchor="middle" x="324" y="-130" font-family="Georgia" font-size="15.00" fill="#405b50">Feedback</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M261.18,-82C298.34,-82 343.19,-82 379.52,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="379.66,-84.45 386.66,-82 379.66,-79.55 379.66,-84.45" />
+<text text-anchor="middle" x="324" y="-87" font-family="Georgia" font-size="15.00" fill="#405b50">Connections</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M238.34,-69.45C250.96,-66.34 264.47,-63.02 277,-60 317.04,-50.34 362.45,-39.67 396.26,-31.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="397.03,-34.12 403.29,-30.14 395.92,-29.35 397.03,-34.12" />
+<text text-anchor="middle" x="324" y="-65" font-family="Georgia" font-size="15.00" fill="#405b50">Opportunities</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M68,-102C68,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 68,-62 68,-62 74,-62 80,-68 80,-74 80,-74 80,-90 80,-90 80,-96 74,-102 68,-102" />
+<text text-anchor="middle" x="40" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Create</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="187,-122 113,-82 187,-42 261,-82 187,-122" />
+<text text-anchor="middle" x="187" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Share</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M484.5,-164C484.5,-164 411.5,-164 411.5,-164 405.5,-164 399.5,-158 399.5,-152 399.5,-152 399.5,-136 399.5,-136 399.5,-130 405.5,-124 411.5,-124 411.5,-124 484.5,-124 484.5,-124 490.5,-124 496.5,-130 496.5,-136 496.5,-136 496.5,-152 496.5,-152 496.5,-158 490.5,-164 484.5,-164" />
+<text text-anchor="middle" x="448" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improve</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M497,-102C497,-102 399,-102 399,-102 393,-102 387,-96 387,-90 387,-90 387,-74 387,-74 387,-68 393,-62 399,-62 399,-62 497,-62 497,-62 503,-62 509,-68 509,-74 509,-74 509,-90 509,-90 509,-96 503,-102 497,-102" />
+<text text-anchor="middle" x="448" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Community</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M480.5,-40C480.5,-40 415.5,-40 415.5,-40 409.5,-40 403.5,-34 403.5,-28 403.5,-28 403.5,-12 403.5,-12 403.5,-6 409.5,0 415.5,0 415.5,0 480.5,0 480.5,0 486.5,0 492.5,-6 492.5,-12 492.5,-12 492.5,-28 492.5,-28 492.5,-34 486.5,-40 480.5,-40" />
+<text text-anchor="middle" x="448" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth</text>
+</g>
+</g>
+</svg>

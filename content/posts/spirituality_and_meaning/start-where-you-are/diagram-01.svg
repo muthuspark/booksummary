@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444pt" height="332pt" viewBox="0.00 0.00 443.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Nature of Reality: Impermanence and Unsatisfactoriness</title><desc id="description">Impermanence (Anicca) leads to Change is Constant. Impermanence (Anicca) leads to Nothing Lasts Forever. Change is Constant leads to Acceptance. Nothing Lasts Forever leads to Acceptance. Acceptance leads to Inner Peace.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 425.5,-314 425.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.76,-255.87C154.67,-247.31 139.12,-237.13 125.37,-228.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.4,-225.89 119.2,-224.1 123.72,-229.99 126.4,-225.89" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M226.51,-255.87C239.73,-247.31 255.42,-237.13 269.3,-228.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="270.98,-229.97 275.52,-224.1 268.32,-225.86 270.98,-229.97" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M112.69,-183.91C125.91,-172.79 142.94,-158.47 158.23,-145.61" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="160,-147.33 163.78,-140.94 156.84,-143.58 160,-147.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M282.1,-183.91C268.75,-172.79 251.56,-158.47 236.13,-145.61" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237.48,-143.54 230.53,-140.94 234.34,-147.31 237.48,-143.54" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197,-71.79C197,-63.54 197,-55.04 197,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.45,-47.09 197,-40.09 194.55,-47.09 199.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M295.5,-296C295.5,-296 98.5,-296 98.5,-296 92.5,-296 86.5,-290 86.5,-284 86.5,-284 86.5,-268 86.5,-268 86.5,-262 92.5,-256 98.5,-256 98.5,-256 295.5,-256 295.5,-256 301.5,-256 307.5,-262 307.5,-268 307.5,-268 307.5,-284 307.5,-284 307.5,-290 301.5,-296 295.5,-296" />
+<text text-anchor="middle" x="197" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impermanence (Anicca)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-224C168,-224 12,-224 12,-224 6,-224 0,-218 0,-212 0,-212 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 168,-184 168,-184 174,-184 180,-190 180,-196 180,-196 180,-212 180,-212 180,-218 174,-224 168,-224" />
+<text text-anchor="middle" x="90" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Change is Constant</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M395.5,-224C395.5,-224 214.5,-224 214.5,-224 208.5,-224 202.5,-218 202.5,-212 202.5,-212 202.5,-196 202.5,-196 202.5,-190 208.5,-184 214.5,-184 214.5,-184 395.5,-184 395.5,-184 401.5,-184 407.5,-190 407.5,-196 407.5,-196 407.5,-212 407.5,-212 407.5,-218 401.5,-224 395.5,-224" />
+<text text-anchor="middle" x="305" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nothing Lasts Forever</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="197,-152 78,-112 197,-72 316,-112 197,-152" />
+<text text-anchor="middle" x="197" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M247,-40C247,-40 147,-40 147,-40 141,-40 135,-34 135,-28 135,-28 135,-12 135,-12 135,-6 141,0 147,0 147,0 247,0 247,0 253,0 259,-6 259,-12 259,-12 259,-28 259,-28 259,-34 253,-40 247,-40" />
+<text text-anchor="middle" x="197" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Peace</text>
+</g>
+</g>
+</svg>

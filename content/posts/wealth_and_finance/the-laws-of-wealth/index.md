@@ -14,13 +14,7 @@ Daniel Crosby's "The Laws of Wealth" isn't just a finance book; it's a self-help
 
 Effective financial planning is paramount. Crosby emphasizes the importance of setting clear, measurable, achievable, relevant, and time-bound (SMART) goals. This isn't just about accumulating wealth; it's about aligning your finances with your life's aspirations. Budgeting is another critical element. He advocates for a detailed budget that tracks income and expenses, allowing for conscious spending decisions and progress toward financial goals. Without a plan, you're adrift in a sea of financial uncertainty.
 
-```mermaid
-graph LR
-A[Set SMART Goals] --> B(Create Detailed Budget);
-B --> C{Track Progress};
-C --> D[Adjust as Needed];
-D --> E(Achieve Financial Goals);
-```
+![The Power of Planning: Goal Setting and Budgeting. Set SMART Goals; Create Detailed Budget; Track Progress; Adjust as Needed; Achieve Financial Goals.](diagram-01.svg)
 
 ## Emotional Intelligence and Financial Decisions
 
@@ -34,14 +28,7 @@ While self-education is important, Crosby doesn't advocate for a purely DIY appr
 
 Understanding your risk tolerance is a foundational aspect of wealth building.  Crosby emphasizes the importance of aligning your investment strategy with your comfort level with risk.  He advocates for a well-diversified portfolio, balancing different asset classes to mitigate risk and optimize returns.  A balanced approach minimizes the impact of any single investment's underperformance.
 
-```mermaid
-graph LR
-A[Risk Assessment] --> B(Determine Risk Tolerance);
-B --> C[Asset Allocation Strategy];
-C --> D{Diversification};
-D --> E(Portfolio Construction);
-E --> F[Regular Monitoring & Adjustment];
-```
+![Risk Tolerance and Asset Allocation. Risk Assessment; Determine Risk Tolerance; Asset Allocation Strategy; Diversification; Portfolio Construction; Regular Monitoring & Adjustment.](diagram-02.svg)
 
 ## The Role of Long-Term Investing
 

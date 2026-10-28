@@ -21,11 +21,7 @@ This section forms the bedrock of Carnegie's philosophy. Criticism, condemnation
 
 Instead, Carnegie advocates for a gentler approach: understanding the other person's perspective, acknowledging their feelings, and offering constructive feedback when necessary.  This approach promotes collaboration and mutual respect.
 
-```mermaid
-graph LR
-A[Criticism/Condemnation/Complaint] --> B(Defensiveness & Resentment);
-C[Understanding & Empathy] --> D(Collaboration & Mutual Respect);
-```
+![Don't Criticize, Condemn, or Complain. Criticism/Condemnation/Complaint; Defensiveness & Resentment; Understanding & Empathy; Collaboration & Mutual Respect.](diagram-01.svg)
 
 
 # Give Honest and Sincere Appreciation
@@ -34,12 +30,7 @@ Human beings crave appreciation. Recognizing and acknowledging the efforts and c
 
 Giving sincere appreciation boosts morale, strengthens bonds, and motivates individuals to perform better. The impact is far-reaching, affecting not only the recipient but also the giver, who experiences the positive effects of demonstrating kindness and gratitude.
 
-```mermaid
-graph LR
-A[Sincere Appreciation] --> B(Increased Morale);
-A --> C(Stronger Bonds);
-A --> D(Increased Motivation);
-```
+![Give Honest and Sincere Appreciation. Sincere Appreciation; Increased Morale; Stronger Bonds; Increased Motivation.](diagram-02.svg)
 
 # Arouse in the Other Person an Eager Want
 
@@ -47,12 +38,7 @@ This section tackles the art of persuasion. Instead of directly demanding or imp
 
 This approach is far more effective than coercion or manipulation. It fosters cooperation and strengthens relationships by making the other person feel valued and respected. It relies heavily on understanding and anticipating needs.
 
-```mermaid
-graph LR
-A[Understanding Needs & Desires] --> B(Framing Requests);
-B --> C[Arousing Eager Want];
-C --> D(Cooperation & Strengthened Relationships);
-```
+![Arouse in the Other Person an Eager Want. Understanding Needs & Desires; Framing Requests; Arousing Eager Want; Cooperation & Strengthened Relationships.](diagram-03.svg)
 
 
 # Become a Good Listener. Encourage Others to Talk About Themselves
@@ -61,12 +47,7 @@ People are inherently self-centered.  They are deeply interested in themselves a
 
 This approach makes others feel valued and understood, providing insight into their perspectives, motivations, and concerns. This active listening is essential for effective communication and building lasting relationships.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Building Rapport);
-A --> C(Establishing Trust);
-A --> D(Understanding Perspectives);
-```
+![Become a Good Listener. Encourage Others to Talk About Themselves. Active Listening; Building Rapport; Establishing Trust; Understanding Perspectives.](diagram-04.svg)
 
 
 # Talk in Terms of the Other Person's Interests
@@ -75,12 +56,7 @@ This strategy emphasizes focusing on the other person's needs and interests rath
 
 This method transforms interactions from transactional to relational.  It's about building genuine connections and fostering mutual respect, resulting in far more positive and productive outcomes.
 
-```mermaid
-graph LR
-A[Understanding Other's Interests] --> B(Tailored Communication);
-B --> C(Stronger Connection);
-C --> D(Mutual Respect);
-```
+![Talk in Terms of the Other Person's Interests. Understanding Other's Interests; Tailored Communication; Stronger Connection; Mutual Respect.](diagram-05.svg)
 
 
 

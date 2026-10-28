@@ -27,16 +27,7 @@ The core message of "Emotional Freedom" revolves around developing emotional res
 The book provides practical techniques for emotional regulation.  These range from mindfulness practices, such as meditation and deep breathing exercises, to more active strategies like journaling and engaging in creative expression.  Orloff details the benefits of physical activity, healthy nutrition, and adequate sleep for emotional stability.
 
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Understanding Emotional Style);
-    B --> C{Emotional Regulation Techniques};
-    C --> D[Resilience & Self-Compassion];
-    D --> E(Improved Emotional Well-being);
-    C --> F[Mindfulness Practices];
-    C --> G[Creative Expression];
-    C --> H[Physical Well-being];
-```
+![Techniques for Emotional Regulation. Self-Awareness; Understanding Emotional Style; Emotional Regulation Techniques; Resilience & Self-Compassion; Improved Emotional Well-being; Mindfulness Practices; Creative Expression; Physical Well-being.](diagram-01.svg)
 
 # The Power of Boundaries
 
@@ -60,14 +51,7 @@ Creative expression is presented as a powerful tool for processing emotions. Whe
 Orloff addresses the impact of past trauma on emotional well-being. She suggests that unresolved trauma can manifest in various ways, influencing present-day emotional responses and relationships.  The book advocates for seeking professional support when necessary, emphasizing the importance of therapy in processing traumatic experiences and developing healthy coping mechanisms.
 
 
-```mermaid
-graph LR
-    A[Trauma] --> B(Suppressed Emotions);
-    B --> C[Negative Coping Mechanisms];
-    C --> D{Professional Help};
-    D --> E[Emotional Processing];
-    E --> F(Healing & Growth);
-```
+![Overcoming Emotional Trauma. Trauma; Suppressed Emotions; Negative Coping Mechanisms; Professional Help; Emotional Processing; Healing & Growth.](diagram-02.svg)
 
 # Cultivating Meaning and Purpose
 

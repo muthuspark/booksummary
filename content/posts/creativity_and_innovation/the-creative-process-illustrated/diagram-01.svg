@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370pt" height="404pt" viewBox="0.00 0.00 370.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Preparation</title><desc id="description">Define Problem/Goal leads to Gather Information. Gather Information leads to Brainstorm Ideas. Brainstorm Ideas leads to Research &amp; Exploration. Research &amp; Exploration leads to Develop Understanding.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 352,-386 352,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167,-327.87C167,-320.31 167,-311.49 167,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.45,-303.1 167,-296.1 164.55,-303.1 169.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167,-255.91C167,-248.58 167,-239.86 167,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.45,-231.07 167,-224.07 164.55,-231.07 169.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167,-143.79C167,-135.54 167,-127.04 167,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.45,-119.09 167,-112.09 164.55,-119.09 169.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167,-71.87C167,-64.31 167,-55.49 167,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.45,-47.1 167,-40.1 164.55,-47.1 169.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M255,-368C255,-368 79,-368 79,-368 73,-368 67,-362 67,-356 67,-356 67,-340 67,-340 67,-334 73,-328 79,-328 79,-328 255,-328 255,-328 261,-328 267,-334 267,-340 267,-340 267,-356 267,-356 267,-362 261,-368 255,-368" />
+<text text-anchor="middle" x="167" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Problem/Goal</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M247.5,-296C247.5,-296 86.5,-296 86.5,-296 80.5,-296 74.5,-290 74.5,-284 74.5,-284 74.5,-268 74.5,-268 74.5,-262 80.5,-256 86.5,-256 86.5,-256 247.5,-256 247.5,-256 253.5,-256 259.5,-262 259.5,-268 259.5,-268 259.5,-284 259.5,-284 259.5,-290 253.5,-296 247.5,-296" />
+<text text-anchor="middle" x="167" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Information</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="167,-224 0,-184 167,-144 334,-184 167,-224" />
+<text text-anchor="middle" x="167" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brainstorm Ideas</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264,-112C264,-112 70,-112 70,-112 64,-112 58,-106 58,-100 58,-100 58,-84 58,-84 58,-78 64,-72 70,-72 70,-72 264,-72 264,-72 270,-72 276,-78 276,-84 276,-84 276,-100 276,-100 276,-106 270,-112 264,-112" />
+<text text-anchor="middle" x="167" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Research &amp; Exploration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M264,-40C264,-40 70,-40 70,-40 64,-40 58,-34 58,-28 58,-28 58,-12 58,-12 58,-6 64,0 70,0 70,0 264,0 264,0 270,0 276,-6 276,-12 276,-12 276,-28 276,-28 276,-34 270,-40 264,-40" />
+<text text-anchor="middle" x="167" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Understanding</text>
+</g>
+</g>
+</svg>

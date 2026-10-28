@@ -36,19 +36,7 @@ The core of Bredesen's method lies in his 36-factor protocol. This isn't a rigid
 * **Cognitive Stimulation:** Engaging in activities that challenge the brain.
 * **Stress Management:** Implementing effective stress-reduction techniques.
 
-```mermaid
-graph LR
-A[Hormonal Balance] --> B(Reduce Inflammation)
-B --> C{Improved Insulin Sensitivity}
-C --> D(Gut Health Optimization)
-D --> E[Cognitive Stimulation]
-E --> F(Stress Management)
-F --> G[Improved Sleep]
-G --> H(Minimize Toxin Exposure)
-H --> I(Physical Activity)
-I --> J(Nutrient-Rich Diet)
-J --> K[Reverse Cognitive Decline]
-```
+![The 36-Factor Protocol: An Approach. Hormonal Balance; Reduce Inflammation; Improved Insulin Sensitivity; Gut Health Optimization; Cognitive Stimulation; Stress Management; Improved Sleep; Minimize Toxin Exposure; Physical Activity; Nutrient-Rich Diet; Reverse Cognitive Decline.](diagram-01.svg)
 
 
 # Diet and Nutrition: The Cornerstone of the Protocol

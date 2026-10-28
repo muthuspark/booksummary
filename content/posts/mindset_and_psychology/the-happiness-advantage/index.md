@@ -58,15 +58,7 @@ Achor effectively extends his principles to the workplace, emphasizing how a hap
 
 The positive effects cascade:
 
-```mermaid
-graph LR
-    A[Happy Employee] --> B(Increased Productivity);
-    A --> C(Reduced Stress);
-    A --> D(Improved Creativity);
-    B --> E[Increased Profitability];
-    C --> E;
-    D --> E;
-```
+![The Happiness Advantage in the Workplace. Happy Employee; Increased Productivity; Reduced Stress; Improved Creativity; Increased Profitability.](diagram-01.svg)
 
 ##  Measuring Happiness and Progress
 

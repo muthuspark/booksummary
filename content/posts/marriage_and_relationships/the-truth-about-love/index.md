@@ -18,15 +18,7 @@ The book strongly emphasizes the critical role of self-love in achieving healthy
 
 Love introduces the concept of different "love styles," drawing from the work of John Lee. Understanding your own love style, and the love style of your partner, is important for effective communication and conflict resolution. These styles include Eros (romantic love), Ludus (game-playing love), Storge (companionate love), Pragma (practical love), Mania (obsessive love), and Agape (selfless love). Identifying your dominant style, and those of significant others, provides a framework for understanding potential relationship challenges and opportunities for growth.
 
-```mermaid
-graph LR
-    A[Eros: Romantic Love] --> B(Understanding Love Styles)
-    B --> C[Ludus: Game-Playing Love]
-    B --> D[Storge: Companionate Love]
-    B --> E[Pragma: Practical Love]
-    B --> F[Mania: Obsessive Love]
-    B --> G[Agape: Selfless Love]
-```
+![Identifying Your Love Style. Eros: Romantic Love; Understanding Love Styles; Ludus: Game-Playing Love; Storge: Companionate Love; Pragma: Practical Love; Mania: Obsessive Love; Agape: Selfless Love.](diagram-01.svg)
 
 Recognizing these styles allows for proactive management of potential conflicts stemming from incompatible approaches to love and relationships.  For example, a person with a Ludus style might clash with someone exhibiting a Mania style, due to differing expectations regarding commitment and emotional intensity.
 

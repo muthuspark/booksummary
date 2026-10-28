@@ -16,15 +16,7 @@ Clarity, the foundational habit, isn't merely about setting goals; it's about es
 
 Burchard emphasizes the importance of regularly reviewing and refining your vision, ensuring it remains relevant and motivating.  He suggests techniques like journaling, visualization, and affirmative statements to solidify your clarity and reinforce your commitment.
 
-```mermaid
-graph LR
-A[Values] --> B(Purpose);
-B --> C{SMART Goals};
-C --> D[Action Plan];
-D --> E(Results);
-E --> F[Review & Refine];
-F --> B;
-```
+![Clarity: Defining Your Purpose and Goals. Values; Purpose; SMART Goals; Action Plan; Results; Review & Refine.](diagram-01.svg)
 
 ## Energy: Fueling Your Performance
 
@@ -50,15 +42,7 @@ This habit emphasizes the importance of building strong relationships and influe
 
 Burchard discusses strategies for networking, building rapport, and resolving conflicts.  He stresses the importance of empathy, collaboration, and creating win-win scenarios in all interactions.
 
-```mermaid
-graph LR
-A[Communication] --> B(Empathy);
-B --> C{Collaboration};
-C --> D[Networking];
-D --> E(Influence);
-E --> F[Results];
-
-```
+![Influence: Building Relationships and Networking. Communication; Empathy; Collaboration; Networking; Influence; Results.](diagram-02.svg)
 
 ## Courage: Taking Calculated Risks and Overcoming Fear
 

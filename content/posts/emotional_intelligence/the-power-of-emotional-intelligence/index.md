@@ -19,14 +19,7 @@ Emotional intelligence (EQ) isn't about suppressing emotions; it's about underst
 * **Empathy:** Understanding and sharing the feelings of others. This involves perspective-taking and active listening.
 * **Social Skills:** Building and maintaining relationships, communicating effectively, and working collaboratively.
 
-```mermaid
-graph LR
-    A[Emotional Intelligence] --> B(Self-Awareness);
-    A --> C(Self-Regulation);
-    A --> D(Motivation);
-    A --> E(Empathy);
-    A --> F(Social Skills);
-```
+![Understanding Emotional Intelligence. Emotional Intelligence; Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills.](diagram-01.svg)
 
 ## Self-Awareness:  Knowing Yourself
 
@@ -93,13 +86,7 @@ Improving your EQ is an ongoing process that requires consistent effort and self
 * **Continuous Learning:** Read books, attend workshops, or participate in training programs to understand emotional intelligence.
 * **Practice:**  Regularly apply the strategies and techniques described in this summary to develop your emotional intelligence skills.
 
-```mermaid
-graph LR
-    A[Improving EQ] --> B(Self-Reflection);
-    A --> C(Seek Feedback);
-    A --> D(Continuous Learning);
-    A --> E(Practice);
-```
+![Improving Your Emotional Intelligence. Improving EQ; Self-Reflection; Seek Feedback; Continuous Learning; Practice.](diagram-02.svg)
 
 ## The Impact of High EQ
 

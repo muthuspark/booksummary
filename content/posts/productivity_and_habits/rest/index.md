@@ -29,20 +29,7 @@ Pang emphasizes that "rest" isn't a monolithic concept.  He identifies many dist
 The book stresses the importance of intentional, rather than passive, rest.  This means actively planning and scheduling rest periods, just as you would schedule work tasks.  This approach prevents rest from becoming an afterthought, a luxury afforded only when everything else is done.  It's about prioritizing rest as an important part of a balanced life.
 
 
-```mermaid
-graph LR
-    A[Work] --> B(Physical Rest);
-    A --> C(Mental Rest);
-    A --> D(Emotional Rest);
-    A --> E(Creative Rest);
-    A --> F(Social Rest);
-    B --> G(Improved Energy);
-    C --> G;
-    D --> G;
-    E --> G;
-    F --> G;
-    G --> H[Increased Productivity & Well-being];
-```
+![The Importance of Intentional Rest. Work; Physical Rest; Mental Rest; Emotional Rest; Creative Rest; Social Rest; Improved Energy; Increased Productivity & Well-being.](diagram-01.svg)
 
 ### Strategies for Restful Living
 

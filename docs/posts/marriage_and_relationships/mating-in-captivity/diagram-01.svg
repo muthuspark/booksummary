@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="623pt" height="138pt" viewBox="0.00 0.00 623.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Paradox of Desire and Domesticity</title><desc id="description">Desire leads to Mystery &amp; Excitement. Domesticity leads to Security &amp; Stability. Mystery &amp; Excitement leads to Security &amp; Stability (Tension).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 605,-120 605,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M80.05,-82C88.03,-82 96.8,-82 105.92,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-84.45 112.95,-82 105.95,-79.55 105.95,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M319.12,-66.23C345.09,-62.22 372.92,-57.93 398.61,-53.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="399.26,-56.34 405.8,-52.85 398.51,-51.5 399.26,-56.34" />
+<text text-anchor="middle" x="362.5" y="-69" font-family="Georgia" font-size="15.00" fill="#405b50">Tension</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M278.12,-24.17C313.39,-26.58 358.55,-29.66 398.56,-32.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="398.82,-34.86 405.97,-32.89 399.15,-29.97 398.82,-34.86" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M68,-102C68,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 68,-62 68,-62 74,-62 80,-68 80,-74 80,-74 80,-90 80,-90 80,-96 74,-102 68,-102" />
+<text text-anchor="middle" x="40" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Desire</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M307,-102C307,-102 125,-102 125,-102 119,-102 113,-96 113,-90 113,-90 113,-74 113,-74 113,-68 119,-62 125,-62 125,-62 307,-62 307,-62 313,-62 319,-68 319,-74 319,-74 319,-90 319,-90 319,-96 313,-102 307,-102" />
+<text text-anchor="middle" x="216" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mystery &amp; Excitement</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M266,-40C266,-40 166,-40 166,-40 160,-40 154,-34 154,-28 154,-28 154,-12 154,-12 154,-6 160,0 166,0 166,0 266,0 266,0 272,0 278,-6 278,-12 278,-12 278,-28 278,-28 278,-34 272,-40 266,-40" />
+<text text-anchor="middle" x="216" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Domesticity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M575,-59C575,-59 418,-59 418,-59 412,-59 406,-53 406,-47 406,-47 406,-31 406,-31 406,-25 412,-19 418,-19 418,-19 575,-19 575,-19 581,-19 587,-25 587,-31 587,-31 587,-47 587,-47 587,-53 581,-59 575,-59" />
+<text text-anchor="middle" x="496.5" y="-34.6" font-family="Georgia" font-size="18.00" fill="#243d36">Security &amp; Stability</text>
+</g>
+</g>
+</svg>

@@ -21,13 +21,7 @@ Lantieri defines the four key components of emotional intelligence:
 * **Relationship Skills:**  Building and maintaining positive relationships, communicating effectively, resolving conflicts constructively, and working collaboratively.
 
 
-```mermaid
-graph LR
-    A[Emotional Intelligence] --> B(Self-Awareness);
-    A --> C(Self-Regulation);
-    A --> D(Social Awareness);
-    A --> E(Relationship Skills);
-```
+![Understanding Emotional Intelligence. Emotional Intelligence; Self-Awareness; Self-Regulation; Social Awareness; Relationship Skills.](diagram-01.svg)
 
 The book emphasizes that these four components are interconnected and mutually reinforcing.  Strengthening one area often positively impacts the others.
 

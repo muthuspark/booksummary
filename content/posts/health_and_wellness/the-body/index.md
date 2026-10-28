@@ -19,35 +19,20 @@ Bryson masterfully weaves together the stories of scientific discoveries with en
 
 The book emphasizes the critical role of sleep in overall health.  Insufficient sleep profoundly impacts cognitive function, mood, and the immune system. Bryson doesn't offer specific sleep hygiene tips, but the underlying message is clear: prioritize sufficient sleep to optimize your physical and mental well-being.  Aim for 7-9 hours of quality sleep per night.
 
-```mermaid
-graph LR
-A[Sufficient Sleep] --> B(Improved Cognitive Function);
-A --> C(Better Mood);
-A --> D(Stronger Immune System);
-```
+![Prioritizing Sleep: A Foundation for Well-being. Sufficient Sleep; Improved Cognitive Function; Better Mood; Stronger Immune System.](diagram-01.svg)
 
 ## The Power of Diet and Nutrition
 
 While not a dietary guide, "The Body" highlights the impact of nutrition on overall health. The book doesn't advocate for specific diets, but it implicitly emphasizes the importance of balanced nutrition, rich in fruits, vegetables, and whole grains. Understanding the role of different nutrients in various bodily functions encourages mindful eating habits.
 
-```mermaid
-graph LR
-A[Balanced Diet] --> B(Optimal Energy Levels);
-A --> C(Improved Digestion);
-A --> D(Reduced Risk of Chronic Diseases);
-```
+![The Power of Diet and Nutrition. Balanced Diet; Optimal Energy Levels; Improved Digestion; Reduced Risk of Chronic Diseases.](diagram-02.svg)
 
 
 ## The Significance of Exercise: More Than Just Physical Fitness
 
 Bryson subtly emphasizes the importance of regular physical activity, not just for physical fitness but also for mental well-being. Exercise boosts mood, improves sleep, and reduces the risk of various chronic diseases. The book doesn't provide a workout plan, but it inspires readers to incorporate regular movement into their daily routine. Even small amounts of daily activity can make a significant difference.
 
-```mermaid
-graph LR
-A[Regular Exercise] --> B(Improved Mood);
-A --> C(Better Sleep);
-A --> D(Reduced Risk of Chronic Diseases);
-```
+![The Significance of Exercise: More Than Just Physical Fitness. Regular Exercise; Improved Mood; Better Sleep; Reduced Risk of Chronic Diseases.](diagram-03.svg)
 
 ##  The Body's Resilience and Healing Capabilities
 

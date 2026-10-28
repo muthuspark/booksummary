@@ -92,28 +92,7 @@ Here's a breakdown of actionable steps inspired by the book:
 
 ###  Key Concepts Diagram
 
-```mermaid
-graph LR
-    A[Presence] --> B(Mindfulness);
-    A --> C(Meditation);
-    A --> D(Yoga);
-    A --> E(Mindful Activities);
-    C --> F(Quiet Mind);
-    D --> G(Body Awareness);
-    E --> H(Sensory Experience);
-    B --> I(Self-Awareness);
-    I --> J(Ego Transcendence);
-    J --> K(Self-Compassion);
-    J --> L(Surrender);
-    J --> M(Service);
-    J --> N(Love & Compassion);
-    J --> O(Enlightenment);
-    O --> P(Mindful Living);
-    O --> Q(Compassionate Action);
-    O --> R(Acceptance);
-    O --> S(Gratitude);
-
-```
+![Key Concepts Diagram. Presence; Mindfulness; Meditation; Yoga; Mindful Activities; Quiet Mind; Body Awareness; Sensory Experience; Self-Awareness; Ego Transcendence; Self-Compassion; Surrender; Service; Love & Compassion; Enlightenment; Mindful Living; Compassionate Action; Acceptance; Gratitude.](diagram-01.svg)
 
 
 #

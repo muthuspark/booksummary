@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392pt" height="406pt" viewBox="0.00 0.00 392.00 406.00" role="img" aria-labelledby="title description">
+<title id="title">The Six Leadership Styles and Their Neural Underpinnings</title><desc id="description">Visionary leads to Reward Pathways. Coaching leads to Learning &amp; Self-Efficacy. Affiliative leads to Social Bonding. Democratic leads to Cognitive Flexibility. Pacesetting leads to Amygdala - Fear. Commanding leads to Amygdala - Fear.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 388)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-388 374,-388 374,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M120.2,-20C135.27,-20 152.23,-20 169.03,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.21,-22.45 176.21,-20 169.21,-17.55 169.21,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M119.45,-92C141.09,-92 166.77,-92 190.26,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.48,-94.45 197.48,-92 190.48,-89.55 190.48,-94.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121.72,-164C139.99,-164 160.91,-164 180.88,-164" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.9,-166.45 187.9,-164 180.9,-161.55 180.9,-166.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128.7,-226C138.9,-226 149.75,-226 160.67,-226" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="160.85,-228.45 167.85,-226 160.85,-223.55 160.85,-228.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.65,-288C142.47,-288 158.7,-288 174.58,-288" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="174.85,-290.45 181.85,-288 174.85,-285.55 174.85,-290.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.15,-350C148.56,-350 161.68,-350 174.56,-350" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="174.69,-352.45 181.69,-350 174.69,-347.55 174.69,-352.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M108,-40C108,-40 28,-40 28,-40 22,-40 16,-34 16,-28 16,-28 16,-12 16,-12 16,-6 22,0 28,0 28,0 108,0 108,0 114,0 120,-6 120,-12 120,-12 120,-28 120,-28 120,-34 114,-40 108,-40" />
+<text text-anchor="middle" x="68" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Visionary</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M335.5,-40C335.5,-40 188.5,-40 188.5,-40 182.5,-40 176.5,-34 176.5,-28 176.5,-28 176.5,-12 176.5,-12 176.5,-6 182.5,0 188.5,0 188.5,0 335.5,0 335.5,0 341.5,0 347.5,-6 347.5,-12 347.5,-12 347.5,-28 347.5,-28 347.5,-34 341.5,-40 335.5,-40" />
+<text text-anchor="middle" x="262" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reward Pathways</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M107,-112C107,-112 29,-112 29,-112 23,-112 17,-106 17,-100 17,-100 17,-84 17,-84 17,-78 23,-72 29,-72 29,-72 107,-72 107,-72 113,-72 119,-78 119,-84 119,-84 119,-100 119,-100 119,-106 113,-112 107,-112" />
+<text text-anchor="middle" x="68" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Coaching</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M314.5,-122C314.5,-122 209.5,-122 209.5,-122 203.5,-122 197.5,-116 197.5,-110 197.5,-110 197.5,-74 197.5,-74 197.5,-68 203.5,-62 209.5,-62 209.5,-62 314.5,-62 314.5,-62 320.5,-62 326.5,-68 326.5,-74 326.5,-74 326.5,-110 326.5,-110 326.5,-116 320.5,-122 314.5,-122" />
+<text text-anchor="middle" x="262" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learning &amp;</text>
+<text text-anchor="middle" x="262" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Efficacy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M109.5,-184C109.5,-184 26.5,-184 26.5,-184 20.5,-184 14.5,-178 14.5,-172 14.5,-172 14.5,-156 14.5,-156 14.5,-150 20.5,-144 26.5,-144 26.5,-144 109.5,-144 109.5,-144 115.5,-144 121.5,-150 121.5,-156 121.5,-156 121.5,-172 121.5,-172 121.5,-178 115.5,-184 109.5,-184" />
+<text text-anchor="middle" x="68" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Affiliative</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M324,-184C324,-184 200,-184 200,-184 194,-184 188,-178 188,-172 188,-172 188,-156 188,-156 188,-150 194,-144 200,-144 200,-144 324,-144 324,-144 330,-144 336,-150 336,-156 336,-156 336,-172 336,-172 336,-178 330,-184 324,-184" />
+<text text-anchor="middle" x="262" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Bonding</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116.5,-246C116.5,-246 19.5,-246 19.5,-246 13.5,-246 7.5,-240 7.5,-234 7.5,-234 7.5,-218 7.5,-218 7.5,-212 13.5,-206 19.5,-206 19.5,-206 116.5,-206 116.5,-206 122.5,-206 128.5,-212 128.5,-218 128.5,-218 128.5,-234 128.5,-234 128.5,-240 122.5,-246 116.5,-246" />
+<text text-anchor="middle" x="68" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Democratic</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M344,-246C344,-246 180,-246 180,-246 174,-246 168,-240 168,-234 168,-234 168,-218 168,-218 168,-212 174,-206 180,-206 180,-206 344,-206 344,-206 350,-206 356,-212 356,-218 356,-218 356,-234 356,-234 356,-240 350,-246 344,-246" />
+<text text-anchor="middle" x="262" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Flexibility</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M115.5,-308C115.5,-308 20.5,-308 20.5,-308 14.5,-308 8.5,-302 8.5,-296 8.5,-296 8.5,-280 8.5,-280 8.5,-274 14.5,-268 20.5,-268 20.5,-268 115.5,-268 115.5,-268 121.5,-268 127.5,-274 127.5,-280 127.5,-280 127.5,-296 127.5,-296 127.5,-302 121.5,-308 115.5,-308" />
+<text text-anchor="middle" x="68" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pacesetting</text>
+</g>
+
+<g id="node10" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M330,-308C330,-308 194,-308 194,-308 188,-308 182,-302 182,-296 182,-296 182,-280 182,-280 182,-274 188,-268 194,-268 194,-268 330,-268 330,-268 336,-268 342,-274 342,-280 342,-280 342,-296 342,-296 342,-302 336,-308 330,-308" />
+<text text-anchor="middle" x="262" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala - Fear</text>
+</g>
+
+<g id="node11" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M124,-370C124,-370 12,-370 12,-370 6,-370 0,-364 0,-358 0,-358 0,-342 0,-342 0,-336 6,-330 12,-330 12,-330 124,-330 124,-330 130,-330 136,-336 136,-342 136,-342 136,-358 136,-358 136,-364 130,-370 124,-370" />
+<text text-anchor="middle" x="68" y="-345.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commanding</text>
+</g>
+
+<g id="node12" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M330,-370C330,-370 194,-370 194,-370 188,-370 182,-364 182,-358 182,-358 182,-342 182,-342 182,-336 188,-330 194,-330 194,-330 330,-330 330,-330 336,-330 342,-336 342,-342 342,-342 342,-358 342,-358 342,-364 336,-370 330,-370" />
+<text text-anchor="middle" x="262" y="-345.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala - Fear</text>
+</g>
+</g>
+</svg>

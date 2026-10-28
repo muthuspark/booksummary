@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340pt" height="464pt" viewBox="0.00 0.00 340.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying and Managing Anger</title><desc id="description">Anger Trigger leads to Recognize unmet needs. Recognize unmet needs leads to Develop coping mechanisms. Develop coping mechanisms leads to Assertive Expression. Assertive Expression leads to Healthy Conflict Resolution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 322,-446 322,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-387.87C152,-380.31 152,-371.49 152,-363.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-363.1 152,-356.1 149.55,-363.1 154.45,-363.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-315.84C152,-308.75 152,-300.25 152,-291.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-291.12 152,-284.12 149.55,-291.12 154.45,-291.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-163.81C152,-155.27 152,-146.86 152,-139.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-139.33 152,-132.33 149.55,-139.33 154.45,-139.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-91.63C152,-84.34 152,-75.78 152,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-67.19 152,-60.19 149.55,-67.19 154.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M210,-428C210,-428 94,-428 94,-428 88,-428 82,-422 82,-416 82,-416 82,-400 82,-400 82,-394 88,-388 94,-388 94,-388 210,-388 210,-388 216,-388 222,-394 222,-400 222,-400 222,-416 222,-416 222,-422 216,-428 210,-428" />
+<text text-anchor="middle" x="152" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anger Trigger</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M249,-356C249,-356 55,-356 55,-356 49,-356 43,-350 43,-344 43,-344 43,-328 43,-328 43,-322 49,-316 55,-316 55,-316 249,-316 249,-316 255,-316 261,-322 261,-328 261,-328 261,-344 261,-344 261,-350 255,-356 249,-356" />
+<text text-anchor="middle" x="152" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognize unmet needs</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="152,-284 0,-224 152,-164 304,-224 152,-284" />
+<text text-anchor="middle" x="152" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop coping</text>
+<text text-anchor="middle" x="152" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">mechanisms</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M237,-132C237,-132 67,-132 67,-132 61,-132 55,-126 55,-120 55,-120 55,-104 55,-104 55,-98 61,-92 67,-92 67,-92 237,-92 237,-92 243,-92 249,-98 249,-104 249,-104 249,-120 249,-120 249,-126 243,-132 237,-132" />
+<text text-anchor="middle" x="152" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assertive Expression</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M219.5,-60C219.5,-60 84.5,-60 84.5,-60 78.5,-60 72.5,-54 72.5,-48 72.5,-48 72.5,-12 72.5,-12 72.5,-6 78.5,0 84.5,0 84.5,0 219.5,0 219.5,0 225.5,0 231.5,-6 231.5,-12 231.5,-12 231.5,-48 231.5,-48 231.5,-54 225.5,-60 219.5,-60" />
+<text text-anchor="middle" x="152" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Conflict</text>
+<text text-anchor="middle" x="152" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resolution</text>
+</g>
+</g>
+</svg>

@@ -17,17 +17,7 @@ author: "Chip Heath and Dan Heath"
 
 These villains work together to create a perfect storm of poor judgment.  The book's core message is that by understanding and actively combating these villains, we can make better decisions.
 
-```mermaid
-graph LR
-A[Decision Making] --> B(Narrow Framing);
-A --> C(Confirmation Bias);
-A --> D(Short-Term Emotion);
-A --> E(Overconfidence);
-B -- Combating Villains --> F[Better Decisions];
-C -- Combating Villains --> F;
-D -- Combating Villains --> F;
-E -- Combating Villains --> F;
-```
+![Understanding the Four Villains of Decision Making. Decision Making; Narrow Framing; Confirmation Bias; Short-Term Emotion; Overconfidence; Better Decisions.](diagram-01.svg)
 
 
 ## The WRAP Method: A Framework for Decisive Action
@@ -43,14 +33,7 @@ To overcome the villains, the Heath brothers introduce the WRAP method, a four-s
 
 * **Prepare to be Wrong:**  Counter overconfidence by acknowledging the possibility of failure and planning for contingencies.  Develop a plan B, and consider the potential downsides of your decision.
 
-```mermaid
-graph LR
-A[Decision Making Process] --> B(Widen Options);
-B --> C(Reality-Test Assumptions);
-C --> D(Attain Distance);
-D --> E(Prepare to be Wrong);
-E --> F[Improved Decision];
-```
+![The WRAP Method: A Framework for Decisive Action. Decision Making Process; Widen Options; Reality-Test Assumptions; Attain Distance; Prepare to be Wrong; Improved Decision.](diagram-02.svg)
 
 ## Widen Your Options:  Expanding Your Perspective
 

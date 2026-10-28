@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="761pt" height="332pt" viewBox="0.00 0.00 761.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Beyond Telomeres: A Broader Perspective on Health</title><desc id="description">Diet leads to Nutrition. Nutrition leads to Telomere Length. Telomere Length leads to Healthspan. Exercise leads to Telomere Length. Stress Management leads to Telomere Length. Sleep leads to Telomere Length. Social Connections leads to Telomere Length.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 743,-314 743,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M51.5,-255.87C51.5,-248.31 51.5,-239.49 51.5,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="53.95,-231.1 51.5,-224.1 49.05,-231.1 53.95,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.11,-186.7C146.77,-172.91 209.98,-152.96 259.6,-137.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="260.57,-139.55 266.51,-135.1 259.1,-134.87 260.57,-139.55" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M336.5,-71.79C336.5,-63.54 336.5,-55.04 336.5,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="338.95,-47.09 336.5,-40.09 334.05,-47.09 338.95,-47.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M208.07,-183.91C229.17,-172.26 256.64,-157.09 280.76,-143.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="282.19,-145.78 287.14,-140.25 279.83,-141.49 282.19,-145.78" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M336.5,-183.91C336.5,-176.58 336.5,-167.86 336.5,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="338.95,-159.07 336.5,-152.07 334.05,-159.07 338.95,-159.07" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M455.48,-183.91C436.25,-172.45 411.31,-157.59 389.24,-144.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="390.36,-142.25 383.1,-140.77 387.85,-146.46 390.36,-142.25" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M572.09,-183.91C526.33,-170.14 464.24,-151.45 415.3,-136.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="415.89,-134.34 408.48,-134.67 414.48,-139.03 415.89,-134.34" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M70.5,-296C70.5,-296 32.5,-296 32.5,-296 26.5,-296 20.5,-290 20.5,-284 20.5,-284 20.5,-268 20.5,-268 20.5,-262 26.5,-256 32.5,-256 32.5,-256 70.5,-256 70.5,-256 76.5,-256 82.5,-262 82.5,-268 82.5,-268 82.5,-284 82.5,-284 82.5,-290 76.5,-296 70.5,-296" />
+<text text-anchor="middle" x="51.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diet</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M91,-224C91,-224 12,-224 12,-224 6,-224 0,-218 0,-212 0,-212 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 91,-184 91,-184 97,-184 103,-190 103,-196 103,-196 103,-212 103,-212 103,-218 97,-224 91,-224" />
+<text text-anchor="middle" x="51.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nutrition</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="336.5,-152 171.5,-112 336.5,-72 501.5,-112 336.5,-152" />
+<text text-anchor="middle" x="336.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Telomere Length</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M385,-40C385,-40 288,-40 288,-40 282,-40 276,-34 276,-28 276,-28 276,-12 276,-12 276,-6 282,0 288,0 288,0 385,0 385,0 391,0 397,-6 397,-12 397,-12 397,-28 397,-28 397,-34 391,-40 385,-40" />
+<text text-anchor="middle" x="336.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthspan</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209.5,-224C209.5,-224 137.5,-224 137.5,-224 131.5,-224 125.5,-218 125.5,-212 125.5,-212 125.5,-196 125.5,-196 125.5,-190 131.5,-184 137.5,-184 137.5,-184 209.5,-184 209.5,-184 215.5,-184 221.5,-190 221.5,-196 221.5,-196 221.5,-212 221.5,-212 221.5,-218 215.5,-224 209.5,-224" />
+<text text-anchor="middle" x="173.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exercise</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M417,-224C417,-224 256,-224 256,-224 250,-224 244,-218 244,-212 244,-212 244,-196 244,-196 244,-190 250,-184 256,-184 256,-184 417,-184 417,-184 423,-184 429,-190 429,-196 429,-196 429,-212 429,-212 429,-218 423,-224 417,-224" />
+<text text-anchor="middle" x="336.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress Management</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M511.5,-224C511.5,-224 463.5,-224 463.5,-224 457.5,-224 451.5,-218 451.5,-212 451.5,-212 451.5,-196 451.5,-196 451.5,-190 457.5,-184 463.5,-184 463.5,-184 511.5,-184 511.5,-184 517.5,-184 523.5,-190 523.5,-196 523.5,-196 523.5,-212 523.5,-212 523.5,-218 517.5,-224 511.5,-224" />
+<text text-anchor="middle" x="487.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sleep</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M713,-224C713,-224 558,-224 558,-224 552,-224 546,-218 546,-212 546,-212 546,-196 546,-196 546,-190 552,-184 558,-184 558,-184 713,-184 713,-184 719,-184 725,-190 725,-196 725,-196 725,-212 725,-212 725,-218 719,-224 713,-224" />
+<text text-anchor="middle" x="635.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Connections</text>
+</g>
+</g>
+</svg>

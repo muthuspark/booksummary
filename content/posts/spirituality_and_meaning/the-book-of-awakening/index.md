@@ -14,13 +14,7 @@ Mark Nepo's "The Book of Awakening" isn't a self-help manual with prescribed ste
 
 Nepo emphasizes the importance of intuition and inner wisdom. He encourages readers to listen to the subtle whispers of their souls, those quiet promptings that often get overshadowed by the noise of daily life.  This involves cultivating solitude and introspection, creating space for self-reflection and gaining clarity on one's values and desires.  He suggests journaling, meditation, or simply spending time in nature as ways to connect with this inner voice.
 
-```mermaid
-graph LR
-    A[Daily Life] --> B(Noise & Distractions);
-    A --> C(Intuition & Inner Wisdom);
-    C --> D[Self-Awareness & Clarity];
-    D --> E(Purpose & Fulfillment);
-```
+![Listening to the Whispers of the Soul. Daily Life; Noise & Distractions; Intuition & Inner Wisdom; Self-Awareness & Clarity; Purpose & Fulfillment.](diagram-01.svg)
 
 ## Accepting Imperfection and Embracing Vulnerability
 
@@ -46,13 +40,7 @@ Nepo emphasizes the importance of living with intention and purpose.  He prompts
 
 Nepo frequently uses nature as a metaphor for spiritual growth and self-discovery. He encourages readers to spend time in nature, connecting with its rhythms and beauty. This connection can create a sense of awe and wonder, reminding us of the larger context of life. He connects this with a broader sense of spirituality, not necessarily tied to organized religion, but rather a connection to something larger than oneself.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Values & Aspirations);
-    B --> C[Meaningful Goals];
-    C --> D(Intentional Living);
-    D --> E[Fulfillment & Purpose];
-```
+![Connecting with Nature and Spirituality. Self-Reflection; Values & Aspirations; Meaningful Goals; Intentional Living; Fulfillment & Purpose.](diagram-02.svg)
 
 ## The Importance of Relationships
 

@@ -21,15 +21,7 @@ Seligman introduces three distinct paths to a happier life, each contributing un
 * **The Meaningful Life:** This path focuses on using our strengths to serve something larger than ourselves. It's about connecting to something beyond our individual selves, contributing to something meaningful, and finding purpose in life. This involves altruism, contributing to a cause, and experiencing a sense of belonging.
 
 
-```mermaid
-graph LR
-    A[Pleasant Life] --> B(Happiness);
-    C[Good Life] --> B;
-    D[Meaningful Life] --> B;
-    subgraph "Three Roads to"
-        A;C;D;
-    end
-```
+![The Three Roads to Happiness. Pleasant Life; Happiness; Good Life; Meaningful Life.](diagram-01.svg)
 
 ##  Building the Pleasant Life: Savoring and Mindfulness
 

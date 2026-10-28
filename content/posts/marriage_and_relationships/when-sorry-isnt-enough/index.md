@@ -24,15 +24,7 @@ The authors introduce the concept of "Five Languages of Apology," mirroring Chap
 
 * **Requesting Forgiveness:**  This involves humbly asking for forgiveness, acknowledging that the other person has the right to grant or withhold it.  It's a clear demonstration of respect for the other person's feelings and autonomy.
 
-```mermaid
-graph LR
-    A[Expressing Regret] --> B(Apology);
-    C[Accepting Responsibility] --> B;
-    D[Making Restitution] --> B;
-    E[Genuinely Repenting] --> B;
-    F[Requesting Forgiveness] --> B;
-    B --> G[Reconciliation];
-```
+![Identifying the Five Languages of Apology. Expressing Regret; Apology; Accepting Responsibility; Making Restitution; Genuinely Repenting; Requesting Forgiveness; Reconciliation.](diagram-01.svg)
 
 ## Understanding the Hurter's Perspective
 

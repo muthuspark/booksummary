@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="562pt" height="178pt" viewBox="0.00 0.00 562.00 178.00" role="img" aria-labelledby="title description">
+<title id="title">Empathy: Understanding Others</title><desc id="description">Active Listening leads to Understanding Verbal Cues. Active Listening leads to Understanding Nonverbal Cues. Understanding Verbal Cues leads to Empathy. Understanding Nonverbal Cues leads to Empathy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 160)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-160 544,-160 544,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.19,-86.03C164.25,-87.61 172.56,-89.22 180.89,-90.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.55,-93.28 187.89,-92.21 181.49,-88.47 180.55,-93.28" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.19,-55.97C172.31,-52.83 189.37,-49.5 205.72,-46.32" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.27,-48.71 212.67,-44.96 205.33,-43.9 206.27,-48.71" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M393.17,-89.22C401.61,-87.33 409.93,-85.47 417.85,-83.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="418.7,-86.01 424.99,-82.09 417.62,-81.23 418.7,-86.01" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M368.05,-47.15C384.7,-50.88 402.02,-54.76 417.74,-58.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="417.48,-60.73 424.84,-59.87 418.55,-55.95 417.48,-60.73" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M144,-91C144,-91 12,-91 12,-91 6,-91 0,-85 0,-79 0,-79 0,-63 0,-63 0,-57 6,-51 12,-51 12,-51 144,-51 144,-51 150,-51 156,-57 156,-63 156,-63 156,-79 156,-79 156,-85 150,-91 144,-91" />
+<text text-anchor="middle" x="78" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M381,-142C381,-142 200,-142 200,-142 194,-142 188,-136 188,-130 188,-130 188,-94 188,-94 188,-88 194,-82 200,-82 200,-82 381,-82 381,-82 387,-82 393,-88 393,-94 393,-94 393,-130 393,-130 393,-136 387,-142 381,-142" />
+<text text-anchor="middle" x="290.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Verbal</text>
+<text text-anchor="middle" x="290.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cues</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M356,-60C356,-60 225,-60 225,-60 219,-60 213,-54 213,-48 213,-48 213,-12 213,-12 213,-6 219,0 225,0 225,0 356,0 356,0 362,0 368,-6 368,-12 368,-12 368,-48 368,-48 368,-54 362,-60 356,-60" />
+<text text-anchor="middle" x="290.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+<text text-anchor="middle" x="290.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nonverbal Cues</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M514,-91C514,-91 437,-91 437,-91 431,-91 425,-85 425,-79 425,-79 425,-63 425,-63 425,-57 431,-51 437,-51 437,-51 514,-51 514,-51 520,-51 526,-57 526,-63 526,-63 526,-79 526,-79 526,-85 520,-91 514,-91" />
+<text text-anchor="middle" x="475.5" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+</g>
+</svg>

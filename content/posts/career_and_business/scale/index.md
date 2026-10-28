@@ -14,11 +14,7 @@ Geoffrey West's "Scale" is not just a scientific exploration of how size affects
 
 West demonstrates how scaling relationships, or allometric laws, govern a vast array of systems. These relationships aren't arbitrary; they're mathematically predictable.  For example, metabolic rate doesn't scale linearly with body mass; it scales as a fractional power.  This means a larger organism doesn't simply consume more energy proportionally; it consumes relatively less. This simple observation opens doors to understanding the constraints and opportunities in growth, both for individual organisms and complex systems like cities.
 
-```mermaid
-graph LR
-    A[Body Mass] --> B(Metabolic Rate);
-    B --> C{Fractional Power Scaling};
-```
+![The Allometry of Life: Understanding Scaling Relationships. Body Mass; Metabolic Rate; Fractional Power Scaling.](diagram-01.svg)
 
 Understanding these scaling relationships allows us to predict and even anticipate the challenges associated with growth.  Knowing the limitations allows for more efficient resource allocation and strategic planning.
 
@@ -26,11 +22,7 @@ Understanding these scaling relationships allows us to predict and even anticipa
 
 West uses cities as a prime example of scaling's impact. He illustrates how various aspects of urban life—from infrastructure needs to economic activity—scale disproportionately with population size.  For instance, the length of roads doesn't increase linearly with population; it increases at a slower rate. This suggests opportunities for infrastructure optimization.
 
-```mermaid
-graph LR
-    A[Population] --> B(Road Length);
-    B --> C{Sublinear Scaling};
-```
+![The Dynamics of Cities: A Microcosm of Scaling Laws. Population; Road Length; Sublinear Scaling.](diagram-02.svg)
 
 Conversely, things like innovation and economic productivity often scale superlinearly. This indicates that larger cities aren't just bigger; they're more innovative and economically productive per capita.  This insight suggests the importance of fostering urban growth strategically to maximize its benefits.
 
@@ -48,12 +40,7 @@ While not explicitly stated, "Scale" offers many actionable points for personal 
 
 The book emphasizes the role of networks in enabling scaling phenomena. Cities are interconnected networks of individuals and infrastructure. Similarly, success in many fields relies heavily on network effects. This translates to the importance of building and nurturing strong relationships, both personally and professionally.
 
-```mermaid
-graph LR
-    A[Individuals] --> B(Network);
-    B --> C{Innovation & Productivity};
-    C --> D(Success);
-```
+![The Role of Networks and Connectivity. Individuals; Network; Innovation & Productivity; Success.](diagram-03.svg)
 
 The quality of your network directly impacts opportunities and access to resources, echoing the network effects observed in cities and biological systems.
 

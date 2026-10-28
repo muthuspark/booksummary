@@ -14,16 +14,7 @@ author: "Thich Nhat Hanh"
 
 Hanh emphasizes the transformative potential of mindfulness in even the simplest activities.  Brushing your teeth, washing dishes, or walking become opportunities for meditation.  By paying close attention to the sensations, the feelings, and the very act itself, we move beyond mere task completion and experience a deeper connection with ourselves and the world.  This mindful engagement isn't about achieving perfection; it's about being present with whatever arises, without judgment.
 
-```mermaid
-graph LR
-A[Daily Task] --> B(Mindful Awareness);
-B --> C{Sensations};
-B --> D{Feelings};
-B --> E{Action};
-C --> F[Peace];
-D --> F;
-E --> F;
-```
+![Mindfulness in Daily Life: Transforming Mundane Tasks. Daily Task; Mindful Awareness; Sensations; Feelings; Action; Peace.](diagram-01.svg)
 
 ## Breathing as an Anchor: Connecting to the Present
 
@@ -42,16 +33,7 @@ Compassion and loving-kindness are not merely abstract concepts; they are practi
 
 A central tenet of Hanh's teachings is the concept of "interbeing." Everything is interconnected; nothing exists in isolation.  Our actions have repercussions, not just for ourselves, but for the entire web of life.  Understanding this interconnectedness fosters a sense of responsibility and encourages mindful actions that benefit all beings.
 
-```mermaid
-graph LR
-A[Me] -- Interbeing --> B(Others);
-B -- Interbeing --> C[Environment];
-C -- Interbeing --> A;
-A --> D(Actions);
-D --> E(Consequences);
-E --> B;
-E --> C;
-```
+![The Importance of Interbeing: Recognizing Interconnectedness. Me; Others; Environment; Actions; Consequences.](diagram-02.svg)
 
 ## Letting Go of the Past and Future: Focusing on the Present Moment
 

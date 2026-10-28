@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245pt" height="332pt" viewBox="0.00 0.00 245.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Enabling Others to Act</title><desc id="description">Fostering Collaboration leads to Strengthening Others. Strengthening Others leads to Promoting Collaboration. Promoting Collaboration leads to Enabling Others to Act.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 227,-314 227,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-235.67C104.5,-227.77 104.5,-219.28 104.5,-211.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-211.12 104.5,-204.12 102.05,-211.12 106.95,-211.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-163.63C104.5,-156.34 104.5,-147.78 104.5,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-139.19 104.5,-132.19 102.05,-139.19 106.95,-139.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.5,-71.67C104.5,-63.77 104.5,-55.28 104.5,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.95,-47.12 104.5,-40.12 102.05,-47.12 106.95,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-296C161,-296 48,-296 48,-296 42,-296 36,-290 36,-284 36,-284 36,-248 36,-248 36,-242 42,-236 48,-236 48,-236 161,-236 161,-236 167,-236 173,-242 173,-248 173,-248 173,-284 173,-284 173,-290 167,-296 161,-296" />
+<text text-anchor="middle" x="104.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fostering</text>
+<text text-anchor="middle" x="104.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192.5,-204C192.5,-204 16.5,-204 16.5,-204 10.5,-204 4.5,-198 4.5,-192 4.5,-192 4.5,-176 4.5,-176 4.5,-170 10.5,-164 16.5,-164 16.5,-164 192.5,-164 192.5,-164 198.5,-164 204.5,-170 204.5,-176 204.5,-176 204.5,-192 204.5,-192 204.5,-198 198.5,-204 192.5,-204" />
+<text text-anchor="middle" x="104.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengthening Others</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-132C161,-132 48,-132 48,-132 42,-132 36,-126 36,-120 36,-120 36,-84 36,-84 36,-78 42,-72 48,-72 48,-72 161,-72 161,-72 167,-72 173,-78 173,-84 173,-84 173,-120 173,-120 173,-126 167,-132 161,-132" />
+<text text-anchor="middle" x="104.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Promoting</text>
+<text text-anchor="middle" x="104.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M197,-40C197,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 197,0 197,0 203,0 209,-6 209,-12 209,-12 209,-28 209,-28 209,-34 203,-40 197,-40" />
+<text text-anchor="middle" x="104.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enabling Others to Act</text>
+</g>
+</g>
+</svg>

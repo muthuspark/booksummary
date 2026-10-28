@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326pt" height="324pt" viewBox="0.00 0.00 326.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">The PERMA Model: A Framework for Well-Being</title><desc id="description">PERMA leads to Positive Emotion. PERMA leads to Engagement. PERMA leads to Relationships. PERMA leads to Meaning. PERMA leads to Accomplishment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 308,-306 308,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M59.71,-164.02C73.32,-184.84 97.11,-217.1 125,-237 128.81,-239.72 132.89,-242.23 137.11,-244.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.05,-246.76 143.39,-247.81 138.31,-242.41 136.05,-246.76" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.35,-162.49C103.74,-166.64 114.74,-171 125,-175 132.02,-177.74 139.39,-180.58 146.71,-183.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.99,-185.74 153.4,-185.95 147.74,-181.16 145.99,-185.74" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.06,-144C105.06,-144 118.34,-144 131.45,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="131.7,-146.45 138.7,-144 131.7,-141.55 131.7,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.35,-125.51C103.74,-121.36 114.74,-117 125,-113 133.54,-109.67 142.6,-106.18 151.46,-102.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="152.52,-105.01 158.18,-100.22 150.77,-100.43 152.52,-105.01" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M59.71,-123.98C73.32,-103.16 97.11,-70.9 125,-51 128.81,-48.28 132.89,-45.77 137.11,-43.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="138.31,-45.59 143.39,-40.19 136.05,-41.24 138.31,-45.59" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M81,-164C81,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 81,-124 81,-124 87,-124 93,-130 93,-136 93,-136 93,-152 93,-152 93,-158 87,-164 81,-164" />
+<text text-anchor="middle" x="46.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">PERMA</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M278,-288C278,-288 137,-288 137,-288 131,-288 125,-282 125,-276 125,-276 125,-260 125,-260 125,-254 131,-248 137,-248 137,-248 278,-248 278,-248 284,-248 290,-254 290,-260 290,-260 290,-276 290,-276 290,-282 284,-288 278,-288" />
+<text text-anchor="middle" x="207.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Emotion</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M259.5,-226C259.5,-226 155.5,-226 155.5,-226 149.5,-226 143.5,-220 143.5,-214 143.5,-214 143.5,-198 143.5,-198 143.5,-192 149.5,-186 155.5,-186 155.5,-186 259.5,-186 259.5,-186 265.5,-186 271.5,-192 271.5,-198 271.5,-198 271.5,-214 271.5,-214 271.5,-220 265.5,-226 259.5,-226" />
+<text text-anchor="middle" x="207.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Engagement</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M264,-164C264,-164 151,-164 151,-164 145,-164 139,-158 139,-152 139,-152 139,-136 139,-136 139,-130 145,-124 151,-124 151,-124 264,-124 264,-124 270,-124 276,-130 276,-136 276,-136 276,-152 276,-152 276,-158 270,-164 264,-164" />
+<text text-anchor="middle" x="207.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationships</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M244.5,-102C244.5,-102 170.5,-102 170.5,-102 164.5,-102 158.5,-96 158.5,-90 158.5,-90 158.5,-74 158.5,-74 158.5,-68 164.5,-62 170.5,-62 170.5,-62 244.5,-62 244.5,-62 250.5,-62 256.5,-68 256.5,-74 256.5,-74 256.5,-90 256.5,-90 256.5,-96 250.5,-102 244.5,-102" />
+<text text-anchor="middle" x="207.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaning</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M277,-40C277,-40 138,-40 138,-40 132,-40 126,-34 126,-28 126,-28 126,-12 126,-12 126,-6 132,0 138,0 138,0 277,0 277,0 283,0 289,-6 289,-12 289,-12 289,-28 289,-28 289,-34 283,-40 277,-40" />
+<text text-anchor="middle" x="207.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accomplishment</text>
+</g>
+</g>
+</svg>

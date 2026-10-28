@@ -24,13 +24,7 @@ The HBDI categorizes thinking styles into four quadrants, each representing a di
 * **D-Quadrant (Cerebral Right):**  Imaginative, innovative, holistic, and conceptual.  These individuals excel in brainstorming, generating novel ideas, and thinking outside the box.
 
 
-```mermaid
-graph LR
-    A[A-Quadrant<br>Logical] --> B(B-Quadrant<br>Organized)
-    B --> C{C-Quadrant<br>Intuitive}
-    C --> D(D-Quadrant<br>Imaginative)
-    D --> A
-```
+![Understanding the Four Quadrants. A-Quadrant Logical; B-Quadrant Organized; C-Quadrant Intuitive; D-Quadrant Imaginative.](diagram-01.svg)
 
 Herrmann emphasizes that no quadrant is inherently superior; each contributes uniquely to a whole-brain approach.  The key is understanding your own dominant quadrant(s) and leveraging their strengths while developing those of less dominant quadrants.
 

@@ -27,15 +27,7 @@ Neumeier structures design thinking around five core disciplines:
 * **Reflective:** Continuously evaluating and improving processes. Regular self-reflection is key to growth.
 
 
-```mermaid
-graph LR
-    A[Human-Centered] --> B(Hands-on);
-    A --> C(Holistic);
-    B --> D{Experimenting};
-    C --> D;
-    D --> E[Reflective];
-    E --> A;
-```
+![The Five Disciplines of Design Thinking. Human-Centered; Hands-on; Holistic; Experimenting; Reflective.](diagram-01.svg)
 
 
 ###  The "Zoomer" and the "Zoomerang": Branding and Strategy

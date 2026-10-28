@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442pt" height="392pt" viewBox="0.00 0.00 442.00 392.00" role="img" aria-labelledby="title description">
+<title id="title">The Illusion of Control: Releasing the Need to Control</title><desc id="description">Need for Control leads to Insecurity &amp; Fear. Insecurity &amp; Fear leads to Suffocates Intimacy &amp; Trust. Suffocates Intimacy &amp; Trust leads to Unhealthy Relationship Dynamics.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 374)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-374 424,-374 424,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-315.87C203,-308.31 203,-299.49 203,-291.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-291.1 203,-284.1 200.55,-291.1 205.45,-291.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-243.84C203,-236.75 203,-228.25 203,-219.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-219.12 203,-212.12 200.55,-219.12 205.45,-219.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-91.7C203,-83.47 203,-75.21 203,-67.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-67.13 203,-60.13 200.55,-67.13 205.45,-67.13" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M272.5,-356C272.5,-356 133.5,-356 133.5,-356 127.5,-356 121.5,-350 121.5,-344 121.5,-344 121.5,-328 121.5,-328 121.5,-322 127.5,-316 133.5,-316 133.5,-316 272.5,-316 272.5,-316 278.5,-316 284.5,-322 284.5,-328 284.5,-328 284.5,-344 284.5,-344 284.5,-350 278.5,-356 272.5,-356" />
+<text text-anchor="middle" x="203" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Need for Control</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M274.5,-284C274.5,-284 131.5,-284 131.5,-284 125.5,-284 119.5,-278 119.5,-272 119.5,-272 119.5,-256 119.5,-256 119.5,-250 125.5,-244 131.5,-244 131.5,-244 274.5,-244 274.5,-244 280.5,-244 286.5,-250 286.5,-256 286.5,-256 286.5,-272 286.5,-272 286.5,-278 280.5,-284 274.5,-284" />
+<text text-anchor="middle" x="203" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insecurity &amp; Fear</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="203,-212 0,-152 203,-92 406,-152 203,-212" />
+<text text-anchor="middle" x="203" y="-157.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suffocates Intimacy &amp;</text>
+<text text-anchor="middle" x="203" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M300,-60C300,-60 106,-60 106,-60 100,-60 94,-54 94,-48 94,-48 94,-12 94,-12 94,-6 100,0 106,0 106,0 300,0 300,0 306,0 312,-6 312,-12 312,-12 312,-48 312,-48 312,-54 306,-60 300,-60" />
+<text text-anchor="middle" x="203" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unhealthy Relationship</text>
+<text text-anchor="middle" x="203" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dynamics</text>
+</g>
+</g>
+</svg>

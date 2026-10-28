@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="489pt" height="332pt" viewBox="0.00 0.00 488.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">Navigating Intimacy:  Beyond the Physical</title><desc id="description">Physical Intimacy leads to Emotional Connection. Emotional Connection leads to Spiritual Intimacy. Spiritual Intimacy leads to Stronger Bond. Physical Intimacy leads to Stronger Bond. Emotional Connection leads to Stronger Bond.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 470.5,-314 470.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M338.15,-255.87C330.08,-247.69 320.57,-238.05 312.02,-229.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="313.49,-227.37 306.83,-224.1 310,-230.81 313.49,-227.37" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M380.21,-255.53C388.78,-246.87 397.49,-235.93 402,-224 424.78,-163.75 404.14,-86.77 390.24,-47.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="392.42,-45.96 387.74,-40.2 387.81,-47.62 392.42,-45.96" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263.61,-183.91C250.22,-173.44 233.2,-160.11 217.53,-147.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.86,-145.78 211.83,-143.39 215.84,-149.64 218.86,-145.78" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M324.19,-183.86C336.43,-175.64 349.01,-164.92 357,-152 376.85,-119.91 380.73,-75.42 380.94,-47.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="383.39,-47.33 380.92,-40.34 378.49,-47.35 383.39,-47.33" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M231.76,-85.45C262.66,-72.02 300.13,-55.72 329.67,-42.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330.79,-45.07 336.24,-40.03 328.84,-40.57 330.79,-45.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M430,-296C430,-296 284,-296 284,-296 278,-296 272,-290 272,-284 272,-284 272,-268 272,-268 272,-262 278,-256 284,-256 284,-256 430,-256 430,-256 436,-256 442,-262 442,-268 442,-268 442,-284 442,-284 442,-290 436,-296 430,-296" />
+<text text-anchor="middle" x="357" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Physical Intimacy</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M379.5,-224C379.5,-224 196.5,-224 196.5,-224 190.5,-224 184.5,-218 184.5,-212 184.5,-212 184.5,-196 184.5,-196 184.5,-190 190.5,-184 196.5,-184 196.5,-184 379.5,-184 379.5,-184 385.5,-184 391.5,-190 391.5,-196 391.5,-196 391.5,-212 391.5,-212 391.5,-218 385.5,-224 379.5,-224" />
+<text text-anchor="middle" x="288" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Connection</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="173,-152 0,-112 173,-72 346,-112 173,-152" />
+<text text-anchor="middle" x="173" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Spiritual Intimacy</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M440.5,-40C440.5,-40 319.5,-40 319.5,-40 313.5,-40 307.5,-34 307.5,-28 307.5,-28 307.5,-12 307.5,-12 307.5,-6 313.5,0 319.5,0 319.5,0 440.5,0 440.5,0 446.5,0 452.5,-6 452.5,-12 452.5,-12 452.5,-28 452.5,-28 452.5,-34 446.5,-40 440.5,-40" />
+<text text-anchor="middle" x="380" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Bond</text>
+</g>
+</g>
+</svg>

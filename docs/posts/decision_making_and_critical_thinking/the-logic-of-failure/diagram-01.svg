@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357pt" height="332pt" viewBox="0.00 0.00 357.01 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Illusion of Simplicity:  Breaking Down Complexities</title><desc id="description">Initial State leads to Action. Action leads to Feedback Loop. Feedback Loop leads to New State. New State leads to Action.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 339.01,-314 339.01,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M240,-255.87C240,-248.31 240,-239.49 240,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.45,-231.1 240,-224.1 237.55,-231.1 242.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M220.7,-183.91C210.38,-173.71 197.34,-160.81 185.22,-148.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.79,-146.93 180.09,-143.74 183.34,-150.41 186.79,-146.93" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.06,-80.28C191.66,-68.81 204.64,-55.97 215.56,-45.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.48,-46.72 220.73,-40.05 214.03,-43.24 217.48,-46.72" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M278.53,-40.16C290.54,-48.22 302.36,-58.83 309,-72 325.01,-103.75 325.01,-120.25 309,-152 303.45,-163.01 294.28,-172.23 284.4,-179.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="282.82,-177.79 278.53,-183.84 285.66,-181.78 282.82,-177.79" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M288.5,-296C288.5,-296 191.5,-296 191.5,-296 185.5,-296 179.5,-290 179.5,-284 179.5,-284 179.5,-268 179.5,-268 179.5,-262 185.5,-256 191.5,-256 191.5,-256 288.5,-256 288.5,-256 294.5,-256 300.5,-262 300.5,-268 300.5,-268 300.5,-284 300.5,-284 300.5,-290 294.5,-296 288.5,-296" />
+<text text-anchor="middle" x="240" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Initial State</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M268,-224C268,-224 212,-224 212,-224 206,-224 200,-218 200,-212 200,-212 200,-196 200,-196 200,-190 206,-184 212,-184 212,-184 268,-184 268,-184 274,-184 280,-190 280,-196 280,-196 280,-212 280,-212 280,-218 274,-224 268,-224" />
+<text text-anchor="middle" x="240" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="149,-152 0,-112 149,-72 298,-112 149,-152" />
+<text text-anchor="middle" x="149" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback Loop</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M282.5,-40C282.5,-40 197.5,-40 197.5,-40 191.5,-40 185.5,-34 185.5,-28 185.5,-28 185.5,-12 185.5,-12 185.5,-6 191.5,0 197.5,0 197.5,0 282.5,0 282.5,0 288.5,0 294.5,-6 294.5,-12 294.5,-12 294.5,-28 294.5,-28 294.5,-34 288.5,-40 282.5,-40" />
+<text text-anchor="middle" x="240" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">New State</text>
+</g>
+</g>
+</svg>

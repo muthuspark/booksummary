@@ -14,13 +14,7 @@ Tony Robbins' "Money: Master the Game" isn't just a financial guide; it's a jour
 
 Before diving into investment strategies, Robbins stresses the importance of setting clear, measurable, achievable, relevant, and time-bound (SMART) financial goals.  What do you want to achieve with your money?  Retirement security?  Early retirement?  Financial independence?  Defining your goals provides direction and motivation for your financial journey.
 
-```mermaid
-graph LR
-A[Define Your Goals] --> B(SMART Goals);
-B --> C{Action Plan};
-C --> D[Track Progress];
-D --> E[Revise as Needed];
-```
+![Identifying Your Financial Goals. Define Your Goals; SMART Goals; Action Plan; Track Progress; Revise as Needed.](diagram-01.svg)
 
 #  The Power of Asset Allocation
 
@@ -44,13 +38,7 @@ Robbins strongly advocates for minimizing investment fees. High fees can erode i
 
 The book highlights the importance of risk management. No investment is entirely risk-free. Diversification across different asset classes is important for mitigating risk. Robbins suggests calculating your risk tolerance and aligning your investment strategy accordingly. He encourages investors to consider their time horizon – long-term investors can typically tolerate higher risk than short-term investors.
 
-```mermaid
-graph LR
-A[Risk Assessment] --> B(Risk Tolerance);
-B --> C[Diversification Strategy];
-C --> D(Asset Allocation);
-D --> E[Investment Selection];
-```
+![Risk Management and Diversification. Risk Assessment; Risk Tolerance; Diversification Strategy; Asset Allocation; Investment Selection.](diagram-02.svg)
 
 # Tax Optimization Strategies
 

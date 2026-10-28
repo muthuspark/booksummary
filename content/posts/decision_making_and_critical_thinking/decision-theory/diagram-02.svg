@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="589pt" height="280pt" viewBox="0.00 0.00 589.00 280.00" role="img" aria-labelledby="title description">
+<title id="title">Expected Value Calculation and Risk Aversion</title><desc id="description">Option A leads to Outcome 1: 0.6 probability, Utility 10. Option A leads to Outcome 2: 0.4 probability, Utility 2. Option B leads to Outcome 1: 1 probability, Utility 6. Outcome 1: 0.6 probability, Utility 10 leads to Expected Value:   (0.6*10) + (0.4 * 2) = 6.8. Outcome 1: 1 probability, Utility 6 leads to Expected Value: 6.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 262)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-262 571,-262 571,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.32,-89.06C111.39,-91.7 122.29,-94.55 133.31,-97.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.79,-99.84 140.18,-99.24 134.03,-95.1 132.79,-99.84" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.32,-62.94C109.24,-60.87 117.66,-58.66 126.26,-56.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.03,-58.73 133.18,-54.59 125.79,-53.99 127.03,-58.73" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M315.6,-122C326.11,-122 336.92,-122 347.66,-122" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="347.7,-124.45 354.7,-122 347.7,-119.55 347.7,-124.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.32,-214C109.08,-214 117.33,-214 125.75,-214" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.85,-216.45 132.85,-214 125.85,-211.55 125.85,-216.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M323.02,-214C335.13,-214 347.53,-214 359.63,-214" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="359.72,-216.45 366.72,-214 359.72,-211.55 359.72,-216.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-96C89,-96 12,-96 12,-96 6,-96 0,-90 0,-84 0,-84 0,-68 0,-68 0,-62 6,-56 12,-56 12,-56 89,-56 89,-56 95,-56 101,-62 101,-68 101,-68 101,-84 101,-84 101,-90 95,-96 89,-96" />
+<text text-anchor="middle" x="50.5" y="-71.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option A</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M303.5,-162C303.5,-162 152.5,-162 152.5,-162 146.5,-162 140.5,-156 140.5,-150 140.5,-150 140.5,-94 140.5,-94 140.5,-88 146.5,-82 152.5,-82 152.5,-82 303.5,-82 303.5,-82 309.5,-82 315.5,-88 315.5,-94 315.5,-94 315.5,-150 315.5,-150 315.5,-156 309.5,-162 303.5,-162" />
+<text text-anchor="middle" x="228" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome 1: 0.6</text>
+<text text-anchor="middle" x="228" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">probability, Utility</text>
+<text text-anchor="middle" x="228" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">10</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M310.5,-60C310.5,-60 145.5,-60 145.5,-60 139.5,-60 133.5,-54 133.5,-48 133.5,-48 133.5,-12 133.5,-12 133.5,-6 139.5,0 145.5,0 145.5,0 310.5,0 310.5,0 316.5,0 322.5,-6 322.5,-12 322.5,-12 322.5,-48 322.5,-48 322.5,-54 316.5,-60 310.5,-60" />
+<text text-anchor="middle" x="228" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome 2: 0.4</text>
+<text text-anchor="middle" x="228" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">probability, Utility 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-234C89,-234 12,-234 12,-234 6,-234 0,-228 0,-222 0,-222 0,-206 0,-206 0,-200 6,-194 12,-194 12,-194 89,-194 89,-194 95,-194 101,-200 101,-206 101,-206 101,-222 101,-222 101,-228 95,-234 89,-234" />
+<text text-anchor="middle" x="50.5" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option B</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M311,-244C311,-244 145,-244 145,-244 139,-244 133,-238 133,-232 133,-232 133,-196 133,-196 133,-190 139,-184 145,-184 145,-184 311,-184 311,-184 317,-184 323,-190 323,-196 323,-196 323,-232 323,-232 323,-238 317,-244 311,-244" />
+<text text-anchor="middle" x="228" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome 1: 1</text>
+<text text-anchor="middle" x="228" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">probability, Utility 6</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M541,-162C541,-162 367,-162 367,-162 361,-162 355,-156 355,-150 355,-150 355,-94 355,-94 355,-88 361,-82 367,-82 367,-82 541,-82 541,-82 547,-82 553,-88 553,-94 553,-94 553,-150 553,-150 553,-156 547,-162 541,-162" />
+<text text-anchor="middle" x="454" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expected Value:</text>
+<text text-anchor="middle" x="454" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">(0.6*10) + (0.4 * 2) =</text>
+<text text-anchor="middle" x="454" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">6.8</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M529,-234C529,-234 379,-234 379,-234 373,-234 367,-228 367,-222 367,-222 367,-206 367,-206 367,-200 373,-194 379,-194 379,-194 529,-194 529,-194 535,-194 541,-200 541,-206 541,-206 541,-222 541,-222 541,-228 535,-234 529,-234" />
+<text text-anchor="middle" x="454" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expected Value: 6</text>
+</g>
+</g>
+</svg>

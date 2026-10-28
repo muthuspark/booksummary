@@ -14,12 +14,7 @@ Esther Perel's "The State of Affairs" doesn't offer a simplistic guide to fixing
 
 Perel directly confronts the ideal of monogamy as a lifelong, all-encompassing arrangement. She argues that the traditional understanding of monogamy, emphasizing exclusivity and the fulfillment of all needs within a single partnership, is unrealistic in the modern world. The pressure to be "one-person-for-life" can create immense pressure, especially given increased individual freedom and the complexity of modern life. She suggests a new approach that acknowledges the evolving nature of desire and the limitations of expecting one person to meet all of a partner’s needs.
 
-```mermaid
-graph LR
-    A[Traditional Monogamy] --> B(All needs met within one relationship);
-    C[Modern Expectations] --> D(Individual freedom, multiple needs);
-    D --> E[Redefining Monogamy];
-```
+![The Myth of Monogamy and Shifting Societal Expectations. Traditional Monogamy; All needs met within one relationship; Modern Expectations; Individual freedom, multiple needs; Redefining Monogamy.](diagram-01.svg)
 
 # Desire in Long-Term Relationships
 
@@ -61,18 +56,7 @@ The book doesn't promise easy answers or quick fixes.  Perel recognizes that rec
 * **Practice forgiveness:** Forgiveness, both for oneself and the partner, is essential for healing and moving forward.
 
 
-```mermaid
-graph LR
-    A[Infidelity] --> B(Understanding root causes);
-    B --> C(Open Communication);
-    C --> D(Vulnerability);
-    D --> E(Individuality);
-    E --> F(Redefining Monogamy);
-    F --> G(Therapy);
-    G --> H(Rebuilding Trust);
-    H --> I(Forgiveness);
-    I --> J(Reconciliation/Separation);
-```
+![Key Strategies and Actionable Insights:. Infidelity; Understanding root causes; Open Communication; Vulnerability; Individuality; Redefining Monogamy; Therapy; Rebuilding Trust; Forgiveness; Reconciliation/Separation.](diagram-02.svg)
 
 ## A perspective on relationship dynamics.
 

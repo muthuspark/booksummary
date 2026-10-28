@@ -15,13 +15,7 @@ This compilation of Warren Buffett's shareholder letters to Berkshire Hathaway, 
 
 Buffett's core philosophy centers around **value investing**. He seeks fundamentally undervalued companies with strong competitive advantages (moats) and capable management.  He isn't interested in short-term market fluctuations; instead, he adopts a long-term perspective, often holding investments for decades.  This patience allows him to ride out market downturns and benefit from the power of compounding.
 
-```mermaid
-graph LR
-A[Identify Undervalued Companies] --> B(Strong Competitive Advantage);
-B --> C[Capable Management];
-C --> D{Long-Term Holding};
-D --> E[Compounding Returns];
-```
+![Investing Philosophy:  Value Investing and Long-Term Perspective. Identify Undervalued Companies; Strong Competitive Advantage; Capable Management; Long-Term Holding; Compounding Returns.](diagram-01.svg)
 
 Crucially,  he emphasizes understanding a business thoroughly before investing. This involves not just examining financial statements but also grasping the underlying economics and competitive landscape.  Don't invest in what you don't understand.
 
@@ -30,12 +24,7 @@ Crucially,  he emphasizes understanding a business thoroughly before investing. 
 
 Buffett frequently stresses the importance of operating within one's **circle of competence**.  He advocates concentrating investments in areas where one possesses deep knowledge and understanding.  Stepping outside this circle increases risk significantly.
 
-```mermaid
-graph LR
-A[Know your strengths] --> B(Circle of Competence);
-B --> C[Focus Investments within Circle];
-C --> D{Minimize Risk};
-```
+![The Importance of a "Circle of Competence. Know your strengths; Circle of Competence; Focus Investments within Circle; Minimize Risk.](diagram-02.svg)
 
 This concept extends beyond investing.  It encourages self-awareness and a realistic assessment of one's abilities, advising against chasing trends or ventures beyond one's capabilities.
 

@@ -16,11 +16,7 @@ The foundation of pre-suasion lies in the power of focusing attention. Our minds
 
 For instance, if you want someone to be more generous, you might subtly prime them by exposing them to images or stories related to charity or giving back before making your request. This doesn't involve overt manipulation; rather, it sets the stage for a more receptive audience.
 
-```mermaid
-graph LR
-A[Initial State] --> B(Prime: Images of Charity);
-B --> C[Increased Generosity];
-```
+![Focusing Attention: The Priming Effect. Initial State; Prime: Images of Charity; Increased Generosity.](diagram-01.svg)
 
 ##  Utilizing the Principles of Association
 
@@ -34,11 +30,7 @@ The book emphasizes the significance of positive emotions. A positive mindset ma
 
 This can be as simple as creating a pleasant environment, using humor, or offering a small gift.  The positive feeling acts as a pre-suasive agent, making the audience more agreeable to your message.  The key is generating genuine positivity, not artificial or forced cheerfulness.
 
-```mermaid
-graph LR
-A[Neutral State] --> B(Positive Emotion);
-B --> C[Increased Receptivity];
-```
+![The Power of Positive Emotions. Neutral State; Positive Emotion; Increased Receptivity.](diagram-02.svg)
 
 ##  Utilizing the Principles of Scarcity and Urgency
 
@@ -52,12 +44,7 @@ Our self-perception plays a role in how we respond to requests. If we see oursel
 
 For example, if you're asking someone to donate to a charity, you could first subtly remind them of their past charitable acts or their values of compassion. This aligns their self-concept with the desired behavior, making them more likely to comply.
 
-```mermaid
-graph LR
-A[Weak Self-Concept] --> B(Reminder of Past Acts of Generosity);
-B --> C[Strengthened Self-Concept];
-C --> D[Increased Likelihood of Donation];
-```
+![Harnessing the Power of the Self-Concept. Weak Self-Concept; Reminder of Past Acts of Generosity; Strengthened Self-Concept; Increased Likelihood of Donation.](diagram-03.svg)
 
 
 ##  Leveraging the "Because" Principle

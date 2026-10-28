@@ -14,16 +14,7 @@ Lieberman's "Get Anyone to Do Anything" hinges on an understanding of human psyc
 
 Building rapport is presented as the cornerstone of effective influence.  This involves creating a connection with the other person, making them feel comfortable and understood. Lieberman details various techniques to achieve this, including mirroring body language, actively listening, and finding common ground.  These techniques aren't about imitation; they're about subtly signaling that you're on the same wavelength, fostering trust and cooperation.
 
-```mermaid
-graph LR
-    A[You] --> B(Mirroring Body Language);
-    A --> C(Active Listening);
-    A --> D(Finding Common Ground);
-    B --> E{Rapport};
-    C --> E;
-    D --> E;
-    E --> F[Increased Influence];
-```
+![The Power of Rapport. You; Mirroring Body Language; Active Listening; Finding Common Ground; Rapport; Increased Influence.](diagram-01.svg)
 
 ##  The Importance of Emotional Connection
 

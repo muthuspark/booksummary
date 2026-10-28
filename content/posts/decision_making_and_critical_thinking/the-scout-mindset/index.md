@@ -21,15 +21,7 @@ The book centers on the difference between the Scout Mindset and the Soldier Min
 
 This difference isn't about morality; a dedicated soldier can be a highly moral person. The key difference lies in the primary objective: truth versus victory.
 
-```mermaid
-graph LR
-    A[Soldier Mindset] --> B(Winning Arguments);
-    A --> C(Defending Beliefs);
-    A --> D(Proving Self Right);
-    E[Scout Mindset] --> F(Accurate Information);
-    E --> G(Mapping Reality);
-    E --> H(Truth Seeking);
-```
+![The Scout vs. The Soldier: A Fundamental Dichotomy. Soldier Mindset; Winning Arguments; Defending Beliefs; Proving Self Right; Scout Mindset; Accurate Information; Mapping Reality; Truth Seeking.](diagram-01.svg)
 
 ## Cultivating the Scout Mindset: Key Strategies
 

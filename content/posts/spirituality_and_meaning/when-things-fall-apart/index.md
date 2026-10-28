@@ -14,14 +14,7 @@ Pema Chödrön's "When Things Fall Apart" isn't a self-help book in the traditio
 
 The book delves deeply into the nature of the mind, highlighting its tendency towards grasping and aversion. We grasp at pleasure and push away pain, creating a cycle of dissatisfaction. This creates a rigid, fearful self, which resists change and amplifies suffering. Chödrön encourages us to see this reactivity without getting caught up in its drama. This requires mindfulness – paying attention to our thoughts and feelings without judgment, observing them as passing phenomena rather than fixed realities.
 
-```mermaid
-graph LR
-A[Grasping at Pleasure] --> B(Unsatisfying Experiences);
-C[Pushing Away Pain] --> B;
-B --> D{Suffering};
-D --> A;
-D --> C;
-```
+![The Nature of the Mind: Recognizing Our Reactivity. Grasping at Pleasure; Unsatisfying Experiences; Pushing Away Pain; Suffering.](diagram-01.svg)
 
 # Cultivating Non-Judgmental Awareness: The Path to Freedom
 

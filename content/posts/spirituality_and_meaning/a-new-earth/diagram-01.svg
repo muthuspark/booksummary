@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644pt" height="200pt" viewBox="0.00 0.00 644.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Now</title><desc id="description">Past leads to Ego. Future leads to Ego. Ego leads to Pain-Body. Pain-Body leads to Suffering. Now leads to Presence. Presence leads to Freedom.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 626,-182 626,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72.66,-71.87C89.73,-66.13 111.17,-58.92 129.04,-52.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="130.09,-55.15 135.95,-50.6 128.53,-50.5 130.09,-55.15" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195.05,-41C207.75,-41 223.63,-41 240.49,-41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="240.76,-43.45 247.76,-41 240.76,-38.55 240.76,-43.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M83.12,-26.99C97.88,-29.53 114.44,-32.38 128.74,-34.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="128.68,-37.32 136,-36.09 129.51,-32.49 128.68,-37.32" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M474.01,-41C482.5,-41 490.83,-41 498.74,-41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="498.87,-43.45 505.87,-41 498.87,-38.55 498.87,-43.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M74.24,-144C84.53,-144 96.27,-144 107.81,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.95,-146.45 114.95,-144 107.95,-141.55 107.95,-146.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M216.08,-144C242.6,-144 275.38,-144 302.95,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="303.21,-146.45 310.21,-144 303.21,-141.55 303.21,-146.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M60.5,-102C60.5,-102 22.5,-102 22.5,-102 16.5,-102 10.5,-96 10.5,-90 10.5,-90 10.5,-74 10.5,-74 10.5,-68 16.5,-62 22.5,-62 22.5,-62 60.5,-62 60.5,-62 66.5,-62 72.5,-68 72.5,-74 72.5,-74 72.5,-90 72.5,-90 72.5,-96 66.5,-102 60.5,-102" />
+<text text-anchor="middle" x="41.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Past</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183,-61C183,-61 148,-61 148,-61 142,-61 136,-55 136,-49 136,-49 136,-33 136,-33 136,-27 142,-21 148,-21 148,-21 183,-21 183,-21 189,-21 195,-27 195,-33 195,-33 195,-49 195,-49 195,-55 189,-61 183,-61" />
+<text text-anchor="middle" x="165.5" y="-36.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ego</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M71,-40C71,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 71,0 71,0 77,0 83,-6 83,-12 83,-12 83,-28 83,-28 83,-34 77,-40 71,-40" />
+<text text-anchor="middle" x="41.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Future</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="361,-81 248,-41 361,-1 474,-41 361,-81" />
+<text text-anchor="middle" x="361" y="-36.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pain-Body</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M596,-61C596,-61 518,-61 518,-61 512,-61 506,-55 506,-49 506,-49 506,-33 506,-33 506,-27 512,-21 518,-21 518,-21 596,-21 596,-21 602,-21 608,-27 608,-33 608,-33 608,-49 608,-49 608,-55 602,-61 596,-61" />
+<text text-anchor="middle" x="557" y="-36.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suffering</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M62,-164C62,-164 21,-164 21,-164 15,-164 9,-158 9,-152 9,-152 9,-136 9,-136 9,-130 15,-124 21,-124 21,-124 62,-124 62,-124 68,-124 74,-130 74,-136 74,-136 74,-152 74,-152 74,-158 68,-164 62,-164" />
+<text text-anchor="middle" x="41.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Now</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M204,-164C204,-164 127,-164 127,-164 121,-164 115,-158 115,-152 115,-152 115,-136 115,-136 115,-130 121,-124 127,-124 127,-124 204,-124 204,-124 210,-124 216,-130 216,-136 216,-136 216,-152 216,-152 216,-158 210,-164 204,-164" />
+<text text-anchor="middle" x="165.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Presence</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M399.5,-164C399.5,-164 322.5,-164 322.5,-164 316.5,-164 310.5,-158 310.5,-152 310.5,-152 310.5,-136 310.5,-136 310.5,-130 316.5,-124 322.5,-124 322.5,-124 399.5,-124 399.5,-124 405.5,-124 411.5,-130 411.5,-136 411.5,-136 411.5,-152 411.5,-152 411.5,-158 405.5,-164 399.5,-164" />
+<text text-anchor="middle" x="361" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Freedom</text>
+</g>
+</g>
+</svg>

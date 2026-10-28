@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="246pt" height="312pt" viewBox="0.00 0.00 246.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Time and Productivity Effectively</title><desc id="description">Prioritize Tasks leads to Eliminate Distractions. Eliminate Distractions leads to Define Working Hours. Define Working Hours leads to Maintain Work-Life Balance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 228,-294 228,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105,-235.87C105,-228.31 105,-219.49 105,-211.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.45,-211.1 105,-204.1 102.55,-211.1 107.45,-211.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105,-163.87C105,-156.31 105,-147.49 105,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.45,-139.1 105,-132.1 102.55,-139.1 107.45,-139.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105,-91.63C105,-84.34 105,-75.78 105,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.45,-67.19 105,-60.19 102.55,-67.19 107.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-276C169.5,-276 40.5,-276 40.5,-276 34.5,-276 28.5,-270 28.5,-264 28.5,-264 28.5,-248 28.5,-248 28.5,-242 34.5,-236 40.5,-236 40.5,-236 169.5,-236 169.5,-236 175.5,-236 181.5,-242 181.5,-248 181.5,-248 181.5,-264 181.5,-264 181.5,-270 175.5,-276 169.5,-276" />
+<text text-anchor="middle" x="105" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prioritize Tasks</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196.5,-204C196.5,-204 13.5,-204 13.5,-204 7.5,-204 1.5,-198 1.5,-192 1.5,-192 1.5,-176 1.5,-176 1.5,-170 7.5,-164 13.5,-164 13.5,-164 196.5,-164 196.5,-164 202.5,-164 208.5,-170 208.5,-176 208.5,-176 208.5,-192 208.5,-192 208.5,-198 202.5,-204 196.5,-204" />
+<text text-anchor="middle" x="105" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eliminate Distractions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198,-132C198,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 198,-92 198,-92 204,-92 210,-98 210,-104 210,-104 210,-120 210,-120 210,-126 204,-132 198,-132" />
+<text text-anchor="middle" x="105" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Working Hours</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M186.5,-60C186.5,-60 23.5,-60 23.5,-60 17.5,-60 11.5,-54 11.5,-48 11.5,-48 11.5,-12 11.5,-12 11.5,-6 17.5,0 23.5,0 23.5,0 186.5,0 186.5,0 192.5,0 198.5,-6 198.5,-12 198.5,-12 198.5,-48 198.5,-48 198.5,-54 192.5,-60 186.5,-60" />
+<text text-anchor="middle" x="105" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Maintain Work-Life</text>
+<text text-anchor="middle" x="105" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Balance</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328pt" height="536pt" viewBox="0.00 0.00 328.00 536.00" role="img" aria-labelledby="title description">
+<title id="title">Risk Tolerance and Asset Allocation</title><desc id="description">Risk Assessment leads to Determine Risk Tolerance. Determine Risk Tolerance leads to Asset Allocation Strategy. Asset Allocation Strategy leads to Diversification. Diversification leads to Portfolio Construction. Portfolio Construction leads to Regular Monitoring &amp; Adjustment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 518)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-518 310,-518 310,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146,-459.63C146,-452.34 146,-443.78 146,-435.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.45,-435.19 146,-428.19 143.55,-435.19 148.45,-435.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146,-367.53C146,-359.84 146,-351.45 146,-343.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.45,-343.23 146,-336.23 143.55,-343.23 148.45,-343.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146,-275.81C146,-268.06 146,-259.5 146,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.45,-251.09 146,-244.09 143.55,-251.09 148.45,-251.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146,-163.79C146,-155.54 146,-147.04 146,-139.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.45,-139.09 146,-132.09 143.55,-139.09 148.45,-139.09" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146,-91.63C146,-84.34 146,-75.78 146,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.45,-67.19 146,-60.19 143.55,-67.19 148.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M214.5,-500C214.5,-500 77.5,-500 77.5,-500 71.5,-500 65.5,-494 65.5,-488 65.5,-488 65.5,-472 65.5,-472 65.5,-466 71.5,-460 77.5,-460 77.5,-460 214.5,-460 214.5,-460 220.5,-460 226.5,-466 226.5,-472 226.5,-472 226.5,-488 226.5,-488 226.5,-494 220.5,-500 214.5,-500" />
+<text text-anchor="middle" x="146" y="-475.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk Assessment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211,-428C211,-428 81,-428 81,-428 75,-428 69,-422 69,-416 69,-416 69,-380 69,-380 69,-374 75,-368 81,-368 81,-368 211,-368 211,-368 217,-368 223,-374 223,-380 223,-380 223,-416 223,-416 223,-422 217,-428 211,-428" />
+<text text-anchor="middle" x="146" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Determine Risk</text>
+<text text-anchor="middle" x="146" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tolerance</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M212,-336C212,-336 80,-336 80,-336 74,-336 68,-330 68,-324 68,-324 68,-288 68,-288 68,-282 74,-276 80,-276 80,-276 212,-276 212,-276 218,-276 224,-282 224,-288 224,-288 224,-324 224,-324 224,-330 218,-336 212,-336" />
+<text text-anchor="middle" x="146" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Asset Allocation</text>
+<text text-anchor="middle" x="146" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategy</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="146,-244 0,-204 146,-164 292,-204 146,-244" />
+<text text-anchor="middle" x="146" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diversification</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M237,-132C237,-132 55,-132 55,-132 49,-132 43,-126 43,-120 43,-120 43,-104 43,-104 43,-98 49,-92 55,-92 55,-92 237,-92 237,-92 243,-92 249,-98 249,-104 249,-104 249,-120 249,-120 249,-126 243,-132 237,-132" />
+<text text-anchor="middle" x="146" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Portfolio Construction</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M235.5,-60C235.5,-60 56.5,-60 56.5,-60 50.5,-60 44.5,-54 44.5,-48 44.5,-48 44.5,-12 44.5,-12 44.5,-6 50.5,0 56.5,0 56.5,0 235.5,0 235.5,0 241.5,0 247.5,-6 247.5,-12 247.5,-12 247.5,-48 247.5,-48 247.5,-54 241.5,-60 235.5,-60" />
+<text text-anchor="middle" x="146" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regular Monitoring &amp;</text>
+<text text-anchor="middle" x="146" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjustment</text>
+</g>
+</g>
+</svg>

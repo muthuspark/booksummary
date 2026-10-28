@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236pt" height="364pt" viewBox="0.00 0.00 236.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Breath and Body Awareness</title><desc id="description">Stressful Situation leads to Conscious Breathing. Conscious Breathing leads to Calmer Mind. Calmer Mind leads to Improved Focus. Improved Focus leads to Enhanced Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 218,-346 218,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-287.87C100,-280.31 100,-271.49 100,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-263.1 100,-256.1 97.55,-263.1 102.45,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-215.87C100,-208.31 100,-199.49 100,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-191.1 100,-184.1 97.55,-191.1 102.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-143.87C100,-136.31 100,-127.49 100,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-119.1 100,-112.1 97.55,-119.1 102.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-71.87C100,-64.31 100,-55.49 100,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-47.1 100,-40.1 97.55,-47.1 102.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-328C175,-328 25,-328 25,-328 19,-328 13,-322 13,-316 13,-316 13,-300 13,-300 13,-294 19,-288 25,-288 25,-288 175,-288 175,-288 181,-288 187,-294 187,-300 187,-300 187,-316 187,-316 187,-322 181,-328 175,-328" />
+<text text-anchor="middle" x="100" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stressful Situation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184,-256C184,-256 16,-256 16,-256 10,-256 4,-250 4,-244 4,-244 4,-228 4,-228 4,-222 10,-216 16,-216 16,-216 184,-216 184,-216 190,-216 196,-222 196,-228 196,-228 196,-244 196,-244 196,-250 190,-256 184,-256" />
+<text text-anchor="middle" x="100" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conscious Breathing</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-184C155,-184 45,-184 45,-184 39,-184 33,-178 33,-172 33,-172 33,-156 33,-156 33,-150 39,-144 45,-144 45,-144 155,-144 155,-144 161,-144 167,-150 167,-156 167,-156 167,-172 167,-172 167,-178 161,-184 155,-184" />
+<text text-anchor="middle" x="100" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Calmer Mind</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-112C167,-112 33,-112 33,-112 27,-112 21,-106 21,-100 21,-100 21,-84 21,-84 21,-78 27,-72 33,-72 33,-72 167,-72 167,-72 173,-72 179,-78 179,-84 179,-84 179,-100 179,-100 179,-106 173,-112 167,-112" />
+<text text-anchor="middle" x="100" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Focus</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M188,-40C188,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 188,0 188,0 194,0 200,-6 200,-12 200,-12 200,-28 200,-28 200,-34 194,-40 188,-40" />
+<text text-anchor="middle" x="100" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enhanced Well-being</text>
+</g>
+</g>
+</svg>

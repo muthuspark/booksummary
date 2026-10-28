@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="457pt" height="312pt" viewBox="0.00 0.00 456.50 312.00" role="img" aria-labelledby="title description">
+<title id="title">Finding the Sweet Spot: Balancing the Rider and the Elephant</title><desc id="description">Rider leads to Strategic Direction. Elephant leads to Motivation &amp; Emotional Energy. Sweet Spot leads to Effective Change. Strategic Direction leads to Sweet Spot. Motivation &amp; Emotional Energy leads to Sweet Spot.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 438.5,-294 438.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-235.63C89,-225.32 89,-212.48 89,-201.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-201.19 89,-194.19 86.55,-201.19 91.45,-201.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115.35,-153.84C130.86,-142.56 150.59,-128.21 166.99,-116.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.65,-118.1 172.87,-112.01 165.77,-114.14 168.65,-118.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M310,-235.63C310,-228.34 310,-219.78 310,-211.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="312.45,-211.19 310,-204.19 307.55,-211.19 312.45,-211.19" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M269.61,-143.89C257.04,-134.83 243.35,-124.96 231.4,-116.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.79,-114.34 225.68,-112.23 229.93,-118.31 232.79,-114.34" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199,-71.87C199,-64.31 199,-55.49 199,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.45,-47.1 199,-40.1 196.55,-47.1 201.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M114,-276C114,-276 64,-276 64,-276 58,-276 52,-270 52,-264 52,-264 52,-248 52,-248 52,-242 58,-236 64,-236 64,-236 114,-236 114,-236 120,-236 126,-242 126,-248 126,-248 126,-264 126,-264 126,-270 120,-276 114,-276" />
+<text text-anchor="middle" x="89" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rider</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166,-194C166,-194 12,-194 12,-194 6,-194 0,-188 0,-182 0,-182 0,-166 0,-166 0,-160 6,-154 12,-154 12,-154 166,-154 166,-154 172,-154 178,-160 178,-166 178,-166 178,-182 178,-182 178,-188 172,-194 166,-194" />
+<text text-anchor="middle" x="89" y="-169.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategic Direction</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M348.5,-276C348.5,-276 271.5,-276 271.5,-276 265.5,-276 259.5,-270 259.5,-264 259.5,-264 259.5,-248 259.5,-248 259.5,-242 265.5,-236 271.5,-236 271.5,-236 348.5,-236 348.5,-236 354.5,-236 360.5,-242 360.5,-248 360.5,-248 360.5,-264 360.5,-264 360.5,-270 354.5,-276 348.5,-276" />
+<text text-anchor="middle" x="310" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Elephant</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M408.5,-204C408.5,-204 211.5,-204 211.5,-204 205.5,-204 199.5,-198 199.5,-192 199.5,-192 199.5,-156 199.5,-156 199.5,-150 205.5,-144 211.5,-144 211.5,-144 408.5,-144 408.5,-144 414.5,-144 420.5,-150 420.5,-156 420.5,-156 420.5,-192 420.5,-192 420.5,-198 414.5,-204 408.5,-204" />
+<text text-anchor="middle" x="310" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Motivation &amp; Emotional</text>
+<text text-anchor="middle" x="310" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Energy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M245,-112C245,-112 153,-112 153,-112 147,-112 141,-106 141,-100 141,-100 141,-84 141,-84 141,-78 147,-72 153,-72 153,-72 245,-72 245,-72 251,-72 257,-78 257,-84 257,-84 257,-100 257,-100 257,-106 251,-112 245,-112" />
+<text text-anchor="middle" x="199" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sweet Spot</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M268.5,-40C268.5,-40 129.5,-40 129.5,-40 123.5,-40 117.5,-34 117.5,-28 117.5,-28 117.5,-12 117.5,-12 117.5,-6 123.5,0 129.5,0 129.5,0 268.5,0 268.5,0 274.5,0 280.5,-6 280.5,-12 280.5,-12 280.5,-28 280.5,-28 280.5,-34 274.5,-40 268.5,-40" />
+<text text-anchor="middle" x="199" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective Change</text>
+</g>
+</g>
+</svg>

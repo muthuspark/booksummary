@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="332pt" viewBox="0.00 0.00 439.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">Beyond Diet: Lifestyle Changes</title><desc id="description">Wheat Belly Diet leads to Eliminate Wheat. Eliminate Wheat leads to Reduce Inflammation. Reduce Inflammation leads to Improved Health. Lifestyle Changes leads to Improved Health. Lifestyle Changes leads to Exercise, Stress Management, Sleep, Hydration.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 421.5,-314 421.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.5,-255.87C101.5,-248.31 101.5,-239.49 101.5,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.95,-231.1 101.5,-224.1 99.05,-231.1 103.95,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.5,-183.87C101.5,-176.31 101.5,-167.49 101.5,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.95,-159.1 101.5,-152.1 99.05,-159.1 103.95,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.14,-111.91C102.57,-98.91 103.15,-81.52 103.63,-67.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="106.08,-67.14 103.86,-60.06 101.18,-66.97 106.08,-67.14" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M265.24,-111.91C232.78,-97.59 188.29,-77.97 154.34,-62.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.09,-60.64 147.7,-60.06 153.12,-65.13 155.09,-60.64" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M308.5,-111.91C308.5,-104.58 308.5,-95.86 308.5,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="310.95,-87.07 308.5,-80.07 306.05,-87.07 310.95,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M171.5,-296C171.5,-296 31.5,-296 31.5,-296 25.5,-296 19.5,-290 19.5,-284 19.5,-284 19.5,-268 19.5,-268 19.5,-262 25.5,-256 31.5,-256 31.5,-256 171.5,-256 171.5,-256 177.5,-256 183.5,-262 183.5,-268 183.5,-268 183.5,-284 183.5,-284 183.5,-290 177.5,-296 171.5,-296" />
+<text text-anchor="middle" x="101.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wheat Belly Diet</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M171,-224C171,-224 32,-224 32,-224 26,-224 20,-218 20,-212 20,-212 20,-196 20,-196 20,-190 26,-184 32,-184 32,-184 171,-184 171,-184 177,-184 183,-190 183,-196 183,-196 183,-212 183,-212 183,-218 177,-224 171,-224" />
+<text text-anchor="middle" x="101.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Eliminate Wheat</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-152C191,-152 12,-152 12,-152 6,-152 0,-146 0,-140 0,-140 0,-124 0,-124 0,-118 6,-112 12,-112 12,-112 191,-112 191,-112 197,-112 203,-118 203,-124 203,-124 203,-140 203,-140 203,-146 197,-152 191,-152" />
+<text text-anchor="middle" x="101.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduce Inflammation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M176,-60C176,-60 33,-60 33,-60 27,-60 21,-54 21,-48 21,-48 21,-32 21,-32 21,-26 27,-20 33,-20 33,-20 176,-20 176,-20 182,-20 188,-26 188,-32 188,-32 188,-48 188,-48 188,-54 182,-60 176,-60" />
+<text text-anchor="middle" x="104.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Health</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M380,-152C380,-152 237,-152 237,-152 231,-152 225,-146 225,-140 225,-140 225,-124 225,-124 225,-118 231,-112 237,-112 237,-112 380,-112 380,-112 386,-112 392,-118 392,-124 392,-124 392,-140 392,-140 392,-146 386,-152 380,-152" />
+<text text-anchor="middle" x="308.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lifestyle Changes</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M391.5,-80C391.5,-80 225.5,-80 225.5,-80 219.5,-80 213.5,-74 213.5,-68 213.5,-68 213.5,-12 213.5,-12 213.5,-6 219.5,0 225.5,0 225.5,0 391.5,0 391.5,0 397.5,0 403.5,-6 403.5,-12 403.5,-12 403.5,-68 403.5,-68 403.5,-74 397.5,-80 391.5,-80" />
+<text text-anchor="middle" x="308.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exercise, Stress</text>
+<text text-anchor="middle" x="308.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Management, Sleep,</text>
+<text text-anchor="middle" x="308.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hydration</text>
+</g>
+</g>
+</svg>

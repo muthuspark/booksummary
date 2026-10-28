@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284pt" height="312pt" viewBox="0.00 0.00 284.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Self-Reflection and Continuous Improvement</title><desc id="description">Self-Assessment leads to Identify Areas for Improvement. Identify Areas for Improvement leads to Adjust Strategies. Adjust Strategies leads to Implement &amp; Evaluate. Implement &amp; Evaluate leads to Self-Assessment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 266,-294 266,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.22,-235.63C123.51,-227.9 116.76,-218.74 110.25,-209.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="112.15,-208.37 106.02,-204.19 108.21,-211.27 112.15,-208.37" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M84.87,-143.67C84.97,-135.77 85.07,-127.28 85.17,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="87.62,-119.15 85.26,-112.12 82.72,-119.09 87.62,-119.15" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.35,-71.87C108,-63.85 115.82,-54.41 122.9,-45.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="125.09,-47.06 127.67,-40.1 121.32,-43.93 125.09,-47.06" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.81,-40.38C167.7,-49.34 174.86,-60.54 178.5,-72 179.51,-75.19 181.76,-196.87 179.5,-204 176.57,-213.22 171.31,-222.21 165.7,-230.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="163.64,-228.67 161.37,-235.73 167.55,-231.62 163.64,-228.67" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M210.5,-276C210.5,-276 76.5,-276 76.5,-276 70.5,-276 64.5,-270 64.5,-264 64.5,-264 64.5,-248 64.5,-248 64.5,-242 70.5,-236 76.5,-236 76.5,-236 210.5,-236 210.5,-236 216.5,-236 222.5,-242 222.5,-248 222.5,-248 222.5,-264 222.5,-264 222.5,-270 216.5,-276 210.5,-276" />
+<text text-anchor="middle" x="143.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157,-204C157,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 157,-144 157,-144 163,-144 169,-150 169,-156 169,-156 169,-192 169,-192 169,-198 163,-204 157,-204" />
+<text text-anchor="middle" x="84.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Areas for</text>
+<text text-anchor="middle" x="84.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improvement</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-112C155,-112 16,-112 16,-112 10,-112 4,-106 4,-100 4,-100 4,-84 4,-84 4,-78 10,-72 16,-72 16,-72 155,-72 155,-72 161,-72 167,-78 167,-84 167,-84 167,-100 167,-100 167,-106 161,-112 155,-112" />
+<text text-anchor="middle" x="85.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjust Strategies</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M236,-40C236,-40 51,-40 51,-40 45,-40 39,-34 39,-28 39,-28 39,-12 39,-12 39,-6 45,0 51,0 51,0 236,0 236,0 242,0 248,-6 248,-12 248,-12 248,-28 248,-28 248,-34 242,-40 236,-40" />
+<text text-anchor="middle" x="143.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implement &amp; Evaluate</text>
+</g>
+</g>
+</svg>

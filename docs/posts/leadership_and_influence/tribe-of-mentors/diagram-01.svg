@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372pt" height="332pt" viewBox="0.00 0.00 372.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Defining Success and Purpose:  Your North Star</title><desc id="description">Self-Reflection leads to Value Identification. Value Identification leads to Action Alignment. Action Alignment leads to Sustainable Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 354,-314 354,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168,-255.87C168,-248.31 168,-239.49 168,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.45,-231.1 168,-224.1 165.55,-231.1 170.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168,-183.91C168,-176.58 168,-167.86 168,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.45,-159.07 168,-152.07 165.55,-159.07 170.45,-159.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168,-71.79C168,-63.54 168,-55.04 168,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.45,-47.09 168,-40.09 165.55,-47.09 170.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229.5,-296C229.5,-296 106.5,-296 106.5,-296 100.5,-296 94.5,-290 94.5,-284 94.5,-284 94.5,-268 94.5,-268 94.5,-262 100.5,-256 106.5,-256 106.5,-256 229.5,-256 229.5,-256 235.5,-256 241.5,-262 241.5,-268 241.5,-268 241.5,-284 241.5,-284 241.5,-290 235.5,-296 229.5,-296" />
+<text text-anchor="middle" x="168" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M249.5,-224C249.5,-224 86.5,-224 86.5,-224 80.5,-224 74.5,-218 74.5,-212 74.5,-212 74.5,-196 74.5,-196 74.5,-190 80.5,-184 86.5,-184 86.5,-184 249.5,-184 249.5,-184 255.5,-184 261.5,-190 261.5,-196 261.5,-196 261.5,-212 261.5,-212 261.5,-218 255.5,-224 249.5,-224" />
+<text text-anchor="middle" x="168" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Value Identification</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="168,-152 0,-112 168,-72 336,-112 168,-152" />
+<text text-anchor="middle" x="168" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action Alignment</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M248.5,-40C248.5,-40 87.5,-40 87.5,-40 81.5,-40 75.5,-34 75.5,-28 75.5,-28 75.5,-12 75.5,-12 75.5,-6 81.5,0 87.5,0 87.5,0 248.5,0 248.5,0 254.5,0 260.5,-6 260.5,-12 260.5,-12 260.5,-28 260.5,-28 260.5,-34 254.5,-40 248.5,-40" />
+<text text-anchor="middle" x="168" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sustainable Success</text>
+</g>
+</g>
+</svg>

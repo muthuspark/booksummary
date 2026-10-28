@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326pt" height="109pt" viewBox="0.00 0.00 326.00 109.00" role="img" aria-labelledby="title description">
+<title id="title">Ego States: The Building Blocks of Personality</title><desc id="description">Adult leads to Parent. Adult leads to Child. Parent leads to Adult. Child leads to Adult. Parent leads to Child. Child leads to Parent.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 91)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-91 308,-91 308,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M73.3,-23.16C81.49,-25.28 90.31,-27.87 98.87,-30.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="98.24,-33.04 105.66,-32.94 99.8,-28.39 98.24,-33.04" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M73.17,-13.69C111.26,-11.23 171.57,-11.11 211.83,-13.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.72,-15.78 218.85,-13.75 212.01,-10.88 211.72,-15.78" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.91,-48.7C96.81,-46.51 88.26,-43.91 80.07,-41.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.71,-38.79 73.3,-38.82 79.11,-43.42 80.71,-38.79" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.05,-32.92C194.4,-30.01 203.25,-27.23 211.7,-24.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.56,-27.18 218.68,-23 211.28,-22.45 212.56,-27.18" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M218.85,-26.25C181.16,-28.75 120.87,-28.91 80.26,-26.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.3,-24.28 73.17,-26.31 80.01,-29.17 80.3,-24.28" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M218.76,-38.56C210.9,-41.4 202.42,-44.16 194.15,-46.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.32,-44.28 187.26,-48.55 194.67,-48.99 193.32,-44.28" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M61,-40C61,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 61,0 61,0 67,0 73,-6 73,-12 73,-12 73,-28 73,-28 73,-34 67,-40 61,-40" />
+<text text-anchor="middle" x="36.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adult</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-73C175,-73 117,-73 117,-73 111,-73 105,-67 105,-61 105,-61 105,-45 105,-45 105,-39 111,-33 117,-33 117,-33 175,-33 175,-33 181,-33 187,-39 187,-45 187,-45 187,-61 187,-61 187,-67 181,-73 175,-73" />
+<text text-anchor="middle" x="146" y="-48.6" font-family="Georgia" font-size="18.00" fill="#243d36">Parent</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278,-40C278,-40 231,-40 231,-40 225,-40 219,-34 219,-28 219,-28 219,-12 219,-12 219,-6 225,0 231,0 231,0 278,0 278,0 284,0 290,-6 290,-12 290,-12 290,-28 290,-28 290,-34 284,-40 278,-40" />
+<text text-anchor="middle" x="254.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Child</text>
+</g>
+</g>
+</svg>

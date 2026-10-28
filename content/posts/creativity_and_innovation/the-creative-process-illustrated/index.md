@@ -18,13 +18,7 @@ Griffin structures his approach around four key stages: Preparation, Incubation,
 
 This initial stage involves gathering information, immersing oneself in the problem or challenge, and defining the goal clearly.  It's about laying the groundwork for creative breakthroughs.  Thorough research, brainstorming, and mindful observation are critical components of this stage.  Griffin stresses the need for focused attention and deliberate practice to build a strong foundation.
 
-```mermaid
-graph LR
-    A[Define Problem/Goal] --> B(Gather Information);
-    B --> C{Brainstorm Ideas};
-    C --> D[Research & Exploration];
-    D --> E(Develop Understanding);
-```
+![Preparation. Define Problem/Goal; Gather Information; Brainstorm Ideas; Research & Exploration; Develop Understanding.](diagram-01.svg)
 
 ### Incubation
 
@@ -39,13 +33,7 @@ This is the "aha!" moment, the sudden insight or breakthrough that often occurs 
 
 The final stage involves testing, refining, and evaluating the illuminated idea.  This is a critical step often overlooked.  Griffin emphasizes the importance of rigorous testing and refinement to transform a raw idea into a viable solution or creative work.  This may involve seeking feedback, making revisions, and adapting the idea based on real-world constraints.
 
-```mermaid
-graph LR
-    A[Illumination/Insight] --> B(Test & Refine);
-    B --> C{Seek Feedback};
-    C --> D[Revision & Adaptation];
-    D --> E(Implementation/Finalization);
-```
+![Verification. Illumination/Insight; Test & Refine; Seek Feedback; Revision & Adaptation; Implementation/Finalization.](diagram-02.svg)
 
 
 ## Overcoming Creative Blocks

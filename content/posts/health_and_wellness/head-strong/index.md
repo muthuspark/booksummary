@@ -24,13 +24,7 @@ Diet plays a role in brain health according to Asprey. He emphasizes consuming f
 
 * **Introducing brain-boosting nutrients:**  The book highlights the importance of specific nutrients like choline, magnesium, and omega-3 fatty acids for optimal brain health. He encourages readers to incorporate these nutrients through diet or supplementation.
 
-```mermaid
-graph LR
-    A[Healthy Fats] --> B(Improved Brain Function);
-    C[Processed Foods] --> D(Inflammation);
-    E[Brain-Boosting Nutrients] --> F(Enhanced Cognitive Performance);
-    D --> G(Reduced Cognitive Function);
-```
+![Optimizing Your Diet: Fueling the Brain. Healthy Fats; Improved Brain Function; Processed Foods; Inflammation; Brain-Boosting Nutrients; Enhanced Cognitive Performance; Reduced Cognitive Function.](diagram-01.svg)
 
 ## Sleep: The Cornerstone of Regeneration
 

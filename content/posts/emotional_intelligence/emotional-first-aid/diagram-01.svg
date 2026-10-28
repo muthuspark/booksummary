@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640pt" height="240pt" viewBox="0.00 0.00 640.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Pillars of Emotional First Aid</title><desc id="description">Emotional Injury leads to Comfort. Emotional Injury leads to Reduce Pain. Emotional Injury leads to Promote Healing. Emotional Injury leads to Prevent Future Injuries. Comfort leads to Improved Well-being. Reduce Pain leads to Improved Well-being. Promote Healing leads to Improved Well-being. Prevent Future Injuries leads to Improved Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 622,-222 622,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M197.73,-163.94C168.93,-155.19 135.21,-144.08 105.5,-132 100.44,-129.94 95.22,-127.62 90.07,-125.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="90.98,-122.94 83.61,-122.13 88.87,-127.36 90.98,-122.94" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M245.17,-163.63C233.61,-152.63 219.04,-138.75 206.76,-127.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.41,-125.24 201.65,-122.19 205.03,-128.79 208.41,-125.24" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M286.08,-163.63C297.77,-152.63 312.51,-138.75 324.94,-127.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="326.7,-128.77 330.11,-122.19 323.34,-125.2 326.7,-128.77" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M335.45,-163.97C368.62,-154.71 408.73,-143.19 444.5,-132 445.68,-131.63 446.86,-131.26 448.05,-130.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="449.02,-133.14 454.94,-128.68 447.53,-128.48 449.02,-133.14" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M83.61,-81.87C90.77,-78.38 98.3,-74.93 105.5,-72 132.89,-60.87 163.68,-50.55 190.89,-42.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.75,-44.45 197.73,-40.06 190.32,-39.77 191.75,-44.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201.83,-81.63C213.39,-70.63 227.96,-56.75 240.24,-45.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.97,-46.79 245.35,-40.19 238.59,-43.24 241.97,-46.79" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M329.92,-81.63C318.23,-70.63 303.49,-56.75 291.06,-45.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="292.66,-43.2 285.89,-40.19 289.3,-46.77 292.66,-43.2" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M454.94,-75.32C451.42,-74.18 447.92,-73.07 444.5,-72 411.24,-61.6 374.24,-50.91 342.55,-42.02" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="342.85,-39.56 335.45,-40.03 341.53,-44.28 342.85,-39.56" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M336.5,-204C336.5,-204 194.5,-204 194.5,-204 188.5,-204 182.5,-198 182.5,-192 182.5,-192 182.5,-176 182.5,-176 182.5,-170 188.5,-164 194.5,-164 194.5,-164 336.5,-164 336.5,-164 342.5,-164 348.5,-170 348.5,-176 348.5,-176 348.5,-192 348.5,-192 348.5,-198 342.5,-204 336.5,-204" />
+<text text-anchor="middle" x="265.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Injury</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M83,-122C83,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 83,-82 83,-82 89,-82 95,-88 95,-94 95,-94 95,-110 95,-110 95,-116 89,-122 83,-122" />
+<text text-anchor="middle" x="47.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Comfort</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M234,-122C234,-122 129,-122 129,-122 123,-122 117,-116 117,-110 117,-110 117,-94 117,-94 117,-88 123,-82 129,-82 129,-82 234,-82 234,-82 240,-82 246,-88 246,-94 246,-94 246,-110 246,-110 246,-116 240,-122 234,-122" />
+<text text-anchor="middle" x="181.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduce Pain</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M421,-122C421,-122 280,-122 280,-122 274,-122 268,-116 268,-110 268,-110 268,-94 268,-94 268,-88 274,-82 280,-82 280,-82 421,-82 421,-82 427,-82 433,-88 433,-94 433,-94 433,-110 433,-110 433,-116 427,-122 421,-122" />
+<text text-anchor="middle" x="350.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Promote Healing</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M592,-132C592,-132 467,-132 467,-132 461,-132 455,-126 455,-120 455,-120 455,-84 455,-84 455,-78 461,-72 467,-72 467,-72 592,-72 592,-72 598,-72 604,-78 604,-84 604,-84 604,-120 604,-120 604,-126 598,-132 592,-132" />
+<text text-anchor="middle" x="529.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prevent Future</text>
+<text text-anchor="middle" x="529.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Injuries</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M353,-40C353,-40 178,-40 178,-40 172,-40 166,-34 166,-28 166,-28 166,-12 166,-12 166,-6 172,0 178,0 178,0 353,0 353,0 359,0 365,-6 365,-12 365,-12 365,-28 365,-28 365,-34 359,-40 353,-40" />
+<text text-anchor="middle" x="265.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Well-being</text>
+</g>
+</g>
+</svg>

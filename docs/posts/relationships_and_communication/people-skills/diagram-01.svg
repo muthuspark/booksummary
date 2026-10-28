@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470pt" height="158pt" viewBox="0.00 0.00 470.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">Assertiveness: Expressing Yourself Effectively</title><desc id="description">Passive leads to Assertive. Aggressive leads to Assertive. Assertive leads to Mutual Respect. Assertive leads to Effective Communication.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 452,-140 452,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100.1,-87.36C112.03,-84.66 125.18,-81.68 137.79,-78.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="138.44,-81.2 144.73,-77.26 137.36,-76.42 138.44,-81.2" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M246.22,-77.29C254.38,-79.15 263.04,-81.11 271.76,-83.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="271.39,-85.52 278.75,-84.68 272.47,-80.74 271.39,-85.52" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M246.22,-54.71C254.09,-52.92 262.42,-51.03 270.82,-49.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="271.6,-51.46 277.88,-47.52 270.51,-46.68 271.6,-51.46" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113.22,-47.61C121.44,-49.47 129.91,-51.39 138.15,-53.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="137.62,-55.64 144.99,-54.8 138.7,-50.86 137.62,-55.64" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M88,-117C88,-117 25,-117 25,-117 19,-117 13,-111 13,-105 13,-105 13,-89 13,-89 13,-83 19,-77 25,-77 25,-77 88,-77 88,-77 94,-77 100,-83 100,-89 100,-89 100,-105 100,-105 100,-111 94,-117 88,-117" />
+<text text-anchor="middle" x="56.5" y="-92.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passive</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M234,-86C234,-86 157,-86 157,-86 151,-86 145,-80 145,-74 145,-74 145,-58 145,-58 145,-52 151,-46 157,-46 157,-46 234,-46 234,-46 240,-46 246,-52 246,-58 246,-58 246,-74 246,-74 246,-80 240,-86 234,-86" />
+<text text-anchor="middle" x="195.5" y="-61.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assertive</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M101,-55C101,-55 12,-55 12,-55 6,-55 0,-49 0,-43 0,-43 0,-27 0,-27 0,-21 6,-15 12,-15 12,-15 101,-15 101,-15 107,-15 113,-21 113,-27 113,-27 113,-43 113,-43 113,-49 107,-55 101,-55" />
+<text text-anchor="middle" x="56.5" y="-30.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aggressive</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M421,-122C421,-122 291,-122 291,-122 285,-122 279,-116 279,-110 279,-110 279,-94 279,-94 279,-88 285,-82 291,-82 291,-82 421,-82 421,-82 427,-82 433,-88 433,-94 433,-94 433,-110 433,-110 433,-116 427,-122 421,-122" />
+<text text-anchor="middle" x="356" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Respect</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M422,-60C422,-60 290,-60 290,-60 284,-60 278,-54 278,-48 278,-48 278,-12 278,-12 278,-6 284,0 290,0 290,0 422,0 422,0 428,0 434,-6 434,-12 434,-12 434,-48 434,-48 434,-54 428,-60 422,-60" />
+<text text-anchor="middle" x="356" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective</text>
+<text text-anchor="middle" x="356" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+</g>
+</svg>

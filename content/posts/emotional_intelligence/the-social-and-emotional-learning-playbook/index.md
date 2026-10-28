@@ -21,14 +21,7 @@ Frey outlines many key SEL skills for personal and professional success. These f
 * **Responsible decision-making:**  Considering consequences, ethical implications, and making informed choices.
 
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Management);
-    A --> C(Social Awareness);
-    B --> D{Relationship Skills};
-    C --> D;
-    D --> E[Responsible Decision-Making];
-```
+![The Foundational Skills of SEL. Self-Awareness; Self-Management; Social Awareness; Relationship Skills; Responsible Decision-Making.](diagram-01.svg)
 
 ## Cultivating Self-Awareness: Knowing Yourself
 

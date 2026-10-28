@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="548pt" viewBox="0.00 0.00 432.00 548.00" role="img" aria-labelledby="title description">
+<title id="title">Improving Decision-Making Through Structured Analysis</title><desc id="description">Define Problem leads to Brainstorm Solutions. Brainstorm Solutions leads to Evaluate Options. Evaluate Options leads to Consider Risks. Consider Risks leads to Choose Solution. Choose Solution leads to Monitor Outcomes. Monitor Outcomes leads to Learn &amp; Adapt.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 530)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-530 414,-530 414,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198,-471.91C198,-464.58 198,-455.86 198,-447.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.45,-447.07 198,-440.07 195.55,-447.07 200.45,-447.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198,-359.79C198,-351.54 198,-343.04 198,-335.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.45,-335.09 198,-328.09 195.55,-335.09 200.45,-335.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198,-287.87C198,-280.31 198,-271.49 198,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.45,-263.1 198,-256.1 195.55,-263.1 200.45,-263.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198,-215.87C198,-208.31 198,-199.49 198,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.45,-191.1 198,-184.1 195.55,-191.1 200.45,-191.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198,-143.87C198,-136.31 198,-127.49 198,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.45,-119.1 198,-112.1 195.55,-119.1 200.45,-119.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198,-71.87C198,-64.31 198,-55.49 198,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="200.45,-47.1 198,-40.1 195.55,-47.1 200.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263.5,-512C263.5,-512 132.5,-512 132.5,-512 126.5,-512 120.5,-506 120.5,-500 120.5,-500 120.5,-484 120.5,-484 120.5,-478 126.5,-472 132.5,-472 132.5,-472 263.5,-472 263.5,-472 269.5,-472 275.5,-478 275.5,-484 275.5,-484 275.5,-500 275.5,-500 275.5,-506 269.5,-512 263.5,-512" />
+<text text-anchor="middle" x="198" y="-487.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Problem</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="198,-440 0,-400 198,-360 396,-400 198,-440" />
+<text text-anchor="middle" x="198" y="-395.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brainstorm Solutions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M269,-328C269,-328 127,-328 127,-328 121,-328 115,-322 115,-316 115,-316 115,-300 115,-300 115,-294 121,-288 127,-288 127,-288 269,-288 269,-288 275,-288 281,-294 281,-300 281,-300 281,-316 281,-316 281,-322 275,-328 269,-328" />
+<text text-anchor="middle" x="198" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluate Options</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M259.5,-256C259.5,-256 136.5,-256 136.5,-256 130.5,-256 124.5,-250 124.5,-244 124.5,-244 124.5,-228 124.5,-228 124.5,-222 130.5,-216 136.5,-216 136.5,-216 259.5,-216 259.5,-216 265.5,-216 271.5,-222 271.5,-228 271.5,-228 271.5,-244 271.5,-244 271.5,-250 265.5,-256 259.5,-256" />
+<text text-anchor="middle" x="198" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consider Risks</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265,-184C265,-184 131,-184 131,-184 125,-184 119,-178 119,-172 119,-172 119,-156 119,-156 119,-150 125,-144 131,-144 131,-144 265,-144 265,-144 271,-144 277,-150 277,-156 277,-156 277,-172 277,-172 277,-178 271,-184 265,-184" />
+<text text-anchor="middle" x="198" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose Solution</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M275.5,-112C275.5,-112 120.5,-112 120.5,-112 114.5,-112 108.5,-106 108.5,-100 108.5,-100 108.5,-84 108.5,-84 108.5,-78 114.5,-72 120.5,-72 120.5,-72 275.5,-72 275.5,-72 281.5,-72 287.5,-78 287.5,-84 287.5,-84 287.5,-100 287.5,-100 287.5,-106 281.5,-112 275.5,-112" />
+<text text-anchor="middle" x="198" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Monitor Outcomes</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M258.5,-40C258.5,-40 137.5,-40 137.5,-40 131.5,-40 125.5,-34 125.5,-28 125.5,-28 125.5,-12 125.5,-12 125.5,-6 131.5,0 137.5,0 137.5,0 258.5,0 258.5,0 264.5,0 270.5,-6 270.5,-12 270.5,-12 270.5,-28 270.5,-28 270.5,-34 264.5,-40 258.5,-40" />
+<text text-anchor="middle" x="198" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learn &amp; Adapt</text>
+</g>
+</g>
+</svg>

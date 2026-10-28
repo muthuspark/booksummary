@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="655pt" height="200pt" viewBox="0.00 0.00 655.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying and Leveraging Strengths</title><desc id="description">Partner A: Strengths leads to Shared Vision. Partner B: Strengths leads to Shared Vision. Shared Vision leads to Achieved Goals. Partner A: Strengths leads to Partner B: Weaknesses (dashed connection). Partner B: Strengths leads to Partner A: Weaknesses (dashed connection).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 637,-182 637,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192.03,-109.16C212.21,-105.16 233.25,-100.98 252.62,-97.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="253.29,-99.51 259.68,-95.74 252.34,-94.7 253.29,-99.51" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M192.03,-134.55C200.24,-135.12 208.6,-135.7 216.93,-136.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.77,-138.72 223.92,-136.75 217.1,-133.83 216.77,-138.72" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M400.25,-82C419.65,-82 440.92,-82 460.96,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="460.99,-84.45 467.99,-82 460.99,-79.55 460.99,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192.03,-63.7C212.21,-66.39 233.25,-69.21 252.62,-71.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.42,-74.24 259.68,-72.74 253.07,-69.38 252.42,-74.24" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M192.03,-38.3C200.24,-37.2 208.6,-36.09 216.93,-34.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.31,-37.4 223.92,-34.04 216.66,-32.54 217.31,-37.4" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180,-148C180,-148 12,-148 12,-148 6,-148 0,-142 0,-136 0,-136 0,-120 0,-120 0,-114 6,-108 12,-108 12,-108 180,-108 180,-108 186,-108 192,-114 192,-120 192,-120 192,-136 192,-136 192,-142 186,-148 180,-148" />
+<text text-anchor="middle" x="96" y="-123.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner A: Strengths</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M388,-102C388,-102 272,-102 272,-102 266,-102 260,-96 260,-90 260,-90 260,-74 260,-74 260,-68 266,-62 272,-62 272,-62 388,-62 388,-62 394,-62 400,-68 400,-74 400,-74 400,-90 400,-90 400,-96 394,-102 388,-102" />
+<text text-anchor="middle" x="330" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Vision</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180,-71C180,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 180,-31 180,-31 186,-31 192,-37 192,-43 192,-43 192,-59 192,-59 192,-65 186,-71 180,-71" />
+<text text-anchor="middle" x="96" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner B: Strengths</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M607,-102C607,-102 480,-102 480,-102 474,-102 468,-96 468,-90 468,-90 468,-74 468,-74 468,-68 474,-62 480,-62 480,-62 607,-62 607,-62 613,-62 619,-68 619,-74 619,-74 619,-90 619,-90 619,-96 613,-102 607,-102" />
+<text text-anchor="middle" x="543.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieved Goals</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M424,-164C424,-164 236,-164 236,-164 230,-164 224,-158 224,-152 224,-152 224,-136 224,-136 224,-130 230,-124 236,-124 236,-124 424,-124 424,-124 430,-124 436,-130 436,-136 436,-136 436,-152 436,-152 436,-158 430,-164 424,-164" />
+<text text-anchor="middle" x="330" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner B: Weaknesses</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M424,-40C424,-40 236,-40 236,-40 230,-40 224,-34 224,-28 224,-28 224,-12 224,-12 224,-6 230,0 236,0 236,0 424,0 424,0 430,0 436,-6 436,-12 436,-12 436,-28 436,-28 436,-34 430,-40 424,-40" />
+<text text-anchor="middle" x="330" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner A: Weaknesses</text>
+</g>
+</g>
+</svg>

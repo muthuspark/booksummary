@@ -20,12 +20,7 @@ Understanding your values is fundamental to aligning with your North Star.  Beck
 
 ## Example of Value Identification Process:
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Potential Values);
-    B --> C{Rank Values by Importance};
-    C --> D[Actions Aligned with Top Values];
-```
+![Example of Value Identification Process:. Self-Reflection; Identify Potential Values; Rank Values by Importance; Actions Aligned with Top Values.](diagram-01.svg)
 
 # Overcoming Fear and Self-Doubt
 
@@ -46,12 +41,7 @@ Beck places significant emphasis on the power of intuition, describing it as the
 
 ## Developing Intuition:
 
-```mermaid
-graph LR
-    A[Mindfulness Practice] --> B(Increased Self-Awareness);
-    B --> C(Recognition of Inner Voice);
-    C --> D[Trusting Your Gut Feeling];
-```
+![Developing Intuition:. Mindfulness Practice; Increased Self-Awareness; Recognition of Inner Voice; Trusting Your Gut Feeling.](diagram-02.svg)
 
 # Setting Boundaries
 

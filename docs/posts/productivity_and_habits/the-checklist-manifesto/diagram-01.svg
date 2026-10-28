@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="613pt" height="168pt" viewBox="0.00 0.00 613.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Types of Checklists: Do, Check, Act</title><desc id="description">Read-and-Do leads to Simple Steps. Read-and-Do-Confirm leads to Steps &amp; Confirmation. Check-and-Confirm leads to Judgement &amp; Interaction.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 595,-150 595,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M68.5,-91.63C68.5,-81.32 68.5,-68.48 68.5,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="70.95,-57.19 68.5,-50.19 66.05,-57.19 70.95,-57.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263.5,-91.63C263.5,-81.32 263.5,-68.48 263.5,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="265.95,-57.19 263.5,-50.19 261.05,-57.19 265.95,-57.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M483.5,-91.63C483.5,-84.34 483.5,-75.78 483.5,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="485.95,-67.19 483.5,-60.19 481.05,-67.19 485.95,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M125,-132C125,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 125,-92 125,-92 131,-92 137,-98 137,-104 137,-104 137,-120 137,-120 137,-126 131,-132 125,-132" />
+<text text-anchor="middle" x="68.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Read-and-Do</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M122,-50C122,-50 15,-50 15,-50 9,-50 3,-44 3,-38 3,-38 3,-22 3,-22 3,-16 9,-10 15,-10 15,-10 122,-10 122,-10 128,-10 134,-16 134,-22 134,-22 134,-38 134,-38 134,-44 128,-50 122,-50" />
+<text text-anchor="middle" x="68.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Simple Steps</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M356,-132C356,-132 171,-132 171,-132 165,-132 159,-126 159,-120 159,-120 159,-104 159,-104 159,-98 165,-92 171,-92 171,-92 356,-92 356,-92 362,-92 368,-98 368,-104 368,-104 368,-120 368,-120 368,-126 362,-132 356,-132" />
+<text text-anchor="middle" x="263.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Read-and-Do-Confirm</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351.5,-50C351.5,-50 175.5,-50 175.5,-50 169.5,-50 163.5,-44 163.5,-38 163.5,-38 163.5,-22 163.5,-22 163.5,-16 169.5,-10 175.5,-10 175.5,-10 351.5,-10 351.5,-10 357.5,-10 363.5,-16 363.5,-22 363.5,-22 363.5,-38 363.5,-38 363.5,-44 357.5,-50 351.5,-50" />
+<text text-anchor="middle" x="263.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Steps &amp; Confirmation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M565,-132C565,-132 402,-132 402,-132 396,-132 390,-126 390,-120 390,-120 390,-104 390,-104 390,-98 396,-92 402,-92 402,-92 565,-92 565,-92 571,-92 577,-98 577,-104 577,-104 577,-120 577,-120 577,-126 571,-132 565,-132" />
+<text text-anchor="middle" x="483.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Check-and-Confirm</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M539,-60C539,-60 428,-60 428,-60 422,-60 416,-54 416,-48 416,-48 416,-12 416,-12 416,-6 422,0 428,0 428,0 539,0 539,0 545,0 551,-6 551,-12 551,-12 551,-48 551,-48 551,-54 545,-60 539,-60" />
+<text text-anchor="middle" x="483.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Judgement &amp;</text>
+<text text-anchor="middle" x="483.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interaction</text>
+</g>
+</g>
+</svg>

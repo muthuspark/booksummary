@@ -33,15 +33,7 @@ The core of the book revolves around a system—a structured approach to project
 
 Belsky champions the power of visual thinking and organization. He argues that visual tools—from simple sketches to detailed mind maps—are helpful in clarifying ideas, identifying connections, and tracking progress. He even provides templates for different organizational methods, encouraging readers to find what works best for them.
 
-```mermaid
-graph LR
-    A[Idea Collection] --> B(Idea Organization);
-    B --> C{Project Definition};
-    C --> D[Task Management];
-    D --> E(Action & Iteration);
-    E --> F[Review & Adjust];
-    F --> B;
-```
+![Visual Thinking and Organization. Idea Collection; Idea Organization; Project Definition; Task Management; Action & Iteration; Review & Adjust.](diagram-01.svg)
 
 
 ###  Overcoming Obstacles

@@ -29,16 +29,7 @@ The ego's primary mechanism is fear—fear of failure, rejection, and loss of co
 
 Zukav's advice:  **Let go.**  This doesn't mean passively accepting everything, but rather consciously releasing our attachments to outcomes and embracing uncertainty. It involves challenging our limiting beliefs and embracing vulnerability.
 
-```mermaid
-graph LR
-A[Ego] --> B(Fear);
-B --> C{Control};
-B --> D{Validation};
-B --> E{Comparison};
-F[Soul] --> G(Love);
-G --> H(Acceptance);
-G --> I(Peace);
-```
+![Letting Go of Ego-Driven Behaviors:  The Path to Freedom. Ego; Fear; Control; Validation; Comparison; Soul; Love; Acceptance; Peace.](diagram-01.svg)
 
 ## Cultivating Soul-Aligned Relationships:  Mirrors of Growth
 

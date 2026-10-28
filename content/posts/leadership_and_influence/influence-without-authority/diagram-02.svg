@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="334pt" height="424pt" viewBox="0.00 0.00 334.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Negotiating Effectively:  Collaboration, Not Confrontation</title><desc id="description">Active Listening leads to Understanding Interests. Understanding Interests leads to Finding Common Ground. Finding Common Ground leads to Mutual Benefit. Mutual Benefit leads to Successful Negotiation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 316,-406 316,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149,-347.63C149,-340.34 149,-331.78 149,-323.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.45,-323.19 149,-316.19 146.55,-323.19 151.45,-323.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149,-255.67C149,-247.77 149,-239.28 149,-231.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.45,-231.12 149,-224.12 146.55,-231.12 151.45,-231.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149,-183.91C149,-176.58 149,-167.86 149,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.45,-159.07 149,-152.07 146.55,-159.07 151.45,-159.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149,-71.79C149,-63.54 149,-55.04 149,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.45,-47.09 149,-40.09 146.55,-47.09 151.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M215,-388C215,-388 83,-388 83,-388 77,-388 71,-382 71,-376 71,-376 71,-360 71,-360 71,-354 77,-348 83,-348 83,-348 215,-348 215,-348 221,-348 227,-354 227,-360 227,-360 227,-376 227,-376 227,-382 221,-388 215,-388" />
+<text text-anchor="middle" x="149" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M211,-316C211,-316 87,-316 87,-316 81,-316 75,-310 75,-304 75,-304 75,-268 75,-268 75,-262 81,-256 87,-256 87,-256 211,-256 211,-256 217,-256 223,-262 223,-268 223,-268 223,-304 223,-304 223,-310 217,-316 211,-316" />
+<text text-anchor="middle" x="149" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+<text text-anchor="middle" x="149" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interests</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M253.5,-224C253.5,-224 44.5,-224 44.5,-224 38.5,-224 32.5,-218 32.5,-212 32.5,-212 32.5,-196 32.5,-196 32.5,-190 38.5,-184 44.5,-184 44.5,-184 253.5,-184 253.5,-184 259.5,-184 265.5,-190 265.5,-196 265.5,-196 265.5,-212 265.5,-212 265.5,-218 259.5,-224 253.5,-224" />
+<text text-anchor="middle" x="149" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Finding Common Ground</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="149,-152 0,-112 149,-72 298,-112 149,-152" />
+<text text-anchor="middle" x="149" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Benefit</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M241.5,-40C241.5,-40 56.5,-40 56.5,-40 50.5,-40 44.5,-34 44.5,-28 44.5,-28 44.5,-12 44.5,-12 44.5,-6 50.5,0 56.5,0 56.5,0 241.5,0 241.5,0 247.5,0 253.5,-6 253.5,-12 253.5,-12 253.5,-28 253.5,-28 253.5,-34 247.5,-40 241.5,-40" />
+<text text-anchor="middle" x="149" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Successful Negotiation</text>
+</g>
+</g>
+</svg>

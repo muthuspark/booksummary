@@ -15,12 +15,7 @@ Daniel H. Pink's "When: The Scientific Secrets of Perfect Timing" explores the i
 A cornerstone of Pink's argument is the concept of **chronotype**, which refers to our individual biological predispositions towards being a morning person, an evening person, or somewhere in between. Ignoring our chronotype leads to mismatched timing, causing inefficiency and stress. Recognizing our chronotype—whether through self-assessment or testing—is important for maximizing our potential.
 
 
-```mermaid
-graph LR
-    A[Chronotype] --> B(Morning Person);
-    A --> C(Evening Person);
-    A --> D(Intermediate);
-```
+![Understanding Your Chronotype: The Basis for Optimal Timing. Chronotype; Morning Person; Evening Person; Intermediate.](diagram-01.svg)
 
 Knowing your chronotype informs when you schedule demanding tasks, social engagements, and even exercise.  Understanding whether you perform best in the morning, afternoon, or evening directly translates into better self-management.
 
@@ -28,12 +23,7 @@ Knowing your chronotype informs when you schedule demanding tasks, social engage
 
 Pink highlights the three distinct peaks of performance during the day: a **morning peak**, an **afternoon trough**, and an **evening peak**.  These peaks are not consistent across individuals and are heavily influenced by chronotype.  
 
-```mermaid
-graph LR
-    A[Day] --> B(Morning Peak);
-    B --> C(Afternoon Trough);
-    C --> D(Evening Peak);
-```
+![The Three Peaks of the Day:  Leveraging Our Biological Rhythms. Day; Morning Peak; Afternoon Trough; Evening Peak.](diagram-02.svg)
 
 Understanding these peaks allows for strategic task allocation.  Intensely demanding cognitive tasks requiring high levels of focus are best suited for morning peaks for most individuals.  Afternoon is better utilized for tasks requiring less concentration, meetings, or less critical work, while the evening can be dedicated to less demanding tasks that require creativity and brainstorming.  
 

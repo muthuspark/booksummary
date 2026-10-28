@@ -15,12 +15,7 @@ The Telomere Effect by Elizabeth Blackburn and Elissa Epel explores the role of 
 
 A significant portion of the book focuses on the impact of chronic stress on telomere length.  The authors explain how prolonged exposure to stressors like financial worries, relationship difficulties, or workplace pressure activates the body's stress response, leading to increased inflammation and shorter telomeres.  This isn't just about feeling stressed; it's about the physiological consequences of that stress on a cellular level.
 
-```mermaid
-graph LR
-A[Chronic Stress] --> B(Increased Inflammation);
-B --> C{Shorter Telomeres};
-C --> D[Increased Risk of Disease];
-```
+![The Mind-Body Connection: Stress and Telomeres. Chronic Stress; Increased Inflammation; Shorter Telomeres; Increased Risk of Disease.](diagram-01.svg)
 
 The book highlights the importance of stress management techniques, emphasizing that these are not merely feel-good practices but interventions for preserving telomere length and overall health.
 
@@ -94,16 +89,7 @@ The authors state that small, consistent changes are powerful. Even seemingly mi
 
 While the book focuses on telomeres, its message extends beyond the cellular level. It encourages a broader perspective on health, emphasizing the importance of well-being and the interconnectedness of mind, body, and spirit.
 
-```mermaid
-graph LR
-A[Diet] --> B(Nutrition);
-B --> C{Telomere Length};
-C --> D[Healthspan];
-E[Exercise] --> C;
-F[Stress Management] --> C;
-G[Sleep] --> C;
-H[Social Connections] --> C;
-```
+![Beyond Telomeres: A Broader Perspective on Health. Diet; Nutrition; Telomere Length; Healthspan; Exercise; Stress Management; Sleep; Social Connections.](diagram-02.svg)
 
 Ultimately, "The Telomere Effect" empowers readers to take control of their health and aging process. It provides a scientifically grounded framework for making positive lifestyle changes that affect telomere length and overall well-being and quality of life. The book encourages a proactive and optimistic approach to aging, highlighting the potential for significant improvements in healthspan, even later in life.
 

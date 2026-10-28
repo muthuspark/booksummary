@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="609pt" height="298pt" viewBox="0.00 0.00 609.00 298.00" role="img" aria-labelledby="title description">
+<title id="title">Oxytocin: The Stress-Buffering Hormone</title><desc id="description">Stress leads to Cortisol. Stress leads to Adrenaline. Adrenaline leads to Negative Health Outcomes. Cortisol leads to Negative Health Outcomes. Stress leads to Oxytocin. Oxytocin leads to Resilience &amp; Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 280)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-280 591,-280 591,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M76.27,-158.27C89.3,-164.65 104.1,-171.91 117.86,-178.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.15,-181.03 124.52,-181.91 119.31,-176.63 117.15,-181.03" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M76.27,-140C84.01,-140 92.39,-140 100.79,-140" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="100.85,-142.45 107.85,-140 100.85,-137.55 100.85,-142.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M74.91,-119.84C90,-111.37 107.66,-101.46 123.36,-92.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.59,-94.77 129.5,-89.21 122.2,-90.5 124.59,-94.77" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M212.14,-202C223.42,-202 236.21,-202 249.75,-202" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="249.89,-204.45 256.89,-202 249.89,-199.55 249.89,-204.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M225.29,-154.54C251.25,-161.06 282.65,-168.96 312.34,-176.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="312.05,-178.88 319.44,-178.22 313.25,-174.13 312.05,-178.88" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M216.79,-67.2C237.72,-66.44 263.17,-65.51 288.74,-64.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="289.04,-67.01 295.95,-64.31 288.86,-62.12 289.04,-67.01" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M64,-160C64,-160 12,-160 12,-160 6,-160 0,-154 0,-148 0,-148 0,-132 0,-132 0,-126 6,-120 12,-120 12,-120 64,-120 64,-120 70,-120 76,-126 76,-132 76,-132 76,-148 76,-148 76,-154 70,-160 64,-160" />
+<text text-anchor="middle" x="38" y="-135.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M200,-222C200,-222 133,-222 133,-222 127,-222 121,-216 121,-210 121,-210 121,-194 121,-194 121,-188 127,-182 133,-182 133,-182 200,-182 200,-182 206,-182 212,-188 212,-194 212,-194 212,-210 212,-210 212,-216 206,-222 200,-222" />
+<text text-anchor="middle" x="166.5" y="-197.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cortisol</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M213,-160C213,-160 120,-160 120,-160 114,-160 108,-154 108,-148 108,-148 108,-132 108,-132 108,-126 114,-120 120,-120 120,-120 213,-120 213,-120 219,-120 225,-126 225,-132 225,-132 225,-148 225,-148 225,-154 219,-160 213,-160" />
+<text text-anchor="middle" x="166.5" y="-135.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adrenaline</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-262 257,-202 415,-142 573,-202 415,-262" />
+<text text-anchor="middle" x="415" y="-207.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Health</text>
+<text text-anchor="middle" x="415" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcomes</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M204.5,-89C204.5,-89 128.5,-89 128.5,-89 122.5,-89 116.5,-83 116.5,-77 116.5,-77 116.5,-61 116.5,-61 116.5,-55 122.5,-49 128.5,-49 128.5,-49 204.5,-49 204.5,-49 210.5,-49 216.5,-55 216.5,-61 216.5,-61 216.5,-77 216.5,-77 216.5,-83 210.5,-89 204.5,-89" />
+<text text-anchor="middle" x="166.5" y="-64.6" font-family="Georgia" font-size="18.00" fill="#243d36">Oxytocin</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="415,-120 287,-60 415,0 543,-60 415,-120" />
+<text text-anchor="middle" x="415" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience &amp;</text>
+<text text-anchor="middle" x="415" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Well-being</text>
+</g>
+</g>
+</svg>

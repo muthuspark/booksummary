@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320pt" height="372pt" viewBox="0.00 0.00 320.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Tracking Your Spending: Unveiling Your Financial Habits</title><desc id="description">Track Spending leads to Identify Spending Patterns. Identify Spending Patterns leads to Adjust Budget. Adjust Budget leads to Achieve Financial Goals.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 302,-354 302,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M142,-295.63C142,-288.34 142,-279.78 142,-271.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="144.45,-271.19 142,-264.19 139.55,-271.19 144.45,-271.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M142,-203.81C142,-196.06 142,-187.5 142,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="144.45,-179.09 142,-172.09 139.55,-179.09 144.45,-179.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M142,-91.76C142,-83.72 142,-75.29 142,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="144.45,-67.23 142,-60.23 139.55,-67.23 144.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M207,-336C207,-336 77,-336 77,-336 71,-336 65,-330 65,-324 65,-324 65,-308 65,-308 65,-302 71,-296 77,-296 77,-296 207,-296 207,-296 213,-296 219,-302 219,-308 219,-308 219,-324 219,-324 219,-330 213,-336 207,-336" />
+<text text-anchor="middle" x="142" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Track Spending</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M215.5,-264C215.5,-264 68.5,-264 68.5,-264 62.5,-264 56.5,-258 56.5,-252 56.5,-252 56.5,-216 56.5,-216 56.5,-210 62.5,-204 68.5,-204 68.5,-204 215.5,-204 215.5,-204 221.5,-204 227.5,-210 227.5,-216 227.5,-216 227.5,-252 227.5,-252 227.5,-258 221.5,-264 215.5,-264" />
+<text text-anchor="middle" x="142" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Spending</text>
+<text text-anchor="middle" x="142" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Patterns</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="142,-172 0,-132 142,-92 284,-132 142,-172" />
+<text text-anchor="middle" x="142" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adjust Budget</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M215,-60C215,-60 69,-60 69,-60 63,-60 57,-54 57,-48 57,-48 57,-12 57,-12 57,-6 63,0 69,0 69,0 215,0 215,0 221,0 227,-6 227,-12 227,-12 227,-48 227,-48 227,-54 221,-60 215,-60" />
+<text text-anchor="middle" x="142" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achieve Financial</text>
+<text text-anchor="middle" x="142" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goals</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422pt" height="352pt" viewBox="0.00 0.00 422.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Potential: Unlocking Your Innate Abilities</title><desc id="description">Identify Strengths leads to Self-Awareness. Identify Weaknesses leads to Self-Awareness. Self-Awareness leads to Develop Deliberate Practice. Develop Deliberate Practice leads to Maximize Potential.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 404,-334 404,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107.63,-275.91C119.51,-265.44 134.6,-252.12 148.5,-239.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.33,-241.51 153.96,-235.04 147.09,-237.83 150.33,-241.51" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M188,-163.76C188,-155.72 188,-147.29 188,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.45,-139.23 188,-132.23 185.55,-139.23 190.45,-139.23" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M268.37,-275.91C256.49,-265.44 241.4,-252.12 227.5,-239.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.91,-237.83 222.04,-235.04 225.67,-241.51 228.91,-237.83" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M188,-71.67C188,-63.77 188,-55.28 188,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.45,-47.12 188,-40.12 185.55,-47.12 190.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M160,-316C160,-316 12,-316 12,-316 6,-316 0,-310 0,-304 0,-304 0,-288 0,-288 0,-282 6,-276 12,-276 12,-276 160,-276 160,-276 166,-276 172,-282 172,-288 172,-288 172,-304 172,-304 172,-310 166,-316 160,-316" />
+<text text-anchor="middle" x="86" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Strengths</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="188,-244 37,-204 188,-164 339,-204 188,-244" />
+<text text-anchor="middle" x="188" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M374,-316C374,-316 206,-316 206,-316 200,-316 194,-310 194,-304 194,-304 194,-288 194,-288 194,-282 200,-276 206,-276 206,-276 374,-276 374,-276 380,-276 386,-282 386,-288 386,-288 386,-304 386,-304 386,-310 380,-316 374,-316" />
+<text text-anchor="middle" x="290" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Weaknesses</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M267,-132C267,-132 109,-132 109,-132 103,-132 97,-126 97,-120 97,-120 97,-84 97,-84 97,-78 103,-72 109,-72 109,-72 267,-72 267,-72 273,-72 279,-78 279,-84 279,-84 279,-120 279,-120 279,-126 273,-132 267,-132" />
+<text text-anchor="middle" x="188" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Deliberate</text>
+<text text-anchor="middle" x="188" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Practice</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M267.5,-40C267.5,-40 108.5,-40 108.5,-40 102.5,-40 96.5,-34 96.5,-28 96.5,-28 96.5,-12 96.5,-12 96.5,-6 102.5,0 108.5,0 108.5,0 267.5,0 267.5,0 273.5,0 279.5,-6 279.5,-12 279.5,-12 279.5,-28 279.5,-28 279.5,-34 273.5,-40 267.5,-40" />
+<text text-anchor="middle" x="188" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Maximize Potential</text>
+</g>
+</g>
+</svg>

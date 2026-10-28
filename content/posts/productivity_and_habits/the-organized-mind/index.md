@@ -15,12 +15,7 @@ Daniel Levitin's "The Organized Mind" explores how our brains process informatio
 
 Levitin emphasizes the brain's limitations.  Contrary to popular belief, we are not good at multitasking. Our brains are designed for serial processing, not parallel processing.  Attempting to multitask actually reduces efficiency and increases error rates.  The feeling of multitasking is often an illusion of rapidly switching between tasks, resulting in cognitive overload and reduced performance.
 
-```mermaid
-graph LR
-A[Task 1] --> B(Switch);
-B --> C[Task 2];
-C --> B;
-```
+![The Brain's Limitations and the Illusion of Multitasking. Task 1; Switch; Task 2.](diagram-01.svg)
 
 This diagram shows the constant switching between tasks during multitasking, hindering efficient completion.  Levitin advocates for single-tasking, focusing intently on one task before moving to the next.
 
@@ -29,14 +24,7 @@ This diagram shows the constant switching between tasks during multitasking, hin
 
 The book extensively covers memory, breaking down the process into encoding, storage, and retrieval.  Effective encoding involves paying close attention and actively engaging with information.  Storage requires organizing information in a meaningful way, connecting new information to existing knowledge.  Retrieval relies on creating strong retrieval cues – mental associations that help us access stored information easily.
 
-```mermaid
-graph LR
-A[Encoding] --> B(Storage);
-B --> C[Retrieval];
-A --> D[Attention & Engagement];
-B --> E[Organization & Meaningful Connections];
-C --> F[Retrieval Cues];
-```
+![Memory: Encoding, Storage, and Retrieval. Encoding; Storage; Retrieval; Attention & Engagement; Organization & Meaningful Connections; Retrieval Cues.](diagram-02.svg)
 
 Levitin suggests techniques like spaced repetition and elaborative rehearsal to improve memory encoding and retention.
 

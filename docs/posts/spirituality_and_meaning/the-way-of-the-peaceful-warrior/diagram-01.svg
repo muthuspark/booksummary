@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494pt" height="138pt" viewBox="0.00 0.00 494.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of the Present Moment:</title><desc id="description">Past leads to Present Moment. Future leads to Present Moment. Present Moment leads to Peace &amp; Clarity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 476,-120 476,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72.53,-75.88C82.9,-73.76 95.09,-71.27 107.69,-68.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="108.35,-71.07 114.72,-67.27 107.37,-66.27 108.35,-71.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M276.25,-51C284.29,-51 292.47,-51 300.53,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="300.89,-53.45 307.89,-51 300.89,-48.55 300.89,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M83.23,-28.31C91,-29.89 99.41,-31.61 107.99,-33.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.56,-35.77 114.91,-34.77 108.54,-30.97 107.56,-35.77" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M60.5,-102C60.5,-102 22.5,-102 22.5,-102 16.5,-102 10.5,-96 10.5,-90 10.5,-90 10.5,-74 10.5,-74 10.5,-68 16.5,-62 22.5,-62 22.5,-62 60.5,-62 60.5,-62 66.5,-62 72.5,-68 72.5,-74 72.5,-74 72.5,-90 72.5,-90 72.5,-96 66.5,-102 60.5,-102" />
+<text text-anchor="middle" x="41.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Past</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264,-71C264,-71 127,-71 127,-71 121,-71 115,-65 115,-59 115,-59 115,-43 115,-43 115,-37 121,-31 127,-31 127,-31 264,-31 264,-31 270,-31 276,-37 276,-43 276,-43 276,-59 276,-59 276,-65 270,-71 264,-71" />
+<text text-anchor="middle" x="195.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M71,-40C71,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 71,0 71,0 77,0 83,-6 83,-12 83,-12 83,-28 83,-28 83,-34 77,-40 71,-40" />
+<text text-anchor="middle" x="41.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Future</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M446,-71C446,-71 320,-71 320,-71 314,-71 308,-65 308,-59 308,-59 308,-43 308,-43 308,-37 314,-31 320,-31 320,-31 446,-31 446,-31 452,-31 458,-37 458,-43 458,-43 458,-59 458,-59 458,-65 452,-71 446,-71" />
+<text text-anchor="middle" x="383" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Peace &amp; Clarity</text>
+</g>
+</g>
+</svg>

@@ -20,12 +20,7 @@ The book directly challenges the prevailing myth of the lone, genius inventor. T
 
 A core message revolves around shifting one's mindset from one of fear and self-doubt to one of curiosity and experimentation.  This involves embracing failure as an important learning opportunity, rather than a setback.  The authors encourage readers to develop a "growth mindset," constantly seeking new challenges and viewing obstacles as opportunities for growth.
 
-```mermaid
-graph LR
-    A[Fear & Self-Doubt] --> B(Growth Mindset);
-    B --> C{Curiosity & Experimentation};
-    C --> D[Creative Confidence];
-```
+![Cultivating a Creative Mindset. Fear & Self-Doubt; Growth Mindset; Curiosity & Experimentation; Creative Confidence.](diagram-01.svg)
 
 ## The Power of Collaboration
 

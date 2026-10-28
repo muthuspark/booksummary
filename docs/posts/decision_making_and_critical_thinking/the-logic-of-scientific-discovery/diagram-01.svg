@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530pt" height="148pt" viewBox="0.00 0.00 530.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Conjecture and Refutation: A Life Cycle of Learning</title><desc id="description">Conjecture leads to Test. Test leads to Revise/Abandon (Refuted). Test leads to Further Testing (Corroborated). Further Testing leads to Test.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 512,-130 512,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.19,-48C124.78,-48 133.46,-48 141.5,-48" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.69,-50.45 148.69,-48 141.69,-45.55 141.69,-50.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211.49,-58.7C216.63,-60.28 221.94,-61.79 227,-63 258.98,-70.66 294.55,-76.79 325.93,-81.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.69,-83.84 332.97,-82.42 326.4,-78.99 325.69,-83.84" />
+<text text-anchor="middle" x="272" y="-84" font-family="Georgia" font-size="15.00" fill="#405b50">Refuted</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211.26,-44.34C241.27,-40.71 288.6,-34.99 329.82,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330.25,-32.42 336.9,-29.14 329.66,-27.55 330.25,-32.42" />
+<text text-anchor="middle" x="272" y="-46" font-family="Georgia" font-size="15.00" fill="#405b50">Corroborated</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M336.69,-16.24C302.73,-16.24 262.43,-18.59 227,-27 224.02,-27.71 221,-28.61 218,-29.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.77,-27.49 211.09,-32.26 218.5,-32.08 216.77,-27.49" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M104,-68C104,-68 12,-68 12,-68 6,-68 0,-62 0,-56 0,-56 0,-40 0,-40 0,-34 6,-28 12,-28 12,-28 104,-28 104,-28 110,-28 116,-34 116,-40 116,-40 116,-56 116,-56 116,-62 110,-68 104,-68" />
+<text text-anchor="middle" x="58" y="-43.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conjecture</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M199,-68C199,-68 161,-68 161,-68 155,-68 149,-62 149,-56 149,-56 149,-40 149,-40 149,-34 155,-28 161,-28 161,-28 199,-28 199,-28 205,-28 211,-34 211,-40 211,-40 211,-56 211,-56 211,-62 205,-68 199,-68" />
+<text text-anchor="middle" x="180" y="-43.6" font-family="Georgia" font-size="18.00" fill="#243d36">Test</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M482,-112C482,-112 345,-112 345,-112 339,-112 333,-106 333,-100 333,-100 333,-84 333,-84 333,-78 339,-72 345,-72 345,-72 482,-72 482,-72 488,-72 494,-78 494,-84 494,-84 494,-100 494,-100 494,-106 488,-112 482,-112" />
+<text text-anchor="middle" x="413.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Revise/Abandon</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M478,-40C478,-40 349,-40 349,-40 343,-40 337,-34 337,-28 337,-28 337,-12 337,-12 337,-6 343,0 349,0 349,0 478,0 478,0 484,0 490,-6 490,-12 490,-12 490,-28 490,-28 490,-34 484,-40 478,-40" />
+<text text-anchor="middle" x="413.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Further Testing</text>
+</g>
+</g>
+</svg>

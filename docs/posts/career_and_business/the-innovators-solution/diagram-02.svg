@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475pt" height="402pt" viewBox="0.00 0.00 475.00 402.00" role="img" aria-labelledby="title description">
+<title id="title">Strategies for Success</title><desc id="description">Resource Allocation leads to Strategic investment in disruptive innovations. Organizational Structure leads to Separate units for disruptive innovations. Market Segmentation leads to Identify early adopters in underserved markets. Value Network leads to Develop new distribution channels and partnerships.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 384)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-384 457,-384 457,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M194.29,-40C206.94,-40 219.97,-40 232.76,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.83,-42.45 239.83,-40 232.83,-37.55 232.83,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.28,-132C189.45,-132 206.97,-132 224.29,-132" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.69,-134.45 231.69,-132 224.69,-129.55 224.69,-134.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.03,-224C209.73,-224 219.6,-224 229.36,-224" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.44,-226.45 236.44,-224 229.44,-221.55 229.44,-226.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M174.24,-326C191.71,-326 210.71,-326 229.3,-326" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.69,-328.45 236.69,-326 229.69,-323.55 229.69,-328.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-60C182,-60 18,-60 18,-60 12,-60 6,-54 6,-48 6,-48 6,-32 6,-32 6,-26 12,-20 18,-20 18,-20 182,-20 182,-20 188,-20 194,-26 194,-32 194,-32 194,-48 194,-48 194,-54 188,-60 182,-60" />
+<text text-anchor="middle" x="100" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resource Allocation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M419,-80C419,-80 252,-80 252,-80 246,-80 240,-74 240,-68 240,-68 240,-12 240,-12 240,-6 246,0 252,0 252,0 419,0 419,0 425,0 431,-6 431,-12 431,-12 431,-68 431,-68 431,-74 425,-80 419,-80" />
+<text text-anchor="middle" x="335.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategic investment</text>
+<text text-anchor="middle" x="335.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">in disruptive</text>
+<text text-anchor="middle" x="335.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">innovations</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-162C161,-162 39,-162 39,-162 33,-162 27,-156 27,-150 27,-150 27,-114 27,-114 27,-108 33,-102 39,-102 39,-102 161,-102 161,-102 167,-102 173,-108 173,-114 173,-114 173,-150 173,-150 173,-156 167,-162 161,-162" />
+<text text-anchor="middle" x="100" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Organizational</text>
+<text text-anchor="middle" x="100" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Structure</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M427,-162C427,-162 244,-162 244,-162 238,-162 232,-156 232,-150 232,-150 232,-114 232,-114 232,-108 238,-102 244,-102 244,-102 427,-102 427,-102 433,-102 439,-108 439,-114 439,-114 439,-150 439,-150 439,-156 433,-162 427,-162" />
+<text text-anchor="middle" x="335.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Separate units for</text>
+<text text-anchor="middle" x="335.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">disruptive innovations</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-244C188,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-216 0,-216 0,-210 6,-204 12,-204 12,-204 188,-204 188,-204 194,-204 200,-210 200,-216 200,-216 200,-232 200,-232 200,-238 194,-244 188,-244" />
+<text text-anchor="middle" x="100" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Market Segmentation</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M422.5,-264C422.5,-264 248.5,-264 248.5,-264 242.5,-264 236.5,-258 236.5,-252 236.5,-252 236.5,-196 236.5,-196 236.5,-190 242.5,-184 248.5,-184 248.5,-184 422.5,-184 422.5,-184 428.5,-184 434.5,-190 434.5,-196 434.5,-196 434.5,-252 434.5,-252 434.5,-258 428.5,-264 422.5,-264" />
+<text text-anchor="middle" x="335.5" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify early</text>
+<text text-anchor="middle" x="335.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">adopters in</text>
+<text text-anchor="middle" x="335.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">underserved markets</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162,-346C162,-346 38,-346 38,-346 32,-346 26,-340 26,-334 26,-334 26,-318 26,-318 26,-312 32,-306 38,-306 38,-306 162,-306 162,-306 168,-306 174,-312 174,-318 174,-318 174,-334 174,-334 174,-340 168,-346 162,-346" />
+<text text-anchor="middle" x="100" y="-321.6" font-family="Georgia" font-size="18.00" fill="#243d36">Value Network</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M422,-366C422,-366 249,-366 249,-366 243,-366 237,-360 237,-354 237,-354 237,-298 237,-298 237,-292 243,-286 249,-286 249,-286 422,-286 422,-286 428,-286 434,-292 434,-298 434,-298 434,-354 434,-354 434,-360 428,-366 422,-366" />
+<text text-anchor="middle" x="335.5" y="-341.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop new</text>
+<text text-anchor="middle" x="335.5" y="-321.6" font-family="Georgia" font-size="18.00" fill="#243d36">distribution channels</text>
+<text text-anchor="middle" x="335.5" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">and partnerships</text>
+</g>
+</g>
+</svg>

@@ -15,15 +15,7 @@ author: "Russ Harris"
 
 ACT’s effectiveness stems from cultivating six core processes:
 
-```mermaid
-graph LR
-    A[Acceptance] --> B(Cognitive Defusion);
-    A --> C(Self as Context);
-    B --> D{Present Moment Awareness};
-    C --> D;
-    D --> E(Values);
-    E --> F(Committed Action);
-```
+![The Six Core Processes of ACT. Acceptance; Cognitive Defusion; Self as Context; Present Moment Awareness; Values; Committed Action.](diagram-01.svg)
 
 * **Acceptance:**  This involves acknowledging and allowing difficult emotions and thoughts without judgment or struggle. It's not about liking them but simply recognizing their presence without resistance.
 

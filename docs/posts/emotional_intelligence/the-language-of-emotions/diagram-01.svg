@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="332pt" height="332pt" viewBox="0.00 0.00 332.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Moving Beyond "Good" and "Bad" Emotions</title><desc id="description">Emotion leads to Message. Message leads to Understanding. Understanding leads to Healthy Response.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 314,-314 314,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-255.87C148,-248.31 148,-239.49 148,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-231.1 148,-224.1 145.55,-231.1 150.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-183.91C148,-176.58 148,-167.86 148,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-159.07 148,-152.07 145.55,-159.07 150.45,-159.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M148,-71.79C148,-63.54 148,-55.04 148,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="150.45,-47.09 148,-40.09 145.55,-47.09 150.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-296C185,-296 111,-296 111,-296 105,-296 99,-290 99,-284 99,-284 99,-268 99,-268 99,-262 105,-256 111,-256 111,-256 185,-256 185,-256 191,-256 197,-262 197,-268 197,-268 197,-284 197,-284 197,-290 191,-296 185,-296" />
+<text text-anchor="middle" x="148" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotion</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184,-224C184,-224 112,-224 112,-224 106,-224 100,-218 100,-212 100,-212 100,-196 100,-196 100,-190 106,-184 112,-184 112,-184 184,-184 184,-184 190,-184 196,-190 196,-196 196,-196 196,-212 196,-212 196,-218 190,-224 184,-224" />
+<text text-anchor="middle" x="148" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Message</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="148,-152 0,-112 148,-72 296,-112 148,-152" />
+<text text-anchor="middle" x="148" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M222.5,-40C222.5,-40 73.5,-40 73.5,-40 67.5,-40 61.5,-34 61.5,-28 61.5,-28 61.5,-12 61.5,-12 61.5,-6 67.5,0 73.5,0 73.5,0 222.5,0 222.5,0 228.5,0 234.5,-6 234.5,-12 234.5,-12 234.5,-28 234.5,-28 234.5,-34 228.5,-40 222.5,-40" />
+<text text-anchor="middle" x="148" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Response</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="396pt" height="424pt" viewBox="0.00 0.00 396.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Social Awareness: Reading the Room and Connecting with Others</title><desc id="description">Active Listening leads to Nonverbal Communication. Nonverbal Communication leads to Perspective Taking. Perspective Taking leads to Empathy. Empathy leads to Stronger Relationships.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 378,-406 378,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180,-347.63C180,-340.34 180,-331.78 180,-323.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.45,-323.19 180,-316.19 177.55,-323.19 182.45,-323.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180,-255.81C180,-248.06 180,-239.5 180,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.45,-231.09 180,-224.09 177.55,-231.09 182.45,-231.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180,-143.79C180,-135.54 180,-127.04 180,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.45,-119.09 180,-112.09 177.55,-119.09 182.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180,-71.87C180,-64.31 180,-55.49 180,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.45,-47.1 180,-40.1 177.55,-47.1 182.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M246,-388C246,-388 114,-388 114,-388 108,-388 102,-382 102,-376 102,-376 102,-360 102,-360 102,-354 108,-348 114,-348 114,-348 246,-348 246,-348 252,-348 258,-354 258,-360 258,-360 258,-376 258,-376 258,-382 252,-388 246,-388" />
+<text text-anchor="middle" x="180" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M246,-316C246,-316 114,-316 114,-316 108,-316 102,-310 102,-304 102,-304 102,-268 102,-268 102,-262 108,-256 114,-256 114,-256 246,-256 246,-256 252,-256 258,-262 258,-268 258,-268 258,-304 258,-304 258,-310 252,-316 246,-316" />
+<text text-anchor="middle" x="180" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nonverbal</text>
+<text text-anchor="middle" x="180" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="180,-224 0,-184 180,-144 360,-184 180,-224" />
+<text text-anchor="middle" x="180" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perspective Taking</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218.5,-112C218.5,-112 141.5,-112 141.5,-112 135.5,-112 129.5,-106 129.5,-100 129.5,-100 129.5,-84 129.5,-84 129.5,-78 135.5,-72 141.5,-72 141.5,-72 218.5,-72 218.5,-72 224.5,-72 230.5,-78 230.5,-84 230.5,-84 230.5,-100 230.5,-100 230.5,-106 224.5,-112 218.5,-112" />
+<text text-anchor="middle" x="180" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M273.5,-40C273.5,-40 86.5,-40 86.5,-40 80.5,-40 74.5,-34 74.5,-28 74.5,-28 74.5,-12 74.5,-12 74.5,-6 80.5,0 86.5,0 86.5,0 273.5,0 273.5,0 279.5,0 285.5,-6 285.5,-12 285.5,-12 285.5,-28 285.5,-28 285.5,-34 279.5,-40 273.5,-40" />
+<text text-anchor="middle" x="180" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Relationships</text>
+</g>
+</g>
+</svg>

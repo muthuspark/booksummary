@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274pt" height="76pt" viewBox="0.00 0.00 274.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">Alertness: Staying Focused and Aware</title><desc id="description">Positivity leads to Alertness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 256,-58 256,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.16,-20C111.14,-20 119.45,-20 127.58,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.98,-22.45 134.98,-20 127.98,-17.55 127.98,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M91,-40C91,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 91,0 91,0 97,0 103,-6 103,-12 103,-12 103,-28 103,-28 103,-34 97,-40 91,-40" />
+<text text-anchor="middle" x="51.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positivity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M226,-40C226,-40 147,-40 147,-40 141,-40 135,-34 135,-28 135,-28 135,-12 135,-12 135,-6 141,0 147,0 147,0 226,0 226,0 232,0 238,-6 238,-12 238,-12 238,-28 238,-28 238,-34 232,-40 226,-40" />
+<text text-anchor="middle" x="186.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Alertness</text>
+</g>
+</g>
+</svg>

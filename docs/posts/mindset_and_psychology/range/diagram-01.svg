@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="708pt" height="320pt" viewBox="0.00 0.00 708.00 320.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Interleaving</title><desc id="description">Blocking: Focused on one skill leads to Repetition. Interleaving: Switching between skills leads to Adaptation &amp; Retrieval. Repetition leads to Improved skill in that one area. Adaptation &amp; Retrieval leads to Improved broader skill &amp; adaptability.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 302)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-302 690,-302 690,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113,-213.81C113,-203.27 113,-191.09 113,-179.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.45,-179.27 113,-172.27 110.55,-179.27 115.45,-179.27" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113,-91.76C113,-83.72 113,-75.29 113,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.45,-67.23 113,-60.23 110.55,-67.23 115.45,-67.23" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M460,-203.91C460,-196.06 460,-187.74 460,-179.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="462.45,-179.34 460,-172.34 457.55,-179.34 462.45,-179.34" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M460,-91.76C460,-83.72 460,-75.29 460,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="462.45,-67.23 460,-60.23 457.55,-67.23 462.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M201,-274C201,-274 25,-274 25,-274 19,-274 13,-268 13,-262 13,-262 13,-226 13,-226 13,-220 19,-214 25,-214 25,-214 201,-214 201,-214 207,-214 213,-220 213,-226 213,-226 213,-262 213,-262 213,-268 207,-274 201,-274" />
+<text text-anchor="middle" x="113" y="-249.6" font-family="Georgia" font-size="18.00" fill="#243d36">Blocking: Focused on</text>
+<text text-anchor="middle" x="113" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">one skill</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="113,-172 0,-132 113,-92 226,-132 113,-172" />
+<text text-anchor="middle" x="113" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Repetition</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M537,-284C537,-284 383,-284 383,-284 377,-284 371,-278 371,-272 371,-272 371,-216 371,-216 371,-210 377,-204 383,-204 383,-204 537,-204 537,-204 543,-204 549,-210 549,-216 549,-216 549,-272 549,-272 549,-278 543,-284 537,-284" />
+<text text-anchor="middle" x="460" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interleaving:</text>
+<text text-anchor="middle" x="460" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Switching between</text>
+<text text-anchor="middle" x="460" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">skills</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="460,-172 248,-132 460,-92 672,-132 460,-172" />
+<text text-anchor="middle" x="460" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adaptation &amp; Retrieval</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M201.5,-60C201.5,-60 24.5,-60 24.5,-60 18.5,-60 12.5,-54 12.5,-48 12.5,-48 12.5,-12 12.5,-12 12.5,-6 18.5,0 24.5,0 24.5,0 201.5,0 201.5,0 207.5,0 213.5,-6 213.5,-12 213.5,-12 213.5,-48 213.5,-48 213.5,-54 207.5,-60 201.5,-60" />
+<text text-anchor="middle" x="113" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved skill in that</text>
+<text text-anchor="middle" x="113" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">one area</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M554,-60C554,-60 366,-60 366,-60 360,-60 354,-54 354,-48 354,-48 354,-12 354,-12 354,-6 360,0 366,0 366,0 554,0 554,0 560,0 566,-6 566,-12 566,-12 566,-48 566,-48 566,-54 560,-60 554,-60" />
+<text text-anchor="middle" x="460" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved broader skill</text>
+<text text-anchor="middle" x="460" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">&amp; adaptability</text>
+</g>
+</g>
+</svg>

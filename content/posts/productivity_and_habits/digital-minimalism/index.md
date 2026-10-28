@@ -28,13 +28,7 @@ Following the 30-day period, the core of Digital Minimalism begins. You don’t 
 
 Before reintegrating technologies, understand what truly matters. What are your high-value activities?  These are the things that bring you a sense of purpose, accomplishment, and well-being.  Identify these activities, and then strategically select technologies that support them, rejecting those that detract from them.
 
-```mermaid
-graph LR
-    A[High-Value Activities] --> B(Identify Your Priorities);
-    B --> C{Select Supporting Technologies};
-    C --> D[Reject Distracting Technologies];
-    D --> E(Reclaim Your Time & Attention);
-```
+![Identifying Your High-Value Activities. High-Value Activities; Identify Your Priorities; Select Supporting Technologies; Reject Distracting Technologies; Reclaim Your Time & Attention.](diagram-01.svg)
 
 ## Reintroducing Technology Intentionally
 

@@ -22,12 +22,7 @@ Socrates' teachings form the bedrock of the book's wisdom. They aren't abstract 
 
 Socrates constantly emphasizes the importance of being fully present.  He teaches Dan to focus on the current moment, rather than dwelling on the past or worrying about the future. This mindful presence allows for greater clarity, reduces stress, and enhances the appreciation of life's simple pleasures.
 
-```mermaid
-graph LR
-    A[Past] --> B(Present Moment);
-    C[Future] --> B;
-    B --> D[Peace & Clarity];
-```
+![The Power of the Present Moment:. Past; Present Moment; Future; Peace & Clarity.](diagram-01.svg)
 
 ##  Letting Go of Attachment to Outcomes:
 

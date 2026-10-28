@@ -14,15 +14,7 @@ Gottman's "The Relationship Cure" builds upon his decades of research, offering 
 
 The foundation of the Sound Relationship House is friendship.  This involves sharing humor, enjoying each other's company, and engaging in activities you both find pleasurable.  Gottman emphasizes the importance of building a strong friendship *before* significant challenges arise.  Without a solid base of friendship, the relationship struggles to cope with stress and conflict.
 
-```mermaid
-graph LR
-    A[Friendship] --> B(Shared Interests & Activities);
-    A --> C(Humor & Playfulness);
-    A --> D(Enjoying Each Other's Company);
-    B -- Shared Activities --> E(Solid Foundation);
-    C -- Positive Interactions --> E;
-    D -- Emotional Connection --> E;
-```
+![Building a Solid Foundation: Friendship. Friendship; Shared Interests & Activities; Humor & Playfulness; Enjoying Each Other's Company; Solid Foundation.](diagram-01.svg)
 
 #  Shared Meaning: Creating a Shared Life Vision
 
@@ -38,17 +30,7 @@ Conflict is inevitable in any relationship.  Gottman's research highlights that 
 * **Compromise:**  Finding mutually acceptable solutions.
 
 
-```mermaid
-graph LR
-    A[Conflict Management] --> B(Softened Startup);
-    A --> C(Repair Attempts);
-    A --> D(Self-Soothing);
-    A --> E(Compromise);
-    B -- Kind & Empathetic --> F(Successful Resolution);
-    C -- De-escalation --> F;
-    D -- Emotional Regulation --> F;
-    E -- Mutual Satisfaction --> F;
-```
+![Manage Conflict: The Art of Navigating Disagreements. Conflict Management; Softened Startup; Repair Attempts; Self-Soothing; Compromise; Successful Resolution.](diagram-02.svg)
 
 
 #  Positive Sentiment Override:  Overcoming Negativity

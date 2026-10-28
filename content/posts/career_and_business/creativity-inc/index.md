@@ -14,12 +14,7 @@ author: "Ed Catmull"
 
 One of the most striking elements of Pixar's success is its unique "Braintrust" – a group of trusted colleagues who provide brutally honest feedback on films in development. This isn't about criticism for criticism's sake; it's about pushing creators to confront their own biases and weaknesses, leading to stronger, more compelling storytelling.  Catmull emphasizes the importance of a culture where candid feedback is welcomed, not feared.  This requires trust, psychological safety, and a willingness to be vulnerable.
 
-```mermaid
-graph LR
-A[Filmmaker] --> B(Braintrust Feedback);
-B --> C{Improved Film};
-C --> D[Audience Success];
-```
+![The Power of Open Communication and Honest Feedback:  The "Braintrust. Filmmaker; Braintrust Feedback; Improved Film; Audience Success.](diagram-01.svg)
 
 This process relies on:
 
@@ -43,12 +38,7 @@ The book details how providing and receiving "notes" is an iterative process, no
 
 Catmull emphasizes the importance of strong leadership that fosters collaboration and empowers individuals.  He stresses the significance of delegation, not just assigning tasks but empowering employees with the authority and resources to succeed.  This includes trusting their judgment and providing them with the space to take ownership of their work.  A true leader empowers, doesn't micromanage.
 
-```mermaid
-graph LR
-A[Leader] --> B(Delegation & Empowerment);
-B --> C{Increased Ownership};
-C --> D[Improved Creativity & Innovation];
-```
+![Leadership, Delegation, and Trust: Empowering Others. Leader; Delegation & Empowerment; Increased Ownership; Improved Creativity & Innovation.](diagram-02.svg)
 
 #  The Importance of Diversity and Inclusive Collaboration
 

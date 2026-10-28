@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494pt" height="262pt" viewBox="0.00 0.00 494.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Agile Techniques for Personal Productivity:  Practical Tools</title><desc id="description">Kanban Board leads to Visual Task Management. Timeboxing leads to Focused Work. Daily Stand-up leads to Self-Assessment. Sprint Retrospective leads to Continuous Improvement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 476,-244 476,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.61,-20C183.82,-20 201.5,-20 219.16,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.19,-22.45 226.19,-20 219.19,-17.55 219.19,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M157.69,-82C189.32,-82 228.36,-82 262.18,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.32,-84.45 269.32,-82 262.32,-79.55 262.32,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.57,-144C196.98,-144 227,-144 254.35,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="254.62,-146.45 261.62,-144 254.62,-141.55 254.62,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192.34,-206C200.28,-206 208.38,-206 216.49,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.94,-208.45 223.94,-206 216.94,-203.55 216.94,-208.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155.5,-40C155.5,-40 36.5,-40 36.5,-40 30.5,-40 24.5,-34 24.5,-28 24.5,-28 24.5,-12 24.5,-12 24.5,-6 30.5,0 36.5,0 36.5,0 155.5,0 155.5,0 161.5,0 167.5,-6 167.5,-12 167.5,-12 167.5,-28 167.5,-28 167.5,-34 161.5,-40 155.5,-40" />
+<text text-anchor="middle" x="96" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Kanban Board</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M443.5,-40C443.5,-40 238.5,-40 238.5,-40 232.5,-40 226.5,-34 226.5,-28 226.5,-28 226.5,-12 226.5,-12 226.5,-6 232.5,0 238.5,0 238.5,0 443.5,0 443.5,0 449.5,0 455.5,-6 455.5,-12 455.5,-12 455.5,-28 455.5,-28 455.5,-34 449.5,-40 443.5,-40" />
+<text text-anchor="middle" x="341" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Visual Task Management</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M145.5,-102C145.5,-102 46.5,-102 46.5,-102 40.5,-102 34.5,-96 34.5,-90 34.5,-90 34.5,-74 34.5,-74 34.5,-68 40.5,-62 46.5,-62 46.5,-62 145.5,-62 145.5,-62 151.5,-62 157.5,-68 157.5,-74 157.5,-74 157.5,-90 157.5,-90 157.5,-96 151.5,-102 145.5,-102" />
+<text text-anchor="middle" x="96" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Timeboxing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M400.5,-102C400.5,-102 281.5,-102 281.5,-102 275.5,-102 269.5,-96 269.5,-90 269.5,-90 269.5,-74 269.5,-74 269.5,-68 275.5,-62 281.5,-62 281.5,-62 400.5,-62 400.5,-62 406.5,-62 412.5,-68 412.5,-74 412.5,-74 412.5,-90 412.5,-90 412.5,-96 406.5,-102 400.5,-102" />
+<text text-anchor="middle" x="341" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Focused Work</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158.5,-164C158.5,-164 33.5,-164 33.5,-164 27.5,-164 21.5,-158 21.5,-152 21.5,-152 21.5,-136 21.5,-136 21.5,-130 27.5,-124 33.5,-124 33.5,-124 158.5,-124 158.5,-124 164.5,-124 170.5,-130 170.5,-136 170.5,-136 170.5,-152 170.5,-152 170.5,-158 164.5,-164 158.5,-164" />
+<text text-anchor="middle" x="96" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Daily Stand-up</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M408,-164C408,-164 274,-164 274,-164 268,-164 262,-158 262,-152 262,-152 262,-136 262,-136 262,-130 268,-124 274,-124 274,-124 408,-124 408,-124 414,-124 420,-130 420,-136 420,-136 420,-152 420,-152 420,-158 414,-164 408,-164" />
+<text text-anchor="middle" x="341" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180,-226C180,-226 12,-226 12,-226 6,-226 0,-220 0,-214 0,-214 0,-198 0,-198 0,-192 6,-186 12,-186 12,-186 180,-186 180,-186 186,-186 192,-192 192,-198 192,-198 192,-214 192,-214 192,-220 186,-226 180,-226" />
+<text text-anchor="middle" x="96" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sprint Retrospective</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M446,-226C446,-226 236,-226 236,-226 230,-226 224,-220 224,-214 224,-214 224,-198 224,-198 224,-192 230,-186 236,-186 236,-186 446,-186 446,-186 452,-186 458,-192 458,-198 458,-198 458,-214 458,-214 458,-220 452,-226 446,-226" />
+<text text-anchor="middle" x="341" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Continuous Improvement</text>
+</g>
+</g>
+</svg>

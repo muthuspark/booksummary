@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556pt" height="476pt" viewBox="0.00 0.00 556.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Science of Sleep: Understanding Your Body Clock</title><desc id="description">Circadian Rhythm leads to Sleep-Wake Cycle. Sleep-Wake Cycle leads to REM Sleep. Sleep-Wake Cycle leads to NREM Sleep. REM Sleep leads to Memory Consolidation. NREM Sleep leads to Physical Restoration. Memory Consolidation leads to Cognitive Function. Physical Restoration leads to Immune Function. Cognitive Function leads to Productivity. Immune Function leads to Productivity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 538,-458 538,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M253,-399.87C253,-392.31 253,-383.49 253,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.45,-375.1 253,-368.1 250.55,-375.1 255.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224.37,-327.91C206.48,-315.98 183.06,-300.37 162.75,-286.83" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.02,-284.73 156.83,-282.89 161.3,-288.81 164.02,-284.73" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M281.84,-327.91C299.51,-316.22 322.54,-300.98 342.71,-287.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="344.11,-289.65 348.59,-283.74 341.4,-285.56 344.11,-289.65" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.22,-218.91C129.6,-209.59 132.12,-199.74 134.35,-191.04" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.77,-191.43 136.13,-184.04 132.03,-190.22 136.77,-191.43" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M383.98,-217.35C382.82,-208.65 381.61,-199.57 380.53,-191.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="382.93,-190.94 379.58,-184.33 378.07,-191.59 382.93,-190.94" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.55,-143.87C145.96,-136.31 147.59,-127.49 149.11,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.58,-119.43 150.45,-112.1 146.76,-118.54 151.58,-119.43" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M373.45,-143.87C372.04,-136.31 370.41,-127.49 368.89,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="371.24,-118.54 367.55,-112.1 366.42,-119.43 371.24,-118.54" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M181.05,-71.87C193.06,-63.38 207.3,-53.32 219.93,-44.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="221.68,-46.15 225.98,-40.1 218.85,-42.15 221.68,-46.15" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M333.67,-71.87C319.96,-63.23 303.66,-52.95 289.31,-43.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="290.52,-41.77 283.29,-40.1 287.91,-45.91 290.52,-41.77" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M328,-440C328,-440 178,-440 178,-440 172,-440 166,-434 166,-428 166,-428 166,-412 166,-412 166,-406 172,-400 178,-400 178,-400 328,-400 328,-400 334,-400 340,-406 340,-412 340,-412 340,-428 340,-428 340,-434 334,-440 328,-440" />
+<text text-anchor="middle" x="253" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Circadian Rhythm</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M326.5,-368C326.5,-368 179.5,-368 179.5,-368 173.5,-368 167.5,-362 167.5,-356 167.5,-356 167.5,-340 167.5,-340 167.5,-334 173.5,-328 179.5,-328 179.5,-328 326.5,-328 326.5,-328 332.5,-328 338.5,-334 338.5,-340 338.5,-340 338.5,-356 338.5,-356 338.5,-362 332.5,-368 326.5,-368" />
+<text text-anchor="middle" x="253" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sleep-Wake Cycle</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="118,-296 0,-256 118,-216 236,-256 118,-296" />
+<text text-anchor="middle" x="118" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">REM Sleep</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="389,-296 258,-256 389,-216 520,-256 389,-296" />
+<text text-anchor="middle" x="389" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">NREM Sleep</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M234.5,-184C234.5,-184 47.5,-184 47.5,-184 41.5,-184 35.5,-178 35.5,-172 35.5,-172 35.5,-156 35.5,-156 35.5,-150 41.5,-144 47.5,-144 47.5,-144 234.5,-144 234.5,-144 240.5,-144 246.5,-150 246.5,-156 246.5,-156 246.5,-172 246.5,-172 246.5,-178 240.5,-184 234.5,-184" />
+<text text-anchor="middle" x="141" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Memory Consolidation</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M461,-184C461,-184 293,-184 293,-184 287,-184 281,-178 281,-172 281,-172 281,-156 281,-156 281,-150 287,-144 293,-144 293,-144 461,-144 461,-144 467,-144 473,-150 473,-156 473,-156 473,-172 473,-172 473,-178 467,-184 461,-184" />
+<text text-anchor="middle" x="377" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Physical Restoration</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M231.5,-112C231.5,-112 76.5,-112 76.5,-112 70.5,-112 64.5,-106 64.5,-100 64.5,-100 64.5,-84 64.5,-84 64.5,-78 70.5,-72 76.5,-72 76.5,-72 231.5,-72 231.5,-72 237.5,-72 243.5,-78 243.5,-84 243.5,-84 243.5,-100 243.5,-100 243.5,-106 237.5,-112 231.5,-112" />
+<text text-anchor="middle" x="154" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Function</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M438.5,-112C438.5,-112 289.5,-112 289.5,-112 283.5,-112 277.5,-106 277.5,-100 277.5,-100 277.5,-84 277.5,-84 277.5,-78 283.5,-72 289.5,-72 289.5,-72 438.5,-72 438.5,-72 444.5,-72 450.5,-78 450.5,-84 450.5,-84 450.5,-100 450.5,-100 450.5,-106 444.5,-112 438.5,-112" />
+<text text-anchor="middle" x="364" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Immune Function</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M304.5,-40C304.5,-40 201.5,-40 201.5,-40 195.5,-40 189.5,-34 189.5,-28 189.5,-28 189.5,-12 189.5,-12 189.5,-6 195.5,0 201.5,0 201.5,0 304.5,0 304.5,0 310.5,0 316.5,-6 316.5,-12 316.5,-12 316.5,-28 316.5,-28 316.5,-34 310.5,-40 304.5,-40" />
+<text text-anchor="middle" x="253" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Productivity</text>
+</g>
+</g>
+</svg>

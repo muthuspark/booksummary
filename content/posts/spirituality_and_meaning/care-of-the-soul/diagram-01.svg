@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="338pt" height="372pt" viewBox="0.00 0.00 338.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Listening to the Soul:  Cultivating Inner Awareness</title><desc id="description">Daily Life leads to Inner Reflection. Inner Reflection leads to Increased Self-Awareness. Increased Self-Awareness leads to Meaningful Action.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 320,-354 320,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151,-295.87C151,-288.31 151,-279.49 151,-271.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="153.45,-271.1 151,-264.1 148.55,-271.1 153.45,-271.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151,-223.84C151,-216.75 151,-208.25 151,-199.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="153.45,-199.12 151,-192.12 148.55,-199.12 153.45,-199.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M151,-71.81C151,-63.27 151,-54.86 151,-47.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="153.45,-47.33 151,-40.33 148.55,-47.33 153.45,-47.33" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192,-336C192,-336 110,-336 110,-336 104,-336 98,-330 98,-324 98,-324 98,-308 98,-308 98,-302 104,-296 110,-296 110,-296 192,-296 192,-296 198,-296 204,-302 204,-308 204,-308 204,-324 204,-324 204,-330 198,-336 192,-336" />
+<text text-anchor="middle" x="151" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Daily Life</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M218.5,-264C218.5,-264 83.5,-264 83.5,-264 77.5,-264 71.5,-258 71.5,-252 71.5,-252 71.5,-236 71.5,-236 71.5,-230 77.5,-224 83.5,-224 83.5,-224 218.5,-224 218.5,-224 224.5,-224 230.5,-230 230.5,-236 230.5,-236 230.5,-252 230.5,-252 230.5,-258 224.5,-264 218.5,-264" />
+<text text-anchor="middle" x="151" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Reflection</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="151,-192 0,-132 151,-72 302,-132 151,-192" />
+<text text-anchor="middle" x="151" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="151" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M227,-40C227,-40 75,-40 75,-40 69,-40 63,-34 63,-28 63,-28 63,-12 63,-12 63,-6 69,0 75,0 75,0 227,0 227,0 233,0 239,-6 239,-12 239,-12 239,-28 239,-28 239,-34 233,-40 227,-40" />
+<text text-anchor="middle" x="151" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Action</text>
+</g>
+</g>
+</svg>

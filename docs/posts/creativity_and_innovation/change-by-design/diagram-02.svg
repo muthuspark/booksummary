@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406pt" height="404pt" viewBox="0.00 0.00 406.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Prototyping: Testing and Iteration</title><desc id="description">Idea Generation leads to Prototype Creation. Prototype Creation leads to Testing &amp; Feedback. Testing &amp; Feedback leads to Prototype Iteration. Prototype Iteration leads to Final Solution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 388,-386 388,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-327.87C185,-320.31 185,-311.49 185,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-303.1 185,-296.1 182.55,-303.1 187.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-255.91C185,-248.58 185,-239.86 185,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-231.07 185,-224.07 182.55,-231.07 187.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-143.79C185,-135.54 185,-127.04 185,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-119.09 185,-112.09 182.55,-119.09 187.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-71.87C185,-64.31 185,-55.49 185,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-47.1 185,-40.1 182.55,-47.1 187.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252,-368C252,-368 118,-368 118,-368 112,-368 106,-362 106,-356 106,-356 106,-340 106,-340 106,-334 112,-328 118,-328 118,-328 252,-328 252,-328 258,-328 264,-334 264,-340 264,-340 264,-356 264,-356 264,-362 258,-368 252,-368" />
+<text text-anchor="middle" x="185" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea Generation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263,-296C263,-296 107,-296 107,-296 101,-296 95,-290 95,-284 95,-284 95,-268 95,-268 95,-262 101,-256 107,-256 107,-256 263,-256 263,-256 269,-256 275,-262 275,-268 275,-268 275,-284 275,-284 275,-290 269,-296 263,-296" />
+<text text-anchor="middle" x="185" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototype Creation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-224 0,-184 185,-144 370,-184 185,-224" />
+<text text-anchor="middle" x="185" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Testing &amp; Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264,-112C264,-112 106,-112 106,-112 100,-112 94,-106 94,-100 94,-100 94,-84 94,-84 94,-78 100,-72 106,-72 106,-72 264,-72 264,-72 270,-72 276,-78 276,-84 276,-84 276,-100 276,-100 276,-106 270,-112 264,-112" />
+<text text-anchor="middle" x="185" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototype Iteration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M243,-40C243,-40 127,-40 127,-40 121,-40 115,-34 115,-28 115,-28 115,-12 115,-12 115,-6 121,0 127,0 127,0 243,0 243,0 249,0 255,-6 255,-12 255,-12 255,-28 255,-28 255,-34 249,-40 243,-40" />
+<text text-anchor="middle" x="185" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Final Solution</text>
+</g>
+</g>
+</svg>

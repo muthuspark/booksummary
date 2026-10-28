@@ -39,15 +39,7 @@ The book is a collection of practical game-based activities designed to address 
 * **Worst Possible Idea:**  Starting with the worst possible solution and then working backwards to identify potential improvements, stimulating creative thinking.
 * **Crazy 8s:** A rapid sketching technique that encourages quick idea generation, promoting quantity over quality in the initial stages.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Brainwriting);
-    A --> C(Worst Possible Idea);
-    A --> D(Crazy 8s);
-    B --> E[Refined Ideas];
-    C --> E;
-    D --> E;
-```
+![Idea Generation and Brainstorming. Problem; Brainwriting; Worst Possible Idea; Crazy 8s; Refined Ideas.](diagram-01.svg)
 
 ### Decision-Making and Prioritization
 
@@ -56,15 +48,7 @@ graph LR
 * **Prioritization Matrix:**  A visual tool to rank items based on different criteria, enabling informed decisions.
 
 
-```mermaid
-graph LR
-    A[Ideas] --> B(Dot Voting);
-    A --> C(Multi-voting);
-    A --> D(Prioritization Matrix);
-    B --> E[Prioritized Ideas];
-    C --> E;
-    D --> E;
-```
+![Decision-Making and Prioritization. Ideas; Dot Voting; Multi-voting; Prioritization Matrix; Prioritized Ideas.](diagram-02.svg)
 
 
 ### Problem Solving and Innovation
@@ -74,15 +58,7 @@ graph LR
 * **SWOT Analysis (Gamefied):** Transforming the traditional SWOT analysis into a more engaging and participatory activity.
 
 
-```mermaid
-graph LR
-    A[Problem] --> B(Storytelling);
-    A --> C(Role-playing);
-    A --> D(SWOT Analysis);
-    B --> E[Solutions];
-    C --> E;
-    D --> E;
-```
+![Problem Solving and Innovation. Problem; Storytelling; Role-playing; SWOT Analysis; Solutions.](diagram-03.svg)
 
 ### Team Building and Collaboration
 

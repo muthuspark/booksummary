@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226pt" height="476pt" viewBox="0.00 0.00 226.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">Evaluating Evidence Critically</title><desc id="description">Evidence leads to Source Credibility?. Source Credibility? leads to Bias Detected?. Bias Detected? leads to Contradictory Evidence?. Contradictory Evidence? leads to Limitations of Data?. Limitations of Data? leads to Valid/Invalid Conclusion.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 208,-458 208,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-399.87C95,-392.31 95,-383.49 95,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-375.1 95,-368.1 92.55,-375.1 97.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-327.87C95,-320.31 95,-311.49 95,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-303.1 95,-296.1 92.55,-303.1 97.45,-303.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-255.63C95,-248.34 95,-239.78 95,-231.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-231.19 95,-224.19 92.55,-231.19 97.45,-231.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-163.67C95,-155.77 95,-147.28 95,-139.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-139.12 95,-132.12 92.55,-139.12 97.45,-139.12" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-91.63C95,-84.34 95,-75.78 95,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-67.19 95,-60.19 92.55,-67.19 97.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134,-440C134,-440 56,-440 56,-440 50,-440 44,-434 44,-428 44,-428 44,-412 44,-412 44,-406 50,-400 56,-400 56,-400 134,-400 134,-400 140,-400 146,-406 146,-412 146,-412 146,-428 146,-428 146,-434 140,-440 134,-440" />
+<text text-anchor="middle" x="95" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evidence</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-368C173,-368 17,-368 17,-368 11,-368 5,-362 5,-356 5,-356 5,-340 5,-340 5,-334 11,-328 17,-328 17,-328 173,-328 173,-328 179,-328 185,-334 185,-340 185,-340 185,-356 185,-356 185,-362 179,-368 173,-368" />
+<text text-anchor="middle" x="95" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Source Credibility?</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156,-296C156,-296 34,-296 34,-296 28,-296 22,-290 22,-284 22,-284 22,-268 22,-268 22,-262 28,-256 34,-256 34,-256 156,-256 156,-256 162,-256 168,-262 168,-268 168,-268 168,-284 168,-284 168,-290 162,-296 156,-296" />
+<text text-anchor="middle" x="95" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bias Detected?</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152.5,-224C152.5,-224 37.5,-224 37.5,-224 31.5,-224 25.5,-218 25.5,-212 25.5,-212 25.5,-176 25.5,-176 25.5,-170 31.5,-164 37.5,-164 37.5,-164 152.5,-164 152.5,-164 158.5,-164 164.5,-170 164.5,-176 164.5,-176 164.5,-212 164.5,-212 164.5,-218 158.5,-224 152.5,-224" />
+<text text-anchor="middle" x="95" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Contradictory</text>
+<text text-anchor="middle" x="95" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evidence?</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M178,-132C178,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 178,-92 178,-92 184,-92 190,-98 190,-104 190,-104 190,-120 190,-120 190,-126 184,-132 178,-132" />
+<text text-anchor="middle" x="95" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limitations of Data?</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M150.5,-60C150.5,-60 39.5,-60 39.5,-60 33.5,-60 27.5,-54 27.5,-48 27.5,-48 27.5,-12 27.5,-12 27.5,-6 33.5,0 39.5,0 39.5,0 150.5,0 150.5,0 156.5,0 162.5,-6 162.5,-12 162.5,-12 162.5,-48 162.5,-48 162.5,-54 156.5,-60 150.5,-60" />
+<text text-anchor="middle" x="95" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Valid/Invalid</text>
+<text text-anchor="middle" x="95" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conclusion</text>
+</g>
+</g>
+</svg>

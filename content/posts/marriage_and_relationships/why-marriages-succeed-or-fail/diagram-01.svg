@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="605pt" height="138pt" viewBox="0.00 0.00 605.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Conflict: Navigating the Inevitable</title><desc id="description">Criticism leads to Contempt. Criticism leads to Defensiveness. Contempt leads to Stonewalling. Defensiveness leads to Stonewalling.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 587,-120 587,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.11,-61.15C114.55,-63.9 129.26,-66.91 143.2,-69.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="143.07,-72.24 150.41,-71.24 144.05,-67.44 143.07,-72.24" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.11,-40.85C109.06,-39.22 117.46,-37.5 125.87,-35.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.57,-38.14 132.94,-34.34 125.59,-33.34 126.57,-38.14" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M257.64,-74.97C281.8,-71.74 311.24,-67.8 339.24,-64.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="339.7,-66.47 346.32,-63.12 339.05,-61.62 339.7,-66.47" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M275.24,-29.39C295.45,-32.09 317.88,-35.08 339.44,-37.96" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="339.14,-40.4 346.4,-38.89 339.79,-35.54 339.14,-40.4" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-71C89,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 89,-31 89,-31 95,-31 101,-37 101,-43 101,-43 101,-59 101,-59 101,-65 95,-71 89,-71" />
+<text text-anchor="middle" x="50.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criticism</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M245.5,-102C245.5,-102 162.5,-102 162.5,-102 156.5,-102 150.5,-96 150.5,-90 150.5,-90 150.5,-74 150.5,-74 150.5,-68 156.5,-62 162.5,-62 162.5,-62 245.5,-62 245.5,-62 251.5,-62 257.5,-68 257.5,-74 257.5,-74 257.5,-90 257.5,-90 257.5,-96 251.5,-102 245.5,-102" />
+<text text-anchor="middle" x="204" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Contempt</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263,-40C263,-40 145,-40 145,-40 139,-40 133,-34 133,-28 133,-28 133,-12 133,-12 133,-6 139,0 145,0 145,0 263,0 263,0 269,0 275,-6 275,-12 275,-12 275,-28 275,-28 275,-34 269,-40 263,-40" />
+<text text-anchor="middle" x="204" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defensiveness</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="438,-91 307,-51 438,-11 569,-51 438,-91" />
+<text text-anchor="middle" x="438" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stonewalling</text>
+</g>
+</g>
+</svg>

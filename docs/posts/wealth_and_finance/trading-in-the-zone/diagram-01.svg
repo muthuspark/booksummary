@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="579pt" height="138pt" viewBox="0.00 0.00 579.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Myth of the "Holy Grail</title><desc id="description">Holy Grail Myth leads to Disappointment. Adaptability leads to Consistent Execution. Consistent Execution leads to Profitability.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 561,-120 561,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.15,-20C172.57,-20 187.68,-20 202.29,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.42,-22.45 209.42,-20 202.42,-17.55 202.42,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M142.26,-82C155.07,-82 168.88,-82 182.73,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="182.96,-84.45 189.96,-82 182.96,-79.55 182.96,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M387.26,-82C395.51,-82 403.74,-82 411.7,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="411.92,-84.45 418.92,-82 411.92,-79.55 411.92,-84.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-40C146,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 146,0 146,0 152,0 158,-6 158,-12 158,-12 158,-28 158,-28 158,-34 152,-40 146,-40" />
+<text text-anchor="middle" x="79" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Holy Grail Myth</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M355.5,-40C355.5,-40 221.5,-40 221.5,-40 215.5,-40 209.5,-34 209.5,-28 209.5,-28 209.5,-12 209.5,-12 209.5,-6 215.5,0 221.5,0 221.5,0 355.5,0 355.5,0 361.5,0 367.5,-6 367.5,-12 367.5,-12 367.5,-28 367.5,-28 367.5,-34 361.5,-40 355.5,-40" />
+<text text-anchor="middle" x="288.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disappointment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M130,-102C130,-102 28,-102 28,-102 22,-102 16,-96 16,-90 16,-90 16,-74 16,-74 16,-68 22,-62 28,-62 28,-62 130,-62 130,-62 136,-62 142,-68 142,-74 142,-74 142,-90 142,-90 142,-96 136,-102 130,-102" />
+<text text-anchor="middle" x="79" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adaptability</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M375,-102C375,-102 202,-102 202,-102 196,-102 190,-96 190,-90 190,-90 190,-74 190,-74 190,-68 196,-62 202,-62 202,-62 375,-62 375,-62 381,-62 387,-68 387,-74 387,-74 387,-90 387,-90 387,-96 381,-102 375,-102" />
+<text text-anchor="middle" x="288.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consistent Execution</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M531,-102C531,-102 431,-102 431,-102 425,-102 419,-96 419,-90 419,-90 419,-74 419,-74 419,-68 425,-62 431,-62 431,-62 531,-62 531,-62 537,-62 543,-68 543,-74 543,-74 543,-90 543,-90 543,-96 537,-102 531,-102" />
+<text text-anchor="middle" x="481" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Profitability</text>
+</g>
+</g>
+</svg>

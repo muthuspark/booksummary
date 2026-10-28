@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="302pt" height="444pt" viewBox="0.00 0.00 302.00 444.00" role="img" aria-labelledby="title description">
+<title id="title">Processing Betrayal:  Emotional Stages and Responses</title><desc id="description">Shock &amp; Denial leads to Anger &amp; Rage. Anger &amp; Rage leads to Bargaining &amp; Negotiation. Bargaining &amp; Negotiation leads to Depression &amp; Despair. Depression &amp; Despair leads to Acceptance &amp; Healing.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 426)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-426 284,-426 284,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-367.87C133,-360.31 133,-351.49 133,-343.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-343.1 133,-336.1 130.55,-343.1 135.45,-343.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-295.84C133,-288.75 133,-280.25 133,-271.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-271.12 133,-264.12 130.55,-271.12 135.45,-271.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-143.81C133,-135.27 133,-126.86 133,-119.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-119.33 133,-112.33 130.55,-119.33 135.45,-119.33" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-71.87C133,-64.31 133,-55.49 133,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-47.1 133,-40.1 130.55,-47.1 135.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196.5,-408C196.5,-408 69.5,-408 69.5,-408 63.5,-408 57.5,-402 57.5,-396 57.5,-396 57.5,-380 57.5,-380 57.5,-374 63.5,-368 69.5,-368 69.5,-368 196.5,-368 196.5,-368 202.5,-368 208.5,-374 208.5,-380 208.5,-380 208.5,-396 208.5,-396 208.5,-402 202.5,-408 196.5,-408" />
+<text text-anchor="middle" x="133" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shock &amp; Denial</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M190,-336C190,-336 76,-336 76,-336 70,-336 64,-330 64,-324 64,-324 64,-308 64,-308 64,-302 70,-296 76,-296 76,-296 190,-296 190,-296 196,-296 202,-302 202,-308 202,-308 202,-324 202,-324 202,-330 196,-336 190,-336" />
+<text text-anchor="middle" x="133" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anger &amp; Rage</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="133,-264 0,-204 133,-144 266,-204 133,-264" />
+<text text-anchor="middle" x="133" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bargaining &amp;</text>
+<text text-anchor="middle" x="133" y="-189.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negotiation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222.5,-112C222.5,-112 43.5,-112 43.5,-112 37.5,-112 31.5,-106 31.5,-100 31.5,-100 31.5,-84 31.5,-84 31.5,-78 37.5,-72 43.5,-72 43.5,-72 222.5,-72 222.5,-72 228.5,-72 234.5,-78 234.5,-84 234.5,-84 234.5,-100 234.5,-100 234.5,-106 228.5,-112 222.5,-112" />
+<text text-anchor="middle" x="133" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Depression &amp; Despair</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M223,-40C223,-40 43,-40 43,-40 37,-40 31,-34 31,-28 31,-28 31,-12 31,-12 31,-6 37,0 43,0 43,0 223,0 223,0 229,0 235,-6 235,-12 235,-12 235,-28 235,-28 235,-34 229,-40 223,-40" />
+<text text-anchor="middle" x="133" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance &amp; Healing</text>
+</g>
+</g>
+</svg>

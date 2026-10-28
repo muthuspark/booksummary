@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="598pt" height="240pt" viewBox="0.00 0.00 597.50 240.00" role="img" aria-labelledby="title description">
+<title id="title">Strategic Vision: Seeing the Big Picture</title><desc id="description">Self-Assessment leads to Strengths &amp; Weaknesses. Environmental Analysis leads to Opportunities &amp; Threats. Unique Value Proposition leads to Strategic Vision. Strengths &amp; Weaknesses leads to Strategic Vision. Opportunities &amp; Threats leads to Strategic Vision.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 579.5,-222 579.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111,-163.63C111,-153.32 111,-140.48 111,-129.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.45,-129.19 111,-122.19 108.55,-129.19 113.45,-129.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.51,-81.94C192.84,-70.12 233.17,-54.9 265.69,-42.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.83,-44.82 272.51,-40.05 265.1,-40.23 266.83,-44.82" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M323,-163.63C323,-156.34 323,-147.78 323,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.45,-139.19 323,-132.19 320.55,-139.19 325.45,-139.19" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M323,-71.67C323,-63.77 323,-55.28 323,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.45,-47.12 323,-40.12 320.55,-47.12 325.45,-47.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M431.15,-71.89C411.11,-62.46 389.21,-52.16 370.39,-43.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="370.99,-40.87 363.61,-40.11 368.9,-45.31 370.99,-40.87" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M178,-204C178,-204 44,-204 44,-204 38,-204 32,-198 32,-192 32,-192 32,-176 32,-176 32,-170 38,-164 44,-164 44,-164 178,-164 178,-164 184,-164 190,-170 190,-176 190,-176 190,-192 190,-192 190,-198 184,-204 178,-204" />
+<text text-anchor="middle" x="111" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M210,-122C210,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-94 0,-94 0,-88 6,-82 12,-82 12,-82 210,-82 210,-82 216,-82 222,-88 222,-94 222,-94 222,-110 222,-110 222,-116 216,-122 210,-122" />
+<text text-anchor="middle" x="111" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strengths &amp; Weaknesses</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M420.5,-204C420.5,-204 225.5,-204 225.5,-204 219.5,-204 213.5,-198 213.5,-192 213.5,-192 213.5,-176 213.5,-176 213.5,-170 219.5,-164 225.5,-164 225.5,-164 420.5,-164 420.5,-164 426.5,-164 432.5,-170 432.5,-176 432.5,-176 432.5,-192 432.5,-192 432.5,-198 426.5,-204 420.5,-204" />
+<text text-anchor="middle" x="323" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Environmental Analysis</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M390,-132C390,-132 256,-132 256,-132 250,-132 244,-126 244,-120 244,-120 244,-84 244,-84 244,-78 250,-72 256,-72 256,-72 390,-72 390,-72 396,-72 402,-78 402,-84 402,-84 402,-120 402,-120 402,-126 396,-132 390,-132" />
+<text text-anchor="middle" x="323" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Opportunities &amp;</text>
+<text text-anchor="middle" x="323" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Threats</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M549.5,-132C549.5,-132 436.5,-132 436.5,-132 430.5,-132 424.5,-126 424.5,-120 424.5,-120 424.5,-84 424.5,-84 424.5,-78 430.5,-72 436.5,-72 436.5,-72 549.5,-72 549.5,-72 555.5,-72 561.5,-78 561.5,-84 561.5,-84 561.5,-120 561.5,-120 561.5,-126 555.5,-132 549.5,-132" />
+<text text-anchor="middle" x="493" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unique Value</text>
+<text text-anchor="middle" x="493" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Proposition</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M387.5,-40C387.5,-40 258.5,-40 258.5,-40 252.5,-40 246.5,-34 246.5,-28 246.5,-28 246.5,-12 246.5,-12 246.5,-6 252.5,0 258.5,0 258.5,0 387.5,0 387.5,0 393.5,0 399.5,-6 399.5,-12 399.5,-12 399.5,-28 399.5,-28 399.5,-34 393.5,-40 387.5,-40" />
+<text text-anchor="middle" x="323" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategic Vision</text>
+</g>
+</g>
+</svg>

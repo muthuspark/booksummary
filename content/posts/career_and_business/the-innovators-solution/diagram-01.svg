@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475pt" height="208pt" viewBox="0.00 0.00 474.50 208.00" role="img" aria-labelledby="title description">
+<title id="title">The Two Types of Innovation: Sustaining and Disruptive</title><desc id="description">Sustaining Innovation leads to Improving existing products/services for high-end market. Disruptive Innovation leads to Initially inferior, targets underserved markets, improves over time.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 190)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-190 456.5,-190 456.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.5,-131.72C101.5,-121.85 101.5,-109.38 101.5,-97.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.95,-97.09 101.5,-90.09 99.05,-97.09 103.95,-97.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M330.5,-131.72C330.5,-124.55 330.5,-116.01 330.5,-107.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="332.95,-107.12 330.5,-100.12 328.05,-107.12 332.95,-107.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-172C191,-172 12,-172 12,-172 6,-172 0,-166 0,-160 0,-160 0,-144 0,-144 0,-138 6,-132 12,-132 12,-132 191,-132 191,-132 197,-132 203,-138 203,-144 203,-144 203,-160 203,-160 203,-166 197,-172 191,-172" />
+<text text-anchor="middle" x="101.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sustaining Innovation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M188.5,-90C188.5,-90 14.5,-90 14.5,-90 8.5,-90 2.5,-84 2.5,-78 2.5,-78 2.5,-22 2.5,-22 2.5,-16 8.5,-10 14.5,-10 14.5,-10 188.5,-10 188.5,-10 194.5,-10 200.5,-16 200.5,-22 200.5,-22 200.5,-78 200.5,-78 200.5,-84 194.5,-90 188.5,-90" />
+<text text-anchor="middle" x="101.5" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improving existing</text>
+<text text-anchor="middle" x="101.5" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">products/services for</text>
+<text text-anchor="middle" x="101.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">high-end market</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M420.5,-172C420.5,-172 240.5,-172 240.5,-172 234.5,-172 228.5,-166 228.5,-160 228.5,-160 228.5,-144 228.5,-144 228.5,-138 234.5,-132 240.5,-132 240.5,-132 420.5,-132 420.5,-132 426.5,-132 432.5,-138 432.5,-144 432.5,-144 432.5,-160 432.5,-160 432.5,-166 426.5,-172 420.5,-172" />
+<text text-anchor="middle" x="330.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disruptive Innovation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M426.5,-100C426.5,-100 234.5,-100 234.5,-100 228.5,-100 222.5,-94 222.5,-88 222.5,-88 222.5,-12 222.5,-12 222.5,-6 228.5,0 234.5,0 234.5,0 426.5,0 426.5,0 432.5,0 438.5,-6 438.5,-12 438.5,-12 438.5,-88 438.5,-88 438.5,-94 432.5,-100 426.5,-100" />
+<text text-anchor="middle" x="330.5" y="-75.6" font-family="Georgia" font-size="18.00" fill="#243d36">Initially inferior,</text>
+<text text-anchor="middle" x="330.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">targets underserved</text>
+<text text-anchor="middle" x="330.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">markets, improves over</text>
+<text text-anchor="middle" x="330.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">time</text>
+</g>
+</g>
+</svg>

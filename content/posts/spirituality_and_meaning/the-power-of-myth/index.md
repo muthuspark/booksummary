@@ -14,20 +14,7 @@ Joseph Campbell's *The Power of Myth*, born from conversations with Bill Moyers,
 
 The central concept is the "monomyth," or "hero's journey," a cyclical narrative structure found in countless myths across the globe.  This journey, while varying in specifics, follows a predictable pattern. Understanding this pattern allows us to identify analogous situations in our own lives and approach them with greater awareness and purpose.
 
-```mermaid
-graph TD
-A[The Ordinary World] --> B(The Call to Adventure)
-B --> C{Refusal of the Call}
-C --> D(Meeting the Mentor)
-D --> E[Crossing the Threshold]
-E --> F(Tests, Allies, Enemies)
-F --> G[Approach to the Inmost Cave]
-G --> H(The Ordeal)
-H --> I["Reward (Seizing the Sword)"]
-I --> J(The Road Back)
-J --> K(Resurrection)
-K --> L[Return with the Elixir]
-```
+![The Monomyth and Its Stages. The Ordinary World; The Call to Adventure; Refusal of the Call; Meeting the Mentor; Crossing the Threshold; Tests, Allies, Enemies; Approach to the Inmost Cave; The Ordeal; Reward (Seizing the Sword); The Road Back; Resurrection; Return with the Elixir.](diagram-01.svg)
 
 This diagram illustrates the core stages.  Recognizing these stages in our personal narratives allows for a proactive approach to challenges.
 

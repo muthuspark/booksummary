@@ -16,12 +16,7 @@ Mindfulness, the cornerstone of the book's framework, is presented not as a flee
 
 The authors highlight the importance of regular mindfulness practices like meditation, deep breathing, and mindful movement. These techniques, they argue, help leaders (and individuals) reduce stress, focus, and make more informed decisions.  Furthermore, it facilitates emotional regulation, leading to more balanced responses in challenging situations.
 
-```mermaid
-graph LR
-A[Stressful Situation] --> B(Mindful Response);
-B --> C[Calm Decision-Making];
-C --> D{Positive Outcome};
-```
+![Mindfulness: The Foundation of Leadership. Stressful Situation; Mindful Response; Calm Decision-Making; Positive Outcome.](diagram-01.svg)
 
 ## Self-Compassion: Embracing Imperfection
 
@@ -30,15 +25,7 @@ Self-compassion is presented as equally important as mindfulness. Recognizing on
 Self-compassion involves acknowledging failures without self-flagellation, recognizing that setbacks are a natural part of life, and offering oneself the same kindness and understanding one would offer a friend facing similar challenges.  This self-acceptance fosters resilience and allows for continuous learning and growth.
 
 
-```mermaid
-graph LR
-A[Failure] --> B(Self-Criticism);
-B --> C[Stress & Burnout];
-C --> D{Ineffective Leadership};
-E[Failure] --> F(Self-Compassion);
-F --> G[Learning & Growth];
-G --> H{Resilient Leadership};
-```
+![Self-Compassion: Embracing Imperfection. Failure; Self-Criticism; Stress & Burnout; Ineffective Leadership; Failure; Self-Compassion; Learning & Growth; Resilient Leadership.](diagram-02.svg)
 
 ## Courageous Leadership: Taking Action with Clarity
 
@@ -47,13 +34,7 @@ Courageous leadership is the culmination of mindfulness and self-compassion.  It
 The book emphasizes the importance of clear communication, setting boundaries, and taking calculated risks.  Courageous leaders are able to confront difficult conversations, make tough decisions, and inspire others through their conviction and integrity. They don't shy away from challenges but see them as opportunities for growth and development.
 
 
-```mermaid
-graph LR
-A[Uncertainty] --> B(Mindfulness & Self-Compassion);
-B --> C[Clear Vision];
-C --> D(Courageous Action);
-D --> E{Positive Change};
-```
+![Courageous Leadership: Taking Action with Clarity. Uncertainty; Mindfulness & Self-Compassion; Clear Vision; Courageous Action; Positive Change.](diagram-03.svg)
 
 
 ## Actionable Strategies

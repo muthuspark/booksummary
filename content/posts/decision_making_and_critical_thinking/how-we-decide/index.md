@@ -64,16 +64,7 @@ The book doesn't advocate for a purely rational or emotional approach. Instead, 
 
 The interaction between the amygdala and the prefrontal cortex can be illustrated using a diagram:
 
-```mermaid
-graph LR
-    A["Amygdala (Emotion)"] --> B(Gut Feeling/Intuition);
-    B --> C{"Prefrontal Cortex (Reason)"};
-    C --> D[Decision];
-    A --> C;
-    subgraph "Decision-Making Process"
-        A;B;C;D;
-    end
-```
+![Visualizing the Decision-Making Process. Amygdala (Emotion); Gut Feeling/Intuition; Prefrontal Cortex (Reason); Decision.](diagram-01.svg)
 
 
 ##  Key Takeaways and Actionable Advice

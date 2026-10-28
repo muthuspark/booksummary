@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530pt" height="103pt" viewBox="0.00 0.00 530.00 103.00" role="img" aria-labelledby="title description">
+<title id="title">Turning Limitations into Strengths: The F.A.C.E. Method</title><desc id="description">Focus leads to Adaptation. Adaptation leads to Creation. Creation leads to Execution. Execution leads to Focus.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 85)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-85 512,-85 512,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M75.28,-27.88C83,-29.54 91.36,-31.33 99.76,-33.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.45,-35.57 106.81,-34.64 100.48,-30.77 99.45,-35.57" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224.2,-47C232.27,-47 240.53,-47 248.54,-47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.81,-49.45 255.81,-47 248.81,-44.55 248.81,-49.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M353.14,-37.33C361.18,-35.7 369.61,-33.98 377.93,-32.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="378.49,-34.68 384.87,-30.89 377.52,-29.88 378.49,-34.68" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M384.69,-17.1C374.19,-16.64 363.25,-16.24 353,-16 243.7,-13.44 216.29,-12.81 107,-16 99.07,-16.23 90.63,-16.61 82.48,-17.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.95,-14.63 75.1,-17.47 82.23,-19.52 81.95,-14.63" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M63,-40C63,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 63,0 63,0 69,0 75,-6 75,-12 75,-12 75,-28 75,-28 75,-34 69,-40 63,-40" />
+<text text-anchor="middle" x="37.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Focus</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M212,-67C212,-67 119,-67 119,-67 113,-67 107,-61 107,-55 107,-55 107,-39 107,-39 107,-33 113,-27 119,-27 119,-27 212,-27 212,-27 218,-27 224,-33 224,-39 224,-39 224,-55 224,-55 224,-61 218,-67 212,-67" />
+<text text-anchor="middle" x="165.5" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adaptation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M341,-67C341,-67 268,-67 268,-67 262,-67 256,-61 256,-55 256,-55 256,-39 256,-39 256,-33 262,-27 268,-27 268,-27 341,-27 341,-27 347,-27 353,-33 353,-39 353,-39 353,-55 353,-55 353,-61 347,-67 341,-67" />
+<text text-anchor="middle" x="304.5" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creation</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M482,-40C482,-40 397,-40 397,-40 391,-40 385,-34 385,-28 385,-28 385,-12 385,-12 385,-6 391,0 397,0 397,0 482,0 482,0 488,0 494,-6 494,-12 494,-12 494,-28 494,-28 494,-34 488,-40 482,-40" />
+<text text-anchor="middle" x="439.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Execution</text>
+</g>
+</g>
+</svg>

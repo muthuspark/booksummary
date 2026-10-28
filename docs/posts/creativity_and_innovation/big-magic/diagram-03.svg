@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296pt" height="533pt" viewBox="0.00 0.00 296.00 533.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Courage and Curiosity</title><desc id="description">Courage leads to Risk-Taking (Fuels). Risk-Taking leads to Creative Growth. Creative Growth leads to Curiosity (Driven by). Curiosity leads to Exploration &amp; Experimentation. Exploration &amp; Experimentation leads to Creative Life.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 515)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-515 278,-515 278,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130,-456.69C130,-444.53 130,-428.66 130,-415.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.45,-415.25 130,-408.25 127.55,-415.25 132.45,-415.25" />
+<text text-anchor="middle" x="148.5" y="-429" font-family="Georgia" font-size="15.00" fill="#405b50">Fuels</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130,-367.97C130,-360.09 130,-350.82 130,-342.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.45,-342.08 130,-335.08 127.55,-342.08 132.45,-342.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130,-294.69C130,-282.53 130,-266.66 130,-253.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.45,-253.25 130,-246.25 127.55,-253.25 132.45,-253.25" />
+<text text-anchor="middle" x="163" y="-267" font-family="Georgia" font-size="15.00" fill="#405b50">Driven by</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130,-205.8C130,-198.2 130,-189.2 130,-180.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.45,-180.2 130,-173.2 127.55,-180.2 132.45,-180.2" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M130,-112.79C130,-104.87 130,-96.09 130,-87.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.45,-87.3 130,-80.3 127.55,-87.3 132.45,-87.3" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M165.5,-497C165.5,-497 94.5,-497 94.5,-497 88.5,-497 82.5,-491 82.5,-485 82.5,-485 82.5,-469 82.5,-469 82.5,-463 88.5,-457 94.5,-457 94.5,-457 165.5,-457 165.5,-457 171.5,-457 177.5,-463 177.5,-469 177.5,-469 177.5,-485 177.5,-485 177.5,-491 171.5,-497 165.5,-497" />
+<text text-anchor="middle" x="130" y="-472.6" font-family="Georgia" font-size="18.00" fill="#243d36">Courage</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180.5,-408C180.5,-408 79.5,-408 79.5,-408 73.5,-408 67.5,-402 67.5,-396 67.5,-396 67.5,-380 67.5,-380 67.5,-374 73.5,-368 79.5,-368 79.5,-368 180.5,-368 180.5,-368 186.5,-368 192.5,-374 192.5,-380 192.5,-380 192.5,-396 192.5,-396 192.5,-402 186.5,-408 180.5,-408" />
+<text text-anchor="middle" x="130" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk-Taking</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197.5,-335C197.5,-335 62.5,-335 62.5,-335 56.5,-335 50.5,-329 50.5,-323 50.5,-323 50.5,-307 50.5,-307 50.5,-301 56.5,-295 62.5,-295 62.5,-295 197.5,-295 197.5,-295 203.5,-295 209.5,-301 209.5,-307 209.5,-307 209.5,-323 209.5,-323 209.5,-329 203.5,-335 197.5,-335" />
+<text text-anchor="middle" x="130" y="-310.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creative Growth</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168.5,-246C168.5,-246 91.5,-246 91.5,-246 85.5,-246 79.5,-240 79.5,-234 79.5,-234 79.5,-218 79.5,-218 79.5,-212 85.5,-206 91.5,-206 91.5,-206 168.5,-206 168.5,-206 174.5,-206 180.5,-212 180.5,-218 180.5,-218 180.5,-234 180.5,-234 180.5,-240 174.5,-246 168.5,-246" />
+<text text-anchor="middle" x="130" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Curiosity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M200,-173C200,-173 60,-173 60,-173 54,-173 48,-167 48,-161 48,-161 48,-125 48,-125 48,-119 54,-113 60,-113 60,-113 200,-113 200,-113 206,-113 212,-119 212,-125 212,-125 212,-161 212,-161 212,-167 206,-173 200,-173" />
+<text text-anchor="middle" x="130" y="-148.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exploration &amp;</text>
+<text text-anchor="middle" x="130" y="-128.6" font-family="Georgia" font-size="18.00" fill="#243d36">Experimentation</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="130,-80 0,-40 130,0 260,-40 130,-80" />
+<text text-anchor="middle" x="130" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creative Life</text>
+</g>
+</g>
+</svg>

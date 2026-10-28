@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="624pt" height="168pt" viewBox="0.00 0.00 624.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Connection:  Shared Experiences</title><desc id="description">Connection leads to Shared Experiences. Connection leads to Belonging. Connection leads to Empathy. Connection leads to Meaningful Interactions.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 606,-150 606,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.99,-91.94C236.41,-80.07 191.85,-64.77 156.03,-52.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="156.41,-50.01 148.99,-50.05 154.82,-54.64 156.41,-50.01" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M311.25,-91.63C302.81,-80.92 292.24,-67.49 283.19,-56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="284.87,-54.17 278.61,-50.19 281.02,-57.2 284.87,-54.17" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M341.99,-91.63C350.64,-80.83 361.5,-67.25 370.75,-55.68" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="372.69,-57.18 375.15,-50.19 368.86,-54.12 372.69,-57.18" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M373.91,-91.94C398.39,-82.1 428.73,-69.9 455.82,-59.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="457.06,-61.16 462.64,-56.27 455.23,-56.61 457.06,-61.16" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M374,-132C374,-132 279,-132 279,-132 273,-132 267,-126 267,-120 267,-120 267,-104 267,-104 267,-98 273,-92 279,-92 279,-92 374,-92 374,-92 380,-92 386,-98 386,-104 386,-104 386,-120 386,-120 386,-126 380,-132 374,-132" />
+<text text-anchor="middle" x="326.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Connection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M175,-50C175,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 175,-10 175,-10 181,-10 187,-16 187,-22 187,-22 187,-38 187,-38 187,-44 181,-50 175,-50" />
+<text text-anchor="middle" x="93.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Experiences</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M306,-50C306,-50 221,-50 221,-50 215,-50 209,-44 209,-38 209,-38 209,-22 209,-22 209,-16 215,-10 221,-10 221,-10 306,-10 306,-10 312,-10 318,-16 318,-22 318,-22 318,-38 318,-38 318,-44 312,-50 306,-50" />
+<text text-anchor="middle" x="263.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Belonging</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M429,-50C429,-50 352,-50 352,-50 346,-50 340,-44 340,-38 340,-38 340,-22 340,-22 340,-16 346,-10 352,-10 352,-10 429,-10 429,-10 435,-10 441,-16 441,-22 441,-22 441,-38 441,-38 441,-44 435,-50 429,-50" />
+<text text-anchor="middle" x="390.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M576,-60C576,-60 475,-60 475,-60 469,-60 463,-54 463,-48 463,-48 463,-12 463,-12 463,-6 469,0 475,0 475,0 576,0 576,0 582,0 588,-6 588,-12 588,-12 588,-48 588,-48 588,-54 582,-60 576,-60" />
+<text text-anchor="middle" x="525.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful</text>
+<text text-anchor="middle" x="525.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interactions</text>
+</g>
+</g>
+</svg>

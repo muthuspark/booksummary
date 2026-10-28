@@ -48,12 +48,7 @@ The book doesn't simply describe grit; it provides practical strategies for cult
 Duckworth distinguishes between simple practice and deliberate practice.  Simple practice is repetitive; deliberate practice is focused, intentional, and involves seeking feedback and correcting errors.  She stresses the interplay between interest and deliberate practice.  Without interest, consistent deliberate practice becomes unsustainable.  However, interest alone isn’t enough; consistent, deliberate practice transforms interest into mastery.
 
 
-```mermaid
-graph LR
-    A[Interest] --> B(Deliberate Practice);
-    B --> C{Mastery};
-    A --> C;
-```
+![The Role of Interest and Deliberate Practice. Interest; Deliberate Practice; Mastery.](diagram-01.svg)
 
 #  Overcoming Obstacles: Resilience and the Power of Failure
 
@@ -84,11 +79,7 @@ Duckworth doesn't simply focus on achieving external success; she also considers
 
 The book recognizes the significant influence of the environment on grit development. Supportive relationships, strong mentors, and positive social structures can increase grit. Conversely, negative environments lacking support or consistent criticism can hinder grit development. Creating or seeking supportive environments is important for sustained progress.
 
-```mermaid
-graph LR
-    A[Supportive Environment] --> B(Grit Development);
-    C[Negative Environment] --> D(Hindered Grit Development);
-```
+![The Role of the Environment: Support Systems and Mentorship. Supportive Environment; Grit Development; Negative Environment; Hindered Grit Development.](diagram-02.svg)
 
 ## Embracing the Long Game
 

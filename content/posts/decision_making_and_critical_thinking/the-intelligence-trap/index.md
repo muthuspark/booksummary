@@ -102,26 +102,7 @@ The book offers many practical tools to implement these strategies:
 ##  Visual Representation of Key Concepts:
 
 
-```mermaid
-graph LR
-A[High Intelligence] --> B(Overconfidence);
-A --> C(Confirmation Bias);
-A --> D(Intellectual Rigidity);
-A --> E(Aversion to Uncertainty);
-B -- "Leads to" --> F(Poor Decision-Making);
-C -- "Leads to" --> F;
-D -- "Leads to" --> F;
-E -- "Leads to" --> F;
-F --> G(Suboptimal Outcomes);
-H[Intellectual Humility] --> I(Growth Mindset);
-H --> J(Collaboration);
-H --> K(Reflection);
-I -- "Leads to" --> L(Adaptability & Learning);
-J -- "Leads to" --> L;
-K -- "Leads to" --> L;
-L --> M(Improved Outcomes);
-
-```
+![Visual Representation of Key Concepts:. High Intelligence; Overconfidence; Confirmation Bias; Intellectual Rigidity; Aversion to Uncertainty; Poor Decision-Making; Suboptimal Outcomes; Intellectual Humility; Growth Mindset; Collaboration; Reflection; Adaptability & Learning; Improved Outcomes.](diagram-01.svg)
 
 This diagram shows how high intelligence can lead to negative biases, ultimately resulting in suboptimal outcomes.  In contrast, intellectual humility, coupled with strategies for growth, collaboration, and reflection, can lead to improved adaptability, learning, and positive outcomes.
 

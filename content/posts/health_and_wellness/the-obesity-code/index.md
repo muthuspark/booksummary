@@ -15,16 +15,7 @@ Jason Fung's "The Obesity Code" challenges the conventional wisdom surrounding o
 
 The central theme of "The Obesity Code" is insulin resistance.  Insulin, a hormone released by the pancreas, allows glucose (sugar) from food to enter cells for energy.  When cells become resistant to insulin, glucose accumulates in the bloodstream, leading to elevated blood sugar levels. The body then compensates by producing more insulin, further exacerbating the problem. This cycle creates a state of chronic hyperinsulinemia, which promotes fat storage and hinders fat burning.
 
-```mermaid
-graph LR
-    A[Food Intake] --> B(Increased Insulin);
-    B --> C{Insulin Resistance};
-    C --> D[Glucose Accumulation];
-    D --> E(More Insulin);
-    E --> C;
-    C --> F[Fat Storage];
-    C --> G[Fat Burning Inhibition];
-```
+![Insulin Resistance: The Core Problem. Food Intake; Increased Insulin; Insulin Resistance; Glucose Accumulation; More Insulin; Fat Storage; Fat Burning Inhibition.](diagram-01.svg)
 
 Fung argues that this hormonal dysfunction is the primary driver of obesity, not simply excessive calorie consumption. While calorie intake plays a role, the body's response to those calories, mediated by insulin, determines how they are processed and stored.
 

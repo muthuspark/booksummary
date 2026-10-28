@@ -15,39 +15,20 @@ The Art of Possibility by Rosamund Stone Zander and Benjamin Zander isn't just a
 
 The book's central message revolves around adopting the belief that "it's all possible". This isn't naive optimism; rather, it's a conscious choice to approach life with an open mind and a willingness to look at possibilities. This belief creates a fertile ground for creativity, innovation, and personal growth.  It encourages abandoning limiting beliefs and embracing a sense of agency.
 
-```mermaid
-graph LR
-    A[Limiting Beliefs] --> B{It's All Possible};
-    B --> C[Openness];
-    B --> D[Creativity];
-    B --> E[Growth];
-```
+![The Power of "It's All Possible. Limiting Beliefs; It's All Possible; Openness; Creativity; Growth.](diagram-01.svg)
 
 ##  Giving Up Being Right: Embracing Imperfection
 
 The book heavily emphasizes the importance of letting go of the need to be right.  This isn't about being passive or accepting mediocrity; rather, it’s about releasing the attachment to ego and embracing a growth mindset.  By relinquishing the need to be correct, one creates space for collaboration, learning, and genuine connection. It allows for embracing imperfection as a natural part of the creative process and personal journey.
 
-```mermaid
-graph LR
-    A[Need to be Right] --> B(Ego);
-    B --> C[Closed-mindedness];
-    D[Giving Up Being Right] --> E(Growth Mindset);
-    E --> F[Collaboration];
-    E --> G[Learning];
-```
+![Giving Up Being Right: Embracing Imperfection. Need to be Right; Ego; Closed-mindedness; Giving Up Being Right; Growth Mindset; Collaboration; Learning.](diagram-02.svg)
 
 
 ##  The Importance of  "Contribution" Over "Competition"
 
 Zanders advocate for shifting focus from competition to contribution.  Instead of striving to outperform others, the emphasis is placed on adding value to the world and to the lives of those around us. This creates a positive feedback loop, fostering a sense of purpose and meaning.   Contribution, they argue, is inherently rewarding, leading to a greater sense of fulfillment than solely pursuing personal gain.
 
-```mermaid
-graph LR
-    A[Competition] --> B(Self-focus);
-    B --> C[Limited Growth];
-    D[Contribution] --> E(Shared Success);
-    E --> F[Meaning and Purpose];
-```
+![The Importance of  "Contribution" Over "Competition. Competition; Self-focus; Limited Growth; Contribution; Shared Success; Meaning and Purpose.](diagram-03.svg)
 
 
 ##  The Power of "Leadership" as "Giving People the Power to Lead"
@@ -55,41 +36,21 @@ graph LR
 The book reframes leadership not as a position of power but as a process of empowering others.  Benjamin Zander’s experience as a conductor brilliantly illustrates this. He doesn't dictate; he inspires and facilitates the orchestra's collective brilliance.  This principle applies to all areas of life, advocating for delegation, mentorship, and creating an environment where every individual feels valued and capable.
 
 
-```mermaid
-graph LR
-    A[Traditional Leadership] --> B(Control);
-    B --> C[Limited Potential];
-    D[Empowering Leadership] --> E(Collaboration);
-    E --> F[Collective Brilliance];
-```
+![The Power of "Leadership" as "Giving People the Power to Lead. Traditional Leadership; Control; Limited Potential; Empowering Leadership; Collaboration; Collective Brilliance.](diagram-04.svg)
 
 
 ##  Reframing Challenges as Opportunities
 
 The book presents a powerful technique for transforming challenges into opportunities.  Instead of viewing obstacles as setbacks, it encourages seeing them as learning experiences, stepping stones on a path toward growth.  This shift in perspective allows individuals to approach difficulties with curiosity and resourcefulness.
 
-```mermaid
-graph LR
-    A[Challenge] --> B{Perspective Shift};
-    B --> C[Learning Opportunity];
-    C --> D[Growth];
-    B --> E[Obstacle];
-    E --> F[Frustration];
-```
+![Reframing Challenges as Opportunities. Challenge; Perspective Shift; Learning Opportunity; Growth; Obstacle; Frustration.](diagram-05.svg)
 
 
 ##  Living in the "Now" and the Importance of Presence
 
 The authors highlight the significance of fully engaging in the present moment. This is not about ignoring the past or future, but rather about cultivating an appreciation for the present experience. By focusing on the "now", individuals can increase their awareness and make more conscious choices.
 
-```mermaid
-graph LR
-    A[Past Regrets] --> B(Stress);
-    C[Future Anxiety] --> B;
-    B --> D[Present Moment];
-    D --> E[Awareness];
-    D --> F[Joy];
-```
+![Living in the "Now" and the Importance of Presence. Past Regrets; Stress; Future Anxiety; Present Moment; Awareness; Joy.](diagram-06.svg)
 
 
 ##  The "Symphony of Life" Metaphor

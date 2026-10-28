@@ -14,12 +14,7 @@ David Bach's "Smart Women Finish Rich" isn't just a financial guide; it's a call
 
 A core concept in the book is the "Latte Factor." This isn't about abstaining from lattes; instead, it represents small, seemingly insignificant daily expenses that, when accumulated over time, impact one's savings. Bach advocates for identifying these small expenditures and consciously choosing to save that money instead. This seemingly small change compounds over time, creating substantial savings.
 
-```mermaid
-graph LR
-    A[Daily Expenses] --> B(Latte Factor);
-    B --> C{Accumulated Savings};
-    C --> D[Financial Freedom];
-```
+![Understanding the Latte Factor. Daily Expenses; Latte Factor; Accumulated Savings; Financial Freedom.](diagram-01.svg)
 
 ## The 80/20 Rule of Financial Success
 
@@ -33,13 +28,7 @@ Having a solid emergency fund is crucial. Bach highlights the importance of havi
 
 High-interest debt, such as credit card debt, hinders financial progress. Bach advocates for aggressive debt reduction strategies, emphasizing the importance of prioritizing high-interest debts first.  This can involve snowball or avalanche methods, focusing on either the smallest debt first (snowball) for psychological motivation or the highest interest debt first (avalanche) for maximizing savings.
 
-```mermaid
-graph LR
-    A[High-Interest Debt] --> B(Snowball Method);
-    A --> C(Avalanche Method);
-    B --> D[Faster Psychological Progress];
-    C --> E[Faster Financial Progress];
-```
+![Paying Down Debt Strategically. High-Interest Debt; Snowball Method; Avalanche Method; Faster Psychological Progress; Faster Financial Progress.](diagram-02.svg)
 
 ## Investing for the Future
 

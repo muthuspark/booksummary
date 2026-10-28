@@ -14,14 +14,7 @@ John C. Maxwell's "The Leader's Greatest Return" isn't just about leadership in 
 
 The core message revolves around the concept of continuous self-improvement. Maxwell stresses that true success is built on a foundation of personal development, requiring consistent effort and commitment.  He encourages readers to actively invest in themselves through various avenues, including education, mentorship, and deliberate practice. This isn't a passive pursuit; it requires proactive steps towards growth.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Discipline);
-    B --> C{Continuous Learning};
-    C --> D[Growth Mindset];
-    D --> E(Purpose Driven Life);
-    E --> F[Impactful Leadership];
-```
+![Investing in Yourself: The Foundation of Success. Self-Awareness; Self-Discipline; Continuous Learning; Growth Mindset; Purpose Driven Life; Impactful Leadership.](diagram-01.svg)
 
 ###  Developing Self-Awareness: Knowing Your Strengths and Weaknesses
 

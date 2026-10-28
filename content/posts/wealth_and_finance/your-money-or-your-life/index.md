@@ -17,14 +17,7 @@ The book emphasizes the critical importance of becoming fully aware of your spen
 
 A concept introduced is calculating your "real" hourly wage. This involves accounting for all the time spent earning money, including not just your working hours but also commute time, preparation time, and the mental energy invested in your work. This process vividly reveals the true cost of earning money and helps prioritize activities that yield higher returns in terms of personal fulfillment.
 
-```mermaid
-graph LR
-    A[Total Hours Worked] --> B(Total Income);
-    B --> C{Subtract Taxes & Expenses};
-    C --> D[Real Income];
-    D --> E(Divide by Total Hours Worked);
-    E --> F[Real Hourly Wage];
-```
+![Calculating Your Real Hourly Wage. Total Hours Worked; Total Income; Subtract Taxes & Expenses; Real Income; Divide by Total Hours Worked; Real Hourly Wage.](diagram-01.svg)
 
 ### The Nine-Step Program: A Path to Financial Freedom
 

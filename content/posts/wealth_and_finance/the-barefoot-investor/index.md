@@ -18,12 +18,7 @@ The book's central message revolves around six key steps, presented as a simple,
 
 Debt is the biggest obstacle to financial freedom. Pape advocates for aggressive debt reduction, prioritizing high-interest debts like credit cards first. He suggests a "debt snowball" method, focusing on paying off the smallest debt first to build momentum and motivation. This psychological boost is important in maintaining discipline throughout the debt-repayment process.
 
-```mermaid
-graph LR
-    A["High-Interest Debt (Credit Cards)"] --> B(Pay Off First);
-    C["Low-Interest Debt (Loans)"] --> D(Pay Off Next);
-    E[Remaining Debt] --> F(Pay Off Last);
-```
+![Step 1: Get Out of Debt. High-Interest Debt (Credit Cards); Pay Off First; Low-Interest Debt (Loans); Pay Off Next; Remaining Debt; Pay Off Last.](diagram-01.svg)
 
 ### Step 2: Build an Emergency Fund
 
@@ -56,18 +51,7 @@ Beyond the six steps, the book explores many concepts:
 
 The Barefoot Budget is a simplified budgeting system, focusing on classifying expenses into essential and discretionary categories. This clear visualization helps identify areas for savings and spending adjustments.
 
-```mermaid
-graph LR
-    A[Income] --> B{Essential Expenses};
-    B --> C[Housing];
-    B --> D[Utilities];
-    B --> E[Food];
-    B --> F[Transportation];
-    A --> G{Discretionary Expenses};
-    G --> H[Entertainment];
-    G --> I[Dining Out];
-    G --> J[Travel];
-```
+![The Barefoot Budget. Income; Essential Expenses; Housing; Utilities; Food; Transportation; Discretionary Expenses; Entertainment; Dining Out; Travel.](diagram-02.svg)
 
 ###  The Importance of Automated Savings
 

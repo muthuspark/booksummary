@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="423pt" height="386pt" viewBox="0.00 0.00 423.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Scout vs. The Soldier: A Fundamental Dichotomy</title><desc id="description">Soldier Mindset leads to Winning Arguments. Soldier Mindset leads to Defending Beliefs. Soldier Mindset leads to Proving Self Right. Scout Mindset leads to Accurate Information. Scout Mindset leads to Mapping Reality. Scout Mindset leads to Truth Seeking.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 405,-368 405,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.58,-102.04C166.74,-108.37 190.23,-115.38 211.85,-121.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.38,-124.26 218.79,-123.92 212.79,-119.57 211.38,-124.26" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.18,-82C168.03,-82 181.49,-82 194.67,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.96,-84.45 201.96,-82 194.96,-79.55 194.96,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.58,-61.96C166.74,-55.63 190.23,-48.62 211.85,-42.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.79,-44.43 218.79,-40.08 211.38,-39.74 212.79,-44.43" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.58,-288.04C166.74,-294.37 190.23,-301.38 211.85,-307.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.38,-310.26 218.79,-309.92 212.79,-305.57 211.38,-310.26" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149.04,-268C165.18,-268 182.52,-268 199.25,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.38,-270.45 206.38,-268 199.38,-265.55 199.38,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M145.58,-247.96C166.74,-241.63 190.23,-234.62 211.85,-228.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.79,-230.43 218.79,-226.08 211.38,-225.74 212.79,-230.43" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-102C143,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 143,-62 143,-62 149,-62 155,-68 155,-74 155,-74 155,-90 155,-90 155,-96 149,-102 143,-102" />
+<text text-anchor="middle" x="77.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Soldier Mindset</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M369.5,-164C369.5,-164 204.5,-164 204.5,-164 198.5,-164 192.5,-158 192.5,-152 192.5,-152 192.5,-136 192.5,-136 192.5,-130 198.5,-124 204.5,-124 204.5,-124 369.5,-124 369.5,-124 375.5,-124 381.5,-130 381.5,-136 381.5,-136 381.5,-152 381.5,-152 381.5,-158 375.5,-164 369.5,-164" />
+<text text-anchor="middle" x="287" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Winning Arguments</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M360,-102C360,-102 214,-102 214,-102 208,-102 202,-96 202,-90 202,-90 202,-74 202,-74 202,-68 208,-62 214,-62 214,-62 360,-62 360,-62 366,-62 372,-68 372,-74 372,-74 372,-90 372,-90 372,-96 366,-102 360,-102" />
+<text text-anchor="middle" x="287" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defending Beliefs</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M361.5,-40C361.5,-40 212.5,-40 212.5,-40 206.5,-40 200.5,-34 200.5,-28 200.5,-28 200.5,-12 200.5,-12 200.5,-6 206.5,0 212.5,0 212.5,0 361.5,0 361.5,0 367.5,0 373.5,-6 373.5,-12 373.5,-12 373.5,-28 373.5,-28 373.5,-34 367.5,-40 361.5,-40" />
+<text text-anchor="middle" x="287" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Proving Self Right</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M137,-288C137,-288 18,-288 18,-288 12,-288 6,-282 6,-276 6,-276 6,-260 6,-260 6,-254 12,-248 18,-248 18,-248 137,-248 137,-248 143,-248 149,-254 149,-260 149,-260 149,-276 149,-276 149,-282 143,-288 137,-288" />
+<text text-anchor="middle" x="77.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Scout Mindset</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375,-350C375,-350 199,-350 199,-350 193,-350 187,-344 187,-338 187,-338 187,-322 187,-322 187,-316 193,-310 199,-310 199,-310 375,-310 375,-310 381,-310 387,-316 387,-322 387,-322 387,-338 387,-338 387,-344 381,-350 375,-350" />
+<text text-anchor="middle" x="287" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accurate Information</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M355.5,-288C355.5,-288 218.5,-288 218.5,-288 212.5,-288 206.5,-282 206.5,-276 206.5,-276 206.5,-260 206.5,-260 206.5,-254 212.5,-248 218.5,-248 218.5,-248 355.5,-248 355.5,-248 361.5,-248 367.5,-254 367.5,-260 367.5,-260 367.5,-276 367.5,-276 367.5,-282 361.5,-288 355.5,-288" />
+<text text-anchor="middle" x="287" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mapping Reality</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M345.5,-226C345.5,-226 228.5,-226 228.5,-226 222.5,-226 216.5,-220 216.5,-214 216.5,-214 216.5,-198 216.5,-198 216.5,-192 222.5,-186 228.5,-186 228.5,-186 345.5,-186 345.5,-186 351.5,-186 357.5,-192 357.5,-198 357.5,-198 357.5,-214 357.5,-214 357.5,-220 351.5,-226 345.5,-226" />
+<text text-anchor="middle" x="287" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Truth Seeking</text>
+</g>
+</g>
+</svg>

@@ -25,12 +25,7 @@ The authors detail a three-pillar strategy for building wealth and achieving FIR
 
 3. **Live Below Your Means:**  This is arguably the most critical pillar. It’s about carefully tracking expenses, identifying areas for savings, and aligning your lifestyle with your financial goals. This doesn’t necessarily mean sacrificing happiness; it means making conscious choices about what truly matters to you.
 
-```mermaid
-graph LR
-    A[Aggressively Save & Invest] --> B(Financial Independence);
-    C[Invest Wisely] --> B;
-    D[Live Below Your Means] --> B;
-```
+![The Pillars of the FIRE Strategy. Aggressively Save & Invest; Financial Independence; Invest Wisely; Live Below Your Means.](diagram-01.svg)
 
 
 ###  Challenging Conventional Wisdom

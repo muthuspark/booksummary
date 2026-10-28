@@ -20,13 +20,7 @@ The core concept revolves around achieving Financial Independence (FI).  FI isn'
 
 Before embarking on any FI journey, understanding your spending is paramount.  The authors advocate for detailed budget tracking, preferably using budgeting apps or spreadsheets.  This involves categorizing every expense, identifying areas of overspending, and consciously making choices about where to cut back.  This self-awareness is the foundation for achieving FI.
 
-```mermaid
-graph LR
-    A[Track Expenses] --> B{Analyze Spending};
-    B --> C[Identify Areas for Cuts];
-    C --> D[Adjust Budget];
-    D --> E[Monitor Progress];
-```
+![Understanding Your Spending Habits. Track Expenses; Analyze Spending; Identify Areas for Cuts; Adjust Budget; Monitor Progress.](diagram-01.svg)
 
 
 ##  Increasing Your Income
@@ -38,13 +32,7 @@ While reducing expenses is crucial, increasing income is equally vital to accele
 
 Investing is the engine that drives FI.  The authors recommend a diversified investment portfolio, emphasizing low-cost index funds and exchange-traded funds (ETFs).  They advocate for a long-term perspective, weathering market fluctuations without panic selling.  Understanding risk tolerance in determining the right asset allocation.
 
-```mermaid
-graph LR
-    A[Index Funds] --> B(Diversification);
-    C[ETFs] --> B;
-    B --> D[Long-Term Growth];
-    D --> E[Wealth Building];
-```
+![Investing Your Money Wisely. Index Funds; Diversification; ETFs; Long-Term Growth; Wealth Building.](diagram-02.svg)
 
 
 ##  Minimizing Taxes

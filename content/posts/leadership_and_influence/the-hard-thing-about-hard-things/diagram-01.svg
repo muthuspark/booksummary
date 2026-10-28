@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381pt" height="352pt" viewBox="0.00 0.00 381.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Facing the Brutal Facts</title><desc id="description">Reality leads to Confrontation. Confrontation leads to Tough Decisions. Tough Decisions leads to Successful Outcome. Tough Decisions leads to Difficult, but Necessary.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 363,-334 363,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M184,-275.87C184,-268.31 184,-259.49 184,-251.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.45,-251.1 184,-244.1 181.55,-251.1 186.45,-251.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M184,-203.91C184,-196.58 184,-187.86 184,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.45,-179.07 184,-172.07 181.55,-179.07 186.45,-179.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.28,-99.08C142.58,-84.98 127.89,-68.66 116.08,-55.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.71,-53.68 111.2,-50.12 114.07,-56.96 117.71,-53.68" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M213.04,-99.08C222.79,-88.38 233.7,-76.39 243.61,-65.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.49,-67.07 248.39,-60.24 241.87,-63.77 245.49,-67.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M214.5,-316C214.5,-316 153.5,-316 153.5,-316 147.5,-316 141.5,-310 141.5,-304 141.5,-304 141.5,-288 141.5,-288 141.5,-282 147.5,-276 153.5,-276 153.5,-276 214.5,-276 214.5,-276 220.5,-276 226.5,-282 226.5,-288 226.5,-288 226.5,-304 226.5,-304 226.5,-310 220.5,-316 214.5,-316" />
+<text text-anchor="middle" x="184" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reality</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M242,-244C242,-244 126,-244 126,-244 120,-244 114,-238 114,-232 114,-232 114,-216 114,-216 114,-210 120,-204 126,-204 126,-204 242,-204 242,-204 248,-204 254,-210 254,-216 254,-216 254,-232 254,-232 254,-238 248,-244 242,-244" />
+<text text-anchor="middle" x="184" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confrontation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="184,-172 23,-132 184,-92 345,-132 184,-172" />
+<text text-anchor="middle" x="184" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tough Decisions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M176,-50C176,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 176,-10 176,-10 182,-10 188,-16 188,-22 188,-22 188,-38 188,-38 188,-44 182,-50 176,-50" />
+<text text-anchor="middle" x="94" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Successful Outcome</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M328,-60C328,-60 222,-60 222,-60 216,-60 210,-54 210,-48 210,-48 210,-12 210,-12 210,-6 216,0 222,0 222,0 328,0 328,0 334,0 340,-6 340,-12 340,-12 340,-48 340,-48 340,-54 334,-60 328,-60" />
+<text text-anchor="middle" x="275" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Difficult, but</text>
+<text text-anchor="middle" x="275" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Necessary</text>
+</g>
+</g>
+</svg>

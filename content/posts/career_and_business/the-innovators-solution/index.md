@@ -16,11 +16,7 @@ The book emphasizes the difference between two types of innovation: sustaining a
 
 Disruptive innovations, on the other hand, initially appear inferior to existing offerings. They often target underserved or neglected markets, offering simpler, more convenient, or more affordable solutions. Over time, however, these disruptive innovations improve and eventually outperform established technologies, capturing mainstream markets.
 
-```mermaid
-graph LR
-    A[Sustaining Innovation] --> B(Improving existing products/services for high-end market)
-    C[Disruptive Innovation] --> D(Initially inferior, targets underserved markets, improves over time)
-```
+![The Two Types of Innovation: Sustaining and Disruptive. Sustaining Innovation; Improving existing products/services for high-end market; Disruptive Innovation; Initially inferior, targets underserved markets, improves over time.](diagram-01.svg)
 
 # Why Established Companies Fail
 
@@ -47,13 +43,7 @@ The book outlines many strategies to help companies effectively manage both sust
 
 * **Value Network:**  Understanding the value networks is critical.  Disruptive innovations may require different value networks (distribution channels, partnerships) than those utilized for sustaining innovations.
 
-```mermaid
-graph LR
-    A[Resource Allocation] --> B(Strategic investment in disruptive innovations)
-    C[Organizational Structure] --> D(Separate units for disruptive innovations)
-    E[Market Segmentation] --> F(Identify early adopters in underserved markets)
-    G[Value Network] --> H(Develop new distribution channels and partnerships)
-```
+![Strategies for Success. Resource Allocation; Strategic investment in disruptive innovations; Organizational Structure; Separate units for disruptive innovations; Market Segmentation; Identify early adopters in underserved markets; Value Network; Develop new distribution channels and partnerships.](diagram-02.svg)
 
 
 # Actionable Advice for Individuals

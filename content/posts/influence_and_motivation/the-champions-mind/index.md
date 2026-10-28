@@ -14,13 +14,7 @@ Jim Afremow's "The Champion's Mind" isn't just a sports psychology book; it's a 
 
 A core theme is the importance of focusing on the present moment.  Dwelling on past failures or worrying about future outcomes hinders performance.  Afremow emphasizes mindfulness techniques to stay grounded in the "here and now." This involves actively directing attention to the current task, minimizing distractions, and embracing the process rather than fixating on results.
 
-```mermaid
-graph LR
-    A[Past Failures] --> B(Worry);
-    C[Future Outcomes] --> B;
-    B --> D{Impaired Performance};
-    E[Present Moment] --> F(Optimal Performance);
-```
+![The Power of the Present Moment. Past Failures; Worry; Future Outcomes; Impaired Performance; Present Moment; Optimal Performance.](diagram-01.svg)
 
 #  Self-Talk and Inner Dialogue
 
@@ -42,13 +36,7 @@ Adopting a growth mindset, believing that abilities can be developed through ded
 
 Confidence and self-efficacy are closely intertwined. Self-efficacy refers to the belief in one's ability to succeed in specific situations. The book provides strategies for boosting self-efficacy, such as setting attainable goals, mastering skills, and gaining positive experiences.  Building confidence involves challenging self-limiting beliefs and focusing on strengths.
 
-```mermaid
-graph LR
-    A[Attainable Goals] --> B(Increased Self-Efficacy);
-    C[Mastering Skills] --> B;
-    D[Positive Experiences] --> B;
-    B --> E[High Confidence];
-```
+![Confidence and Self-Efficacy. Attainable Goals; Increased Self-Efficacy; Mastering Skills; Positive Experiences; High Confidence.](diagram-02.svg)
 
 #  Dealing with Pressure and Competition
 

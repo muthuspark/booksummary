@@ -14,12 +14,7 @@ Tiffany Watt Smith's "The Book of Human Emotions" isn't a self-help manual in th
 
 A central theme is the importance of accurately labeling our emotions.  Smith argues that our vocabulary often fails us, leading to a blurring of distinct feelings. Differentiating between, say, *irritation*, *annoyance*, *frustration*, and *rage* allows for a more precise understanding of their triggers and potential responses.  This enhanced granularity prevents a cascade of escalating negative emotions. The book encourages building a richer emotional vocabulary through reading, reflection, and conversation.
 
-```mermaid
-graph LR
-    A[Vague Feeling] --> B{"Precise Identification (e.g., Frustration)"};
-    B --> C[Understanding Triggers];
-    C --> D[Appropriate Response];
-```
+![The Power of Naming Emotions. Vague Feeling; Precise Identification (e.g., Frustration); Understanding Triggers; Appropriate Response.](diagram-01.svg)
 
 ## Cultural Influences on Emotions
 
@@ -45,17 +40,7 @@ While not explicitly outlining "steps," the book implicitly suggests strategies 
 
 * **Seeking Support:**  Talking to trusted friends, family members, or therapists can provide a safe space for emotional processing and reduce feelings of isolation.
 
-```mermaid
-graph LR
-    A[Emotional Awareness] --> B(Mindfulness);
-    A --> C(Self-Compassion);
-    A --> D(Journaling);
-    A --> E(Seeking Support);
-    B -- Improves--> F[Emotional Regulation];
-    C -- Improves--> F;
-    D -- Improves--> F;
-    E -- Improves--> F;
-```
+![Strategies for Emotional Regulation. Emotional Awareness; Mindfulness; Self-Compassion; Journaling; Seeking Support; Emotional Regulation.](diagram-02.svg)
 
 ##  The Role of Language in Emotional Understanding
 

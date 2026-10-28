@@ -14,15 +14,7 @@ author: "Mikael Krogerus and Roman Tschappeler"
 
 Before diving into solutions, the book stresses the critical importance of properly defining the problem. A poorly framed problem leads to flawed solutions. The authors introduce many methods to clarify the challenge at hand, emphasizing the need to understand the context, stakeholders involved, and the desired outcomes.  They suggest techniques like using mind maps to visualize the problem's complexity and breaking it down into smaller, manageable components.  A clear problem statement is the foundation upon which effective decisions are built.
 
-```mermaid
-graph LR
-A[Define the Problem] --> B{Understand Context};
-A --> C{Identify Stakeholders};
-A --> D{Define Desired Outcomes};
-B --> E[Clear Problem Statement];
-C --> E;
-D --> E;
-```
+![Framing the Problem: The Power of Perspective. Define the Problem; Understand Context; Identify Stakeholders; Define Desired Outcomes; Clear Problem Statement.](diagram-01.svg)
 
 #  Cognitive Biases: Recognizing Our Limitations
 
@@ -34,18 +26,7 @@ The heart of the book lies in its collection of various decision-making tools. T
 
 * **Decision Matrix:**  A structured approach to compare different options based on predetermined criteria.  This facilitates a more objective evaluation by assigning weights to different factors and calculating a score for each option.
 
-```mermaid
-graph LR
-A[Option 1] --> B(Criterion 1);
-A --> C(Criterion 2);
-A --> D(Criterion 3);
-E[Option 2] --> B;
-E --> C;
-E --> D;
-F[Option 3] --> B;
-F --> C;
-F --> D;
-```
+![Decision-Making Tools and Techniques. Option 1; Criterion 1; Criterion 2; Criterion 3; Option 2; Option 3.](diagram-02.svg)
 
 * **Pros and Cons List:** A classic method, but effective in its simplicity.  Listing the advantages and disadvantages of each option helps to visualize the trade-offs involved.
 

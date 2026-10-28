@@ -19,14 +19,7 @@ The book emphasizes that successful "twos" are not merely collaborators. They ar
 
 One takeaway is the recognition of strengths. The most successful partnerships rarely involve two individuals with identical skills. Instead, they showcase a deliberate synergy, where one partner compensates for the other's limitations and vice versa. This principle translates into various fields.
 
-```mermaid
-graph LR
-    A[Partner A: Strengths] --> B(Shared Vision);
-    C[Partner B: Strengths] --> B;
-    B --> D[Achieved Goals];
-    A -.-> E[Partner B: Weaknesses];
-    C -.-> F[Partner A: Weaknesses];
-```
+![Identifying and Leveraging Strengths. Partner A: Strengths; Shared Vision; Partner B: Strengths; Achieved Goals; Partner B: Weaknesses; Partner A: Weaknesses.](diagram-01.svg)
 
 This diagram illustrates how individual strengths converge towards a shared vision, while simultaneously addressing individual weaknesses through mutual support.
 

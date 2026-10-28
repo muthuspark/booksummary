@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236pt" height="364pt" viewBox="0.00 0.00 236.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Be a Curator, Not Just a Creator</title><desc id="description">Creative Work leads to Share related content. Share related content leads to Offer insights. Offer insights leads to Build credibility. Build credibility leads to Expand reach.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 218,-346 218,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-287.87C100,-280.31 100,-271.49 100,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-263.1 100,-256.1 97.55,-263.1 102.45,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-215.87C100,-208.31 100,-199.49 100,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-191.1 100,-184.1 97.55,-191.1 102.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-143.87C100,-136.31 100,-127.49 100,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-119.1 100,-112.1 97.55,-119.1 102.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-71.87C100,-64.31 100,-55.49 100,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-47.1 100,-40.1 97.55,-47.1 102.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-328C159.5,-328 40.5,-328 40.5,-328 34.5,-328 28.5,-322 28.5,-316 28.5,-316 28.5,-300 28.5,-300 28.5,-294 34.5,-288 40.5,-288 40.5,-288 159.5,-288 159.5,-288 165.5,-288 171.5,-294 171.5,-300 171.5,-300 171.5,-316 171.5,-316 171.5,-322 165.5,-328 159.5,-328" />
+<text text-anchor="middle" x="100" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creative Work</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-256C188,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 188,-216 188,-216 194,-216 200,-222 200,-228 200,-228 200,-244 200,-244 200,-250 194,-256 188,-256" />
+<text text-anchor="middle" x="100" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Share related content</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156.5,-184C156.5,-184 43.5,-184 43.5,-184 37.5,-184 31.5,-178 31.5,-172 31.5,-172 31.5,-156 31.5,-156 31.5,-150 37.5,-144 43.5,-144 43.5,-144 156.5,-144 156.5,-144 162.5,-144 168.5,-150 168.5,-156 168.5,-156 168.5,-172 168.5,-172 168.5,-178 162.5,-184 156.5,-184" />
+<text text-anchor="middle" x="100" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Offer insights</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-112C167,-112 33,-112 33,-112 27,-112 21,-106 21,-100 21,-100 21,-84 21,-84 21,-78 27,-72 33,-72 33,-72 167,-72 167,-72 173,-72 179,-78 179,-84 179,-84 179,-100 179,-100 179,-106 173,-112 167,-112" />
+<text text-anchor="middle" x="100" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Build credibility</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M157.5,-40C157.5,-40 42.5,-40 42.5,-40 36.5,-40 30.5,-34 30.5,-28 30.5,-28 30.5,-12 30.5,-12 30.5,-6 36.5,0 42.5,0 42.5,0 157.5,0 157.5,0 163.5,0 169.5,-6 169.5,-12 169.5,-12 169.5,-28 169.5,-28 169.5,-34 163.5,-40 157.5,-40" />
+<text text-anchor="middle" x="100" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expand reach</text>
+</g>
+</g>
+</svg>

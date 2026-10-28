@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408pt" height="386pt" viewBox="0.00 0.00 408.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">Principles of Persuasion:  Leveraging Social Influence</title><desc id="description">Reciprocity leads to Influence. Commitment/Consistency leads to Influence. Social Proof leads to Influence. Liking leads to Influence. Authority leads to Influence. Scarcity leads to Influence.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 390,-368 390,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.24,-322.89C197.95,-318.39 219.15,-311.03 236,-299 270.74,-274.2 295.15,-229.95 308.13,-201.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="310.42,-202.45 311.03,-195.06 305.94,-200.45 310.42,-202.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209.07,-247.92C218.35,-244.74 227.49,-241.12 236,-237 256.05,-227.31 276.11,-212.49 291.5,-199.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="293.16,-201.58 296.94,-195.2 290.01,-197.82 293.16,-201.58" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.64,-196.45C206.24,-192.48 235.79,-187.9 260.99,-183.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="261.44,-186.4 267.98,-182.91 260.68,-181.56 261.44,-186.4" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M157.56,-149.98C186.81,-154.51 227.51,-160.82 260.72,-165.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="260.4,-168.4 267.69,-167.05 261.15,-163.55 260.4,-168.4" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.61,-91.2C191.55,-96.06 215.57,-103.12 236,-113 256.05,-122.69 276.11,-137.51 291.5,-150.23" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="290.01,-152.18 296.94,-154.8 293.16,-148.42 290.01,-152.18" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.18,-24.3C187.36,-28.3 215.05,-36.04 236,-51 270.74,-75.8 295.15,-120.05 308.13,-148.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="305.94,-149.55 311.03,-154.94 310.42,-147.55 305.94,-149.55" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166,-350C166,-350 70,-350 70,-350 64,-350 58,-344 58,-338 58,-338 58,-322 58,-322 58,-316 64,-310 70,-310 70,-310 166,-310 166,-310 172,-310 178,-316 178,-322 178,-322 178,-338 178,-338 178,-344 172,-350 166,-350" />
+<text text-anchor="middle" x="118" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reciprocity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M360,-195C360,-195 280,-195 280,-195 274,-195 268,-189 268,-183 268,-183 268,-167 268,-167 268,-161 274,-155 280,-155 280,-155 360,-155 360,-155 366,-155 372,-161 372,-167 372,-167 372,-183 372,-183 372,-189 366,-195 360,-195" />
+<text text-anchor="middle" x="320" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Influence</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M224,-288C224,-288 12,-288 12,-288 6,-288 0,-282 0,-276 0,-276 0,-260 0,-260 0,-254 6,-248 12,-248 12,-248 224,-248 224,-248 230,-248 236,-254 236,-260 236,-260 236,-276 236,-276 236,-282 230,-288 224,-288" />
+<text text-anchor="middle" x="118" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commitment/Consistency</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168.5,-226C168.5,-226 67.5,-226 67.5,-226 61.5,-226 55.5,-220 55.5,-214 55.5,-214 55.5,-198 55.5,-198 55.5,-192 61.5,-186 67.5,-186 67.5,-186 168.5,-186 168.5,-186 174.5,-186 180.5,-192 180.5,-198 180.5,-198 180.5,-214 180.5,-214 180.5,-220 174.5,-226 168.5,-226" />
+<text text-anchor="middle" x="118" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Proof</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M145.5,-164C145.5,-164 90.5,-164 90.5,-164 84.5,-164 78.5,-158 78.5,-152 78.5,-152 78.5,-136 78.5,-136 78.5,-130 84.5,-124 90.5,-124 90.5,-124 145.5,-124 145.5,-124 151.5,-124 157.5,-130 157.5,-136 157.5,-136 157.5,-152 157.5,-152 157.5,-158 151.5,-164 145.5,-164" />
+<text text-anchor="middle" x="118" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Liking</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158.5,-102C158.5,-102 77.5,-102 77.5,-102 71.5,-102 65.5,-96 65.5,-90 65.5,-90 65.5,-74 65.5,-74 65.5,-68 71.5,-62 77.5,-62 77.5,-62 158.5,-62 158.5,-62 164.5,-62 170.5,-68 170.5,-74 170.5,-74 170.5,-90 170.5,-90 170.5,-96 164.5,-102 158.5,-102" />
+<text text-anchor="middle" x="118" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Authority</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-40C152,-40 84,-40 84,-40 78,-40 72,-34 72,-28 72,-28 72,-12 72,-12 72,-6 78,0 84,0 84,0 152,0 152,0 158,0 164,-6 164,-12 164,-12 164,-28 164,-28 164,-34 158,-40 152,-40" />
+<text text-anchor="middle" x="118" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Scarcity</text>
+</g>
+</g>
+</svg>

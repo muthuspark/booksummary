@@ -18,12 +18,7 @@ The core message reverberates throughout the book:  settle for nothing less than
 
 Lois doesn't shy away from the realities of risk and failure. He argues that avoiding risk is a surefire path to mediocrity. He recounts numerous instances where he took bold, unconventional approaches, often facing significant setbacks. Yet, these failures, he emphasizes, became learning experiences, fueling his subsequent successes.
 
-```mermaid
-graph LR
-    A[Risk] --> B(Failure);
-    B --> C{Learning};
-    C --> D[Success];
-```
+![Risk and Failure:  The Stepping Stones to Success. Risk; Failure; Learning; Success.](diagram-01.svg)
 
 The key takeaway here is that failure is not the opposite of success; it's a component of it. The ability to learn from mistakes is what separates those who achieve greatness from those who remain stagnant.
 
@@ -58,12 +53,7 @@ While self-reliance is crucial, Lois acknowledges the value of mentorship and co
 
 Lois, a renowned advertising creative, applies the principles of branding to personal development. He encourages readers to develop a strong personal brand – a unique identity that reflects their values, skills, and passions. This brand isn't about superficial image; it's about authentically representing who you are and what you stand for.
 
-```mermaid
-graph LR
-    A[Skills] --> B(Values);
-    C[Passions] --> B;
-    B --> D{Personal Brand};
-```
+![Building Your Brand:  Personal and Professional. Skills; Values; Passions; Personal Brand.](diagram-02.svg)
 
 This principle extends to professional life as well, emphasizing the need to differentiate oneself in a crowded marketplace by offering unique value and expertise.
 

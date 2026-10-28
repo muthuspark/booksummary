@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="389pt" height="332pt" viewBox="0.00 0.00 388.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Hook Model: A Framework for Habit Formation</title><desc id="description">Trigger leads to Action. Action leads to Variable Reward. Variable Reward leads to Investment. Investment leads to Trigger.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 370.5,-314 370.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M282.22,-255.87C270.34,-247.38 256.24,-237.32 243.74,-228.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="244.87,-226.18 237.75,-224.1 242.02,-230.17 244.87,-226.18" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.61,-183.91C195.86,-175.2 190.05,-164.51 184.38,-154.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.38,-152.66 180.88,-147.68 182.08,-155 186.38,-152.66" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195.73,-80.03C208.21,-68.56 222.16,-55.75 233.87,-45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.58,-46.75 239.08,-40.21 232.27,-43.14 235.58,-46.75" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M302.98,-40.21C315.61,-48.13 327.93,-58.64 335,-72 365.48,-129.59 338.95,-208.85 321.44,-249.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="319.12,-248.38 318.51,-255.77 323.59,-250.37 319.12,-248.38" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M340.5,-296C340.5,-296 277.5,-296 277.5,-296 271.5,-296 265.5,-290 265.5,-284 265.5,-284 265.5,-268 265.5,-268 265.5,-262 271.5,-256 277.5,-256 277.5,-256 340.5,-256 340.5,-256 346.5,-256 352.5,-262 352.5,-268 352.5,-268 352.5,-284 352.5,-284 352.5,-290 346.5,-296 340.5,-296" />
+<text text-anchor="middle" x="309" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trigger</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M239,-224C239,-224 183,-224 183,-224 177,-224 171,-218 171,-212 171,-212 171,-196 171,-196 171,-190 177,-184 183,-184 183,-184 239,-184 239,-184 245,-184 251,-190 251,-196 251,-196 251,-212 251,-212 251,-218 245,-224 239,-224" />
+<text text-anchor="middle" x="211" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Action</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="162,-152 0,-112 162,-72 324,-112 162,-152" />
+<text text-anchor="middle" x="162" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Variable Reward</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M307.5,-40C307.5,-40 212.5,-40 212.5,-40 206.5,-40 200.5,-34 200.5,-28 200.5,-28 200.5,-12 200.5,-12 200.5,-6 206.5,0 212.5,0 212.5,0 307.5,0 307.5,0 313.5,0 319.5,-6 319.5,-12 319.5,-12 319.5,-28 319.5,-28 319.5,-34 313.5,-40 307.5,-40" />
+<text text-anchor="middle" x="260" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Investment</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402pt" height="386pt" viewBox="0.00 0.00 402.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">Finding Your Niche and Analyzing Markets</title><desc id="description">Market Research leads to Rental Rates. Market Research leads to Vacancy Rates. Market Research leads to Property Values. Market Research leads to Economic Health. Market Research leads to Local Regulations. Market Research leads to Competition.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 384,-368 384,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96.75,-195.37C116.02,-222.49 153.48,-270.37 196,-299 200.17,-301.81 204.62,-304.4 209.22,-306.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.21,-309.02 215.57,-309.91 210.37,-304.62 208.21,-309.02" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.45,-195.06C138.59,-207.91 168.51,-224.47 196,-237 202.26,-239.85 208.86,-242.65 215.51,-245.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.74,-247.65 222.15,-247.94 216.54,-243.09 214.74,-247.65" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.26,-187.79C174.51,-189.4 185.02,-191.05 195.32,-192.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.11,-195.12 202.41,-193.79 195.87,-190.28 195.11,-195.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.26,-162.21C172.88,-160.86 181.67,-159.47 190.38,-158.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="190.8,-160.52 197.33,-157.01 190.03,-155.68 190.8,-160.52" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.45,-154.94C138.59,-142.09 168.51,-125.53 196,-113 202.26,-110.15 208.86,-107.35 215.51,-104.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.54,-106.91 222.15,-102.06 214.74,-102.35 216.54,-106.91" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96.75,-154.63C116.02,-127.51 153.48,-79.63 196,-51 200.53,-47.95 205.41,-45.15 210.44,-42.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.64,-44.73 216.88,-39.48 209.52,-40.32 211.64,-44.73" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-195C152,-195 12,-195 12,-195 6,-195 0,-189 0,-183 0,-183 0,-167 0,-167 0,-161 6,-155 12,-155 12,-155 152,-155 152,-155 158,-155 164,-161 164,-167 164,-167 164,-183 164,-183 164,-189 158,-195 152,-195" />
+<text text-anchor="middle" x="82" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Market Research</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M334,-350C334,-350 228,-350 228,-350 222,-350 216,-344 216,-338 216,-338 216,-322 216,-322 216,-316 222,-310 228,-310 228,-310 334,-310 334,-310 340,-310 346,-316 346,-322 346,-322 346,-338 346,-338 346,-344 340,-350 334,-350" />
+<text text-anchor="middle" x="281" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rental Rates</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M340.5,-288C340.5,-288 221.5,-288 221.5,-288 215.5,-288 209.5,-282 209.5,-276 209.5,-276 209.5,-260 209.5,-260 209.5,-254 215.5,-248 221.5,-248 221.5,-248 340.5,-248 340.5,-248 346.5,-248 352.5,-254 352.5,-260 352.5,-260 352.5,-276 352.5,-276 352.5,-282 346.5,-288 340.5,-288" />
+<text text-anchor="middle" x="281" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vacancy Rates</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M347.5,-226C347.5,-226 214.5,-226 214.5,-226 208.5,-226 202.5,-220 202.5,-214 202.5,-214 202.5,-198 202.5,-198 202.5,-192 208.5,-186 214.5,-186 214.5,-186 347.5,-186 347.5,-186 353.5,-186 359.5,-192 359.5,-198 359.5,-198 359.5,-214 359.5,-214 359.5,-220 353.5,-226 347.5,-226" />
+<text text-anchor="middle" x="281" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Property Values</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M352.5,-164C352.5,-164 209.5,-164 209.5,-164 203.5,-164 197.5,-158 197.5,-152 197.5,-152 197.5,-136 197.5,-136 197.5,-130 203.5,-124 209.5,-124 209.5,-124 352.5,-124 352.5,-124 358.5,-124 364.5,-130 364.5,-136 364.5,-136 364.5,-152 364.5,-152 364.5,-158 358.5,-164 352.5,-164" />
+<text text-anchor="middle" x="281" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Economic Health</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M354,-102C354,-102 208,-102 208,-102 202,-102 196,-96 196,-90 196,-90 196,-74 196,-74 196,-68 202,-62 208,-62 208,-62 354,-62 354,-62 360,-62 366,-68 366,-74 366,-74 366,-90 366,-90 366,-96 360,-102 354,-102" />
+<text text-anchor="middle" x="281" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Local Regulations</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M333,-40C333,-40 229,-40 229,-40 223,-40 217,-34 217,-28 217,-28 217,-12 217,-12 217,-6 223,0 229,0 229,0 333,0 333,0 339,0 345,-6 345,-12 345,-12 345,-28 345,-28 345,-34 339,-40 333,-40" />
+<text text-anchor="middle" x="281" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Competition</text>
+</g>
+</g>
+</svg>

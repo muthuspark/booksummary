@@ -29,13 +29,7 @@ A critical element of Peck's philosophy involves confronting reality squarely an
 
 Peck defines love not as a feeling but as a *commitment* to the growth of another person. This involves empathy, patience, and a willingness to sacrifice personal desires for the betterment of the loved one. He emphasizes the concept of “delayed gratification” – putting the needs of others first, before your own personal satisfaction.
 
-```mermaid
-graph LR
-A[Discipline] --> B(Facing Reality);
-B --> C{Love};
-C --> D[Growth];
-D --> E(Fulfilling Life);
-```
+![Love: The Ultimate Goal. Discipline; Facing Reality; Love; Growth; Fulfilling Life.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of discipline, facing reality, love, and ultimately, achieving a fulfilling life.
 

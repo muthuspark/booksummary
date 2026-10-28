@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="458pt" height="352pt" viewBox="0.00 0.00 458.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Embracing Uncertainty and Anxiety</title><desc id="description">Uncertainty leads to Anxiety. Anxiety leads to Acknowledge &amp; Accept. Acknowledge &amp; Accept leads to Constructive Engagement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 440,-334 440,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-275.87C211,-268.31 211,-259.49 211,-251.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-251.1 211,-244.1 208.55,-251.1 213.45,-251.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-203.91C211,-196.58 211,-187.86 211,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-179.07 211,-172.07 208.55,-179.07 213.45,-179.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M211,-91.76C211,-83.72 211,-75.29 211,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="213.45,-67.23 211,-60.23 208.55,-67.23 213.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M260.5,-316C260.5,-316 161.5,-316 161.5,-316 155.5,-316 149.5,-310 149.5,-304 149.5,-304 149.5,-288 149.5,-288 149.5,-282 155.5,-276 161.5,-276 161.5,-276 260.5,-276 260.5,-276 266.5,-276 272.5,-282 272.5,-288 272.5,-288 272.5,-304 272.5,-304 272.5,-310 266.5,-316 260.5,-316" />
+<text text-anchor="middle" x="211" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Uncertainty</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M243.5,-244C243.5,-244 178.5,-244 178.5,-244 172.5,-244 166.5,-238 166.5,-232 166.5,-232 166.5,-216 166.5,-216 166.5,-210 172.5,-204 178.5,-204 178.5,-204 243.5,-204 243.5,-204 249.5,-204 255.5,-210 255.5,-216 255.5,-216 255.5,-232 255.5,-232 255.5,-238 249.5,-244 243.5,-244" />
+<text text-anchor="middle" x="211" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anxiety</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="211,-172 0,-132 211,-92 422,-132 211,-172" />
+<text text-anchor="middle" x="211" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acknowledge &amp; Accept</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M263.5,-60C263.5,-60 158.5,-60 158.5,-60 152.5,-60 146.5,-54 146.5,-48 146.5,-48 146.5,-12 146.5,-12 146.5,-6 152.5,0 158.5,0 158.5,0 263.5,0 263.5,0 269.5,0 275.5,-6 275.5,-12 275.5,-12 275.5,-48 275.5,-48 275.5,-54 269.5,-60 263.5,-60" />
+<text text-anchor="middle" x="211" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Constructive</text>
+<text text-anchor="middle" x="211" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Engagement</text>
+</g>
+</g>
+</svg>

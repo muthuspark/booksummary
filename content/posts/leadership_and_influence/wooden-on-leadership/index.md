@@ -15,13 +15,7 @@ John Wooden's "Wooden on Leadership" isn't just a leadership manual; it's a deta
 
 The base of Wooden's Pyramid is built upon fundamental character traits: industriousness, enthusiasm, loyalty, and self-control.  These aren't innate qualities; they are cultivated through conscious effort and daily practice.  Industry is about consistent hard work and dedication; enthusiasm fuels motivation and perseverance; loyalty fosters trust and strong relationships; and self-control enables discipline and focus.
 
-```mermaid
-graph LR
-    A[Industriousness] --> B(Character);
-    C[Enthusiasm] --> B;
-    D[Loyalty] --> B;
-    E[Self-control] --> B;
-```
+![Building Character: The Cornerstones of the Pyramid. Industriousness; Character; Enthusiasm; Loyalty; Self-control.](diagram-01.svg)
 
 Wooden stresses that these cornerstones are not optional; they are prerequisites for building a successful life.  Without them, even exceptional talent will falter. He emphasizes the importance of building strong habits early on, focusing on consistent effort rather than chasing immediate results.
 
@@ -30,10 +24,7 @@ Wooden stresses that these cornerstones are not optional; they are prerequisites
 
 Atop the character base, Wooden places the development of specific skills. Talent is undoubtedly important, but it's merely potential. It's the tireless dedication to honing one's abilities, coupled with a pursuit of improvement, that transforms talent into mastery. Wooden highlights the power of deliberate practice, focused effort dedicated to improving specific weaknesses.
 
-```mermaid
-graph LR
-    B(Character) --> F(Skills);
-```
+![Developing Skills:  Talent Refined by Effort. Character; Skills.](diagram-02.svg)
 
 He strongly advocates for embracing challenges, viewing failures not as setbacks but as opportunities for learning and growth.  A growth mindset is crucial; embracing challenges, learning from mistakes, and continually striving for improvement are key tenets of his philosophy.
 
@@ -43,10 +34,7 @@ He strongly advocates for embracing challenges, viewing failures not as setbacks
 Teamwork is an essential part of Wooden's approach.  He emphasizes the importance of collaboration, mutual respect, and shared goals.  This doesn't imply merely working together; it's about creating a synergistic environment where individuals support each other and strive for collective success.  This necessitates strong communication, trust, and a willingness to prioritize the team's goals above individual ambitions.
 
 
-```mermaid
-graph LR
-    F(Skills) --> G(Teamwork);
-```
+![Teamwork: The Power of Collaboration. Skills; Teamwork.](diagram-03.svg)
 
 Wooden's emphasis on team unity is crucial.  He stresses the need for players to be willing to put the team's needs ahead of their own, fostering a culture of cooperation and support.
 
@@ -55,12 +43,7 @@ Wooden's emphasis on team unity is crucial.  He stresses the need for players to
 
 Integrity is positioned centrally within the pyramid, symbolizing its importance as a guiding principle.  This isn't simply about honesty; it's about adhering to a strong moral code in all aspects of life.  Wooden believed that ethical behavior is not negotiable; it forms the foundation of trust and respect.
 
-```mermaid
-graph LR
-    B(Character) --> H(Integrity);
-    F(Skills) --> H;
-    G(Teamwork) --> H;
-```
+![Integrity: The Moral Compass. Character; Integrity; Skills; Teamwork.](diagram-04.svg)
 
 This section emphasizes the significance of ethical decision-making, even when it's difficult. Wooden’s emphasis on integrity extends beyond personal conduct, to include fairness, honesty, and responsibility in all interactions.
 
@@ -69,10 +52,7 @@ This section emphasizes the significance of ethical decision-making, even when i
 
 Condition, both physical and mental, forms another critical element of the pyramid.  Physical condition is essential for peak performance, requiring discipline, dedication, and consistent effort.  Mental condition is equally vital, requiring focus, composure under pressure, and the ability to manage stress.
 
-```mermaid
-graph LR
-    H(Integrity) --> I(Condition);
-```
+![Condition: Physical and Mental Preparedness. Integrity; Condition.](diagram-05.svg)
 
 Wooden’s attention to both physical and mental well-being reflects his approach to success. It's not enough to be skilled and talented; one must be prepared to handle the physical and mental demands of striving for excellence.
 
@@ -81,11 +61,7 @@ Wooden’s attention to both physical and mental well-being reflects his approac
 
 Confidence, built upon the foundation of character, skill development, and teamwork, represents an element in achieving success. This isn't arrogance; it's a belief in one's capabilities and the team's potential. Wooden emphasizes the importance of positive self-talk and visualizing success.
 
-```mermaid
-graph LR
-    I(Condition) --> J(Confidence);
-    H(Integrity) --> J;
-```
+![Confidence: Belief in Oneself and the Team. Condition; Confidence; Integrity.](diagram-06.svg)
 
 A healthy dose of confidence is vital for overcoming challenges and maintaining resilience. It stems from consistent hard work, tangible achievements, and the trust built within a team.
 
@@ -94,10 +70,7 @@ A healthy dose of confidence is vital for overcoming challenges and maintaining 
 
 Positivity is vital in navigating setbacks and maintaining momentum. Wooden emphasizes the power of positive thinking and maintaining an optimistic outlook, even in the face of adversity.  This involves focusing on solutions rather than dwelling on problems and actively seeking opportunities for growth.
 
-```mermaid
-graph LR
-    J(Confidence) --> K(Positivity);
-```
+![Positivity: Maintaining a Positive Outlook. Confidence; Positivity.](diagram-07.svg)
 
 Maintaining a positive attitude enhances resilience and fosters a more productive and enjoyable experience, even in challenging circumstances. It’s a conscious choice that shapes the way one approaches life’s difficulties.
 
@@ -106,10 +79,7 @@ Maintaining a positive attitude enhances resilience and fosters a more productiv
 
 Alertness signifies the importance of being fully present and engaged in whatever task is at hand.  Wooden stresses the importance of mental sharpness, focus, and attentiveness.  This involves minimizing distractions, actively listening, and remaining observant.
 
-```mermaid
-graph LR
-    K(Positivity) --> L(Alertness);
-```
+![Alertness: Staying Focused and Aware. Positivity; Alertness.](diagram-08.svg)
 
 Alertness is essential for seizing opportunities, adapting to changing circumstances, and making effective decisions. It’s a state of being fully present and focused, essential for optimal performance.
 
@@ -118,10 +88,7 @@ Alertness is essential for seizing opportunities, adapting to changing circumsta
 
 Cooperation, built upon the foundation of teamwork, highlights the value of working collaboratively and harmoniously. This extends beyond just team interactions; it encompasses relationships with colleagues, mentors, and even competitors.
 
-```mermaid
-graph LR
-    L(Alertness) --> M(Cooperation);
-```
+![Cooperation: Working Harmoniously Together. Alertness; Cooperation.](diagram-09.svg)
 
 Cooperation creates an environment of mutual respect and support, leading to greater efficiency and more fulfilling outcomes. It’s a cornerstone of building strong and productive relationships.
 
@@ -130,10 +97,7 @@ Cooperation creates an environment of mutual respect and support, leading to gre
 
 Initiative highlights the importance of taking proactive steps and being a self-starter.  It's about taking ownership of one's actions and seeking out opportunities for growth and development.  This isn't about being reckless; it's about being resourceful and taking calculated risks.
 
-```mermaid
-graph LR
-    M(Cooperation) --> N(Initiative);
-```
+![Initiative: Taking Charge and Being Proactive. Cooperation; Initiative.](diagram-10.svg)
 
 Initiative fosters a sense of ownership and responsibility, driving individuals to take charge of their circumstances. It reflects a proactive approach to problem-solving and goal attainment.
 
@@ -142,10 +106,7 @@ Initiative fosters a sense of ownership and responsibility, driving individuals 
 
 Follow-through emphasizes the importance of seeing tasks and goals through to completion. This is about persevering in the face of challenges and maintaining a commitment to excellence. It highlights the value of consistency and discipline in achieving long-term goals.
 
-```mermaid
-graph LR
-    N(Initiative) --> O(Follow-through);
-```
+![Follow-Through: Commitment to Completion. Initiative; Follow-through.](diagram-11.svg)
 
 Follow-through distinguishes between starting something and actually completing it, highlighting the necessity of persistence and unwavering commitment to goals.
 
@@ -154,10 +115,7 @@ Follow-through distinguishes between starting something and actually completing 
 
 At the pinnacle of the pyramid sits success. But for Wooden, success is not merely the attainment of goals; it's the culmination of the values and principles embodied throughout the pyramid. It's the result of hard work, ethical behavior, and a pursuit of excellence.
 
-```mermaid
-graph LR
-    O(Follow-through) --> P(Success);
-```
+![Success: The Culmination of Effort. Follow-through; Success.](diagram-12.svg)
 
 Wooden's definition of success transcends material achievements; it's a measure reflecting personal growth, strong character, and meaningful contributions to others.
 

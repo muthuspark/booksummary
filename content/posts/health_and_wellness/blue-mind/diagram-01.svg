@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632pt" height="352pt" viewBox="0.00 0.00 632.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">The Science Behind the Serenity</title><desc id="description">Exposure to Blue Spaces leads to Reduced Cortisol. Exposure to Blue Spaces leads to Lowered Blood Pressure. Exposure to Blue Spaces leads to Increased Parasympathetic Activity. Reduced Cortisol leads to Improved Mood. Lowered Blood Pressure leads to Improved Mood. Increased Parasympathetic Activity leads to Improved Mood. Improved Mood leads to Enhanced Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 614,-334 614,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M236.94,-255.94C203.06,-240.33 161.97,-221.39 130.76,-207.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="131.64,-204.72 124.26,-204.01 129.59,-209.17 131.64,-204.72" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M300,-255.81C300,-241.8 300,-225.14 300,-211.5" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="302.45,-211.27 300,-204.27 297.55,-211.27 302.45,-211.27" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M362.48,-255.94C382.79,-246.49 405.72,-235.83 427.51,-225.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="428.61,-227.88 433.93,-222.71 426.55,-223.44 428.61,-227.88" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128.9,-163.95C144.2,-157.61 161.33,-150.5 177,-144 200.12,-134.41 225.7,-123.81 247.51,-114.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.62,-116.95 254.15,-112.01 246.74,-112.43 248.62,-116.95" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M300,-163.91C300,-150.91 300,-133.52 300,-119.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="302.45,-119.06 300,-112.06 297.55,-119.06 302.45,-119.06" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M433.74,-148.51C430.11,-146.99 426.52,-145.48 423,-144 400.01,-134.36 374.56,-123.79 352.8,-114.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="353.58,-112.46 346.18,-112.05 351.71,-116.99 353.58,-112.46" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M300,-71.87C300,-64.31 300,-55.49 300,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="302.45,-47.1 300,-40.1 297.55,-47.1 302.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M371,-316C371,-316 229,-316 229,-316 223,-316 217,-310 217,-304 217,-304 217,-268 217,-268 217,-262 223,-256 229,-256 229,-256 371,-256 371,-256 377,-256 383,-262 383,-268 383,-268 383,-304 383,-304 383,-310 377,-316 371,-316" />
+<text text-anchor="middle" x="300" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Exposure to Blue</text>
+<text text-anchor="middle" x="300" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Spaces</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154,-204C154,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 154,-164 154,-164 160,-164 166,-170 166,-176 166,-176 166,-192 166,-192 166,-198 160,-204 154,-204" />
+<text text-anchor="middle" x="83" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Cortisol</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M400,-204C400,-204 200,-204 200,-204 194,-204 188,-198 188,-192 188,-192 188,-176 188,-176 188,-170 194,-164 200,-164 200,-164 400,-164 400,-164 406,-164 412,-170 412,-176 412,-176 412,-192 412,-192 412,-198 406,-204 400,-204" />
+<text text-anchor="middle" x="300" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lowered Blood Pressure</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M584,-224C584,-224 446,-224 446,-224 440,-224 434,-218 434,-212 434,-212 434,-156 434,-156 434,-150 440,-144 446,-144 446,-144 584,-144 584,-144 590,-144 596,-150 596,-156 596,-156 596,-212 596,-212 596,-218 590,-224 584,-224" />
+<text text-anchor="middle" x="515" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="515" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Parasympathetic</text>
+<text text-anchor="middle" x="515" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Activity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M367,-112C367,-112 233,-112 233,-112 227,-112 221,-106 221,-100 221,-100 221,-84 221,-84 221,-78 227,-72 233,-72 233,-72 367,-72 367,-72 373,-72 379,-78 379,-84 379,-84 379,-100 379,-100 379,-106 373,-112 367,-112" />
+<text text-anchor="middle" x="300" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Mood</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M388,-40C388,-40 212,-40 212,-40 206,-40 200,-34 200,-28 200,-28 200,-12 200,-12 200,-6 206,0 212,0 212,0 388,0 388,0 394,0 400,-6 400,-12 400,-12 400,-28 400,-28 400,-34 394,-40 388,-40" />
+<text text-anchor="middle" x="300" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enhanced Well-being</text>
+</g>
+</g>
+</svg>

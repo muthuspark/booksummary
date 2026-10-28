@@ -50,15 +50,7 @@ A common misconception is that spiritual awakening necessitates inaction or with
 
 The "diamond" metaphor represents the unchanging essence of being, always present beneath the surface of the illusory self. This essence is not something to be achieved or attained; it is already there, waiting to be discovered.  The process of self-inquiry is the peeling away of layers of illusion to reveal this perfection.  It is a journey of recognition, not of achievement.
 
-```mermaid
-graph LR
-    A[Illusory Self] --> B(Resistance/Judgment);
-    B --> C[Suffering];
-    C --> D{Inquiry};
-    D --> E[Witnessing Awareness];
-    E --> F(Freedom/Clarity);
-    F --> G["True Self (Diamond)"];
-```
+![The Diamond Within. Illusory Self; Resistance/Judgment; Suffering; Inquiry; Witnessing Awareness; Freedom/Clarity; True Self (Diamond).](diagram-01.svg)
 
 ## Practical Applications
 

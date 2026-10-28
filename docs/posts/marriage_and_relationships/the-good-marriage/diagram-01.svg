@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="447pt" height="148pt" viewBox="0.00 0.00 446.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">The Pillars of a Thriving Partnership:  Commitment, Passion, and Shared Values</title><desc id="description">Commitment leads to Thriving Marriage. Passion leads to Thriving Marriage. Shared Values leads to Thriving Marriage.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 428.5,-130 428.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.62,-71.87C120.46,-63.08 140.54,-52.58 158.09,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="159.36,-45.52 164.43,-40.1 157.09,-41.17 159.36,-45.52" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M201,-71.87C201,-64.31 201,-55.49 201,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.45,-47.1 201,-40.1 198.55,-47.1 203.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M301.29,-71.87C283.95,-63.08 263.26,-52.58 245.19,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.01,-41.09 238.66,-40.1 243.8,-45.46 246.01,-41.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M122,-112C122,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 122,-72 122,-72 128,-72 134,-78 134,-84 134,-84 134,-100 134,-100 134,-106 128,-112 122,-112" />
+<text text-anchor="middle" x="67" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commitment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M276,-40C276,-40 126,-40 126,-40 120,-40 114,-34 114,-28 114,-28 114,-12 114,-12 114,-6 120,0 126,0 126,0 276,0 276,0 282,0 288,-6 288,-12 288,-12 288,-28 288,-28 288,-34 282,-40 276,-40" />
+<text text-anchor="middle" x="201" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thriving Marriage</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M233.5,-112C233.5,-112 168.5,-112 168.5,-112 162.5,-112 156.5,-106 156.5,-100 156.5,-100 156.5,-84 156.5,-84 156.5,-78 162.5,-72 168.5,-72 168.5,-72 233.5,-72 233.5,-72 239.5,-72 245.5,-78 245.5,-84 245.5,-84 245.5,-100 245.5,-100 245.5,-106 239.5,-112 233.5,-112" />
+<text text-anchor="middle" x="201" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passion</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M398.5,-112C398.5,-112 279.5,-112 279.5,-112 273.5,-112 267.5,-106 267.5,-100 267.5,-100 267.5,-84 267.5,-84 267.5,-78 273.5,-72 279.5,-72 279.5,-72 398.5,-72 398.5,-72 404.5,-72 410.5,-78 410.5,-84 410.5,-84 410.5,-100 410.5,-100 410.5,-106 404.5,-112 398.5,-112" />
+<text text-anchor="middle" x="339" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Values</text>
+</g>
+</g>
+</svg>

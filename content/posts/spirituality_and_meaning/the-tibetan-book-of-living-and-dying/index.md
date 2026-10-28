@@ -18,13 +18,7 @@ Contemplating death isn't morbid; it's a powerful tool for self-reflection.  Rin
 
 Visualizing our own death allows us to dismantle our rigid self-image and acknowledge our vulnerability.  This vulnerability, paradoxically, leads to greater compassion for ourselves and others.
 
-```mermaid
-graph LR
-A[Contemplating Death] --> B(Reducing Fear of Death);
-A --> C(Appreciating Present Moment);
-A --> D(Shifting Priorities);
-A --> E(Greater Self-Compassion);
-```
+![Contemplating Death and Impermanence. Contemplating Death; Reducing Fear of Death; Appreciating Present Moment; Shifting Priorities; Greater Self-Compassion.](diagram-01.svg)
 
 
 # Cultivating Compassion and Loving-Kindness
@@ -40,13 +34,7 @@ Meditation is presented not as a mere spiritual exercise but as an essential too
 
 The aim isn't to achieve a state of emptiness or nirvana through meditation, but to develop awareness, allowing us to observe our thoughts and emotions without judgment.  This awareness allows us to respond to life's challenges with greater wisdom and equanimity.
 
-```mermaid
-graph LR
-A[Meditation] --> B(Cultivating Awareness);
-A --> C(Developing Equanimity);
-A --> D(Observing Thoughts & Emotions);
-A --> E(Improved Self-Regulation);
-```
+![The Importance of Meditation. Meditation; Cultivating Awareness; Developing Equanimity; Observing Thoughts & Emotions; Improved Self-Regulation.](diagram-02.svg)
 
 # Transforming Negative Emotions
 
@@ -91,12 +79,5 @@ Ultimately, "The Tibetan Book of Living and Dying" is about living a meaningful 
 
 By integrating the principles and practices outlined in the book, readers can achieve inner peace, develop greater resilience, and live more fulfilling lives, fully prepared for whatever the future may bring. It's not just about preparing for death; it's about mastering the art of living.
 
-```mermaid
-graph LR
-A[Meaningful Life] --> B(Wisdom);
-A --> C(Compassion);
-A --> D(Awareness);
-A --> E(Resilience);
-A --> F(Inner Peace);
-```
+![Living a Meaningful Life. Meaningful Life; Wisdom; Compassion; Awareness; Resilience; Inner Peace.](diagram-03.svg)
 

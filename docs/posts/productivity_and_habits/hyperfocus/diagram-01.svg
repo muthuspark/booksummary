@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645pt" height="178pt" viewBox="0.00 0.00 645.00 178.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Energy Rhythms</title><desc id="description">Identify Peak Performance Times leads to Schedule Demanding Tasks. Identify Peak Performance Times leads to Schedule Less Demanding Tasks. Schedule Less Demanding Tasks leads to Rest &amp; Recharge. Schedule Demanding Tasks leads to Rest &amp; Recharge.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 160)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-160 627,-160 627,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185.08,-87.91C193.29,-89.43 201.65,-90.97 209.96,-92.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.61,-94.93 216.94,-93.8 210.5,-90.12 209.61,-94.93" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185.08,-54.09C197.88,-51.72 211.03,-49.29 223.83,-46.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.46,-49.3 230.9,-45.62 223.57,-44.49 224.46,-49.3" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M416.04,-92.76C424.2,-91.17 432.41,-89.56 440.48,-87.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="441.44,-90.3 447.84,-86.55 440.5,-85.49 441.44,-90.3" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M402.01,-46.5C414.8,-49 428.01,-51.58 440.84,-54.08" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="440.59,-56.53 447.93,-55.46 441.53,-51.72 440.59,-56.53" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-101C173,-101 12,-101 12,-101 6,-101 0,-95 0,-89 0,-89 0,-53 0,-53 0,-47 6,-41 12,-41 12,-41 173,-41 173,-41 179,-41 185,-47 185,-53 185,-53 185,-89 185,-89 185,-95 179,-101 173,-101" />
+<text text-anchor="middle" x="92.5" y="-76.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Peak</text>
+<text text-anchor="middle" x="92.5" y="-56.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance Times</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M404,-142C404,-142 229,-142 229,-142 223,-142 217,-136 217,-130 217,-130 217,-94 217,-94 217,-88 223,-82 229,-82 229,-82 404,-82 404,-82 410,-82 416,-88 416,-94 416,-94 416,-130 416,-130 416,-136 410,-142 404,-142" />
+<text text-anchor="middle" x="316.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Schedule Demanding</text>
+<text text-anchor="middle" x="316.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tasks</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M390,-60C390,-60 243,-60 243,-60 237,-60 231,-54 231,-48 231,-48 231,-12 231,-12 231,-6 237,0 243,0 243,0 390,0 390,0 396,0 402,-6 402,-12 402,-12 402,-48 402,-48 402,-54 396,-60 390,-60" />
+<text text-anchor="middle" x="316.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Schedule Less</text>
+<text text-anchor="middle" x="316.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Demanding Tasks</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M597,-91C597,-91 460,-91 460,-91 454,-91 448,-85 448,-79 448,-79 448,-63 448,-63 448,-57 454,-51 460,-51 460,-51 597,-51 597,-51 603,-51 609,-57 609,-63 609,-63 609,-79 609,-79 609,-85 603,-91 597,-91" />
+<text text-anchor="middle" x="528.5" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rest &amp; Recharge</text>
+</g>
+</g>
+</svg>

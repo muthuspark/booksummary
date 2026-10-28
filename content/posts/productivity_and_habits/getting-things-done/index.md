@@ -15,13 +15,7 @@ Getting Things Done (GTD) isn't just about task management; it's a detailed syst
 
 The GTD methodology is built around a five-stage workflow process. Understanding and consistently applying these stages is key to its success.
 
-```mermaid
-graph LR
-    A[Capture] --> B(Clarify);
-    B --> C{Organize};
-    C --> D[Reflect];
-    D --> E(Engage);
-```
+![The Five Stages of Workflow:  A Step-by-Step Guide. Capture; Clarify; Organize; Reflect; Engage.](diagram-01.svg)
 
 ## Capture: Getting it All Out of Your Head
 

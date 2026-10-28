@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="485pt" height="282pt" viewBox="0.00 0.00 485.00 282.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Attachment Styles: A Quick Overview</title><desc id="description">Secure leads to Balanced Approach. Anxious-Preoccupied leads to High Need for Closeness. Dismissive-Avoidant leads to Need for Independence. Fearful-Avoidant leads to Mixed Signals.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 264)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-264 467,-264 467,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.73,-20C168.93,-20 205.94,-20 240.6,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="240.95,-22.45 247.95,-20 240.95,-17.55 240.95,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M200.07,-92C220.59,-92 241.93,-92 261.56,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="261.71,-94.45 268.71,-92 261.71,-89.55 261.71,-94.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196.63,-164C205.82,-164 215.21,-164 224.56,-164" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.7,-166.45 231.7,-164 224.7,-161.55 224.7,-166.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.74,-226C208.75,-226 237.41,-226 263.03,-226" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="263.17,-228.45 270.17,-226 263.17,-223.55 263.17,-228.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M129.5,-40C129.5,-40 70.5,-40 70.5,-40 64.5,-40 58.5,-34 58.5,-28 58.5,-28 58.5,-12 58.5,-12 58.5,-6 64.5,0 70.5,0 70.5,0 129.5,0 129.5,0 135.5,0 141.5,-6 141.5,-12 141.5,-12 141.5,-28 141.5,-28 141.5,-34 135.5,-40 129.5,-40" />
+<text text-anchor="middle" x="100" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Secure</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M421,-40C421,-40 260,-40 260,-40 254,-40 248,-34 248,-28 248,-28 248,-12 248,-12 248,-6 254,0 260,0 260,0 421,0 421,0 427,0 433,-6 433,-12 433,-12 433,-28 433,-28 433,-34 427,-40 421,-40" />
+<text text-anchor="middle" x="340.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Balanced Approach</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-112C188,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 188,-72 188,-72 194,-72 200,-78 200,-84 200,-84 200,-100 200,-100 200,-106 194,-112 188,-112" />
+<text text-anchor="middle" x="100" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anxious-Preoccupied</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M400,-122C400,-122 281,-122 281,-122 275,-122 269,-116 269,-110 269,-110 269,-74 269,-74 269,-68 275,-62 281,-62 281,-62 400,-62 400,-62 406,-62 412,-68 412,-74 412,-74 412,-110 412,-110 412,-116 406,-122 400,-122" />
+<text text-anchor="middle" x="340.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Need for</text>
+<text text-anchor="middle" x="340.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Closeness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184.5,-184C184.5,-184 15.5,-184 15.5,-184 9.5,-184 3.5,-178 3.5,-172 3.5,-172 3.5,-156 3.5,-156 3.5,-150 9.5,-144 15.5,-144 15.5,-144 184.5,-144 184.5,-144 190.5,-144 196.5,-150 196.5,-156 196.5,-156 196.5,-172 196.5,-172 196.5,-178 190.5,-184 184.5,-184" />
+<text text-anchor="middle" x="100" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dismissive-Avoidant</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M437,-184C437,-184 244,-184 244,-184 238,-184 232,-178 232,-172 232,-172 232,-156 232,-156 232,-150 238,-144 244,-144 244,-144 437,-144 437,-144 443,-144 449,-150 449,-156 449,-156 449,-172 449,-172 449,-178 443,-184 437,-184" />
+<text text-anchor="middle" x="340.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Need for Independence</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170.5,-246C170.5,-246 29.5,-246 29.5,-246 23.5,-246 17.5,-240 17.5,-234 17.5,-234 17.5,-218 17.5,-218 17.5,-212 23.5,-206 29.5,-206 29.5,-206 170.5,-206 170.5,-206 176.5,-206 182.5,-212 182.5,-218 182.5,-218 182.5,-234 182.5,-234 182.5,-240 176.5,-246 170.5,-246" />
+<text text-anchor="middle" x="100" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fearful-Avoidant</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M398.5,-246C398.5,-246 282.5,-246 282.5,-246 276.5,-246 270.5,-240 270.5,-234 270.5,-234 270.5,-218 270.5,-218 270.5,-212 276.5,-206 282.5,-206 282.5,-206 398.5,-206 398.5,-206 404.5,-206 410.5,-212 410.5,-218 410.5,-218 410.5,-234 410.5,-234 410.5,-240 404.5,-246 398.5,-246" />
+<text text-anchor="middle" x="340.5" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mixed Signals</text>
+</g>
+</g>
+</svg>

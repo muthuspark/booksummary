@@ -33,20 +33,7 @@ The Longevity Diet isn't just about the FMD cycles. It presents a detailed dieta
 The FMD is a cyclical approach, generally recommended for 5 consecutive days each month. It involves consuming specifically formulated foods providing approximately 750-1100 calories per day, lower than a typical daily intake. These foods are engineered to provide the essential nutrients while keeping the body in a metabolic state that promotes autophagy and cellular repair. The specific composition of these food items varies depending on the FMD product used.
 
 
-```mermaid
-graph LR
-    A[Daily Diet] --> B(Plant-Based Foods);
-    A --> C(Healthy Fats);
-    A --> D(Moderate Protein);
-    A --> E(Low Sugar);
-    A --> F(Limited Processed Foods);
-    F --> G(Inflammation);
-    G --> H(Aging & Disease);
-    A --> I(FMD Cycles);
-    I --> J(Autophagy);
-    J --> K(Cellular Repair);
-    K --> L(Improved Healthspan);
-```
+![The Prolon Fasting Mimicking Diet (FMD) in Detail. Daily Diet; Plant-Based Foods; Healthy Fats; Moderate Protein; Low Sugar; Limited Processed Foods; Inflammation; Aging & Disease; FMD Cycles; Autophagy; Cellular Repair; Improved Healthspan.](diagram-01.svg)
 
 ##  Practical Implementation and Considerations
 

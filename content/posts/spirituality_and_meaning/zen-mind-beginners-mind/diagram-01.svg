@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420pt" height="344pt" viewBox="0.00 0.00 420.00 344.00" role="img" aria-labelledby="title description">
+<title id="title">The Beginner's Mind</title><desc id="description">Experienced Practitioner leads to Relying on Past Knowledge. Experienced Practitioner leads to Missing Nuances. Beginner's Mind leads to Openness. Beginner's Mind leads to Humility. Beginner's Mind leads to Willingness to Learn.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 326)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-326 402,-326 402,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.77,-67.14C163.8,-70.47 184.92,-74.16 204.94,-77.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="204.66,-80.1 211.98,-78.89 205.5,-75.27 204.66,-80.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.77,-44.86C161.98,-41.85 180.91,-38.54 199.19,-35.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="199.96,-37.7 206.43,-34.08 199.11,-32.87 199.96,-37.7" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.6,-246.04C173.28,-253.77 202.42,-262.54 227.4,-270.06" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="226.92,-272.48 234.33,-272.15 228.33,-267.78 226.92,-272.48" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.06,-226C183.4,-226 208.48,-226 230.13,-226" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="230.34,-228.45 237.34,-226 230.34,-223.55 230.34,-228.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.6,-205.96C168.6,-199.63 191.92,-192.62 213.38,-186.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.28,-188.44 220.28,-184.08 212.87,-183.75 214.28,-188.44" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M132.5,-86C132.5,-86 27.5,-86 27.5,-86 21.5,-86 15.5,-80 15.5,-74 15.5,-74 15.5,-38 15.5,-38 15.5,-32 21.5,-26 27.5,-26 27.5,-26 132.5,-26 132.5,-26 138.5,-26 144.5,-32 144.5,-38 144.5,-38 144.5,-74 144.5,-74 144.5,-80 138.5,-86 132.5,-86" />
+<text text-anchor="middle" x="80" y="-61.6" font-family="Georgia" font-size="18.00" fill="#243d36">Experienced</text>
+<text text-anchor="middle" x="80" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Practitioner</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M352,-122C352,-122 224,-122 224,-122 218,-122 212,-116 212,-110 212,-110 212,-74 212,-74 212,-68 218,-62 224,-62 224,-62 352,-62 352,-62 358,-62 364,-68 364,-74 364,-74 364,-110 364,-110 364,-116 358,-122 352,-122" />
+<text text-anchor="middle" x="288" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relying on Past</text>
+<text text-anchor="middle" x="288" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Knowledge</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M357.5,-40C357.5,-40 218.5,-40 218.5,-40 212.5,-40 206.5,-34 206.5,-28 206.5,-28 206.5,-12 206.5,-12 206.5,-6 212.5,0 218.5,0 218.5,0 357.5,0 357.5,0 363.5,0 369.5,-6 369.5,-12 369.5,-12 369.5,-28 369.5,-28 369.5,-34 363.5,-40 357.5,-40" />
+<text text-anchor="middle" x="288" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Missing Nuances</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148,-246C148,-246 12,-246 12,-246 6,-246 0,-240 0,-234 0,-234 0,-218 0,-218 0,-212 6,-206 12,-206 12,-206 148,-206 148,-206 154,-206 160,-212 160,-218 160,-218 160,-234 160,-234 160,-240 154,-246 148,-246" />
+<text text-anchor="middle" x="80" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Beginner's Mind</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M329.5,-308C329.5,-308 246.5,-308 246.5,-308 240.5,-308 234.5,-302 234.5,-296 234.5,-296 234.5,-280 234.5,-280 234.5,-274 240.5,-268 246.5,-268 246.5,-268 329.5,-268 329.5,-268 335.5,-268 341.5,-274 341.5,-280 341.5,-280 341.5,-296 341.5,-296 341.5,-302 335.5,-308 329.5,-308" />
+<text text-anchor="middle" x="288" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Openness</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M326.5,-246C326.5,-246 249.5,-246 249.5,-246 243.5,-246 237.5,-240 237.5,-234 237.5,-234 237.5,-218 237.5,-218 237.5,-212 243.5,-206 249.5,-206 249.5,-206 326.5,-206 326.5,-206 332.5,-206 338.5,-212 338.5,-218 338.5,-218 338.5,-234 338.5,-234 338.5,-240 332.5,-246 326.5,-246" />
+<text text-anchor="middle" x="288" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Humility</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M372,-184C372,-184 204,-184 204,-184 198,-184 192,-178 192,-172 192,-172 192,-156 192,-156 192,-150 198,-144 204,-144 204,-144 372,-144 372,-144 378,-144 384,-150 384,-156 384,-156 384,-172 384,-172 384,-178 378,-184 372,-184" />
+<text text-anchor="middle" x="288" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Willingness to Learn</text>
+</g>
+</g>
+</svg>

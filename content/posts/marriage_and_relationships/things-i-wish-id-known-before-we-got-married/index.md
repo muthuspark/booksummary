@@ -20,13 +20,7 @@ The five love languages are:
 
 It's important that individuals may primarily express and receive love through different languages. Misunderstandings arise when one partner expresses love in their primary language, while the other doesn't see it as such because it isn't their primary receiving language.
 
-```mermaid
-graph LR
-    A["Person A's Love Language <br> (e.g., Acts of Service)"] --> B(Expresses Love)
-    B --> C["Person B's Love Language <br> (e.g., Words of Affirmation)"]
-    C --> D(Doesn't Recognize as Love)
-    D --> E[Potential for Conflict]
-```
+![Understanding Your Love Language. Person A's Love Language   (e.g., Acts of Service); Expresses Love; Person B's Love Language   (e.g., Words of Affirmation); Doesn't Recognize as Love; Potential for Conflict.](diagram-01.svg)
 
 ##  Communication: The Cornerstone of a Strong Marriage
 
@@ -44,15 +38,7 @@ Disagreements are inevitable in any relationship; how couples handle them define
 * **Focusing on solutions:**  Work together to find mutually acceptable solutions.
 * **Forgiving each other:** Holding onto resentment only damages the relationship.
 
-```mermaid
-graph LR
-    A[Conflict] --> B(Choose Right Time & Place)
-    B --> C(Empathetic Listening)
-    C --> D("I" Statements)
-    D --> E(Focus on Solutions)
-    E --> F[Forgiveness]
-    F --> G(Resolution)
-```
+![Conflict Resolution: Navigating Disagreements. Conflict; Choose Right Time & Place; Empathetic Listening; "I" Statements; Focus on Solutions; Forgiveness; Resolution.](diagram-02.svg)
 
 ##  Financial Management: A Shared Responsibility
 

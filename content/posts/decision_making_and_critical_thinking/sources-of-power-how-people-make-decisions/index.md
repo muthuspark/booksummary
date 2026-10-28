@@ -18,15 +18,7 @@ Traditional models of decision-making often describe a step-by-step analytical p
 
 Klein introduces Recognition-Primed Decision-Making (RPD) as a more accurate model of how experts make decisions. RPD relies on pattern recognition and mental simulation. Instead of weighing options, experts draw upon their vast experience to identify familiar situations and quickly generate a potential course of action. They then mentally simulate the consequences of that action, adjusting it as needed until a satisfactory plan emerges.
 
-```mermaid
-graph LR
-A[Situation] --> B(Recognition);
-B --> C{Satisficing Plan?};
-C -- Yes --> D[Implementation];
-C -- No --> E(Mental Simulation & Adjustment);
-E --> C;
-D --> F[Outcome];
-```
+![The Power of Recognition-Primed Decision-Making (RPD). Situation; Recognition; Satisficing Plan?; Implementation; Mental Simulation & Adjustment; Outcome.](diagram-01.svg)
 
 This process is rapid, intuitive, and efficient. It uses the tacit knowledge accumulated over years of practice.
 

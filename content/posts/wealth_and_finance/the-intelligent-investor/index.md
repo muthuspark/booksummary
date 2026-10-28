@@ -43,12 +43,7 @@ The cornerstone of Graham's approach is identifying the intrinsic value of a com
 The margin of safety acts as a buffer, protecting the investor from losses even if the estimated value is slightly off.
 
 
-```mermaid
-graph LR
-    A[Intrinsic Value] --> B(Margin of Safety);
-    B --> C[Purchase Price];
-    C --> D{Lower Risk};
-```
+![The Importance of Intrinsic Value. Intrinsic Value; Margin of Safety; Purchase Price; Lower Risk.](diagram-01.svg)
 
 ###  Defensive Investor's Portfolio:  A Simple Approach
 
@@ -83,15 +78,7 @@ Graham uses the "Mr. Market" analogy to illustrate the emotional and irrational 
 This analogy helps investors detach their emotions from investment decisions.
 
 
-```mermaid
-graph LR
-    A["Mr. Market (Emotional)"];
-    B["Intelligent Investor (Rational)"];
-    A --> C(Short-term Price Fluctuations);
-    B --> D(Intrinsic Value);
-    C -.-> E[Poor Decisions];
-    D -.-> F[Sound Decisions];
-```
+![Understanding Market Fluctuations:  The Mr. Market Analogy. Mr. Market (Emotional); Intelligent Investor (Rational); Short-term Price Fluctuations; Intrinsic Value; Poor Decisions; Sound Decisions.](diagram-02.svg)
 
 
 ###  Avoiding Speculation:  Focus on Value, Not Hype

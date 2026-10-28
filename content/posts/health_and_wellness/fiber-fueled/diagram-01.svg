@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="718pt" height="298pt" viewBox="0.00 0.00 718.00 298.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Different Types of Fiber</title><desc id="description">Fiber leads to Soluble Fiber. Fiber leads to Insoluble Fiber. Soluble Fiber leads to Binds to cholesterol, regulates blood sugar. Insoluble Fiber leads to Adds bulk to stool, promotes regularity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 280)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-280 700,-280 700,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71.11,-143.61C84.31,-148.42 99.79,-154.05 114.76,-159.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="114.17,-161.9 121.59,-162 115.85,-157.3 114.17,-161.9" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M71.11,-123.34C78.77,-121.64 87.21,-119.77 95.87,-117.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.54,-120.21 102.85,-116.31 95.48,-115.43 96.54,-120.21" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M244.73,-186.36C265.05,-187.7 288.41,-189.24 312.37,-190.82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="312.33,-193.27 319.48,-191.29 312.65,-188.39 312.33,-193.27" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M252.36,-90.27C279.68,-86.66 311.63,-82.45 342.85,-78.34" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="343.31,-80.75 349.93,-77.41 342.67,-75.89 343.31,-80.75" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M59,-151C59,-151 12,-151 12,-151 6,-151 0,-145 0,-139 0,-139 0,-123 0,-123 0,-117 6,-111 12,-111 12,-111 59,-111 59,-111 65,-111 71,-117 71,-123 71,-123 71,-139 71,-139 71,-145 65,-151 59,-151" />
+<text text-anchor="middle" x="35.5" y="-126.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fiber</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M232.5,-202C232.5,-202 122.5,-202 122.5,-202 116.5,-202 110.5,-196 110.5,-190 110.5,-190 110.5,-174 110.5,-174 110.5,-168 116.5,-162 122.5,-162 122.5,-162 232.5,-162 232.5,-162 238.5,-162 244.5,-168 244.5,-174 244.5,-174 244.5,-190 244.5,-190 244.5,-196 238.5,-202 232.5,-202" />
+<text text-anchor="middle" x="177.5" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Soluble Fiber</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M240,-120C240,-120 115,-120 115,-120 109,-120 103,-114 103,-108 103,-108 103,-92 103,-92 103,-86 109,-80 115,-80 115,-80 240,-80 240,-80 246,-80 252,-86 252,-92 252,-92 252,-108 252,-108 252,-114 246,-120 240,-120" />
+<text text-anchor="middle" x="177.5" y="-95.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insoluble Fiber</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="483,-262 284,-202 483,-142 682,-202 483,-262" />
+<text text-anchor="middle" x="483" y="-207.6" font-family="Georgia" font-size="18.00" fill="#243d36">Binds to cholesterol,</text>
+<text text-anchor="middle" x="483" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">regulates blood sugar</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="483,-120 296,-60 483,0 670,-60 483,-120" />
+<text text-anchor="middle" x="483" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adds bulk to stool,</text>
+<text text-anchor="middle" x="483" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">promotes regularity</text>
+</g>
+</g>
+</svg>

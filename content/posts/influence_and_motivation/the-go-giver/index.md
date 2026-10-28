@@ -57,14 +57,7 @@ Joe's initial mindset is a self-serving approach. He focuses on closing deals an
 
 The five laws of stratospheric success aren’t independent; they work together synergistically.
 
-```mermaid
-graph LR
-    A[Law of Value] --> B(Law of Compensation);
-    B --> C(Law of Influence);
-    C --> D(Law of Authenticity);
-    D --> E(Law of Receptivity);
-    E --> A;
-```
+![Visualizing the Interconnectedness of the Laws. Law of Value; Law of Compensation; Law of Influence; Law of Authenticity; Law of Receptivity.](diagram-01.svg)
 
 This diagram shows the cyclical nature of these laws. Giving value (A) leads to compensation (B), which further enhances your influence (C). Authenticity (D) and receptivity (E) are essential for sustaining this positive cycle, ensuring that the process remains genuine and sustainable.
 

@@ -14,13 +14,7 @@ Hugh MacLeod's "Ignore Everybody" isn't a self-help book in the traditional sens
 
 MacLeod emphasizes the importance of identifying and honing your "God-Given Talent" – that unique skill or passion that sets you apart. This isn't about chasing trends or mimicking others; it's about recognizing your strengths and using them to create something meaningful. He encourages self-reflection and introspection to uncover this hidden potential, urging readers to abandon the pursuit of generic "success" and instead focus on mastering their own particular niche.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Strengths);
-    B --> C{Unique Talent};
-    C --> D[Master Your Craft];
-    D --> E(Meaningful Work);
-```
+![Finding Your God-Given Talent. Self-Reflection; Identify Strengths; Unique Talent; Master Your Craft; Meaningful Work.](diagram-01.svg)
 
 #  The Importance of Rejection
 
@@ -55,13 +49,7 @@ While emphasizing the importance of passion, MacLeod doesn't shy away from the r
 
 MacLeod consistently champions the development of a unique voice.  This extends beyond simply expressing your opinions; it encompasses your entire creative process, from your choice of medium to your stylistic choices.  He encourages self-discovery and experimentation to find your unique style, stressing that imitation is a path to mediocrity.
 
-```mermaid
-graph LR
-    A[Identify Passion] --> B(Develop Unique Style);
-    B --> C{Consistent Quality};
-    C --> D[Build Personal Brand];
-    D --> E(Authentic Voice);
-```
+![Developing Your Unique Voice. Identify Passion; Develop Unique Style; Consistent Quality; Build Personal Brand; Authentic Voice.](diagram-02.svg)
 
 
 #  The Long Game

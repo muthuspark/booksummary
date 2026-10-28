@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="418pt" height="464pt" viewBox="0.00 0.00 418.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Zazen: The Foundation of Practice</title><desc id="description">Correct Posture leads to Awareness of Breath. Awareness of Breath leads to Observe Thoughts &amp; Sensations. Observe Thoughts &amp; Sensations leads to Non-Judgmental Observation. Non-Judgmental Observation leads to Deepening Awareness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 400,-446 400,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191,-387.87C191,-380.31 191,-371.49 191,-363.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.45,-363.1 191,-356.1 188.55,-363.1 193.45,-363.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191,-315.84C191,-308.75 191,-300.25 191,-291.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.45,-291.12 191,-284.12 188.55,-291.12 193.45,-291.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191,-163.7C191,-155.47 191,-147.21 191,-139.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.45,-139.13 191,-132.13 188.55,-139.13 193.45,-139.13" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191,-71.67C191,-63.77 191,-55.28 191,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.45,-47.12 191,-40.12 188.55,-47.12 193.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M256,-428C256,-428 126,-428 126,-428 120,-428 114,-422 114,-416 114,-416 114,-400 114,-400 114,-394 120,-388 126,-388 126,-388 256,-388 256,-388 262,-388 268,-394 268,-400 268,-400 268,-416 268,-416 268,-422 262,-428 256,-428" />
+<text text-anchor="middle" x="191" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Correct Posture</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M275.5,-356C275.5,-356 106.5,-356 106.5,-356 100.5,-356 94.5,-350 94.5,-344 94.5,-344 94.5,-328 94.5,-328 94.5,-322 100.5,-316 106.5,-316 106.5,-316 275.5,-316 275.5,-316 281.5,-316 287.5,-322 287.5,-328 287.5,-328 287.5,-344 287.5,-344 287.5,-350 281.5,-356 275.5,-356" />
+<text text-anchor="middle" x="191" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Awareness of Breath</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="191,-284 0,-224 191,-164 382,-224 191,-284" />
+<text text-anchor="middle" x="191" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">Observe Thoughts &amp;</text>
+<text text-anchor="middle" x="191" y="-209.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sensations</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M261,-132C261,-132 121,-132 121,-132 115,-132 109,-126 109,-120 109,-120 109,-84 109,-84 109,-78 115,-72 121,-72 121,-72 261,-72 261,-72 267,-72 273,-78 273,-84 273,-84 273,-120 273,-120 273,-126 267,-132 261,-132" />
+<text text-anchor="middle" x="191" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Non-Judgmental</text>
+<text text-anchor="middle" x="191" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Observation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M281.5,-40C281.5,-40 100.5,-40 100.5,-40 94.5,-40 88.5,-34 88.5,-28 88.5,-28 88.5,-12 88.5,-12 88.5,-6 94.5,0 100.5,0 100.5,0 281.5,0 281.5,0 287.5,0 293.5,-6 293.5,-12 293.5,-12 293.5,-28 293.5,-28 293.5,-34 287.5,-40 281.5,-40" />
+<text text-anchor="middle" x="191" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deepening Awareness</text>
+</g>
+</g>
+</svg>

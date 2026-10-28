@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252pt" height="364pt" viewBox="0.00 0.00 252.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Building High-Performing Teams</title><desc id="description">Empowerment leads to Delegation. Delegation leads to Open Communication. Open Communication leads to Collaboration. Collaboration leads to High-Performing Team.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 234,-346 234,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-287.87C108,-280.31 108,-271.49 108,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-263.1 108,-256.1 105.55,-263.1 110.45,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-215.87C108,-208.31 108,-199.49 108,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-191.1 108,-184.1 105.55,-191.1 110.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-143.87C108,-136.31 108,-127.49 108,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-119.1 108,-112.1 105.55,-119.1 110.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108,-71.87C108,-64.31 108,-55.49 108,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.45,-47.1 108,-40.1 105.55,-47.1 110.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-328C170,-328 46,-328 46,-328 40,-328 34,-322 34,-316 34,-316 34,-300 34,-300 34,-294 40,-288 46,-288 46,-288 170,-288 170,-288 176,-288 182,-294 182,-300 182,-300 182,-316 182,-316 182,-322 176,-328 170,-328" />
+<text text-anchor="middle" x="108" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empowerment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M153.5,-256C153.5,-256 62.5,-256 62.5,-256 56.5,-256 50.5,-250 50.5,-244 50.5,-244 50.5,-228 50.5,-228 50.5,-222 56.5,-216 62.5,-216 62.5,-216 153.5,-216 153.5,-216 159.5,-216 165.5,-222 165.5,-228 165.5,-228 165.5,-244 165.5,-244 165.5,-250 159.5,-256 153.5,-256" />
+<text text-anchor="middle" x="108" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Delegation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198,-184C198,-184 18,-184 18,-184 12,-184 6,-178 6,-172 6,-172 6,-156 6,-156 6,-150 12,-144 18,-144 18,-144 198,-144 198,-144 204,-144 210,-150 210,-156 210,-156 210,-172 210,-172 210,-178 204,-184 198,-184" />
+<text text-anchor="middle" x="108" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Open Communication</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164.5,-112C164.5,-112 51.5,-112 51.5,-112 45.5,-112 39.5,-106 39.5,-100 39.5,-100 39.5,-84 39.5,-84 39.5,-78 45.5,-72 51.5,-72 51.5,-72 164.5,-72 164.5,-72 170.5,-72 176.5,-78 176.5,-84 176.5,-84 176.5,-100 176.5,-100 176.5,-106 170.5,-112 164.5,-112" />
+<text text-anchor="middle" x="108" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M204,-40C204,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 204,0 204,0 210,0 216,-6 216,-12 216,-12 216,-28 216,-28 216,-34 210,-40 204,-40" />
+<text text-anchor="middle" x="108" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Performing Team</text>
+</g>
+</g>
+</svg>

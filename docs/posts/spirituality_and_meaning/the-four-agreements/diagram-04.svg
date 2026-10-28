@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214pt" height="404pt" viewBox="0.00 0.00 214.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">The Fourth Agreement: Always Do Your Best</title><desc id="description">Present Moment leads to Effort. Effort leads to Best Ability. Best Ability leads to Self-Compassion. Self-Compassion leads to Celebrate Progress.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 196,-386 196,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-327.91C89,-320.58 89,-311.86 89,-303.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-303.07 89,-296.07 86.55,-303.07 91.45,-303.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-215.79C89,-207.54 89,-199.04 89,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-191.09 89,-184.09 86.55,-191.09 91.45,-191.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-143.87C89,-136.31 89,-127.49 89,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-119.1 89,-112.1 86.55,-119.1 91.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-71.87C89,-64.31 89,-55.49 89,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-47.1 89,-40.1 86.55,-47.1 91.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M157.5,-368C157.5,-368 20.5,-368 20.5,-368 14.5,-368 8.5,-362 8.5,-356 8.5,-356 8.5,-340 8.5,-340 8.5,-334 14.5,-328 20.5,-328 20.5,-328 157.5,-328 157.5,-328 163.5,-328 169.5,-334 169.5,-340 169.5,-340 169.5,-356 169.5,-356 169.5,-362 163.5,-368 157.5,-368" />
+<text text-anchor="middle" x="89" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Present Moment</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="89,-296 13,-256 89,-216 165,-256 89,-296" />
+<text text-anchor="middle" x="89" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effort</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M137,-184C137,-184 41,-184 41,-184 35,-184 29,-178 29,-172 29,-172 29,-156 29,-156 29,-150 35,-144 41,-144 41,-144 137,-144 137,-144 143,-144 149,-150 149,-156 149,-156 149,-172 149,-172 149,-178 143,-184 137,-184" />
+<text text-anchor="middle" x="89" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Best Ability</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158,-112C158,-112 20,-112 20,-112 14,-112 8,-106 8,-100 8,-100 8,-84 8,-84 8,-78 14,-72 20,-72 20,-72 158,-72 158,-72 164,-72 170,-78 170,-84 170,-84 170,-100 170,-100 170,-106 164,-112 158,-112" />
+<text text-anchor="middle" x="89" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Compassion</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M166,-40C166,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 166,0 166,0 172,0 178,-6 178,-12 178,-12 178,-28 178,-28 178,-34 172,-40 166,-40" />
+<text text-anchor="middle" x="89" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Celebrate Progress</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="772pt" height="300pt" viewBox="0.00 0.00 772.00 300.00" role="img" aria-labelledby="title description">
+<title id="title">Recognizing the Nature of Fear</title><desc id="description">Fear &amp; Discomfort leads to Avoidance &amp; Numbing. Avoidance &amp; Numbing leads to Reinforced Fear &amp; Suffering. Fear &amp; Discomfort leads to Acceptance &amp; Presence. Acceptance &amp; Presence leads to Growth &amp; Freedom.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 282)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-282 754,-282 754,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M332.3,-223.87C317.98,-215.23 300.94,-204.95 285.95,-195.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="286.92,-193.62 279.66,-192.1 284.39,-197.82 286.92,-193.62" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M405.81,-223.87C425.29,-214.96 448.58,-204.31 468.79,-195.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="469.9,-197.24 475.24,-192.1 467.86,-192.79 469.9,-197.24" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M235.28,-151.84C228.48,-141.59 219.73,-128.4 211.01,-115.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.93,-113.73 207.02,-109.25 208.85,-116.43 212.93,-113.73" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M523.44,-151.84C527.83,-138.81 533.81,-121.01 539.32,-104.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="541.74,-105.13 541.65,-97.71 537.1,-103.57 541.74,-105.13" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M440,-264C440,-264 288,-264 288,-264 282,-264 276,-258 276,-252 276,-252 276,-236 276,-236 276,-230 282,-224 288,-224 288,-224 440,-224 440,-224 446,-224 452,-230 452,-236 452,-236 452,-252 452,-252 452,-258 446,-264 440,-264" />
+<text text-anchor="middle" x="364" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear &amp; Discomfort</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M340,-192C340,-192 156,-192 156,-192 150,-192 144,-186 144,-180 144,-180 144,-164 144,-164 144,-158 150,-152 156,-152 156,-152 340,-152 340,-152 346,-152 352,-158 352,-164 352,-164 352,-180 352,-180 352,-186 346,-192 340,-192" />
+<text text-anchor="middle" x="248" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Avoidance &amp; Numbing</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="175,-120 0,-60 175,0 350,-60 175,-120" />
+<text text-anchor="middle" x="175" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reinforced Fear &amp;</text>
+<text text-anchor="middle" x="175" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suffering</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M611.5,-192C611.5,-192 422.5,-192 422.5,-192 416.5,-192 410.5,-186 410.5,-180 410.5,-180 410.5,-164 410.5,-164 410.5,-158 416.5,-152 422.5,-152 422.5,-152 611.5,-152 611.5,-152 617.5,-152 623.5,-158 623.5,-164 623.5,-164 623.5,-180 623.5,-180 623.5,-186 617.5,-192 611.5,-192" />
+<text text-anchor="middle" x="517" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Acceptance &amp; Presence</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="554,-100 372,-60 554,-20 736,-60 554,-100" />
+<text text-anchor="middle" x="554" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth &amp; Freedom</text>
+</g>
+</g>
+</svg>

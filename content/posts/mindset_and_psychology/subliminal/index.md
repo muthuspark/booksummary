@@ -17,12 +17,7 @@ A core concept throughout the book is *priming*. This refers to the unconscious 
 
 The key takeaway here is that by understanding priming, we can consciously design our environments to achieve desired outcomes. Surrounding ourselves with positive imagery, motivational quotes, and objects associated with success can subtly prime our unconscious minds for achievement. Conversely, we should be aware of negative primes that might hinder our progress.
 
-```mermaid
-graph LR
-    A[Environment] --> B(Primes);
-    B --> C[Unconscious Mind];
-    C --> D(Behavior/Thoughts);
-```
+![The Power of Priming and its Applications. Environment; Primes; Unconscious Mind; Behavior/Thoughts.](diagram-01.svg)
 
 
 ## The Role of Intuition and Heuristics

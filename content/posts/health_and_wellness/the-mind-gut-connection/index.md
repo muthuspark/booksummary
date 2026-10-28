@@ -14,17 +14,7 @@ Emeran Mayer's "The Mind-Gut Connection" explores the bidirectional communicatio
 
 The book details the communication pathways between the brain and the gut. This "gut-brain axis" isn't a one-way street; it's a complex, dynamic interplay involving the nervous system, endocrine system, and immune system.
 
-```mermaid
-graph LR
-    A[Brain] --> B(Vagus Nerve);
-    B --> C[Gut];
-    C --> D(Hormones);
-    D --> A;
-    C --> E(Immune Signals);
-    E --> A;
-    C --> F(Neurotransmitters);
-    F --> A;
-```
+![The Gut-Brain Axis: A Communication Network. Brain; Vagus Nerve; Gut; Hormones; Immune Signals; Neurotransmitters.](diagram-01.svg)
 
 This diagram simplifies the communication pathways.  Neurotransmitters, hormones, and immune signals travel between the gut and the brain, constantly influencing each other.  The vagus nerve, a major player, carries signals in both directions, providing a rapid communication link.  Disruptions in this communication can lead to a range of problems.
 

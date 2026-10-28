@@ -40,14 +40,7 @@ Once you've built a strong network, the book emphasizes the importance of levera
 
 This strategic approach focuses on identifying synergies and fostering collaborations that create value for all involved. It's about being a connector, partnering, and creating a win-win situation for everyone.
 
-```mermaid
-graph LR
-A[Build Strong Relationships] --> B(Identify Needs);
-B --> C{Offer Valuable Solutions};
-C --> D[Earn Trust & Respect];
-D --> E(Strategic Collaboration);
-E --> F[Influence & Impact];
-```
+![Strategic Collaboration: Leveraging Your Network. Build Strong Relationships; Identify Needs; Offer Valuable Solutions; Earn Trust & Respect; Strategic Collaboration; Influence & Impact.](diagram-01.svg)
 
 # Mastering Communication: Articulating Your Vision
 

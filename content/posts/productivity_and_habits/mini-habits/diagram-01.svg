@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214pt" height="476pt" viewBox="0.00 0.00 214.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Science Behind Mini Habits:  Neuroplasticity and Habit Formation</title><desc id="description">Goal leads to Mini Habit. Mini Habit leads to Success. Success leads to Momentum. Momentum leads to Larger Actions. Larger Actions leads to Goal Achievement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 196,-458 196,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-399.87C89,-392.31 89,-383.49 89,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-375.1 89,-368.1 86.55,-375.1 91.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-327.91C89,-320.58 89,-311.86 89,-303.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-303.07 89,-296.07 86.55,-303.07 91.45,-303.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-215.79C89,-207.54 89,-199.04 89,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-191.09 89,-184.09 86.55,-191.09 91.45,-191.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-143.87C89,-136.31 89,-127.49 89,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-119.1 89,-112.1 86.55,-119.1 91.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89,-71.87C89,-64.31 89,-55.49 89,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="91.45,-47.1 89,-40.1 86.55,-47.1 91.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M109.5,-440C109.5,-440 68.5,-440 68.5,-440 62.5,-440 56.5,-434 56.5,-428 56.5,-428 56.5,-412 56.5,-412 56.5,-406 62.5,-400 68.5,-400 68.5,-400 109.5,-400 109.5,-400 115.5,-400 121.5,-406 121.5,-412 121.5,-412 121.5,-428 121.5,-428 121.5,-434 115.5,-440 109.5,-440" />
+<text text-anchor="middle" x="89" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goal</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-368C135,-368 43,-368 43,-368 37,-368 31,-362 31,-356 31,-356 31,-340 31,-340 31,-334 37,-328 43,-328 43,-328 135,-328 135,-328 141,-328 147,-334 147,-340 147,-340 147,-356 147,-356 147,-362 141,-368 135,-368" />
+<text text-anchor="middle" x="89" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mini Habit</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="89,-296 0,-256 89,-216 178,-256 89,-296" />
+<text text-anchor="middle" x="89" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M138,-184C138,-184 40,-184 40,-184 34,-184 28,-178 28,-172 28,-172 28,-156 28,-156 28,-150 34,-144 40,-144 40,-144 138,-144 138,-144 144,-144 150,-150 150,-156 150,-156 150,-172 150,-172 150,-178 144,-184 138,-184" />
+<text text-anchor="middle" x="89" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Momentum</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149.5,-112C149.5,-112 28.5,-112 28.5,-112 22.5,-112 16.5,-106 16.5,-100 16.5,-100 16.5,-84 16.5,-84 16.5,-78 22.5,-72 28.5,-72 28.5,-72 149.5,-72 149.5,-72 155.5,-72 161.5,-78 161.5,-84 161.5,-84 161.5,-100 161.5,-100 161.5,-106 155.5,-112 149.5,-112" />
+<text text-anchor="middle" x="89" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Larger Actions</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M164,-40C164,-40 14,-40 14,-40 8,-40 2,-34 2,-28 2,-28 2,-12 2,-12 2,-6 8,0 14,0 14,0 164,0 164,0 170,0 176,-6 176,-12 176,-12 176,-28 176,-28 176,-34 170,-40 164,-40" />
+<text text-anchor="middle" x="89" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goal Achievement</text>
+</g>
+</g>
+</svg>

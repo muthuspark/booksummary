@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="779pt" height="218pt" viewBox="0.00 0.00 779.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Sacrifice and Selflessness:  Beyond "Me</title><desc id="description">Selfishness leads to Individual Needs. Individual Needs leads to Unsatisfied Marriage. Selflessness leads to Partner's Needs. Partner's Needs leads to Fulfilling Marriage.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 761,-200 761,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M119.29,-40C128.1,-40 137.37,-40 146.67,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="146.78,-42.45 153.78,-40 146.78,-37.55 146.78,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M319.36,-40C327.24,-40 335.45,-40 343.86,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="343.98,-42.45 350.98,-40 343.98,-37.55 343.98,-42.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.19,-142C131.72,-142 141.73,-142 151.68,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.91,-144.45 158.91,-142 151.91,-139.55 151.91,-144.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M314.15,-142C328.75,-142 344.61,-142 360.94,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="360.97,-144.45 367.97,-142 360.97,-139.55 360.97,-144.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M107,-60C107,-60 15,-60 15,-60 9,-60 3,-54 3,-48 3,-48 3,-32 3,-32 3,-26 9,-20 15,-20 15,-20 107,-20 107,-20 113,-20 119,-26 119,-32 119,-32 119,-48 119,-48 119,-54 113,-60 107,-60" />
+<text text-anchor="middle" x="61" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Selfishness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M307,-60C307,-60 166,-60 166,-60 160,-60 154,-54 154,-48 154,-48 154,-32 154,-32 154,-26 160,-20 166,-20 166,-20 307,-20 307,-20 313,-20 319,-26 319,-32 319,-32 319,-48 319,-48 319,-54 313,-60 307,-60" />
+<text text-anchor="middle" x="236.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual Needs</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="547,-80 351,-40 547,0 743,-40 547,-80" />
+<text text-anchor="middle" x="547" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unsatisfied Marriage</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M110,-162C110,-162 12,-162 12,-162 6,-162 0,-156 0,-150 0,-150 0,-134 0,-134 0,-128 6,-122 12,-122 12,-122 110,-122 110,-122 116,-122 122,-128 122,-134 122,-134 122,-150 122,-150 122,-156 116,-162 110,-162" />
+<text text-anchor="middle" x="61" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Selflessness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M302,-162C302,-162 171,-162 171,-162 165,-162 159,-156 159,-150 159,-150 159,-134 159,-134 159,-128 165,-122 171,-122 171,-122 302,-122 302,-122 308,-122 314,-128 314,-134 314,-134 314,-150 314,-150 314,-156 308,-162 302,-162" />
+<text text-anchor="middle" x="236.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner's Needs</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="547,-182 368,-142 547,-102 726,-142 547,-182" />
+<text text-anchor="middle" x="547" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fulfilling Marriage</text>
+</g>
+</g>
+</svg>

@@ -22,12 +22,7 @@ The book identifies key elements for a fulfilling marriage. These aren't separat
 * **Shared Values and Goals:**  Couples need to align on fundamental life values, beliefs, and aspirations.  While not everything needs to be identical, significant discrepancies in core values can create substantial friction over time.
 
 
-```mermaid
-graph LR
-    A[Commitment] --> B(Thriving Marriage);
-    C[Passion] --> B;
-    D[Shared Values] --> B;
-```
+![The Pillars of a Thriving Partnership:  Commitment, Passion, and Shared Values. Commitment; Thriving Marriage; Passion; Shared Values.](diagram-01.svg)
 
 ##  Communication: The Cornerstone of Understanding
 
@@ -84,12 +79,7 @@ External stressors can impact a marriage. The book highlights the importance of:
 * **Seeking Professional Help When Needed:**  Recognizing the value of therapy or counseling as a tool for addressing relationship challenges.
 
 
-```mermaid
-graph LR
-    A[External Stressors] --> B(Relationship Strain);
-    C[Support Systems] --> D(Relationship Resilience);
-    E[Professional Help] --> D;
-```
+![The Role of External Factors:  Stress and Support Systems. External Stressors; Relationship Strain; Support Systems; Relationship Resilience; Professional Help.](diagram-02.svg)
 
 
 ##  Long-Term Commitment and Continuous Growth

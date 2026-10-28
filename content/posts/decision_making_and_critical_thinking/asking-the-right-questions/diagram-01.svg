@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226pt" height="404pt" viewBox="0.00 0.00 226.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Assumptions</title><desc id="description">Issue leads to Conclusion. Conclusion leads to Reasons. Reasons leads to Assumptions. Assumptions leads to Evaluation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 208,-386 208,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-327.87C95,-320.31 95,-311.49 95,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-303.1 95,-296.1 92.55,-303.1 97.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-255.91C95,-248.58 95,-239.86 95,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-231.07 95,-224.07 92.55,-231.07 97.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-143.79C95,-135.54 95,-127.04 95,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-119.09 95,-112.09 92.55,-119.09 97.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M95,-71.87C95,-64.31 95,-55.49 95,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-47.1 95,-40.1 92.55,-47.1 97.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M118,-368C118,-368 72,-368 72,-368 66,-368 60,-362 60,-356 60,-356 60,-340 60,-340 60,-334 66,-328 72,-328 72,-328 118,-328 118,-328 124,-328 130,-334 130,-340 130,-340 130,-356 130,-356 130,-362 124,-368 118,-368" />
+<text text-anchor="middle" x="95" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Issue</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M141.5,-296C141.5,-296 48.5,-296 48.5,-296 42.5,-296 36.5,-290 36.5,-284 36.5,-284 36.5,-268 36.5,-268 36.5,-262 42.5,-256 48.5,-256 48.5,-256 141.5,-256 141.5,-256 147.5,-256 153.5,-262 153.5,-268 153.5,-268 153.5,-284 153.5,-284 153.5,-290 147.5,-296 141.5,-296" />
+<text text-anchor="middle" x="95" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conclusion</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="95,-224 0,-184 95,-144 190,-184 95,-224" />
+<text text-anchor="middle" x="95" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reasons</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148.5,-112C148.5,-112 41.5,-112 41.5,-112 35.5,-112 29.5,-106 29.5,-100 29.5,-100 29.5,-84 29.5,-84 29.5,-78 35.5,-72 41.5,-72 41.5,-72 148.5,-72 148.5,-72 154.5,-72 160.5,-78 160.5,-84 160.5,-84 160.5,-100 160.5,-100 160.5,-106 154.5,-112 148.5,-112" />
+<text text-anchor="middle" x="95" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assumptions</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M140.5,-40C140.5,-40 49.5,-40 49.5,-40 43.5,-40 37.5,-34 37.5,-28 37.5,-28 37.5,-12 37.5,-12 37.5,-6 43.5,0 49.5,0 49.5,0 140.5,0 140.5,0 146.5,0 152.5,-6 152.5,-12 152.5,-12 152.5,-28 152.5,-28 152.5,-34 146.5,-40 140.5,-40" />
+<text text-anchor="middle" x="95" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluation</text>
+</g>
+</g>
+</svg>

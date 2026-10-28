@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="483pt" height="332pt" viewBox="0.00 0.00 483.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Side Hustles and Multiple Income Streams</title><desc id="description">Main Job leads to Side Hustle 1. Main Job leads to Side Hustle 2. Main Job leads to Side Hustle 3. Side Hustle 1 leads to Savings &amp; Investments. Side Hustle 2 leads to Savings &amp; Investments. Side Hustle 3 leads to Savings &amp; Investments. Savings &amp; Investments leads to Financial Freedom.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 465,-314 465,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M179.87,-255.87C160.01,-246.96 136.27,-236.31 115.65,-227.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.47,-224.74 109.08,-224.1 114.46,-229.21 116.47,-224.74" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.5,-255.87C222.5,-248.31 222.5,-239.49 222.5,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.95,-231.1 222.5,-224.1 220.05,-231.1 224.95,-231.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M265.4,-255.87C285.39,-246.96 309.29,-236.31 330.03,-227.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="331.26,-229.19 336.65,-224.1 329.26,-224.72 331.26,-229.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M99.58,-183.91C118.71,-172.88 143.31,-158.69 165.47,-145.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="166.81,-147.96 171.65,-142.34 164.36,-143.71 166.81,-147.96" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.5,-183.91C222.5,-176.58 222.5,-167.86 222.5,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.95,-159.07 222.5,-152.07 220.05,-159.07 224.95,-159.07" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M346.2,-183.91C326.95,-172.88 302.2,-158.69 279.9,-145.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="280.97,-143.69 273.68,-142.34 278.53,-147.94 280.97,-143.69" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.5,-71.79C222.5,-63.54 222.5,-55.04 222.5,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.95,-47.09 222.5,-40.09 220.05,-47.09 224.95,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262,-296C262,-296 183,-296 183,-296 177,-296 171,-290 171,-284 171,-284 171,-268 171,-268 171,-262 177,-256 183,-256 183,-256 262,-256 262,-256 268,-256 274,-262 274,-268 274,-268 274,-284 274,-284 274,-290 268,-296 262,-296" />
+<text text-anchor="middle" x="222.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Main Job</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M121,-224C121,-224 12,-224 12,-224 6,-224 0,-218 0,-212 0,-212 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 121,-184 121,-184 127,-184 133,-190 133,-196 133,-196 133,-212 133,-212 133,-218 127,-224 121,-224" />
+<text text-anchor="middle" x="66.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Side Hustle 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278,-224C278,-224 167,-224 167,-224 161,-224 155,-218 155,-212 155,-212 155,-196 155,-196 155,-190 161,-184 167,-184 167,-184 278,-184 278,-184 284,-184 290,-190 290,-196 290,-196 290,-212 290,-212 290,-218 284,-224 278,-224" />
+<text text-anchor="middle" x="222.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Side Hustle 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M435,-224C435,-224 324,-224 324,-224 318,-224 312,-218 312,-212 312,-212 312,-196 312,-196 312,-190 318,-184 324,-184 324,-184 435,-184 435,-184 441,-184 447,-190 447,-196 447,-196 447,-212 447,-212 447,-218 441,-224 435,-224" />
+<text text-anchor="middle" x="379.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Side Hustle 3</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="222.5,-152 14.5,-112 222.5,-72 430.5,-112 222.5,-152" />
+<text text-anchor="middle" x="222.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Savings &amp; Investments</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M300,-40C300,-40 145,-40 145,-40 139,-40 133,-34 133,-28 133,-28 133,-12 133,-12 133,-6 139,0 145,0 145,0 300,0 300,0 306,0 312,-6 312,-12 312,-12 312,-28 312,-28 312,-34 306,-40 300,-40" />
+<text text-anchor="middle" x="222.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Freedom</text>
+</g>
+</g>
+</svg>

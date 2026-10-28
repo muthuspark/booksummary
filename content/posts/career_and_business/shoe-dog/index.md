@@ -19,12 +19,7 @@ Knight's early ventures were calculated risks. He took out loans, maxed out cred
 
 While Knight was the driving force, he understood the importance of building a strong team. He surrounded himself with talented individuals, even if their skills differed from his own. He fostered a culture of collaboration and innovation, trusting his team to make decisions and contribute their unique perspectives. This highlights the power of delegation, trust, and the importance of recognizing and leveraging the skills of those around you.
 
-```mermaid
-graph LR
-A[Phil Knight] --> B(Team Members);
-B --> C(Innovation);
-C --> D(Success);
-```
+![Building a Team: The Power of Collaboration. Phil Knight; Team Members; Innovation; Success.](diagram-01.svg)
 
 
 ##  The Importance of Persistence and Resilience

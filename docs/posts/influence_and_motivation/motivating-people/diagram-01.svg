@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445pt" height="324pt" viewBox="0.00 0.00 445.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">Intrinsic vs. Extrinsic Motivation: The Dual Drivers</title><desc id="description">Extrinsic Motivation leads to External Rewards. Extrinsic Motivation leads to Fear of Punishment. Intrinsic Motivation leads to Interest. Intrinsic Motivation leads to Challenge. Intrinsic Motivation leads to Purpose.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 427,-306 427,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191.07,-64.42C201.76,-65.93 212.64,-67.48 223.29,-68.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.98,-71.42 230.26,-69.98 223.67,-66.57 222.98,-71.42" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191.07,-37.58C199.1,-36.44 207.25,-35.29 215.32,-34.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.12,-36.5 222.71,-33.09 215.43,-31.65 216.12,-36.5" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.14,-226.04C198.54,-234.95 234.82,-245.25 263.58,-253.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.94,-255.78 270.35,-255.33 264.28,-251.06 262.94,-255.78" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M189.8,-206C212,-206 235.1,-206 255.33,-206" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="255.36,-208.45 262.36,-206 255.36,-203.55 255.36,-208.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.14,-185.96C197.71,-177.28 232.92,-167.29 261.31,-159.24" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.3,-161.5 268.37,-157.23 260.97,-156.79 262.3,-161.5" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M179,-71C179,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 179,-31 179,-31 185,-31 191,-37 191,-43 191,-43 191,-59 191,-59 191,-65 185,-71 179,-71" />
+<text text-anchor="middle" x="95.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Extrinsic Motivation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M389.5,-102C389.5,-102 242.5,-102 242.5,-102 236.5,-102 230.5,-96 230.5,-90 230.5,-90 230.5,-74 230.5,-74 230.5,-68 236.5,-62 242.5,-62 242.5,-62 389.5,-62 389.5,-62 395.5,-62 401.5,-68 401.5,-74 401.5,-74 401.5,-90 401.5,-90 401.5,-96 395.5,-102 389.5,-102" />
+<text text-anchor="middle" x="316" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">External Rewards</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M397,-40C397,-40 235,-40 235,-40 229,-40 223,-34 223,-28 223,-28 223,-12 223,-12 223,-6 229,0 235,0 235,0 397,0 397,0 403,0 409,-6 409,-12 409,-12 409,-28 409,-28 409,-34 403,-40 397,-40" />
+<text text-anchor="middle" x="316" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear of Punishment</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177.5,-226C177.5,-226 13.5,-226 13.5,-226 7.5,-226 1.5,-220 1.5,-214 1.5,-214 1.5,-198 1.5,-198 1.5,-192 7.5,-186 13.5,-186 13.5,-186 177.5,-186 177.5,-186 183.5,-186 189.5,-192 189.5,-198 189.5,-198 189.5,-214 189.5,-214 189.5,-220 183.5,-226 177.5,-226" />
+<text text-anchor="middle" x="95.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intrinsic Motivation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M349.5,-288C349.5,-288 282.5,-288 282.5,-288 276.5,-288 270.5,-282 270.5,-276 270.5,-276 270.5,-260 270.5,-260 270.5,-254 276.5,-248 282.5,-248 282.5,-248 349.5,-248 349.5,-248 355.5,-248 361.5,-254 361.5,-260 361.5,-260 361.5,-276 361.5,-276 361.5,-282 355.5,-288 349.5,-288" />
+<text text-anchor="middle" x="316" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interest</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M357.5,-226C357.5,-226 274.5,-226 274.5,-226 268.5,-226 262.5,-220 262.5,-214 262.5,-214 262.5,-198 262.5,-198 262.5,-192 268.5,-186 274.5,-186 274.5,-186 357.5,-186 357.5,-186 363.5,-186 369.5,-192 369.5,-198 369.5,-198 369.5,-214 369.5,-214 369.5,-220 363.5,-226 357.5,-226" />
+<text text-anchor="middle" x="316" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Challenge</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M351.5,-164C351.5,-164 280.5,-164 280.5,-164 274.5,-164 268.5,-158 268.5,-152 268.5,-152 268.5,-136 268.5,-136 268.5,-130 274.5,-124 280.5,-124 280.5,-124 351.5,-124 351.5,-124 357.5,-124 363.5,-130 363.5,-136 363.5,-136 363.5,-152 363.5,-152 363.5,-158 357.5,-164 351.5,-164" />
+<text text-anchor="middle" x="316" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purpose</text>
+</g>
+</g>
+</svg>

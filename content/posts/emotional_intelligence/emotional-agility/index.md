@@ -32,13 +32,7 @@ David outlines a four-step process, the "Four A's," to achieve emotional agility
 
 * **Access:**  This involves harnessing the information your emotions provide, using them as a guide to understand your needs, values, and the situations that trigger them.  Emotions are essentially data; emotional agility involves learning how to interpret and utilize this data effectively.
 
-```mermaid
-graph LR
-    A[Awareness] --> B(Acceptance);
-    B --> C(Action);
-    C --> D(Access);
-    D --> A;
-```
+![The Four A's of Emotional Agility. Awareness; Acceptance; Action; Access.](diagram-01.svg)
 
 #  Overcoming Emotional Traps
 

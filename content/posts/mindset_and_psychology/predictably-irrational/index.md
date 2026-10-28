@@ -46,12 +46,7 @@ Ariely contrasts market norms and social norms, explaining how our responses dif
 
 **Actionable Insight:** Understand the context of an exchange. Be mindful of whether the interaction is governed by market or social norms, and respond appropriately. Avoiding mixing them can lead to better outcomes.
 
-```mermaid
-graph LR
-A[Market Norms] --> B(Price & Value)
-C[Social Norms] --> D(Obligations & Reciprocity)
-E[Mixing Norms] --> F(Unpredictable Outcomes)
-```
+![The Power of Social Norms. Market Norms; Price & Value; Social Norms; Obligations & Reciprocity; Mixing Norms; Unpredictable Outcomes.](diagram-01.svg)
 
 
 ##  Procrastination and Self-Control

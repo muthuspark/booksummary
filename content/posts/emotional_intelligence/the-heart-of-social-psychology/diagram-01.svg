@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="728pt" height="392pt" viewBox="0.00 0.00 728.00 392.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Social Cognition</title><desc id="description">Situation leads to Attribution. Attribution leads to Dispositional (Internal). Attribution leads to Situational (External). Dispositional (Internal) leads to Bias: Fundamental   Attribution Error.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 374)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-374 710,-374 710,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M312,-315.87C312,-308.31 312,-299.49 312,-291.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="314.45,-291.1 312,-284.1 309.55,-291.1 314.45,-291.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M280.99,-243.84C257.47,-229.3 224.36,-208.84 195.53,-191.02" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.69,-188.86 189.44,-187.26 194.11,-193.03 196.69,-188.86" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M343.18,-243.84C369,-227.97 406.3,-205.05 436.97,-186.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="438.33,-188.24 443.01,-182.49 435.76,-184.07 438.33,-188.24" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M134,-91.7C134,-83.47 134,-75.21 134,-67.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.45,-67.13 134,-60.13 131.55,-67.13 136.45,-67.13" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M350.5,-356C350.5,-356 273.5,-356 273.5,-356 267.5,-356 261.5,-350 261.5,-344 261.5,-344 261.5,-328 261.5,-328 261.5,-322 267.5,-316 273.5,-316 273.5,-316 350.5,-316 350.5,-316 356.5,-316 362.5,-322 362.5,-328 362.5,-328 362.5,-344 362.5,-344 362.5,-350 356.5,-356 350.5,-356" />
+<text text-anchor="middle" x="312" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Situation</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M358.5,-284C358.5,-284 265.5,-284 265.5,-284 259.5,-284 253.5,-278 253.5,-272 253.5,-272 253.5,-256 253.5,-256 253.5,-250 259.5,-244 265.5,-244 265.5,-244 358.5,-244 358.5,-244 364.5,-244 370.5,-250 370.5,-256 370.5,-256 370.5,-272 370.5,-272 370.5,-278 364.5,-284 358.5,-284" />
+<text text-anchor="middle" x="312" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attribution</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="134,-212 0,-152 134,-92 268,-152 134,-212" />
+<text text-anchor="middle" x="134" y="-157.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dispositional</text>
+<text text-anchor="middle" x="134" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Internal)</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="491,-192 290,-152 491,-112 692,-152 491,-192" />
+<text text-anchor="middle" x="491" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Situational (External)</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M211.5,-60C211.5,-60 56.5,-60 56.5,-60 50.5,-60 44.5,-54 44.5,-48 44.5,-48 44.5,-12 44.5,-12 44.5,-6 50.5,0 56.5,0 56.5,0 211.5,0 211.5,0 217.5,0 223.5,-6 223.5,-12 223.5,-12 223.5,-48 223.5,-48 223.5,-54 217.5,-60 211.5,-60" />
+<text text-anchor="middle" x="134" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bias: Fundamental</text>
+<text text-anchor="middle" x="134" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attribution Error</text>
+</g>
+</g>
+</svg>

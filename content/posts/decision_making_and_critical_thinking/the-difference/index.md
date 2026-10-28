@@ -16,14 +16,7 @@ Scott Page's "The Difference" argues persuasively that diversity, specifically *
 The book challenges the common belief that the best approach is simply to average out individual opinions or solutions. Page demonstrates that averaging frequently leads to suboptimal results. He introduces the concept of *collective intelligence*, which emerges from the interaction and integration of various perspectives. This interaction goes beyond simple aggregation. It involves the synergistic combination of different problem-solving approaches, leading to solutions that surpass the capabilities of any single individual.
 
 
-```mermaid
-graph LR
-    A[Individual 1] --> B(Integration);
-    C[Individual 2] --> B;
-    D[Individual 3] --> B;
-    B --> E[Collective Intelligence];
-    E --> F[Superior Solution];
-```
+![Beyond Simple Averages: The Importance of Collective Intelligence. Individual 1; Integration; Individual 2; Individual 3; Collective Intelligence; Superior Solution.](diagram-01.svg)
 
 
 ##  The Three Pillars of Diversity:  Expertise, Perspective, and Approach
@@ -70,14 +63,7 @@ Page utilizes the metaphor to visualize the process of problem-solving. The peak
 
 
 
-```mermaid
-graph LR
-    A[Local Optimum 1] --> B(Landscape);
-    C[Local Optimum 2] --> B;
-    D[Global Optimum] --> B;
-    E[Diverse Approaches] --> D;
-
-```
+![The Importance of "Local Optimums" and the Solutions. Local Optimum 1; Landscape; Local Optimum 2; Global Optimum; Diverse Approaches.](diagram-02.svg)
 
 
 ##  Measuring and Assessing Diversity: Beyond Simple Demographics

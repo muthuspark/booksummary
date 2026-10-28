@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="423pt" height="148pt" viewBox="0.00 0.00 423.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Decision-Making Tools and Techniques</title><desc id="description">Option 1 leads to Criterion 1. Option 1 leads to Criterion 2. Option 1 leads to Criterion 3. Option 2 leads to Criterion 1. Option 2 leads to Criterion 2. Option 2 leads to Criterion 3. Option 3 leads to Criterion 1. Option 3 leads to Criterion 2. Option 3 leads to Criterion 3.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 405,-130 405,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M68.85,-71.87C67.02,-64.31 64.88,-55.49 62.9,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="65.17,-46.33 61.14,-40.1 60.41,-47.49 65.17,-46.33" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.02,-71.87C120.84,-63.15 138.5,-52.77 153.98,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="155.23,-45.77 160.02,-40.1 152.75,-41.54 155.23,-45.77" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121.72,-75.18C125.36,-74.07 128.98,-73 132.5,-72 189.31,-55.83 204.38,-55.06 261.5,-40 262.54,-39.73 263.58,-39.45 264.64,-39.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="265.53,-41.47 271.66,-37.29 264.26,-36.73 265.53,-41.47" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M155.34,-71.87C138.25,-63.08 117.86,-52.58 100.05,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="100.96,-41.13 93.62,-40.1 98.72,-45.49 100.96,-41.13" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192.5,-71.87C192.5,-64.31 192.5,-55.49 192.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.95,-47.1 192.5,-40.1 190.05,-47.1 194.95,-47.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229.94,-71.87C247.15,-63.08 267.69,-52.58 285.63,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="286.99,-45.47 292.11,-40.1 284.76,-41.11 286.99,-45.47" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263.46,-75.2C259.76,-74.09 256.07,-73.01 252.5,-72 196.08,-56.03 181.19,-55 124.5,-40 123.12,-39.64 121.73,-39.26 120.33,-38.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="120.63,-36.43 113.24,-36.98 119.36,-41.17 120.63,-36.43" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M279.71,-71.87C264.76,-63.15 246.96,-52.77 231.34,-43.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.53,-41.52 225.25,-40.1 230.06,-45.75 232.53,-41.52" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M317.15,-71.87C318.98,-64.31 321.12,-55.49 323.1,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="325.59,-47.49 324.86,-40.1 320.83,-46.33 325.59,-47.49" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M109.5,-112C109.5,-112 37.5,-112 37.5,-112 31.5,-112 25.5,-106 25.5,-100 25.5,-100 25.5,-84 25.5,-84 25.5,-78 31.5,-72 37.5,-72 37.5,-72 109.5,-72 109.5,-72 115.5,-72 121.5,-78 121.5,-84 121.5,-84 121.5,-100 121.5,-100 121.5,-106 115.5,-112 109.5,-112" />
+<text text-anchor="middle" x="73.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 1</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M101,-40C101,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 101,0 101,0 107,0 113,-6 113,-12 113,-12 113,-28 113,-28 113,-34 107,-40 101,-40" />
+<text text-anchor="middle" x="56.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criterion 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M238,-40C238,-40 147,-40 147,-40 141,-40 135,-34 135,-28 135,-28 135,-12 135,-12 135,-6 141,0 147,0 147,0 238,0 238,0 244,0 250,-6 250,-12 250,-12 250,-28 250,-28 250,-34 244,-40 238,-40" />
+<text text-anchor="middle" x="192.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criterion 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375,-40C375,-40 284,-40 284,-40 278,-40 272,-34 272,-28 272,-28 272,-12 272,-12 272,-6 278,0 284,0 284,0 375,0 375,0 381,0 387,-6 387,-12 387,-12 387,-28 387,-28 387,-34 381,-40 375,-40" />
+<text text-anchor="middle" x="329.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Criterion 3</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229.5,-112C229.5,-112 155.5,-112 155.5,-112 149.5,-112 143.5,-106 143.5,-100 143.5,-100 143.5,-84 143.5,-84 143.5,-78 149.5,-72 155.5,-72 155.5,-72 229.5,-72 229.5,-72 235.5,-72 241.5,-78 241.5,-84 241.5,-84 241.5,-100 241.5,-100 241.5,-106 235.5,-112 229.5,-112" />
+<text text-anchor="middle" x="192.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 2</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M349.5,-112C349.5,-112 275.5,-112 275.5,-112 269.5,-112 263.5,-106 263.5,-100 263.5,-100 263.5,-84 263.5,-84 263.5,-78 269.5,-72 275.5,-72 275.5,-72 349.5,-72 349.5,-72 355.5,-72 361.5,-78 361.5,-84 361.5,-84 361.5,-100 361.5,-100 361.5,-106 355.5,-112 349.5,-112" />
+<text text-anchor="middle" x="312.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 3</text>
+</g>
+</g>
+</svg>

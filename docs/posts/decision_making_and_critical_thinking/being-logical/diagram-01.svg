@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="293pt" height="138pt" viewBox="0.00 0.00 293.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Strengthening Arguments: The Art of Sound Reasoning</title><desc id="description">Premise 1 leads to Conclusion. Premise 2 leads to Conclusion.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 275,-120 275,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107.25,-70.63C115.65,-68.81 124.43,-66.9 133.07,-65.02" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.65,-67.4 139.97,-63.52 132.61,-62.61 133.65,-67.4" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M108.06,-31.54C116.1,-33.29 124.47,-35.11 132.72,-36.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="132.25,-39.31 139.61,-38.41 133.29,-34.52 132.25,-39.31" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M95,-102C95,-102 13,-102 13,-102 7,-102 1,-96 1,-90 1,-90 1,-74 1,-74 1,-68 7,-62 13,-62 13,-62 95,-62 95,-62 101,-62 107,-68 107,-74 107,-74 107,-90 107,-90 107,-96 101,-102 95,-102" />
+<text text-anchor="middle" x="54" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Premise 1</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M245,-71C245,-71 152,-71 152,-71 146,-71 140,-65 140,-59 140,-59 140,-43 140,-43 140,-37 146,-31 152,-31 152,-31 245,-31 245,-31 251,-31 257,-37 257,-43 257,-43 257,-59 257,-59 257,-65 251,-71 245,-71" />
+<text text-anchor="middle" x="198.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conclusion</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M96,-40C96,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 96,0 96,0 102,0 108,-6 108,-12 108,-12 108,-28 108,-28 108,-34 102,-40 96,-40" />
+<text text-anchor="middle" x="54" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Premise 2</text>
+</g>
+</g>
+</svg>

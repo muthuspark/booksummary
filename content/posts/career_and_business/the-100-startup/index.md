@@ -15,12 +15,7 @@ Chris Guillebeau's "The $100 Startup" challenges the traditional notion of needi
 
 The book emphasizes the importance of self-assessment. Before jumping into business creation, individuals must identify their unique skills, passions, and experiences. What are you good at? What do you enjoy doing? What problems can you solve? Guillebeau suggests brainstorming a list of your skills and passions and then identifying the intersection, which often represents a promising niche for a business. This self-reflection is important for building a business that is both profitable and personally fulfilling.
 
-```mermaid
-graph LR
-    A[Skills] --> B(Intersection);
-    C[Passions] --> B;
-    B --> D{Business Idea};
-```
+![Identifying Your Niche and Skills. Skills; Intersection; Passions; Business Idea.](diagram-01.svg)
 
 #  Low-Cost Business Models
 
@@ -42,13 +37,7 @@ Guillebeau emphasizes the importance of pursuing a business that aligns with per
 
 The book encourages a gradual, iterative approach to business building.  Instead of aiming for a perfect launch, Guillebeau promotes the idea of starting small, testing the market, gathering feedback, and iteratively improving the product or service.  This minimizes risk and maximizes learning.  The "minimum viable product" (MVP) concept is implicitly encouraged, focusing on delivering core value first and adding features later based on customer demand.
 
-```mermaid
-graph LR
-    A[Idea] --> B(MVP);
-    B --> C[Feedback];
-    C --> D[Iteration];
-    D --> E[Improved Product];
-```
+![The Power of Small Steps and Iterative Development. Idea; MVP; Feedback; Iteration; Improved Product.](diagram-02.svg)
 
 # Marketing and Sales Strategies
 

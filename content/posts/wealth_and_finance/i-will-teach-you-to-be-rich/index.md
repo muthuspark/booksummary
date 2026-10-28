@@ -23,13 +23,7 @@ This week shifts from tracking to action. Sethi's core philosophy is automation:
 
 The focus is on automating savings *before* paying bills or indulging in discretionary spending.  This ensures savings come first, making it easier to stick to the plan.  Diversification is crucial; Sethi advises starting with low-cost index funds to build a diversified portfolio.
 
-```mermaid
-graph LR
-    A[Income] --> B(Auto-Save);
-    B --> C{Bills};
-    B --> D{Discretionary Spending};
-    B --> E[Investments];
-```
+![Week 2: Automating Your Savings and Investments. Income; Auto-Save; Bills; Discretionary Spending; Investments.](diagram-01.svg)
 
 # Week 3: Negotiating Bills and Optimizing Expenses
 
@@ -43,12 +37,7 @@ Credit cards, used responsibly, can be powerful tools. Sethi advocates for build
 
 The advice isn't simply about paying off the minimum. Sethi suggests prioritizing high-interest debts and using debt repayment strategies like the snowball or avalanche method to accelerate the process.
 
-```mermaid
-graph LR
-    A[High-Interest Debt] --> B(Prioritize);
-    C[Low-Interest Debt] --> D(Address Later);
-    E[Debt Repayment Strategy] --> F{Snowball or Avalanche Method};
-```
+![Week 4: Building Credit and Paying Off Debt. High-Interest Debt; Prioritize; Low-Interest Debt; Address Later; Debt Repayment Strategy; Snowball or Avalanche Method.](diagram-02.svg)
 
 # Week 5: Investing for the Future:  Index Funds and Diversification
 

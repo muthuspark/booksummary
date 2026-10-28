@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="604pt" height="200pt" viewBox="0.00 0.00 604.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Awareness: Knowing Yourself</title><desc id="description">Self-Reflection leads to Journaling. Self-Reflection leads to Feedback from Others. Self-Reflection leads to Mindfulness. Journaling leads to Increased Self-Awareness. Feedback from Others leads to Increased Self-Awareness. Mindfulness leads to Increased Self-Awareness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 586,-182 586,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.26,-102.04C165.71,-109.38 193.29,-117.67 217.45,-124.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.76,-127.27 224.17,-126.94 218.17,-122.58 216.76,-127.27" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.01,-82C155.09,-82 163.45,-82 171.86,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.93,-84.45 178.93,-82 171.93,-79.55 171.93,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.26,-61.96C163.58,-55.25 188.51,-47.77 211.06,-41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.98,-43.28 217.98,-38.92 210.57,-38.59 211.98,-43.28" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M339.7,-127.14C361.32,-120.71 386.41,-113.25 409.9,-106.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="410.79,-108.56 416.8,-104.21 409.39,-103.86 410.79,-108.56" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M385.11,-82C393.33,-82 401.56,-82 409.61,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="409.94,-84.45 416.94,-82 409.94,-79.55 409.94,-84.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M346.12,-38.77C366.24,-44.75 388.79,-51.46 410.01,-57.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="409.45,-60.16 416.85,-59.8 410.84,-55.46 409.45,-60.16" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-102C135,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 135,-62 135,-62 141,-62 147,-68 147,-74 147,-74 147,-90 147,-90 147,-96 141,-102 135,-102" />
+<text text-anchor="middle" x="73.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M327.5,-164C327.5,-164 236.5,-164 236.5,-164 230.5,-164 224.5,-158 224.5,-152 224.5,-152 224.5,-136 224.5,-136 224.5,-130 230.5,-124 236.5,-124 236.5,-124 327.5,-124 327.5,-124 333.5,-124 339.5,-130 339.5,-136 339.5,-136 339.5,-152 339.5,-152 339.5,-158 333.5,-164 327.5,-164" />
+<text text-anchor="middle" x="282" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Journaling</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M373,-102C373,-102 191,-102 191,-102 185,-102 179,-96 179,-90 179,-90 179,-74 179,-74 179,-68 185,-62 191,-62 191,-62 373,-62 373,-62 379,-62 385,-68 385,-74 385,-74 385,-90 385,-90 385,-96 379,-102 373,-102" />
+<text text-anchor="middle" x="282" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback from Others</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M334,-40C334,-40 230,-40 230,-40 224,-40 218,-34 218,-28 218,-28 218,-12 218,-12 218,-6 224,0 230,0 230,0 334,0 334,0 340,0 346,-6 346,-12 346,-12 346,-28 346,-28 346,-34 340,-40 334,-40" />
+<text text-anchor="middle" x="282" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M556,-112C556,-112 429,-112 429,-112 423,-112 417,-106 417,-100 417,-100 417,-64 417,-64 417,-58 423,-52 429,-52 429,-52 556,-52 556,-52 562,-52 568,-58 568,-64 568,-64 568,-100 568,-100 568,-106 562,-112 556,-112" />
+<text text-anchor="middle" x="492.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="492.5" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+</g>
+</svg>

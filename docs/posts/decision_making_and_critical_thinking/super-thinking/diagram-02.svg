@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414pt" height="324pt" viewBox="0.00 0.00 414.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Structured Thinking: Frameworks and Methods</title><desc id="description">Structured Thinking leads to First Principles. Structured Thinking leads to 5 Whys. Structured Thinking leads to SWOT. Structured Thinking leads to Decision Matrix. Structured Thinking leads to Pre-Mortem.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 396,-306 396,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M120,-164.07C144.53,-184.33 184.69,-215.6 223,-237 228.04,-239.81 233.38,-242.51 238.81,-245.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237.82,-247.3 245.21,-247.97 239.85,-242.84 237.82,-247.3" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.13,-164.04C190.63,-172.75 223.45,-182.77 249.87,-190.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="249.38,-193.25 256.79,-192.96 250.81,-188.57 249.38,-193.25" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191.17,-144C212.7,-144 234.65,-144 253.11,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="253.26,-146.45 260.26,-144 253.26,-141.55 253.26,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M162.13,-123.96C182.82,-117.63 205.8,-110.62 226.95,-104.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.77,-106.47 233.75,-102.08 226.34,-101.78 227.77,-106.47" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M120,-123.93C144.53,-103.67 184.69,-72.4 223,-51 228.04,-48.19 233.38,-45.49 238.81,-42.95" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="239.85,-45.16 245.21,-40.03 237.82,-40.7 239.85,-45.16" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M179,-164C179,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 179,-124 179,-124 185,-124 191,-130 191,-136 191,-136 191,-152 191,-152 191,-158 185,-164 179,-164" />
+<text text-anchor="middle" x="95.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Structured Thinking</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M363.5,-288C363.5,-288 237.5,-288 237.5,-288 231.5,-288 225.5,-282 225.5,-276 225.5,-276 225.5,-260 225.5,-260 225.5,-254 231.5,-248 237.5,-248 237.5,-248 363.5,-248 363.5,-248 369.5,-248 375.5,-254 375.5,-260 375.5,-260 375.5,-276 375.5,-276 375.5,-282 369.5,-288 363.5,-288" />
+<text text-anchor="middle" x="300.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">First Principles</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M332,-226C332,-226 269,-226 269,-226 263,-226 257,-220 257,-214 257,-214 257,-198 257,-198 257,-192 263,-186 269,-186 269,-186 332,-186 332,-186 338,-186 344,-192 344,-198 344,-198 344,-214 344,-214 344,-220 338,-226 332,-226" />
+<text text-anchor="middle" x="300.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">5 Whys</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M328.5,-164C328.5,-164 272.5,-164 272.5,-164 266.5,-164 260.5,-158 260.5,-152 260.5,-152 260.5,-136 260.5,-136 260.5,-130 266.5,-124 272.5,-124 272.5,-124 328.5,-124 328.5,-124 334.5,-124 340.5,-130 340.5,-136 340.5,-136 340.5,-152 340.5,-152 340.5,-158 334.5,-164 328.5,-164" />
+<text text-anchor="middle" x="300.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">SWOT</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M366,-102C366,-102 235,-102 235,-102 229,-102 223,-96 223,-90 223,-90 223,-74 223,-74 223,-68 229,-62 235,-62 235,-62 366,-62 366,-62 372,-62 378,-68 378,-74 378,-74 378,-90 378,-90 378,-96 372,-102 366,-102" />
+<text text-anchor="middle" x="300.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Matrix</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M352.5,-40C352.5,-40 248.5,-40 248.5,-40 242.5,-40 236.5,-34 236.5,-28 236.5,-28 236.5,-12 236.5,-12 236.5,-6 242.5,0 248.5,0 248.5,0 352.5,0 352.5,0 358.5,0 364.5,-6 364.5,-12 364.5,-12 364.5,-28 364.5,-28 364.5,-34 358.5,-40 352.5,-40" />
+<text text-anchor="middle" x="300.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pre-Mortem</text>
+</g>
+</g>
+</svg>

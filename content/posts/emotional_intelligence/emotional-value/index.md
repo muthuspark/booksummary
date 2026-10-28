@@ -14,12 +14,7 @@ author: "Janelle Barlow and Dianna Maul"
 
 The authors introduce the concept of "emotional currency," representing the positive emotions we contribute to relationships. This isn't about superficial flattery; rather, it's about authentically expressing care, empathy, and understanding. Understanding your own emotional currency involves self-reflection: what positive emotions do you naturally offer? What are your strengths in building and maintaining positive connections? Identifying this forms the foundation for intentionally cultivating stronger relationships.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Identify Strengths);
-B --> C{Positive Emotions Offered};
-C --> D[Understanding Emotional Currency];
-```
+![Recognizing Your Emotional Currency. Self-Reflection; Identify Strengths; Positive Emotions Offered; Understanding Emotional Currency.](diagram-01.svg)
 
 ## The Power of Appreciation
 
@@ -33,13 +28,7 @@ The book dedicates substantial space to building strong, emotionally fulfilling 
 
 Active listening is presented as a critical skill for enhancing emotional value. It's more than just hearing words; it's about deeply understanding the speaker's emotions and perspectives. The book emphasizes techniques like empathetic listening, reflecting back what's heard, and avoiding interruptions to create a safe space for open communication. This facilitates deeper connection and strengthens relationships by demonstrating genuine care and understanding.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Empathetic Listening);
-B --> C(Reflecting Back);
-C --> D(Understanding Perspectives);
-D --> E[Strengthening Relationships];
-```
+![Active Listening: A Cornerstone of Emotional Value. Active Listening; Empathetic Listening; Reflecting Back; Understanding Perspectives; Strengthening Relationships.](diagram-02.svg)
 
 ## Emotional Intelligence: Navigating Complexities
 

@@ -21,10 +21,7 @@ Reciprocity is the fundamental human tendency to repay what we receive. This pri
 * **Be aware of "rejection-then-retreat":** This tactic involves making an initial large request (likely to be refused) followed by a smaller, more reasonable request (the actual goal).  The smaller request feels like a concession, increasing its appeal due to reciprocity.
 * **Don't feel obligated to reciprocate undesirable actions:** Manipulative attempts using reciprocity should be identified, and don't feel forced to repay undesired favors or gifts.
 
-```mermaid
-graph LR
-A[Initial Favor/Gift] --> B(Obligation to Reciprocate) --> C[Positive Response/Compliance]
-```
+![Reciprocity: The Power of Obligation. Initial Favor/Gift; Obligation to Reciprocate; Positive Response/Compliance.](diagram-01.svg)
 
 ## Commitment and Consistency: The Drive for Self-Image
 
@@ -37,10 +34,7 @@ Humans have a strong desire to be consistent with their previous commitments, ac
 * **Get commitments in writing or publicly:**  Publicly stated commitments are powerful. Written confirmation enhances this effect.
 * **Be mindful of your own commitments:** Before committing to something significant, evaluate the reasons behind it; don't let the desire for consistency lead to poor decisions.
 
-```mermaid
-graph LR
-A[Small Commitment] --> B[Increased Consistency] --> C[Larger Commitment/Compliance]
-```
+![Commitment and Consistency: The Drive for Self-Image. Small Commitment; Increased Consistency; Larger Commitment/Compliance.](diagram-02.svg)
 
 ## Social Proof: Following the Crowd
 
@@ -53,10 +47,7 @@ We tend to look to others for guidance on how to behave, particularly in uncerta
 * **Create a sense of urgency or scarcity:**  Highlighting limited availability often increases perceived desirability.
 * **Be wary of manipulated social proof:** When social proof is fabricated or not representative of a broader population.
 
-```mermaid
-graph LR
-A[Uncertainty] --> B[Observing Others' Behavior] --> C[Mimicking/Compliance]
-```
+![Social Proof: Following the Crowd. Uncertainty; Observing Others' Behavior; Mimicking/Compliance.](diagram-03.svg)
 
 ## Liking: The Magnetism of Attraction
 
@@ -69,10 +60,7 @@ We're more likely to say "yes" to people we like. Liking is influenced by variou
 * **Use flattery (sparingly and authentically):**  Genuine compliments are effective, but insincere flattery can backfire.
 * **Associate with positive things:**  Connect your product, message, or idea with positive images or experiences.
 
-```mermaid
-graph LR
-A[Liking] --> B[Trust and Compliance] --> C[Positive Outcomes]
-```
+![Liking: The Magnetism of Attraction. Liking; Trust and Compliance; Positive Outcomes.](diagram-04.svg)
 
 
 ## Authority: The Power of Expertise
@@ -86,10 +74,7 @@ We tend to obey authority figures, even if their requests are questionable. This
 * **Cite credible sources:** Support your arguments with evidence from reputable experts.
 * **Question authority when necessary:**  Don't blindly obey authority figures if their demands seem unethical or illogical.
 
-```mermaid
-graph LR
-A[Authority Figure] --> B[Automatic Compliance] --> C[Acceptance of Request]
-```
+![Authority: The Power of Expertise. Authority Figure; Automatic Compliance; Acceptance of Request.](diagram-05.svg)
 
 
 ## Scarcity: The Power of Limited Availability
@@ -103,10 +88,7 @@ The perceived scarcity of something increases its desirability. This principle p
 * **Emphasize unique qualities:**  Highlight what makes the product or opportunity special and hard to find.
 * **Avoid being manipulated by scarcity tactics:**  Don't succumb to pressure solely because something is scarce; carefully evaluate its actual value.
 
-```mermaid
-graph LR
-A[Limited Availability] --> B[Increased Desirability] --> C[Higher Demand/Compliance]
-```
+![Scarcity: The Power of Limited Availability. Limited Availability; Increased Desirability; Higher Demand/Compliance.](diagram-06.svg)
 
 
 ## Ethical Application of Influence

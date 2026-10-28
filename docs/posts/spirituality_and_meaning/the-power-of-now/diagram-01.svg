@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="721pt" height="332pt" viewBox="0.00 0.00 720.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying and Transcending the Ego</title><desc id="description">Ego leads to Pain Body. Pain Body leads to Suffering. Ego leads to Fear of Future. Ego leads to Attachment to Past. Ego leads to Self-Criticism. Suffering leads to Discontentment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 702.5,-314 702.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M313.45,-266.42C276.43,-255.66 212.03,-236.96 164.01,-223.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.45,-220.59 157.04,-220.99 163.08,-225.29 164.45,-220.59" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M317.86,-255.87C306.7,-247.38 293.47,-237.32 281.74,-228.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="283.16,-226.39 276.11,-224.1 280.2,-230.29 283.16,-226.39" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M368.14,-255.87C379.3,-247.38 392.53,-237.32 404.26,-228.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="405.8,-230.29 409.89,-224.1 402.84,-226.39 405.8,-230.29" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M372.74,-267.38C412.63,-257.15 484.86,-238.63 540.29,-224.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="541.13,-226.73 547.3,-222.61 539.91,-221.98 541.13,-226.73" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-183.91C102,-176.58 102,-167.86 102,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-159.07 102,-152.07 99.55,-159.07 104.45,-159.07" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-71.79C102,-63.54 102,-55.04 102,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-47.09 102,-40.09 99.55,-47.09 104.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M360.5,-296C360.5,-296 325.5,-296 325.5,-296 319.5,-296 313.5,-290 313.5,-284 313.5,-284 313.5,-268 313.5,-268 313.5,-262 319.5,-256 325.5,-256 325.5,-256 360.5,-256 360.5,-256 366.5,-256 372.5,-262 372.5,-268 372.5,-268 372.5,-284 372.5,-284 372.5,-290 366.5,-296 360.5,-296" />
+<text text-anchor="middle" x="343" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ego</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M145,-224C145,-224 59,-224 59,-224 53,-224 47,-218 47,-212 47,-212 47,-196 47,-196 47,-190 53,-184 59,-184 59,-184 145,-184 145,-184 151,-184 157,-190 157,-196 157,-196 157,-212 157,-212 157,-218 151,-224 145,-224" />
+<text text-anchor="middle" x="102" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pain Body</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="102,-152 0,-112 102,-72 204,-112 102,-152" />
+<text text-anchor="middle" x="102" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Suffering</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M310.5,-224C310.5,-224 191.5,-224 191.5,-224 185.5,-224 179.5,-218 179.5,-212 179.5,-212 179.5,-196 179.5,-196 179.5,-190 185.5,-184 191.5,-184 191.5,-184 310.5,-184 310.5,-184 316.5,-184 322.5,-190 322.5,-196 322.5,-196 322.5,-212 322.5,-212 322.5,-218 316.5,-224 310.5,-224" />
+<text text-anchor="middle" x="251" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear of Future</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M513,-224C513,-224 357,-224 357,-224 351,-224 345,-218 345,-212 345,-212 345,-196 345,-196 345,-190 351,-184 357,-184 357,-184 513,-184 513,-184 519,-184 525,-190 525,-196 525,-196 525,-212 525,-212 525,-218 519,-224 513,-224" />
+<text text-anchor="middle" x="435" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attachment to Past</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M672.5,-224C672.5,-224 559.5,-224 559.5,-224 553.5,-224 547.5,-218 547.5,-212 547.5,-212 547.5,-196 547.5,-196 547.5,-190 553.5,-184 559.5,-184 559.5,-184 672.5,-184 672.5,-184 678.5,-184 684.5,-190 684.5,-196 684.5,-196 684.5,-212 684.5,-212 684.5,-218 678.5,-224 672.5,-224" />
+<text text-anchor="middle" x="616" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Criticism</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M168,-40C168,-40 36,-40 36,-40 30,-40 24,-34 24,-28 24,-28 24,-12 24,-12 24,-6 30,0 36,0 36,0 168,0 168,0 174,0 180,-6 180,-12 180,-12 180,-28 180,-28 180,-34 174,-40 168,-40" />
+<text text-anchor="middle" x="102" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Discontentment</text>
+</g>
+</g>
+</svg>

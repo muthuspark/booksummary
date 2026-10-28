@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="825pt" height="332pt" viewBox="0.00 0.00 824.50 332.00" role="img" aria-labelledby="title description">
+<title id="title">Visualizing the Strategy:  A Simple Diagram</title><desc id="description">Income leads to Pay Yourself First. Pay Yourself First leads to Savings &amp; Investments. Pay Yourself First leads to Emergency Fund. Income leads to Expenses. Expenses leads to Debt Repayment. Savings &amp; Investments leads to Financial Security. Emergency Fund leads to Financial Security. Debt Repayment leads to Financial Security.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 806.5,-314 806.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M578.41,-255.87C569.01,-247.54 557.88,-237.68 547.94,-228.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="549.43,-226.91 542.56,-224.1 546.18,-230.58 549.43,-226.91" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M625.41,-255.87C636.69,-247.38 650.07,-237.32 661.93,-228.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="663.5,-230.27 667.62,-224.1 660.55,-226.36 663.5,-230.27" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M454.62,-183.91C408.52,-170.66 346.58,-152.85 296.32,-138.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="296.71,-135.96 289.31,-136.38 295.36,-140.67 296.71,-135.96" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M521,-183.91C521,-170.91 521,-153.52 521,-139.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="523.45,-139.06 521,-132.06 518.55,-139.06 523.45,-139.06" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M289.42,-87.59C338.45,-73.49 400.37,-55.69 447.84,-42.04" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="448.68,-44.34 454.73,-40.05 447.33,-39.63 448.68,-44.34" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M521,-91.91C521,-78.91 521,-61.52 521,-47.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="523.45,-47.06 521,-40.06 518.55,-47.06 523.45,-47.06" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M695.97,-183.91C697.99,-170.91 700.7,-153.52 702.92,-139.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="705.38,-139.35 704.04,-132.06 700.54,-138.6 705.38,-139.35" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M667.55,-91.91C638.09,-77.65 597.73,-58.13 566.83,-43.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="567.76,-40.9 560.39,-40.06 565.62,-45.31 567.76,-40.9" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M632.5,-296C632.5,-296 567.5,-296 567.5,-296 561.5,-296 555.5,-290 555.5,-284 555.5,-284 555.5,-268 555.5,-268 555.5,-262 561.5,-256 567.5,-256 567.5,-256 632.5,-256 632.5,-256 638.5,-256 644.5,-262 644.5,-268 644.5,-268 644.5,-284 644.5,-284 644.5,-290 638.5,-296 632.5,-296" />
+<text text-anchor="middle" x="600" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Income</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M594,-224C594,-224 448,-224 448,-224 442,-224 436,-218 436,-212 436,-212 436,-196 436,-196 436,-190 442,-184 448,-184 448,-184 594,-184 594,-184 600,-184 606,-190 606,-196 606,-196 606,-212 606,-212 606,-218 600,-224 594,-224" />
+<text text-anchor="middle" x="521" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pay Yourself First</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="208,-152 0,-112 208,-72 416,-112 208,-152" />
+<text text-anchor="middle" x="208" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Savings &amp; Investments</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M591.5,-132C591.5,-132 450.5,-132 450.5,-132 444.5,-132 438.5,-126 438.5,-120 438.5,-120 438.5,-104 438.5,-104 438.5,-98 444.5,-92 450.5,-92 450.5,-92 591.5,-92 591.5,-92 597.5,-92 603.5,-98 603.5,-104 603.5,-104 603.5,-120 603.5,-120 603.5,-126 597.5,-132 591.5,-132" />
+<text text-anchor="middle" x="521" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emergency Fund</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M733,-224C733,-224 653,-224 653,-224 647,-224 641,-218 641,-212 641,-212 641,-196 641,-196 641,-190 647,-184 653,-184 653,-184 733,-184 733,-184 739,-184 745,-190 745,-196 745,-196 745,-212 745,-212 745,-218 739,-224 733,-224" />
+<text text-anchor="middle" x="693" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expenses</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M776.5,-132C776.5,-132 637.5,-132 637.5,-132 631.5,-132 625.5,-126 625.5,-120 625.5,-120 625.5,-104 625.5,-104 625.5,-98 631.5,-92 637.5,-92 637.5,-92 776.5,-92 776.5,-92 782.5,-92 788.5,-98 788.5,-104 788.5,-104 788.5,-120 788.5,-120 788.5,-126 782.5,-132 776.5,-132" />
+<text text-anchor="middle" x="707" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Debt Repayment</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M595,-40C595,-40 447,-40 447,-40 441,-40 435,-34 435,-28 435,-28 435,-12 435,-12 435,-6 441,0 447,0 447,0 595,0 595,0 601,0 607,-6 607,-12 607,-12 607,-28 607,-28 607,-34 601,-40 595,-40" />
+<text text-anchor="middle" x="521" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Security</text>
+</g>
+</g>
+</svg>

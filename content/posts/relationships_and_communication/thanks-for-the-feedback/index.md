@@ -20,15 +20,7 @@ The book identifies three common, detrimental reactions to feedback:
 
 3. **The "It's not helpful" reaction:** This manifests as a feeling of helplessness or frustration. The feedback may seem too vague, irrelevant, or overwhelming, rendering it useless for improvement.
 
-```mermaid
-graph LR
-    A[Feedback Received] --> B{It's Not True?};
-    A --> C{It's Not Fair?};
-    A --> D{It's Not Helpful?};
-    B --> E[Denial/Dismissal];
-    C --> F[Resentment/Anger];
-    D --> G[Helplessness/Frustration];
-```
+![The Three Reactions to Feedback. Feedback Received; It's Not True?; It's Not Fair?; It's Not Helpful?; Denial/Dismissal; Resentment/Anger; Helplessness/Frustration.](diagram-01.svg)
 
 ## Reframing Feedback:  From Attack to Information
 

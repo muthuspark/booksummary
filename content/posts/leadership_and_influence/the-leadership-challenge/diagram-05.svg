@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="247pt" height="332pt" viewBox="0.00 0.00 247.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Encouraging the Heart</title><desc id="description">Celebrating Accomplishments leads to Creating a Positive Climate. Creating a Positive Climate leads to Building Relationships. Building Relationships leads to Encouraging the Heart.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 229,-314 229,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.5,-235.53C105.5,-227.84 105.5,-219.45 105.5,-211.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.95,-211.23 105.5,-204.23 103.05,-211.23 107.95,-211.23" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.5,-143.67C105.5,-135.77 105.5,-127.28 105.5,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.95,-119.12 105.5,-112.12 103.05,-119.12 107.95,-119.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M105.5,-71.87C105.5,-64.31 105.5,-55.49 105.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.95,-47.1 105.5,-40.1 103.05,-47.1 107.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M178.5,-296C178.5,-296 32.5,-296 32.5,-296 26.5,-296 20.5,-290 20.5,-284 20.5,-284 20.5,-248 20.5,-248 20.5,-242 26.5,-236 32.5,-236 32.5,-236 178.5,-236 178.5,-236 184.5,-236 190.5,-242 190.5,-248 190.5,-248 190.5,-284 190.5,-284 190.5,-290 184.5,-296 178.5,-296" />
+<text text-anchor="middle" x="105.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Celebrating</text>
+<text text-anchor="middle" x="105.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accomplishments</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M182,-204C182,-204 29,-204 29,-204 23,-204 17,-198 17,-192 17,-192 17,-156 17,-156 17,-150 23,-144 29,-144 29,-144 182,-144 182,-144 188,-144 194,-150 194,-156 194,-156 194,-192 194,-192 194,-198 188,-204 182,-204" />
+<text text-anchor="middle" x="105.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creating a Positive</text>
+<text text-anchor="middle" x="105.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Climate</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198.5,-112C198.5,-112 12.5,-112 12.5,-112 6.5,-112 0.5,-106 0.5,-100 0.5,-100 0.5,-84 0.5,-84 0.5,-78 6.5,-72 12.5,-72 12.5,-72 198.5,-72 198.5,-72 204.5,-72 210.5,-78 210.5,-84 210.5,-84 210.5,-100 210.5,-100 210.5,-106 204.5,-112 198.5,-112" />
+<text text-anchor="middle" x="105.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Building Relationships</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M199,-40C199,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 199,0 199,0 205,0 211,-6 211,-12 211,-12 211,-28 211,-28 211,-34 205,-40 199,-40" />
+<text text-anchor="middle" x="105.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Encouraging the Heart</text>
+</g>
+</g>
+</svg>

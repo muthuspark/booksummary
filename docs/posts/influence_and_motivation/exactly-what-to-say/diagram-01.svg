@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="374pt" height="372pt" viewBox="0.00 0.00 374.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Communication Style and Goals</title><desc id="description">Self-Assessment leads to Identify Strengths &amp; Weaknesses. Identify Strengths &amp; Weaknesses leads to Set SMART Goals. Set SMART Goals leads to Targeted Communication Strategies.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 356,-354 356,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169,-295.63C169,-288.34 169,-279.78 169,-271.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.45,-271.19 169,-264.19 166.55,-271.19 171.45,-271.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169,-203.81C169,-196.06 169,-187.5 169,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.45,-179.09 169,-172.09 166.55,-179.09 171.45,-179.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169,-91.76C169,-83.72 169,-75.29 169,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.45,-67.23 169,-60.23 166.55,-67.23 171.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M236,-336C236,-336 102,-336 102,-336 96,-336 90,-330 90,-324 90,-324 90,-308 90,-308 90,-302 96,-296 102,-296 102,-296 236,-296 236,-296 242,-296 248,-302 248,-308 248,-308 248,-324 248,-324 248,-330 242,-336 236,-336" />
+<text text-anchor="middle" x="169" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Assessment</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251.5,-264C251.5,-264 86.5,-264 86.5,-264 80.5,-264 74.5,-258 74.5,-252 74.5,-252 74.5,-216 74.5,-216 74.5,-210 80.5,-204 86.5,-204 86.5,-204 251.5,-204 251.5,-204 257.5,-204 263.5,-210 263.5,-216 263.5,-216 263.5,-252 263.5,-252 263.5,-258 257.5,-264 251.5,-264" />
+<text text-anchor="middle" x="169" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Strengths &amp;</text>
+<text text-anchor="middle" x="169" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Weaknesses</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="169,-172 0,-132 169,-92 338,-132 169,-172" />
+<text text-anchor="middle" x="169" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Set SMART Goals</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M273,-60C273,-60 65,-60 65,-60 59,-60 53,-54 53,-48 53,-48 53,-12 53,-12 53,-6 59,0 65,0 65,0 273,0 273,0 279,0 285,-6 285,-12 285,-12 285,-48 285,-48 285,-54 279,-60 273,-60" />
+<text text-anchor="middle" x="169" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Targeted Communication</text>
+<text text-anchor="middle" x="169" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategies</text>
+</g>
+</g>
+</svg>

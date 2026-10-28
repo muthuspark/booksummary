@@ -23,13 +23,7 @@ The core of Van der Kolk's argument lies in the body's central role in both expe
 
 The book provides a detailed exploration of how trauma affects different parts of the brain.  The amygdala, responsible for processing fear, becomes hyperactive, leading to exaggerated fear responses. The prefrontal cortex, responsible for executive functions like planning and self-regulation, becomes less effective. This disruption in brain function explains the challenges trauma survivors face in managing emotions, thoughts, and behaviors.
 
-```mermaid
-graph LR
-    A["Amygdala (Fear Processing)"] --> B(Hyperactive);
-    C["Prefrontal Cortex (Executive Function)"] --> D(Hypoactive);
-    B --> E{Trauma Response};
-    D --> E;
-```
+![The Brain Under Stress: A Neurobiological Perspective. Amygdala (Fear Processing); Hyperactive; Prefrontal Cortex (Executive Function); Hypoactive; Trauma Response.](diagram-01.svg)
 
 ### Pathways to Healing: Rebuilding the Body-Mind Connection
 

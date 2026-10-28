@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406pt" height="496pt" viewBox="0.00 0.00 406.00 496.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Decision Theory Fundamentals</title><desc id="description">Decision Problem leads to Identify Options. Identify Options leads to Assess Probabilities. Assess Probabilities leads to Evaluate Utilities. Evaluate Utilities leads to Calculate Expected Utility. Calculate Expected Utility leads to Choose Optimal Option.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 478)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-478 388,-478 388,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-419.87C185,-412.31 185,-403.49 185,-395.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-395.1 185,-388.1 182.55,-395.1 187.45,-395.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-347.91C185,-340.58 185,-331.86 185,-323.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-323.07 185,-316.07 182.55,-323.07 187.45,-323.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-235.79C185,-227.54 185,-219.04 185,-211.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-211.09 185,-204.09 182.55,-211.09 187.45,-211.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-163.63C185,-156.34 185,-147.78 185,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-139.19 185,-132.19 182.55,-139.19 187.45,-139.19" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-71.67C185,-63.77 185,-55.28 185,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-47.12 185,-40.12 182.55,-47.12 187.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-460C258,-460 112,-460 112,-460 106,-460 100,-454 100,-448 100,-448 100,-432 100,-432 100,-426 106,-420 112,-420 112,-420 258,-420 258,-420 264,-420 270,-426 270,-432 270,-432 270,-448 270,-448 270,-454 264,-460 258,-460" />
+<text text-anchor="middle" x="185" y="-435.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252.5,-388C252.5,-388 117.5,-388 117.5,-388 111.5,-388 105.5,-382 105.5,-376 105.5,-376 105.5,-360 105.5,-360 105.5,-354 111.5,-348 117.5,-348 117.5,-348 252.5,-348 252.5,-348 258.5,-348 264.5,-354 264.5,-360 264.5,-360 264.5,-376 264.5,-376 264.5,-382 258.5,-388 252.5,-388" />
+<text text-anchor="middle" x="185" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Options</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-316 0,-276 185,-236 370,-276 185,-316" />
+<text text-anchor="middle" x="185" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assess Probabilities</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M256,-204C256,-204 114,-204 114,-204 108,-204 102,-198 102,-192 102,-192 102,-176 102,-176 102,-170 108,-164 114,-164 114,-164 256,-164 256,-164 262,-164 268,-170 268,-176 268,-176 268,-192 268,-192 268,-198 262,-204 256,-204" />
+<text text-anchor="middle" x="185" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluate Utilities</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M263.5,-132C263.5,-132 106.5,-132 106.5,-132 100.5,-132 94.5,-126 94.5,-120 94.5,-120 94.5,-84 94.5,-84 94.5,-78 100.5,-72 106.5,-72 106.5,-72 263.5,-72 263.5,-72 269.5,-72 275.5,-78 275.5,-84 275.5,-84 275.5,-120 275.5,-120 275.5,-126 269.5,-132 263.5,-132" />
+<text text-anchor="middle" x="185" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Calculate Expected</text>
+<text text-anchor="middle" x="185" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Utility</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M281,-40C281,-40 89,-40 89,-40 83,-40 77,-34 77,-28 77,-28 77,-12 77,-12 77,-6 83,0 89,0 89,0 281,0 281,0 287,0 293,-6 293,-12 293,-12 293,-28 293,-28 293,-34 287,-40 281,-40" />
+<text text-anchor="middle" x="185" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose Optimal Option</text>
+</g>
+</g>
+</svg>

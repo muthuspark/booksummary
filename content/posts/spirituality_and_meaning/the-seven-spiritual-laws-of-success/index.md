@@ -90,22 +90,7 @@ This law emphasizes discovering and fulfilling your unique purpose.  It involves
 
 The seven laws are not isolated principles but interconnected aspects of a system. They work synergistically, supporting and reinforcing each other. For example, the Law of Giving supports the Law of Karma by creating positive karmic cycles, while the Law of Least Effort facilitates the manifestation of desires through the Law of Intention and Desire.
 
-```mermaid
-graph LR
-    A[Pure Potentiality] --> B(Giving);
-    A --> C(Karma);
-    A --> D(Least Effort);
-    A --> E(Intention & Desire);
-    A --> F(Detachment);
-    A --> G(Dharma);
-    B --> C;
-    C --> D;
-    D --> E;
-    E --> F;
-    F --> G;
-    G --> B;
-
-```
+![Interconnectedness of the Seven Laws. Pure Potentiality; Giving; Karma; Least Effort; Intention & Desire; Detachment; Dharma.](diagram-01.svg)
 
 
 ###  Applying the Laws for Practical Success

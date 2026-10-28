@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="828pt" height="360pt" viewBox="0.00 0.00 828.00 360.00" role="img" aria-labelledby="title description">
+<title id="title">Framing the Problem: The Power of Perspective</title><desc id="description">Define the Problem leads to Understand Context. Define the Problem leads to Identify Stakeholders. Define the Problem leads to Define Desired Outcomes. Understand Context leads to Clear Problem Statement. Identify Stakeholders leads to Clear Problem Statement. Define Desired Outcomes leads to Clear Problem Statement.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 342)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-342 810,-342 810,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M137.8,-202.07C161.08,-212.16 190.26,-224.1 217,-233 249.38,-243.78 285.36,-253.62 317.72,-261.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="317.19,-264.12 324.57,-263.43 318.37,-259.36 317.19,-264.12" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185.05,-182C193.05,-182 201.34,-182 209.8,-182" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.96,-184.45 216.96,-182 209.95,-179.55 209.96,-184.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.49,-161.96C163.46,-152.33 191.56,-140.78 217,-131 253.43,-116.99 293.96,-102.36 328.88,-90.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330,-92.25 335.79,-87.61 328.37,-87.63 330,-92.25" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M512.39,-264.12C545.9,-255.94 583.57,-245.44 617,-233 630.53,-227.97 644.63,-221.68 657.89,-215.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="659.12,-217.39 664.32,-212.11 656.96,-212.99 659.12,-217.39" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M617.01,-182C625.5,-182 633.77,-182 641.69,-182" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="641.85,-184.45 648.85,-182 641.85,-179.55 641.85,-184.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M500.17,-86.86C536.38,-99.32 579.19,-114.92 617,-131 629.62,-136.37 642.87,-142.54 655.51,-148.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="654.7,-151.03 662.06,-151.92 656.86,-146.64 654.7,-151.03" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-202C173,-202 12,-202 12,-202 6,-202 0,-196 0,-190 0,-190 0,-174 0,-174 0,-168 6,-162 12,-162 12,-162 173,-162 173,-162 179,-162 185,-168 185,-174 185,-174 185,-190 185,-190 185,-196 179,-202 173,-202" />
+<text text-anchor="middle" x="92.5" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define the Problem</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="417,-324 228,-284 417,-244 606,-284 417,-324" />
+<text text-anchor="middle" x="417" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand Context</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="417,-222 217,-182 417,-142 617,-182 417,-222" />
+<text text-anchor="middle" x="417" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Stakeholders</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="417,-120 268,-60 417,0 566,-60 417,-120" />
+<text text-anchor="middle" x="417" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Desired</text>
+<text text-anchor="middle" x="417" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcomes</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M780,-212C780,-212 661,-212 661,-212 655,-212 649,-206 649,-200 649,-200 649,-164 649,-164 649,-158 655,-152 661,-152 661,-152 780,-152 780,-152 786,-152 792,-158 792,-164 792,-164 792,-200 792,-200 792,-206 786,-212 780,-212" />
+<text text-anchor="middle" x="720.5" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clear Problem</text>
+<text text-anchor="middle" x="720.5" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Statement</text>
+</g>
+</g>
+</svg>

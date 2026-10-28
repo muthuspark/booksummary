@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600pt" height="200pt" viewBox="0.00 0.00 600.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">The Happiness Advantage in the Workplace</title><desc id="description">Happy Employee leads to Increased Productivity. Happy Employee leads to Reduced Stress. Happy Employee leads to Improved Creativity. Increased Productivity leads to Increased Profitability. Reduced Stress leads to Increased Profitability. Improved Creativity leads to Increased Profitability.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 582,-182 582,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.98,-102.04C177.3,-108.39 202.09,-115.44 224.89,-121.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="224.49,-124.36 231.89,-123.92 225.83,-119.65 224.49,-124.36" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.23,-82C184.62,-82 202.96,-82 220.33,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="220.7,-84.45 227.7,-82 220.7,-79.55 220.7,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.98,-61.96C177.3,-55.61 202.09,-48.56 224.89,-42.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.83,-44.35 231.89,-40.08 224.49,-39.64 225.83,-44.35" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M372.51,-123.95C384.36,-120.37 396.55,-116.62 408,-113 416.13,-110.43 424.64,-107.68 433.07,-104.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="433.92,-107.21 439.81,-102.69 432.39,-102.56 433.92,-107.21" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M379.07,-82C396.64,-82 415.29,-82 432.58,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="432.9,-84.45 439.9,-82 432.9,-79.55 432.9,-84.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M372.51,-40.05C384.36,-43.63 396.55,-47.38 408,-51 416.13,-53.57 424.64,-56.32 433.07,-59.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="432.39,-61.44 439.81,-61.31 433.92,-56.79 432.39,-61.44" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-102C155,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 155,-62 155,-62 161,-62 167,-68 167,-74 167,-74 167,-90 167,-90 167,-96 161,-102 155,-102" />
+<text text-anchor="middle" x="83.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Happy Employee</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M396,-164C396,-164 211,-164 211,-164 205,-164 199,-158 199,-152 199,-152 199,-136 199,-136 199,-130 205,-124 211,-124 211,-124 396,-124 396,-124 402,-124 408,-130 408,-136 408,-136 408,-152 408,-152 408,-158 402,-164 396,-164" />
+<text text-anchor="middle" x="303.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Productivity</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M367,-102C367,-102 240,-102 240,-102 234,-102 228,-96 228,-90 228,-90 228,-74 228,-74 228,-68 234,-62 240,-62 240,-62 367,-62 367,-62 373,-62 379,-68 379,-74 379,-74 379,-90 379,-90 379,-96 373,-102 367,-102" />
+<text text-anchor="middle" x="303.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Stress</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M386,-40C386,-40 221,-40 221,-40 215,-40 209,-34 209,-28 209,-28 209,-12 209,-12 209,-6 215,0 221,0 221,0 386,0 386,0 392,0 398,-6 398,-12 398,-12 398,-28 398,-28 398,-34 392,-40 386,-40" />
+<text text-anchor="middle" x="303.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Creativity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M552,-112C552,-112 452,-112 452,-112 446,-112 440,-106 440,-100 440,-100 440,-64 440,-64 440,-58 446,-52 452,-52 452,-52 552,-52 552,-52 558,-52 564,-58 564,-64 564,-64 564,-100 564,-100 564,-106 558,-112 552,-112" />
+<text text-anchor="middle" x="502" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased</text>
+<text text-anchor="middle" x="502" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Profitability</text>
+</g>
+</g>
+</svg>

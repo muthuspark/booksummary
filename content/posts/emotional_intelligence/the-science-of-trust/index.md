@@ -22,13 +22,7 @@ Effective communication is critical in building and maintaining trust. Gottman h
 
 Furthermore, understanding and addressing negative emotions is crucial. Gottman emphasizes the significance of **repair attempts**, actions taken to de-escalate conflict and restore positive connection. Successful repair attempts rebuild trust after disagreements, highlighting the importance of mutual respect and forgiveness. Unsuccessful repair attempts, however, can damage trust.
 
-```mermaid
-graph LR
-    A[Bid] --> B{Positive Response};
-    B --> C[Trust Strengthened];
-    A --> D{Negative Response};
-    D --> E[Trust Eroded];
-```
+![The Role of Communication: Building Bridges. Bid; Positive Response; Trust Strengthened; Negative Response; Trust Eroded.](diagram-01.svg)
 
 ## The Impact of Physiological Responses: Reading the Signals
 
@@ -56,16 +50,7 @@ Gottman provides numerous actionable strategies to build trust in various relati
 * **Forgiveness:** Learn to forgive yourself and others, as holding onto grudges erodes trust and hinders positive relationships.
 * **Vulnerability:** Share your thoughts and feelings openly and honestly.  Vulnerability strengthens bonds and fosters intimacy.
 
-```mermaid
-graph LR
-    A[Active Listening] --> B(Stronger Connection);
-    C[Empathy & Validation] --> B;
-    D[Self-Awareness] --> E(Improved Communication);
-    F[Conflict Resolution] --> E;
-    G[Forgiveness] --> H(Healing & Growth);
-    I[Vulnerability] --> H;
-
-```
+![Key Strategies for Improving Trust: Practical Advice. Active Listening; Stronger Connection; Empathy & Validation; Self-Awareness; Improved Communication; Conflict Resolution; Forgiveness; Healing & Growth; Vulnerability.](diagram-02.svg)
 
 
 ## The Role of Shared Meaning: Creating a Collective Narrative

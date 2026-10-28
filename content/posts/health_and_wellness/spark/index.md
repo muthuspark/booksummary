@@ -22,15 +22,7 @@ The core message of "Spark" is that exercise should be considered an important c
 
 The book explores various forms of exercise and their unique effects on the brain.  While aerobic exercise (like running, swimming, and cycling) is highlighted for its cardiovascular benefits and its ability to boost mood and cognitive function, Ratey also emphasizes the importance of strength training and flexibility exercises.  Each contributes to overall brain health in distinct ways.
 
-```mermaid
-graph LR
-    A[Aerobic Exercise] --> B(Mood Improvement);
-    A --> C(Cognitive Enhancement);
-    D[Strength Training] --> E(Improved Focus);
-    D --> F(Increased Energy);
-    G[Flexibility Exercise] --> H(Stress Reduction);
-    G --> I(Improved Balance);
-```
+![Types of Exercise and Their Brain Benefits. Aerobic Exercise; Mood Improvement; Cognitive Enhancement; Strength Training; Improved Focus; Increased Energy; Flexibility Exercise; Stress Reduction; Improved Balance.](diagram-01.svg)
 
 ##  Actionable Strategies for Incorporating Exercise
 

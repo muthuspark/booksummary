@@ -26,13 +26,7 @@ Sustainable change comes from tapping into intrinsic motivation. This involves f
 
 * **Connection:** Building strong relationships and a supportive work environment strengthens team cohesion and improves morale.  Open communication and collaboration are key.
 
-```mermaid
-graph LR
-    A[Intrinsic Motivation] --> B(Purpose);
-    A --> C(Autonomy);
-    A --> D(Mastery);
-    A --> E(Connection);
-```
+![Intrinsic Motivation: The Key to Sustainable Engagement. Intrinsic Motivation; Purpose; Autonomy; Mastery; Connection.](diagram-01.svg)
 
 ### Understanding Individual Needs and Differences
 

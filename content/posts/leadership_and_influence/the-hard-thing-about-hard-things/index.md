@@ -14,13 +14,7 @@ Ben Horowitz's "The Hard Thing About Hard Things" isn't your typical business se
 
 Horowitz emphasizes the importance of facing reality, even when it's unpleasant.  He argues against the prevalent positivity culture, stating that successful leaders must confront difficult truths and make tough decisions, even when it means making unpopular choices.  Ignoring problems only exacerbates them.  He stresses the importance of self-awareness, particularly understanding your own weaknesses and biases.
 
-```mermaid
-graph LR
-A[Reality] --> B(Confrontation);
-B --> C{Tough Decisions};
-C --> D[Successful Outcome];
-C --> E[Difficult, but Necessary];
-```
+![Facing the Brutal Facts. Reality; Confrontation; Tough Decisions; Successful Outcome; Difficult, but Necessary.](diagram-01.svg)
 
 ## The Importance of a Strong Team
 
@@ -39,14 +33,7 @@ The book dedicates significant space to navigating difficult times, like periods
 
 Finding product-market fit is a critical challenge for any startup. Horowitz stresses the importance of iteration, customer feedback, and a willingness to pivot when necessary. He explains that the process is rarely straightforward and often requires perseverance, even when the early indicators are discouraging. He highlights the need to understand the customer's needs deeply.
 
-```mermaid
-graph LR
-A[Idea] --> B(Prototype);
-B --> C[Feedback];
-C --> D{Iteration};
-D --> E[Product-Market Fit];
-D --> F(Pivot);
-```
+![Dealing with Product-Market Fit. Idea; Prototype; Feedback; Iteration; Product-Market Fit; Pivot.](diagram-02.svg)
 
 ## The Role of Culture
 

@@ -27,12 +27,7 @@ Pink identifies three key elements of intrinsic motivation:
 * **Purpose:** The yearning to do what we do for something larger than ourselves.  It's about connecting our work to a meaningful cause or mission, giving our efforts significance beyond personal gain.
 
 
-```mermaid
-graph LR
-    A[Intrinsic Motivation] --> B(Autonomy);
-    A --> C(Mastery);
-    A --> D(Purpose);
-```
+![The Three Elements of Intrinsic Motivation: Autonomy, Mastery, and Purpose. Intrinsic Motivation; Autonomy; Mastery; Purpose.](diagram-01.svg)
 
 
 # Designing Environments for Intrinsic Motivation

@@ -16,18 +16,7 @@ Richard Paul and Linda Elder's "Critical Thinking: Tools for Taking Charge of Yo
 The authors introduce nine intellectual standards as essential criteria for evaluating the quality of thinking. These standards serve as a benchmark against which to assess any thought process, ensuring clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness.
 
 
-```mermaid
-graph LR
-A[Intellectual Standards] --> B(Clarity);
-A --> C(Accuracy);
-A --> D(Precision);
-A --> E(Relevance);
-A --> F(Depth);
-A --> G(Breadth);
-A --> H(Logic);
-A --> I(Significance);
-A --> J(Fairness);
-```
+![The Intellectual Standards:  Guiding Principles for Thought. Intellectual Standards; Clarity; Accuracy; Precision; Relevance; Depth; Breadth; Logic; Significance; Fairness.](diagram-01.svg)
 
 Applying these standards consistently ensures that our thinking is not only rigorous but also ethical and responsible.  For example, ensuring clarity requires us to express our thoughts unambiguously.  Accuracy demands we verify our information, while precision focuses on using specific and detailed language.  Relevance checks if our thoughts relate to the matter at hand.  Depth probes the complexities of an issue, while breadth examines different perspectives.  Logic ensures consistent and coherent reasoning, significance assesses the importance of an issue, and fairness demands impartiality and objectivity.
 
@@ -37,17 +26,7 @@ Applying these standards consistently ensures that our thinking is not only rigo
 The book further breaks down the process of thinking into eight interconnected elements: purpose, question at issue, information, inferences, concepts, assumptions, implications, and points of view.  Understanding these elements helps us analyze our own thinking and the thinking of others.
 
 
-```mermaid
-graph LR
-A[Elements of Reasoning] --> B(Purpose);
-A --> C(Question at Issue);
-A --> D(Information);
-A --> E(Inferences);
-A --> F(Concepts);
-A --> G(Assumptions);
-A --> H(Implications);
-A --> I(Points of View);
-```
+![The Elements of Reasoning:  Dissecting Thought Processes. Elements of Reasoning; Purpose; Question at Issue; Information; Inferences; Concepts; Assumptions; Implications; Points of View.](diagram-02.svg)
 
 By consciously identifying and examining each element in any reasoning process, we can identify potential flaws or biases. For instance, clarifying our purpose helps us focus our thinking, while scrutinizing our assumptions reveals underlying beliefs shaping our conclusions. Understanding our thinking allows us to anticipate potential consequences.
 

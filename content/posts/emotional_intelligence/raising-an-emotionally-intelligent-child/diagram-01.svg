@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292pt" height="372pt" viewBox="0.00 0.00 292.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Building a Secure Attachment</title><desc id="description">Responsive Parenting leads to Secure Attachment. Secure Attachment leads to Emotional Regulation. Emotional Regulation leads to Resilience &amp; Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 274,-354 274,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128,-295.87C128,-288.31 128,-279.49 128,-271.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="130.45,-271.1 128,-264.1 125.55,-271.1 130.45,-271.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128,-223.87C128,-216.31 128,-207.49 128,-199.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="130.45,-199.1 128,-192.1 125.55,-199.1 130.45,-199.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M128,-151.84C128,-144.75 128,-136.25 128,-127.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="130.45,-127.12 128,-120.12 125.55,-127.12 130.45,-127.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M217,-336C217,-336 39,-336 39,-336 33,-336 27,-330 27,-324 27,-324 27,-308 27,-308 27,-302 33,-296 39,-296 39,-296 217,-296 217,-296 223,-296 229,-302 229,-308 229,-308 229,-324 229,-324 229,-330 223,-336 217,-336" />
+<text text-anchor="middle" x="128" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Responsive Parenting</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M206,-264C206,-264 50,-264 50,-264 44,-264 38,-258 38,-252 38,-252 38,-236 38,-236 38,-230 44,-224 50,-224 50,-224 206,-224 206,-224 212,-224 218,-230 218,-236 218,-236 218,-252 218,-252 218,-258 212,-264 206,-264" />
+<text text-anchor="middle" x="128" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Secure Attachment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M217.5,-192C217.5,-192 38.5,-192 38.5,-192 32.5,-192 26.5,-186 26.5,-180 26.5,-180 26.5,-164 26.5,-164 26.5,-158 32.5,-152 38.5,-152 38.5,-152 217.5,-152 217.5,-152 223.5,-152 229.5,-158 229.5,-164 229.5,-164 229.5,-180 229.5,-180 229.5,-186 223.5,-192 217.5,-192" />
+<text text-anchor="middle" x="128" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Regulation</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="128,-120 0,-60 128,0 256,-60 128,-120" />
+<text text-anchor="middle" x="128" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience &amp;</text>
+<text text-anchor="middle" x="128" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">Well-being</text>
+</g>
+</g>
+</svg>

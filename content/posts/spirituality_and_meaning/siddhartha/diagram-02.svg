@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220pt" height="384pt" viewBox="0.00 0.00 220.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">The Worldly Temptations and the Illusion of Materialism</title><desc id="description">Samana Path leads to Intellectual Limitation. Intellectual Limitation leads to Material World. Material World leads to Sensual Indulgence. Sensual Indulgence leads to Disillusionment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 202,-366 202,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92,-307.63C92,-300.34 92,-291.78 92,-283.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.45,-283.19 92,-276.19 89.55,-283.19 94.45,-283.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92,-215.67C92,-207.77 92,-199.28 92,-191.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.45,-191.12 92,-184.12 89.55,-191.12 94.45,-191.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92,-143.87C92,-136.31 92,-127.49 92,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.45,-119.1 92,-112.1 89.55,-119.1 94.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92,-71.87C92,-64.31 92,-55.49 92,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.45,-47.1 92,-40.1 89.55,-47.1 94.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146.5,-348C146.5,-348 37.5,-348 37.5,-348 31.5,-348 25.5,-342 25.5,-336 25.5,-336 25.5,-320 25.5,-320 25.5,-314 31.5,-308 37.5,-308 37.5,-308 146.5,-308 146.5,-308 152.5,-308 158.5,-314 158.5,-320 158.5,-320 158.5,-336 158.5,-336 158.5,-342 152.5,-348 146.5,-348" />
+<text text-anchor="middle" x="92" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Samana Path</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M139.5,-276C139.5,-276 44.5,-276 44.5,-276 38.5,-276 32.5,-270 32.5,-264 32.5,-264 32.5,-228 32.5,-228 32.5,-222 38.5,-216 44.5,-216 44.5,-216 139.5,-216 139.5,-216 145.5,-216 151.5,-222 151.5,-228 151.5,-228 151.5,-264 151.5,-264 151.5,-270 145.5,-276 139.5,-276" />
+<text text-anchor="middle" x="92" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intellectual</text>
+<text text-anchor="middle" x="92" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limitation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155.5,-184C155.5,-184 28.5,-184 28.5,-184 22.5,-184 16.5,-178 16.5,-172 16.5,-172 16.5,-156 16.5,-156 16.5,-150 22.5,-144 28.5,-144 28.5,-144 155.5,-144 155.5,-144 161.5,-144 167.5,-150 167.5,-156 167.5,-156 167.5,-172 167.5,-172 167.5,-178 161.5,-184 155.5,-184" />
+<text text-anchor="middle" x="92" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Material World</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M172,-112C172,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 172,-72 172,-72 178,-72 184,-78 184,-84 184,-84 184,-100 184,-100 184,-106 178,-112 172,-112" />
+<text text-anchor="middle" x="92" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sensual Indulgence</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M157.5,-40C157.5,-40 26.5,-40 26.5,-40 20.5,-40 14.5,-34 14.5,-28 14.5,-28 14.5,-12 14.5,-12 14.5,-6 20.5,0 26.5,0 26.5,0 157.5,0 157.5,0 163.5,0 169.5,-6 169.5,-12 169.5,-12 169.5,-28 169.5,-28 169.5,-34 163.5,-40 157.5,-40" />
+<text text-anchor="middle" x="92" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disillusionment</text>
+</g>
+</g>
+</svg>

@@ -14,13 +14,7 @@ Joseph T. Hallinan's "Why We Make Mistakes" isn't just a catalogue of errors; it
 
 A central theme of the book is the power of cognitive biases. These are systematic errors in thinking that affect our judgments and decisions. Hallinan details various biases, illustrating how they subtly manipulate our perceptions and choices.  For instance, confirmation bias—the tendency to seek out information confirming existing beliefs and ignore contradictory evidence—is discussed extensively. He shows how this bias can lead to poor decisions in various aspects of life, from investing to relationships.  Another significant bias explored is anchoring bias, where we over-rely on the first piece of information received, even if irrelevant.  This can influence everything from negotiating salaries to evaluating products.
 
-```mermaid
-graph LR
-    A[Confirmation Bias] --> B(Seeking confirming evidence);
-    A --> C(Ignoring contradictory evidence);
-    D[Anchoring Bias] --> E(Over-reliance on first information);
-    D --> F(Poor evaluation of subsequent information);
-```
+![Cognitive Biases: The Invisible Traps. Confirmation Bias; Seeking confirming evidence; Ignoring contradictory evidence; Anchoring Bias; Over-reliance on first information; Poor evaluation of subsequent information.](diagram-01.svg)
 
 # The Role of Memory and Attention
 
@@ -52,13 +46,7 @@ Hallinan highlights the significant influence of context on our actions and deci
 
 The book strongly advocates for adopting a growth mindset. Hallinan suggests viewing mistakes not as failures but as opportunities for learning and improvement. Analyzing past errors, understanding their causes, and implementing corrective measures are important for personal and professional growth. He emphasizes the importance of self-compassion and reframing mistakes as learning experiences rather than sources of shame or self-criticism.
 
-```mermaid
-graph LR
-    A[Mistake] --> B(Analysis);
-    B --> C(Understanding Causes);
-    C --> D(Corrective Measures);
-    D --> E(Learning & Improvement);
-```
+![Learning from Mistakes: A Growth Mindset. Mistake; Analysis; Understanding Causes; Corrective Measures; Learning & Improvement.](diagram-02.svg)
 
 # Beyond Individual Errors: Factors
 

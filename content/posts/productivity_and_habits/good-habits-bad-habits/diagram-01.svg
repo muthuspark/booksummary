@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="433pt" height="123pt" viewBox="0.00 0.00 433.00 123.00" role="img" aria-labelledby="title description">
+<title id="title">The Habit Loop: Cue, Routine, Reward</title><desc id="description">Cue leads to Routine. Routine leads to Reward. Reward leads to Cue.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 105)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-105 415,-105 415,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M59.05,-47.31C66.75,-49.28 75.34,-51.48 83.9,-53.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.35,-56.06 90.74,-55.42 84.57,-51.31 83.35,-56.06" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M183.19,-59.69C198.24,-57.26 215.4,-54.49 232,-51.8" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.55,-54.19 239.07,-50.66 231.77,-49.36 232.55,-54.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M222.93,-36.48C183.09,-35.28 134.55,-34.56 91,-36 83.03,-36.26 74.47,-36.72 66.38,-37.24" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="65.92,-34.81 59.1,-37.72 66.25,-39.7 65.92,-34.81" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M47,-60C47,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 47,-20 47,-20 53,-20 59,-26 59,-32 59,-32 59,-48 59,-48 59,-54 53,-60 47,-60" />
+<text text-anchor="middle" x="29.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cue</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M171,-87C171,-87 103,-87 103,-87 97,-87 91,-81 91,-75 91,-75 91,-59 91,-59 91,-53 97,-47 103,-47 103,-47 171,-47 171,-47 177,-47 183,-53 183,-59 183,-59 183,-75 183,-75 183,-81 177,-87 171,-87" />
+<text text-anchor="middle" x="137" y="-62.6" font-family="Georgia" font-size="18.00" fill="#243d36">Routine</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="306,-80 215,-40 306,0 397,-40 306,-80" />
+<text text-anchor="middle" x="306" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reward</text>
+</g>
+</g>
+</svg>

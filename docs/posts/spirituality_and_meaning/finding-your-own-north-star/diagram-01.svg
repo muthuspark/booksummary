@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340pt" height="412pt" viewBox="0.00 0.00 340.00 412.00" role="img" aria-labelledby="title description">
+<title id="title">Example of Value Identification Process:</title><desc id="description">Self-Reflection leads to Identify Potential Values. Identify Potential Values leads to Rank Values by Importance. Rank Values by Importance leads to Actions Aligned with Top Values.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 394)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-394 322,-394 322,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-335.63C152,-328.34 152,-319.78 152,-311.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-311.19 152,-304.19 149.55,-311.19 154.45,-311.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-243.95C152,-236.47 152,-228.11 152,-219.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-219.37 152,-212.37 149.55,-219.37 154.45,-219.37" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152,-91.7C152,-83.47 152,-75.21 152,-67.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="154.45,-67.13 152,-60.13 149.55,-67.13 154.45,-67.13" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M213.5,-376C213.5,-376 90.5,-376 90.5,-376 84.5,-376 78.5,-370 78.5,-364 78.5,-364 78.5,-348 78.5,-348 78.5,-342 84.5,-336 90.5,-336 90.5,-336 213.5,-336 213.5,-336 219.5,-336 225.5,-342 225.5,-348 225.5,-348 225.5,-364 225.5,-364 225.5,-370 219.5,-376 213.5,-376" />
+<text text-anchor="middle" x="152" y="-351.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M224,-304C224,-304 80,-304 80,-304 74,-304 68,-298 68,-292 68,-292 68,-256 68,-256 68,-250 74,-244 80,-244 80,-244 224,-244 224,-244 230,-244 236,-250 236,-256 236,-256 236,-292 236,-292 236,-298 230,-304 224,-304" />
+<text text-anchor="middle" x="152" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Potential</text>
+<text text-anchor="middle" x="152" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="152,-212 0,-152 152,-92 304,-152 152,-212" />
+<text text-anchor="middle" x="152" y="-157.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rank Values by</text>
+<text text-anchor="middle" x="152" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Importance</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M237,-60C237,-60 67,-60 67,-60 61,-60 55,-54 55,-48 55,-48 55,-12 55,-12 55,-6 61,0 67,0 67,0 237,0 237,0 243,0 249,-6 249,-12 249,-12 249,-48 249,-48 249,-54 243,-60 237,-60" />
+<text text-anchor="middle" x="152" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Actions Aligned with</text>
+<text text-anchor="middle" x="152" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Top Values</text>
+</g>
+</g>
+</svg>

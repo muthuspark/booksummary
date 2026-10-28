@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="651pt" height="96pt" viewBox="0.00 0.00 651.00 96.00" role="img" aria-labelledby="title description">
+<title id="title">Building a Worthy Team</title><desc id="description">Just Cause leads to Attracts. Attracts leads to People with Shared Values. People with Shared Values leads to Strong Team.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 78)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-78 633,-78 633,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M113.1,-30C121.19,-30 129.49,-30 137.51,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="137.78,-32.45 144.78,-30 137.78,-27.55 137.78,-32.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M236.39,-30C244.03,-30 252.24,-30 260.64,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="260.74,-32.45 267.74,-30 260.74,-27.55 260.74,-32.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M452,-30C460.22,-30 468.46,-30 476.48,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="476.78,-32.45 483.78,-30 476.78,-27.55 476.78,-32.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M101,-50C101,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 101,-10 101,-10 107,-10 113,-16 113,-22 113,-22 113,-38 113,-38 113,-44 107,-50 101,-50" />
+<text text-anchor="middle" x="56.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Just Cause</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M224,-50C224,-50 157,-50 157,-50 151,-50 145,-44 145,-38 145,-38 145,-22 145,-22 145,-16 151,-10 157,-10 157,-10 224,-10 224,-10 230,-10 236,-16 236,-22 236,-22 236,-38 236,-38 236,-44 230,-50 224,-50" />
+<text text-anchor="middle" x="190.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attracts</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M440,-60C440,-60 280,-60 280,-60 274,-60 268,-54 268,-48 268,-48 268,-12 268,-12 268,-6 274,0 280,0 280,0 440,0 440,0 446,0 452,-6 452,-12 452,-12 452,-48 452,-48 452,-54 446,-60 440,-60" />
+<text text-anchor="middle" x="360" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">People with Shared</text>
+<text text-anchor="middle" x="360" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Values</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M603,-50C603,-50 496,-50 496,-50 490,-50 484,-44 484,-38 484,-38 484,-22 484,-22 484,-16 490,-10 496,-10 496,-10 603,-10 603,-10 609,-10 615,-16 615,-22 615,-22 615,-38 615,-38 615,-44 609,-50 603,-50" />
+<text text-anchor="middle" x="549.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Team</text>
+</g>
+</g>
+</svg>

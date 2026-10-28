@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550pt" height="138pt" viewBox="0.00 0.00 550.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Financial Literacy:  Understanding the Game</title><desc id="description">High Income leads to Rat Race. Assets leads to Financial Freedom. Financial Literacy leads to Assets.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 532,-120 532,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M152.39,-20C166.74,-20 181.8,-20 195.74,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.92,-22.45 202.92,-20 195.92,-17.55 195.92,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M292.04,-82C302.83,-82 315.08,-82 327.67,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="327.69,-84.45 334.69,-82 327.69,-79.55 327.69,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.19,-82C183.45,-82 195.66,-82 206.73,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.84,-84.45 213.84,-82 206.84,-79.55 206.84,-84.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M140,-40C140,-40 31,-40 31,-40 25,-40 19,-34 19,-28 19,-28 19,-12 19,-12 19,-6 25,0 31,0 31,0 140,0 140,0 146,0 152,-6 152,-12 152,-12 152,-28 152,-28 152,-34 146,-40 140,-40" />
+<text text-anchor="middle" x="85.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">High Income</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M291,-40C291,-40 215,-40 215,-40 209,-40 203,-34 203,-28 203,-28 203,-12 203,-12 203,-6 209,0 215,0 215,0 291,0 291,0 297,0 303,-6 303,-12 303,-12 303,-28 303,-28 303,-34 297,-40 291,-40" />
+<text text-anchor="middle" x="253" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rat Race</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M280,-102C280,-102 226,-102 226,-102 220,-102 214,-96 214,-90 214,-90 214,-74 214,-74 214,-68 220,-62 226,-62 226,-62 280,-62 280,-62 286,-62 292,-68 292,-74 292,-74 292,-90 292,-90 292,-96 286,-102 280,-102" />
+<text text-anchor="middle" x="253" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assets</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M502,-102C502,-102 347,-102 347,-102 341,-102 335,-96 335,-90 335,-90 335,-74 335,-74 335,-68 341,-62 347,-62 347,-62 502,-62 502,-62 508,-62 514,-68 514,-74 514,-74 514,-90 514,-90 514,-96 508,-102 502,-102" />
+<text text-anchor="middle" x="424.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Freedom</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159,-102C159,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 159,-62 159,-62 165,-62 171,-68 171,-74 171,-74 171,-90 171,-90 171,-96 165,-102 159,-102" />
+<text text-anchor="middle" x="85.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Literacy</text>
+</g>
+</g>
+</svg>

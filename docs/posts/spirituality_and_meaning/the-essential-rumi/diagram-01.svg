@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="572pt" height="220pt" viewBox="0.00 0.00 571.50 220.00" role="img" aria-labelledby="title description">
+<title id="title">Letting Go of the Ego: The Path to Freedom</title><desc id="description">Ego leads to Fear &amp; Anxiety. Ego leads to Self-Doubt. True Self leads to Love &amp; Joy. True Self leads to Peace &amp; Fulfillment. Ego leads to True Self (dashed connection).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 553.5,-202 553.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196.64,-149.34C175.32,-139.59 146.2,-126.26 121.62,-115.02" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.54,-112.74 115.15,-112.06 120.5,-117.2 122.54,-112.74" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M226.5,-143.87C226.5,-136.31 226.5,-127.49 226.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.95,-119.1 226.5,-112.1 224.05,-119.1 228.95,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M256.32,-146.94C273.57,-137.66 295.53,-125.83 314.5,-115.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="315.8,-117.7 320.8,-112.22 313.48,-113.38 315.8,-117.7" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M332.73,-71.87C322.27,-63.46 309.89,-53.5 298.87,-44.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="300.23,-42.58 293.24,-40.1 297.16,-46.4 300.23,-42.58" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M380,-71.87C390.33,-63.46 402.57,-53.5 413.47,-44.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="415.15,-46.42 419.03,-40.1 412.05,-42.62 415.15,-46.42" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M244,-184C244,-184 209,-184 209,-184 203,-184 197,-178 197,-172 197,-172 197,-156 197,-156 197,-150 203,-144 209,-144 209,-144 244,-144 244,-144 250,-144 256,-150 256,-156 256,-156 256,-172 256,-172 256,-178 250,-184 244,-184" />
+<text text-anchor="middle" x="226.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ego</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M135,-112C135,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 135,-72 135,-72 141,-72 147,-78 147,-84 147,-84 147,-100 147,-100 147,-106 141,-112 135,-112" />
+<text text-anchor="middle" x="73.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear &amp; Anxiety</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M272,-112C272,-112 181,-112 181,-112 175,-112 169,-106 169,-100 169,-100 169,-84 169,-84 169,-78 175,-72 181,-72 181,-72 272,-72 272,-72 278,-72 284,-78 284,-84 284,-84 284,-100 284,-100 284,-106 278,-112 272,-112" />
+<text text-anchor="middle" x="226.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Doubt</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M395,-112C395,-112 318,-112 318,-112 312,-112 306,-106 306,-100 306,-100 306,-84 306,-84 306,-78 312,-72 318,-72 318,-72 395,-72 395,-72 401,-72 407,-78 407,-84 407,-84 407,-100 407,-100 407,-106 401,-112 395,-112" />
+<text text-anchor="middle" x="356.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">True Self</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M315.5,-40C315.5,-40 223.5,-40 223.5,-40 217.5,-40 211.5,-34 211.5,-28 211.5,-28 211.5,-12 211.5,-12 211.5,-6 217.5,0 223.5,0 223.5,0 315.5,0 315.5,0 321.5,0 327.5,-6 327.5,-12 327.5,-12 327.5,-28 327.5,-28 327.5,-34 321.5,-40 315.5,-40" />
+<text text-anchor="middle" x="269.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Love &amp; Joy</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M523.5,-40C523.5,-40 361.5,-40 361.5,-40 355.5,-40 349.5,-34 349.5,-28 349.5,-28 349.5,-12 349.5,-12 349.5,-6 355.5,0 361.5,0 361.5,0 523.5,0 523.5,0 529.5,0 535.5,-6 535.5,-12 535.5,-12 535.5,-28 535.5,-28 535.5,-34 529.5,-40 523.5,-40" />
+<text text-anchor="middle" x="442.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Peace &amp; Fulfillment</text>
+</g>
+</g>
+</svg>

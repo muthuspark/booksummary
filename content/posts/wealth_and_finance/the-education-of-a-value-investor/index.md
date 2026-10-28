@@ -14,17 +14,7 @@ Guy Spier's "The Education of a Value Investor" is not merely a guide to stock p
 
 Spier's core philosophy revolves around Benjamin Graham's concept of value investing. He stresses identifying companies trading below their intrinsic value – the true worth of the business based on its assets, earnings potential, and future prospects. This isn't just about finding bargains; it's about understanding the underlying business and its long-term viability. He emphasizes the need for thorough due diligence, including scrutinizing financial statements and understanding the management team.
 
-```mermaid
-graph LR
-    A[Identify Undervalued Companies] --> B(Thorough Due Diligence);
-    B --> C{Understand Business Model};
-    B --> D{Analyze Financial Statements};
-    B --> E{Assess Management Team};
-    C --> F[Estimate Intrinsic Value];
-    D --> F;
-    E --> F;
-    F --> G[Invest with Margin of Safety];
-```
+![The Power of Intrinsic Value. Identify Undervalued Companies; Thorough Due Diligence; Understand Business Model; Analyze Financial Statements; Assess Management Team; Estimate Intrinsic Value; Invest with Margin of Safety.](diagram-01.svg)
 
 ## The Importance of a Margin of Safety
 
@@ -68,13 +58,7 @@ Spier stresses the importance of developing the right mindset for successful val
 
 Spier emphasizes the concept of a "circle of competence," a term popularized by Charlie Munger. This refers to investing only in areas where one possesses sufficient knowledge and understanding.  He advocates for focusing on industries and businesses one truly understands, avoiding ventures outside one's area of expertise.
 
-```mermaid
-graph LR
-    A[Circle of Competence] --> B(Focus on Understanding);
-    B --> C[Avoid Overextension];
-    C --> D(Reduce Risk);
-    D --> E[Increase Chances of Success];
-```
+![The Importance of a Circle of Competence. Circle of Competence; Focus on Understanding; Avoid Overextension; Reduce Risk; Increase Chances of Success.](diagram-02.svg)
 
 ##  The Value of Mentorship and Networking
 

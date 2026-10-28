@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256pt" height="564pt" viewBox="0.00 0.00 256.00 564.00" role="img" aria-labelledby="title description">
+<title id="title">The Pyramid Model: A Visual Representation</title><desc id="description">Accountability leads to Results. Commitment leads to Accountability. Conflict leads to Commitment. Trust leads to Conflict. Inattention to Results: Results. Avoidance of Accountability: Accountability, Results. Lack of Commitment: Commitment, Accountability. Fear of Conflict: Conflict, Commitment. Absence of Trust: Trust, Conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 546)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-546 238,-546 238,18 -18,18" />
+<g id="clust3" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M20,-120C20,-120 180,-120 180,-120 186,-120 192,-126 192,-132 192,-132 192,-284 192,-284 192,-290 186,-296 180,-296 180,-296 20,-296 20,-296 14,-296 8,-290 8,-284 8,-284 8,-132 8,-132 8,-126 14,-120 20,-120" />
+<text text-anchor="middle" x="100" y="-277.6" font-family="Georgia" font-size="18.00" fill="#405b50">Lack of Commitment</text>
+</g>
+<g id="clust1" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M35,-8C35,-8 200,-8 200,-8 206,-8 212,-14 212,-20 212,-20 212,-100 212,-100 212,-106 206,-112 200,-112 200,-112 35,-112 35,-112 29,-112 23,-106 23,-100 23,-100 23,-20 23,-20 23,-14 29,-8 35,-8" />
+<text text-anchor="middle" x="117.5" y="-93.6" font-family="Georgia" font-size="18.00" fill="#405b50">Inattention to Results</text>
+</g>
+<g id="clust4" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M42,-304C42,-304 158,-304 158,-304 164,-304 170,-310 170,-316 170,-316 170,-396 170,-396 170,-402 164,-408 158,-408 158,-408 42,-408 42,-408 36,-408 30,-402 30,-396 30,-396 30,-316 30,-316 30,-310 36,-304 42,-304" />
+<text text-anchor="middle" x="100" y="-389.6" font-family="Georgia" font-size="18.00" fill="#405b50">Fear of Conflict</text>
+</g>
+<g id="clust5" class="cluster">
+<path fill="#fcfcfa" stroke="#c6d2cb" d="M39,-416C39,-416 165,-416 165,-416 171,-416 177,-422 177,-428 177,-428 177,-508 177,-508 177,-514 171,-520 165,-520 165,-520 39,-520 39,-520 33,-520 27,-514 27,-508 27,-508 27,-428 27,-428 27,-422 33,-416 39,-416" />
+<text text-anchor="middle" x="102" y="-501.6" font-family="Georgia" font-size="18.00" fill="#405b50">Absence of Trust</text>
+</g>
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-137.84C100,-120.05 100,-93.39 100,-73.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-73.31 100,-66.31 97.55,-73.31 102.45,-73.31" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-209.87C100,-202.31 100,-193.49 100,-185.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-185.1 100,-178.1 97.55,-185.1 102.45,-185.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-321.84C100,-304.05 100,-277.39 100,-257.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-257.31 100,-250.31 97.55,-257.31 102.45,-257.31" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100,-433.84C100,-416.05 100,-389.39 100,-369.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.45,-369.31 100,-362.31 97.55,-369.31 102.45,-369.31" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M131.5,-66C131.5,-66 68.5,-66 68.5,-66 62.5,-66 56.5,-60 56.5,-54 56.5,-54 56.5,-38 56.5,-38 56.5,-32 62.5,-26 68.5,-26 68.5,-26 131.5,-26 131.5,-26 137.5,-26 143.5,-32 143.5,-38 143.5,-38 143.5,-54 143.5,-54 143.5,-60 137.5,-66 131.5,-66" />
+<text text-anchor="middle" x="100" y="-41.6" font-family="Georgia" font-size="18.00" fill="#243d36">Results</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159.5,-178C159.5,-178 40.5,-178 40.5,-178 34.5,-178 28.5,-172 28.5,-166 28.5,-166 28.5,-150 28.5,-150 28.5,-144 34.5,-138 40.5,-138 40.5,-138 159.5,-138 159.5,-138 165.5,-138 171.5,-144 171.5,-150 171.5,-150 171.5,-166 171.5,-166 171.5,-172 165.5,-178 159.5,-178" />
+<text text-anchor="middle" x="100" y="-153.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accountability</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-250C155,-250 45,-250 45,-250 39,-250 33,-244 33,-238 33,-238 33,-222 33,-222 33,-216 39,-210 45,-210 45,-210 155,-210 155,-210 161,-210 167,-216 167,-222 167,-222 167,-238 167,-238 167,-244 161,-250 155,-250" />
+<text text-anchor="middle" x="100" y="-225.6" font-family="Georgia" font-size="18.00" fill="#243d36">Commitment</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M133.5,-362C133.5,-362 66.5,-362 66.5,-362 60.5,-362 54.5,-356 54.5,-350 54.5,-350 54.5,-334 54.5,-334 54.5,-328 60.5,-322 66.5,-322 66.5,-322 133.5,-322 133.5,-322 139.5,-322 145.5,-328 145.5,-334 145.5,-334 145.5,-350 145.5,-350 145.5,-356 139.5,-362 133.5,-362" />
+<text text-anchor="middle" x="100" y="-337.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M123.5,-474C123.5,-474 76.5,-474 76.5,-474 70.5,-474 64.5,-468 64.5,-462 64.5,-462 64.5,-446 64.5,-446 64.5,-440 70.5,-434 76.5,-434 76.5,-434 123.5,-434 123.5,-434 129.5,-434 135.5,-440 135.5,-446 135.5,-446 135.5,-462 135.5,-462 135.5,-468 129.5,-474 123.5,-474" />
+<text text-anchor="middle" x="100" y="-449.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust</text>
+</g>
+</g>
+</svg>

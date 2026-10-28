@@ -23,12 +23,7 @@ Self-awareness is the cornerstone of emotional intelligence. It involves accurat
 * **Seeking feedback:** Actively solicit feedback from trusted friends, family, and colleagues. Be open to constructive criticism and use it to refine your self-perception.
 * **Personality assessments:**  Consider using validated personality assessments (like the Myers-Briggs Type Indicator or similar) to gain a deeper understanding of your personality traits and tendencies.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Increased Self-Awareness);
-C[Seeking Feedback] --> B;
-D[Personality Assessments] --> B;
-```
+![Self-Awareness: The Foundation of EQ. Self-Reflection; Increased Self-Awareness; Seeking Feedback; Personality Assessments.](diagram-01.svg)
 
 ## Self-Regulation: Mastering Your Emotions
 
@@ -40,12 +35,7 @@ Self-regulation involves managing your emotions effectively, controlling impulse
 * **Cognitive restructuring:** Challenge negative thoughts and replace them with more positive and realistic ones.
 * **Emotional distancing:**  Learn to step back from emotionally charged situations to gain perspective before reacting.
 
-```mermaid
-graph LR
-A[Stress Management] --> B(Improved Self-Regulation);
-C[Cognitive Restructuring] --> B;
-D[Emotional Distancing] --> B;
-```
+![Self-Regulation: Mastering Your Emotions. Stress Management; Improved Self-Regulation; Cognitive Restructuring; Emotional Distancing.](diagram-02.svg)
 
 
 ## Motivation: Driving Yourself Towards Success
@@ -59,12 +49,7 @@ Motivation involves maintaining a positive attitude, staying focused on your goa
 * **Reward system:**  Reward yourself for achieving milestones to reinforce positive behavior and maintain motivation.
 
 
-```mermaid
-graph LR
-A[Goal Setting] --> B(Enhanced Motivation);
-C[Positive Self-Talk] --> B;
-D[Reward System] --> B;
-```
+![Motivation: Driving Yourself Towards Success. Goal Setting; Enhanced Motivation; Positive Self-Talk; Reward System.](diagram-03.svg)
 
 
 ## Empathy: Understanding Others' Emotions
@@ -78,12 +63,7 @@ Empathy involves understanding and sharing the feelings of others.  It's about p
 * **Emotional mirroring:** Subtly mirroring the other person's emotional expressions can build rapport and understanding.
 
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Improved Empathy);
-C[Perspective-Taking] --> B;
-D[Emotional Mirroring] --> B;
-```
+![Empathy: Understanding Others' Emotions. Active Listening; Improved Empathy; Perspective-Taking; Emotional Mirroring.](diagram-04.svg)
 
 ## Social Skills: Building and Maintaining Relationships
 
@@ -95,12 +75,7 @@ Social skills are the ability to build and maintain positive relationships, comm
 * **Conflict resolution techniques:**  Develop skills in negotiating and mediating disagreements.
 * **Networking and relationship building:** Actively build relationships through networking and social interactions.
 
-```mermaid
-graph LR
-A[Assertiveness Training] --> B(Enhanced Social Skills);
-C[Conflict Resolution] --> B;
-D[Networking] --> B;
-```
+![Social Skills: Building and Maintaining Relationships. Assertiveness Training; Enhanced Social Skills; Conflict Resolution; Networking.](diagram-05.svg)
 
 ## Actionable Tips for Life Improvement
 

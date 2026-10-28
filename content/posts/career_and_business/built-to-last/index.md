@@ -18,11 +18,7 @@ The central argument hinges on the concept of "core ideology," a powerful blend 
 
 *   **Envisioned Future:** This is the aspirational aspect, a vivid picture of what you aim to create or achieve in the long run. It’s not a rigid plan but a compelling image that motivates and inspires.  It's the "north star" that guides your journey.
 
-```mermaid
-graph LR
-    A[Core Ideology] --> B(Core Values);
-    A --> C(Envisioned Future);
-```
+![Core Ideology: The Guiding Star. Core Ideology; Core Values; Envisioned Future.](diagram-01.svg)
 
 Applying this to your personal life means identifying your non-negotiable values and painting a compelling picture of your ideal future self.  What kind of person do you want to be? What impact do you want to have on the world?  This clarity provides direction and purpose.
 
@@ -33,13 +29,7 @@ Built to Last emphasizes the importance of striking a balance between preserving
 
 This dynamic equilibrium requires conscious effort.  It's about recognizing what aspects of your life should remain constant (your core values) and which aspects should evolve (your strategies and tactics).
 
-```mermaid
-graph LR
-    A[Core Ideology] --> B{Preserve};
-    A --> C{Stimulate Progress};
-    B --> D(Consistency);
-    C --> E(Innovation);
-```
+![Preserve the Core, Stimulate Progress. Core Ideology; Preserve; Stimulate Progress; Consistency; Innovation.](diagram-02.svg)
 
 For example, you may have a core value of "family."  This should remain constant, yet your strategies for nurturing your family may evolve as your children grow and your circumstances change.
 
@@ -59,13 +49,7 @@ BHAGs are ambitious, long-term objectives that stretch your capabilities and ins
 
 In a personal context, a BHAG might be writing a novel, learning a new language fluently, running a marathon, or starting a non-profit.  The key is that it is something challenging, yet achievable with sustained effort.
 
-```mermaid
-graph LR
-    A[BHAG] --> B(Clear);
-    A --> C(Compelling);
-    A --> D(Communicable);
-    A --> E(Challenging);
-```
+![Big Hairy Audacious Goals (BHAGs). BHAG; Clear; Compelling; Communicable; Challenging.](diagram-03.svg)
 
 
 ### Trial and Error, Experimentation and Learning

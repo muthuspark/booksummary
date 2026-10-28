@@ -30,12 +30,7 @@ Gawande highlights many types of checklists, tailored to their purpose:
 
 * **Check-and-Confirm Checklists:** These are more sophisticated, incorporating more judgement and interaction during the process.
 
-```mermaid
-graph LR
-    A[Read-and-Do] --> B(Simple Steps);
-    C[Read-and-Do-Confirm] --> D(Steps & Confirmation);
-    E[Check-and-Confirm] --> F(Judgement & Interaction);
-```
+![Types of Checklists: Do, Check, Act. Read-and-Do; Simple Steps; Read-and-Do-Confirm; Steps & Confirmation; Check-and-Confirm; Judgement & Interaction.](diagram-01.svg)
 
 ## Designing Effective Checklists
 

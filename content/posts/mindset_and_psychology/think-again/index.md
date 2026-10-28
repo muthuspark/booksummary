@@ -24,15 +24,7 @@ Grant introduces four key thinking styles, each representing a different approac
 * **Sporters:** This style combines elements of the scientist and preacher, embracing competition in the pursuit of truth. They approach debate not as a fight to win but as a game to refine their own thinking.
 
 
-```mermaid
-graph LR
-    A[Preachers] --> B(Fixed Mindset)
-    C[Prosecutors] --> B
-    D[Scientists] --> E(Fluid Mindset)
-    F[Sporters] --> E
-    B --> G(Resistance to Change)
-    E --> H(Open to New Information)
-```
+![The Four Thinking Styles. Preachers; Fixed Mindset; Prosecutors; Scientists; Fluid Mindset; Sporters; Resistance to Change; Open to New Information.](diagram-01.svg)
 
 
 ##  From Fixed to Fluid Thinking: The Core Principle

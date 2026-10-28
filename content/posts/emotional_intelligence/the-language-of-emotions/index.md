@@ -14,12 +14,7 @@ Karla McLaren's "The Language of Emotions" isn't just about identifying feelings
 
 The book challenges the societal tendency to categorize emotions as "good" or "bad."  McLaren argues that every emotion, even those typically considered negative like anger or sadness, serves a purpose.  These feelings are not inherently problematic; the problems arise when we resist them, fail to understand their message, or act out in unhealthy ways.  Instead of fighting our feelings, we need to learn to listen to them.
 
-```mermaid
-graph LR
-A[Emotion] --> B(Message);
-B --> C{Understanding};
-C --> D[Healthy Response];
-```
+![Moving Beyond "Good" and "Bad" Emotions. Emotion; Message; Understanding; Healthy Response.](diagram-01.svg)
 
 ## Identifying Your Primary and Secondary Emotions
 
@@ -66,12 +61,7 @@ McLaren offers practical strategies for developing healthier responses to emotio
 
 The book explores how relationships influence our emotional experiences. It emphasizes the importance of healthy communication, empathy, and mutual respect in nurturing emotional well-being within relationships. Understanding and validating the emotions of others is just as important as understanding your own.
 
-```mermaid
-graph LR
-A[Healthy Relationships] --> B(Emotional Support);
-B --> C(Self-Esteem);
-C --> D[Well-being];
-```
+![The Role of Relationships in Emotional Well-being. Healthy Relationships; Emotional Support; Self-Esteem; Well-being.](diagram-02.svg)
 
 ##  The Importance of Self-Care
 

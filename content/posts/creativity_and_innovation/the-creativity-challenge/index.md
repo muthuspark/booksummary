@@ -56,16 +56,7 @@ The book outlines many practical strategies for boosting creativity.
 Christensen advocates for various brainstorming techniques, including mind mapping, freewriting, and SCAMPER (Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse).  These techniques encourage the generation of a large quantity of ideas, regardless of their initial feasibility.
 
 
-```mermaid
-graph LR
-    A[Problem] --> B(Brainstorming);
-    B --> C{Mind Mapping};
-    B --> D{Freewriting};
-    B --> E{SCAMPER};
-    C --> F[Ideas];
-    D --> F;
-    E --> F;
-```
+![Brainstorming and Idea Generation. Problem; Brainstorming; Mind Mapping; Freewriting; SCAMPER; Ideas.](diagram-01.svg)
 
 ### Experimentation and Iteration
 

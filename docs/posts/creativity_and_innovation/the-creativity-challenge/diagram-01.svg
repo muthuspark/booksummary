@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738pt" height="320pt" viewBox="0.00 0.00 738.00 320.00" role="img" aria-labelledby="title description">
+<title id="title">Brainstorming and Idea Generation</title><desc id="description">Problem leads to Brainstorming. Brainstorming leads to Mind Mapping. Brainstorming leads to Freewriting. Brainstorming leads to SCAMPER. Mind Mapping leads to Ideas. Freewriting leads to Ideas. SCAMPER leads to Ideas.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 302)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-302 720,-302 720,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.12,-142C104.99,-142 113.33,-142 121.72,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="121.77,-144.45 128.77,-142 121.77,-139.55 121.77,-144.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.63,-162.03C258.91,-171.94 282.93,-183.72 305,-193 328.09,-202.71 353.74,-212.11 377.02,-220.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="376.42,-222.53 383.84,-222.48 378.01,-217.89 376.42,-222.53" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M273.02,-142C288.62,-142 305.6,-142 322.67,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="322.99,-144.45 329.99,-142 322.99,-139.55 322.99,-144.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.63,-121.97C258.91,-112.06 282.93,-100.28 305,-91 330.67,-80.21 359.51,-69.79 384.74,-61.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="385.56,-63.52 391.41,-58.96 383.99,-58.88 385.56,-63.52" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M525.11,-223.86C549.3,-215.8 575.97,-205.44 599,-193 612.41,-185.76 625.98,-175.91 637.33,-166.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="639.19,-168.44 643.05,-162.11 636.08,-164.64 639.19,-168.44" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M574.15,-142C591.77,-142 608.83,-142 623.35,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="623.69,-144.45 630.69,-142 623.69,-139.55 623.69,-144.45" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M516.66,-57.38C542.96,-65.78 573.25,-77.09 599,-91 612.41,-98.24 625.98,-108.09 637.33,-117.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="636.08,-119.36 643.05,-121.89 639.19,-115.56 636.08,-119.36" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M85,-162C85,-162 12,-162 12,-162 6,-162 0,-156 0,-150 0,-150 0,-134 0,-134 0,-128 6,-122 12,-122 12,-122 85,-122 85,-122 91,-122 97,-128 97,-134 97,-134 97,-150 97,-150 97,-156 91,-162 85,-162" />
+<text text-anchor="middle" x="48.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M261,-162C261,-162 141,-162 141,-162 135,-162 129,-156 129,-150 129,-150 129,-134 129,-134 129,-128 135,-122 141,-122 141,-122 261,-122 261,-122 267,-122 273,-128 273,-134 273,-134 273,-150 273,-150 273,-156 267,-162 261,-162" />
+<text text-anchor="middle" x="201" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brainstorming</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="452,-284 305,-244 452,-204 599,-244 452,-284" />
+<text text-anchor="middle" x="452" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mind Mapping</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="452,-182 330,-142 452,-102 574,-142 452,-182" />
+<text text-anchor="middle" x="452" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Freewriting</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="452,-80 338,-40 452,0 566,-40 452,-80" />
+<text text-anchor="middle" x="452" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">SCAMPER</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M690,-162C690,-162 643,-162 643,-162 637,-162 631,-156 631,-150 631,-150 631,-134 631,-134 631,-128 637,-122 643,-122 643,-122 690,-122 690,-122 696,-122 702,-128 702,-134 702,-134 702,-150 702,-150 702,-156 696,-162 690,-162" />
+<text text-anchor="middle" x="666.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ideas</text>
+</g>
+</g>
+</svg>

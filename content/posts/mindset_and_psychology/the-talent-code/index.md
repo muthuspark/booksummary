@@ -19,15 +19,7 @@ Coyle emphasizes the importance of **myelin** – a fatty substance that coats n
 
 The key to effective deep practice lies in breaking down complex skills into smaller, manageable components, focusing on areas requiring improvement, and providing immediate feedback.  This process of deliberate and focused effort allows for targeted growth.  This is distinctly different from simply doing the same action repetitively without considering the outcome and feedback.
 
-```mermaid
-graph LR
-    A[Skill Acquisition] --> B(Deep Practice);
-    B --> C{Focused Effort};
-    B --> D{Immediate Feedback};
-    C --> E(Myelin Production);
-    D --> E;
-    E --> F(Skill Improvement);
-```
+![Deep Practice: The Engine of Skill Development. Skill Acquisition; Deep Practice; Focused Effort; Immediate Feedback; Myelin Production; Skill Improvement.](diagram-01.svg)
 
 ## Ignition: The Spark that Ignites Potential
 

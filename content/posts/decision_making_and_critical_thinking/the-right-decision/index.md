@@ -18,11 +18,7 @@ Effective decision-making isn't about always choosing the "perfect" option, it's
 
 Before making any decision, clearly define the problem you're trying to solve or the goal you're aiming for.  Ambiguity leads to poor decisions.
 
-```mermaid
-graph LR
-    A[Define the Problem] --> B{Identify Goals};
-    B --> C[Set Clear Objectives];
-```
+![Defining the Problem and Goals. Define the Problem; Identify Goals; Set Clear Objectives.](diagram-01.svg)
 
 * **Keywords:**  Problem definition, Goal setting, SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound)
 
@@ -30,12 +26,7 @@ graph LR
 
 Thorough information gathering is crucial.  Consider multiple perspectives, research potential solutions, and analyze the pros and cons of each option.  Don't rely solely on intuition or gut feeling; back it up with data and evidence.
 
-```mermaid
-graph LR
-    A[Identify Information Sources] --> B(Gather Data);
-    B --> C[Analyze Data];
-    C --> D{Evaluate Options};
-```
+![Gathering and Evaluating Information. Identify Information Sources; Gather Data; Analyze Data; Evaluate Options.](diagram-02.svg)
 
 * **Keywords:** Research, Data analysis, SWOT analysis (Strengths, Weaknesses, Opportunities, Threats), Cost-benefit analysis
 
@@ -53,13 +44,7 @@ Various frameworks can help structure your decision-making process.
 * **Decision Matrix:** A table listing options and criteria, allowing for a systematic comparison.
 * **Decision Tree:** A visual representation of the possible outcomes of different choices.
 
-```mermaid
-graph LR
-    A[Decision Matrix] --> B(List Options);
-    B --> C(List Criteria);
-    C --> D(Score Each Option);
-    D --> E(Choose Best Option);
-```
+![Decision-Making Frameworks. Decision Matrix; List Options; List Criteria; Score Each Option; Choose Best Option.](diagram-03.svg)
 
 
 ### Considering Risks and Uncertainty
@@ -79,12 +64,7 @@ Once you've weighed the evidence and considered all factors, make a decision.  P
 
 After implementing your decision, take time to evaluate its effectiveness. What worked well? What could have been improved? Learning from past decisions is important for future success.
 
-```mermaid
-graph LR
-    A[Implement Decision] --> B(Monitor Outcomes);
-    B --> C[Evaluate Results];
-    C --> D{Learn from Experience};
-```
+![Evaluating and Learning from Outcomes. Implement Decision; Monitor Outcomes; Evaluate Results; Learn from Experience.](diagram-04.svg)
 
 * **Keywords:**  Post-decision review, Continuous improvement, Feedback loops
 

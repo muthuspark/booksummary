@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="376pt" height="444pt" viewBox="0.00 0.00 376.00 444.00" role="img" aria-labelledby="title description">
+<title id="title">Improving Decision-Making</title><desc id="description">Define Problem leads to Identify Solutions. Identify Solutions leads to Evaluate Pros &amp; Cons. Evaluate Pros &amp; Cons leads to Choose Solution. Choose Solution leads to Implement &amp; Review.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 426)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-426 358,-426 358,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-367.91C170,-360.58 170,-351.86 170,-343.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-343.07 170,-336.07 167.55,-343.07 172.45,-343.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-255.79C170,-247.54 170,-239.04 170,-231.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-231.09 170,-224.09 167.55,-231.09 172.45,-231.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-183.91C170,-176.58 170,-167.86 170,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-159.07 170,-152.07 167.55,-159.07 172.45,-159.07" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170,-71.79C170,-63.54 170,-55.04 170,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="172.45,-47.09 170,-40.09 167.55,-47.09 172.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M235.5,-408C235.5,-408 104.5,-408 104.5,-408 98.5,-408 92.5,-402 92.5,-396 92.5,-396 92.5,-380 92.5,-380 92.5,-374 98.5,-368 104.5,-368 104.5,-368 235.5,-368 235.5,-368 241.5,-368 247.5,-374 247.5,-380 247.5,-380 247.5,-396 247.5,-396 247.5,-402 241.5,-408 235.5,-408" />
+<text text-anchor="middle" x="170" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Define Problem</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="170,-336 0,-296 170,-256 340,-296 170,-336" />
+<text text-anchor="middle" x="170" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Solutions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-224C258,-224 82,-224 82,-224 76,-224 70,-218 70,-212 70,-212 70,-196 70,-196 70,-190 76,-184 82,-184 82,-184 258,-184 258,-184 264,-184 270,-190 270,-196 270,-196 270,-212 270,-212 270,-218 264,-224 258,-224" />
+<text text-anchor="middle" x="170" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evaluate Pros &amp; Cons</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="170,-152 12,-112 170,-72 328,-112 170,-152" />
+<text text-anchor="middle" x="170" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose Solution</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M256.5,-40C256.5,-40 83.5,-40 83.5,-40 77.5,-40 71.5,-34 71.5,-28 71.5,-28 71.5,-12 71.5,-12 71.5,-6 77.5,0 83.5,0 83.5,0 256.5,0 256.5,0 262.5,0 268.5,-6 268.5,-12 268.5,-12 268.5,-28 268.5,-28 268.5,-34 262.5,-40 256.5,-40" />
+<text text-anchor="middle" x="170" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implement &amp; Review</text>
+</g>
+</g>
+</svg>

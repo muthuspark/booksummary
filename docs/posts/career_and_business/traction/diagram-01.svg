@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="454pt" height="260pt" viewBox="0.00 0.00 454.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Bullseye Framework: Finding Your Target Audience</title><desc id="description">Broad Market leads to Target Audience. Target Audience leads to Ideal Customer Profile.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 436,-242 436,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209,-183.87C209,-176.31 209,-167.49 209,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.45,-159.1 209,-152.1 206.55,-159.1 211.45,-159.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209,-111.91C209,-104.58 209,-95.86 209,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.45,-87.07 209,-80.07 206.55,-87.07 211.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M267,-224C267,-224 151,-224 151,-224 145,-224 139,-218 139,-212 139,-212 139,-196 139,-196 139,-190 145,-184 151,-184 151,-184 267,-184 267,-184 273,-184 279,-190 279,-196 279,-196 279,-212 279,-212 279,-218 273,-224 267,-224" />
+<text text-anchor="middle" x="209" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Broad Market</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M277,-152C277,-152 141,-152 141,-152 135,-152 129,-146 129,-140 129,-140 129,-124 129,-124 129,-118 135,-112 141,-112 141,-112 277,-112 277,-112 283,-112 289,-118 289,-124 289,-124 289,-140 289,-140 289,-146 283,-152 277,-152" />
+<text text-anchor="middle" x="209" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Target Audience</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="209,-80 0,-40 209,0 418,-40 209,-80" />
+<text text-anchor="middle" x="209" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ideal Customer Profile</text>
+</g>
+</g>
+</svg>

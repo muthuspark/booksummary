@@ -22,13 +22,7 @@ Once you identify an emotion, the next step is understanding it. This means expl
 
 Labeling emotions involves accurately naming the emotion you are experiencing. This seemingly simple act is powerful because it provides a sense of control and reduces the intensity of the emotion. Brackett encourages the use of a rich emotional vocabulary, moving beyond simple terms like "happy" or "sad" to a wider range of emotional experiences. He provides a helpful glossary of emotions within the book. The more precise you are in labeling your emotions, the more effectively you can understand and manage them.
 
-```mermaid
-graph LR
-    A[Recognize] --> B(Understand);
-    B --> C{Label};
-    C --> D[Express];
-    D --> E(Regulate);
-```
+![Labeling Emotions: Giving Names to Feelings. Recognize; Understand; Label; Express; Regulate.](diagram-01.svg)
 
 # Expressing Emotions: Healthy Communication and Boundaries
 

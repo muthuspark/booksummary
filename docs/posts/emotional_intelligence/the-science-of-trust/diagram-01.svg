@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="697pt" height="218pt" viewBox="0.00 0.00 697.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Communication: Building Bridges</title><desc id="description">Bid leads to Positive Response. Positive Response leads to Trust Strengthened. Bid leads to Negative Response. Negative Response leads to Trust Eroded.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 679,-200 679,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M56.19,-96.85C83.94,-102.82 128.66,-112.45 169.7,-121.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.42,-123.72 176.78,-122.8 170.45,-118.93 169.42,-123.72" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M56.19,-85.15C83.6,-79.25 127.55,-69.79 168.17,-61.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.85,-63.41 175.18,-59.54 167.82,-58.62 168.85,-63.41" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M440.19,-142C450.53,-142 460.73,-142 470.59,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="470.7,-144.45 477.7,-142 470.7,-139.55 470.7,-144.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M446.28,-40C463.22,-40 479.67,-40 494.72,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="495,-42.45 502,-40 495,-37.55 495,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M44,-111C44,-111 12,-111 12,-111 6,-111 0,-105 0,-99 0,-99 0,-83 0,-83 0,-77 6,-71 12,-71 12,-71 44,-71 44,-71 50,-71 56,-77 56,-83 56,-83 56,-99 56,-99 56,-105 50,-111 44,-111" />
+<text text-anchor="middle" x="28" y="-86.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bid</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="267,-182 94,-142 267,-102 440,-142 267,-182" />
+<text text-anchor="middle" x="267" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Response</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M649,-162C649,-162 490,-162 490,-162 484,-162 478,-156 478,-150 478,-150 478,-134 478,-134 478,-128 484,-122 490,-122 490,-122 649,-122 649,-122 655,-122 661,-128 661,-134 661,-134 661,-150 661,-150 661,-156 655,-162 649,-162" />
+<text text-anchor="middle" x="569.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust Strengthened</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="267,-80 88,-40 267,0 446,-40 267,-80" />
+<text text-anchor="middle" x="267" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Response</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M625,-60C625,-60 514,-60 514,-60 508,-60 502,-54 502,-48 502,-48 502,-32 502,-32 502,-26 508,-20 514,-20 514,-20 625,-20 625,-20 631,-20 637,-26 637,-32 637,-32 637,-48 637,-48 637,-54 631,-60 625,-60" />
+<text text-anchor="middle" x="569.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust Eroded</text>
+</g>
+</g>
+</svg>

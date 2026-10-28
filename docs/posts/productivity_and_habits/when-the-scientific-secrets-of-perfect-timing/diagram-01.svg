@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="526pt" height="148pt" viewBox="0.00 0.00 525.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Chronotype: The Basis for Optimal Timing</title><desc id="description">Chronotype leads to Morning Person. Chronotype leads to Evening Person. Chronotype leads to Intermediate.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 507.5,-130 507.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M208.36,-71.87C185.4,-62.84 157.9,-52.03 134.17,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="134.99,-40.39 127.58,-40.1 133.2,-44.95 134.99,-40.39" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M257,-71.87C257,-64.31 257,-55.49 257,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="259.45,-47.1 257,-40.1 254.55,-47.1 259.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M302.36,-71.87C323.59,-62.92 348.98,-52.21 370.98,-42.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="372.2,-45.08 377.69,-40.1 370.29,-40.57 372.2,-45.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M306,-112C306,-112 208,-112 208,-112 202,-112 196,-106 196,-100 196,-100 196,-84 196,-84 196,-78 202,-72 208,-72 208,-72 306,-72 306,-72 312,-72 318,-78 318,-84 318,-84 318,-100 318,-100 318,-106 312,-112 306,-112" />
+<text text-anchor="middle" x="257" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronotype</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M146,-40C146,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 146,0 146,0 152,0 158,-6 158,-12 158,-12 158,-28 158,-28 158,-34 152,-40 146,-40" />
+<text text-anchor="middle" x="79" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Morning Person</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M322,-40C322,-40 192,-40 192,-40 186,-40 180,-34 180,-28 180,-28 180,-12 180,-12 180,-6 186,0 192,0 192,0 322,0 322,0 328,0 334,-6 334,-12 334,-12 334,-28 334,-28 334,-34 328,-40 322,-40" />
+<text text-anchor="middle" x="257" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Evening Person</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M477.5,-40C477.5,-40 368.5,-40 368.5,-40 362.5,-40 356.5,-34 356.5,-28 356.5,-28 356.5,-12 356.5,-12 356.5,-6 362.5,0 368.5,0 368.5,0 477.5,0 477.5,0 483.5,0 489.5,-6 489.5,-12 489.5,-12 489.5,-28 489.5,-28 489.5,-34 483.5,-40 477.5,-40" />
+<text text-anchor="middle" x="423" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Intermediate</text>
+</g>
+</g>
+</svg>

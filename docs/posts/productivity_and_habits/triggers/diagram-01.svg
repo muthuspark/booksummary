@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266pt" height="424pt" viewBox="0.00 0.00 266.00 424.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Personal Triggers</title><desc id="description">Identify Triggering Situations leads to Journaling. Journaling leads to Honest Self-Reflection. Honest Self-Reflection leads to Seeking Feedback. Seeking Feedback leads to Understanding Patterns.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 406)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-406 248,-406 248,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-327.81C115,-320.06 115,-311.5 115,-303.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-303.09 115,-296.09 112.55,-303.09 117.45,-303.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-215.79C115,-207.54 115,-199.04 115,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-191.09 115,-184.09 112.55,-191.09 117.45,-191.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-143.87C115,-136.31 115,-127.49 115,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-119.1 115,-112.1 112.55,-119.1 117.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M115,-71.87C115,-64.31 115,-55.49 115,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="117.45,-47.1 115,-40.1 112.55,-47.1 117.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M192.5,-388C192.5,-388 37.5,-388 37.5,-388 31.5,-388 25.5,-382 25.5,-376 25.5,-376 25.5,-340 25.5,-340 25.5,-334 31.5,-328 37.5,-328 37.5,-328 192.5,-328 192.5,-328 198.5,-328 204.5,-334 204.5,-340 204.5,-340 204.5,-376 204.5,-376 204.5,-382 198.5,-388 192.5,-388" />
+<text text-anchor="middle" x="115" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Triggering</text>
+<text text-anchor="middle" x="115" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Situations</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="115,-296 0,-256 115,-216 230,-256 115,-296" />
+<text text-anchor="middle" x="115" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Journaling</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M207.5,-184C207.5,-184 22.5,-184 22.5,-184 16.5,-184 10.5,-178 10.5,-172 10.5,-172 10.5,-156 10.5,-156 10.5,-150 16.5,-144 22.5,-144 22.5,-144 207.5,-144 207.5,-144 213.5,-144 219.5,-150 219.5,-156 219.5,-156 219.5,-172 219.5,-172 219.5,-178 213.5,-184 207.5,-184" />
+<text text-anchor="middle" x="115" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Honest Self-Reflection</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188.5,-112C188.5,-112 41.5,-112 41.5,-112 35.5,-112 29.5,-106 29.5,-100 29.5,-100 29.5,-84 29.5,-84 29.5,-78 35.5,-72 41.5,-72 41.5,-72 188.5,-72 188.5,-72 194.5,-72 200.5,-78 200.5,-84 200.5,-84 200.5,-100 200.5,-100 200.5,-106 194.5,-112 188.5,-112" />
+<text text-anchor="middle" x="115" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeking Feedback</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M212.5,-40C212.5,-40 17.5,-40 17.5,-40 11.5,-40 5.5,-34 5.5,-28 5.5,-28 5.5,-12 5.5,-12 5.5,-6 11.5,0 17.5,0 17.5,0 212.5,0 212.5,0 218.5,0 224.5,-6 224.5,-12 224.5,-12 224.5,-28 224.5,-28 224.5,-34 218.5,-40 212.5,-40" />
+<text text-anchor="middle" x="115" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding Patterns</text>
+</g>
+</g>
+</svg>

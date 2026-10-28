@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448pt" height="332pt" viewBox="0.00 0.00 448.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Relationships and the Expression of Love</title><desc id="description">Inner Wholeness leads to Self-Acceptance. Inner Wholeness leads to Self-Love. Self-Acceptance leads to Healthy Relationships. Self-Love leads to Healthy Relationships. Healthy Relationships leads to Mutual Growth.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 430,-314 430,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185.23,-255.87C176.18,-247.54 165.48,-237.68 155.92,-228.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="157.55,-227.04 150.74,-224.1 154.23,-230.65 157.55,-227.04" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M226.77,-255.87C235.82,-247.54 246.52,-237.68 256.08,-228.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.77,-230.65 261.26,-224.1 254.45,-227.04 257.77,-230.65" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.12,-183.91C153.98,-174.6 163.74,-163.04 173.08,-151.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="174.98,-153.53 177.63,-146.6 171.24,-150.37 174.98,-153.53" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M265.88,-183.91C258.02,-174.6 248.26,-163.04 238.92,-151.98" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="240.76,-150.37 234.37,-146.6 237.02,-153.53 240.76,-150.37" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M206,-71.79C206,-63.54 206,-55.04 206,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.45,-47.09 206,-40.09 203.55,-47.09 208.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-296C276,-296 136,-296 136,-296 130,-296 124,-290 124,-284 124,-284 124,-268 124,-268 124,-262 130,-256 136,-256 136,-256 276,-256 276,-256 282,-256 288,-262 288,-268 288,-268 288,-284 288,-284 288,-290 282,-296 276,-296" />
+<text text-anchor="middle" x="206" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Wholeness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196,-224C196,-224 64,-224 64,-224 58,-224 52,-218 52,-212 52,-212 52,-196 52,-196 52,-190 58,-184 64,-184 64,-184 196,-184 196,-184 202,-184 208,-190 208,-196 208,-196 208,-212 208,-212 208,-218 202,-224 196,-224" />
+<text text-anchor="middle" x="130" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Acceptance</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M322,-224C322,-224 242,-224 242,-224 236,-224 230,-218 230,-212 230,-212 230,-196 230,-196 230,-190 236,-184 242,-184 242,-184 322,-184 322,-184 328,-184 334,-190 334,-196 334,-196 334,-212 334,-212 334,-218 328,-224 322,-224" />
+<text text-anchor="middle" x="282" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Love</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="206,-152 0,-112 206,-72 412,-112 206,-152" />
+<text text-anchor="middle" x="206" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Relationships</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M269.5,-40C269.5,-40 142.5,-40 142.5,-40 136.5,-40 130.5,-34 130.5,-28 130.5,-28 130.5,-12 130.5,-12 130.5,-6 136.5,0 142.5,0 142.5,0 269.5,0 269.5,0 275.5,0 281.5,-6 281.5,-12 281.5,-12 281.5,-28 281.5,-28 281.5,-34 275.5,-40 269.5,-40" />
+<text text-anchor="middle" x="206" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Growth</text>
+</g>
+</g>
+</svg>

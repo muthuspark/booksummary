@@ -15,15 +15,7 @@ author: "Steven D. Levitt and Stephen J. Dubner"
 
 The book emphasizes the influence of incentives – both positive and negative – on human behavior. Understanding what motivates people, whether it's money, prestige, or fear, is important to predicting their actions and designing effective solutions. Levitt and Dubner illustrate this with numerous examples, from the unexpected consequences of anti-drug campaigns to the surprising effectiveness of certain crime-fighting strategies.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Identify Incentives);
-    B --> C{Positive or Negative?};
-    C -- Positive --> D[Reward desired behavior];
-    C -- Negative --> E[Punish undesired behavior];
-    D --> F[Improved outcome];
-    E --> F;
-```
+![The Power of Incentives. Problem; Identify Incentives; Positive or Negative?; Reward desired behavior; Punish undesired behavior; Improved outcome.](diagram-01.svg)
 
 The key takeaway is to analyze the incentive structure surrounding any problem before attempting to solve it. Are the incentives aligned with the desired outcome? If not, how can they be adjusted?
 
@@ -40,17 +32,7 @@ This necessitates a constant questioning of "why" and a willingness to look at u
 The book advocates for a data-driven approach to problem-solving.  Instead of relying on intuition or anecdotal evidence, readers are urged to collect and analyze data to understand the underlying causes of problems and to evaluate the effectiveness of potential solutions.  This involves recognizing biases in data collection and interpretation.
 
 
-```mermaid
-graph LR
-    A[Problem] --> B(Gather Data);
-    B --> C[Analyze Data];
-    C --> D{Identify Patterns};
-    D --> E[Formulate Hypothesis];
-    E --> F[Test Hypothesis];
-    F --> G{Successful?};
-    G -- Yes --> H[Implement Solution];
-    G -- No --> I[Refine Hypothesis];
-```
+![The Role of Data and Evidence-Based Decision Making. Problem; Gather Data; Analyze Data; Identify Patterns; Formulate Hypothesis; Test Hypothesis; Successful?; Implement Solution; Refine Hypothesis.](diagram-02.svg)
 
 This systematic approach, grounded in evidence, enables more accurate predictions and informed decisions.
 

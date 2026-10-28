@@ -28,16 +28,7 @@ The book heavily emphasizes the critical difference between decision quality and
 
 Instead of seeking single-point predictions (e.g., "the stock price will be $100"), Duke advocates for thinking in ranges or probability distributions. This acknowledges the uncertainty in most situations. By estimating a range of possible outcomes and their probabilities, decision-makers develop a better understanding of the situation and are better equipped to manage risk.
 
-```mermaid
-graph LR
-    A[Decision] --> B{Outcome};
-    B -- Good --> C[Resulting Bias: Good Decision];
-    B -- Bad --> D[Resulting Bias: Bad Decision];
-    E[Decision Quality] --> F{Process};
-    F -.-> G[Thorough Analysis];
-    F -.-> H[Risk Assessment];
-    F -.-> I[Alternative Consideration];
-```
+![Thinking in Ranges, Not Points. Decision; Outcome; Resulting Bias: Good Decision; Resulting Bias: Bad Decision; Decision Quality; Process; Thorough Analysis; Risk Assessment; Alternative Consideration.](diagram-01.svg)
 
 # Utilizing Bayesian Thinking
 
@@ -84,17 +75,7 @@ Regular reflection is essential. After a decision, take time to review the proce
 
 Duke doesn't offer a rigid framework, but rather encourages the development of a personalized system.  This system should integrate the principles discussed:
 
-```mermaid
-graph LR
-  A[Problem Definition] --> B(Information Gathering);
-  B --> C(Alternative Generation);
-  C --> D{Risk Assessment};
-  D --> E(Pre-Mortem Analysis);
-  E --> F(Decision Making);
-  F --> G(Implementation);
-  G --> H(Feedback & Reflection);
-  H --> A;
-```
+![Developing a Decision-Making Framework. Problem Definition; Information Gathering; Alternative Generation; Risk Assessment; Pre-Mortem Analysis; Decision Making; Implementation; Feedback & Reflection.](diagram-02.svg)
 
 ## Embracing the Iterative Process
 

@@ -14,13 +14,7 @@ Wayne Dyer's "Change Your Thoughts, Change Your Life" centers on the transformat
 
 Dyer emphasizes the role of identifying and releasing deeply ingrained limiting beliefs.  These beliefs, often formed in childhood or through negative experiences, subtly dictate our actions and shape our reality. He encourages self-reflection and introspection to uncover these hidden beliefs.  Journaling, meditation, and honest self-assessment are suggested tools.
 
-```mermaid
-graph LR
-A[Negative Experiences] --> B(Limiting Beliefs);
-B --> C[Self-Sabotaging Behaviors];
-C --> D(Negative Outcomes);
-D --> A;
-```
+![Identifying and Releasing Limiting Beliefs. Negative Experiences; Limiting Beliefs; Self-Sabotaging Behaviors; Negative Outcomes.](diagram-01.svg)
 
 This cycle must be broken by consciously challenging and replacing limiting beliefs with empowering affirmations and positive self-talk.
 

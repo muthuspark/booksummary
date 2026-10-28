@@ -15,15 +15,7 @@ James Cordova's "The Marriage Checkup" isn't about fixing broken marriages; it's
 
 Cordova presents a framework for evaluating a marriage's health across many key dimensions.  This self-assessment isn't about assigning blame, but understanding the current state of the relationship to identify areas needing attention.  He encourages couples to honestly evaluate their strengths and weaknesses in areas like communication, intimacy, conflict resolution, financial management, and shared values.  This honest assessment is the foundation for targeted improvement.
 
-```mermaid
-graph LR
-    A[Communication] --> B(Strengths & Weaknesses)
-    C[Intimacy] --> B
-    D[Conflict Resolution] --> B
-    E[Financial Management] --> B
-    F[Shared Values] --> B
-    B --> G(Action Plan)
-```
+![Identifying Your Marriage's Strengths and Weaknesses. Communication; Strengths & Weaknesses; Intimacy; Conflict Resolution; Financial Management; Shared Values; Action Plan.](diagram-01.svg)
 
 
 ## Communication: The Cornerstone of a Strong Marriage
@@ -104,10 +96,5 @@ Cordova acknowledges that not all marital challenges can be overcome independent
 
 The Marriage Checkup concludes by emphasizing that building and maintaining a strong marriage is an ongoing process requiring continuous effort, commitment, and a willingness to grow together. Regular check-ins, open communication, and a commitment to nurturing the relationship are essential for long-term success. The book serves as a roadmap for couples to proactively address potential challenges and create a lasting and fulfilling partnership.
 
-```mermaid
-graph LR
-    A[Regular Check-ins] --> B(Healthy Marriage)
-    C[Open Communication] --> B
-    D[Commitment & Growth] --> B
-```
+![Maintaining a Healthy Marriage: Ongoing Effort and Commitment. Regular Check-ins; Healthy Marriage; Open Communication; Commitment & Growth.](diagram-02.svg)
 

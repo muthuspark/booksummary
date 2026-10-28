@@ -14,14 +14,7 @@ Michael Roberto's "The Art of Critical Decision Making" challenges the simplisti
 
 Accurately defining the problem is paramount.  A poorly framed problem leads to ineffective solutions. Roberto suggests engaging in thorough investigation, gathering various perspectives, and reframing the problem iteratively as new information emerges.   Avoid premature closure; allow time for a thorough understanding of the situation before jumping to conclusions.
 
-```mermaid
-graph LR
-    A[Gather Information] --> B(Analyze Situation);
-    C[Diverse Perspectives] --> B;
-    B --> D{Reframe Problem?};
-    D -- Yes --> B;
-    D -- No --> E[Develop Solutions];
-```
+![The Importance of Framing the Problem. Gather Information; Analyze Situation; Diverse Perspectives; Reframe Problem?; Develop Solutions.](diagram-01.svg)
 
 # Cognitive Biases and Their Impact
 
@@ -43,13 +36,7 @@ While data-driven analysis is important, Roberto acknowledges the value of intui
 
 Uncertainty is in most significant decisions. Roberto emphasizes the importance of proactively assessing potential risks and developing contingency plans. This involves identifying potential downsides, estimating their likelihood and impact, and devising strategies to mitigate them. Flexibility and adaptability are important in navigating unexpected events.
 
-```mermaid
-graph LR
-    A[Identify Risks] --> B(Assess Likelihood & Impact);
-    B --> C[Develop Mitigation Strategies];
-    C --> D(Contingency Plans);
-    D --> E[Monitor & Adapt];
-```
+![Risk Assessment and Contingency Planning. Identify Risks; Assess Likelihood & Impact; Develop Mitigation Strategies; Contingency Plans; Monitor & Adapt.](diagram-02.svg)
 
 # Decision Implementation and Evaluation
 

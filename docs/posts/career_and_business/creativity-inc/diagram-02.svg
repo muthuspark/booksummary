@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434pt" height="372pt" viewBox="0.00 0.00 434.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">Leadership, Delegation, and Trust: Empowering Others</title><desc id="description">Leader leads to Delegation &amp; Empowerment. Delegation &amp; Empowerment leads to Increased Ownership. Increased Ownership leads to Improved Creativity &amp; Innovation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 416,-354 416,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199,-295.63C199,-288.34 199,-279.78 199,-271.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.45,-271.19 199,-264.19 196.55,-271.19 201.45,-271.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199,-203.81C199,-196.06 199,-187.5 199,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.45,-179.09 199,-172.09 196.55,-179.09 201.45,-179.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199,-91.76C199,-83.72 199,-75.29 199,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.45,-67.23 199,-60.23 196.55,-67.23 201.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229,-336C229,-336 169,-336 169,-336 163,-336 157,-330 157,-324 157,-324 157,-308 157,-308 157,-302 163,-296 169,-296 169,-296 229,-296 229,-296 235,-296 241,-302 241,-308 241,-308 241,-324 241,-324 241,-330 235,-336 229,-336" />
+<text text-anchor="middle" x="199" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leader</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M261,-264C261,-264 137,-264 137,-264 131,-264 125,-258 125,-252 125,-252 125,-216 125,-216 125,-210 131,-204 137,-204 137,-204 261,-204 261,-204 267,-204 273,-210 273,-216 273,-216 273,-252 273,-252 273,-258 267,-264 261,-264" />
+<text text-anchor="middle" x="199" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Delegation &amp;</text>
+<text text-anchor="middle" x="199" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empowerment</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="199,-172 0,-132 199,-92 398,-132 199,-172" />
+<text text-anchor="middle" x="199" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Ownership</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M290,-60C290,-60 108,-60 108,-60 102,-60 96,-54 96,-48 96,-48 96,-12 96,-12 96,-6 102,0 108,0 108,0 290,0 290,0 296,0 302,-6 302,-12 302,-12 302,-48 302,-48 302,-54 296,-60 290,-60" />
+<text text-anchor="middle" x="199" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Creativity &amp;</text>
+<text text-anchor="middle" x="199" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation</text>
+</g>
+</g>
+</svg>

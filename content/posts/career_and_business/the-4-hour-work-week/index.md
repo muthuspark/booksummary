@@ -22,12 +22,7 @@ This initial stage focuses on introspection. What truly matters to you? What doe
 
 This stage emphasizes removing distractions and time-wasters that prevent you from pursuing your defined goals.  This involves identifying activities that don’t contribute to your defined lifestyle and systematically eliminating them.  This could be anything from unnecessary meetings to unproductive social media scrolling.
 
-```mermaid
-graph TD
-    A[Defined Lifestyle] --> B(Identify Time Wasters);
-    B --> C{Eliminate Non-Essential Tasks};
-    C --> D[Focus on High-Impact Activities];
-```
+![Elimination: Removing the Unnecessary. Defined Lifestyle; Identify Time Wasters; Eliminate Non-Essential Tasks; Focus on High-Impact Activities.](diagram-01.svg)
 
 ### Automation: Building Systems for Passive Income
 
@@ -50,12 +45,7 @@ Ferriss advocates creating income streams that don’t require your constant phy
 * **Creating and selling physical products through drop-shipping:** This strategy involves selling products online without holding inventory.  The supplier ships the product directly to the customer, minimizing overhead and logistical complexities.
 
 
-```mermaid
-graph LR
-    A[Information Products] --> B(Ebooks, Courses, Software);
-    C[Affiliate Marketing] --> D(Promote Products, Earn Commission);
-    E["Physical Products (Drop-shipping)"] --> F(Sell Online, No Inventory);
-```
+![Remote-Controlled Income Streams. Information Products; Ebooks, Courses, Software; Affiliate Marketing; Promote Products, Earn Commission; Physical Products (Drop-shipping); Sell Online, No Inventory.](diagram-02.svg)
 
 
 ###  Minimizing Workload and Maximizing Impact:

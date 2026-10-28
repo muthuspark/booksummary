@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480pt" height="332pt" viewBox="0.00 0.00 480.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Family Rituals</title><desc id="description">Shared Experience leads to Rituals. Rituals leads to Connection. Rituals leads to Identity. Connection leads to Family Well-being. Identity leads to Family Well-being.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 462,-314 462,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M235,-255.87C235,-248.31 235,-239.49 235,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237.45,-231.1 235,-224.1 232.55,-231.1 237.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M210.4,-183.91C195.7,-172.51 176.66,-157.74 159.77,-144.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="161.16,-142.61 154.13,-140.25 158.16,-146.48 161.16,-142.61" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M259.81,-183.91C275.36,-171.95 295.73,-156.29 313.36,-142.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="315.17,-144.42 319.22,-138.21 312.18,-140.54 315.17,-144.42" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.12,-83.75C170.27,-71.22 189.25,-56.5 204.76,-44.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.27,-46.39 210.3,-40.16 203.27,-42.52 206.27,-46.39" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M319.41,-85.93C302.67,-73.05 282.38,-57.45 265.89,-44.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="267.04,-42.56 260,-40.23 264.05,-46.44 267.04,-42.56" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M312.5,-296C312.5,-296 157.5,-296 157.5,-296 151.5,-296 145.5,-290 145.5,-284 145.5,-284 145.5,-268 145.5,-268 145.5,-262 151.5,-256 157.5,-256 157.5,-256 312.5,-256 312.5,-256 318.5,-256 324.5,-262 324.5,-268 324.5,-268 324.5,-284 324.5,-284 324.5,-290 318.5,-296 312.5,-296" />
+<text text-anchor="middle" x="235" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Shared Experience</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M265.5,-224C265.5,-224 204.5,-224 204.5,-224 198.5,-224 192.5,-218 192.5,-212 192.5,-212 192.5,-196 192.5,-196 192.5,-190 198.5,-184 204.5,-184 204.5,-184 265.5,-184 265.5,-184 271.5,-184 277.5,-190 277.5,-196 277.5,-196 277.5,-212 277.5,-212 277.5,-218 271.5,-224 265.5,-224" />
+<text text-anchor="middle" x="235" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rituals</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="119,-152 0,-112 119,-72 238,-112 119,-152" />
+<text text-anchor="middle" x="119" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Connection</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="352,-152 260,-112 352,-72 444,-112 352,-152" />
+<text text-anchor="middle" x="352" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identity</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M310.5,-40C310.5,-40 159.5,-40 159.5,-40 153.5,-40 147.5,-34 147.5,-28 147.5,-28 147.5,-12 147.5,-12 147.5,-6 153.5,0 159.5,0 159.5,0 310.5,0 310.5,0 316.5,0 322.5,-6 322.5,-12 322.5,-12 322.5,-28 322.5,-28 322.5,-34 316.5,-40 310.5,-40" />
+<text text-anchor="middle" x="235" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Family Well-being</text>
+</g>
+</g>
+</svg>

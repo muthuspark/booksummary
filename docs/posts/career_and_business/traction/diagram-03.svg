@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393pt" height="351pt" viewBox="0.00 0.00 393.00 351.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Iteration: Testing and Refining Your Approach</title><desc id="description">Idea leads to Test. Test leads to Analyze Results. Analyze Results leads to Scale (Positive Results). Analyze Results leads to Refine &amp; Iterate (Negative Results). Refine &amp; Iterate leads to Test.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 333)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-333 375,-333 375,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M296,-274.97C296,-267.09 296,-257.82 296,-249.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="298.45,-249.08 296,-242.08 293.55,-249.08 298.45,-249.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266.44,-201.92C248.43,-190.3 224.97,-175.16 204.23,-161.77" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.38,-159.6 198.17,-157.86 202.72,-163.72 205.38,-159.6" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M104.64,-101.91C94.33,-94.08 84.85,-84.46 79,-73 75.02,-65.21 74.06,-55.87 74.39,-47.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="76.83,-47.44 74.94,-40.27 71.95,-47.05 76.83,-47.44" />
+<text text-anchor="middle" x="133" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Positive Results</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M177.85,-94.76C187.92,-81.65 200.53,-67.1 214,-56 219.34,-51.6 225.32,-47.5 231.43,-43.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.78,-45.82 237.57,-40.16 230.29,-41.59 232.78,-45.82" />
+<text text-anchor="middle" x="270.5" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Negative Results</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M314.69,-40.08C320.06,-44.57 324.84,-49.86 328,-56 351.35,-101.36 327.87,-161.73 310.65,-195.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="308.39,-194.48 307.3,-201.82 312.72,-196.76 308.39,-194.48" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M316,-315C316,-315 276,-315 276,-315 270,-315 264,-309 264,-303 264,-303 264,-287 264,-287 264,-281 270,-275 276,-275 276,-275 316,-275 316,-275 322,-275 328,-281 328,-287 328,-287 328,-303 328,-303 328,-309 322,-315 316,-315" />
+<text text-anchor="middle" x="296" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M315,-242C315,-242 277,-242 277,-242 271,-242 265,-236 265,-230 265,-230 265,-214 265,-214 265,-208 271,-202 277,-202 277,-202 315,-202 315,-202 321,-202 327,-208 327,-214 327,-214 327,-230 327,-230 327,-236 321,-242 315,-242" />
+<text text-anchor="middle" x="296" y="-217.6" font-family="Georgia" font-size="18.00" fill="#243d36">Test</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="155,-169 0,-129 155,-89 310,-129 155,-169" />
+<text text-anchor="middle" x="155" y="-124.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analyze Results</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M102,-40C102,-40 56,-40 56,-40 50,-40 44,-34 44,-28 44,-28 44,-12 44,-12 44,-6 50,0 56,0 56,0 102,0 102,0 108,0 114,-6 114,-12 114,-12 114,-28 114,-28 114,-34 108,-40 102,-40" />
+<text text-anchor="middle" x="79" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Scale</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M345,-40C345,-40 213,-40 213,-40 207,-40 201,-34 201,-28 201,-28 201,-12 201,-12 201,-6 207,0 213,0 213,0 345,0 345,0 351,0 357,-6 357,-12 357,-12 357,-28 357,-28 357,-34 351,-40 345,-40" />
+<text text-anchor="middle" x="279" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refine &amp; Iterate</text>
+</g>
+</g>
+</svg>

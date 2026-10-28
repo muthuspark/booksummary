@@ -20,16 +20,7 @@ The book challenges the common misconception of spiritual life as a constant sta
 
 Mindfulness is presented not as a technique, but as a way of being, a fundamental practice for navigating daily life.  It involves paying attention to the present moment without judgment, fostering awareness of thoughts, emotions, and sensations without getting carried away by them.  Kornfield encourages simple mindfulness practices like paying attention to breath, body sensations, or the sounds around you.  This grounded awareness helps us navigate difficult situations with more clarity and composure.
 
-```mermaid
-graph LR
-A[Daily Life] --> B(Mindfulness);
-B --> C{Clarity};
-B --> D{Composure};
-C --> E[Improved Decision Making];
-D --> F[Reduced Stress];
-E --> G(Better Relationships);
-F --> G;
-```
+![Cultivating Mindfulness: Living in the Present Moment. Daily Life; Mindfulness; Clarity; Composure; Improved Decision Making; Reduced Stress; Better Relationships.](diagram-01.svg)
 
 ## Compassion for Self and Others: The Heart of Practice
 

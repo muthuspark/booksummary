@@ -84,19 +84,7 @@ The core message of "The Artist's Way" is the importance of trusting the process
 
 ## Visualizing the Process:
 
-```mermaid
-graph LR
-    A[Start] --> B(Morning Pages);
-    B --> C(Artist Dates);
-    C --> D{Identify Limiting Beliefs};
-    D --> E(Challenge Beliefs);
-    E --> F{Confront Resistance};
-    F --> G(Shadow Work);
-    G --> H(Self-Compassion);
-    H --> I(Embrace Imperfection);
-    I --> J(Trust the Process);
-    J --> K[Results: Unleashed Creativity];
-```
+![Visualizing the Process:. Start; Morning Pages; Artist Dates; Identify Limiting Beliefs; Challenge Beliefs; Confront Resistance; Shadow Work; Self-Compassion; Embrace Imperfection; Trust the Process; Results: Unleashed Creativity.](diagram-01.svg)
 
 
 "The Artist's Way" offers a practical and supportive guide for anyone seeking to reconnect with their creative potential. By consistently applying the principles and practices outlined in the book, readers can overcome creative blocks,  self-compassion, and embark on a journey of self-discovery and creative fulfillment. The program's emphasis on self-reflection, consistent action, and self-forgiveness provides a powerful framework for personal growth and creative expression in all aspects of life.

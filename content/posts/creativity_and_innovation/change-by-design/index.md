@@ -20,12 +20,7 @@ At the heart of design thinking lies an understanding of human needs and behavio
 Before jumping to solutions, design thinking insists on clearly defining the problem at hand.  Brown stresses the iterative nature of problem definition. Initial problem statements are often vague and require refinement through exploration and research. He advocates for reframing the problem from different angles, challenging assumptions, and looking beyond the obvious symptoms to uncover the root causes.  This process helps to avoid solving the wrong problem.
 
 
-```mermaid
-graph TD
-    A[Initial Fuzzy Problem] --> B{Research & Observation};
-    B --> C[Refined Problem Statement];
-    C --> D[Clear Problem Definition];
-```
+![Defining the Problem: From Fuzzy to Focused. Initial Fuzzy Problem; Research & Observation; Refined Problem Statement; Clear Problem Definition.](diagram-01.svg)
 
 
 ## Ideation: Generating Diverse Solutions
@@ -38,13 +33,7 @@ Once the problem is well-defined, the next phase involves generating a wide rang
 Prototyping is an aspect of design thinking, allowing for early and frequent testing of ideas. Brown advocates for creating low-fidelity prototypes – quick and inexpensive representations of potential solutions – to test core concepts and gather feedback. He emphasizes the importance of iterative prototyping, using feedback from testing to refine and improve the design. This continuous feedback loop is essential for creating solutions that truly meet user needs.
 
 
-```mermaid
-graph LR
-    A[Idea Generation] --> B(Prototype Creation);
-    B --> C{Testing & Feedback};
-    C --> D[Prototype Iteration];
-    D --> E[Final Solution];
-```
+![Prototyping: Testing and Iteration. Idea Generation; Prototype Creation; Testing & Feedback; Prototype Iteration; Final Solution.](diagram-02.svg)
 
 
 ## Testing and Feedback: Learning from Failure

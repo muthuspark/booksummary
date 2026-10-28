@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="509pt" height="292pt" viewBox="0.00 0.00 508.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">Genetics: A Complex Landscape</title><desc id="description">Genetics leads to Muscle Fiber Type. Genetics leads to VO2 Max. Genetics leads to Bone Structure. Muscle Fiber Type leads to Power. VO2 Max leads to Endurance. Bone Structure leads to Strength. Power leads to Athletic Performance. Endurance leads to Athletic Performance. Strength leads to Athletic Performance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 490.5,-274 490.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M205.73,-215.87C185.02,-206.92 160.24,-196.21 138.76,-186.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="139.61,-184.63 132.21,-184.1 137.67,-189.13 139.61,-184.63" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M250,-215.87C250,-208.31 250,-199.49 250,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.45,-191.1 250,-184.1 247.55,-191.1 252.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M290.44,-215.87C309.2,-207 331.62,-196.4 351.12,-187.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="352.33,-189.31 357.61,-184.1 350.23,-184.88 352.33,-189.31" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.74,-143.87C96.05,-136.16 98.76,-127.13 101.25,-118.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.6,-119.51 103.27,-112.1 98.91,-118.11 103.6,-119.51" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M250,-143.87C250,-136.31 250,-127.49 250,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.45,-119.1 250,-112.1 247.55,-119.1 252.45,-119.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M395.27,-143.87C394.19,-136.31 392.93,-127.49 391.76,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="394.14,-118.69 390.73,-112.1 389.29,-119.38 394.14,-118.69" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M147.53,-71.87C165.25,-63.08 186.39,-52.58 204.85,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.34,-45.41 211.52,-40.1 204.16,-41.02 206.34,-45.41" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M250,-71.87C250,-64.31 250,-55.49 250,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.45,-47.1 250,-40.1 247.55,-47.1 252.45,-47.1" />
+</g>
+
+<g id="edge9" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M350.29,-71.87C332.95,-63.08 312.26,-52.58 294.19,-43.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.01,-41.09 287.66,-40.1 292.8,-45.46 295.01,-41.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M286.5,-256C286.5,-256 213.5,-256 213.5,-256 207.5,-256 201.5,-250 201.5,-244 201.5,-244 201.5,-228 201.5,-228 201.5,-222 207.5,-216 213.5,-216 213.5,-216 286.5,-216 286.5,-216 292.5,-216 298.5,-222 298.5,-228 298.5,-228 298.5,-244 298.5,-244 298.5,-250 292.5,-256 286.5,-256" />
+<text text-anchor="middle" x="250" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Genetics</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-184C164,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 164,-144 164,-144 170,-144 176,-150 176,-156 176,-156 176,-172 176,-172 176,-178 170,-184 164,-184" />
+<text text-anchor="middle" x="88" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Muscle Fiber Type</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M289.5,-184C289.5,-184 210.5,-184 210.5,-184 204.5,-184 198.5,-178 198.5,-172 198.5,-172 198.5,-156 198.5,-156 198.5,-150 204.5,-144 210.5,-144 210.5,-144 289.5,-144 289.5,-144 295.5,-144 301.5,-150 301.5,-156 301.5,-156 301.5,-172 301.5,-172 301.5,-178 295.5,-184 289.5,-184" />
+<text text-anchor="middle" x="250" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">VO2 Max</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M460.5,-184C460.5,-184 335.5,-184 335.5,-184 329.5,-184 323.5,-178 323.5,-172 323.5,-172 323.5,-156 323.5,-156 323.5,-150 329.5,-144 335.5,-144 335.5,-144 460.5,-144 460.5,-144 466.5,-144 472.5,-150 472.5,-156 472.5,-156 472.5,-172 472.5,-172 472.5,-178 466.5,-184 460.5,-184" />
+<text text-anchor="middle" x="398" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bone Structure</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M137,-112C137,-112 81,-112 81,-112 75,-112 69,-106 69,-100 69,-100 69,-84 69,-84 69,-78 75,-72 81,-72 81,-72 137,-72 137,-72 143,-72 149,-78 149,-84 149,-84 149,-100 149,-100 149,-106 143,-112 137,-112" />
+<text text-anchor="middle" x="109" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Power</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M296,-112C296,-112 204,-112 204,-112 198,-112 192,-106 192,-100 192,-100 192,-84 192,-84 192,-78 198,-72 204,-72 204,-72 296,-72 296,-72 302,-72 308,-78 308,-84 308,-84 308,-100 308,-100 308,-106 302,-112 296,-112" />
+<text text-anchor="middle" x="250" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Endurance</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M424.5,-112C424.5,-112 351.5,-112 351.5,-112 345.5,-112 339.5,-106 339.5,-100 339.5,-100 339.5,-84 339.5,-84 339.5,-78 345.5,-72 351.5,-72 351.5,-72 424.5,-72 424.5,-72 430.5,-72 436.5,-78 436.5,-84 436.5,-84 436.5,-100 436.5,-100 436.5,-106 430.5,-112 424.5,-112" />
+<text text-anchor="middle" x="388" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strength</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M337.5,-40C337.5,-40 162.5,-40 162.5,-40 156.5,-40 150.5,-34 150.5,-28 150.5,-28 150.5,-12 150.5,-12 150.5,-6 156.5,0 162.5,0 162.5,0 337.5,0 337.5,0 343.5,0 349.5,-6 349.5,-12 349.5,-12 349.5,-28 349.5,-28 349.5,-34 343.5,-40 337.5,-40" />
+<text text-anchor="middle" x="250" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Athletic Performance</text>
+</g>
+</g>
+</svg>

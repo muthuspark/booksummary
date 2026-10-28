@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="572pt" height="220pt" viewBox="0.00 0.00 572.00 220.00" role="img" aria-labelledby="title description">
+<title id="title">Asset Allocation: The Cornerstone of the Investment Strategy</title><desc id="description">Stocks (US) leads to Diversification. Stocks (International) leads to Diversification. Bonds leads to Diversification. Cash leads to Diversification. Diversification leads to Reduced Risk.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 202)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-202 554,-202 554,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M121.3,-146.71C124.75,-145.79 128.17,-144.88 131.5,-144 169.05,-134.04 210.72,-123.07 245.78,-113.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="246.55,-116.2 252.7,-112.06 245.31,-111.46 246.55,-116.2" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325.5,-71.87C325.5,-64.31 325.5,-55.49 325.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="327.95,-47.1 325.5,-40.1 323.05,-47.1 327.95,-47.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266.63,-143.87C276.28,-135.54 287.68,-125.68 297.87,-116.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="299.7,-118.54 303.39,-112.1 296.49,-114.83 299.7,-118.54" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M385.09,-143.87C375.33,-135.54 363.78,-125.68 353.47,-116.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="354.79,-114.79 347.88,-112.1 351.61,-118.51 354.79,-114.79" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M468.93,-148.33C465.42,-146.85 461.89,-145.38 458.5,-144 434.01,-134.02 406.77,-123.48 383.35,-114.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="383.95,-112.19 376.54,-112 382.21,-116.77 383.95,-112.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M109,-184C109,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 109,-144 109,-144 115,-144 121,-150 121,-156 121,-156 121,-172 121,-172 121,-178 115,-184 109,-184" />
+<text text-anchor="middle" x="60.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stocks (US)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M386.5,-112C386.5,-112 264.5,-112 264.5,-112 258.5,-112 252.5,-106 252.5,-100 252.5,-100 252.5,-84 252.5,-84 252.5,-78 258.5,-72 264.5,-72 264.5,-72 386.5,-72 386.5,-72 392.5,-72 398.5,-78 398.5,-84 398.5,-84 398.5,-100 398.5,-100 398.5,-106 392.5,-112 386.5,-112" />
+<text text-anchor="middle" x="325.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Diversification</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M334,-184C334,-184 155,-184 155,-184 149,-184 143,-178 143,-172 143,-172 143,-156 143,-156 143,-150 149,-144 155,-144 155,-144 334,-144 334,-144 340,-144 346,-150 346,-156 346,-156 346,-172 346,-172 346,-178 340,-184 334,-184" />
+<text text-anchor="middle" x="244.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stocks (International)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M435,-184C435,-184 380,-184 380,-184 374,-184 368,-178 368,-172 368,-172 368,-156 368,-156 368,-150 374,-144 380,-144 380,-144 435,-144 435,-144 441,-144 447,-150 447,-156 447,-156 447,-172 447,-172 447,-178 441,-184 435,-184" />
+<text text-anchor="middle" x="407.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Bonds</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M524,-184C524,-184 481,-184 481,-184 475,-184 469,-178 469,-172 469,-172 469,-156 469,-156 469,-150 475,-144 481,-144 481,-144 524,-144 524,-144 530,-144 536,-150 536,-156 536,-156 536,-172 536,-172 536,-178 530,-184 524,-184" />
+<text text-anchor="middle" x="502.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cash</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M383,-40C383,-40 268,-40 268,-40 262,-40 256,-34 256,-28 256,-28 256,-12 256,-12 256,-6 262,0 268,0 268,0 383,0 383,0 389,0 395,-6 395,-12 395,-12 395,-28 395,-28 395,-34 389,-40 383,-40" />
+<text text-anchor="middle" x="325.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduced Risk</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180pt" height="404pt" viewBox="0.00 0.00 180.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Labeling Emotions: Giving Names to Feelings</title><desc id="description">Recognize leads to Understand. Understand leads to Label. Label leads to Express. Express leads to Regulate.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 162,-386 162,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72,-327.87C72,-320.31 72,-311.49 72,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="74.45,-303.1 72,-296.1 69.55,-303.1 74.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72,-255.91C72,-248.58 72,-239.86 72,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="74.45,-231.07 72,-224.07 69.55,-231.07 74.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72,-143.79C72,-135.54 72,-127.04 72,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="74.45,-119.09 72,-112.09 69.55,-119.09 74.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72,-71.87C72,-64.31 72,-55.49 72,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="74.45,-47.1 72,-40.1 69.55,-47.1 74.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M115,-368C115,-368 29,-368 29,-368 23,-368 17,-362 17,-356 17,-356 17,-340 17,-340 17,-334 23,-328 29,-328 29,-328 115,-328 115,-328 121,-328 127,-334 127,-340 127,-340 127,-356 127,-356 127,-362 121,-368 115,-368" />
+<text text-anchor="middle" x="72" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recognize</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M121.5,-296C121.5,-296 22.5,-296 22.5,-296 16.5,-296 10.5,-290 10.5,-284 10.5,-284 10.5,-268 10.5,-268 10.5,-262 16.5,-256 22.5,-256 22.5,-256 121.5,-256 121.5,-256 127.5,-256 133.5,-262 133.5,-268 133.5,-268 133.5,-284 133.5,-284 133.5,-290 127.5,-296 121.5,-296" />
+<text text-anchor="middle" x="72" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understand</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="72,-224 0,-184 72,-144 144,-184 72,-224" />
+<text text-anchor="middle" x="72" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Label</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M106,-112C106,-112 38,-112 38,-112 32,-112 26,-106 26,-100 26,-100 26,-84 26,-84 26,-78 32,-72 38,-72 38,-72 106,-72 106,-72 112,-72 118,-78 118,-84 118,-84 118,-100 118,-100 118,-106 112,-112 106,-112" />
+<text text-anchor="middle" x="72" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Express</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M109.5,-40C109.5,-40 34.5,-40 34.5,-40 28.5,-40 22.5,-34 22.5,-28 22.5,-28 22.5,-12 22.5,-12 22.5,-6 28.5,0 34.5,0 34.5,0 109.5,0 109.5,0 115.5,0 121.5,-6 121.5,-12 121.5,-12 121.5,-28 121.5,-28 121.5,-34 115.5,-40 109.5,-40" />
+<text text-anchor="middle" x="72" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Regulate</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="285pt" height="312pt" viewBox="0.00 0.00 285.00 312.00" role="img" aria-labelledby="title description">
+<title id="title">Moving Forward: Sustaining Love and Respect</title><desc id="description">Husband shows Respect leads to Wife feels Loved. Wife feels Loved leads to Wife shows Love. Wife shows Love leads to Husband feels Respected. Husband feels Respected leads to Husband shows Respect.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 267,-294 267,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M122.42,-235.87C115.89,-227.85 108.2,-218.41 101.24,-209.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="102.88,-207.99 96.56,-204.1 99.08,-211.08 102.88,-207.99" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M81,-163.87C81,-156.31 81,-147.49 81,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="83.45,-139.1 81,-132.1 78.55,-139.1 83.45,-139.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.8,-91.63C100.31,-83.9 106.84,-74.74 113.12,-65.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="115.14,-67.31 117.2,-60.19 111.15,-64.47 115.14,-67.31" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M158.76,-60.04C164.54,-69.74 170.04,-80.91 173,-92 185.82,-140.1 187.74,-156.46 173,-204 170.16,-213.15 165.05,-222.12 159.59,-229.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="157.56,-228.56 155.38,-235.65 161.5,-231.46 157.56,-228.56" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M237,-276C237,-276 39,-276 39,-276 33,-276 27,-270 27,-264 27,-264 27,-248 27,-248 27,-242 33,-236 39,-236 39,-236 237,-236 237,-236 243,-236 249,-242 249,-248 249,-248 249,-264 249,-264 249,-270 243,-276 237,-276" />
+<text text-anchor="middle" x="138" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Husband shows Respect</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149.5,-204C149.5,-204 12.5,-204 12.5,-204 6.5,-204 0.5,-198 0.5,-192 0.5,-192 0.5,-176 0.5,-176 0.5,-170 6.5,-164 12.5,-164 12.5,-164 149.5,-164 149.5,-164 155.5,-164 161.5,-170 161.5,-176 161.5,-176 161.5,-192 161.5,-192 161.5,-198 155.5,-204 149.5,-204" />
+<text text-anchor="middle" x="81" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wife feels Loved</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M150,-132C150,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-104 0,-104 0,-98 6,-92 12,-92 12,-92 150,-92 150,-92 156,-92 162,-98 162,-104 162,-104 162,-120 162,-120 162,-126 156,-132 150,-132" />
+<text text-anchor="middle" x="81" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wife shows Love</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197.5,-60C197.5,-60 78.5,-60 78.5,-60 72.5,-60 66.5,-54 66.5,-48 66.5,-48 66.5,-12 66.5,-12 66.5,-6 72.5,0 78.5,0 78.5,0 197.5,0 197.5,0 203.5,0 209.5,-6 209.5,-12 209.5,-12 209.5,-48 209.5,-48 209.5,-54 203.5,-60 197.5,-60" />
+<text text-anchor="middle" x="138" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Husband feels</text>
+<text text-anchor="middle" x="138" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Respected</text>
+</g>
+</g>
+</svg>

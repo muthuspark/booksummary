@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576pt" height="148pt" viewBox="0.00 0.00 576.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Four Pillars of Meaning</title><desc id="description">Meaningful Life leads to Belonging. Meaningful Life leads to Purpose. Meaningful Life leads to Storytelling. Meaningful Life leads to Transcendence.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 558,-130 558,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191.85,-71.87C167.37,-62.81 138.03,-51.94 112.75,-42.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.5,-40.24 106.08,-40.1 111.8,-44.83 113.5,-40.24" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M225.74,-71.87C218.14,-63.69 209.19,-54.05 201.12,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="202.8,-43.57 196.24,-40.1 199.21,-46.9 202.8,-43.57" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M261.26,-71.87C268.86,-63.69 277.81,-54.05 285.88,-45.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="287.79,-46.9 290.76,-40.1 284.2,-43.57 287.79,-46.9" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M303.87,-71.96C333.11,-62.74 368.33,-51.64 398.41,-42.15" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="399.2,-44.47 405.14,-40.03 397.73,-39.8 399.2,-44.47" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309,-112C309,-112 178,-112 178,-112 172,-112 166,-106 166,-100 166,-100 166,-84 166,-84 166,-78 172,-72 178,-72 178,-72 309,-72 309,-72 315,-72 321,-78 321,-84 321,-84 321,-100 321,-100 321,-106 315,-112 309,-112" />
+<text text-anchor="middle" x="243.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Life</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M97,-40C97,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 97,0 97,0 103,0 109,-6 109,-12 109,-12 109,-28 109,-28 109,-34 103,-40 97,-40" />
+<text text-anchor="middle" x="54.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Belonging</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M214,-40C214,-40 143,-40 143,-40 137,-40 131,-34 131,-28 131,-28 131,-12 131,-12 131,-6 137,0 143,0 143,0 214,0 214,0 220,0 226,-6 226,-12 226,-12 226,-28 226,-28 226,-34 220,-40 214,-40" />
+<text text-anchor="middle" x="178.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Purpose</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M357,-40C357,-40 260,-40 260,-40 254,-40 248,-34 248,-28 248,-28 248,-12 248,-12 248,-6 254,0 260,0 260,0 357,0 357,0 363,0 369,-6 369,-12 369,-12 369,-28 369,-28 369,-34 363,-40 357,-40" />
+<text text-anchor="middle" x="308.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Storytelling</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M528,-40C528,-40 403,-40 403,-40 397,-40 391,-34 391,-28 391,-28 391,-12 391,-12 391,-6 397,0 403,0 403,0 528,0 528,0 534,0 540,-6 540,-12 540,-12 540,-28 540,-28 540,-34 534,-40 528,-40" />
+<text text-anchor="middle" x="465.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Transcendence</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342pt" height="351pt" viewBox="0.00 0.00 342.00 351.00" role="img" aria-labelledby="title description">
+<title id="title">Capital Budgeting: Investing Wisely</title><desc id="description">Project Proposal leads to NPV Calculation. NPV Calculation leads to Positive NPV?. Positive NPV? leads to Accept Project (Yes). Positive NPV? leads to Reject Project (No).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 333)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-333 324,-333 324,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154,-274.97C154,-267.09 154,-257.82 154,-249.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="156.45,-249.08 154,-242.08 151.55,-249.08 156.45,-249.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154,-201.7C154,-194.21 154,-185.28 154,-176.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="156.45,-176.13 154,-169.13 151.55,-176.13 156.45,-176.13" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.4,-95.9C117.07,-79.81 102.37,-60.64 90.94,-45.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="92.77,-44.08 86.57,-40.01 88.88,-47.06 92.77,-44.08" />
+<text text-anchor="middle" x="123" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.6,-95.9C190.93,-79.81 205.63,-60.64 217.06,-45.71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.12,-47.06 221.43,-40.01 215.23,-44.08 219.12,-47.06" />
+<text text-anchor="middle" x="217" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222.5,-315C222.5,-315 85.5,-315 85.5,-315 79.5,-315 73.5,-309 73.5,-303 73.5,-303 73.5,-287 73.5,-287 73.5,-281 79.5,-275 85.5,-275 85.5,-275 222.5,-275 222.5,-275 228.5,-275 234.5,-281 234.5,-287 234.5,-287 234.5,-303 234.5,-303 234.5,-309 228.5,-315 222.5,-315" />
+<text text-anchor="middle" x="154" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Project Proposal</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M222,-242C222,-242 86,-242 86,-242 80,-242 74,-236 74,-230 74,-230 74,-214 74,-214 74,-208 80,-202 86,-202 86,-202 222,-202 222,-202 228,-202 234,-208 234,-214 234,-214 234,-230 234,-230 234,-236 228,-242 222,-242" />
+<text text-anchor="middle" x="154" y="-217.6" font-family="Georgia" font-size="18.00" fill="#243d36">NPV Calculation</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="154,-169 13,-129 154,-89 295,-129 154,-169" />
+<text text-anchor="middle" x="154" y="-124.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive NPV?</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M132,-40C132,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 132,0 132,0 138,0 144,-6 144,-12 144,-12 144,-28 144,-28 144,-34 138,-40 132,-40" />
+<text text-anchor="middle" x="72" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accept Project</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M294,-40C294,-40 178,-40 178,-40 172,-40 166,-34 166,-28 166,-28 166,-12 166,-12 166,-6 172,0 178,0 178,0 294,0 294,0 300,0 306,-6 306,-12 306,-12 306,-28 306,-28 306,-34 300,-40 294,-40" />
+<text text-anchor="middle" x="236" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reject Project</text>
+</g>
+</g>
+</svg>

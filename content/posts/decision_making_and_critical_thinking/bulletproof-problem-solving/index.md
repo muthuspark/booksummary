@@ -14,14 +14,7 @@ author: "Charles Conn and Robert McLean"
 
 A poorly defined problem is a problem doomed to fail. The authors highlight the importance of precise language and clear articulation of the problem's core elements. This involves asking probing questions, challenging assumptions, and ensuring everyone involved shares a common understanding.  Ambiguity is the enemy of effective problem-solving. Using frameworks like the "5 Whys" can help in digging deeper to uncover the root cause.
 
-```mermaid
-graph TD
-    A[Problem Statement] --> B(Why?);
-    B --> C(Why?);
-    C --> D(Why?);
-    D --> E(Why?);
-    E --> F(Root Cause);
-```
+![Defining the Problem: Clarity is Key. Problem Statement; Why?; Why?; Why?; Why?; Root Cause.](diagram-01.svg)
 
 ## Gathering Information: The Power of Data
 
@@ -31,13 +24,7 @@ Effective problem-solving relies on accurate and detailed information. The book 
 
 Once the problem is clearly defined and sufficient data gathered, the next step is to analyze the situation. This involves identifying patterns, trends, and relationships within the data. Techniques like root cause analysis, SWOT analysis, and process mapping are presented as tools to aid understanding.  The authors advocate for separating symptoms from underlying causes in developing effective solutions.
 
-```mermaid
-graph LR
-    A[Problem] --> B(Symptom 1);
-    A --> C(Symptom 2);
-    B --> D(Root Cause);
-    C --> D;
-```
+![Analyzing the Problem: Uncovering the Root Cause. Problem; Symptom 1; Symptom 2; Root Cause.](diagram-02.svg)
 
 ## Generating Solutions: Brainstorming and Beyond
 
@@ -47,13 +34,7 @@ The book dedicates significant attention to brainstorming effective solutions.  
 
 Generating solutions is only half the battle.  The authors stress the importance of systematically evaluating the potential solutions. This involves assessing the pros and cons of each option, considering their impact on various stakeholders, and evaluating their feasibility given available resources and constraints.  This process requires objective assessment, minimizing emotional biases.  Decision matrices and cost-benefit analyses can prove highly beneficial here.
 
-```mermaid
-graph LR
-    A[Solution 1] --> B(Pros);
-    A --> C(Cons);
-    D[Solution 2] --> E(Pros);
-    D --> F(Cons);
-```
+![Evaluating Solutions: Weighing the Pros and Cons. Solution 1; Pros; Cons; Solution 2; Pros; Cons.](diagram-03.svg)
 
 ## Implementing the Solution: A Structured Approach
 

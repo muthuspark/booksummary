@@ -22,13 +22,7 @@ Sofer structures his approach around four key pillars, each building upon the ot
 
 4. **Courage:** This is the willingness to speak our truth, even when it's difficult.  It requires overcoming fear of judgment, rejection, or conflict.  Courage allows us to be vulnerable and authentic in our communication.
 
-```mermaid
-graph LR
-A[Awareness] --> B(Clarity);
-B --> C(Compassion);
-C --> D(Courage);
-D --> E[Mindful Communication];
-```
+![The Four Pillars of Mindful Communication. Awareness; Clarity; Compassion; Courage; Mindful Communication.](diagram-01.svg)
 
 # Cultivating Self-Awareness: The Foundation
 

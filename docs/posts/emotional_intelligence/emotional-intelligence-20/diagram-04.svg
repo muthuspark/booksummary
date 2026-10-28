@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="574pt" height="148pt" viewBox="0.00 0.00 574.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Empathy: Understanding Others</title><desc id="description">Active Listening leads to Improved Empathy. Nonverbal Cues leads to Improved Empathy. Perspective-Taking leads to Improved Empathy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 556,-130 556,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M126.64,-71.87C149.6,-62.84 177.1,-52.03 200.83,-42.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.8,-44.95 207.42,-40.1 200.01,-40.39 201.8,-44.95" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M256,-71.87C256,-64.31 256,-55.49 256,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="258.45,-47.1 256,-40.1 253.55,-47.1 258.45,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M395.06,-71.96C370.22,-62.86 340.37,-51.92 314.7,-42.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="315.34,-40.14 307.93,-40.03 313.66,-44.74 315.34,-40.14" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M144,-112C144,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 144,-72 144,-72 150,-72 156,-78 156,-84 156,-84 156,-100 156,-100 156,-106 150,-112 144,-112" />
+<text text-anchor="middle" x="78" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M336.5,-40C336.5,-40 175.5,-40 175.5,-40 169.5,-40 163.5,-34 163.5,-28 163.5,-28 163.5,-12 163.5,-12 163.5,-6 169.5,0 175.5,0 175.5,0 336.5,0 336.5,0 342.5,0 348.5,-6 348.5,-12 348.5,-12 348.5,-28 348.5,-28 348.5,-34 342.5,-40 336.5,-40" />
+<text text-anchor="middle" x="256" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Empathy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M321.5,-112C321.5,-112 190.5,-112 190.5,-112 184.5,-112 178.5,-106 178.5,-100 178.5,-100 178.5,-84 178.5,-84 178.5,-78 184.5,-72 190.5,-72 190.5,-72 321.5,-72 321.5,-72 327.5,-72 333.5,-78 333.5,-84 333.5,-84 333.5,-100 333.5,-100 333.5,-106 327.5,-112 321.5,-112" />
+<text text-anchor="middle" x="256" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Nonverbal Cues</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M526,-112C526,-112 368,-112 368,-112 362,-112 356,-106 356,-100 356,-100 356,-84 356,-84 356,-78 362,-72 368,-72 368,-72 526,-72 526,-72 532,-72 538,-78 538,-84 538,-84 538,-100 538,-100 538,-106 532,-112 526,-112" />
+<text text-anchor="middle" x="447" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perspective-Taking</text>
+</g>
+</g>
+</svg>

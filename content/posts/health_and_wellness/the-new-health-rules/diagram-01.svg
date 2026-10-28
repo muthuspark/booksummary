@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441pt" height="386pt" viewBox="0.00 0.00 441.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Gut Health</title><desc id="description">Healthy Gut leads to Strong Immune System. Healthy Gut leads to Efficient Digestion. Healthy Gut leads to Improved Mental Health. Unhealthy Gut leads to Autoimmune Diseases. Unhealthy Gut leads to Chronic Fatigue. Unhealthy Gut leads to Inflammation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 423,-368 423,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.08,-100.74C149.87,-104.83 164.42,-109.1 178,-113 188.3,-115.95 199.15,-119.01 209.88,-122" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.51,-124.44 216.91,-123.96 210.82,-119.72 209.51,-124.44" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.04,-82C154.59,-82 175.38,-82 195.54,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.64,-84.45 202.64,-82 195.64,-79.55 195.64,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M136.08,-63.26C149.87,-59.17 164.42,-54.9 178,-51 188.3,-48.05 199.15,-44.99 209.88,-42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.82,-44.28 216.91,-40.04 209.51,-39.56 210.82,-44.28" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.52,-288.05C152.96,-291.74 165.87,-295.52 178,-299 188.3,-301.95 199.15,-305.01 209.88,-308" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="209.51,-310.44 216.91,-309.96 210.82,-305.72 209.51,-310.44" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M146.09,-268C165.57,-268 186.81,-268 206.86,-268" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="206.9,-270.45 213.9,-268 206.9,-265.55 206.9,-270.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.52,-247.95C152.96,-244.26 165.87,-240.48 178,-237 190.08,-233.54 202.9,-229.93 215.41,-226.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.23,-228.77 222.32,-224.54 214.92,-224.05 216.23,-228.77" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M124,-102C124,-102 22,-102 22,-102 16,-102 10,-96 10,-90 10,-90 10,-74 10,-74 10,-68 16,-62 22,-62 22,-62 124,-62 124,-62 130,-62 136,-68 136,-74 136,-74 136,-90 136,-90 136,-96 130,-102 124,-102" />
+<text text-anchor="middle" x="73" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Gut</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M387,-164C387,-164 196,-164 196,-164 190,-164 184,-158 184,-152 184,-152 184,-136 184,-136 184,-130 190,-124 196,-124 196,-124 387,-124 387,-124 393,-124 399,-130 399,-136 399,-136 399,-152 399,-152 399,-158 393,-164 387,-164" />
+<text text-anchor="middle" x="291.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strong Immune System</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M368,-102C368,-102 215,-102 215,-102 209,-102 203,-96 203,-90 203,-90 203,-74 203,-74 203,-68 209,-62 215,-62 215,-62 368,-62 368,-62 374,-62 380,-68 380,-74 380,-74 380,-90 380,-90 380,-96 374,-102 368,-102" />
+<text text-anchor="middle" x="291.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Efficient Digestion</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M393,-40C393,-40 190,-40 190,-40 184,-40 178,-34 178,-28 178,-28 178,-12 178,-12 178,-6 184,0 190,0 190,0 393,0 393,0 399,0 405,-6 405,-12 405,-12 405,-28 405,-28 405,-34 399,-40 393,-40" />
+<text text-anchor="middle" x="291.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Mental Health</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M134,-288C134,-288 12,-288 12,-288 6,-288 0,-282 0,-276 0,-276 0,-260 0,-260 0,-254 6,-248 12,-248 12,-248 134,-248 134,-248 140,-248 146,-254 146,-260 146,-260 146,-276 146,-276 146,-282 140,-288 134,-288" />
+<text text-anchor="middle" x="73" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Unhealthy Gut</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M382.5,-350C382.5,-350 200.5,-350 200.5,-350 194.5,-350 188.5,-344 188.5,-338 188.5,-338 188.5,-322 188.5,-322 188.5,-316 194.5,-310 200.5,-310 200.5,-310 382.5,-310 382.5,-310 388.5,-310 394.5,-316 394.5,-322 394.5,-322 394.5,-338 394.5,-338 394.5,-344 388.5,-350 382.5,-350" />
+<text text-anchor="middle" x="291.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Autoimmune Diseases</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M357,-288C357,-288 226,-288 226,-288 220,-288 214,-282 214,-276 214,-276 214,-260 214,-260 214,-254 220,-248 226,-248 226,-248 357,-248 357,-248 363,-248 369,-254 369,-260 369,-260 369,-276 369,-276 369,-282 363,-288 357,-288" />
+<text text-anchor="middle" x="291.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Chronic Fatigue</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M348.5,-226C348.5,-226 234.5,-226 234.5,-226 228.5,-226 222.5,-220 222.5,-214 222.5,-214 222.5,-198 222.5,-198 222.5,-192 228.5,-186 234.5,-186 234.5,-186 348.5,-186 348.5,-186 354.5,-186 360.5,-192 360.5,-198 360.5,-198 360.5,-214 360.5,-214 360.5,-220 354.5,-226 348.5,-226" />
+<text text-anchor="middle" x="291.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inflammation</text>
+</g>
+</g>
+</svg>

@@ -23,14 +23,7 @@ A clear, compelling vision is the cornerstone of any strategy. This isn't just a
 * **Identifying opportunities and threats:**  Analyzing your environment, including competitors, market trends, and broader societal shifts, is essential to identify potential opportunities and mitigate risks.
 * **Developing a unique value proposition:**  What makes you different?  What unique value do you offer to the world?  This forms the core of your strategic vision.
 
-```mermaid
-graph LR
-    A[Self-Assessment] --> B(Strengths & Weaknesses);
-    C[Environmental Analysis] --> D(Opportunities & Threats);
-    E[Unique Value Proposition] --> F(Strategic Vision);
-    B --> F;
-    D --> F;
-```
+![Strategic Vision: Seeing the Big Picture. Self-Assessment; Strengths & Weaknesses; Environmental Analysis; Opportunities & Threats; Unique Value Proposition; Strategic Vision.](diagram-01.svg)
 
 ### Strategic Thinking Processes: The Art of Strategic Reasoning
 
@@ -60,12 +53,7 @@ Ohmae introduces the "strategic triangle" as a powerful tool for analyzing compe
 
 The most effective strategies are those that use your company's strengths, meet customer needs, and outmaneuver competitors.
 
-```mermaid
-graph LR
-    A[Company] --> B(Strategic Triangle);
-    C[Customer] --> B;
-    D[Competitor] --> B;
-```
+![The Strategic Triangle: A Framework for Analysis. Company; Strategic Triangle; Customer; Competitor.](diagram-02.svg)
 
 To effectively utilize the strategic triangle, one must understand the dynamics between these three elements. For example, focusing solely on beating the competitor might neglect the customer's actual needs, leading to a failed strategy.  Similarly, understanding customer needs without considering your company's capabilities or competitor's actions can also prove ineffective.
 

@@ -71,15 +71,6 @@ The core message of "The Art of Talking to Anyone" is that mastering conversatio
 By implementing these strategies, readers can transform their communication skills, building stronger relationships, achieving their goals, and enriching their lives.
 
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Empathy);
-A --> C(Understanding Nonverbal Cues);
-B --> D{Building Rapport};
-C --> D;
-D --> E[Effective Communication];
-E --> F(Improved Relationships);
-E --> G(Achieving Goals);
-```
+![Key Takeaways and Actionable Insights: A Summary. Active Listening; Empathy; Understanding Nonverbal Cues; Building Rapport; Effective Communication; Improved Relationships; Achieving Goals.](diagram-01.svg)
 This diagram showcases the interconnectedness of key concepts within the book, highlighting how active listening and empathy contribute to building rapport, ultimately leading to improved communication, stronger relationships, and the achievement of personal and professional goals.
 

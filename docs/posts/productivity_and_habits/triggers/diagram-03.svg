@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690pt" height="76pt" viewBox="0.00 0.00 690.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">Developing Behavioral Strategies</title><desc id="description">Trigger leads to Pause. Pause leads to Reframe. Reframe leads to Replace. Replace leads to Positive Response.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 672,-58 672,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M87.29,-20C95.28,-20 103.65,-20 111.69,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="111.96,-22.45 118.96,-20 111.96,-17.55 111.96,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M195.02,-20C202.79,-20 211.14,-20 219.42,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.65,-22.45 226.65,-20 219.65,-17.55 219.65,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M325.33,-20C333.22,-20 341.43,-20 349.41,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="349.67,-22.45 356.67,-20 349.67,-17.55 349.67,-22.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M449.27,-20C456.97,-20 465.21,-20 473.63,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="473.73,-22.45 480.73,-20 473.73,-17.55 473.73,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M75,-40C75,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 75,0 75,0 81,0 87,-6 87,-12 87,-12 87,-28 87,-28 87,-34 81,-40 75,-40" />
+<text text-anchor="middle" x="43.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trigger</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M183,-40C183,-40 131,-40 131,-40 125,-40 119,-34 119,-28 119,-28 119,-12 119,-12 119,-6 125,0 131,0 131,0 183,0 183,0 189,0 195,-6 195,-12 195,-12 195,-28 195,-28 195,-34 189,-40 183,-40" />
+<text text-anchor="middle" x="157" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pause</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M313,-40C313,-40 239,-40 239,-40 233,-40 227,-34 227,-28 227,-28 227,-12 227,-12 227,-6 233,0 239,0 239,0 313,0 313,0 319,0 325,-6 325,-12 325,-12 325,-28 325,-28 325,-34 319,-40 313,-40" />
+<text text-anchor="middle" x="276" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reframe</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M437,-40C437,-40 369,-40 369,-40 363,-40 357,-34 357,-28 357,-28 357,-12 357,-12 357,-6 363,0 369,0 369,0 437,0 437,0 443,0 449,-6 449,-12 449,-12 449,-28 449,-28 449,-34 443,-40 437,-40" />
+<text text-anchor="middle" x="403" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Replace</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M642,-40C642,-40 493,-40 493,-40 487,-40 481,-34 481,-28 481,-28 481,-12 481,-12 481,-6 487,0 493,0 493,0 642,0 642,0 648,0 654,-6 654,-12 654,-12 654,-28 654,-28 654,-34 648,-40 642,-40" />
+<text text-anchor="middle" x="567.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Response</text>
+</g>
+</g>
+</svg>

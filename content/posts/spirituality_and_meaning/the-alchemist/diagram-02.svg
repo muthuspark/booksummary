@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420pt" height="332pt" viewBox="0.00 0.00 420.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">Overcoming Obstacles: Embracing Challenges and Learning from Adversity</title><desc id="description">Obstacle leads to Challenge. Challenge leads to Adaptation &amp; Learning. Adaptation &amp; Learning leads to Growth &amp; Resilience.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 402,-314 402,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-255.87C192,-248.31 192,-239.49 192,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-231.1 192,-224.1 189.55,-231.1 194.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-183.87C192,-176.31 192,-167.49 192,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-159.1 192,-152.1 189.55,-159.1 194.45,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-111.91C192,-104.58 192,-95.86 192,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-87.07 192,-80.07 189.55,-87.07 194.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M228.5,-296C228.5,-296 155.5,-296 155.5,-296 149.5,-296 143.5,-290 143.5,-284 143.5,-284 143.5,-268 143.5,-268 143.5,-262 149.5,-256 155.5,-256 155.5,-256 228.5,-256 228.5,-256 234.5,-256 240.5,-262 240.5,-268 240.5,-268 240.5,-284 240.5,-284 240.5,-290 234.5,-296 228.5,-296" />
+<text text-anchor="middle" x="192" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Obstacle</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M233.5,-224C233.5,-224 150.5,-224 150.5,-224 144.5,-224 138.5,-218 138.5,-212 138.5,-212 138.5,-196 138.5,-196 138.5,-190 144.5,-184 150.5,-184 150.5,-184 233.5,-184 233.5,-184 239.5,-184 245.5,-190 245.5,-196 245.5,-196 245.5,-212 245.5,-212 245.5,-218 239.5,-224 233.5,-224" />
+<text text-anchor="middle" x="192" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Challenge</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M285,-152C285,-152 99,-152 99,-152 93,-152 87,-146 87,-140 87,-140 87,-124 87,-124 87,-118 93,-112 99,-112 99,-112 285,-112 285,-112 291,-112 297,-118 297,-124 297,-124 297,-140 297,-140 297,-146 291,-152 285,-152" />
+<text text-anchor="middle" x="192" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Adaptation &amp; Learning</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="192,-80 0,-40 192,0 384,-40 192,-80" />
+<text text-anchor="middle" x="192" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Growth &amp; Resilience</text>
+</g>
+</g>
+</svg>

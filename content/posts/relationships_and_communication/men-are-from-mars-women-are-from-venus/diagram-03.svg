@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="477pt" height="238pt" viewBox="0.00 0.00 476.50 238.00" role="img" aria-labelledby="title description">
+<title id="title">Communication Gaps: The Root of Conflict</title><desc id="description">Man: Responds leads to Seeks Empathy. Man: Responds leads to Offers Solutions. Seeks Empathy leads to Feelings Undervalued (Misunderstanding). Offers Solutions leads to Solutions Unwanted (Misunderstanding).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 220)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-220 458.5,-220 458.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176.19,-161.97C165.56,-153.3 152.86,-142.94 141.61,-133.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="142.85,-131.61 135.88,-129.08 139.75,-135.4 142.85,-131.61" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M228.98,-161.97C242.79,-153.06 259.36,-142.37 273.86,-133" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.39,-134.93 279.94,-129.08 272.73,-130.82 275.39,-134.93" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M110.06,-88.69C108.52,-76.53 106.51,-60.66 104.83,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.24,-46.89 103.93,-40.25 102.38,-47.51 107.24,-46.89" />
+<text text-anchor="middle" x="170.5" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Misunderstanding</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M311.94,-88.69C313.48,-76.53 315.49,-60.66 317.17,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="319.62,-47.51 318.07,-40.25 314.76,-46.89 319.62,-47.51" />
+<text text-anchor="middle" x="378.5" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Misunderstanding</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M264,-202C264,-202 135,-202 135,-202 129,-202 123,-196 123,-190 123,-190 123,-174 123,-174 123,-168 129,-162 135,-162 135,-162 264,-162 264,-162 270,-162 276,-168 276,-174 276,-174 276,-190 276,-190 276,-196 270,-202 264,-202" />
+<text text-anchor="middle" x="199.5" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Man: Responds</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-129C176,-129 49,-129 49,-129 43,-129 37,-123 37,-117 37,-117 37,-101 37,-101 37,-95 43,-89 49,-89 49,-89 176,-89 176,-89 182,-89 188,-95 188,-101 188,-101 188,-117 188,-117 188,-123 182,-129 176,-129" />
+<text text-anchor="middle" x="112.5" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Seeks Empathy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M376,-129C376,-129 243,-129 243,-129 237,-129 231,-123 231,-117 231,-117 231,-101 231,-101 231,-95 237,-89 243,-89 243,-89 376,-89 376,-89 382,-89 388,-95 388,-101 388,-101 388,-117 388,-117 388,-123 382,-129 376,-129" />
+<text text-anchor="middle" x="309.5" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Offers Solutions</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M191,-40C191,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 191,0 191,0 197,0 203,-6 203,-12 203,-12 203,-28 203,-28 203,-34 197,-40 191,-40" />
+<text text-anchor="middle" x="101.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feelings Undervalued</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M403.5,-40C403.5,-40 237.5,-40 237.5,-40 231.5,-40 225.5,-34 225.5,-28 225.5,-28 225.5,-12 225.5,-12 225.5,-6 231.5,0 237.5,0 237.5,0 403.5,0 403.5,0 409.5,0 415.5,-6 415.5,-12 415.5,-12 415.5,-28 415.5,-28 415.5,-34 409.5,-40 403.5,-40" />
+<text text-anchor="middle" x="320.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solutions Unwanted</text>
+</g>
+</g>
+</svg>

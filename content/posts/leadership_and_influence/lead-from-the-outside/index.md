@@ -14,14 +14,7 @@ Stacey Abrams' "Lead from the Outside" isn't just about political leadership; it
 
 Abrams stresses the importance of self-assessment. Before attempting to influence others, you must first understand your own strengths, weaknesses, values, and network.  Knowing your "power base" – your resources, connections, and influence – is critical. This isn't simply about wealth or connections; it's about identifying your unique skills and assets, and understanding how to use them effectively.
 
-```mermaid
-graph LR
-A[Self-Assessment] --> B(Strengths);
-A --> C(Weaknesses);
-A --> D(Values);
-A --> E(Network);
-B,C,D,E --> F(Power Base);
-```
+![Understanding Your Power Base. Self-Assessment; Strengths; Weaknesses; Values; Network; Power Base.](diagram-01.svg)
 
 
 # Building Your Coalition

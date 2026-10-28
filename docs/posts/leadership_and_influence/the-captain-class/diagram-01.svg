@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420pt" height="404pt" viewBox="0.00 0.00 420.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Deliberate Practice</title><desc id="description">Goal Setting leads to Focused Practice. Focused Practice leads to Feedback &amp; Analysis. Feedback &amp; Analysis leads to Refinement &amp; Iteration. Refinement &amp; Iteration leads to Skill Mastery.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 402,-386 402,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-327.87C192,-320.31 192,-311.49 192,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-303.1 192,-296.1 189.55,-303.1 194.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-255.91C192,-248.58 192,-239.86 192,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-231.07 192,-224.07 189.55,-231.07 194.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-143.79C192,-135.54 192,-127.04 192,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-119.09 192,-112.09 189.55,-119.09 194.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192,-71.87C192,-64.31 192,-55.49 192,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.45,-47.1 192,-40.1 189.55,-47.1 194.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M242.5,-368C242.5,-368 141.5,-368 141.5,-368 135.5,-368 129.5,-362 129.5,-356 129.5,-356 129.5,-340 129.5,-340 129.5,-334 135.5,-328 141.5,-328 141.5,-328 242.5,-328 242.5,-328 248.5,-328 254.5,-334 254.5,-340 254.5,-340 254.5,-356 254.5,-356 254.5,-362 248.5,-368 242.5,-368" />
+<text text-anchor="middle" x="192" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goal Setting</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262,-296C262,-296 122,-296 122,-296 116,-296 110,-290 110,-284 110,-284 110,-268 110,-268 110,-262 116,-256 122,-256 122,-256 262,-256 262,-256 268,-256 274,-262 274,-268 274,-268 274,-284 274,-284 274,-290 268,-296 262,-296" />
+<text text-anchor="middle" x="192" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Focused Practice</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="192,-224 0,-184 192,-144 384,-184 192,-224" />
+<text text-anchor="middle" x="192" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback &amp; Analysis</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M287,-112C287,-112 97,-112 97,-112 91,-112 85,-106 85,-100 85,-100 85,-84 85,-84 85,-78 91,-72 97,-72 97,-72 287,-72 287,-72 293,-72 299,-78 299,-84 299,-84 299,-100 299,-100 299,-106 293,-112 287,-112" />
+<text text-anchor="middle" x="192" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refinement &amp; Iteration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M246.5,-40C246.5,-40 137.5,-40 137.5,-40 131.5,-40 125.5,-34 125.5,-28 125.5,-28 125.5,-12 125.5,-12 125.5,-6 131.5,0 137.5,0 137.5,0 246.5,0 246.5,0 252.5,0 258.5,-6 258.5,-12 258.5,-12 258.5,-28 258.5,-28 258.5,-34 252.5,-40 246.5,-40" />
+<text text-anchor="middle" x="192" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill Mastery</text>
+</g>
+</g>
+</svg>

@@ -89,26 +89,7 @@ The book highlights the allure of instant gratification, which frequently leads 
 
 # A Visual Representation of the Four Steps
 
-```mermaid
-graph LR
-    A[Master Internal Triggers] --> B(Understand Emotions);
-    A --> C(Journaling, Mindfulness);
-    D[Make Time for What Matters] --> E(Prioritize Tasks);
-    D --> F(Timeboxing, Planning);
-    G[Hack External Triggers] --> H(Manage Technology);
-    G --> I(Optimize Environment);
-    J[Pursue Your Values] --> K(Identify Values);
-    J --> L(Set Meaningful Goals);
-    B --> M{Indistractable};
-    C --> M;
-    E --> M;
-    F --> M;
-    H --> M;
-    I --> M;
-    K --> M;
-    L --> M;
-
-```
+![A Visual Representation of the Four Steps. Master Internal Triggers; Understand Emotions; Journaling, Mindfulness; Make Time for What Matters; Prioritize Tasks; Timeboxing, Planning; Hack External Triggers; Manage Technology; Optimize Environment; Pursue Your Values; Identify Values; Set Meaningful Goals; Indistractable.](diagram-01.svg)
 
 
 # Key Takeaways and Actionable Insights

@@ -19,12 +19,7 @@ Dr. Nelson posits that unexpressed or unresolved emotions, particularly those ex
 
 Muscle testing, a key component of the Emotion Code, acts as a diagnostic tool.  It's a simple method involving applying gentle pressure to a muscle (usually the arm) while simultaneously thinking about a specific emotion or situation. A weakened muscle response indicates the presence of a trapped emotion related to the thought.  This isn't a scientifically proven method, but Dr. Nelson presents it as an effective way to communicate with the body's subconscious and uncover hidden emotional blocks.
 
-```mermaid
-graph LR
-A[Thought/Emotion] --> B{Muscle Test};
-B -- Weak Response --> C[Trapped Emotion Detected];
-B -- Strong Response --> D[No Trapped Emotion];
-```
+![The Role of Muscle Testing. Thought/Emotion; Muscle Test; Trapped Emotion Detected; No Trapped Emotion.](diagram-01.svg)
 
 ## Identifying and Releasing Trapped Emotions
 
@@ -49,13 +44,7 @@ The core steps outlined in the book for applying the Emotion Code method include
 5. **Self-Reflection:**  Engaging in self-reflection to understand the origin and significance of the released emotions.
 
 
-```mermaid
-graph LR
-A[Intention Setting] --> B(Muscle Testing);
-B --> C(Emotional Clearing);
-C --> D(Monitoring & Repetition);
-D --> E(Self-Reflection);
-```
+![Practical Application & Strategies:  A Step-by-Step Guide. Intention Setting; Muscle Testing; Emotional Clearing; Monitoring & Repetition; Self-Reflection.](diagram-02.svg)
 
 ## Common Trapped Emotions and Their Effects
 

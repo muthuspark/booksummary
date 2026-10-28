@@ -15,20 +15,7 @@ Sue Johnson's "Hold Me Tight" offers a powerful approach to improving relationsh
 
 The core of Johnson's approach lies in the understanding of attachment theory. Humans are inherently wired for connection. Our early childhood experiences shape our attachment style, influencing how we approach relationships as adults. These styles – secure, anxious, avoidant, and fearful – impact how we communicate, manage conflict, and experience intimacy. Recognizing one's own and their partner's attachment styles is important for self-awareness and relationship improvement.
 
-```mermaid
-graph LR
-    A[Secure] --> B(Healthy Relationship)
-    B --> C(Trust & Intimacy)
-    D[Anxious] --> B
-    E[Avoidant] --> B
-    F[Fearful] --> B
-    subgraph "Attachment Styles"
-        A
-        D
-        E
-        F
-    end
-```
+![The Power of Attachment. Secure; Healthy Relationship; Trust & Intimacy; Anxious; Avoidant; Fearful.](diagram-01.svg)
 
 ## Identifying the Demon Dialogues
 

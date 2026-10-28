@@ -16,15 +16,7 @@ The book hinges on the difference between a **fixed mindset** and a **growth min
 
 Conversely, a **growth mindset** embraces the idea that abilities are malleable and can be developed through dedication and hard work. Individuals with a growth mindset view challenges as opportunities for learning and growth. They see effort as the path to mastery and are not deterred by setbacks. Failure is seen as a learning experience, a stepping stone towards improvement.
 
-```mermaid
-graph LR
-    A[Fixed Mindset] --> B(Innate Abilities);
-    A --> C(Fear of Failure);
-    A --> D(Avoid Challenges);
-    E[Growth Mindset] --> F(Malleable Abilities);
-    E --> G(Embrace Challenges);
-    E --> H(Effort as Key);
-```
+![Fixed vs. Growth Mindset: The Foundational Distinction. Fixed Mindset; Innate Abilities; Fear of Failure; Avoid Challenges; Growth Mindset; Malleable Abilities; Embrace Challenges; Effort as Key.](diagram-01.svg)
 
 ##  The Impact of Mindset on Various Life Aspects
 

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475pt" height="240pt" viewBox="0.00 0.00 475.00 240.00" role="img" aria-labelledby="title description">
+<title id="title">The Myth of Monogamy and Shifting Societal Expectations</title><desc id="description">Traditional Monogamy leads to All needs met within one relationship. Modern Expectations leads to Individual freedom, multiple needs. Individual freedom, multiple needs leads to Redefining Monogamy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 457,-222 457,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106,-163.63C106,-156.34 106,-147.78 106,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="108.45,-139.19 106,-132.19 103.55,-139.19 108.45,-139.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M334,-163.63C334,-156.34 334,-147.78 334,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="336.45,-139.19 334,-132.19 331.55,-139.19 336.45,-139.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M334,-71.67C334,-63.77 334,-55.28 334,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="336.45,-47.12 334,-40.12 331.55,-47.12 336.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M200,-204C200,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 200,-164 200,-164 206,-164 212,-170 212,-176 212,-176 212,-192 212,-192 212,-198 206,-204 200,-204" />
+<text text-anchor="middle" x="106" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Traditional Monogamy</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M190.5,-132C190.5,-132 21.5,-132 21.5,-132 15.5,-132 9.5,-126 9.5,-120 9.5,-120 9.5,-84 9.5,-84 9.5,-78 15.5,-72 21.5,-72 21.5,-72 190.5,-72 190.5,-72 196.5,-72 202.5,-78 202.5,-84 202.5,-84 202.5,-120 202.5,-120 202.5,-126 196.5,-132 190.5,-132" />
+<text text-anchor="middle" x="106" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">All needs met within</text>
+<text text-anchor="middle" x="106" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">one relationship</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M422,-204C422,-204 246,-204 246,-204 240,-204 234,-198 234,-192 234,-192 234,-176 234,-176 234,-170 240,-164 246,-164 246,-164 422,-164 422,-164 428,-164 434,-170 434,-176 434,-176 434,-192 434,-192 434,-198 428,-204 422,-204" />
+<text text-anchor="middle" x="334" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Modern Expectations</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M416,-132C416,-132 252,-132 252,-132 246,-132 240,-126 240,-120 240,-120 240,-84 240,-84 240,-78 246,-72 252,-72 252,-72 416,-72 416,-72 422,-72 428,-78 428,-84 428,-84 428,-120 428,-120 428,-126 422,-132 416,-132" />
+<text text-anchor="middle" x="334" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual freedom,</text>
+<text text-anchor="middle" x="334" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">multiple needs</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M427,-40C427,-40 241,-40 241,-40 235,-40 229,-34 229,-28 229,-28 229,-12 229,-12 229,-6 235,0 241,0 241,0 427,0 427,0 433,0 439,-6 439,-12 439,-12 439,-28 439,-28 439,-34 433,-40 427,-40" />
+<text text-anchor="middle" x="334" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Redefining Monogamy</text>
+</g>
+</g>
+</svg>

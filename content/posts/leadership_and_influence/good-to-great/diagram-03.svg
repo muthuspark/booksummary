@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="637pt" height="168pt" viewBox="0.00 0.00 637.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">The Hedgehog Concept: Simplicity in a Complex World</title><desc id="description">What you can be best in the world at leads to Hedgehog Concept. What drives your economic engine leads to Hedgehog Concept. What you are deeply passionate about leads to Hedgehog Concept.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 619,-150 619,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M172.73,-71.89C197.3,-62.25 224.2,-51.71 247.11,-42.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="248.15,-44.95 253.77,-40.11 246.36,-40.38 248.15,-44.95" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M302.5,-71.67C302.5,-63.77 302.5,-55.28 302.5,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="304.95,-47.12 302.5,-40.12 300.05,-47.12 304.95,-47.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M431,-71.89C406.67,-62.25 380.03,-51.71 357.35,-42.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="358.16,-40.41 350.75,-40.11 356.36,-44.97 358.16,-40.41" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M185,-132C185,-132 12,-132 12,-132 6,-132 0,-126 0,-120 0,-120 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 185,-72 185,-72 191,-72 197,-78 197,-84 197,-84 197,-120 197,-120 197,-126 191,-132 185,-132" />
+<text text-anchor="middle" x="98.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">What you can be best</text>
+<text text-anchor="middle" x="98.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">in the world at</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M380.5,-40C380.5,-40 224.5,-40 224.5,-40 218.5,-40 212.5,-34 212.5,-28 212.5,-28 212.5,-12 212.5,-12 212.5,-6 218.5,0 224.5,0 224.5,0 380.5,0 380.5,0 386.5,0 392.5,-6 392.5,-12 392.5,-12 392.5,-28 392.5,-28 392.5,-34 386.5,-40 380.5,-40" />
+<text text-anchor="middle" x="302.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hedgehog Concept</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M373.5,-132C373.5,-132 231.5,-132 231.5,-132 225.5,-132 219.5,-126 219.5,-120 219.5,-120 219.5,-84 219.5,-84 219.5,-78 225.5,-72 231.5,-72 231.5,-72 373.5,-72 373.5,-72 379.5,-72 385.5,-78 385.5,-84 385.5,-84 385.5,-120 385.5,-120 385.5,-126 379.5,-132 373.5,-132" />
+<text text-anchor="middle" x="302.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">What drives your</text>
+<text text-anchor="middle" x="302.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">economic engine</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M589,-132C589,-132 420,-132 420,-132 414,-132 408,-126 408,-120 408,-120 408,-84 408,-84 408,-78 414,-72 420,-72 420,-72 589,-72 589,-72 595,-72 601,-78 601,-84 601,-84 601,-120 601,-120 601,-126 595,-132 589,-132" />
+<text text-anchor="middle" x="504.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">What you are deeply</text>
+<text text-anchor="middle" x="504.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">passionate about</text>
+</g>
+</g>
+</svg>

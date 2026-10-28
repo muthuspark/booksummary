@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223pt" height="404pt" viewBox="0.00 0.00 223.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Risk Assessment and Contingency Planning</title><desc id="description">Identify Risks leads to Assess Likelihood &amp; Impact. Assess Likelihood &amp; Impact leads to Develop Mitigation Strategies. Develop Mitigation Strategies leads to Contingency Plans. Contingency Plans leads to Monitor &amp; Adapt.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 205,-386 205,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-327.63C93.5,-320.34 93.5,-311.78 93.5,-303.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-303.19 93.5,-296.19 91.05,-303.19 95.95,-303.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-235.53C93.5,-227.84 93.5,-219.45 93.5,-211.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-211.23 93.5,-204.23 91.05,-211.23 95.95,-211.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-143.67C93.5,-135.77 93.5,-127.28 93.5,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-119.12 93.5,-112.12 91.05,-119.12 95.95,-119.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M93.5,-71.87C93.5,-64.31 93.5,-55.49 93.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="95.95,-47.1 93.5,-40.1 91.05,-47.1 95.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M151,-368C151,-368 36,-368 36,-368 30,-368 24,-362 24,-356 24,-356 24,-340 24,-340 24,-334 30,-328 36,-328 36,-328 151,-328 151,-328 157,-328 163,-334 163,-340 163,-340 163,-356 163,-356 163,-362 157,-368 151,-368" />
+<text text-anchor="middle" x="93.5" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Risks</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-296C175,-296 12,-296 12,-296 6,-296 0,-290 0,-284 0,-284 0,-248 0,-248 0,-242 6,-236 12,-236 12,-236 175,-236 175,-236 181,-236 187,-242 187,-248 187,-248 187,-284 187,-284 187,-290 181,-296 175,-296" />
+<text text-anchor="middle" x="93.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assess Likelihood &amp;</text>
+<text text-anchor="middle" x="93.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Impact</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M172.5,-204C172.5,-204 14.5,-204 14.5,-204 8.5,-204 2.5,-198 2.5,-192 2.5,-192 2.5,-156 2.5,-156 2.5,-150 8.5,-144 14.5,-144 14.5,-144 172.5,-144 172.5,-144 178.5,-144 184.5,-150 184.5,-156 184.5,-156 184.5,-192 184.5,-192 184.5,-198 178.5,-204 172.5,-204" />
+<text text-anchor="middle" x="93.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Mitigation</text>
+<text text-anchor="middle" x="93.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strategies</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169.5,-112C169.5,-112 17.5,-112 17.5,-112 11.5,-112 5.5,-106 5.5,-100 5.5,-100 5.5,-84 5.5,-84 5.5,-78 11.5,-72 17.5,-72 17.5,-72 169.5,-72 169.5,-72 175.5,-72 181.5,-78 181.5,-84 181.5,-84 181.5,-100 181.5,-100 181.5,-106 175.5,-112 169.5,-112" />
+<text text-anchor="middle" x="93.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Contingency Plans</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M163.5,-40C163.5,-40 23.5,-40 23.5,-40 17.5,-40 11.5,-34 11.5,-28 11.5,-28 11.5,-12 11.5,-12 11.5,-6 17.5,0 23.5,0 23.5,0 163.5,0 163.5,0 169.5,0 175.5,-6 175.5,-12 175.5,-12 175.5,-28 175.5,-28 175.5,-34 169.5,-40 163.5,-40" />
+<text text-anchor="middle" x="93.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Monitor &amp; Adapt</text>
+</g>
+</g>
+</svg>

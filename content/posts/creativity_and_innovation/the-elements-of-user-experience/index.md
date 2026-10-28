@@ -16,13 +16,7 @@ Jesse James Garrett's "The Elements of User Experience" provides a foundational 
 
 * **The Structure Plane:**  Organising the information architecture and interaction flow.  How will the information be organized? How will users navigate between different parts of the system?  This plane involves creating sitemaps, wireframes, and information architecture diagrams.
 
-```mermaid
-graph LR
-    A[Strategy] --> B(Scope);
-    B --> C(Structure);
-    C --> D(Skeleton);
-    D --> E(Surface);
-```
+![The Five Planes of User Experience. Strategy; Scope; Structure; Skeleton; Surface.](diagram-01.svg)
 
 * **The Skeleton Plane:**  This plane deals with the interface's structure and layout.  This includes wireframes showing the placement of key elements and the overall visual hierarchy. It is the blueprint for the user interface.
 
@@ -42,15 +36,7 @@ A recurring theme is the centrality of understanding user needs.  This isn't abo
 
 The book dedicates considerable attention to information architecture (IA). Effective IA is important for usability. Poorly organized information frustrates users and makes it difficult to find what they need. Garrett advises considering different methods for organizing information, such as alphabetical, hierarchical, or topic-based approaches. Navigation should be intuitive and predictable. Clear labeling, consistent terminology, and effective search functionality are all key elements of a well-designed IA.
 
-```mermaid
-graph TD
-    A[Home] --> B(Category 1);
-    A --> C(Category 2);
-    B --> D(Product A);
-    B --> E(Product B);
-    C --> F(Product C);
-    C --> G(Product D);
-```
+![Information Architecture and Navigation. Home; Category 1; Category 2; Product A; Product B; Product C; Product D.](diagram-02.svg)
 
 # Iterative Design and User Testing
 

@@ -14,12 +14,7 @@ The Like Switch by Jack Schafer delves into the subconscious drivers of human co
 
 Schafer identifies three fundamental primal needs that underpin our desire for connection:  the need for safety, the need for belonging, and the need for significance. Addressing these needs effectively is critical to increasing one's likability.  These needs aren't consciously articulated; they operate beneath the surface, influencing our behavior and judgments.
 
-```mermaid
-graph LR
-A[Primal Needs] --> B(Safety);
-A --> C(Belonging);
-A --> D(Significance);
-```
+![The Three Primal Needs. Primal Needs; Safety; Belonging; Significance.](diagram-01.svg)
 
 ## Establishing Safety: Mirroring and Matching
 

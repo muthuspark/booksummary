@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264pt" height="404pt" viewBox="0.00 0.00 264.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Social Skills: Navigating Relationships Effectively</title><desc id="description">Communication Skills leads to Conflict Resolution. Conflict Resolution leads to Teamwork. Teamwork leads to Negotiation. Negotiation leads to Stronger Networks.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 246,-386 246,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-327.87C114,-320.31 114,-311.49 114,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-303.1 114,-296.1 111.55,-303.1 116.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-255.91C114,-248.58 114,-239.86 114,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-231.07 114,-224.07 111.55,-231.07 116.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-143.79C114,-135.54 114,-127.04 114,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-119.09 114,-112.09 111.55,-119.09 116.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M114,-71.87C114,-64.31 114,-55.49 114,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="116.45,-47.1 114,-40.1 111.55,-47.1 116.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M203.5,-368C203.5,-368 24.5,-368 24.5,-368 18.5,-368 12.5,-362 12.5,-356 12.5,-356 12.5,-340 12.5,-340 12.5,-334 18.5,-328 24.5,-328 24.5,-328 203.5,-328 203.5,-328 209.5,-328 215.5,-334 215.5,-340 215.5,-340 215.5,-356 215.5,-356 215.5,-362 209.5,-368 203.5,-368" />
+<text text-anchor="middle" x="114" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication Skills</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193,-296C193,-296 35,-296 35,-296 29,-296 23,-290 23,-284 23,-284 23,-268 23,-268 23,-262 29,-256 35,-256 35,-256 193,-256 193,-256 199,-256 205,-262 205,-268 205,-268 205,-284 205,-284 205,-290 199,-296 193,-296" />
+<text text-anchor="middle" x="114" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict Resolution</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="114,-224 0,-184 114,-144 228,-184 114,-224" />
+<text text-anchor="middle" x="114" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Teamwork</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-112C163,-112 65,-112 65,-112 59,-112 53,-106 53,-100 53,-100 53,-84 53,-84 53,-78 59,-72 65,-72 65,-72 163,-72 163,-72 169,-72 175,-78 175,-84 175,-84 175,-100 175,-100 175,-106 169,-112 163,-112" />
+<text text-anchor="middle" x="114" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negotiation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M191.5,-40C191.5,-40 36.5,-40 36.5,-40 30.5,-40 24.5,-34 24.5,-28 24.5,-28 24.5,-12 24.5,-12 24.5,-6 30.5,0 36.5,0 36.5,0 191.5,0 191.5,0 197.5,0 203.5,-6 203.5,-12 203.5,-12 203.5,-28 203.5,-28 203.5,-34 197.5,-40 191.5,-40" />
+<text text-anchor="middle" x="114" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Networks</text>
+</g>
+</g>
+</svg>

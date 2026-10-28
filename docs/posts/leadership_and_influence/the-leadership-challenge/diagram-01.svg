@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225pt" height="292pt" viewBox="0.00 0.00 225.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">Modeling the Way</title><desc id="description">Clarity of Values leads to Living the Values. Living the Values leads to Setting the Example. Setting the Example leads to Modeling the Way.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 207,-274 207,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.5,-215.87C94.5,-208.31 94.5,-199.49 94.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.95,-191.1 94.5,-184.1 92.05,-191.1 96.95,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.5,-143.87C94.5,-136.31 94.5,-127.49 94.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.95,-119.1 94.5,-112.1 92.05,-119.1 96.95,-119.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.5,-71.87C94.5,-64.31 94.5,-55.49 94.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.95,-47.1 94.5,-40.1 92.05,-47.1 96.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162.5,-256C162.5,-256 26.5,-256 26.5,-256 20.5,-256 14.5,-250 14.5,-244 14.5,-244 14.5,-228 14.5,-228 14.5,-222 20.5,-216 26.5,-216 26.5,-216 162.5,-216 162.5,-216 168.5,-216 174.5,-222 174.5,-228 174.5,-228 174.5,-244 174.5,-244 174.5,-250 168.5,-256 162.5,-256" />
+<text text-anchor="middle" x="94.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarity of Values</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M165.5,-184C165.5,-184 23.5,-184 23.5,-184 17.5,-184 11.5,-178 11.5,-172 11.5,-172 11.5,-156 11.5,-156 11.5,-150 17.5,-144 23.5,-144 23.5,-144 165.5,-144 165.5,-144 171.5,-144 177.5,-150 177.5,-156 177.5,-156 177.5,-172 177.5,-172 177.5,-178 171.5,-184 165.5,-184" />
+<text text-anchor="middle" x="94.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Living the Values</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M177,-112C177,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 177,-72 177,-72 183,-72 189,-78 189,-84 189,-84 189,-100 189,-100 189,-106 183,-112 177,-112" />
+<text text-anchor="middle" x="94.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Setting the Example</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M169.5,-40C169.5,-40 19.5,-40 19.5,-40 13.5,-40 7.5,-34 7.5,-28 7.5,-28 7.5,-12 7.5,-12 7.5,-6 13.5,0 19.5,0 19.5,0 169.5,0 169.5,0 175.5,0 181.5,-6 181.5,-12 181.5,-12 181.5,-28 181.5,-28 181.5,-34 175.5,-40 169.5,-40" />
+<text text-anchor="middle" x="94.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Modeling the Way</text>
+</g>
+</g>
+</svg>

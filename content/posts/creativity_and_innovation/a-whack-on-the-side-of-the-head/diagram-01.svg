@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="194pt" height="436pt" viewBox="0.00 0.00 194.00 436.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Roles of the Creative Mind</title><desc id="description">Explorer leads to Artist. Artist leads to Judge. Judge leads to Warrior. Warrior leads to Implementation. Implementation leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 418)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-418 176,-418 176,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79,-359.87C79,-352.31 79,-343.49 79,-335.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.45,-335.1 79,-328.1 76.55,-335.1 81.45,-335.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79,-287.87C79,-280.31 79,-271.49 79,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.45,-263.1 79,-256.1 76.55,-263.1 81.45,-263.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79,-215.87C79,-208.31 79,-199.49 79,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.45,-191.1 79,-184.1 76.55,-191.1 81.45,-191.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79,-143.87C79,-136.31 79,-127.49 79,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.45,-119.1 79,-112.1 76.55,-119.1 81.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M79,-71.87C79,-64.31 79,-55.49 79,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="81.45,-47.1 79,-40.1 76.55,-47.1 81.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M116.5,-400C116.5,-400 41.5,-400 41.5,-400 35.5,-400 29.5,-394 29.5,-388 29.5,-388 29.5,-372 29.5,-372 29.5,-366 35.5,-360 41.5,-360 41.5,-360 116.5,-360 116.5,-360 122.5,-360 128.5,-366 128.5,-372 128.5,-372 128.5,-388 128.5,-388 128.5,-394 122.5,-400 116.5,-400" />
+<text text-anchor="middle" x="79" y="-375.6" font-family="Georgia" font-size="18.00" fill="#243d36">Explorer</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M103.5,-328C103.5,-328 54.5,-328 54.5,-328 48.5,-328 42.5,-322 42.5,-316 42.5,-316 42.5,-300 42.5,-300 42.5,-294 48.5,-288 54.5,-288 54.5,-288 103.5,-288 103.5,-288 109.5,-288 115.5,-294 115.5,-300 115.5,-300 115.5,-316 115.5,-316 115.5,-322 109.5,-328 103.5,-328" />
+<text text-anchor="middle" x="79" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Artist</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M105.5,-256C105.5,-256 52.5,-256 52.5,-256 46.5,-256 40.5,-250 40.5,-244 40.5,-244 40.5,-228 40.5,-228 40.5,-222 46.5,-216 52.5,-216 52.5,-216 105.5,-216 105.5,-216 111.5,-216 117.5,-222 117.5,-228 117.5,-228 117.5,-244 117.5,-244 117.5,-250 111.5,-256 105.5,-256" />
+<text text-anchor="middle" x="79" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Judge</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M113,-184C113,-184 45,-184 45,-184 39,-184 33,-178 33,-172 33,-172 33,-156 33,-156 33,-150 39,-144 45,-144 45,-144 113,-144 113,-144 119,-144 125,-150 125,-156 125,-156 125,-172 125,-172 125,-178 119,-184 113,-184" />
+<text text-anchor="middle" x="79" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Warrior</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M146,-112C146,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 146,-72 146,-72 152,-72 158,-78 158,-84 158,-84 158,-100 158,-100 158,-106 152,-112 146,-112" />
+<text text-anchor="middle" x="79" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implementation</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M111.5,-40C111.5,-40 46.5,-40 46.5,-40 40.5,-40 34.5,-34 34.5,-28 34.5,-28 34.5,-12 34.5,-12 34.5,-6 40.5,0 46.5,0 46.5,0 111.5,0 111.5,0 117.5,0 123.5,-6 123.5,-12 123.5,-12 123.5,-28 123.5,-28 123.5,-34 117.5,-40 111.5,-40" />
+<text text-anchor="middle" x="79" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350pt" height="344pt" viewBox="0.00 0.00 350.00 344.00" role="img" aria-labelledby="title description">
+<title id="title">Finding Your Work Style and Environment</title><desc id="description">Introvert leads to Solitary work. Introvert leads to Flexible Schedule. Introvert leads to Quiet Workspace. Introvert leads to Independent Tasks. Introvert leads to Meaningful Collaboration.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 326)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-326 332,-326 332,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M64.46,-184.17C78.87,-205.1 103.97,-237.46 133,-257 138,-260.37 143.4,-263.4 148.99,-266.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.24,-268.49 155.63,-269.21 150.3,-264.04 148.24,-268.49" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.41,-183.26C111.83,-187.2 122.76,-191.28 133,-195 140.73,-197.81 148.85,-200.7 156.92,-203.54" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="156.26,-205.9 163.68,-205.91 157.88,-201.28 156.26,-205.9" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.42,-164C111.45,-164 122.27,-164 133.17,-164" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="133.35,-166.45 140.35,-164 133.35,-161.55 133.35,-166.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101.41,-144.74C111.83,-140.8 122.76,-136.72 133,-133 140.73,-130.19 148.85,-127.3 156.92,-124.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="157.88,-126.72 163.68,-122.09 156.26,-122.1 157.88,-126.72" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M65.12,-144C79.88,-123.5 105.11,-91.78 133,-71 137.83,-67.4 143.02,-64.02 148.39,-60.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="149.87,-62.84 154.75,-57.25 147.46,-58.57 149.87,-62.84" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M89,-184C89,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 89,-144 89,-144 95,-144 101,-150 101,-156 101,-156 101,-172 101,-172 101,-178 95,-184 89,-184" />
+<text text-anchor="middle" x="50.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Introvert</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M279,-308C279,-308 168,-308 168,-308 162,-308 156,-302 156,-296 156,-296 156,-280 156,-280 156,-274 162,-268 168,-268 168,-268 279,-268 279,-268 285,-268 291,-274 291,-280 291,-280 291,-296 291,-296 291,-302 285,-308 279,-308" />
+<text text-anchor="middle" x="223.5" y="-283.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solitary work</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M296,-246C296,-246 151,-246 151,-246 145,-246 139,-240 139,-234 139,-234 139,-218 139,-218 139,-212 145,-206 151,-206 151,-206 296,-206 296,-206 302,-206 308,-212 308,-218 308,-218 308,-234 308,-234 308,-240 302,-246 296,-246" />
+<text text-anchor="middle" x="223.5" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Flexible Schedule</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M294.5,-184C294.5,-184 152.5,-184 152.5,-184 146.5,-184 140.5,-178 140.5,-172 140.5,-172 140.5,-156 140.5,-156 140.5,-150 146.5,-144 152.5,-144 152.5,-144 294.5,-144 294.5,-144 300.5,-144 306.5,-150 306.5,-156 306.5,-156 306.5,-172 306.5,-172 306.5,-178 300.5,-184 294.5,-184" />
+<text text-anchor="middle" x="223.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Quiet Workspace</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M302,-122C302,-122 145,-122 145,-122 139,-122 133,-116 133,-110 133,-110 133,-94 133,-94 133,-88 139,-82 145,-82 145,-82 302,-82 302,-82 308,-82 314,-88 314,-94 314,-94 314,-110 314,-110 314,-116 308,-122 302,-122" />
+<text text-anchor="middle" x="223.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Independent Tasks</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M280,-60C280,-60 167,-60 167,-60 161,-60 155,-54 155,-48 155,-48 155,-12 155,-12 155,-6 161,0 167,0 167,0 280,0 280,0 286,0 292,-6 292,-12 292,-12 292,-48 292,-48 292,-54 286,-60 280,-60" />
+<text text-anchor="middle" x="223.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful</text>
+<text text-anchor="middle" x="223.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Collaboration</text>
+</g>
+</g>
+</svg>

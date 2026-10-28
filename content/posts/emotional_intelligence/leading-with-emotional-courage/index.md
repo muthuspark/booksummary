@@ -73,19 +73,7 @@ Bregman concludes by emphasizing that developing emotional courage is an ongoing
 
 #  Visualizing the Key Concepts:
 
-```mermaid
-graph LR
-    A[Emotional Courage] --> B(Self-Awareness);
-    A --> C(Vulnerability);
-    A --> D(Authenticity);
-    A --> E(Resilience);
-    B --> F(Self-Compassion);
-    C --> G(Trust);
-    D --> H(Empathy);
-    E --> I(Self-Care);
-    G --> J(Strong Relationships);
-    H --> K(Effective Communication);
-```
+![Visualizing the Key Concepts:. Emotional Courage; Self-Awareness; Vulnerability; Authenticity; Resilience; Self-Compassion; Trust; Empathy; Self-Care; Strong Relationships; Effective Communication.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of the key concepts explored in "Leading with Emotional Courage."  Emotional courage is at the core, fueled by self-awareness, vulnerability, authenticity, and resilience.  These elements interact and support each other, creating an approach to personal and professional growth.
 

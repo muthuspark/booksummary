@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594pt" height="148pt" viewBox="0.00 0.00 593.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Social Skills: Building and Maintaining Relationships</title><desc id="description">Assertiveness Training leads to Enhanced Social Skills. Conflict Resolution leads to Enhanced Social Skills. Networking leads to Enhanced Social Skills.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 575.5,-130 575.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M163.78,-71.96C192.38,-62.78 226.79,-51.73 256.25,-42.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.31,-44.5 263.23,-40.03 255.82,-39.84 257.31,-44.5" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M322.5,-71.87C322.5,-64.31 322.5,-55.49 322.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="324.95,-47.1 322.5,-40.1 320.05,-47.1 324.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M448.95,-71.87C426.61,-62.88 399.86,-52.12 376.73,-42.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="377.4,-40.44 369.99,-40.1 375.57,-44.99 377.4,-40.44" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197,-112C197,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 197,-72 197,-72 203,-72 209,-78 209,-84 209,-84 209,-100 209,-100 209,-106 203,-112 197,-112" />
+<text text-anchor="middle" x="104.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assertiveness Training</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M414.5,-40C414.5,-40 230.5,-40 230.5,-40 224.5,-40 218.5,-34 218.5,-28 218.5,-28 218.5,-12 218.5,-12 218.5,-6 224.5,0 230.5,0 230.5,0 414.5,0 414.5,0 420.5,0 426.5,-6 426.5,-12 426.5,-12 426.5,-28 426.5,-28 426.5,-34 420.5,-40 414.5,-40" />
+<text text-anchor="middle" x="322.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enhanced Social Skills</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M401.5,-112C401.5,-112 243.5,-112 243.5,-112 237.5,-112 231.5,-106 231.5,-100 231.5,-100 231.5,-84 231.5,-84 231.5,-78 237.5,-72 243.5,-72 243.5,-72 401.5,-72 401.5,-72 407.5,-72 413.5,-78 413.5,-84 413.5,-84 413.5,-100 413.5,-100 413.5,-106 407.5,-112 401.5,-112" />
+<text text-anchor="middle" x="322.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict Resolution</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M545.5,-112C545.5,-112 447.5,-112 447.5,-112 441.5,-112 435.5,-106 435.5,-100 435.5,-100 435.5,-84 435.5,-84 435.5,-78 441.5,-72 447.5,-72 447.5,-72 545.5,-72 545.5,-72 551.5,-72 557.5,-78 557.5,-84 557.5,-84 557.5,-100 557.5,-100 557.5,-106 551.5,-112 545.5,-112" />
+<text text-anchor="middle" x="496.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Networking</text>
+</g>
+</g>
+</svg>

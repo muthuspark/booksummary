@@ -42,15 +42,7 @@ The book outlines many key strategies employed by PAWs:
 
 * **Professional Assistance:** They often seek guidance from financial advisors and other professionals to optimize their investment strategies and tax planning.
 
-```mermaid
-graph LR
-    A[Frugal Living] --> B(Strategic Spending);
-    B --> C{Long-Term Investing};
-    C --> D(Debt Management);
-    D --> E[Financial Planning];
-    E --> F(Professional Assistance);
-    F --> G((Wealth Accumulation));
-```
+![Key Strategies for Wealth Accumulation. Frugal Living; Strategic Spending; Long-Term Investing; Debt Management; Financial Planning; Professional Assistance; Wealth Accumulation.](diagram-01.svg)
 
 #  Investing Wisely:  Diversification and Long-Term Vision
 
@@ -87,13 +79,7 @@ The path to wealth accumulation is not always easy.  PAWs often face challenges 
 
 * **Adaptability:** They adjust their strategies as needed based on changing economic conditions and personal circumstances.
 
-```mermaid
-graph LR
-    A[Discipline] --> B(Resilience);
-    B --> C(Perseverance);
-    C --> D(Adaptability);
-    D --> E((Overcoming Obstacles));
-```
+![Overcoming Obstacles and Maintaining Momentum. Discipline; Resilience; Perseverance; Adaptability; Overcoming Obstacles.](diagram-02.svg)
 
 
 # Actionable Next Steps

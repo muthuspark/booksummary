@@ -83,30 +83,7 @@ The book offers a variety of actionable advice that can be incorporated into dai
 
 The interplay between power, its physiological and psychological effects, and ethical strategies can be visualized using a diagram:
 
-```mermaid
-graph LR
-    A[Power] --> B(Increased Testosterone);
-    A --> C(Decreased Cortisol);
-    B --> D{Reduced Empathy};
-    C --> E{Increased Risk-Taking};
-    D --> F[Unethical Behavior];
-    E --> F;
-    A --> G(Inflated Self-Esteem);
-    G --> H[Overconfidence];
-    H --> F;
-    I[Ethical Strategies] --> J(Empathy);
-    I --> K(Humility);
-    I --> L(Accountability);
-    J --> M[Positive Outcomes];
-    K --> M;
-    L --> M;
-    F --> N[Negative Outcomes];
-    M --> O[Fulfilling Life];
-    N --> P[Damaged Relationships];
-
-    style M fill:#ccf,stroke:#333,stroke-width:2px
-    style P fill:#fcc,stroke:#333,stroke-width:2px
-```
+![Visualizing the Power Paradox. Power; Increased Testosterone; Decreased Cortisol; Reduced Empathy; Increased Risk-Taking; Unethical Behavior; Inflated Self-Esteem; Overconfidence; Ethical Strategies; Empathy; Humility; Accountability; Positive Outcomes; Negative Outcomes; Fulfilling Life; Damaged Relationships.](diagram-01.svg)
 
 
 

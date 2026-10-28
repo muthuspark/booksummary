@@ -14,12 +14,7 @@ David Bach's "The Automatic Millionaire" centers on a simple yet powerful philos
 
 The book champions the power of small, consistent actions over sporadic large contributions.  Bach argues that even small, regular contributions to savings and investments, compounded over time, can lead to significant wealth.  The "automatic" aspect is key—automating savings through direct deposit, payroll deduction, or automatic transfers ensures consistency and eliminates the temptation to spend what should be saved.
 
-```mermaid
-graph LR
-A[Income] --> B{Pay Yourself First};
-B --> C[Savings & Investments];
-B --> D[Expenses];
-```
+![The Power of Small, Consistent Actions. Income; Pay Yourself First; Savings & Investments; Expenses.](diagram-01.svg)
 
 #  Latte Factor & Unintentional Spending
 
@@ -33,12 +28,7 @@ Bach promotes a long-term investment strategy, emphasizing patience and avoiding
 
 The book incorporates the Pareto principle (80/20 rule), suggesting that 80% of your wealth accumulation will come from 20% of your efforts.  Identifying and focusing on those high-impact activities – like consistently saving and investing – is emphasized.  Further, managing debt is addressed as a key component.  Bach advocates for a strategic approach to debt reduction, prioritizing high-interest debts while maintaining consistent savings.
 
-```mermaid
-graph LR
-A[Income] --> B(80/20 Rule);
-B --> C[High-Impact Savings];
-B --> D[Debt Reduction];
-```
+![The 80/20 Rule & Debt Management. Income; 80/20 Rule; High-Impact Savings; Debt Reduction.](diagram-02.svg)
 
 #  Building an Emergency Fund
 

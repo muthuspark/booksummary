@@ -14,18 +14,7 @@ Thomas L. Saaty's "Decision Making for Leaders" centers around the Analytic Hier
 
 Effective decision-making begins with a clear understanding of the problem. AHP emphasizes structuring the problem hierarchically. This involves identifying the overall goal at the top, followed by intermediate criteria (sub-goals) and finally, the alternatives being considered.  This hierarchical structure visually represents the relationships between different elements of the decision.
 
-```mermaid
-graph TD
-    A[Overall Goal] --> B(Criterion 1);
-    A --> C(Criterion 2);
-    A --> D(Criterion 3);
-    B --> E(Alternative A);
-    B --> F(Alternative B);
-    C --> E;
-    C --> F;
-    D --> E;
-    D --> F;
-```
+![Structuring the Decision Problem: The Hierarchy. Overall Goal; Criterion 1; Criterion 2; Criterion 3; Alternative A; Alternative B.](diagram-01.svg)
 
 This diagram shows a simple hierarchy with one goal, three criteria, and two alternatives.  Real-world problems can be far more complex, with multiple levels and numerous criteria and alternatives. The key is to break down the complexity into smaller, more manageable components.
 

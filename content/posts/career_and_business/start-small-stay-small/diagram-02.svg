@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="456pt" height="364pt" viewBox="0.00 0.00 455.50 364.00" role="img" aria-labelledby="title description">
+<title id="title">Marketing and Sales: Reaching Your Ideal Customer</title><desc id="description">Build Online Presence leads to Content Marketing. Build Online Presence leads to Social Media Marketing. Content Marketing leads to Email Marketing. Social Media Marketing leads to Email Marketing. Email Marketing leads to Customer Loyalty. Customer Loyalty leads to Sustainable Growth.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 437.5,-346 437.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169.44,-287.87C155.86,-279.23 139.71,-268.95 125.48,-259.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.74,-257.8 119.52,-256.1 124.11,-261.93 126.74,-257.8" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229.83,-287.87C243.54,-279.23 259.84,-268.95 274.19,-259.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.59,-261.91 280.21,-256.1 272.98,-257.77 275.59,-261.91" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M119.56,-215.87C133.14,-207.23 149.29,-196.95 163.52,-187.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.89,-189.93 169.48,-184.1 162.26,-185.8 164.89,-189.93" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M280.17,-215.87C266.46,-207.23 250.16,-196.95 235.81,-187.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="237.02,-185.77 229.79,-184.1 234.41,-189.91 237.02,-185.77" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199.5,-143.87C199.5,-136.31 199.5,-127.49 199.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.95,-119.1 199.5,-112.1 197.05,-119.1 201.95,-119.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M199.5,-71.87C199.5,-64.31 199.5,-55.49 199.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.95,-47.1 199.5,-40.1 197.05,-47.1 201.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291,-328C291,-328 108,-328 108,-328 102,-328 96,-322 96,-316 96,-316 96,-300 96,-300 96,-294 102,-288 108,-288 108,-288 291,-288 291,-288 297,-288 303,-294 303,-300 303,-300 303,-316 303,-316 303,-322 297,-328 291,-328" />
+<text text-anchor="middle" x="199.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Build Online Presence</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M167,-256C167,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 167,-216 167,-216 173,-216 179,-222 179,-228 179,-228 179,-244 179,-244 179,-250 173,-256 167,-256" />
+<text text-anchor="middle" x="89.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Content Marketing</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M407.5,-256C407.5,-256 213.5,-256 213.5,-256 207.5,-256 201.5,-250 201.5,-244 201.5,-244 201.5,-228 201.5,-228 201.5,-222 207.5,-216 213.5,-216 213.5,-216 407.5,-216 407.5,-216 413.5,-216 419.5,-222 419.5,-228 419.5,-228 419.5,-244 419.5,-244 419.5,-250 413.5,-256 407.5,-256" />
+<text text-anchor="middle" x="310.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Media Marketing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M269,-184C269,-184 130,-184 130,-184 124,-184 118,-178 118,-172 118,-172 118,-156 118,-156 118,-150 124,-144 130,-144 130,-144 269,-144 269,-144 275,-144 281,-150 281,-156 281,-156 281,-172 281,-172 281,-178 275,-184 269,-184" />
+<text text-anchor="middle" x="199.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Email Marketing</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M272,-112C272,-112 127,-112 127,-112 121,-112 115,-106 115,-100 115,-100 115,-84 115,-84 115,-78 121,-72 127,-72 127,-72 272,-72 272,-72 278,-72 284,-78 284,-84 284,-84 284,-100 284,-100 284,-106 278,-112 272,-112" />
+<text text-anchor="middle" x="199.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Customer Loyalty</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M280,-40C280,-40 119,-40 119,-40 113,-40 107,-34 107,-28 107,-28 107,-12 107,-12 107,-6 113,0 119,0 119,0 280,0 280,0 286,0 292,-6 292,-12 292,-12 292,-28 292,-28 292,-34 286,-40 280,-40" />
+<text text-anchor="middle" x="199.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sustainable Growth</text>
+</g>
+</g>
+</svg>

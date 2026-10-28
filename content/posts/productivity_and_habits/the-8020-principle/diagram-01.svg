@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500pt" height="138pt" viewBox="0.00 0.00 500.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying Your Vital 20%</title><desc id="description">Activities leads to 80% Low Impact. Activities leads to 20% High Impact. 20% High Impact leads to 80% Results.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 482,-120 482,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.26,-60.39C111.09,-62.03 120.51,-63.79 130.01,-65.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="129.61,-67.99 136.94,-66.86 130.51,-63.17 129.61,-67.99" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102.26,-41.61C110.08,-40.15 118.37,-38.6 126.78,-37.04" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.43,-39.41 133.86,-35.71 126.53,-34.59 127.43,-39.41" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.26,-20C312.38,-20 320.56,-20 328.53,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="328.78,-22.45 335.78,-20 328.78,-17.55 328.78,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M90,-71C90,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 90,-31 90,-31 96,-31 102,-37 102,-43 102,-43 102,-59 102,-59 102,-65 96,-71 90,-71" />
+<text text-anchor="middle" x="51" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Activities</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M289,-102C289,-102 149,-102 149,-102 143,-102 137,-96 137,-90 137,-90 137,-74 137,-74 137,-68 143,-62 149,-62 149,-62 289,-62 289,-62 295,-62 301,-68 301,-74 301,-74 301,-90 301,-90 301,-96 295,-102 289,-102" />
+<text text-anchor="middle" x="219" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">80% Low Impact</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292,-40C292,-40 146,-40 146,-40 140,-40 134,-34 134,-28 134,-28 134,-12 134,-12 134,-6 140,0 146,0 146,0 292,0 292,0 298,0 304,-6 304,-12 304,-12 304,-28 304,-28 304,-34 298,-40 292,-40" />
+<text text-anchor="middle" x="219" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">20% High Impact</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M452,-40C452,-40 348,-40 348,-40 342,-40 336,-34 336,-28 336,-28 336,-12 336,-12 336,-6 342,0 348,0 348,0 452,0 452,0 458,0 464,-6 464,-12 464,-12 464,-28 464,-28 464,-34 458,-40 452,-40" />
+<text text-anchor="middle" x="400" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">80% Results</text>
+</g>
+</g>
+</svg>

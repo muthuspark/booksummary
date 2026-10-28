@@ -15,12 +15,7 @@ Darren Hardy's "The Compound Effect" isn't about overnight success; it's about t
 
 The book emphasizes that seemingly insignificant daily choices—good or bad—accumulate exponentially over time.  Small, consistent efforts, diligently pursued, yield far greater returns than sporadic bursts of intense activity.  This is the essence of the compound effect. It's not about grand gestures; it's about the discipline of daily improvement.
 
-```mermaid
-graph LR
-    A[Small Choices] --> B(Consistent Actions);
-    B --> C{Exponential Growth};
-    C --> D[Remarkable Results];
-```
+![The Power of Small Choices. Small Choices; Consistent Actions; Exponential Growth; Remarkable Results.](diagram-01.svg)
 
 
 ##  The Importance of Systems and Processes
@@ -91,14 +86,7 @@ The principles outlined in "The Compound Effect" aren't limited to one area of l
 
 The system isn't static. Regular review and adjustment are necessary to ensure it remains effective. Tracking progress, gathering feedback, and adapting the system based on results are important for continued growth and improvement. It's a continuous cycle of improvement and adaptation.
 
-```mermaid
-graph LR
-    A[Set Goals] --> B(Create System);
-    B --> C[Implement Consistently];
-    C --> D{Monitor Progress};
-    D --> E[Review & Adjust];
-    E --> B;
-```
+![Review and Adjustment of the System. Set Goals; Create System; Implement Consistently; Monitor Progress; Review & Adjust.](diagram-02.svg)
 
 
 ## Final Thoughts: An Approach to Success

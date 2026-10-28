@@ -14,14 +14,7 @@ Coleman Barks' translation of "The Essential Rumi" offers a rich collection of p
 
 A central theme throughout Rumi's work revolves around transcending the ego, that limited sense of self which binds us to fear, anxiety, and dissatisfaction.  Rumi encourages us to dissolve this artificial construct, to break free from the confines of our self-imposed limitations. This isn't about denying the self, but rather about recognizing the greater self, the divine spark within us that connects us to everything.
 
-```mermaid
-graph LR
-    A[Ego] --> B(Fear & Anxiety);
-    A --> C(Self-Doubt);
-    D[True Self] --> E(Love & Joy);
-    D --> F(Peace & Fulfillment);
-    A -.-> D;
-```
+![Letting Go of the Ego: The Path to Freedom. Ego; Fear & Anxiety; Self-Doubt; True Self; Love & Joy; Peace & Fulfillment.](diagram-01.svg)
 
 This diagram illustrates the transition from ego-driven limitations to the freedom and fulfillment found in embracing the true self. The arrows highlight the causal relationships. The dotted line signifies the process of letting go of the ego.
 
@@ -79,16 +72,7 @@ Rumi's teachings are not about arriving at some distant destination but about em
 * **Surrender:** Accept what you cannot control.
 * **Action:** Live your values and embody your spiritual insights.
 
-```mermaid
-graph LR
-    A[Mindfulness] --> B(Present Moment Awareness);
-    C[Self-Reflection] --> D(Self-Understanding);
-    E[Love & Compassion] --> F(Positive Relationships);
-    G[Gratitude] --> H(Contentment);
-    I[Forgiveness] --> J(Inner Peace);
-    K[Surrender] --> L(Acceptance);
-    M[Action] --> N(Positive Change);
-```
+![Key Strategies for Self-Improvement from "The Essential Rumi. Mindfulness; Present Moment Awareness; Self-Reflection; Self-Understanding; Love & Compassion; Positive Relationships; Gratitude; Contentment; Forgiveness; Inner Peace; Surrender; Acceptance; Action; Positive Change.](diagram-02.svg)
 
 This diagram visually represents the key strategies and their positive outcomes, showcasing how they interconnect and contribute to overall self-improvement.
 

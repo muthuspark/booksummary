@@ -24,16 +24,7 @@ The core of the book revolves around four key principles forming the foundation 
 * **Insist on using objective criteria:**  This ensures fairness and legitimacy in the agreement.  Using objective standards, market prices, precedents, professional standards, or scientific data helps to resolve disagreements on a rational basis, minimizing subjective biases.
 
 
-```mermaid
-graph LR
-    A[Separate People from Problem] --> B(Focus on Interests);
-    B --> C{Invent Options};
-    C --> D[Insist on Objective Criteria];
-    D --> E(Mutually Beneficial Agreement);
-    A --> E;
-    B --> E;
-    C --> E;
-```
+![The Principled Negotiation Framework. Separate People from Problem; Focus on Interests; Invent Options; Insist on Objective Criteria; Mutually Beneficial Agreement.](diagram-01.svg)
 
 ## Separating People from the Problem: Dealing with Emotions
 

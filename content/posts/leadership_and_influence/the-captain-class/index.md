@@ -31,13 +31,7 @@ The book identifies a core set of characteristics, not as traits, but as develop
 
 The book emphasizes the importance of deliberate practice. This is not simply doing something repeatedly; it's about focused, intentional practice aimed at improving specific skills. It involves setting clear goals, seeking feedback, and constantly refining one's approach. This concept is for mastering any skill, from leadership to technical expertise.
 
-```mermaid
-graph LR
-A[Goal Setting] --> B(Focused Practice);
-B --> C{Feedback & Analysis};
-C --> D[Refinement & Iteration];
-D --> E(Skill Mastery);
-```
+![The Power of Deliberate Practice. Goal Setting; Focused Practice; Feedback & Analysis; Refinement & Iteration; Skill Mastery.](diagram-01.svg)
 
 This iterative process, visualized above, showcases how deliberate practice drives continuous improvement, a central theme in developing Captain Class leadership.
 

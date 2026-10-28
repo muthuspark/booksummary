@@ -16,15 +16,7 @@ The book revolves around the central dilemma founders face: the trade-off betwee
 
 This dilemma is often presented as a binary choice, but Wasserman demonstrates its nature. The choices made regarding fundraising, equity distribution, and leadership structures have long-term ramifications, shaping the founder's life, their wealth, and the company's ultimate success.
 
-```mermaid
-graph LR
-A[Founder's Dilemma] --> B(Control);
-A --> C(Cash);
-B --> D{Maintain Vision, Autonomy};
-B --> E{Risk of slow growth, limited resources};
-C --> F{Faster growth, greater resources};
-C --> G{Loss of control, potential for conflict};
-```
+![The Core Dilemma: Control vs. Cash. Founder's Dilemma; Control; Cash; Maintain Vision, Autonomy; Risk of slow growth, limited resources; Faster growth, greater resources; Loss of control, potential for conflict.](diagram-01.svg)
 
 
 ###  Understanding Founder's Personality & Vision

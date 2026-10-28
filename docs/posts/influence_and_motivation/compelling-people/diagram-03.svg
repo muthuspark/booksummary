@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="531pt" height="148pt" viewBox="0.00 0.00 530.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Passion:  Connecting on an Emotional Level</title><desc id="description">Authenticity leads to Passion. Storytelling leads to Passion. Enthusiasm &amp; Energy leads to Passion.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 512.5,-130 512.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.4,-71.87C121.9,-63 144.01,-52.4 163.25,-43.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="164.4,-45.34 169.65,-40.1 162.28,-40.92 164.4,-45.34" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209.5,-71.87C209.5,-64.31 209.5,-55.49 209.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.95,-47.1 209.5,-40.1 207.05,-47.1 211.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M343.22,-71.87C317.63,-62.14 286.57,-50.32 260.84,-40.53" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="261.48,-38.16 254.07,-37.96 259.74,-42.74 261.48,-38.16" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M115,-112C115,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 115,-72 115,-72 121,-72 127,-78 127,-84 127,-84 127,-100 127,-100 127,-106 121,-112 115,-112" />
+<text text-anchor="middle" x="63.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Authenticity</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M242,-40C242,-40 177,-40 177,-40 171,-40 165,-34 165,-28 165,-28 165,-12 165,-12 165,-6 171,0 177,0 177,0 242,0 242,0 248,0 254,-6 254,-12 254,-12 254,-28 254,-28 254,-34 248,-40 242,-40" />
+<text text-anchor="middle" x="209.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passion</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-112C258,-112 161,-112 161,-112 155,-112 149,-106 149,-100 149,-100 149,-84 149,-84 149,-78 155,-72 161,-72 161,-72 258,-72 258,-72 264,-72 270,-78 270,-84 270,-84 270,-100 270,-100 270,-106 264,-112 258,-112" />
+<text text-anchor="middle" x="209.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Storytelling</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M482.5,-112C482.5,-112 304.5,-112 304.5,-112 298.5,-112 292.5,-106 292.5,-100 292.5,-100 292.5,-84 292.5,-84 292.5,-78 298.5,-72 304.5,-72 304.5,-72 482.5,-72 482.5,-72 488.5,-72 494.5,-78 494.5,-84 494.5,-84 494.5,-100 494.5,-100 494.5,-106 488.5,-112 482.5,-112" />
+<text text-anchor="middle" x="393.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Enthusiasm &amp; Energy</text>
+</g>
+</g>
+</svg>

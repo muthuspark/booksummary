@@ -16,16 +16,7 @@ Kelly McGonigal's "The Willpower Instinct" reframes the common understanding of 
 The book delves into the neuroscience behind willpower, highlighting the prefrontal cortex's (PFC) role.  The PFC is responsible for executive functions like planning, decision-making, and self-control.  However, its capacity is not fixed.  It's heavily influenced by factors like stress, glucose levels, and sleep deprivation.  Understanding this biology allows for targeted interventions to support willpower.
 
 
-```mermaid
-graph LR
-    A[Stress] --> B(PFC);
-    C[Glucose Depletion] --> B;
-    D[Sleep Deprivation] --> B;
-    B --> E[Reduced Willpower];
-    F[Improved Habits] --> G(Strengthened PFC);
-    G --> H[Increased Willpower];
-
-```
+![The Biology of Willpower:  The Brain's Role. Stress; PFC; Glucose Depletion; Sleep Deprivation; Reduced Willpower; Improved Habits; Strengthened PFC; Increased Willpower.](diagram-01.svg)
 
 ##  The Power of Belief: Mindset Matters
 

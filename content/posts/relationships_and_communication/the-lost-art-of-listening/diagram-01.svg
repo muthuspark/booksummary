@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438pt" height="406pt" viewBox="0.00 0.00 438.00 406.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Barriers to Effective Listening</title><desc id="description">Internal Barriers leads to Preconceived Notions. Internal Barriers leads to Personal Anxieties. Internal Barriers leads to Self-Centeredness. External Barriers leads to Noisy Environments. External Barriers leads to Interruptions. Result leads to Misunderstandings &amp; Conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 388)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-388 420,-388 420,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.01,-102.04C176.02,-108.39 200.48,-115.44 222.96,-121.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.46,-124.33 229.86,-123.92 223.82,-119.63 222.46,-124.33" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M165.17,-82C178.14,-82 191.66,-82 204.92,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.26,-84.45 212.26,-82 205.26,-79.55 205.26,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.01,-61.96C176.02,-55.61 200.48,-48.56 222.96,-42.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.82,-44.37 229.86,-40.08 222.46,-39.67 223.82,-44.37" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.01,-248.9C177.02,-250.34 187.33,-251.83 197.57,-253.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.37,-255.75 204.65,-254.32 198.07,-250.9 197.37,-255.75" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.01,-225.1C186.04,-222.36 206.17,-219.46 224.84,-216.76" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.61,-219.13 232.19,-215.7 224.91,-214.28 225.61,-219.13" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M123.93,-340C143.77,-340 168.86,-340 193.81,-340" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="193.84,-342.45 200.84,-340 193.84,-337.55 193.84,-342.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M153,-102C153,-102 14,-102 14,-102 8,-102 2,-96 2,-90 2,-90 2,-74 2,-74 2,-68 8,-62 14,-62 14,-62 153,-62 153,-62 159,-62 165,-68 165,-74 165,-74 165,-90 165,-90 165,-96 159,-102 153,-102" />
+<text text-anchor="middle" x="83.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Internal Barriers</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M390,-164C390,-164 211,-164 211,-164 205,-164 199,-158 199,-152 199,-152 199,-136 199,-136 199,-130 205,-124 211,-124 211,-124 390,-124 390,-124 396,-124 402,-130 402,-136 402,-136 402,-152 402,-152 402,-158 396,-164 390,-164" />
+<text text-anchor="middle" x="300.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Preconceived Notions</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M376.5,-102C376.5,-102 224.5,-102 224.5,-102 218.5,-102 212.5,-96 212.5,-90 212.5,-90 212.5,-74 212.5,-74 212.5,-68 218.5,-62 224.5,-62 224.5,-62 376.5,-62 376.5,-62 382.5,-62 388.5,-68 388.5,-74 388.5,-74 388.5,-90 388.5,-90 388.5,-96 382.5,-102 376.5,-102" />
+<text text-anchor="middle" x="300.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Personal Anxieties</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M375,-40C375,-40 226,-40 226,-40 220,-40 214,-34 214,-28 214,-28 214,-12 214,-12 214,-6 220,0 226,0 226,0 375,0 375,0 381,0 387,-6 387,-12 387,-12 387,-28 387,-28 387,-34 381,-40 375,-40" />
+<text text-anchor="middle" x="300.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Centeredness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-257C155,-257 12,-257 12,-257 6,-257 0,-251 0,-245 0,-245 0,-229 0,-229 0,-223 6,-217 12,-217 12,-217 155,-217 155,-217 161,-217 167,-223 167,-229 167,-229 167,-245 167,-245 167,-251 161,-257 155,-257" />
+<text text-anchor="middle" x="83.5" y="-232.6" font-family="Georgia" font-size="18.00" fill="#243d36">External Barriers</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M384,-288C384,-288 217,-288 217,-288 211,-288 205,-282 205,-276 205,-276 205,-260 205,-260 205,-254 211,-248 217,-248 217,-248 384,-248 384,-248 390,-248 396,-254 396,-260 396,-260 396,-276 396,-276 396,-282 390,-288 384,-288" />
+<text text-anchor="middle" x="300.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Noisy Environments</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356.5,-226C356.5,-226 244.5,-226 244.5,-226 238.5,-226 232.5,-220 232.5,-214 232.5,-214 232.5,-198 232.5,-198 232.5,-192 238.5,-186 244.5,-186 244.5,-186 356.5,-186 356.5,-186 362.5,-186 368.5,-192 368.5,-198 368.5,-198 368.5,-214 368.5,-214 368.5,-220 362.5,-226 356.5,-226" />
+<text text-anchor="middle" x="300.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interruptions</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M111.5,-360C111.5,-360 55.5,-360 55.5,-360 49.5,-360 43.5,-354 43.5,-348 43.5,-348 43.5,-332 43.5,-332 43.5,-326 49.5,-320 55.5,-320 55.5,-320 111.5,-320 111.5,-320 117.5,-320 123.5,-326 123.5,-332 123.5,-332 123.5,-348 123.5,-348 123.5,-354 117.5,-360 111.5,-360" />
+<text text-anchor="middle" x="83.5" y="-335.6" font-family="Georgia" font-size="18.00" fill="#243d36">Result</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M388,-370C388,-370 213,-370 213,-370 207,-370 201,-364 201,-358 201,-358 201,-322 201,-322 201,-316 207,-310 213,-310 213,-310 388,-310 388,-310 394,-310 400,-316 400,-322 400,-322 400,-358 400,-358 400,-364 394,-370 388,-370" />
+<text text-anchor="middle" x="300.5" y="-345.6" font-family="Georgia" font-size="18.00" fill="#243d36">Misunderstandings &amp;</text>
+<text text-anchor="middle" x="300.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conflict</text>
+</g>
+</g>
+</svg>

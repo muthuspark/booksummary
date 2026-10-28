@@ -14,12 +14,7 @@ author: "Mark Douglas"
 
 Many traders search for the elusive "Holy Grail"—a perfect system or strategy guaranteeing consistent profits.  Douglas debunks this myth, highlighting that no such system exists. Market unpredictability is inherent; success comes from adapting to this reality rather than fighting it.  The focus should be on consistent execution within a sound trading plan, accepting losses as an unavoidable part of the process.
 
-```mermaid
-graph LR
-    A[Holy Grail Myth] --> B(Disappointment);
-    C[Adaptability] --> D(Consistent Execution);
-    D --> E[Profitability];
-```
+![The Myth of the "Holy Grail. Holy Grail Myth; Disappointment; Adaptability; Consistent Execution; Profitability.](diagram-01.svg)
 
 # Separating Belief from Reality
 
@@ -38,14 +33,7 @@ The "Zone" represents a state of optimal performance by:
 *   **Control:**  Maintaining emotional detachment and disciplined adherence to the trading plan.
 *   **Confidence:**  Trust in one's ability to execute the plan effectively.
 
-```mermaid
-graph LR
-    A[Clarity] --> B(Zone);
-    C[Focus] --> B;
-    D[Control] --> B;
-    E[Confidence] --> B;
-    B --> F[Consistent Profitability];
-```
+![The Concept of the "Zone. Clarity; Zone; Focus; Control; Confidence; Consistent Profitability.](diagram-02.svg)
 
 Achieving the "Zone" isn't a destination but a process of continuous self-improvement.
 
@@ -71,13 +59,7 @@ Douglas emphasizes the importance of identifying and challenging limiting belief
 
 The book highlights the difference between proactive and reactive trading. Reactive trading is driven by emotions and immediate market movements, often resulting in impulsive decisions. Proactive trading, in contrast, is based on a well-defined plan and a disciplined approach, allowing the trader to act deliberately rather than impulsively.
 
-```mermaid
-graph LR
-    A[Reactive Trading] --> B(Emotions);
-    B --> C(Impulsive Decisions);
-    D[Proactive Trading] --> E(Plan);
-    E --> F(Deliberate Actions);
-```
+![Proactive vs. Reactive Trading. Reactive Trading; Emotions; Impulsive Decisions; Proactive Trading; Plan; Deliberate Actions.](diagram-03.svg)
 
 # The Power of Consistent Execution
 

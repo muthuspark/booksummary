@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="499pt" height="352pt" viewBox="0.00 0.00 499.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">The Four Rules of YNAB</title><desc id="description">Give Every Dollar a Job leads to Embrace Your Reality. Embrace Your Reality leads to Roll with the Punches. Roll with the Punches leads to Age Your Money. Age Your Money leads to Give Every Dollar a Job.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 481,-334 481,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M328.07,-255.89C314.7,-246.83 300.15,-236.96 287.44,-228.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="288.53,-226.13 281.36,-224.23 285.78,-230.19 288.53,-226.13" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M242.4,-183.91C237.65,-175.37 231.85,-164.93 226.18,-154.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.21,-153.34 222.67,-148.41 223.93,-155.72 228.21,-153.34" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M243.94,-79.77C259.08,-68.22 275.98,-55.33 290.09,-44.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="291.87,-46.3 295.95,-40.11 288.9,-42.4 291.87,-46.3" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M380.46,-40.07C394.9,-47.65 408.59,-58.01 417,-72 450.62,-127.94 418.04,-205.21 393.21,-249.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="390.95,-248.68 389.62,-255.98 395.21,-251.11 390.95,-248.68" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M451,-316C451,-316 291,-316 291,-316 285,-316 279,-310 279,-304 279,-304 279,-268 279,-268 279,-262 285,-256 291,-256 291,-256 451,-256 451,-256 457,-256 463,-262 463,-268 463,-268 463,-304 463,-304 463,-310 457,-316 451,-316" />
+<text text-anchor="middle" x="371" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Give Every Dollar a</text>
+<text text-anchor="middle" x="371" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Job</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M343,-224C343,-224 163,-224 163,-224 157,-224 151,-218 151,-212 151,-212 151,-196 151,-196 151,-190 157,-184 163,-184 163,-184 343,-184 343,-184 349,-184 355,-190 355,-196 355,-196 355,-212 355,-212 355,-218 349,-224 343,-224" />
+<text text-anchor="middle" x="253" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Embrace Your Reality</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="203,-152 0,-112 203,-72 406,-112 203,-152" />
+<text text-anchor="middle" x="203" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Roll with the Punches</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M389.5,-40C389.5,-40 252.5,-40 252.5,-40 246.5,-40 240.5,-34 240.5,-28 240.5,-28 240.5,-12 240.5,-12 240.5,-6 246.5,0 252.5,0 252.5,0 389.5,0 389.5,0 395.5,0 401.5,-6 401.5,-12 401.5,-12 401.5,-28 401.5,-28 401.5,-34 395.5,-40 389.5,-40" />
+<text text-anchor="middle" x="321" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Age Your Money</text>
+</g>
+</g>
+</svg>

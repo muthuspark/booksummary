@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="636pt" height="138pt" viewBox="0.00 0.00 636.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">The Six Success Principles</title><desc id="description">Attunement leads to Buoyancy. Attunement leads to Clarity. Buoyancy leads to Conviction. Clarity leads to Storytelling. Conviction leads to Finding the Yes. Storytelling leads to Finding the Yes.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 618,-120 618,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124.28,-64.06C132.25,-65.75 140.41,-67.49 148.36,-69.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.23,-71.66 155.59,-70.73 149.25,-66.87 148.23,-71.66" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M124.28,-37.94C136.75,-35.29 149.67,-32.53 161.55,-30" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="162.07,-32.4 168.4,-28.54 161.05,-27.61 162.07,-32.4" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M263.3,-82C272.39,-82 281.91,-82 291.23,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="291.31,-84.45 298.31,-82 291.31,-79.55 291.31,-84.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M250.61,-20C262.2,-20 275.16,-20 287.9,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="287.95,-22.45 294.95,-20 287.95,-17.55 287.95,-22.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M412.87,-71.5C421.9,-69.82 431.41,-68.05 440.9,-66.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="441.36,-68.69 447.8,-65 440.46,-63.87 441.36,-68.69" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M416.14,-31.1C424.16,-32.6 432.5,-34.15 440.82,-35.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="440.47,-38.13 447.8,-37 441.37,-33.31 440.47,-38.13" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M112,-71C112,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 112,-31 112,-31 118,-31 124,-37 124,-43 124,-43 124,-59 124,-59 124,-65 118,-71 112,-71" />
+<text text-anchor="middle" x="62" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attunement</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251,-102C251,-102 168,-102 168,-102 162,-102 156,-96 156,-90 156,-90 156,-74 156,-74 156,-68 162,-62 168,-62 168,-62 251,-62 251,-62 257,-62 263,-68 263,-74 263,-74 263,-90 263,-90 263,-96 257,-102 251,-102" />
+<text text-anchor="middle" x="209.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Buoyancy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M238.5,-40C238.5,-40 180.5,-40 180.5,-40 174.5,-40 168.5,-34 168.5,-28 168.5,-28 168.5,-12 168.5,-12 168.5,-6 174.5,0 180.5,0 180.5,0 238.5,0 238.5,0 244.5,0 250.5,-6 250.5,-12 250.5,-12 250.5,-28 250.5,-28 250.5,-34 244.5,-40 238.5,-40" />
+<text text-anchor="middle" x="209.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M400.5,-102C400.5,-102 310.5,-102 310.5,-102 304.5,-102 298.5,-96 298.5,-90 298.5,-90 298.5,-74 298.5,-74 298.5,-68 304.5,-62 310.5,-62 310.5,-62 400.5,-62 400.5,-62 406.5,-62 412.5,-68 412.5,-74 412.5,-74 412.5,-90 412.5,-90 412.5,-96 406.5,-102 400.5,-102" />
+<text text-anchor="middle" x="355.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conviction</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M404,-40C404,-40 307,-40 307,-40 301,-40 295,-34 295,-28 295,-28 295,-12 295,-12 295,-6 301,0 307,0 307,0 404,0 404,0 410,0 416,-6 416,-12 416,-12 416,-28 416,-28 416,-34 410,-40 404,-40" />
+<text text-anchor="middle" x="355.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Storytelling</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M588,-71C588,-71 460,-71 460,-71 454,-71 448,-65 448,-59 448,-59 448,-43 448,-43 448,-37 454,-31 460,-31 460,-31 588,-31 588,-31 594,-31 600,-37 600,-43 600,-43 600,-59 600,-59 600,-65 594,-71 588,-71" />
+<text text-anchor="middle" x="524" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Finding the Yes</text>
+</g>
+</g>
+</svg>

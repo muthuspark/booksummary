@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388pt" height="464pt" viewBox="0.00 0.00 388.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">The Principle of Extreme Ownership</title><desc id="description">Problem leads to Extreme Ownership. Extreme Ownership leads to Identify Your Role. Identify Your Role leads to Develop Solutions. Develop Solutions leads to Success/Improved Outcome.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 370,-446 370,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176,-387.87C176,-380.31 176,-371.49 176,-363.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.45,-363.1 176,-356.1 173.55,-363.1 178.45,-363.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176,-315.91C176,-308.58 176,-299.86 176,-291.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.45,-291.07 176,-284.07 173.55,-291.07 178.45,-291.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176,-203.91C176,-196.06 176,-187.74 176,-179.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.45,-179.34 176,-172.34 173.55,-179.34 178.45,-179.34" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M176,-91.76C176,-83.72 176,-75.29 176,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.45,-67.23 176,-60.23 173.55,-67.23 178.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M212.5,-428C212.5,-428 139.5,-428 139.5,-428 133.5,-428 127.5,-422 127.5,-416 127.5,-416 127.5,-400 127.5,-400 127.5,-394 133.5,-388 139.5,-388 139.5,-388 212.5,-388 212.5,-388 218.5,-388 224.5,-394 224.5,-400 224.5,-400 224.5,-416 224.5,-416 224.5,-422 218.5,-428 212.5,-428" />
+<text text-anchor="middle" x="176" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258.5,-356C258.5,-356 93.5,-356 93.5,-356 87.5,-356 81.5,-350 81.5,-344 81.5,-344 81.5,-328 81.5,-328 81.5,-322 87.5,-316 93.5,-316 93.5,-316 258.5,-316 258.5,-316 264.5,-316 270.5,-322 270.5,-328 270.5,-328 270.5,-344 270.5,-344 270.5,-350 264.5,-356 258.5,-356" />
+<text text-anchor="middle" x="176" y="-331.6" font-family="Georgia" font-size="18.00" fill="#243d36">Extreme Ownership</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="176,-284 0,-244 176,-204 352,-244 176,-284" />
+<text text-anchor="middle" x="176" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Your Role</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="176,-172 3,-132 176,-92 349,-132 176,-172" />
+<text text-anchor="middle" x="176" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Develop Solutions</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M252,-60C252,-60 100,-60 100,-60 94,-60 88,-54 88,-48 88,-48 88,-12 88,-12 88,-6 94,0 100,0 100,0 252,0 252,0 258,0 264,-6 264,-12 264,-12 264,-48 264,-48 264,-54 258,-60 252,-60" />
+<text text-anchor="middle" x="176" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success/Improved</text>
+<text text-anchor="middle" x="176" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome</text>
+</g>
+</g>
+</svg>

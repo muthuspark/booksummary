@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392pt" height="282pt" viewBox="0.00 0.00 392.00 282.00" role="img" aria-labelledby="title description">
+<title id="title">Techniques for Deep Focus</title><desc id="description">Minimize Distractions leads to Deep Work. Timeboxing leads to Deep Work. Pomodoro Technique leads to Deep Work. Mindfulness &amp; Meditation leads to Deep Work.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 264)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-264 374,-264 374,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M178.5,-205.94C187.59,-202.68 196.62,-199.03 205,-195 226.09,-184.85 247.79,-170.15 264.65,-157.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="266.52,-159.28 270.64,-153.11 263.57,-155.37 266.52,-159.28" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.25,-154.19C185.08,-150.83 208.47,-147.05 229.68,-143.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="230.27,-146.01 236.79,-142.48 229.48,-141.18 230.27,-146.01" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203.16,-118.09C212.14,-119.54 221.09,-120.99 229.68,-122.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="229.5,-124.82 236.8,-123.52 230.28,-119.99 229.5,-124.82" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.11,-56.64C185.31,-61.09 195.54,-65.93 205,-71 225.33,-81.9 246.68,-96.37 263.54,-108.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="262.44,-110.82 269.53,-112.97 265.33,-106.86 262.44,-110.82" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M193,-246C193,-246 12,-246 12,-246 6,-246 0,-240 0,-234 0,-234 0,-218 0,-218 0,-212 6,-206 12,-206 12,-206 193,-206 193,-206 199,-206 205,-212 205,-218 205,-218 205,-234 205,-234 205,-240 199,-246 193,-246" />
+<text text-anchor="middle" x="102.5" y="-221.6" font-family="Georgia" font-size="18.00" fill="#243d36">Minimize Distractions</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M344,-153C344,-153 249,-153 249,-153 243,-153 237,-147 237,-141 237,-141 237,-125 237,-125 237,-119 243,-113 249,-113 249,-113 344,-113 344,-113 350,-113 356,-119 356,-125 356,-125 356,-141 356,-141 356,-147 350,-153 344,-153" />
+<text text-anchor="middle" x="296.5" y="-128.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deep Work</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-184C152,-184 53,-184 53,-184 47,-184 41,-178 41,-172 41,-172 41,-156 41,-156 41,-150 47,-144 53,-144 53,-144 152,-144 152,-144 158,-144 164,-150 164,-156 164,-156 164,-172 164,-172 164,-178 158,-184 152,-184" />
+<text text-anchor="middle" x="102.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Timeboxing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-122C191,-122 14,-122 14,-122 8,-122 2,-116 2,-110 2,-110 2,-94 2,-94 2,-88 8,-82 14,-82 14,-82 191,-82 191,-82 197,-82 203,-88 203,-94 203,-94 203,-110 203,-110 203,-116 197,-122 191,-122" />
+<text text-anchor="middle" x="102.5" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pomodoro Technique</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-60C163,-60 42,-60 42,-60 36,-60 30,-54 30,-48 30,-48 30,-12 30,-12 30,-6 36,0 42,0 42,0 163,0 163,0 169,0 175,-6 175,-12 175,-12 175,-48 175,-48 175,-54 169,-60 163,-60" />
+<text text-anchor="middle" x="102.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness &amp;</text>
+<text text-anchor="middle" x="102.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meditation</text>
+</g>
+</g>
+</svg>

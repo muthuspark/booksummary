@@ -31,7 +31,7 @@ Verbal Judo isn't about manipulation; it’s about understanding human psycholog
 The book offers a wide array of specific verbal techniques, categorized and explained in detail.  Some key techniques include:
 
 * **The "Tactical Pause":**  A strategic silence that allows you to regain composure and assess the situation.
-* **"I" Statements:**  Focus on expressing your own feelings and needs without blaming or accusing.  Example:  "I feel frustrated when..." instead of "You always...".
+* **""I" Statements:**  Focus on expressing your own feelings and needs without blaming or accusing.  Example:  "I feel frustrated when..." instead of "You always...".
 * **"Active Listening" Techniques:**  Paraphrasing and reflecting back the other person’s statements demonstrates that you’re listening and understanding.
 * **"The Gentle Hand" Technique:**  Using calm, reassuring language to ease tension and guide the person toward compliance.
 * **"The Verbal Backtrack":**  Using previous statements made by the other person to guide them toward agreement and compliance.
@@ -79,21 +79,7 @@ Mastering Verbal Judo requires consistent training and practice. Thompson advoca
 
 ##  Summary Diagram
 
-```mermaid
-graph LR
-A[Verbal Judo] --> B(Self-Control);
-A --> C(Tactical Communication);
-C --> D(Active Listening);
-C --> E(Empathy);
-C --> F("I" Statements);
-C --> G(Tactical Pause);
-B --> H(Emotional Intelligence);
-A --> I(De-escalation Strategies);
-I --> J(Creating Space);
-I --> K(Identifying Triggers);
-A --> L(Assertiveness);
-A --> M(Ethical Considerations);
-```
+![Summary Diagram. Verbal Judo; Self-Control; Tactical Communication; Active Listening; Empathy; "I" Statements; Tactical Pause; Emotional Intelligence; De-escalation Strategies; Creating Space; Identifying Triggers; Assertiveness; Ethical Considerations.](diagram-01.svg)
 
 
 "Verbal Judo" is more than just a set of techniques; it's a philosophy of communication that emphasizes self-control, empathy, and respectful interaction. By mastering the principles and techniques outlined in the book, readers can improve their ability to navigate challenging situations, build stronger relationships, and achieve positive outcomes in their interactions with others. The techniques, while rooted in de-escalation for potentially hostile situations, are fundamentally applicable to everyday life, improving communication and fostering understanding across all social contexts.

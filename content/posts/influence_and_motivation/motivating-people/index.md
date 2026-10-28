@@ -15,14 +15,7 @@ The Harvard Business Review's *Motivating People*, while not a single book, draw
 
 The book highlights the difference between intrinsic and extrinsic motivation. Extrinsic motivation stems from external rewards like bonuses, promotions, or fear of punishment. While effective in the short term, over-reliance on extrinsic motivators can be detrimental in the long run, potentially diminishing intrinsic motivation—the drive that comes from within, fueled by interest, challenge, and a sense of purpose.
 
-```mermaid
-graph LR
-A[Extrinsic Motivation] --> B(External Rewards);
-A --> C(Fear of Punishment);
-D[Intrinsic Motivation] --> E(Interest);
-D --> F(Challenge);
-D --> G(Purpose);
-```
+![Intrinsic vs. Extrinsic Motivation: The Dual Drivers. Extrinsic Motivation; External Rewards; Fear of Punishment; Intrinsic Motivation; Interest; Challenge; Purpose.](diagram-01.svg)
 
 Striking a balance is key.  Overemphasis on either can backfire.  The ideal scenario involves aligning extrinsic rewards with intrinsic drivers, ensuring that external factors enhance, rather than supplant, internal motivation.
 

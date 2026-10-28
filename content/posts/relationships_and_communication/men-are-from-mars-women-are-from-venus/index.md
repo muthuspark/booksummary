@@ -15,36 +15,20 @@ John Gray's "Men Are from Mars, Women Are from Venus" posits a fundamental premi
 
 Men, according to Gray, are often driven by a need for competence and independence. They value problem-solving, achievement, and a sense of control.  They tend to withdraw when stressed, needing time alone to process their emotions ("going to their cave"). This isn't a rejection, but rather a necessary survival mechanism for them.  Understanding this is for women to avoid misinterpreting their silence or distance as disinterest or anger.  Expecting immediate emotional support from a man in stressful situations is likely to frustrate both partners.
 
-```mermaid
-graph LR
-    A[Stress] --> B(Withdraw/Go to Cave);
-    B --> C[Process Emotions];
-    C --> D(Return with Solution);
-```
+![Men's Needs: The Martian Perspective. Stress; Withdraw/Go to Cave; Process Emotions; Return with Solution.](diagram-01.svg)
 
 ## Women's Needs: The Venusian Perspective
 
 Women, conversely, are often driven by emotional connection and intimacy. They value communication, empathy, and understanding.  They use communication as a primary tool for connection and support, seeking emotional validation.  When stressed, they often desire reassurance and support through conversation.  Misunderstanding a man's need for space as rejection is a common source of conflict.
 
-```mermaid
-graph LR
-    A[Stress] --> B(Communicate/Seek Support);
-    B --> C[Receive Validation/Reassurance];
-    C --> D(Feel Supported/Connected);
-```
+![Women's Needs: The Venusian Perspective. Stress; Communicate/Seek Support; Receive Validation/Reassurance; Feel Supported/Connected.](diagram-02.svg)
 
 
 ## Communication Gaps: The Root of Conflict
 
 The core of Gray's argument lies in the differing communication styles of men and women. Men often communicate directly and solution-oriented, while women use communication to connect and share emotions.  This often leads to misunderstandings. A woman might share a problem seeking empathy, but a man might respond with solutions, inadvertently dismissing her feelings. Conversely, a man might attempt to resolve a woman's emotional distress with practical solutions, which the woman might perceive as uncaring or dismissive of her emotional state.
 
-```mermaid
-graph LR
-    A[Woman: Shares Problem] --> B(Seeks Empathy);
-    A[Man: Responds] --> C(Offers Solutions);
-    B -- Misunderstanding --> D(Feelings Undervalued);
-    C -- Misunderstanding --> E(Solutions Unwanted);
-```
+![Communication Gaps: The Root of Conflict. Man: Responds; Seeks Empathy; Offers Solutions; Feelings Undervalued; Solutions Unwanted.](diagram-03.svg)
 
 
 ##  Improving Communication: Key Strategies

@@ -14,13 +14,7 @@ Robin Sharma's "The 5 AM Club" isn't just about waking up early; it's a self-imp
 
 The book's central strategy is the "20/20/20" formula:  dedicating the first 20 minutes of your day to physical exercise, the next 20 minutes to personal development (reading, reflection, planning), and the final 20 minutes to prioritize and plan your day. This structured approach helps to establish a powerful and productive start to the day.
 
-```mermaid
-graph LR
-A[Wake up at 5 AM] --> B(20 Minutes Exercise);
-B --> C(20 Minutes Self-Development);
-C --> D(20 Minutes Prioritization & Planning);
-D --> E[Productive Day];
-```
+![The 20/20/20 Formula: The Foundation of the 5 AM Club. Wake up at 5 AM; 20 Minutes Exercise; 20 Minutes Self-Development; 20 Minutes Prioritization & Planning; Productive Day.](diagram-01.svg)
 
 This simple yet effective formula lays the groundwork for a more fulfilling and successful life.  It promotes physical health, mental clarity, and efficient time management.
 
@@ -78,15 +72,7 @@ The book outlines six pillars for personal mastery:
 These pillars are interconnected and work together to achieve an approach to self-improvement.
 
 
-```mermaid
-graph LR
-A[Physical Health] --> B(Personal Mastery);
-C[Mental Clarity] --> B;
-D[Emotional Intelligence] --> B;
-E[Creative Power] --> B;
-F[Spiritual Growth] --> B;
-G[Financial Freedom] --> B;
-```
+![The Six Pillars of Personal Mastery. Physical Health; Personal Mastery; Mental Clarity; Emotional Intelligence; Creative Power; Spiritual Growth; Financial Freedom.](diagram-02.svg)
 
 ##  Taking Action and Sustaining Momentum
 

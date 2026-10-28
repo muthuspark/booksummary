@@ -24,13 +24,7 @@ However, this is only a minor improvement and might not be preferred by the orig
 
 **The Fastlane:**  This path involves building and owning income-generating assets. This requires entrepreneurial skills, risk-taking, and a focus on creating value for others. It emphasizes building systems and businesses that generate income even while you are not actively working.  The reward is quicker wealth accumulation, greater control over your time, and a much earlier achievement of financial freedom.
 
-```mermaid
-graph LR
-    A[Slowlane] --> B(Saving, Investing);
-    B --> C(Retirement at 65);
-    D[Fastlane] --> E(Entrepreneurship, Asset Building);
-    E --> F(Financial Freedom, Early Retirement);
-```
+![The Slowlane vs. the Fastlane. Slowlane; Saving, Investing; Retirement at 65; Fastlane; Entrepreneurship, Asset Building; Financial Freedom, Early Retirement.](diagram-01.svg)
 
 
 ## The Five Fastlane Commandments

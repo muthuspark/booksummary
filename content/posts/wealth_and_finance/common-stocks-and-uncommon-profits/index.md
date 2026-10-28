@@ -15,15 +15,7 @@ Philip Fisher's "Common Stocks and Uncommon Profits" isn't just about making mon
 
 Fisher outlines fifteen key characteristics to evaluate when searching for promising investments. These points aren't checklist items to be rigidly applied, but rather guiding principles for understanding a company's potential. He stresses the importance of qualitative factors alongside quantitative data.  A simple scoring system won’t suffice;  deeper qualitative understanding is critical.
 
-```mermaid
-graph LR
-A[Strong Management] --> B(Scrupulous Accounting);
-A --> C(Research and Development);
-B --> D{Long-Term Growth};
-C --> D;
-D --> E[Sustainable Competitive Advantage];
-E --> F(Good return on invested capital);
-```
+![The Fifteen Points to Look For in a Common Stock. Strong Management; Scrupulous Accounting; Research and Development; Long-Term Growth; Sustainable Competitive Advantage; Good return on invested capital.](diagram-01.svg)
 
 This diagram highlights some interconnected factors Fisher considers crucial.  Strong management, coupled with rigorous accounting practices and a commitment to R&D, leads to sustainable growth and a strong competitive advantage.  These, in turn, deliver good returns on investment.  Other points include sales potential, profit margins, and a stable financial position.  But remember,  a company might lack one or two of the criteria and still be a strong investment if it excels in the others.
 

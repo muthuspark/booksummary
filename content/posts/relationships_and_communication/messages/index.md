@@ -16,12 +16,7 @@ The first step in overcoming negative self-talk is to become aware of it.  McKay
 
 This awareness is important because our inner critic often operates subtly, masking its negativity behind seemingly innocuous statements. Learning to distinguish between constructive self-reflection and self-criticism is key to developing a healthier internal dialogue.
 
-```mermaid
-graph LR
-A[Self-Observation] --> B(Identify Negative Thoughts);
-B --> C{Challenge Negative Thoughts};
-C --> D[Develop Positive Self-Talk];
-```
+![Identifying Your Inner Critic's Voice. Self-Observation; Identify Negative Thoughts; Challenge Negative Thoughts; Develop Positive Self-Talk.](diagram-01.svg)
 
 ## Challenging Negative Messages
 

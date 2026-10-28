@@ -14,12 +14,7 @@ Huang Po's teachings, as translated by John Blofeld, offer a direct and uncompro
 
 Huang Po vehemently attacks the clinging to a separate self—the ego.  He argues this clinging is the root of all suffering.  This "self" is a fabrication, a constantly shifting construct of thoughts, emotions, and sensations.  The path to liberation involves recognizing the emptiness of this construct, not through intellectual understanding, but through direct experience.
 
-```mermaid
-graph LR
-    A["Illusory Self (Ego)"] --> B(Suffering);
-    B --> C[Clinging to Self];
-    C --> A;
-```
+![Abandoning the Illusory Self. Illusory Self (Ego); Suffering; Clinging to Self.](diagram-01.svg)
 
 This isn't about self-destruction or nihilism; rather, it's about realizing that the true self is not limited to this fleeting ego.  It's the boundless, ever-present reality underlying all phenomena.
 
@@ -27,12 +22,7 @@ This isn't about self-destruction or nihilism; rather, it's about realizing that
 
 Intellectual understanding is insufficient; Huang Po stresses the critical importance of direct experience.  He promotes meditation (Zazen) as the primary tool for this realization.  Zazen isn't about achieving a specific state but about dissolving the self-grasping that prevents us from seeing reality as it is.
 
-```mermaid
-graph LR
-    A[Intellectual Understanding] --> B(Insufficient);
-    B --> C["Direct Experience (Zazen)"];
-    C --> D[Realization of Buddha-Nature];
-```
+![The Importance of Direct Experience (Zazen). Intellectual Understanding; Insufficient; Direct Experience (Zazen); Realization of Buddha-Nature.](diagram-02.svg)
 
 The practice involves sitting quietly, observing thoughts and sensations without judgment, allowing them to arise and pass without getting caught in their currents. This constant awareness helps to dispel the false sense of self.
 
@@ -40,12 +30,7 @@ The practice involves sitting quietly, observing thoughts and sensations without
 
 Huang Po emphasizes the concept of emptiness (Sunyata) – not nothingness but the lack of existence in phenomena. Everything is interdependent, arising and ceasing in relation to other things. There's no permanent, independent self or thing. Understanding this emptiness dissolves the illusion of separation and suffering.
 
-```mermaid
-graph LR
-    A[Phenomena] --> B(Interdependent);
-    B --> C["Empty of Inherent Existence (Sunyata)"];
-    C --> D[No Separate Self];
-```
+![The Nature of Reality: Emptiness (Sunyata). Phenomena; Interdependent; Empty of Inherent Existence (Sunyata); No Separate Self.](diagram-03.svg)
 
 This doesn't mean things are unreal; rather, their nature is impermanent and dependent.  This understanding releases us from clinging and the anxieties it creates.
 
@@ -53,12 +38,7 @@ This doesn't mean things are unreal; rather, their nature is impermanent and dep
 
 Huang Po identifies attachment and aversion as the fundamental sources of suffering. These aren't just about material possessions but also include emotional attachments, desires, and aversions to unpleasant experiences. Overcoming these requires a fundamental shift in perspective, seeing the impermanence of all things.
 
-```mermaid
-graph LR
-    A[Attachment & Aversion] --> B(Suffering);
-    B --> C[Clinging to Self];
-    C --> A;
-```
+![Destroying the Roots of Suffering: Attachment and Aversion. Attachment & Aversion; Suffering; Clinging to Self.](diagram-04.svg)
 
 He suggests cultivating equanimity, observing both pleasant and unpleasant experiences without judgment or emotional reaction, treating them as passing clouds. This doesn't mean suppressing emotions but accepting them as part of the impermanent flow of existence.
 
@@ -67,12 +47,7 @@ He suggests cultivating equanimity, observing both pleasant and unpleasant exper
 Huang Po advocates for "non-doing" (Wu-Wei) – not inaction but action without attachment to results. This implies acting spontaneously, naturally, and without preconceived notions.  It's about aligning with the natural flow of reality rather than trying to force outcomes.
 
 
-```mermaid
-graph LR
-    A["Non-Doing (Wu-Wei)"] --> B(Spontaneous Action);
-    B --> C[No Attachment to Results];
-    C --> D[Alignment with Reality];
-```
+![The Path of Non-Doing (Wu-Wei). Non-Doing (Wu-Wei); Spontaneous Action; No Attachment to Results; Alignment with Reality.](diagram-05.svg)
 
 This approach fosters inner peace and freedom from the anxieties associated with striving and expectation.  It's about accepting the present moment without resistance.
 
@@ -81,12 +56,7 @@ This approach fosters inner peace and freedom from the anxieties associated with
 Huang Po's teachings aren't confined to the meditation cushion.  He emphasizes applying these principles to everyday life, transforming mundane activities into opportunities for mindful awareness.  This involves being fully present in each moment, observing thoughts and actions without judgment.
 
 
-```mermaid
-graph LR
-    A[Mindfulness] --> B(Daily Life);
-    B --> C[Observing Thoughts & Actions];
-    C --> D[Present Moment Awareness];
-```
+![Cultivating Mindfulness in Daily Life. Mindfulness; Daily Life; Observing Thoughts & Actions; Present Moment Awareness.](diagram-06.svg)
 
 Eating, walking, working – all become opportunities for deepening awareness and cultivating equanimity.  This constant attentiveness helps dissolve the illusion of separation between self and world.
 
@@ -96,12 +66,7 @@ Eating, walking, working – all become opportunities for deepening awareness an
 Huang Po emphasizes the Buddha-nature within each individual. This isn't something to be attained but something to be recognized. He encourages trust in this innate wisdom, this intuitive capacity for knowing and understanding reality.
 
 
-```mermaid
-graph LR
-    A[Buddha-Nature] --> B(Inherent Wisdom);
-    B --> C[Trust & Recognition];
-    C --> D[Liberation];
-```
+![Trusting Your Intuitive Wisdom (Buddha-Nature). Buddha-Nature; Inherent Wisdom; Trust & Recognition; Liberation.](diagram-07.svg)
 
 This means trusting your inner voice, your gut feeling, even if it contradicts conventional thinking.  It's about letting go of intellectual and emotional constructs and relying on direct experience.
 
@@ -109,13 +74,7 @@ This means trusting your inner voice, your gut feeling, even if it contradicts c
 
 While Huang Po champions sudden enlightenment – a sudden realization of one's true nature – he doesn't dismiss gradual progress.  He recognizes that the path to this realization might involve gradual refinement of one's practice and a shedding of layers of illusion.
 
-```mermaid
-graph LR
-    A[Sudden Enlightenment] --or--> B(Gradual Progress);
-    B --> C[Refinement of Practice];
-    A --> D[Realization of Buddha-Nature];
-    B --> D;
-```
+![Sudden Enlightenment versus Gradual Progress. Sudden Enlightenment; Gradual Progress; Refinement of Practice; Realization of Buddha-Nature.](diagram-08.svg)
 
 The key lies in the commitment to practice and the unwavering focus on direct experience.  Gradual progress prepares the ground for that sudden realization, making it more likely.
 

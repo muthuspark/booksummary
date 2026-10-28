@@ -20,13 +20,7 @@ The book's bedrock is the Fogg Behavior Model, a simple yet powerful framework i
 * **Prompt:** A cue or trigger that initiates the behavior.
 
 
-```mermaid
-graph LR
-    A[Motivation] --> B(Behavior);
-    C[Ability] --> B;
-    D[Prompt] --> B;
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-```
+![The Fogg Behavior Model: Understanding the Foundation. Motivation; Behavior; Ability; Prompt.](diagram-01.svg)
 
 Fogg emphasizes that even with high motivation, a behavior won't occur if the ability is too low. Conversely, even with high ability, a behavior won't occur without sufficient motivation and a prompt.  The key is to make the behavior so easy (high ability) that even with low motivation, it will still occur.
 

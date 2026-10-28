@@ -15,14 +15,7 @@ author: "Gabriel Weinberg and Lauren McCann"
 
 A cornerstone of "Super Thinking" is recognizing and mitigating cognitive biases – systematic errors in thinking that distort our judgment. The authors detail numerous biases, including confirmation bias (favoring information confirming pre-existing beliefs), anchoring bias (over-relying on the first piece of information received), and availability heuristic (overestimating the likelihood of easily recalled events). Understanding these biases is the first step to overcoming them.
 
-```mermaid
-graph LR
-    A[Cognitive Biases] --> B(Confirmation Bias);
-    A --> C(Anchoring Bias);
-    A --> D(Availability Heuristic);
-    A --> E(Bandwagon Effect);
-    E --> F(Groupthink);
-```
+![Understanding Cognitive Biases: The Enemy Within. Cognitive Biases; Confirmation Bias; Anchoring Bias; Availability Heuristic; Bandwagon Effect; Groupthink.](diagram-01.svg)
 
 The book emphasizes that acknowledging our susceptibility to these biases is crucial. It's not about eliminating biases entirely, which is impossible, but about consciously working to minimize their influence on decisions.
 
@@ -38,14 +31,7 @@ The book emphasizes that acknowledging our susceptibility to these biases is cru
 * **Pre-Mortem:** Imagining a project's failure and identifying potential causes beforehand.
 
 
-```mermaid
-graph LR
-    A[Structured Thinking] --> B(First Principles);
-    A --> C(5 Whys);
-    A --> D(SWOT);
-    A --> E(Decision Matrix);
-    A --> F(Pre-Mortem);
-```
+![The Power of Structured Thinking: Frameworks and Methods. Structured Thinking; First Principles; 5 Whys; SWOT; Decision Matrix; Pre-Mortem.](diagram-02.svg)
 
 These tools provide a framework for objectively evaluating information and generating well-reasoned solutions, moving beyond intuitive leaps and gut feelings.
 

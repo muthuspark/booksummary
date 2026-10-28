@@ -15,12 +15,7 @@ Larry Crabb's "The Marriage Builder" isn't simply a guide to fixing marital prob
 
 A significant aspect of the book focuses on the destructive nature of control. Many people enter marriage with a subconscious desire to control their partner and the relationship itself. This stems from a deep-seated insecurity and a fear of vulnerability. Crabb argues that this need for control ultimately suffocates intimacy and trust. Instead, he encourages readers to allow themselves to be known and loved authentically, imperfections and all. This involves relinquishing the illusion of control and trusting in the goodness and strength of the other person.
 
-```mermaid
-graph LR
-A[Need for Control] --> B(Insecurity & Fear)
-B --> C{Suffocates Intimacy & Trust}
-C --> D[Unhealthy Relationship Dynamics]
-```
+![The Illusion of Control: Releasing the Need to Control. Need for Control; Insecurity & Fear; Suffocates Intimacy & Trust; Unhealthy Relationship Dynamics.](diagram-01.svg)
 
 ## The Power of Vulnerability: Embracing Authenticity
 
@@ -30,13 +25,7 @@ True intimacy, according to Crabb, blossoms in a climate of vulnerability.  This
 
 The book delves into the importance of confronting past hurts and traumas. Unresolved childhood issues, past relationships, or life events can impact an individual's capacity for healthy relationships. Crabb encourages introspection and self-reflection, guiding readers to identify their emotional baggage and understand how it manifests in their present interactions. He emphasizes the need for forgiveness – both of oneself and of others – as a step towards emotional healing.
 
-```mermaid
-graph LR
-A[Past Hurts & Traumas] --> B(Unresolved Issues)
-B --> C{Impact on Present Relationships}
-C --> D[Need for Forgiveness]
-D --> E(Emotional Healing)
-```
+![Addressing Past Hurts: Confronting the Shadows. Past Hurts & Traumas; Unresolved Issues; Impact on Present Relationships; Need for Forgiveness; Emotional Healing.](diagram-02.svg)
 
 
 ##  The Importance of Self-Awareness: Understanding Your Needs

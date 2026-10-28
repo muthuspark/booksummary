@@ -24,14 +24,7 @@ Before any investing begins, self-assessment is crucial.  Understanding your goa
 
 The authors strongly advocate for a globally diversified portfolio.  This means allocating your investments across various asset classes, including stocks, bonds, and cash, and across different geographic regions.  This diversification minimizes risk by not putting all your eggs in one basket.
 
-```mermaid
-graph LR
-    A["Stocks (US)"] --> B(Diversification);
-    C["Stocks (International)"] --> B;
-    D[Bonds] --> B;
-    E[Cash] --> B;
-    B --> F[Reduced Risk];
-```
+![Asset Allocation: The Cornerstone of the Investment Strategy. Stocks (US); Diversification; Stocks (International); Bonds; Cash; Reduced Risk.](diagram-01.svg)
 
 The specific asset allocation will vary based on individual circumstances, but the book provides guidelines and examples to help readers determine an appropriate mix. The book emphasizes low-cost index funds as the most effective way to achieve broad market diversification.
 

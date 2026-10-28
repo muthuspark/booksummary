@@ -34,15 +34,7 @@ The book is rich in practical techniques to boost your creative output. These ar
 
 * **Mind Mapping:** A visual technique for brainstorming and organizing ideas.  It involves creating a central idea and branching out to related concepts, creating a visual representation of the thought process.
 
-```mermaid
-graph TD
-    A[Central Idea] --> B(Related Idea 1);
-    A --> C(Related Idea 2);
-    B --> D(Sub-Idea 1);
-    B --> E(Sub-Idea 2);
-    C --> F(Sub-Idea 3);
-    C --> G(Sub-Idea 4);
-```
+![Key Creative Thinking Techniques. Central Idea; Related Idea 1; Related Idea 2; Sub-Idea 1; Sub-Idea 2; Sub-Idea 3; Sub-Idea 4.](diagram-01.svg)
 
 * **SCAMPER:** A checklist of prompts to stimulate new ideas by challenging existing solutions.  It encourages you to Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, and Reverse elements of a problem or product.
 

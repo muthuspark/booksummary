@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="492pt" height="312pt" viewBox="0.00 0.00 491.50 312.00" role="img" aria-labelledby="title description">
+<title id="title">Memory: Encoding, Storage, and Retrieval</title><desc id="description">Encoding leads to Storage. Storage leads to Retrieval. Encoding leads to Attention &amp; Engagement. Storage leads to Organization &amp; Meaningful Connections. Retrieval leads to Retrieval Cues.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 473.5,-294 473.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M228.68,-235.87C217.99,-227.46 205.32,-217.5 194.04,-208.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.31,-206.51 188.29,-204.1 192.28,-210.36 195.31,-206.51" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.59,-235.87C288.41,-227.46 301.22,-217.5 312.62,-208.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="314.42,-210.34 318.44,-204.1 311.41,-206.47 314.42,-210.34" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.73,-163.63C129.07,-152.63 113.12,-138.75 99.66,-127.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="100.96,-124.93 94.07,-122.19 97.74,-128.63 100.96,-124.93" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M186.27,-163.63C195.51,-155.6 206.51,-146.04 217,-136.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.76,-138.63 222.44,-132.19 215.55,-134.93 218.76,-138.63" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72,-81.63C72,-71.32 72,-58.48 72,-47.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="74.45,-47.19 72,-40.19 69.55,-47.19 74.45,-47.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M293,-276C293,-276 213,-276 213,-276 207,-276 201,-270 201,-264 201,-264 201,-248 201,-248 201,-242 207,-236 213,-236 213,-236 293,-236 293,-236 299,-236 305,-242 305,-248 305,-248 305,-264 305,-264 305,-270 299,-276 293,-276" />
+<text text-anchor="middle" x="253" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Encoding</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M196.5,-204C196.5,-204 131.5,-204 131.5,-204 125.5,-204 119.5,-198 119.5,-192 119.5,-192 119.5,-176 119.5,-176 119.5,-170 125.5,-164 131.5,-164 131.5,-164 196.5,-164 196.5,-164 202.5,-164 208.5,-170 208.5,-176 208.5,-176 208.5,-192 208.5,-192 208.5,-198 202.5,-204 196.5,-204" />
+<text text-anchor="middle" x="164" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Storage</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M110.5,-122C110.5,-122 33.5,-122 33.5,-122 27.5,-122 21.5,-116 21.5,-110 21.5,-110 21.5,-94 21.5,-94 21.5,-88 27.5,-82 33.5,-82 33.5,-82 110.5,-82 110.5,-82 116.5,-82 122.5,-88 122.5,-94 122.5,-94 122.5,-110 122.5,-110 122.5,-116 116.5,-122 110.5,-122" />
+<text text-anchor="middle" x="72" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Retrieval</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M443.5,-204C443.5,-204 242.5,-204 242.5,-204 236.5,-204 230.5,-198 230.5,-192 230.5,-192 230.5,-176 230.5,-176 230.5,-170 236.5,-164 242.5,-164 242.5,-164 443.5,-164 443.5,-164 449.5,-164 455.5,-170 455.5,-176 455.5,-176 455.5,-192 455.5,-192 455.5,-198 449.5,-204 443.5,-204" />
+<text text-anchor="middle" x="343" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Attention &amp; Engagement</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M355.5,-132C355.5,-132 156.5,-132 156.5,-132 150.5,-132 144.5,-126 144.5,-120 144.5,-120 144.5,-84 144.5,-84 144.5,-78 150.5,-72 156.5,-72 156.5,-72 355.5,-72 355.5,-72 361.5,-72 367.5,-78 367.5,-84 367.5,-84 367.5,-120 367.5,-120 367.5,-126 361.5,-132 355.5,-132" />
+<text text-anchor="middle" x="256" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Organization &amp;</text>
+<text text-anchor="middle" x="256" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Connections</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M132,-40C132,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 132,0 132,0 138,0 144,-6 144,-12 144,-12 144,-28 144,-28 144,-34 138,-40 132,-40" />
+<text text-anchor="middle" x="72" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Retrieval Cues</text>
+</g>
+</g>
+</svg>

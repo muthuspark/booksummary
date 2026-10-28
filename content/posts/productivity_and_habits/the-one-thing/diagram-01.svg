@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322pt" height="332pt" viewBox="0.00 0.00 322.00 332.00" role="img" aria-labelledby="title description">
+<title id="title">The Domino Effect:  Prioritization's Power</title><desc id="description">One Thing leads to Secondary Task. Secondary Task leads to Tertiary Task. Tertiary Task leads to Goal Achieved.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 314)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-314 304,-314 304,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-255.87C143,-248.31 143,-239.49 143,-231.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-231.1 143,-224.1 140.55,-231.1 145.45,-231.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-183.87C143,-176.31 143,-167.49 143,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-159.1 143,-152.1 140.55,-159.1 145.45,-159.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M143,-111.91C143,-104.58 143,-95.86 143,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.45,-87.07 143,-80.07 140.55,-87.07 145.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M187.5,-296C187.5,-296 98.5,-296 98.5,-296 92.5,-296 86.5,-290 86.5,-284 86.5,-284 86.5,-268 86.5,-268 86.5,-262 92.5,-256 98.5,-256 98.5,-256 187.5,-256 187.5,-256 193.5,-256 199.5,-262 199.5,-268 199.5,-268 199.5,-284 199.5,-284 199.5,-290 193.5,-296 187.5,-296" />
+<text text-anchor="middle" x="143" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">One Thing</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M208,-224C208,-224 78,-224 78,-224 72,-224 66,-218 66,-212 66,-212 66,-196 66,-196 66,-190 72,-184 78,-184 78,-184 208,-184 208,-184 214,-184 220,-190 220,-196 220,-196 220,-212 220,-212 220,-218 214,-224 208,-224" />
+<text text-anchor="middle" x="143" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Secondary Task</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M198.5,-152C198.5,-152 87.5,-152 87.5,-152 81.5,-152 75.5,-146 75.5,-140 75.5,-140 75.5,-124 75.5,-124 75.5,-118 81.5,-112 87.5,-112 87.5,-112 198.5,-112 198.5,-112 204.5,-112 210.5,-118 210.5,-124 210.5,-124 210.5,-140 210.5,-140 210.5,-146 204.5,-152 198.5,-152" />
+<text text-anchor="middle" x="143" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tertiary Task</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="143,-80 0,-40 143,0 286,-40 143,-80" />
+<text text-anchor="middle" x="143" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Goal Achieved</text>
+</g>
+</g>
+</svg>

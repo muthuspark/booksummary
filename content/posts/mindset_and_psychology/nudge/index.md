@@ -25,14 +25,7 @@ The book extensively discusses cognitive biases—systematic errors in thinking 
 * **Status Quo Bias:** We tend to stick with the default option, even if it's not the best one.  This bias makes default options powerful nudges.
 
 
-```mermaid
-graph LR
-    A[Cognitive Biases] --> B(Loss Aversion);
-    A --> C(Present Bias);
-    A --> D(Framing Effects);
-    A --> E(Anchoring Bias);
-    A --> F(Status Quo Bias);
-```
+![Cognitive Biases and Their Impact. Cognitive Biases; Loss Aversion; Present Bias; Framing Effects; Anchoring Bias; Status Quo Bias.](diagram-01.svg)
 
 #  Applying Nudges in Different Contexts
 
@@ -74,14 +67,7 @@ The book emphasizes the importance of thoughtful choice architecture. This invol
 * **Salience:** Making important information easily visible and attention-grabbing increases its impact.
 
 
-```mermaid
-graph LR
-    A[Choice Architecture] --> B(Defaults);
-    A --> C(Simplification);
-    A --> D(Incentives);
-    A --> E(Information & Feedback);
-    A --> F(Salience);
-```
+![Choice Architecture: Designing for Better Decisions. Choice Architecture; Defaults; Simplification; Incentives; Information & Feedback; Salience.](diagram-02.svg)
 
 
 #  Key Strategies and Actionable Insights

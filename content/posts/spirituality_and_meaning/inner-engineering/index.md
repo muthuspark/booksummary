@@ -18,13 +18,7 @@ Sadhguru emphasizes the interconnectedness of the physical and mental aspects of
 
 Breathwork forms a cornerstone of Sadhguru's teachings. He highlights the impact of conscious breathing on our mental and emotional states. Simple breathing exercises, described in detail, offer practical tools for calming the mind, reducing stress, and enhancing self-awareness. This includes techniques like Ujjayi breath, which involves a gentle constriction of the throat, creating a soft humming sound. Regular practice is encouraged to develop a sense of inner stillness and balance.
 
-```mermaid
-graph LR
-    A[Stressful Situation] --> B(Conscious Breathing);
-    B --> C[Calmer Mind];
-    C --> D(Improved Focus);
-    D --> E[Enhanced Well-being];
-```
+![The Importance of Breath and Body Awareness. Stressful Situation; Conscious Breathing; Calmer Mind; Improved Focus; Enhanced Well-being.](diagram-01.svg)
 
 
 ##  The Power of Yoga and Meditation
@@ -56,15 +50,7 @@ The book stresses the critical role of self-awareness in achieving inner stabili
 
 Sadhguru addresses the powerful influence of past experiences and limiting beliefs on our present lives.  He emphasizes the importance of recognizing and releasing these patterns to create a more fulfilling future. This involves confronting limiting beliefs and consciously choosing a different path. He doesn't offer quick fixes but a path of conscious self-exploration and transformation.
 
-```mermaid
-graph LR
-    A[Past Experiences] --> B(Limiting Beliefs);
-    B --> C[Negative Patterns];
-    C --> D(Suffering);
-    E[Self-Awareness] --> F(Identifying Patterns);
-    F --> G(Releasing Patterns);
-    G --> H[Improved Well-being];
-```
+![Breaking Free from Limiting Patterns. Past Experiences; Limiting Beliefs; Negative Patterns; Suffering; Self-Awareness; Identifying Patterns; Releasing Patterns; Improved Well-being.](diagram-02.svg)
 
 
 ##  The Path of Inner Engineering

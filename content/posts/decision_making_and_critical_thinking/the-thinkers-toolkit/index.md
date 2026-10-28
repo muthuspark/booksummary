@@ -16,12 +16,7 @@ The book begins by highlighting the pervasive influence of cognitive biases on o
 
 Identifying these biases is crucial.  Self-awareness is the foundation of improved thinking.  Journaling your decision-making processes can help highlight where biases might be influencing your choices.
 
-```mermaid
-graph LR
-A[Situation] --> B(Cognitive Bias);
-B --> C{Distorted Perception};
-C --> D[Poor Decision];
-```
+![Understanding Your Thinking: Identifying Cognitive Biases. Situation; Cognitive Bias; Distorted Perception; Poor Decision.](diagram-01.svg)
 
 ##  Developing Critical Thinking Skills: Questioning Assumptions
 
@@ -37,14 +32,7 @@ The book introduces various structured problem-solving frameworks. These provide
 * **Root Cause Analysis:** A more formal method for identifying the underlying causes of problems, often using tools like fishbone diagrams (Ishikawa diagrams).
 * **Decision Matrices:**  A structured approach to comparing different options based on defined criteria. This helps to make more rational choices, minimizing the influence of biases.
 
-```mermaid
-graph LR
-A[Problem] --> B(Five Whys);
-B --> C(Root Cause);
-C --> D(Solution);
-A --> E(Decision Matrix);
-E --> F(Optimal Solution);
-```
+![Problem-Solving Frameworks: Structured Approaches to Challenges. Problem; Five Whys; Root Cause; Solution; Decision Matrix; Optimal Solution.](diagram-02.svg)
 
 
 ##  Effective Communication: Articulating Your Ideas Clearly
@@ -70,13 +58,7 @@ The book offers various strategies for making effective decisions, including:
 
 Jones emphasizes the importance of understanding your own decision-making style and adapting your approach accordingly.  He cautions against impulsive decisions and encourages a more deliberate and reflective approach.
 
-```mermaid
-graph LR
-A[Decision] --> B(Cost-Benefit Analysis);
-B --> C(Risk Assessment);
-C --> D(Prioritization);
-D --> E(Informed Decision);
-```
+![Decision-Making Strategies: Making Informed Choices. Decision; Cost-Benefit Analysis; Risk Assessment; Prioritization; Informed Decision.](diagram-03.svg)
 
 
 ##  Emotional Intelligence: Managing Your Emotions

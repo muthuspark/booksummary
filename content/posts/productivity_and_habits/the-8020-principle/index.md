@@ -26,12 +26,7 @@ The book emphasizes the need for self-awareness and critical analysis to identif
 
 * **Delegate or eliminate the remaining 80%:** This might involve outsourcing tasks, automating processes, or simply letting go of activities that don't contribute to your goals.
 
-```mermaid
-graph LR
-A[Activities] --> B(80% Low Impact);
-A --> C(20% High Impact);
-C --> D[80% Results];
-```
+![Identifying Your Vital 20%. Activities; 80% Low Impact; 20% High Impact; 80% Results.](diagram-01.svg)
 
 
 ## Applying the 80/20 Principle to Different Areas of Life

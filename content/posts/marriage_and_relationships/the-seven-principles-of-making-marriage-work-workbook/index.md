@@ -20,12 +20,7 @@ This foundational principle emphasizes the importance of knowing your partner de
 *   **Regular check-ins:** Scheduling dedicated time for meaningful conversations, even amidst busy schedules.
 
 
-```mermaid
-graph LR
-    A[Knowing Your Partner] --> B(Shared Daily Details);
-    A --> C(Active Listening);
-    A --> D(Regular Check-ins);
-```
+![Build Love Maps: Knowing Your Partner. Knowing Your Partner; Shared Daily Details; Active Listening; Regular Check-ins.](diagram-01.svg)
 
 
 ## Share Fondness and Admiration: Nurturing Positive Connection
@@ -37,12 +32,7 @@ Couples who regularly express appreciation and affection for each other build a 
 *   **Show affection:** Physical touch, compliments, and words of affirmation are essential for maintaining intimacy and connection.
 
 
-```mermaid
-graph LR
-    A[Fondness & Admiration] --> B(Express Gratitude);
-    A --> C(Share Positive Memories);
-    A --> D(Show Affection);
-```
+![Share Fondness and Admiration: Nurturing Positive Connection. Fondness & Admiration; Express Gratitude; Share Positive Memories; Show Affection.](diagram-02.svg)
 
 
 ## Turn Towards Each Other Instead of Away:  Responding to Bids for Connection
@@ -54,12 +44,7 @@ Throughout the day, partners make "bids" for connection—a request for attentio
 *   **Create opportunities for connection:** Actively seek out moments to engage with your partner.
 
 
-```mermaid
-graph LR
-    A[Turning Towards] --> B(Recognize Bids);
-    A --> C(Respond Positively);
-    A --> D(Create Opportunities);
-```
+![Turn Towards Each Other Instead of Away:  Responding to Bids for Connection. Turning Towards; Recognize Bids; Respond Positively; Create Opportunities.](diagram-03.svg)
 
 
 ## The Power of Positive Communication:  Fighting Fair
@@ -72,13 +57,7 @@ Conflict is inevitable in any relationship. However, the way couples handle disa
 *   **Avoid "the four horsemen":** Criticism, contempt, defensiveness, and stonewalling are relationship killers; learning to avoid them is crucial.
 
 
-```mermaid
-graph LR
-    A[Positive Communication] --> B(Soft Start-ups);
-    A --> C(Active Listening);
-    A --> D(Compromise & Negotiation);
-    A --> E(Avoid Four Horsemen);
-```
+![The Power of Positive Communication:  Fighting Fair. Positive Communication; Soft Start-ups; Active Listening; Compromise & Negotiation; Avoid Four Horsemen.](diagram-04.svg)
 
 
 ## Solve Your Solvable Problems:  Effective Problem-Solving
@@ -91,13 +70,7 @@ Not all problems are solvable, but many are. The workbook provides a structured 
 *   **Compromise and agree on a plan:**  Work together to find a solution that works for both partners.
 
 
-```mermaid
-graph LR
-    A[Problem Solving] --> B(Identify Problem);
-    A --> C(Brainstorm Solutions);
-    A --> D(Experiment & Evaluate);
-    A --> E(Compromise & Plan);
-```
+![Solve Your Solvable Problems:  Effective Problem-Solving. Problem Solving; Identify Problem; Brainstorm Solutions; Experiment & Evaluate; Compromise & Plan.](diagram-05.svg)
 
 
 ## Create Shared Meaning:  Connecting on a Deeper Level
@@ -110,13 +83,7 @@ Beyond the practical aspects of daily life, couples need to create a shared sens
 *   **Supporting each other's growth:**  Encouraging individual passions and ambitions.
 
 
-```mermaid
-graph LR
-    A[Shared Meaning] --> B(Shared Goals & Values);
-    A --> C(Spiritual Connection);
-    A --> D(Traditions & Rituals);
-    A --> E(Support Each Other's Growth);
-```
+![Create Shared Meaning:  Connecting on a Deeper Level. Shared Meaning; Shared Goals & Values; Spiritual Connection; Traditions & Rituals; Support Each Other's Growth.](diagram-06.svg)
 
 
 
@@ -129,12 +96,7 @@ The workbook emphasizes the importance of managing conflict constructively and c
 * **Creating a shared vision:** Discussing long-term goals and aspirations, and finding common ground in planning for the future.
 
 
-```mermaid
-graph LR
-A[Managing Conflict & Vision] --> B(Understanding Conflict Styles);
-A --> C(Effective Communication);
-A --> D(Shared Vision);
-```
+![Manage Conflict and Create a Shared Vision. Managing Conflict & Vision; Understanding Conflict Styles; Effective Communication; Shared Vision.](diagram-07.svg)
 
 ##  The Workbook's Practical Application
 

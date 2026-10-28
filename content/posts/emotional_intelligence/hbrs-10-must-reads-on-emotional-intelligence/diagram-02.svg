@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="628pt" height="200pt" viewBox="0.00 0.00 628.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Regulation: Managing Your Emotions</title><desc id="description">Mindfulness leads to Emotional Control. Deep Breathing leads to Emotional Control. Cognitive Reframing leads to Emotional Control. Emotional Control leads to Improved Stress Management.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 610,-182 610,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M160.7,-125.73C184.19,-118.94 211.1,-111.16 235.65,-104.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="236.46,-106.38 242.51,-102.09 235.1,-101.68 236.46,-106.38" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M401.2,-82C409.27,-82 417.45,-82 425.5,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="425.87,-84.45 432.87,-82 425.87,-79.55 425.87,-84.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.73,-82C187.91,-82 202.87,-82 217.52,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.68,-84.45 224.68,-82 217.68,-79.55 217.68,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166.85,-40.04C188.81,-46.39 213.21,-53.44 235.63,-59.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.12,-62.33 242.53,-61.92 236.48,-57.62 235.12,-62.33" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M148.5,-164C148.5,-164 44.5,-164 44.5,-164 38.5,-164 32.5,-158 32.5,-152 32.5,-152 32.5,-136 32.5,-136 32.5,-130 38.5,-124 44.5,-124 44.5,-124 148.5,-124 148.5,-124 154.5,-124 160.5,-130 160.5,-136 160.5,-136 160.5,-152 160.5,-152 160.5,-158 154.5,-164 148.5,-164" />
+<text text-anchor="middle" x="96.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M389,-102C389,-102 237,-102 237,-102 231,-102 225,-96 225,-90 225,-90 225,-74 225,-74 225,-68 231,-62 237,-62 237,-62 389,-62 389,-62 395,-62 401,-68 401,-74 401,-74 401,-90 401,-90 401,-96 395,-102 389,-102" />
+<text text-anchor="middle" x="313" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Control</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161.5,-102C161.5,-102 31.5,-102 31.5,-102 25.5,-102 19.5,-96 19.5,-90 19.5,-90 19.5,-74 19.5,-74 19.5,-68 25.5,-62 31.5,-62 31.5,-62 161.5,-62 161.5,-62 167.5,-62 173.5,-68 173.5,-74 173.5,-74 173.5,-90 173.5,-90 173.5,-96 167.5,-102 161.5,-102" />
+<text text-anchor="middle" x="96.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Deep Breathing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M181,-40C181,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 181,0 181,0 187,0 193,-6 193,-12 193,-12 193,-28 193,-28 193,-34 187,-40 181,-40" />
+<text text-anchor="middle" x="96.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Reframing</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M580,-112C580,-112 445,-112 445,-112 439,-112 433,-106 433,-100 433,-100 433,-64 433,-64 433,-58 439,-52 445,-52 445,-52 580,-52 580,-52 586,-52 592,-58 592,-64 592,-64 592,-100 592,-100 592,-106 586,-112 580,-112" />
+<text text-anchor="middle" x="512.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Stress</text>
+<text text-anchor="middle" x="512.5" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Management</text>
+</g>
+</g>
+</svg>

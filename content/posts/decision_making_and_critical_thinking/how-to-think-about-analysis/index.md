@@ -15,13 +15,7 @@ Lara Alcock's "How to Think About Analysis" isn't a self-help book in the tradit
 
 The book stresses the importance of breaking down complex problems into smaller, manageable parts.  This involves identifying the key elements, defining the scope of the problem, and separating facts from assumptions.  This decomposition process makes the problem less daunting and allows for a more focused approach to finding solutions.  A systematic, step-by-step approach is crucial.
 
-```mermaid
-graph LR
-    A[Complex Problem] --> B(Identify Key Elements);
-    B --> C(Define Scope);
-    C --> D(Separate Facts & Assumptions);
-    D --> E[Simplified Problem];
-```
+![Breaking Down Complex Problems. Complex Problem; Identify Key Elements; Define Scope; Separate Facts & Assumptions; Simplified Problem.](diagram-01.svg)
 
 ## Identifying and Challenging Assumptions
 
@@ -32,14 +26,7 @@ Alcock highlights the pervasive nature of unconscious assumptions. These unexami
 
 A significant portion of the book focuses on critically evaluating evidence.  This involves assessing the source's credibility, considering potential biases, looking for contradictory evidence, and understanding the limitations of data.  Simply accepting information at face value is discouraged; rigorous scrutiny is paramount.
 
-```mermaid
-graph LR
-    A[Evidence] --> B(Source Credibility?);
-    B --> C(Bias Detected?);
-    C --> D(Contradictory Evidence?);
-    D --> E(Limitations of Data?);
-    E --> F[Valid/Invalid Conclusion];
-```
+![Evaluating Evidence Critically. Evidence; Source Credibility?; Bias Detected?; Contradictory Evidence?; Limitations of Data?; Valid/Invalid Conclusion.](diagram-02.svg)
 
 
 ## Recognizing Cognitive Biases

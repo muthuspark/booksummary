@@ -14,12 +14,7 @@ Beth Kobliner's "Get a Financial Life" isn't about getting rich quickly; it's ab
 
 The core of effective financial management lies in understanding where your money goes.  Kobliner advocates for meticulous tracking of every expense, even the smallest ones like coffee or snacks.  This process, initially tedious, reveals spending patterns and highlights areas for potential savings. Budget apps or simple spreadsheets can simplify this task. Identifying impulsive spending habits is vital for course correction.  This disciplined approach brings clarity and empowers you to make conscious choices about your finances.
 
-```mermaid
-graph LR
-A[Track Spending] --> B(Identify Spending Patterns);
-B --> C{Adjust Budget};
-C --> D[Achieve Financial Goals];
-```
+![Tracking Your Spending: Unveiling Your Financial Habits. Track Spending; Identify Spending Patterns; Adjust Budget; Achieve Financial Goals.](diagram-01.svg)
 
 # Creating a Realistic Budget: The Foundation of Financial Wellness
 
@@ -29,13 +24,7 @@ Budgeting isn't about deprivation; it's about making intentional choices with yo
 
 Debt can be a significant obstacle to financial well-being.  Kobliner provides practical advice on managing different types of debt, including credit card debt, student loans, and medical bills. The book emphasizes the snowball and avalanche methods for debt repayment. The snowball method focuses on paying off the smallest debt first for motivational purposes, while the avalanche method prioritizes debts with the highest interest rates to minimize long-term costs.  Negotiating with creditors for lower interest rates or payment plans is also explored as a viable strategy.
 
-```mermaid
-graph LR
-A[Debt Management Strategies] --> B(Snowball Method);
-B --> C(Pay off smallest debt first);
-A --> D(Avalanche Method);
-D --> E(Pay off highest interest rate debt first);
-```
+![Tackling Debt: Strategies for Effective Debt Management. Debt Management Strategies; Snowball Method; Pay off smallest debt first; Avalanche Method; Pay off highest interest rate debt first.](diagram-02.svg)
 
 # Building an Emergency Fund: Protecting Yourself from Unexpected Events
 

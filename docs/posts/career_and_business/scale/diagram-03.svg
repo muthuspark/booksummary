@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="302pt" height="372pt" viewBox="0.00 0.00 302.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Networks and Connectivity</title><desc id="description">Individuals leads to Network. Network leads to Innovation &amp; Productivity. Innovation &amp; Productivity leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 284,-354 284,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-295.87C133,-288.31 133,-279.49 133,-271.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-271.1 133,-264.1 130.55,-271.1 135.45,-271.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-223.84C133,-216.75 133,-208.25 133,-199.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-199.12 133,-192.12 130.55,-199.12 135.45,-199.12" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133,-71.81C133,-63.27 133,-54.86 133,-47.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.45,-47.33 133,-40.33 130.55,-47.33 135.45,-47.33" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180.5,-336C180.5,-336 85.5,-336 85.5,-336 79.5,-336 73.5,-330 73.5,-324 73.5,-324 73.5,-308 73.5,-308 73.5,-302 79.5,-296 85.5,-296 85.5,-296 180.5,-296 180.5,-296 186.5,-296 192.5,-302 192.5,-308 192.5,-308 192.5,-324 192.5,-324 192.5,-330 186.5,-336 180.5,-336" />
+<text text-anchor="middle" x="133" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individuals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170,-264C170,-264 96,-264 96,-264 90,-264 84,-258 84,-252 84,-252 84,-236 84,-236 84,-230 90,-224 96,-224 96,-224 170,-224 170,-224 176,-224 182,-230 182,-236 182,-236 182,-252 182,-252 182,-258 176,-264 170,-264" />
+<text text-anchor="middle" x="133" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Network</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="133,-192 0,-132 133,-72 266,-132 133,-192" />
+<text text-anchor="middle" x="133" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation &amp;</text>
+<text text-anchor="middle" x="133" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Productivity</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M165.5,-40C165.5,-40 100.5,-40 100.5,-40 94.5,-40 88.5,-34 88.5,-28 88.5,-28 88.5,-12 88.5,-12 88.5,-6 94.5,0 100.5,0 100.5,0 165.5,0 165.5,0 171.5,0 177.5,-6 177.5,-12 177.5,-12 177.5,-28 177.5,-28 177.5,-34 171.5,-40 165.5,-40" />
+<text text-anchor="middle" x="133" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

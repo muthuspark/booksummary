@@ -30,11 +30,7 @@ By learning to identify these fallacies, readers are better equipped to evaluate
 
 The book emphasizes the importance of constructing sound and persuasive arguments.  This involves understanding the structure of arguments, identifying premises and conclusions, and ensuring that the premises support the conclusion logically.  McInerny stresses the importance of clarity and precision in language, as ambiguous wording can lead to misunderstandings and flawed arguments.
 
-```mermaid
-graph LR
-    A[Premise 1] --> B(Conclusion);
-    C[Premise 2] --> B;
-```
+![Strengthening Arguments: The Art of Sound Reasoning. Premise 1; Conclusion; Premise 2.](diagram-01.svg)
 
 This simple diagram illustrates a basic deductive argument.  The book goes beyond this simple example, exploring various argument structures and demonstrating how to analyze the strength and validity of different arguments.
 

@@ -28,12 +28,7 @@ After identifying your One Thing, the next step involves structuring your day to
 
 This doesn't mean rigidly adhering to a schedule regardless of circumstances.  Flexibility is key, but the structure provides a framework for consistent progress.
 
-```mermaid
-graph LR
-    A[Identify One Thing] --> B(Design Ideal Day);
-    B --> C{Time Blocking};
-    C --> D[Maximize Productivity];
-```
+![Designing Your Ideal Day. Identify One Thing; Design Ideal Day; Time Blocking; Maximize Productivity.](diagram-01.svg)
 
 
 # Mastering Your Attention

@@ -18,15 +18,7 @@ Nichols emphasizes the impact of truly listening. It's not just about absorbing 
 
 The book deconstructs the obstacles that impede effective listening. These range from internal distractions (preconceived notions, personal anxieties, self-centeredness) to external distractions (noisy environments, interruptions). Internal barriers are particularly insidious, as our biases and assumptions often prevent us from hearing what's truly being said.
 
-```mermaid
-graph LR
-    A[Internal Barriers] --> B(Preconceived Notions);
-    A --> C(Personal Anxieties);
-    A --> D(Self-Centeredness);
-    E[External Barriers] --> F(Noisy Environments);
-    E --> G(Interruptions);
-    H[Result] --> I(Misunderstandings & Conflict);
-```
+![Understanding the Barriers to Effective Listening. Internal Barriers; Preconceived Notions; Personal Anxieties; Self-Centeredness; External Barriers; Noisy Environments; Interruptions; Result; Misunderstandings & Conflict.](diagram-01.svg)
 
 ## Cultivating the Mindset of a Listener
 
@@ -50,14 +42,7 @@ The book offers concrete strategies for improving listening skills.  These inclu
 
 Nichols emphasizes the importance of nonverbal communication in effective listening. He highlights how body language, facial expressions, and tone of voice can impact the meaning and interpretation of a message. Paying close attention to these nonverbal cues helps to understand the speaker's unspoken emotions and intentions. Mirroring (subtly matching the other person's posture and body language) can also build rapport and create a more comfortable environment.
 
-```mermaid
-graph LR
-    A[Effective Listening] --> B(Verbal Communication);
-    A --> C(Nonverbal Communication);
-    C --> D(Body Language);
-    C --> E(Facial Expressions);
-    C --> F(Tone of Voice);
-```
+![The Role of Nonverbal Communication. Effective Listening; Verbal Communication; Nonverbal Communication; Body Language; Facial Expressions; Tone of Voice.](diagram-02.svg)
 
 ##  Listening in Different Contexts
 

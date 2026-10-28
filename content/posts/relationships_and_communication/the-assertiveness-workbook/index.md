@@ -14,13 +14,7 @@ author: "Randy J. Paterson"
 
 Paterson begins by helping readers identify their current assertiveness style. He presents a spectrum ranging from passive to aggressive, with assertive behavior residing in the middle. Self-assessment questionnaires and exercises help readers pinpoint their strengths and weaknesses. Understanding your current style is important for targeted improvement. Recognizing if you tend towards passivity (avoiding conflict, neglecting your needs), aggression (dominating conversations, disregarding others' feelings), or a combination of both, sets the stage for effective change.
 
-```mermaid
-graph LR
-    A[Passive] --> B(Assertive);
-    C[Aggressive] --> B;
-    B --> D{Improved Communication};
-    D --> E[Positive Relationships];
-```
+![Identifying Your Assertiveness Style. Passive; Assertive; Aggressive; Improved Communication; Positive Relationships.](diagram-01.svg)
 
 # Recognizing and Challenging Negative Thoughts
 
@@ -61,13 +55,7 @@ Underlying assertiveness is a strong sense of self-worth and self-confidence.  T
 
 Anger is often intertwined with assertive expression, particularly for individuals who tend toward passive or aggressive behaviors.  The book provides strategies for managing anger constructively.  This includes identifying anger triggers, developing coping mechanisms (e.g., deep breathing exercises, relaxation techniques), and learning to express anger assertively without resorting to aggression or passive avoidance.  The emphasis is on recognizing anger as a signal of unmet needs, rather than a destructive emotion to be suppressed.
 
-```mermaid
-graph LR
-    A[Anger Trigger] --> B(Recognize unmet needs);
-    B --> C{Develop coping mechanisms};
-    C --> D[Assertive Expression];
-    D --> E[Healthy Conflict Resolution];
-```
+![Identifying and Managing Anger. Anger Trigger; Recognize unmet needs; Develop coping mechanisms; Assertive Expression; Healthy Conflict Resolution.](diagram-02.svg)
 
 # Maintaining Assertiveness and Preventing Relapse
 

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="661pt" height="116pt" viewBox="0.00 0.00 661.00 116.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Craftsmanship</title><desc id="description">Passion leads to Mastery. Mastery leads to Meaningful Work. Meaningful Work leads to Success.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 98)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-98 643,-98 643,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M89.18,-40C97.06,-40 105.35,-40 113.46,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="113.84,-42.45 120.84,-40 113.84,-37.55 113.84,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M214.21,-40C221.98,-40 230.28,-40 238.74,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="238.88,-42.45 245.88,-40 238.88,-37.55 238.88,-42.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M415.15,-40C423.13,-40 431.25,-40 439.33,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="439.72,-42.45 446.72,-40 439.72,-37.55 439.72,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M77,-60C77,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 77,-20 77,-20 83,-20 89,-26 89,-32 89,-32 89,-48 89,-48 89,-54 83,-60 77,-60" />
+<text text-anchor="middle" x="44.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Passion</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M202,-60C202,-60 133,-60 133,-60 127,-60 121,-54 121,-48 121,-48 121,-32 121,-32 121,-26 127,-20 133,-20 133,-20 202,-20 202,-20 208,-20 214,-26 214,-32 214,-32 214,-48 214,-48 214,-54 208,-60 202,-60" />
+<text text-anchor="middle" x="167.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mastery</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M403,-60C403,-60 258,-60 258,-60 252,-60 246,-54 246,-48 246,-48 246,-32 246,-32 246,-26 252,-20 258,-20 258,-20 403,-20 403,-20 409,-20 415,-26 415,-32 415,-32 415,-48 415,-48 415,-54 409,-60 403,-60" />
+<text text-anchor="middle" x="330.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Meaningful Work</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="536,-80 447,-40 536,0 625,-40 536,-80" />
+<text text-anchor="middle" x="536" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Success</text>
+</g>
+</g>
+</svg>

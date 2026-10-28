@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242pt" height="464pt" viewBox="0.00 0.00 242.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Your Love Language</title><desc id="description">Person A's Love Language   (e.g., Acts of Service) leads to Expresses Love. Expresses Love leads to Person B's Love Language   (e.g., Words of Affirmation). Person B's Love Language   (e.g., Words of Affirmation) leads to Doesn't Recognize as Love. Doesn't Recognize as Love leads to Potential for Conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 224,-446 224,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-347.79C103,-339.54 103,-331.04 103,-323.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-323.09 103,-316.09 100.55,-323.09 105.45,-323.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-275.91C103,-268.58 103,-259.86 103,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-251.07 103,-244.07 100.55,-251.07 105.45,-251.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-163.76C103,-155.72 103,-147.29 103,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-139.23 103,-132.23 100.55,-139.23 105.45,-139.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103,-71.67C103,-63.77 103,-55.28 103,-47.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.45,-47.12 103,-40.12 100.55,-47.12 105.45,-47.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188.5,-428C188.5,-428 17.5,-428 17.5,-428 11.5,-428 5.5,-422 5.5,-416 5.5,-416 5.5,-360 5.5,-360 5.5,-354 11.5,-348 17.5,-348 17.5,-348 188.5,-348 188.5,-348 194.5,-348 200.5,-354 200.5,-360 200.5,-360 200.5,-416 200.5,-416 200.5,-422 194.5,-428 188.5,-428" />
+<text text-anchor="middle" x="103" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Person A's Love</text>
+<text text-anchor="middle" x="103" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Language   (e.g., Acts</text>
+<text text-anchor="middle" x="103" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">of Service)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166.5,-316C166.5,-316 39.5,-316 39.5,-316 33.5,-316 27.5,-310 27.5,-304 27.5,-304 27.5,-288 27.5,-288 27.5,-282 33.5,-276 39.5,-276 39.5,-276 166.5,-276 166.5,-276 172.5,-276 178.5,-282 178.5,-288 178.5,-288 178.5,-304 178.5,-304 178.5,-310 172.5,-316 166.5,-316" />
+<text text-anchor="middle" x="103" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Expresses Love</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M194,-244C194,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 194,-164 194,-164 200,-164 206,-170 206,-176 206,-176 206,-232 206,-232 206,-238 200,-244 194,-244" />
+<text text-anchor="middle" x="103" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Person B's Love</text>
+<text text-anchor="middle" x="103" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Language   (e.g.,</text>
+<text text-anchor="middle" x="103" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Words of Affirmation)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M189,-132C189,-132 17,-132 17,-132 11,-132 5,-126 5,-120 5,-120 5,-84 5,-84 5,-78 11,-72 17,-72 17,-72 189,-72 189,-72 195,-72 201,-78 201,-84 201,-84 201,-120 201,-120 201,-126 195,-132 189,-132" />
+<text text-anchor="middle" x="103" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Doesn't Recognize as</text>
+<text text-anchor="middle" x="103" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Love</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M188.5,-40C188.5,-40 17.5,-40 17.5,-40 11.5,-40 5.5,-34 5.5,-28 5.5,-28 5.5,-12 5.5,-12 5.5,-6 11.5,0 17.5,0 17.5,0 188.5,0 188.5,0 194.5,0 200.5,-6 200.5,-12 200.5,-12 200.5,-28 200.5,-28 200.5,-34 194.5,-40 188.5,-40" />
+<text text-anchor="middle" x="103" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Potential for Conflict</text>
+</g>
+</g>
+</svg>

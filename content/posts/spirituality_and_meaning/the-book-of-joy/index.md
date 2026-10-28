@@ -19,12 +19,7 @@ A core tenet of the book revolves around reframing our view of adversity. Instea
 
 Mindfulness and meditation are presented not as esoteric practices but as practical tools for navigating daily life. They provide the space to observe thoughts and emotions without judgment, allowing us to detach from negative patterns and inner peace. The book details specific meditation techniques, emphasizing the importance of consistency and patience. Even short periods of mindful practice can impact our emotional well-being, fostering resilience and a sense of calm amidst chaos.
 
-```mermaid
-graph LR
-    A[Challenges & Suffering] --> B(Mindfulness & Meditation);
-    B --> C{Perspective Shift};
-    C --> D[Inner Peace & Joy];
-```
+![Cultivating Inner Peace: Mindfulness and Meditation. Challenges & Suffering; Mindfulness & Meditation; Perspective Shift; Inner Peace & Joy.](diagram-01.svg)
 
 #  The Importance of Compassion and Kindness
 
@@ -45,12 +40,7 @@ The authors highlight the impact of positive relationships on our well-being. St
 
 Forgiveness is presented not as a sign of weakness but as an act of immense strength and self-liberation. It involves releasing the grip of anger, resentment, and bitterness, allowing oneself to move forward.  The book emphasizes that forgiveness is not necessarily about condoning harmful actions, but about freeing oneself from the burden of negativity.  It’s a process, not a single event, requiring patience, understanding, and self-compassion.
 
-```mermaid
-graph LR
-    A[Resentment & Anger] --> B(Forgiveness);
-    B --> C[Healing & Freedom];
-    C --> D[Inner Peace];
-```
+![Forgiveness:  A Path to Freedom. Resentment & Anger; Forgiveness; Healing & Freedom; Inner Peace.](diagram-02.svg)
 
 #  Finding Meaning and Purpose: Living a Life of Significance
 

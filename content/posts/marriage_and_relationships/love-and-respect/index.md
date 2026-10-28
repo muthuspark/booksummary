@@ -18,13 +18,7 @@ The book emphasizes the distinct emotional needs of men and women.  It argues th
 
 Eggerichs illustrates how unmet needs create a destructive cycle.  When a husband doesn't feel respected, he may withdraw or become defensive. This, in turn, can cause the wife to feel unloved and further withdraw her affection, leading to a vicious cycle of criticism and contempt. Similarly, when a wife doesn't feel loved, she may become critical and nagging, pushing her husband further away and hindering his feeling of respect.
 
-```mermaid
-graph LR
-A[Wife feels unloved] --> B(Criticism/Nagging);
-B --> C[Husband feels disrespected];
-C --> D(Withdrawal/Defensiveness);
-D --> A;
-```
+![The Unhealthy Cycle: Criticism and Contempt. Wife feels unloved; Criticism/Nagging; Husband feels disrespected; Withdrawal/Defensiveness.](diagram-01.svg)
 
 ### Breaking the Cycle:  Respect and Love in Action
 
@@ -83,13 +77,7 @@ For those with a Christian worldview, the book integrates faith and spirituality
 
 Maintaining a loving and respectful marriage is an ongoing process.  The book encourages couples to make a conscious effort to nurture their relationship, prioritize each other's needs, and continue learning and growing together.
 
-```mermaid
-graph LR
-A[Husband shows Respect] --> B(Wife feels Loved);
-B --> C[Wife shows Love];
-C --> D(Husband feels Respected);
-D --> A;
-```
+![Moving Forward: Sustaining Love and Respect. Husband shows Respect; Wife feels Loved; Wife shows Love; Husband feels Respected.](diagram-02.svg)
 
 This positive feedback loop reinforces the importance of consistent effort in fulfilling each other's core needs.  It’s a continuous cycle of giving and receiving, building a stronger and more fulfilling marriage.
 

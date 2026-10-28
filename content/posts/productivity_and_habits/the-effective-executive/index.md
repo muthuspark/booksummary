@@ -22,13 +22,7 @@ Drucker identifies five key practices that consistently distinguish effective ex
 
 Effective executives don't manage their time; they manage their contributions. This isn't about scheduling every minute; it's about prioritizing tasks that truly impact results. They systematically allocate their time to activities that align with their goals and strengths, delegating less important tasks.
 
-```mermaid
-graph LR
-A[Effective Executive] --> B(Prioritizes Contributions);
-B --> C{Focuses on Strengths};
-C --> D(Delegates Effectively);
-D --> E[Achieves Results];
-```
+![1. Managing Time: Focusing on Contributions. Effective Executive; Prioritizes Contributions; Focuses on Strengths; Delegates Effectively; Achieves Results.](diagram-01.svg)
 
 Key strategies include:
 
@@ -42,13 +36,7 @@ Key strategies include:
 
 Setting objectives is crucial, but it's not enough to simply list tasks.  Effective executives establish clear, measurable goals, prioritizing those that have the highest impact.  They focus their attention on achieving these top priorities, even if it means foregoing other potentially worthwhile projects.  This requires a high level of self-discipline and resilience.
 
-```mermaid
-graph LR
-A[Effective Executive] --> B(Sets Clear Goals);
-B --> C(Prioritizes Objectives);
-B --> D(Measures Progress);
-C --> E[Achieves Key Results];
-```
+![2. Setting Objectives and Focusing: The Importance of a Clear Vision. Effective Executive; Sets Clear Goals; Prioritizes Objectives; Measures Progress; Achieves Key Results.](diagram-02.svg)
 
 Key strategies include:
 
@@ -61,13 +49,7 @@ Key strategies include:
 
 Effective executives don't just react to events; they actively seek out and create opportunities. They do this by focusing on their strengths and the strengths of their teams, building on what they do well and constantly seeking to improve.
 
-```mermaid
-graph LR
-A[Effective Executive] --> B(Identifies Opportunities);
-B --> C(Focuses on Strengths);
-C --> D(Builds on Successes);
-D --> E[Creates New Opportunities];
-```
+![3. Identifying Opportunities and Building on Strengths: Strategic Thinking. Effective Executive; Identifies Opportunities; Focuses on Strengths; Builds on Successes; Creates New Opportunities.](diagram-03.svg)
 
 Key strategies include:
 
@@ -80,13 +62,7 @@ Key strategies include:
 
 Drucker emphasizes the importance of effective decision-making, especially in identifying the right people for specific roles and tasks. This involves making informed decisions rather than relying solely on intuition.
 
-```mermaid
-graph LR
-A[Effective Executive] --> B(Delegates effectively);
-B --> C(Empowers Individuals);
-C --> D(Utilizes Strengths);
-D --> E[Achieves better decisions];
-```
+![4. Building on Strengths: Effective Decision Making. Effective Executive; Delegates effectively; Empowers Individuals; Utilizes Strengths; Achieves better decisions.](diagram-04.svg)
 
 Key Strategies include:
 
@@ -99,16 +75,7 @@ Key Strategies include:
 
 Effective communication is not just about conveying information; it's about ensuring that the message is understood and acted upon. This involves clear, concise communication, actively listening to others and encouraging feedback.
 
-```mermaid
-graph LR
-A[Effective Executive] --> B(Clear Communication);
-B --> C(Active Listening);
-B --> D(Feedback Incorporation);
-C --> E[Improved Understanding];
-D --> F[Enhanced Collaboration];
-E --> G[Effective Execution];
-F --> G;
-```
+![5. Effective Communication: Clear and Concise Communication. Effective Executive; Clear Communication; Active Listening; Feedback Incorporation; Improved Understanding; Enhanced Collaboration; Effective Execution.](diagram-05.svg)
 
 Key strategies include:
 

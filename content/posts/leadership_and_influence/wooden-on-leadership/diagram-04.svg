@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="373pt" height="148pt" viewBox="0.00 0.00 372.50 148.00" role="img" aria-labelledby="title description">
+<title id="title">Integrity: The Moral Compass</title><desc id="description">Character leads to Integrity. Skills leads to Integrity. Teamwork leads to Integrity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 354.5,-130 354.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M83.83,-71.87C97.54,-63.23 113.84,-52.95 128.19,-43.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="129.59,-45.91 134.21,-40.1 126.98,-41.77 129.59,-45.91" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.5,-71.87C164.5,-64.31 164.5,-55.49 164.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="166.95,-47.1 164.5,-40.1 162.05,-47.1 166.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M248.08,-71.87C233.88,-63.23 216.99,-52.95 202.12,-43.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.14,-41.65 195.89,-40.1 200.59,-45.84 203.14,-41.65" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M95,-112C95,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 95,-72 95,-72 101,-72 107,-78 107,-84 107,-84 107,-100 107,-100 107,-106 101,-112 95,-112" />
+<text text-anchor="middle" x="53.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Character</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M201.5,-40C201.5,-40 127.5,-40 127.5,-40 121.5,-40 115.5,-34 115.5,-28 115.5,-28 115.5,-12 115.5,-12 115.5,-6 121.5,0 127.5,0 127.5,0 201.5,0 201.5,0 207.5,0 213.5,-6 213.5,-12 213.5,-12 213.5,-28 213.5,-28 213.5,-34 207.5,-40 201.5,-40" />
+<text text-anchor="middle" x="164.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Integrity</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M188,-112C188,-112 141,-112 141,-112 135,-112 129,-106 129,-100 129,-100 129,-84 129,-84 129,-78 135,-72 141,-72 141,-72 188,-72 188,-72 194,-72 200,-78 200,-84 200,-84 200,-100 200,-100 200,-106 194,-112 188,-112" />
+<text text-anchor="middle" x="164.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skills</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M324.5,-112C324.5,-112 234.5,-112 234.5,-112 228.5,-112 222.5,-106 222.5,-100 222.5,-100 222.5,-84 222.5,-84 222.5,-78 228.5,-72 234.5,-72 234.5,-72 324.5,-72 324.5,-72 330.5,-72 336.5,-78 336.5,-84 336.5,-84 336.5,-100 336.5,-100 336.5,-106 330.5,-112 324.5,-112" />
+<text text-anchor="middle" x="279.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Teamwork</text>
+</g>
+</g>
+</svg>

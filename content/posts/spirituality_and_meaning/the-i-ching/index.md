@@ -14,15 +14,7 @@ The I Ching, or Book of Changes, is not a predictive tool in the typical fortune
 
 The I Ching's core structure consists of 64 hexagrams, each composed of six lines (yao). These lines can be either solid (yang) or broken (yin), representing opposing forces. Each hexagram has a specific name, image, and associated judgment that offers a snapshot of a particular situation or life phase. The lines within each hexagram provide further interpretations and advice tailored to the specifics of the situation.
 
-```mermaid
-graph LR
-    A["Hexagram (6 lines)"] --> B(Yang Line);
-    A --> C(Yin Line);
-    B --> D(Judgment);
-    C --> D;
-    D --> E(Image);
-    D --> F(Line Interpretations);
-```
+![The Hexagrams: Symbols of Change. Hexagram (6 lines); Yang Line; Yin Line; Judgment; Image; Line Interpretations.](diagram-01.svg)
 
 Analyzing a hexagram involves interpreting the overall judgment, considering the symbolism of the lines, and understanding their interplay.  It's not about seeking a simple "yes" or "no" answer, but rather gaining a deeper understanding of the situation’s dynamics and potential outcomes.
 
@@ -30,14 +22,7 @@ Analyzing a hexagram involves interpreting the overall judgment, considering the
 
 The I Ching's fundamental concept is the interplay of yang (masculine, active, light) and yin (feminine, passive, dark). These are not absolute opposites, but rather aspects of a single whole. Understanding this dynamic is important for navigating life's challenges.
 
-```mermaid
-graph LR
-A[Yang] --(Complementary Forces)--> B[Yin];
-A --> C(Active);
-B --> D(Passive);
-C --> E(Light);
-D --> F(Dark);
-```
+![Yang and Yin: The Dance of Opposites. Yang; Yin; Active; Passive; Light; Dark.](diagram-02.svg)
 
 Wilhelm emphasizes the importance of recognizing both yang and yin within oneself and the world.  Embracing both aspects leads to greater balance and harmony.  A rigid adherence to one extreme can lead to imbalance and difficulty.
 

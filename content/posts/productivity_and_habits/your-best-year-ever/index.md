@@ -19,12 +19,7 @@ The journey starts with clarity.  Hyatt stresses the critical importance of defi
 
 A unique aspect of Hyatt's methodology is the "One Word" approach.  This single word encapsulates the essence of your vision and serves as a guiding principle for all your decisions throughout the year. It should be powerful, resonant, and reflective of your aspirations. This acts as a potent filter, helping you prioritize tasks and opportunities aligned with your overarching vision.
 
-```mermaid
-graph LR
-A[Vision Statement] --> B{One Word};
-B --> C[Goal Setting];
-C --> D[Action Plan];
-```
+![Identifying Your One Word. Vision Statement; One Word; Goal Setting; Action Plan.](diagram-01.svg)
 
 ## Setting SMART Goals
 

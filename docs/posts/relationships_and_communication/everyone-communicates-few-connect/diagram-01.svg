@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240pt" height="404pt" viewBox="0.00 0.00 240.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Connecting Through Effective Listening</title><desc id="description">Speaker leads to Listening. Listening leads to Understanding. Understanding leads to Responding. Responding leads to Connection.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 222,-386 222,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-327.91C102,-320.58 102,-311.86 102,-303.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-303.07 102,-296.07 99.55,-303.07 104.45,-303.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-215.79C102,-207.54 102,-199.04 102,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-191.09 102,-184.09 99.55,-191.09 104.45,-191.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-143.87C102,-136.31 102,-127.49 102,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-119.1 102,-112.1 99.55,-119.1 104.45,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M102,-71.87C102,-64.31 102,-55.49 102,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="104.45,-47.1 102,-40.1 99.55,-47.1 104.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M136.5,-368C136.5,-368 67.5,-368 67.5,-368 61.5,-368 55.5,-362 55.5,-356 55.5,-356 55.5,-340 55.5,-340 55.5,-334 61.5,-328 67.5,-328 67.5,-328 136.5,-328 136.5,-328 142.5,-328 148.5,-334 148.5,-340 148.5,-340 148.5,-356 148.5,-356 148.5,-362 142.5,-368 136.5,-368" />
+<text text-anchor="middle" x="102" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Speaker</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="102,-296 0,-256 102,-216 204,-256 102,-296" />
+<text text-anchor="middle" x="102" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Listening</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-184C164,-184 40,-184 40,-184 34,-184 28,-178 28,-172 28,-172 28,-156 28,-156 28,-150 34,-144 40,-144 40,-144 164,-144 164,-144 170,-144 176,-150 176,-156 176,-156 176,-172 176,-172 176,-178 170,-184 164,-184" />
+<text text-anchor="middle" x="102" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-112C152,-112 52,-112 52,-112 46,-112 40,-106 40,-100 40,-100 40,-84 40,-84 40,-78 46,-72 52,-72 52,-72 152,-72 152,-72 158,-72 164,-78 164,-84 164,-84 164,-100 164,-100 164,-106 158,-112 152,-112" />
+<text text-anchor="middle" x="102" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Responding</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M149.5,-40C149.5,-40 54.5,-40 54.5,-40 48.5,-40 42.5,-34 42.5,-28 42.5,-28 42.5,-12 42.5,-12 42.5,-6 48.5,0 54.5,0 54.5,0 149.5,0 149.5,0 155.5,0 161.5,-6 161.5,-12 161.5,-12 161.5,-28 161.5,-28 161.5,-34 155.5,-40 149.5,-40" />
+<text text-anchor="middle" x="102" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Connection</text>
+</g>
+</g>
+</svg>

@@ -1,2 +1,15 @@
 {{ $image := .Page.Resources.GetMatch .Destination }}
+{{ if and $image (strings.HasPrefix (path.Base .Destination) "diagram-") }}
+  {{ $viewBox := index (findRE `viewBox="[^"]+"` $image.Content 1) 0 }}
+  {{ $dimensions := split (strings.TrimPrefix `viewBox="` (strings.TrimSuffix `"` $viewBox)) " " }}
+  {{ $width := index $dimensions 2 | float | math.Ceil | int }}
+  {{ $height := index $dimensions 3 | float | math.Ceil | int }}
+  <figure class="diagram-image">
+    <a class="diagram-preview" href="{{ $image.RelPermalink }}" aria-label="View full-size diagram: {{ .Text }}">
+      <img src="{{ $image.RelPermalink }}" alt="{{ .Text }}" width="{{ $width }}" height="{{ $height }}" loading="lazy" decoding="async">
+    </a>
+    <figcaption><a href="{{ $image.RelPermalink }}">View full-size diagram</a></figcaption>
+  </figure>
+{{ else }}
 <img src="{{ with $image }}{{ .RelPermalink }}{{ else }}{{ .Destination | safeURL }}{{ end }}" alt="{{ .Text | default (printf "Illustration for %s" .Page.Title) }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ with $image }}{{ if eq .ResourceType "image" }}{{ if ne .MediaType.SubType "svg" }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}{{ end }}{{ end }} loading="lazy" decoding="async">
+{{ end }}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494pt" height="158pt" viewBox="0.00 0.00 494.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">Overcome Gridlock:  Managing Unresolvable Conflicts</title><desc id="description">Solvable Problem leads to Compromise/Solution. Gridlock leads to Understanding/Compromise on managing.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 476,-140 476,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.29,-20C184.52,-20 201.76,-20 218.68,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="218.91,-22.45 225.91,-20 218.91,-17.55 218.91,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M133.01,-92C150.53,-92 171.32,-92 192.68,-92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="192.95,-94.45 199.95,-92 192.95,-89.55 192.95,-94.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M156,-40C156,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 156,0 156,0 162,0 168,-6 168,-12 168,-12 168,-28 168,-28 168,-34 162,-40 156,-40" />
+<text text-anchor="middle" x="84" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solvable Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M420,-40C420,-40 238,-40 238,-40 232,-40 226,-34 226,-28 226,-28 226,-12 226,-12 226,-6 232,0 238,0 238,0 420,0 420,0 426,0 432,-6 432,-12 432,-12 432,-28 432,-28 432,-34 426,-40 420,-40" />
+<text text-anchor="middle" x="329" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compromise/Solution</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M121,-112C121,-112 47,-112 47,-112 41,-112 35,-106 35,-100 35,-100 35,-84 35,-84 35,-78 41,-72 47,-72 47,-72 121,-72 121,-72 127,-72 133,-78 133,-84 133,-84 133,-100 133,-100 133,-106 127,-112 121,-112" />
+<text text-anchor="middle" x="84" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gridlock</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M446,-122C446,-122 212,-122 212,-122 206,-122 200,-116 200,-110 200,-110 200,-74 200,-74 200,-68 206,-62 212,-62 212,-62 446,-62 446,-62 452,-62 458,-68 458,-74 458,-74 458,-110 458,-110 458,-116 452,-122 446,-122" />
+<text text-anchor="middle" x="329" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding/Compromise</text>
+<text text-anchor="middle" x="329" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">on managing</text>
+</g>
+</g>
+</svg>

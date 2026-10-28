@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="238pt" height="404pt" viewBox="0.00 0.00 238.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">The Five Stages of Workflow:  A Step-by-Step Guide</title><desc id="description">Capture leads to Clarify. Clarify leads to Organize. Organize leads to Reflect. Reflect leads to Engage.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 220,-386 220,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101,-327.87C101,-320.31 101,-311.49 101,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.45,-303.1 101,-296.1 98.55,-303.1 103.45,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101,-255.91C101,-248.58 101,-239.86 101,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.45,-231.07 101,-224.07 98.55,-231.07 103.45,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101,-143.79C101,-135.54 101,-127.04 101,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.45,-119.09 101,-112.09 98.55,-119.09 103.45,-119.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M101,-71.87C101,-64.31 101,-55.49 101,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="103.45,-47.1 101,-40.1 98.55,-47.1 103.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-368C135,-368 67,-368 67,-368 61,-368 55,-362 55,-356 55,-356 55,-340 55,-340 55,-334 61,-328 67,-328 67,-328 135,-328 135,-328 141,-328 147,-334 147,-340 147,-340 147,-356 147,-356 147,-362 141,-368 135,-368" />
+<text text-anchor="middle" x="101" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Capture</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M130,-296C130,-296 72,-296 72,-296 66,-296 60,-290 60,-284 60,-284 60,-268 60,-268 60,-262 66,-256 72,-256 72,-256 130,-256 130,-256 136,-256 142,-262 142,-268 142,-268 142,-284 142,-284 142,-290 136,-296 130,-296" />
+<text text-anchor="middle" x="101" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarify</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="101,-224 0,-184 101,-144 202,-184 101,-224" />
+<text text-anchor="middle" x="101" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Organize</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M131.5,-112C131.5,-112 70.5,-112 70.5,-112 64.5,-112 58.5,-106 58.5,-100 58.5,-100 58.5,-84 58.5,-84 58.5,-78 64.5,-72 70.5,-72 70.5,-72 131.5,-72 131.5,-72 137.5,-72 143.5,-78 143.5,-84 143.5,-84 143.5,-100 143.5,-100 143.5,-106 137.5,-112 131.5,-112" />
+<text text-anchor="middle" x="101" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reflect</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M132.5,-40C132.5,-40 69.5,-40 69.5,-40 63.5,-40 57.5,-34 57.5,-28 57.5,-28 57.5,-12 57.5,-12 57.5,-6 63.5,0 69.5,0 69.5,0 132.5,0 132.5,0 138.5,0 144.5,-6 144.5,-12 144.5,-12 144.5,-28 144.5,-28 144.5,-34 138.5,-40 132.5,-40" />
+<text text-anchor="middle" x="101" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Engage</text>
+</g>
+</g>
+</svg>

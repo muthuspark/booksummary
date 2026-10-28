@@ -14,18 +14,7 @@ author: "David Perlmutter"
 
 The book emphasizes the role of the gut-brain axis, a bidirectional communication system connecting the gut and the brain. This communication occurs through various pathways, including the vagus nerve, immune system, and neurotransmitters. An unhealthy gut, with inflammation and dysbiosis, sends inflammatory signals to the brain, contributing to neurological disorders and cognitive decline. Conversely, a healthy gut promotes a calm and well-functioning brain.
 
-```mermaid
-graph LR
-    A[Gut Microbiome] --> B(Vagus Nerve);
-    A --> C(Immune System);
-    A --> D(Neurotransmitters);
-    B --> E[Brain];
-    C --> E;
-    D --> E;
-    E --> F[Cognitive Function];
-    E --> G[Mood];
-    E --> H[Overall Well-being];
-```
+![The Gut-Brain Axis: The Foundation of Brain Health. Gut Microbiome; Vagus Nerve; Immune System; Neurotransmitters; Brain; Cognitive Function; Mood; Overall Well-being.](diagram-01.svg)
 
 ## Inflammation: The Silent Enemy of the Brain
 

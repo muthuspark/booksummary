@@ -18,12 +18,7 @@ The core premise of the book centers on the idea that our subconscious mind shap
 
 A portion of the book focuses on identifying and challenging limiting beliefs. These are deeply ingrained, often negative thoughts and assumptions that we hold about ourselves and the world, hindering our progress and potential. Berdik provides various strategies for recognizing these beliefs, often stemming from past experiences or learned behaviors. He highlights the importance of self-reflection and introspection, encouraging readers to become aware of the narratives they tell themselves.
 
-```mermaid
-graph LR
-    A[Past Experiences] --> B(Limiting Beliefs);
-    C[Learned Behaviors] --> B;
-    B --> D{Hindered Progress & Potential};
-```
+![Identifying and Addressing Limiting Beliefs. Past Experiences; Limiting Beliefs; Learned Behaviors; Hindered Progress & Potential.](diagram-01.svg)
 
 ## Techniques for Reprogramming the Subconscious
 
@@ -42,12 +37,7 @@ The book isn't solely about identifying problems; it provides practical techniqu
 
 Berdik strongly emphasizes the role of emotions in subconscious programming. Our feelings are deeply connected to our beliefs, and negative emotions often reinforce limiting beliefs. Therefore, addressing and managing negative emotions is important for successful subconscious reprogramming. He suggests various techniques for emotional regulation, including mindfulness, emotional journaling, and seeking professional help when necessary.
 
-```mermaid
-graph LR
-    A[Negative Emotions] --> B(Reinforce Limiting Beliefs);
-    B --> C{Hindered Progress};
-    D[Emotional Regulation] --> E(Positive Change);
-```
+![The Role of Emotions in Subconscious Programming. Negative Emotions; Reinforce Limiting Beliefs; Hindered Progress; Emotional Regulation; Positive Change.](diagram-02.svg)
 
 ## The Importance of Self-Compassion and Self-Acceptance
 

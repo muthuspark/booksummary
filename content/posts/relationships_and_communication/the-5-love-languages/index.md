@@ -23,14 +23,7 @@ Chapman identifies five primary love languages: Words of Affirmation, Acts of Se
 
 This can be visualized using a diagram:
 
-```mermaid
-graph LR
-    A[Love Languages] --> B(Words of Affirmation);
-    A --> C(Acts of Service);
-    A --> D(Receiving Gifts);
-    A --> E(Quality Time);
-    A --> F(Physical Touch);
-```
+![The Five Languages: Identifying Your Own and Your Partner's. Love Languages; Words of Affirmation; Acts of Service; Receiving Gifts; Quality Time; Physical Touch.](diagram-01.svg)
 
 * **Quality Time:** Undivided attention and focused engagement are critical for those whose primary love language is Quality Time.  Putting away distractions, engaging in meaningful conversations, and sharing experiences are key expressions of love.
 
@@ -78,16 +71,7 @@ The book offers numerous practical strategies:
 
 This can be visualized in a flowchart:
 
-```mermaid
-graph TD
-    A[Identify Love Languages] --> B{Partner's Language?};
-    B -- Yes --> C[Speak their language];
-    B -- No --> D[Learn their language];
-    C --> E[Regular communication];
-    D --> F[Observe and ask questions];
-    E --> G[Stronger Relationship];
-    F --> A;
-```
+![Actionable Strategies for Improvement. Identify Love Languages; Partner's Language?; Speak their language; Learn their language; Regular communication; Observe and ask questions; Stronger Relationship.](diagram-02.svg)
 
 # The Importance of Intentionality
 

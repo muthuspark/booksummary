@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="624pt" height="372pt" viewBox="0.00 0.00 624.00 372.00" role="img" aria-labelledby="title description">
+<title id="title">The Convergence of Mysticism and Physics</title><desc id="description">Classical Physics leads to Mechanistic, Separated. Modern Physics leads to Interconnected, Dynamic. Interconnected, Dynamic leads to Mystical Traditions. Mechanistic, Separated leads to Fragmented View of Reality. Mystical Traditions leads to Holistic View of Reality.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 354)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-354 606,-354 606,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107,-295.63C107,-285.32 107,-272.48 107,-261.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="109.45,-261.19 107,-254.19 104.55,-261.19 109.45,-261.19" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M107,-213.72C107,-201.14 107,-184.31 107,-169.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="109.45,-169.08 107,-162.08 104.55,-169.08 109.45,-169.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M406,-295.63C406,-288.34 406,-279.78 406,-271.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="408.45,-271.19 406,-264.19 403.55,-271.19 408.45,-271.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M406,-203.81C406,-196.06 406,-187.5 406,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="408.45,-179.09 406,-172.09 403.55,-179.09 408.45,-179.09" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M406,-91.76C406,-83.72 406,-75.29 406,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="408.45,-67.23 406,-60.23 403.55,-67.23 408.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175.5,-336C175.5,-336 38.5,-336 38.5,-336 32.5,-336 26.5,-330 26.5,-324 26.5,-324 26.5,-308 26.5,-308 26.5,-302 32.5,-296 38.5,-296 38.5,-296 175.5,-296 175.5,-296 181.5,-296 187.5,-302 187.5,-308 187.5,-308 187.5,-324 187.5,-324 187.5,-330 181.5,-336 175.5,-336" />
+<text text-anchor="middle" x="107" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Classical Physics</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M202,-254C202,-254 12,-254 12,-254 6,-254 0,-248 0,-242 0,-242 0,-226 0,-226 0,-220 6,-214 12,-214 12,-214 202,-214 202,-214 208,-214 214,-220 214,-226 214,-226 214,-242 214,-242 214,-248 208,-254 202,-254" />
+<text text-anchor="middle" x="107" y="-229.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mechanistic, Separated</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M472,-336C472,-336 340,-336 340,-336 334,-336 328,-330 328,-324 328,-324 328,-308 328,-308 328,-302 334,-296 340,-296 340,-296 472,-296 472,-296 478,-296 484,-302 484,-308 484,-308 484,-324 484,-324 484,-330 478,-336 472,-336" />
+<text text-anchor="middle" x="406" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Modern Physics</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M471.5,-264C471.5,-264 340.5,-264 340.5,-264 334.5,-264 328.5,-258 328.5,-252 328.5,-252 328.5,-216 328.5,-216 328.5,-210 334.5,-204 340.5,-204 340.5,-204 471.5,-204 471.5,-204 477.5,-204 483.5,-210 483.5,-216 483.5,-216 483.5,-252 483.5,-252 483.5,-258 477.5,-264 471.5,-264" />
+<text text-anchor="middle" x="406" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interconnected,</text>
+<text text-anchor="middle" x="406" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dynamic</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="406,-172 224,-132 406,-92 588,-132 406,-172" />
+<text text-anchor="middle" x="406" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mystical Traditions</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M190,-162C190,-162 24,-162 24,-162 18,-162 12,-156 12,-150 12,-150 12,-114 12,-114 12,-108 18,-102 24,-102 24,-102 190,-102 190,-102 196,-102 202,-108 202,-114 202,-114 202,-150 202,-150 202,-156 196,-162 190,-162" />
+<text text-anchor="middle" x="107" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fragmented View of</text>
+<text text-anchor="middle" x="107" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reality</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M471.5,-60C471.5,-60 340.5,-60 340.5,-60 334.5,-60 328.5,-54 328.5,-48 328.5,-48 328.5,-12 328.5,-12 328.5,-6 334.5,0 340.5,0 340.5,0 471.5,0 471.5,0 477.5,0 483.5,-6 483.5,-12 483.5,-12 483.5,-48 483.5,-48 483.5,-54 477.5,-60 471.5,-60" />
+<text text-anchor="middle" x="406" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Holistic View of</text>
+<text text-anchor="middle" x="406" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reality</text>
+</g>
+</g>
+</svg>

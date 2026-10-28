@@ -22,13 +22,7 @@ The entire YNAB system rests on four fundamental rules:
 
 4. **Age Your Money:**  This rule encourages you to treat money as if it has an age. Older money should ideally be used for longer-term goals, while newer money can be used for more immediate needs.  This ensures your savings goals are prioritized.
 
-```mermaid
-graph LR
-    A[Give Every Dollar a Job] --> B(Embrace Your Reality);
-    B --> C{Roll with the Punches};
-    C --> D(Age Your Money);
-    D --> A;
-```
+![The Four Rules of YNAB. Give Every Dollar a Job; Embrace Your Reality; Roll with the Punches; Age Your Money.](diagram-01.svg)
 
 ## Budgeting with YNAB: A Practical Approach
 

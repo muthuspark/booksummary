@@ -27,16 +27,7 @@ Sinclair extensively covers senolytics and senomorphics, two therapeutic strateg
 * **Senomorphics:** These drugs, still in earlier stages of research, aim to modify the behavior of senescent cells, neutralizing their harmful effects without necessarily eliminating them.
 
 
-```mermaid
-graph LR
-    A[Aging Process] --> B(Senescent Cells);
-    B --> C[Inflammation];
-    B --> D[Tissue Damage];
-    C --> E[Age-Related Diseases];
-    D --> E;
-    F[Senolytics] --> B;
-    G[Senomorphics] --> B;
-```
+![Senolytics and Senomorphics: Targeting Aging Cells. Aging Process; Senescent Cells; Inflammation; Tissue Damage; Age-Related Diseases; Senolytics; Senomorphics.](diagram-01.svg)
 
 ###  Lifestyle Interventions: The Foundation of Longevity
 
@@ -87,29 +78,7 @@ The book explores many promising technologies, including:
 * **Stem cell therapies:** These therapies aim to regenerate damaged tissues and organs, potentially reversing some aspects of aging.
 
 
-```mermaid
-graph LR
-    A[Lifestyle Interventions] --> B(Dietary Restriction);
-    A --> C(Exercise);
-    A --> D(Sleep);
-    A --> E(Stress Management);
-    A --> F(Social Connections);
-    G[Emerging Technologies] --> H(NAD+ Boosters);
-    G --> I(Rapamycin);
-    G --> J(Gene Therapy);
-    G --> K(Stem Cell Therapies);
-    B --> L[Improved Cellular Health];
-    C --> L;
-    D --> L;
-    E --> L;
-    F --> L;
-    H --> L;
-    I --> L;
-    J --> L;
-    K --> L;
-    L --> M[Extended Healthspan];
-
-```
+![Emerging Technologies:  The Future of Longevity. Lifestyle Interventions; Dietary Restriction; Exercise; Sleep; Stress Management; Social Connections; Emerging Technologies; NAD+ Boosters; Rapamycin; Gene Therapy; Stem Cell Therapies; Improved Cellular Health; Extended Healthspan.](diagram-02.svg)
 
 ###  Actionable Steps:  Putting the Science into Practice
 

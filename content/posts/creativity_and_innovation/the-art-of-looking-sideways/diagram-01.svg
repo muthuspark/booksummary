@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710pt" height="218pt" viewBox="0.00 0.00 710.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">The Unexpected: Lateral Thinking and Creative Problem Solving</title><desc id="description">Problem leads to Linear Thinking. Problem leads to Lateral Thinking. Lateral Thinking leads to Multiple Solutions. Linear Thinking leads to Single Solution.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 692,-200 692,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.21,-103.3C105.66,-105.48 114.69,-107.81 123.81,-110.16" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="123.41,-112.59 130.8,-111.96 124.63,-107.84 123.41,-112.59" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.21,-81.7C104.99,-80.18 113.27,-78.57 121.66,-76.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="122.32,-79.3 128.72,-75.55 121.38,-74.49 122.32,-79.3" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M288.03,-134.71C309.9,-135.47 334.38,-136.32 358.67,-137.17" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="358.78,-139.63 365.86,-137.42 358.95,-134.73 358.78,-139.63" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M290.31,-54.43C310.79,-53 333.44,-51.42 356.01,-49.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="356.2,-52.28 363.01,-49.35 355.86,-47.4 356.2,-52.28" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M85,-111C85,-111 12,-111 12,-111 6,-111 0,-105 0,-99 0,-99 0,-83 0,-83 0,-77 6,-71 12,-71 12,-71 85,-71 85,-71 91,-71 97,-77 97,-83 97,-83 97,-99 97,-99 97,-105 91,-111 85,-111" />
+<text text-anchor="middle" x="48.5" y="-86.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M276,-152C276,-152 143,-152 143,-152 137,-152 131,-146 131,-140 131,-140 131,-124 131,-124 131,-118 137,-112 143,-112 143,-112 276,-112 276,-112 282,-112 288,-118 288,-124 288,-124 288,-140 288,-140 288,-146 282,-152 276,-152" />
+<text text-anchor="middle" x="209.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Linear Thinking</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M278,-80C278,-80 141,-80 141,-80 135,-80 129,-74 129,-68 129,-68 129,-52 129,-52 129,-46 135,-40 141,-40 141,-40 278,-40 278,-40 284,-40 290,-46 290,-52 290,-52 290,-68 290,-68 290,-74 284,-80 278,-80" />
+<text text-anchor="middle" x="209.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Lateral Thinking</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="498,-80 322,-40 498,0 674,-40 498,-80" />
+<text text-anchor="middle" x="498" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Multiple Solutions</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="498,-182 349,-142 498,-102 647,-142 498,-182" />
+<text text-anchor="middle" x="498" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Single Solution</text>
+</g>
+</g>
+</svg>

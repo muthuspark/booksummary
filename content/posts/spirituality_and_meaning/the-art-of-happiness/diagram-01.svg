@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442pt" height="404pt" viewBox="0.00 0.00 442.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Emotions: Techniques for Inner Harmony</title><desc id="description">Self-Awareness leads to Mindfulness. Self-Awareness leads to Self-Reflection. Mindfulness leads to Emotional Regulation. Self-Reflection leads to Emotional Regulation. Emotional Regulation leads to Inner Peace. Inner Peace leads to Happiness.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 424,-386 424,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M181.14,-327.87C171.62,-319.54 160.35,-309.68 150.28,-300.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.72,-298.87 144.83,-296.1 148.49,-302.56 151.72,-298.87" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224.86,-327.87C234.38,-319.54 245.65,-309.68 255.72,-300.87" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="257.51,-302.56 261.17,-296.1 254.28,-298.87 257.51,-302.56" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M139.97,-255.91C148.32,-246.51 158.71,-234.82 168.63,-223.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="170.63,-225.1 173.45,-218.24 166.97,-221.85 170.63,-225.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266.03,-255.91C257.68,-246.51 247.29,-234.82 237.37,-223.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="239.03,-221.85 232.55,-218.24 235.37,-225.1 239.03,-221.85" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-143.79C203,-135.54 203,-127.04 203,-119.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-119.09 203,-112.09 200.55,-119.09 205.45,-119.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203,-71.87C203,-64.31 203,-55.49 203,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.45,-47.1 203,-40.1 200.55,-47.1 205.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M266.5,-368C266.5,-368 139.5,-368 139.5,-368 133.5,-368 127.5,-362 127.5,-356 127.5,-356 127.5,-340 127.5,-340 127.5,-334 133.5,-328 139.5,-328 139.5,-328 266.5,-328 266.5,-328 272.5,-328 278.5,-334 278.5,-340 278.5,-340 278.5,-356 278.5,-356 278.5,-362 272.5,-368 266.5,-368" />
+<text text-anchor="middle" x="203" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-296C175,-296 71,-296 71,-296 65,-296 59,-290 59,-284 59,-284 59,-268 59,-268 59,-262 65,-256 71,-256 71,-256 175,-256 175,-256 181,-256 187,-262 187,-268 187,-268 187,-284 187,-284 187,-290 181,-296 175,-296" />
+<text text-anchor="middle" x="123" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mindfulness</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M344.5,-296C344.5,-296 221.5,-296 221.5,-296 215.5,-296 209.5,-290 209.5,-284 209.5,-284 209.5,-268 209.5,-268 209.5,-262 215.5,-256 221.5,-256 221.5,-256 344.5,-256 344.5,-256 350.5,-256 356.5,-262 356.5,-268 356.5,-268 356.5,-284 356.5,-284 356.5,-290 350.5,-296 344.5,-296" />
+<text text-anchor="middle" x="283" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="203,-224 0,-184 203,-144 406,-184 203,-224" />
+<text text-anchor="middle" x="203" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Regulation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M253,-112C253,-112 153,-112 153,-112 147,-112 141,-106 141,-100 141,-100 141,-84 141,-84 141,-78 147,-72 153,-72 153,-72 253,-72 253,-72 259,-72 265,-78 265,-84 265,-84 265,-100 265,-100 265,-106 259,-112 253,-112" />
+<text text-anchor="middle" x="203" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Inner Peace</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M247.5,-40C247.5,-40 158.5,-40 158.5,-40 152.5,-40 146.5,-34 146.5,-28 146.5,-28 146.5,-12 146.5,-12 146.5,-6 152.5,0 158.5,0 158.5,0 247.5,0 247.5,0 253.5,0 259.5,-6 259.5,-12 259.5,-12 259.5,-28 259.5,-28 259.5,-34 253.5,-40 247.5,-40" />
+<text text-anchor="middle" x="203" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Happiness</text>
+</g>
+</g>
+</svg>

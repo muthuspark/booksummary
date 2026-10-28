@@ -81,19 +81,7 @@ The book isn't just about adopting specific techniques; it's about cultivating a
 
 The book provides a framework for integrating these principles into daily life:
 
-```mermaid
-graph LR
-A[Identify Situation] --> B{Cognitive Biases Present?};
-B -- Yes --> C[Employ Countermeasures];
-B -- No --> D[Proceed with Analysis];
-C --> E[Structured Decision Making];
-E --> F[Gather Diverse Data];
-F --> G[Evaluate & Adjust];
-G --> H[Implement Decision];
-D --> G;
-H --> I[Reflect & Learn];
-I --> A;
-```
+![Actionable and Practical Framework. Identify Situation; Cognitive Biases Present?; Employ Countermeasures; Proceed with Analysis; Structured Decision Making; Gather Diverse Data; Evaluate & Adjust; Implement Decision; Reflect & Learn.](diagram-01.svg)
 
 This cyclical process encourages continuous learning and improvement.  It emphasizes the iterative nature of noticing, requiring consistent effort and self-reflection.
 

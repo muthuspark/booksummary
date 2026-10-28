@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="376pt" height="536pt" viewBox="0.00 0.00 376.00 536.00" role="img" aria-labelledby="title description">
+<title id="title">Diagram: Key Components of Digital Emotional Intelligence</title><desc id="description">Self-Awareness leads to Self-Regulation. Self-Awareness leads to Social Awareness. Self-Regulation leads to Relationship Management. Social Awareness leads to Relationship Management. Relationship Management leads to Positive Digital Interactions. Positive Digital Interactions leads to Resilience. Resilience leads to Wellbeing.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 518)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-518 358,-518 358,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M141.41,-459.87C130.59,-451.46 117.78,-441.5 106.38,-432.63" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="107.59,-430.47 100.56,-428.1 104.58,-434.34 107.59,-430.47" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M190.87,-459.87C201.9,-451.38 214.99,-441.32 226.6,-432.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="228.11,-434.31 232.16,-428.1 225.12,-430.43 228.11,-434.31" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91.68,-387.84C101.28,-376.11 114.03,-360.52 126.25,-345.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="128.19,-347.08 130.73,-340.11 124.4,-343.98 128.19,-347.08" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M241.15,-387.84C231.44,-376.11 218.55,-360.52 206.19,-345.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="208.01,-343.94 201.66,-340.11 204.24,-347.07 208.01,-343.94" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166,-235.7C166,-227.47 166,-219.21 166,-211.56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.45,-211.13 166,-204.13 163.55,-211.13 168.45,-211.13" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166,-143.67C166,-135.77 166,-127.28 166,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.45,-119.12 166,-112.12 163.55,-119.12 168.45,-119.12" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166,-71.87C166,-64.31 166,-55.49 166,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="168.45,-47.1 166,-40.1 163.55,-47.1 168.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M229.5,-500C229.5,-500 102.5,-500 102.5,-500 96.5,-500 90.5,-494 90.5,-488 90.5,-488 90.5,-472 90.5,-472 90.5,-466 96.5,-460 102.5,-460 102.5,-460 229.5,-460 229.5,-460 235.5,-460 241.5,-466 241.5,-472 241.5,-472 241.5,-488 241.5,-488 241.5,-494 235.5,-500 229.5,-500" />
+<text text-anchor="middle" x="166" y="-475.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Awareness</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M140,-428C140,-428 12,-428 12,-428 6,-428 0,-422 0,-416 0,-416 0,-400 0,-400 0,-394 6,-388 12,-388 12,-388 140,-388 140,-388 146,-388 152,-394 152,-400 152,-400 152,-416 152,-416 152,-422 146,-428 140,-428" />
+<text text-anchor="middle" x="76" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Regulation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M328,-428C328,-428 186,-428 186,-428 180,-428 174,-422 174,-416 174,-416 174,-400 174,-400 174,-394 180,-388 186,-388 186,-388 328,-388 328,-388 334,-388 340,-394 340,-400 340,-400 340,-416 340,-416 340,-422 334,-428 328,-428" />
+<text text-anchor="middle" x="257" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Social Awareness</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="166,-356 33,-296 166,-236 299,-296 166,-356" />
+<text text-anchor="middle" x="166" y="-301.6" font-family="Georgia" font-size="18.00" fill="#243d36">Relationship</text>
+<text text-anchor="middle" x="166" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Management</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M228.5,-204C228.5,-204 103.5,-204 103.5,-204 97.5,-204 91.5,-198 91.5,-192 91.5,-192 91.5,-156 91.5,-156 91.5,-150 97.5,-144 103.5,-144 103.5,-144 228.5,-144 228.5,-144 234.5,-144 240.5,-150 240.5,-156 240.5,-156 240.5,-192 240.5,-192 240.5,-198 234.5,-204 228.5,-204" />
+<text text-anchor="middle" x="166" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Digital</text>
+<text text-anchor="middle" x="166" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interactions</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M209,-112C209,-112 123,-112 123,-112 117,-112 111,-106 111,-100 111,-100 111,-84 111,-84 111,-78 117,-72 123,-72 123,-72 209,-72 209,-72 215,-72 221,-78 221,-84 221,-84 221,-100 221,-100 221,-106 215,-112 209,-112" />
+<text text-anchor="middle" x="166" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resilience</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M208.5,-40C208.5,-40 123.5,-40 123.5,-40 117.5,-40 111.5,-34 111.5,-28 111.5,-28 111.5,-12 111.5,-12 111.5,-6 117.5,0 123.5,0 123.5,0 208.5,0 208.5,0 214.5,0 220.5,-6 220.5,-12 220.5,-12 220.5,-28 220.5,-28 220.5,-34 214.5,-40 208.5,-40" />
+<text text-anchor="middle" x="166" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wellbeing</text>
+</g>
+</g>
+</svg>

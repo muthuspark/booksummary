@@ -73,18 +73,7 @@ The ultimate goal of innovation is to create value for users or the organization
 
 Innovation rarely happens quickly.  Persistence and perseverance are vital for overcoming obstacles and achieving breakthroughs.
 
-```mermaid
-graph LR
-A[Deep Understanding] --> B(Challenge Assumptions);
-B --> C{Iterate & Experiment};
-C --> D[Seek Feedback];
-D --> E(Cultivate Curiosity);
-E --> F{Embrace Failure};
-F --> G[Supportive Environment];
-G --> H(Focus on Value);
-H --> I(Persistence);
-I --> J[Successful Innovation];
-```
+![Principle 10:  Be Persistent. Deep Understanding; Challenge Assumptions; Iterate & Experiment; Seek Feedback; Cultivate Curiosity; Embrace Failure; Supportive Environment; Focus on Value; Persistence; Successful Innovation.](diagram-01.svg)
 
 ## The Social Dynamics of Innovation
 

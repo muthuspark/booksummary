@@ -14,12 +14,7 @@ Robert Galford's "Your Leadership Legacy" isn't solely about leaving a mark on a
 
 Before striving for impact, Galford emphasizes the critical need for self-awareness.  Understanding your core values—what truly matters to you—is paramount.  This self-reflection forms the foundation upon which your leadership legacy is built.  Without a clear understanding of your values, your actions will lack direction and purpose, resulting in a legacy that is diffuse and ultimately unsatisfying.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Identify Core Values);
-    B --> C{Define Vision};
-    C --> D[Purposeful Actions];
-```
+![Defining Your Values and Vision. Self-Reflection; Identify Core Values; Define Vision; Purposeful Actions.](diagram-01.svg)
 
 This process involves introspection, possibly journaling, and seeking feedback from trusted sources to gain a detailed understanding of your strengths, weaknesses, and guiding principles. Defining your vision, your aspirations for both personal and professional life, provides a roadmap for achieving your goals.
 
@@ -33,13 +28,7 @@ Authentic leadership isn't about mimicking others; it's about embracing your uni
 
 The book explores the importance of building and leading high-performing teams.  Galford emphasizes empowering team members, delegating effectively, and fostering a culture of collaboration and open communication.  This involves providing clear expectations, offering constructive feedback, and celebrating successes.
 
-```mermaid
-graph LR
-    A[Empowerment] --> B(Delegation);
-    B --> C(Open Communication);
-    C --> D(Collaboration);
-    D --> E[High-Performing Team];
-```
+![Building High-Performing Teams. Empowerment; Delegation; Open Communication; Collaboration; High-Performing Team.](diagram-02.svg)
 
 Creating a team environment where individuals feel supported and challenged leads to increased productivity and engagement.  He stresses the importance of recognizing and rewarding contributions, fostering a sense of shared purpose and collective responsibility.
 

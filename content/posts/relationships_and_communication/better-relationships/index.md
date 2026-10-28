@@ -23,19 +23,9 @@ Clear and open communication forms the bedrock of any successful relationship.  
 *   **Active Listening:**  Truly hearing and understanding your partner's perspective without interrupting or formulating a response.
 *   **Non-violent Communication (NVC):** Focusing on expressing your needs and feelings without blaming or judging.
 *   **Empathy:** Attempting to understand your partner's viewpoint, even if you don't agree.
-*   **"I" Statements:** Taking ownership of your feelings and experiences instead of making accusatory statements.
+*   **""I" Statements:** Taking ownership of your feelings and experiences instead of making accusatory statements.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Active Listening);
-    A --> C(NVC);
-    A --> D(Empathy);
-    A --> E["I" Statements];
-    B -- Strong Foundation --> F[Healthy Relationship];
-    C -- Strong Foundation --> F;
-    D -- Strong Foundation --> F;
-    E -- Strong Foundation --> F;
-```
+![Effective Communication: The Cornerstone of Strong Relationships. Self-Awareness; Active Listening; NVC; Empathy; "I" Statements; Healthy Relationship.](diagram-01.svg)
 
 ## Resolving Conflict Constructively
 

@@ -32,15 +32,7 @@ Superforecasters exhibit many key traits that contribute to their success:
 * **Analytical skill:** They are adept at breaking down complex problems into smaller, more manageable parts.
 * **Numerical literacy:** They are comfortable working with probabilities and statistics.
 
-```mermaid
-graph LR
-A[Intellectual Humility] --> B(Open-mindedness);
-B --> C{Curiosity & Learning};
-C --> D(Pragmatism);
-D --> E[Analytical Skill];
-E --> F(Numerical Literacy);
-F --> G((Superforecasting))
-```
+![Key Characteristics of Superforecasters. Intellectual Humility; Open-mindedness; Curiosity & Learning; Pragmatism; Analytical Skill; Numerical Literacy; Superforecasting.](diagram-01.svg)
 
 ##  Strategies for Improving Forecasting Accuracy
 
@@ -57,13 +49,7 @@ The book details many specific strategies adopted by superforecasters:
 
 Superforecasters actively update their beliefs in light of new information.  This doesn't mean abandoning previously held convictions; rather, it means adjusting their probabilities based on the weight of evidence. Bayesian thinking – a statistical method for updating beliefs based on new information – is central to this process.
 
-```mermaid
-graph LR
-A[Prior Belief] --> B(New Evidence);
-B --> C[Updated Belief];
-C --> D(Further Evidence);
-D --> E[Refined Belief];
-```
+![The Importance of Updating Beliefs. Prior Belief; New Evidence; Updated Belief; Further Evidence; Refined Belief.](diagram-02.svg)
 
 
 ##  Breaking Down Complex Problems

@@ -15,20 +15,7 @@ Jocko Willink and Leif Babin's "The Dichotomy of Leadership" isn't just a leader
 The book's central theme revolves around the paradoxical need for both decentralized command (empowering subordinates) and centralized control (maintaining overall mission success). This is represented by the following diagram:
 
 
-```mermaid
-graph LR
-    A[Decentralized Command] --> B(Empowerment, Initiative, Flexibility)
-    A --> C(Risk, Potential for Errors)
-    D[Centralized Control] --> E(Coordination, Unity of Effort, Clear Goals)
-    D --> F(Potential for Bottlenecks, Slow Decision Making)
-    B -- Leads to --> G(Success)
-    E -- Leads to --> G
-    C -- Can lead to --> H(Failure)
-    F -- Can lead to --> H
-    G --> I[Mission Accomplishment]
-    H --> J[Mission Failure]
-
-```
+![The Core Dichotomy:  Decentralized Command and Control. Decentralized Command; Empowerment, Initiative, Flexibility; Risk, Potential for Errors; Centralized Control; Coordination, Unity of Effort, Clear Goals; Potential for Bottlenecks, Slow Decision Making; Success; Failure; Mission Accomplishment; Mission Failure.](diagram-01.svg)
 
 Effective leaders understand when to let their team handle things and when to step in and take control. They don't shy away from either extreme but skillfully navigate between them based on the situation. This requires constant assessment and adaptation.
 

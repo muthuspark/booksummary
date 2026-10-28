@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="415pt" height="103pt" viewBox="0.00 0.00 415.00 103.00" role="img" aria-labelledby="title description">
+<title id="title">The Nature of Reality: Interconnectedness and Non-duality</title><desc id="description">Universe leads to You. You leads to Everything Else. Universe leads to Everything Else.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 85)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-85 397,-85 397,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100.21,-32.08C108.44,-34.1 116.85,-36.16 124.69,-38.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.32,-40.52 131.7,-39.81 125.48,-35.76 124.32,-40.52" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M100.25,-17.18C110.72,-16.69 121.72,-16.25 132,-16 159.52,-15.32 189.58,-15.68 216.58,-16.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="216.68,-18.86 223.75,-16.61 216.82,-13.96 216.68,-18.86" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M192.16,-41.27C199.62,-39.81 208.03,-38.16 216.78,-36.44" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.46,-38.8 223.86,-35.05 216.52,-33.99 217.46,-38.8" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M88,-40C88,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 88,0 88,0 94,0 100,-6 100,-12 100,-12 100,-28 100,-28 100,-34 94,-40 88,-40" />
+<text text-anchor="middle" x="50" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Universe</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M180,-67C180,-67 144,-67 144,-67 138,-67 132,-61 132,-55 132,-55 132,-39 132,-39 132,-33 138,-27 144,-27 144,-27 180,-27 180,-27 186,-27 192,-33 192,-39 192,-39 192,-55 192,-55 192,-61 186,-67 180,-67" />
+<text text-anchor="middle" x="162" y="-42.6" font-family="Georgia" font-size="18.00" fill="#243d36">You</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M367,-40C367,-40 236,-40 236,-40 230,-40 224,-34 224,-28 224,-28 224,-12 224,-12 224,-6 230,0 236,0 236,0 367,0 367,0 373,0 379,-6 379,-12 379,-12 379,-28 379,-28 379,-34 373,-40 367,-40" />
+<text text-anchor="middle" x="301.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Everything Else</text>
+</g>
+</g>
+</svg>

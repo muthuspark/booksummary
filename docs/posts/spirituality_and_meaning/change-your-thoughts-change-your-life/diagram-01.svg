@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270pt" height="312pt" viewBox="0.00 0.00 269.50 312.00" role="img" aria-labelledby="title description">
+<title id="title">Identifying and Releasing Limiting Beliefs</title><desc id="description">Negative Experiences leads to Limiting Beliefs. Limiting Beliefs leads to Self-Sabotaging Behaviors. Self-Sabotaging Behaviors leads to Negative Outcomes. Negative Outcomes leads to Negative Experiences.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 294)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-294 251.5,-294 251.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M118.2,-235.87C111.78,-227.85 104.23,-218.41 97.39,-209.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="99.07,-208.04 92.78,-204.1 95.24,-211.1 99.07,-208.04" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M77.74,-163.63C77.83,-156.34 77.94,-147.78 78.04,-139.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="80.5,-139.22 78.14,-132.19 75.6,-139.15 80.5,-139.22" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M98.67,-71.67C104.43,-63.28 110.66,-54.22 116.24,-46.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.41,-47.28 120.35,-40.12 114.37,-44.5 118.41,-47.28" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M149.02,-40.11C155.43,-49.2 162.14,-60.57 165.5,-72 175.97,-107.66 171.72,-186.34 166.5,-204 163.79,-213.19 158.84,-222.28 153.59,-230.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="151.55,-228.83 149.55,-235.98 155.57,-231.64 151.55,-228.83" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M221.5,-276C221.5,-276 45.5,-276 45.5,-276 39.5,-276 33.5,-270 33.5,-264 33.5,-264 33.5,-248 33.5,-248 33.5,-242 39.5,-236 45.5,-236 45.5,-236 221.5,-236 221.5,-236 227.5,-236 233.5,-242 233.5,-248 233.5,-248 233.5,-264 233.5,-264 233.5,-270 227.5,-276 221.5,-276" />
+<text text-anchor="middle" x="133.5" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Experiences</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-204C143,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 143,-164 143,-164 149,-164 155,-170 155,-176 155,-176 155,-192 155,-192 155,-198 149,-204 143,-204" />
+<text text-anchor="middle" x="77.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Limiting Beliefs</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M142.5,-132C142.5,-132 14.5,-132 14.5,-132 8.5,-132 2.5,-126 2.5,-120 2.5,-120 2.5,-84 2.5,-84 2.5,-78 8.5,-72 14.5,-72 14.5,-72 142.5,-72 142.5,-72 148.5,-72 154.5,-78 154.5,-84 154.5,-84 154.5,-120 154.5,-120 154.5,-126 148.5,-132 142.5,-132" />
+<text text-anchor="middle" x="78.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Sabotaging</text>
+<text text-anchor="middle" x="78.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Behaviors</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M213,-40C213,-40 54,-40 54,-40 48,-40 42,-34 42,-28 42,-28 42,-12 42,-12 42,-6 48,0 54,0 54,0 213,0 213,0 219,0 225,-6 225,-12 225,-12 225,-28 225,-28 225,-34 219,-40 213,-40" />
+<text text-anchor="middle" x="133.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Negative Outcomes</text>
+</g>
+</g>
+</svg>

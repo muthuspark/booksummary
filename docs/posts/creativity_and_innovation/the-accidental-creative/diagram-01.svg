@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="842pt" height="340pt" viewBox="0.00 0.00 841.50 340.00" role="img" aria-labelledby="title description">
+<title id="title">Managing Time and Energy Effectively</title><desc id="description">Identify Peak Performance Times leads to Schedule Demanding Tasks. Time Blocking leads to Schedule Demanding Tasks. Pomodoro Technique leads to Schedule Demanding Tasks. Manage Energy Levels leads to Schedule Demanding Tasks. Schedule Demanding Tasks leads to Increased Productivity &amp; Creativity.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 322)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-322 823.5,-322 823.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M184.31,-243.9C214.15,-234.45 247.37,-223.92 277.69,-214.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="278.58,-216.6 284.52,-212.15 277.1,-211.93 278.58,-216.6" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M376.5,-151.95C376.5,-144.47 376.5,-136.11 376.5,-127.57" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="378.95,-127.37 376.5,-120.37 374.05,-127.37 378.95,-127.37" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M300.07,-253.91C311.56,-243.25 326.22,-229.65 339.62,-217.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="341.42,-218.89 344.88,-212.34 338.08,-215.3 341.42,-218.89" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M453.72,-253.91C442.11,-243.25 427.3,-229.65 413.76,-217.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="415.26,-215.27 408.44,-212.34 411.94,-218.88 415.26,-215.27" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M632.58,-253.91C589.15,-241.89 532.21,-226.12 483.05,-212.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="483.56,-210.11 476.16,-210.6 482.26,-214.83 483.56,-210.11" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-304C173,-304 12,-304 12,-304 6,-304 0,-298 0,-292 0,-292 0,-256 0,-256 0,-250 6,-244 12,-244 12,-244 173,-244 173,-244 179,-244 185,-250 185,-256 185,-256 185,-292 185,-292 185,-298 179,-304 173,-304" />
+<text text-anchor="middle" x="92.5" y="-279.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Peak</text>
+<text text-anchor="middle" x="92.5" y="-259.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance Times</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M464,-212C464,-212 289,-212 289,-212 283,-212 277,-206 277,-200 277,-200 277,-164 277,-164 277,-158 283,-152 289,-152 289,-152 464,-152 464,-152 470,-152 476,-158 476,-164 476,-164 476,-200 476,-200 476,-206 470,-212 464,-212" />
+<text text-anchor="middle" x="376.5" y="-187.6" font-family="Georgia" font-size="18.00" fill="#243d36">Schedule Demanding</text>
+<text text-anchor="middle" x="376.5" y="-167.6" font-family="Georgia" font-size="18.00" fill="#243d36">Tasks</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M339.5,-294C339.5,-294 219.5,-294 219.5,-294 213.5,-294 207.5,-288 207.5,-282 207.5,-282 207.5,-266 207.5,-266 207.5,-260 213.5,-254 219.5,-254 219.5,-254 339.5,-254 339.5,-254 345.5,-254 351.5,-260 351.5,-266 351.5,-266 351.5,-282 351.5,-282 351.5,-288 345.5,-294 339.5,-294" />
+<text text-anchor="middle" x="279.5" y="-269.6" font-family="Georgia" font-size="18.00" fill="#243d36">Time Blocking</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M563,-294C563,-294 386,-294 386,-294 380,-294 374,-288 374,-282 374,-282 374,-266 374,-266 374,-260 380,-254 386,-254 386,-254 563,-254 563,-254 569,-254 575,-260 575,-266 575,-266 575,-282 575,-282 575,-288 569,-294 563,-294" />
+<text text-anchor="middle" x="474.5" y="-269.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pomodoro Technique</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M793.5,-294C793.5,-294 609.5,-294 609.5,-294 603.5,-294 597.5,-288 597.5,-282 597.5,-282 597.5,-266 597.5,-266 597.5,-260 603.5,-254 609.5,-254 609.5,-254 793.5,-254 793.5,-254 799.5,-254 805.5,-260 805.5,-266 805.5,-266 805.5,-282 805.5,-282 805.5,-288 799.5,-294 793.5,-294" />
+<text text-anchor="middle" x="701.5" y="-269.6" font-family="Georgia" font-size="18.00" fill="#243d36">Manage Energy Levels</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="376.5,-120 167.5,-60 376.5,0 585.5,-60 376.5,-120" />
+<text text-anchor="middle" x="376.5" y="-65.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Productivity</text>
+<text text-anchor="middle" x="376.5" y="-45.6" font-family="Georgia" font-size="18.00" fill="#243d36">&amp; Creativity</text>
+</g>
+</g>
+</svg>

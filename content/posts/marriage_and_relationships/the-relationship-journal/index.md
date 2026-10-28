@@ -14,16 +14,7 @@ Catherine Greer's "The Relationship Journal" isn't just about romantic relations
 
 The book heavily emphasizes identifying recurring patterns in your relationships. Are you consistently drawn to certain types of people? Do you find yourself repeating similar conflicts or experiencing similar emotional responses in different relationships? By analyzing past experiences through journal prompts, readers can uncover deeply ingrained patterns that might be hindering their ability to form healthy and fulfilling connections. This process is for breaking free from negative cycles and building better relationships in the future.
 
-```mermaid
-graph LR
-A[Past Relationships] --> B(Identify Patterns);
-B --> C{Recurring Conflicts?};
-C -- Yes --> D(Analyze Conflict Dynamics);
-C -- No --> E(Identify Positive Aspects);
-D --> F[Understanding Your Role];
-E --> F;
-F --> G(Develop New Strategies);
-```
+![Identifying Your Relationship Patterns. Past Relationships; Identify Patterns; Recurring Conflicts?; Analyze Conflict Dynamics; Identify Positive Aspects; Understanding Your Role; Develop New Strategies.](diagram-01.svg)
 
 ## Communication Styles and Their Impact
 
@@ -66,17 +57,7 @@ Building trust and intimacy takes time and effort. The book explores the element
 
 Greer emphasizes that building strong, lasting relationships is an ongoing process requiring consistent effort and commitment. The book encourages readers to continually assess their relationships, identify areas for improvement, and adjust their approaches as needed. She emphasizes the importance of celebrating successes and learning from challenges.
 
-```mermaid
-graph LR
-A[Self-Awareness] --> B(Identify Patterns);
-B --> C(Understand Communication);
-C --> D(Set Boundaries);
-D --> E(Resolve Conflicts);
-E --> F(Practice Self-Compassion);
-F --> G(Prioritize Self-Care);
-G --> H(Build Trust & Intimacy);
-H --> I(Long-Term Growth);
-```
+![Long-Term Relationship Growth. Self-Awareness; Identify Patterns; Understand Communication; Set Boundaries; Resolve Conflicts; Practice Self-Compassion; Prioritize Self-Care; Build Trust & Intimacy; Long-Term Growth.](diagram-02.svg)
 
 ## Actionable Strategies
 

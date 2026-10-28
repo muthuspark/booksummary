@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406pt" height="476pt" viewBox="0.00 0.00 406.00 476.00" role="img" aria-labelledby="title description">
+<title id="title">The Six-Step Process</title><desc id="description">Clarify Goals leads to Identify Options. Identify Options leads to Gather Information. Gather Information leads to Analyze Options. Analyze Options leads to Make a Choice. Make a Choice leads to Implement &amp; Monitor.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 458)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-458 388,-458 388,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-399.87C185,-392.31 185,-383.49 185,-375.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-375.1 185,-368.1 182.55,-375.1 187.45,-375.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-327.91C185,-320.58 185,-311.86 185,-303.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-303.07 185,-296.07 182.55,-303.07 187.45,-303.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-215.79C185,-207.54 185,-199.04 185,-191.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-191.09 185,-184.09 182.55,-191.09 187.45,-191.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-143.87C185,-136.31 185,-127.49 185,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-119.1 185,-112.1 182.55,-119.1 187.45,-119.1" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M185,-71.87C185,-64.31 185,-55.49 185,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.45,-47.1 185,-40.1 182.55,-47.1 187.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M238.5,-440C238.5,-440 131.5,-440 131.5,-440 125.5,-440 119.5,-434 119.5,-428 119.5,-428 119.5,-412 119.5,-412 119.5,-406 125.5,-400 131.5,-400 131.5,-400 238.5,-400 238.5,-400 244.5,-400 250.5,-406 250.5,-412 250.5,-412 250.5,-428 250.5,-428 250.5,-434 244.5,-440 238.5,-440" />
+<text text-anchor="middle" x="185" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Clarify Goals</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252.5,-368C252.5,-368 117.5,-368 117.5,-368 111.5,-368 105.5,-362 105.5,-356 105.5,-356 105.5,-340 105.5,-340 105.5,-334 111.5,-328 117.5,-328 117.5,-328 252.5,-328 252.5,-328 258.5,-328 264.5,-334 264.5,-340 264.5,-340 264.5,-356 264.5,-356 264.5,-362 258.5,-368 252.5,-368" />
+<text text-anchor="middle" x="185" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Options</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="185,-296 0,-256 185,-216 370,-256 185,-296" />
+<text text-anchor="middle" x="185" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Information</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252.5,-184C252.5,-184 117.5,-184 117.5,-184 111.5,-184 105.5,-178 105.5,-172 105.5,-172 105.5,-156 105.5,-156 105.5,-150 111.5,-144 117.5,-144 117.5,-144 252.5,-144 252.5,-144 258.5,-144 264.5,-150 264.5,-156 264.5,-156 264.5,-172 264.5,-172 264.5,-178 258.5,-184 252.5,-184" />
+<text text-anchor="middle" x="185" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analyze Options</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M245.5,-112C245.5,-112 124.5,-112 124.5,-112 118.5,-112 112.5,-106 112.5,-100 112.5,-100 112.5,-84 112.5,-84 112.5,-78 118.5,-72 124.5,-72 124.5,-72 245.5,-72 245.5,-72 251.5,-72 257.5,-78 257.5,-84 257.5,-84 257.5,-100 257.5,-100 257.5,-106 251.5,-112 245.5,-112" />
+<text text-anchor="middle" x="185" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Make a Choice</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M275,-40C275,-40 95,-40 95,-40 89,-40 83,-34 83,-28 83,-28 83,-12 83,-12 83,-6 89,0 95,0 95,0 275,0 275,0 281,0 287,-6 287,-12 287,-12 287,-28 287,-28 287,-34 281,-40 275,-40" />
+<text text-anchor="middle" x="185" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implement &amp; Monitor</text>
+</g>
+</g>
+</svg>

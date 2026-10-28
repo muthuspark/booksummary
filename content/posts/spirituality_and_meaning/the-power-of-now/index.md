@@ -14,15 +14,7 @@ Eckhart Tolle's "The Power of Now" centers on the transformative power of living
 
 The book extensively explores the nature of the ego. It's not the self, but a mechanism of the mind that creates a sense of separation and perpetuates suffering.  It thrives on negativity, drama, and the constant need for validation. Tolle uses the metaphor of a "pain body," a subconscious energy field that feeds on negative emotions and keeps us trapped in repetitive patterns of suffering. Recognizing this pain body's influence is the first step towards transcending it.
 
-```mermaid
-graph LR
-    A[Ego] --> B(Pain Body);
-    B --> C{Suffering};
-    A --> D(Fear of Future);
-    A --> E(Attachment to Past);
-    A --> F(Self-Criticism);
-    C --> G[Discontentment];
-```
+![Identifying and Transcending the Ego. Ego; Pain Body; Suffering; Fear of Future; Attachment to Past; Self-Criticism; Discontentment.](diagram-01.svg)
 
 # The Present Moment as the Only Reality
 
@@ -63,15 +55,7 @@ While not strictly religious, "The Power of Now" touches upon spiritual aspects.
 
 The ego plays a significant role in relationships, creating misunderstandings and conflict.  Tolle suggests that healthier relationships emerge from a place of presence and acceptance. By focusing on the present moment in interactions, we move beyond judgments and expectations, fostering deeper connections.
 
-```mermaid
-graph LR
-    A[Ego in Relationships] --> B(Judgement);
-    A --> C(Expectations);
-    A --> D(Conflict);
-    E[Presence in Relationships] --> F(Acceptance);
-    E --> G(Understanding);
-    E --> H(Connection);
-```
+![The Transformation of Relationships. Ego in Relationships; Judgement; Expectations; Conflict; Presence in Relationships; Acceptance; Understanding; Connection.](diagram-02.svg)
 
 
 # Overcoming Resistance and Finding Inner Peace

@@ -16,17 +16,7 @@ A central theme is the importance of the brain's executive functions – the hig
 
 He emphasizes the need for **cognitive flexibility**, the ability to shift between tasks and perspectives.  This is fostered by engaging in mentally challenging activities like learning new skills, solving puzzles, and playing strategic games.
 
-```mermaid
-graph LR
-    A[Executive Functions] --> B(Planning);
-    A --> C(Working Memory);
-    A --> D(Attention);
-    A --> E(Self-Monitoring);
-    B --> F(Goal Setting);
-    C --> G(Information Retention);
-    D --> H(Focus);
-    E --> I(Self-Regulation);
-```
+![The Brain's Executive Functions:  Managing Your Mental Resources. Executive Functions; Planning; Working Memory; Attention; Self-Monitoring; Goal Setting; Information Retention; Focus; Self-Regulation.](diagram-01.svg)
 
 ## Enhancing Memory and Learning: Strategies for Knowledge Acquisition
 

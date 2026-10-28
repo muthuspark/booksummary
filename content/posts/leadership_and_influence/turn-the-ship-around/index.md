@@ -14,13 +14,7 @@ L. David Marquet's "Turn the Ship Around!" chronicles his transformative leaders
 
 The central strategy Marquet implemented was a shift to "intent-based leadership."  Instead of providing detailed instructions ("Do this, do that"), he communicated the desired outcome or "intent" ("We need to achieve X by Y time").  This empowers subordinates to find their own solutions, fostering initiative, creativity, and ownership.  This approach recognizes that those closest to the problem often possess the best understanding of how to solve it.
 
-```mermaid
-graph LR
-    A[Commander] --> B(Intent);
-    B --> C{Crew Members};
-    C --> D[Solutions & Actions];
-    D --> E[Desired Outcome];
-```
+![The Power of Intent-Based Leadership. Commander; Intent; Crew Members; Solutions & Actions; Desired Outcome.](diagram-01.svg)
 
 This delegation of authority fosters a sense of responsibility and encourages problem-solving skills within the team.  It acknowledges that mistakes will happen, but these are learning opportunities rather than failures to be punished.
 

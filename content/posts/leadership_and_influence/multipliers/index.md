@@ -15,13 +15,7 @@ Liz Wiseman's "Multipliers: How the Best Leaders Make Everyone Smarter" explores
 
 Wiseman identifies two fundamental leadership styles: Multipliers and Diminishers.  Multipliers are leaders who identify the talent and potential within their teams and create an environment where everyone feels empowered to contribute their best work.  Conversely, Diminishers, inadvertently or intentionally, stifle the intellect and creativity of their team members, leaving individuals feeling depleted and less engaged.
 
-```mermaid
-graph LR
-    A[Leader] --> B(Multiplier);
-    A --> C(Diminisher);
-    B --> D{Team Thrives};
-    C --> E{Team Suffers};
-```
+![Understanding Multipliers and Diminishers. Leader; Multiplier; Diminisher; Team Thrives; Team Suffers.](diagram-01.svg)
 
 
 ## The Five Disciplines of Multipliers

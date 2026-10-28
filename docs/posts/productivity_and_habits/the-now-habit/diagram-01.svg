@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="482pt" height="628pt" viewBox="0.00 0.00 482.00 628.00" role="img" aria-labelledby="title description">
+<title id="title">The Three-Part Approach to Task Completion:  A Structured Framework</title><desc id="description">Overwhelming Task leads to Break down into mini-tasks. Break down into mini-tasks leads to 15-Minute Work Session. 15-Minute Work Session leads to Review Progress. Review Progress leads to Continue or Pause. Continue or Pause leads to Positive Self-Talk. Positive Self-Talk leads to Completion/Next Mini-Task.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 610)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-610 464,-610 464,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223,-551.63C223,-544.34 223,-535.78 223,-527.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.45,-527.19 223,-520.19 220.55,-527.19 225.45,-527.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223,-459.81C223,-452.06 223,-443.5 223,-435.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.45,-435.09 223,-428.09 220.55,-435.09 225.45,-435.09" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223,-347.79C223,-339.54 223,-331.04 223,-323.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.45,-323.09 223,-316.09 220.55,-323.09 225.45,-323.09" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223,-275.91C223,-268.58 223,-259.86 223,-251.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.45,-251.07 223,-244.07 220.55,-251.07 225.45,-251.07" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223,-163.79C223,-155.54 223,-147.04 223,-139.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.45,-139.09 223,-132.09 220.55,-139.09 225.45,-139.09" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223,-91.63C223,-84.34 223,-75.78 223,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="225.45,-67.19 223,-60.19 220.55,-67.19 225.45,-67.19" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M305,-592C305,-592 141,-592 141,-592 135,-592 129,-586 129,-580 129,-580 129,-564 129,-564 129,-558 135,-552 141,-552 141,-552 305,-552 305,-552 311,-552 317,-558 317,-564 317,-564 317,-580 317,-580 317,-586 311,-592 305,-592" />
+<text text-anchor="middle" x="223" y="-567.6" font-family="Georgia" font-size="18.00" fill="#243d36">Overwhelming Task</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291.5,-520C291.5,-520 154.5,-520 154.5,-520 148.5,-520 142.5,-514 142.5,-508 142.5,-508 142.5,-472 142.5,-472 142.5,-466 148.5,-460 154.5,-460 154.5,-460 291.5,-460 291.5,-460 297.5,-460 303.5,-466 303.5,-472 303.5,-472 303.5,-508 303.5,-508 303.5,-514 297.5,-520 291.5,-520" />
+<text text-anchor="middle" x="223" y="-495.6" font-family="Georgia" font-size="18.00" fill="#243d36">Break down into</text>
+<text text-anchor="middle" x="223" y="-475.6" font-family="Georgia" font-size="18.00" fill="#243d36">mini-tasks</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="223,-428 0,-388 223,-348 446,-388 223,-428" />
+<text text-anchor="middle" x="223" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">15-Minute Work Session</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M291.5,-316C291.5,-316 154.5,-316 154.5,-316 148.5,-316 142.5,-310 142.5,-304 142.5,-304 142.5,-288 142.5,-288 142.5,-282 148.5,-276 154.5,-276 154.5,-276 291.5,-276 291.5,-276 297.5,-276 303.5,-282 303.5,-288 303.5,-288 303.5,-304 303.5,-304 303.5,-310 297.5,-316 291.5,-316" />
+<text text-anchor="middle" x="223" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Review Progress</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="223,-244 48,-204 223,-164 398,-204 223,-244" />
+<text text-anchor="middle" x="223" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Continue or Pause</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M295,-132C295,-132 151,-132 151,-132 145,-132 139,-126 139,-120 139,-120 139,-104 139,-104 139,-98 145,-92 151,-92 151,-92 295,-92 295,-92 301,-92 307,-98 307,-104 307,-104 307,-120 307,-120 307,-126 301,-132 295,-132" />
+<text text-anchor="middle" x="223" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Positive Self-Talk</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M294.5,-60C294.5,-60 151.5,-60 151.5,-60 145.5,-60 139.5,-54 139.5,-48 139.5,-48 139.5,-12 139.5,-12 139.5,-6 145.5,0 151.5,0 151.5,0 294.5,0 294.5,0 300.5,0 306.5,-6 306.5,-12 306.5,-12 306.5,-48 306.5,-48 306.5,-54 300.5,-60 294.5,-60" />
+<text text-anchor="middle" x="223" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Completion/Next</text>
+<text text-anchor="middle" x="223" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mini-Task</text>
+</g>
+</g>
+</svg>

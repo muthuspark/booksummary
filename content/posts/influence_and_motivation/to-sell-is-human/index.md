@@ -32,15 +32,7 @@ Pink outlines six key principles for persuasive success in the modern world:
 
 6. **Finding the "Yes":**  Instead of focusing solely on getting a "yes" to a specific request, focus on identifying shared goals and values. Building consensus around a shared purpose makes achieving specific objectives easier.
 
-```mermaid
-graph LR
-    A[Attunement] --> B(Buoyancy);
-    A --> C(Clarity);
-    B --> D(Conviction);
-    C --> E(Storytelling);
-    D --> F(Finding the Yes);
-    E --> F;
-```
+![The Six Success Principles. Attunement; Buoyancy; Clarity; Conviction; Storytelling; Finding the Yes.](diagram-01.svg)
 
 #  The Importance of Attunement
 

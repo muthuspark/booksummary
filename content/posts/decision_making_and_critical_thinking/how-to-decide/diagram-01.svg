@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="697pt" height="384pt" viewBox="0.00 0.00 697.00 384.00" role="img" aria-labelledby="title description">
+<title id="title">Thinking in Ranges, Not Points</title><desc id="description">Decision leads to Outcome. Outcome leads to Resulting Bias: Good Decision (Good). Outcome leads to Resulting Bias: Bad Decision (Bad). Decision Quality leads to Process. Process leads to Thorough Analysis (dashed connection). Process leads to Risk Assessment (dashed connection). Process leads to Alternative Consideration (dashed connection).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 366)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-366 679,-366 679,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M129.72,-71C146.81,-71 166.78,-71 186.81,-71" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.89,-73.45 193.89,-71 186.88,-68.55 186.89,-73.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M368.33,-82.15C395.82,-86.39 427.71,-91.3 457.58,-95.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="457.43,-98.36 464.72,-97.01 458.18,-93.52 457.43,-98.36" />
+<text text-anchor="middle" x="430.5" y="-99" font-family="Georgia" font-size="15.00" fill="#405b50">Good</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M368.33,-59.85C397.51,-55.35 431.65,-50.09 463.06,-45.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="463.6,-47.65 470.14,-44.16 462.85,-42.8 463.6,-47.65" />
+<text text-anchor="middle" x="430.5" y="-58" font-family="Georgia" font-size="15.00" fill="#405b50">Bad</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M161.23,-266C173.44,-266 186.15,-266 198.65,-266" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.98,-268.45 205.98,-266 198.98,-263.55 198.98,-268.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M354.05,-279.53C387.65,-287.36 430.73,-297.4 468.96,-306.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="468.66,-308.76 476.03,-307.96 469.77,-303.99 468.66,-308.76" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M384.2,-266C413.34,-266 445.73,-266 474.79,-266" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="475.1,-268.45 482.1,-266 475.1,-263.55 475.1,-268.45" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" stroke-dasharray="5,2" d="M351.12,-251.08C390.12,-240.53 442.91,-226.23 485.92,-214.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="486.62,-216.94 492.74,-212.75 485.34,-212.21 486.62,-216.94" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M117.5,-91C117.5,-91 43.5,-91 43.5,-91 37.5,-91 31.5,-85 31.5,-79 31.5,-79 31.5,-63 31.5,-63 31.5,-57 37.5,-51 43.5,-51 43.5,-51 117.5,-51 117.5,-51 123.5,-51 129.5,-57 129.5,-63 129.5,-63 129.5,-79 129.5,-79 129.5,-85 123.5,-91 117.5,-91" />
+<text text-anchor="middle" x="80.5" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision</text>
+</g>
+
+<g id="node2" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="295,-111 194,-71 295,-31 396,-71 295,-111" />
+<text text-anchor="middle" x="295" y="-66.6" font-family="Georgia" font-size="18.00" fill="#243d36">Outcome</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M649,-142C649,-142 477,-142 477,-142 471,-142 465,-136 465,-130 465,-130 465,-94 465,-94 465,-88 471,-82 477,-82 477,-82 649,-82 649,-82 655,-82 661,-88 661,-94 661,-94 661,-130 661,-130 661,-136 655,-142 649,-142" />
+<text text-anchor="middle" x="563" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resulting Bias: Good</text>
+<text text-anchor="middle" x="563" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M643.5,-60C643.5,-60 482.5,-60 482.5,-60 476.5,-60 470.5,-54 470.5,-48 470.5,-48 470.5,-12 470.5,-12 470.5,-6 476.5,0 482.5,0 482.5,0 643.5,0 643.5,0 649.5,0 655.5,-6 655.5,-12 655.5,-12 655.5,-48 655.5,-48 655.5,-54 649.5,-60 643.5,-60" />
+<text text-anchor="middle" x="563" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resulting Bias: Bad</text>
+<text text-anchor="middle" x="563" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M149,-286C149,-286 12,-286 12,-286 6,-286 0,-280 0,-274 0,-274 0,-258 0,-258 0,-252 6,-246 12,-246 12,-246 149,-246 149,-246 155,-246 161,-252 161,-258 161,-258 161,-274 161,-274 161,-280 155,-286 149,-286" />
+<text text-anchor="middle" x="80.5" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Quality</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="295,-306 206,-266 295,-226 384,-266 295,-306" />
+<text text-anchor="middle" x="295" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">Process</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M640,-348C640,-348 486,-348 486,-348 480,-348 474,-342 474,-336 474,-336 474,-320 474,-320 474,-314 480,-308 486,-308 486,-308 640,-308 640,-308 646,-308 652,-314 652,-320 652,-320 652,-336 652,-336 652,-342 646,-348 640,-348" />
+<text text-anchor="middle" x="563" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Thorough Analysis</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M631.5,-286C631.5,-286 494.5,-286 494.5,-286 488.5,-286 482.5,-280 482.5,-274 482.5,-274 482.5,-258 482.5,-258 482.5,-252 488.5,-246 494.5,-246 494.5,-246 631.5,-246 631.5,-246 637.5,-246 643.5,-252 643.5,-258 643.5,-258 643.5,-274 643.5,-274 643.5,-280 637.5,-286 631.5,-286" />
+<text text-anchor="middle" x="563" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk Assessment</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M621,-224C621,-224 505,-224 505,-224 499,-224 493,-218 493,-212 493,-212 493,-176 493,-176 493,-170 499,-164 505,-164 505,-164 621,-164 621,-164 627,-164 633,-170 633,-176 633,-176 633,-212 633,-212 633,-218 627,-224 621,-224" />
+<text text-anchor="middle" x="563" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Alternative</text>
+<text text-anchor="middle" x="563" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consideration</text>
+</g>
+</g>
+</svg>

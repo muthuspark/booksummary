@@ -15,14 +15,7 @@ Scott Berkun's "The Myths of Innovation" challenges widely held beliefs about cr
 
 The book forcefully refutes the myth of the solitary inventor working in isolation.  Berkun emphasizes the collaborative nature of innovation.  Breakthroughs rarely emerge from a single mind; instead, they are the product of teamwork, shared knowledge, and iterative refinement.
 
-```mermaid
-graph LR
-    A[Individual] --> B(Collaboration);
-    B --> C{Shared Knowledge};
-    C --> D[Innovation];
-    D --> E(Iterative Refinement);
-    E --> F[Successful Outcome];
-```
+![The Myth of the Lone Genius. Individual; Collaboration; Shared Knowledge; Innovation; Iterative Refinement; Successful Outcome.](diagram-01.svg)
 
 This highlights the importance of building strong networks and fostering a collaborative environment to drive innovation.  Actively seeking various viewpoints and engaging in constructive feedback loops are key takeaways.
 
@@ -38,15 +31,7 @@ The "eureka" moment, when it happens, is often the culmination of extensive prio
 
 The book challenges the linear model of innovation – a straightforward progression from idea to implementation.  It highlights the iterative and often messy nature of the process, where setbacks, detours, and revisions are common. This emphasizes a need for flexibility, adaptation, and the ability to pivot when necessary.
 
-```mermaid
-graph LR
-    A[Idea] --> B(Experimentation);
-    B --> C{Failure};
-    C --> D(Refinement);
-    D --> E(Iteration);
-    E --> F(Success);
-    B --> G(Success);
-```
+![The Myth of Innovation as a Linear Process. Idea; Experimentation; Failure; Refinement; Iteration; Success; Success.](diagram-02.svg)
 
 Understanding this non-linear nature prepares individuals to navigate the complexities of innovation more effectively, managing expectations and embracing the unexpected turns the process inevitably takes.
 

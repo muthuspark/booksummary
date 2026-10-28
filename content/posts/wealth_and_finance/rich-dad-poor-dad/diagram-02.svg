@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430pt" height="292pt" viewBox="0.00 0.00 429.50 292.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Education:  Continuous Learning and Financial Intelligence</title><desc id="description">Formal Education leads to Basic Knowledge. Financial Literacy leads to Financial Intelligence. Continuous Learning leads to Financial Literacy. Financial Intelligence leads to Wealth Building.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 411.5,-274 411.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86.5,-215.87C86.5,-208.31 86.5,-199.49 86.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="88.95,-191.1 86.5,-184.1 84.05,-191.1 88.95,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M293.5,-143.87C293.5,-136.31 293.5,-127.49 293.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.95,-119.1 293.5,-112.1 291.05,-119.1 295.95,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M293.5,-71.87C293.5,-64.31 293.5,-55.49 293.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.95,-47.1 293.5,-40.1 291.05,-47.1 295.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M293.5,-215.87C293.5,-208.31 293.5,-199.49 293.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="295.95,-191.1 293.5,-184.1 291.05,-191.1 295.95,-191.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161,-256C161,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 161,-216 161,-216 167,-216 173,-222 173,-228 173,-228 173,-244 173,-244 173,-250 167,-256 161,-256" />
+<text text-anchor="middle" x="86.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Formal Education</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M156.5,-184C156.5,-184 16.5,-184 16.5,-184 10.5,-184 4.5,-178 4.5,-172 4.5,-172 4.5,-156 4.5,-156 4.5,-150 10.5,-144 16.5,-144 16.5,-144 156.5,-144 156.5,-144 162.5,-144 168.5,-150 168.5,-156 168.5,-156 168.5,-172 168.5,-172 168.5,-178 162.5,-184 156.5,-184" />
+<text text-anchor="middle" x="86.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Basic Knowledge</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M367,-184C367,-184 220,-184 220,-184 214,-184 208,-178 208,-172 208,-172 208,-156 208,-156 208,-150 214,-144 220,-144 220,-144 367,-144 367,-144 373,-144 379,-150 379,-156 379,-156 379,-172 379,-172 379,-178 373,-184 367,-184" />
+<text text-anchor="middle" x="293.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Literacy</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M381.5,-112C381.5,-112 205.5,-112 205.5,-112 199.5,-112 193.5,-106 193.5,-100 193.5,-100 193.5,-84 193.5,-84 193.5,-78 199.5,-72 205.5,-72 205.5,-72 381.5,-72 381.5,-72 387.5,-72 393.5,-78 393.5,-84 393.5,-84 393.5,-100 393.5,-100 393.5,-106 387.5,-112 381.5,-112" />
+<text text-anchor="middle" x="293.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Financial Intelligence</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M379.5,-256C379.5,-256 207.5,-256 207.5,-256 201.5,-256 195.5,-250 195.5,-244 195.5,-244 195.5,-228 195.5,-228 195.5,-222 201.5,-216 207.5,-216 207.5,-216 379.5,-216 379.5,-216 385.5,-216 391.5,-222 391.5,-228 391.5,-228 391.5,-244 391.5,-244 391.5,-250 385.5,-256 379.5,-256" />
+<text text-anchor="middle" x="293.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Continuous Learning</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M360.5,-40C360.5,-40 226.5,-40 226.5,-40 220.5,-40 214.5,-34 214.5,-28 214.5,-28 214.5,-12 214.5,-12 214.5,-6 220.5,0 226.5,0 226.5,0 360.5,0 360.5,0 366.5,0 372.5,-6 372.5,-12 372.5,-12 372.5,-28 372.5,-28 372.5,-34 366.5,-40 360.5,-40" />
+<text text-anchor="middle" x="293.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Wealth Building</text>
+</g>
+</g>
+</svg>

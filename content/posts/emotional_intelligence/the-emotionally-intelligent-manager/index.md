@@ -23,12 +23,7 @@ The book structures its approach around the four branches of emotional intellige
 
 4. **Managing Emotions:** This is about regulating one's own emotions and helping others to manage theirs. This includes self-control, stress management, and the ability to influence the emotional climate of the workplace.
 
-```mermaid
-graph LR
-A[Perceiving Emotions] --> B(Using Emotions to Facilitate Thought);
-B --> C[Understanding Emotions];
-C --> D(Managing Emotions);
-```
+![The Four Branches of Emotional Intelligence. Perceiving Emotions; Using Emotions to Facilitate Thought; Understanding Emotions; Managing Emotions.](diagram-01.svg)
 
 # Self-Awareness: The Foundation of EQ
 

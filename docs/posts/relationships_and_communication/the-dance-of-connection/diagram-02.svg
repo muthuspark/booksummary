@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="608pt" height="158pt" viewBox="0.00 0.00 608.00 158.00" role="img" aria-labelledby="title description">
+<title id="title">Developing Effective Communication</title><desc id="description">Assertive Communication leads to Healthy Relationship. Active Listening leads to Healthy Relationship. Healthy Relationship leads to Mutual Respect.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 140)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-140 590,-140 590,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.08,-78.59C164.16,-77.19 172.47,-75.74 180.8,-74.3" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="181.32,-76.69 187.79,-73.08 180.48,-71.86 181.32,-76.69" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M386.17,-56C394.35,-56 402.56,-56 410.6,-56" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="410.94,-58.45 417.94,-56 410.94,-53.55 410.94,-58.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M156.08,-33.41C164.16,-34.81 172.47,-36.26 180.8,-37.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="180.48,-40.14 187.79,-38.92 181.32,-35.31 180.48,-40.14" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M144,-122C144,-122 12,-122 12,-122 6,-122 0,-116 0,-110 0,-110 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 144,-62 144,-62 150,-62 156,-68 156,-74 156,-74 156,-110 156,-110 156,-116 150,-122 144,-122" />
+<text text-anchor="middle" x="78" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assertive</text>
+<text text-anchor="middle" x="78" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Communication</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M374,-76C374,-76 200,-76 200,-76 194,-76 188,-70 188,-64 188,-64 188,-48 188,-48 188,-42 194,-36 200,-36 200,-36 374,-36 374,-36 380,-36 386,-42 386,-48 386,-48 386,-64 386,-64 386,-70 380,-76 374,-76" />
+<text text-anchor="middle" x="287" y="-51.6" font-family="Georgia" font-size="18.00" fill="#243d36">Healthy Relationship</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M144,-40C144,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 144,0 144,0 150,0 156,-6 156,-12 156,-12 156,-28 156,-28 156,-34 150,-40 144,-40" />
+<text text-anchor="middle" x="78" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M560,-76C560,-76 430,-76 430,-76 424,-76 418,-70 418,-64 418,-64 418,-48 418,-48 418,-42 424,-36 430,-36 430,-36 560,-36 560,-36 566,-36 572,-42 572,-48 572,-48 572,-64 572,-64 572,-70 566,-76 560,-76" />
+<text text-anchor="middle" x="495" y="-51.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mutual Respect</text>
+</g>
+</g>
+</svg>

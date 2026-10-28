@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="598pt" height="311pt" viewBox="0.00 0.00 598.00 311.00" role="img" aria-labelledby="title description">
+<title id="title">The Power of Shaping the Path</title><desc id="description">Rider (Rational) leads to Planning &amp; Strategy. Elephant (Emotional) leads to Motivation &amp; Drive. Path leads to Reduce Friction. Path leads to Increase Motivation. Path leads to Remove Obstacles. Planning &amp; Strategy leads to Path (Requires). Motivation &amp; Drive leads to Path (Requires).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 293)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-293 580,-293 580,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M169,-234.97C169,-227.09 169,-217.82 169,-209.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.45,-209.08 169,-202.08 166.55,-209.08 171.45,-209.08" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M191.6,-161.91C207.03,-148.88 227.58,-131.52 244.04,-117.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="245.68,-119.44 249.45,-113.05 242.52,-115.69 245.68,-119.44" />
+<text text-anchor="middle" x="260.5" y="-134" font-family="Georgia" font-size="15.00" fill="#405b50">Requires</text>
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M376,-234.97C376,-227.09 376,-217.82 376,-209.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="378.45,-209.08 376,-202.08 373.55,-209.08 378.45,-209.08" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M353.18,-161.91C337.6,-148.88 316.85,-131.52 300.23,-117.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="301.71,-115.66 294.77,-113.05 298.57,-119.42 301.71,-115.66" />
+<text text-anchor="middle" x="364.5" y="-134" font-family="Georgia" font-size="15.00" fill="#405b50">Requires</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239.09,-79.96C211.12,-69.72 170.28,-54.77 136.72,-42.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="137.52,-40.18 130.11,-40.07 135.84,-44.78 137.52,-40.18" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M272,-72.97C272,-65.09 272,-55.82 272,-47.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="274.45,-47.08 272,-40.08 269.55,-47.08 274.45,-47.08" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M304.62,-80.59C333.83,-70.38 377.45,-55.12 413.24,-42.6" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="414.49,-44.76 420.29,-40.14 412.87,-40.13 414.49,-44.76" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M236.5,-275C236.5,-275 101.5,-275 101.5,-275 95.5,-275 89.5,-269 89.5,-263 89.5,-263 89.5,-247 89.5,-247 89.5,-241 95.5,-235 101.5,-235 101.5,-235 236.5,-235 236.5,-235 242.5,-235 248.5,-241 248.5,-247 248.5,-247 248.5,-263 248.5,-263 248.5,-269 242.5,-275 236.5,-275" />
+<text text-anchor="middle" x="169" y="-250.6" font-family="Georgia" font-size="18.00" fill="#243d36">Rider (Rational)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M250.5,-202C250.5,-202 87.5,-202 87.5,-202 81.5,-202 75.5,-196 75.5,-190 75.5,-190 75.5,-174 75.5,-174 75.5,-168 81.5,-162 87.5,-162 87.5,-162 250.5,-162 250.5,-162 256.5,-162 262.5,-168 262.5,-174 262.5,-174 262.5,-190 262.5,-190 262.5,-196 256.5,-202 250.5,-202" />
+<text text-anchor="middle" x="169" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Planning &amp; Strategy</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M465.5,-275C465.5,-275 286.5,-275 286.5,-275 280.5,-275 274.5,-269 274.5,-263 274.5,-263 274.5,-247 274.5,-247 274.5,-241 280.5,-235 286.5,-235 286.5,-235 465.5,-235 465.5,-235 471.5,-235 477.5,-241 477.5,-247 477.5,-247 477.5,-263 477.5,-263 477.5,-269 471.5,-275 465.5,-275" />
+<text text-anchor="middle" x="376" y="-250.6" font-family="Georgia" font-size="18.00" fill="#243d36">Elephant (Emotional)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M455,-202C455,-202 297,-202 297,-202 291,-202 285,-196 285,-190 285,-190 285,-174 285,-174 285,-168 291,-162 297,-162 297,-162 455,-162 455,-162 461,-162 467,-168 467,-174 467,-174 467,-190 467,-190 467,-196 461,-202 455,-202" />
+<text text-anchor="middle" x="376" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Motivation &amp; Drive</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M292.5,-113C292.5,-113 251.5,-113 251.5,-113 245.5,-113 239.5,-107 239.5,-101 239.5,-101 239.5,-85 239.5,-85 239.5,-79 245.5,-73 251.5,-73 251.5,-73 292.5,-73 292.5,-73 298.5,-73 304.5,-79 304.5,-85 304.5,-85 304.5,-101 304.5,-101 304.5,-107 298.5,-113 292.5,-113" />
+<text text-anchor="middle" x="272" y="-88.6" font-family="Georgia" font-size="18.00" fill="#243d36">Path</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M144,-40C144,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 144,0 144,0 150,0 156,-6 156,-12 156,-12 156,-28 156,-28 156,-34 150,-40 144,-40" />
+<text text-anchor="middle" x="78" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reduce Friction</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M354,-40C354,-40 190,-40 190,-40 184,-40 178,-34 178,-28 178,-28 178,-12 178,-12 178,-6 184,0 190,0 190,0 354,0 354,0 360,0 366,-6 366,-12 366,-12 366,-28 366,-28 366,-34 360,-40 354,-40" />
+<text text-anchor="middle" x="272" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increase Motivation</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M550,-40C550,-40 400,-40 400,-40 394,-40 388,-34 388,-28 388,-28 388,-12 388,-12 388,-6 394,0 400,0 400,0 550,0 550,0 556,0 562,-6 562,-12 562,-12 562,-28 562,-28 562,-34 556,-40 550,-40" />
+<text text-anchor="middle" x="475" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Remove Obstacles</text>
+</g>
+</g>
+</svg>

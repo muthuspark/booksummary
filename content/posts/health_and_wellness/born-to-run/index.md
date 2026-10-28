@@ -20,14 +20,7 @@ McDougall highlights the prevalent running injuries and discomfort experienced b
 
 The book introduces the Tarahumara's running style: minimal footwear (often just sandals or even barefoot running), a relaxed cadence, and a natural, midfoot strike. They run incredible distances without apparent injury, leading McDougall to question the effectiveness of modern running techniques. This contrasts sharply with the common "heel striking" prevalent in modern runners.
 
-```mermaid
-graph LR
-    A[Tarahumara Running] --> B(Minimalist Footwear);
-    B --> C(Midfoot Strike);
-    C --> D(Relaxed Cadence);
-    D --> E(Reduced Impact);
-    E --> F(Fewer Injuries);
-```
+![The Tarahumara Way: Minimalist Running and Barefoot Running. Tarahumara Running; Minimalist Footwear; Midfoot Strike; Relaxed Cadence; Reduced Impact; Fewer Injuries.](diagram-01.svg)
 
 #  Actionable Insights: Shifting Your Running Paradigm
 

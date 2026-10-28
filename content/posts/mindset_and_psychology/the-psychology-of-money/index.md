@@ -19,13 +19,7 @@ Housel emphasizes the importance of recognizing the diversity of financial journ
 
 The book repeatedly emphasizes the significant role of luck in financial success. While skill and hard work are essential, unpredictable events, both positive and negative, heavily influence outcomes. Acknowledging this reduces the pressure to achieve a specific financial goal and promotes a healthier attitude towards risk and reward. Attributing success solely to skill ignores the probabilistic nature of life.
 
-```mermaid
-graph LR
-    A[Hard Work] --> B(Success);
-    C[Skill] --> B;
-    D[Luck] --> B;
-    style B fill:#ccf,stroke:#333,stroke-width:2px
-```
+![Luck Plays a Massive Role. Hard Work; Success; Skill; Luck.](diagram-01.svg)
 
 
 ## Never Enough

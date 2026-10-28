@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="655pt" height="138pt" viewBox="0.00 0.00 655.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Schema Development and Adaptation: Learning Through Experience</title><desc id="description">New Information leads to Assimilation. Assimilation leads to Existing Schema. New Information leads to Accommodation. Accommodation leads to New or Modified Schema.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 637,-120 637,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166.2,-64.24C179.47,-66.38 193.12,-68.57 206.08,-70.66" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.91,-73.11 213.21,-71.81 206.69,-68.28 205.91,-73.11" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M166.2,-37.76C174.25,-36.47 182.45,-35.15 190.54,-33.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.42,-36.18 197.94,-32.65 190.64,-31.35 191.42,-36.18" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M341.63,-82C364.99,-82 391.87,-82 416.92,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="416.93,-84.45 423.93,-82 416.93,-79.55 416.93,-84.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M357.02,-20C365.12,-20 373.48,-20 381.9,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="381.99,-22.45 388.99,-20 381.99,-17.55 381.99,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154,-71C154,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-43 0,-43 0,-37 6,-31 12,-31 12,-31 154,-31 154,-31 160,-31 166,-37 166,-43 166,-43 166,-59 166,-59 166,-65 160,-71 154,-71" />
+<text text-anchor="middle" x="83" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">New Information</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M329.5,-102C329.5,-102 225.5,-102 225.5,-102 219.5,-102 213.5,-96 213.5,-90 213.5,-90 213.5,-74 213.5,-74 213.5,-68 219.5,-62 225.5,-62 225.5,-62 329.5,-62 329.5,-62 335.5,-62 341.5,-68 341.5,-74 341.5,-74 341.5,-90 341.5,-90 341.5,-96 335.5,-102 329.5,-102" />
+<text text-anchor="middle" x="277.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Assimilation</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M572,-102C572,-102 436,-102 436,-102 430,-102 424,-96 424,-90 424,-90 424,-74 424,-74 424,-68 430,-62 436,-62 436,-62 572,-62 572,-62 578,-62 584,-68 584,-74 584,-74 584,-90 584,-90 584,-96 578,-102 572,-102" />
+<text text-anchor="middle" x="504" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Existing Schema</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M345,-40C345,-40 210,-40 210,-40 204,-40 198,-34 198,-28 198,-28 198,-12 198,-12 198,-6 204,0 210,0 210,0 345,0 345,0 351,0 357,-6 357,-12 357,-12 357,-28 357,-28 357,-34 351,-40 345,-40" />
+<text text-anchor="middle" x="277.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Accommodation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M607,-40C607,-40 401,-40 401,-40 395,-40 389,-34 389,-28 389,-28 389,-12 389,-12 389,-6 395,0 401,0 401,0 607,0 607,0 613,0 619,-6 619,-12 619,-12 619,-28 619,-28 619,-34 613,-40 607,-40" />
+<text text-anchor="middle" x="504" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">New or Modified Schema</text>
+</g>
+</g>
+</svg>

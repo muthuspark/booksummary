@@ -70,16 +70,7 @@ The book isn't just theoretical; it offers practical strategies for implementing
 
 The seven keys are not independent but rather interwoven.  Their synergistic effect creates a powerful cycle of achievement.  For example, clarity of goals (Key 1) leads to effective planning through small steps (Key 2), building momentum (Key 3).  This momentum is further strengthened by focusing on strengths (Key 4), learning from feedback (Key 5) and support from others (Key 6), all culminating in the celebration of success (Key 7), which reinforces the entire cycle.
 
-```mermaid
-graph LR
-    A[Clarity of Goals] --> B(Small Steps);
-    B --> C{Momentum & Habit};
-    C --> D[Focus on Strengths];
-    D --> E(Feedback & Learning);
-    E --> F{Support Network};
-    F --> G[Celebrate Successes];
-    G --> A;
-```
+![The Interconnectedness of the Seven Keys. Clarity of Goals; Small Steps; Momentum & Habit; Focus on Strengths; Feedback & Learning; Support Network; Celebrate Successes.](diagram-01.svg)
 
 ## Overcoming Obstacles:  Addressing Challenges and Setbacks
 

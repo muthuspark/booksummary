@@ -10,14 +10,7 @@ author: "Sun Tzu"
 
 Sun Tzu's *Art of War* transcends military strategy; its core principles offer guidance in navigating life's challenges. The first step is understanding the battlefield—both external and internal. This involves self-assessment, recognizing your strengths and weaknesses, and understanding your environment. Accurate self-knowledge is important before engaging in any significant endeavor. Ignoring your limitations leads to predictable failure.
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Strengths);
-    A --> C(Weaknesses);
-    A --> D{Environment};
-    D --> E(Opportunities);
-    D --> F(Threats);
-```
+![Understanding the Battlefield: Self-Awareness and Strategic Planning. Self-Awareness; Strengths; Weaknesses; Environment; Opportunities; Threats.](diagram-01.svg)
 
 ## Knowing Your Enemy and Yourself: Assessing the Odds
 

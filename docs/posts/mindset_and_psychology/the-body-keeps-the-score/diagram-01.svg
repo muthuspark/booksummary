@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410pt" height="280pt" viewBox="0.00 0.00 409.50 280.00" role="img" aria-labelledby="title description">
+<title id="title">The Brain Under Stress: A Neurobiological Perspective</title><desc id="description">Amygdala (Fear Processing) leads to Hyperactive. Prefrontal Cortex (Executive Function) leads to Hypoactive. Hyperactive leads to Trauma Response. Hypoactive leads to Trauma Response.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 262)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-262 391.5,-262 391.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M87.03,-183.67C89.65,-175.61 92.47,-166.93 95.03,-159.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="97.45,-159.54 97.29,-152.12 92.79,-158.02 97.45,-159.54" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M118.77,-111.91C126.22,-102.6 135.47,-91.04 144.33,-79.97" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="146.45,-81.24 148.91,-74.24 142.62,-78.18 146.45,-81.24" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.37,-183.67C268.96,-175.61 267.44,-166.93 266.06,-159.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="268.47,-158.59 264.85,-152.12 263.64,-159.44 268.47,-158.59" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M243.26,-111.91C233.94,-102.16 222.26,-89.94 211.24,-78.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.84,-76.53 206.24,-73.17 209.3,-79.92 212.84,-76.53" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-244C143,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 143,-184 143,-184 149,-184 155,-190 155,-196 155,-196 155,-232 155,-232 155,-238 149,-244 143,-244" />
+<text text-anchor="middle" x="77.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala (Fear</text>
+<text text-anchor="middle" x="77.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Processing)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M154.5,-152C154.5,-152 52.5,-152 52.5,-152 46.5,-152 40.5,-146 40.5,-140 40.5,-140 40.5,-124 40.5,-124 40.5,-118 46.5,-112 52.5,-112 52.5,-112 154.5,-112 154.5,-112 160.5,-112 166.5,-118 166.5,-124 166.5,-124 166.5,-140 166.5,-140 166.5,-146 160.5,-152 154.5,-152" />
+<text text-anchor="middle" x="103.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hyperactive</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M361.5,-244C361.5,-244 189.5,-244 189.5,-244 183.5,-244 177.5,-238 177.5,-232 177.5,-232 177.5,-196 177.5,-196 177.5,-190 183.5,-184 189.5,-184 189.5,-184 361.5,-184 361.5,-184 367.5,-184 373.5,-190 373.5,-196 373.5,-196 373.5,-232 373.5,-232 373.5,-238 367.5,-244 361.5,-244" />
+<text text-anchor="middle" x="275.5" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prefrontal Cortex</text>
+<text text-anchor="middle" x="275.5" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Executive Function)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309,-152C309,-152 214,-152 214,-152 208,-152 202,-146 202,-140 202,-140 202,-124 202,-124 202,-118 208,-112 214,-112 214,-112 309,-112 309,-112 315,-112 321,-118 321,-124 321,-124 321,-140 321,-140 321,-146 315,-152 309,-152" />
+<text text-anchor="middle" x="261.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hypoactive</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="175.5,-80 2.5,-40 175.5,0 348.5,-40 175.5,-80" />
+<text text-anchor="middle" x="175.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trauma Response</text>
+</g>
+</g>
+</svg>

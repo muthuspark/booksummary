@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="446pt" height="292pt" viewBox="0.00 0.00 446.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">Building an Audience: It's About Relationships, Not Numbers</title><desc id="description">Share Your Work leads to Engage with Audience. Engage with Audience leads to Respond to Comments. Engage with Audience leads to Create Community. Respond to Comments leads to Build Relationships. Create Community leads to Build Relationships.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 428,-274 428,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M212.5,-215.87C212.5,-208.31 212.5,-199.49 212.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="214.95,-191.1 212.5,-184.1 210.05,-191.1 214.95,-191.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M182.99,-143.87C169.77,-135.31 154.08,-125.13 140.2,-116.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="141.18,-113.86 133.98,-112.1 138.52,-117.97 141.18,-113.86" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M242.01,-143.87C255.23,-135.31 270.92,-125.13 284.8,-116.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="286.48,-117.97 291.02,-112.1 283.82,-113.86 286.48,-117.97" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M134.01,-71.87C147.23,-63.31 162.92,-53.13 176.8,-44.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="178.48,-45.97 183.02,-40.1 175.82,-41.86 178.48,-45.97" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M290.99,-71.87C277.77,-63.31 262.08,-53.13 248.2,-44.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="249.18,-41.86 241.98,-40.1 246.52,-45.97 249.18,-41.86" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M284,-256C284,-256 141,-256 141,-256 135,-256 129,-250 129,-244 129,-244 129,-228 129,-228 129,-222 135,-216 141,-216 141,-216 284,-216 284,-216 290,-216 296,-222 296,-228 296,-228 296,-244 296,-244 296,-250 290,-256 284,-256" />
+<text text-anchor="middle" x="212.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Share Your Work</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M303.5,-184C303.5,-184 121.5,-184 121.5,-184 115.5,-184 109.5,-178 109.5,-172 109.5,-172 109.5,-156 109.5,-156 109.5,-150 115.5,-144 121.5,-144 121.5,-144 303.5,-144 303.5,-144 309.5,-144 315.5,-150 315.5,-156 315.5,-156 315.5,-172 315.5,-172 315.5,-178 309.5,-184 303.5,-184" />
+<text text-anchor="middle" x="212.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Engage with Audience</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M197,-112C197,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 197,-72 197,-72 203,-72 209,-78 209,-84 209,-84 209,-100 209,-100 209,-106 203,-112 197,-112" />
+<text text-anchor="middle" x="104.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Respond to Comments</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M398,-112C398,-112 243,-112 243,-112 237,-112 231,-106 231,-100 231,-100 231,-84 231,-84 231,-78 237,-72 243,-72 243,-72 398,-72 398,-72 404,-72 410,-78 410,-84 410,-84 410,-100 410,-100 410,-106 404,-112 398,-112" />
+<text text-anchor="middle" x="320.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Create Community</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M293,-40C293,-40 132,-40 132,-40 126,-40 120,-34 120,-28 120,-28 120,-12 120,-12 120,-6 126,0 132,0 132,0 293,0 293,0 299,0 305,-6 305,-12 305,-12 305,-28 305,-28 305,-34 299,-40 293,-40" />
+<text text-anchor="middle" x="212.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Build Relationships</text>
+</g>
+</g>
+</svg>

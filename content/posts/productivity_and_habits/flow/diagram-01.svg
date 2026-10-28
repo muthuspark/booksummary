@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="555pt" height="218pt" viewBox="0.00 0.00 555.00 218.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding Flow</title><desc id="description">Boredom leads to Flow Channel. Anxiety leads to Flow Channel. Flow Channel leads to Skill. Flow Channel leads to Challenge.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 200)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-200 537,-200 537,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.03,-111.59C111.04,-109.94 119.46,-108.21 127.89,-106.47" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="128.59,-108.83 134.95,-105.02 127.6,-104.03 128.59,-108.83" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M273.02,-107.84C300.99,-114.77 332.87,-122.66 358.93,-129.11" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="358.39,-131.5 365.77,-130.8 359.57,-126.74 358.39,-131.5" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M273.02,-74.16C294.49,-68.84 318.26,-62.96 339.93,-57.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="340.68,-59.93 346.89,-55.87 339.51,-55.18 340.68,-59.93" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M96.03,-68.97C106,-71.02 116.88,-73.26 127.76,-75.5" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.55,-77.96 134.9,-76.97 128.54,-73.16 127.55,-77.96" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M91,-142C91,-142 12,-142 12,-142 6,-142 0,-136 0,-130 0,-130 0,-114 0,-114 0,-108 6,-102 12,-102 12,-102 91,-102 91,-102 97,-102 103,-108 103,-114 103,-114 103,-130 103,-130 103,-136 97,-142 91,-142" />
+<text text-anchor="middle" x="51.5" y="-117.6" font-family="Georgia" font-size="18.00" fill="#243d36">Boredom</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M261,-111C261,-111 147,-111 147,-111 141,-111 135,-105 135,-99 135,-99 135,-83 135,-83 135,-77 141,-71 147,-71 147,-71 261,-71 261,-71 267,-71 273,-77 273,-83 273,-83 273,-99 273,-99 273,-105 267,-111 261,-111" />
+<text text-anchor="middle" x="204" y="-86.6" font-family="Georgia" font-size="18.00" fill="#243d36">Flow Channel</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M84,-80C84,-80 19,-80 19,-80 13,-80 7,-74 7,-68 7,-68 7,-52 7,-52 7,-46 13,-40 19,-40 19,-40 84,-40 84,-40 90,-40 96,-46 96,-52 96,-52 96,-68 96,-68 96,-74 90,-80 84,-80" />
+<text text-anchor="middle" x="51.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Anxiety</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="412,-182 348,-142 412,-102 476,-142 412,-182" />
+<text text-anchor="middle" x="412" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Skill</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="412,-80 305,-40 412,0 519,-40 412,-80" />
+<text text-anchor="middle" x="412" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Challenge</text>
+</g>
+</g>
+</svg>

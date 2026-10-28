@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="706pt" height="116pt" viewBox="0.00 0.00 706.00 116.00" role="img" aria-labelledby="title description">
+<title id="title">Don't Plan, Ship!</title><desc id="description">Idea leads to Prototype. Prototype leads to Feedback. Feedback leads to Iteration. Iteration leads to Ship.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 98)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-98 688,-98 688,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M64.26,-40C71.88,-40 80.28,-40 88.75,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="88.85,-42.45 95.85,-40 88.85,-37.55 88.85,-42.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M203.23,-40C211.01,-40 219.27,-40 227.71,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.84,-42.45 234.84,-40 227.84,-37.55 227.84,-42.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M443.27,-40C451.71,-40 460.01,-40 467.89,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="467.99,-42.45 474.99,-40 467.99,-37.55 467.99,-42.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M573.26,-40C581.46,-40 589.88,-40 597.79,-40" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="597.9,-42.45 604.9,-40 597.9,-37.55 597.9,-42.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M52,-60C52,-60 12,-60 12,-60 6,-60 0,-54 0,-48 0,-48 0,-32 0,-32 0,-26 6,-20 12,-20 12,-20 52,-20 52,-20 58,-20 64,-26 64,-32 64,-32 64,-48 64,-48 64,-54 58,-60 52,-60" />
+<text text-anchor="middle" x="32" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Idea</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M191,-60C191,-60 108,-60 108,-60 102,-60 96,-54 96,-48 96,-48 96,-32 96,-32 96,-26 102,-20 108,-20 108,-20 191,-20 191,-20 197,-20 203,-26 203,-32 203,-32 203,-48 203,-48 203,-54 197,-60 191,-60" />
+<text text-anchor="middle" x="149.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prototype</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="339,-80 235,-40 339,0 443,-40 339,-80" />
+<text text-anchor="middle" x="339" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M561,-60C561,-60 487,-60 487,-60 481,-60 475,-54 475,-48 475,-48 475,-32 475,-32 475,-26 481,-20 487,-20 487,-20 561,-20 561,-20 567,-20 573,-26 573,-32 573,-32 573,-48 573,-48 573,-54 567,-60 561,-60" />
+<text text-anchor="middle" x="524" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Iteration</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M658,-60C658,-60 617,-60 617,-60 611,-60 605,-54 605,-48 605,-48 605,-32 605,-32 605,-26 611,-20 617,-20 617,-20 658,-20 658,-20 664,-20 670,-26 670,-32 670,-32 670,-48 670,-48 670,-54 664,-60 658,-60" />
+<text text-anchor="middle" x="637.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Ship</text>
+</g>
+</g>
+</svg>

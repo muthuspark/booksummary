@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="569pt" height="168pt" viewBox="0.00 0.00 568.50 168.00" role="img" aria-labelledby="title description">
+<title id="title">Become a Good Listener. Encourage Others to Talk About Themselves</title><desc id="description">Active Listening leads to Building Rapport. Active Listening leads to Establishing Trust. Active Listening leads to Understanding Perspectives.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 550.5,-150 550.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229.51,-91.84C201.25,-80.06 164.97,-64.95 135.64,-52.73" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.52,-50.44 129.11,-50.01 134.63,-54.96 136.52,-50.44" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M275.5,-91.63C275.5,-81.32 275.5,-68.48 275.5,-57.27" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="277.95,-57.19 275.5,-50.19 273.05,-57.19 277.95,-57.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M319.33,-91.84C339.16,-83.17 363.13,-72.69 385.54,-62.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="386.7,-65.06 392.13,-60.01 384.74,-60.57 386.7,-65.06" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M341.5,-132C341.5,-132 209.5,-132 209.5,-132 203.5,-132 197.5,-126 197.5,-120 197.5,-120 197.5,-104 197.5,-104 197.5,-98 203.5,-92 209.5,-92 209.5,-92 341.5,-92 341.5,-92 347.5,-92 353.5,-98 353.5,-104 353.5,-104 353.5,-120 353.5,-120 353.5,-126 347.5,-132 341.5,-132" />
+<text text-anchor="middle" x="275.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M155,-50C155,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 155,-10 155,-10 161,-10 167,-16 167,-22 167,-22 167,-38 167,-38 167,-44 161,-50 155,-50" />
+<text text-anchor="middle" x="83.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Building Rapport</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M350,-50C350,-50 201,-50 201,-50 195,-50 189,-44 189,-38 189,-38 189,-22 189,-22 189,-16 195,-10 201,-10 201,-10 350,-10 350,-10 356,-10 362,-16 362,-22 362,-22 362,-38 362,-38 362,-44 356,-50 350,-50" />
+<text text-anchor="middle" x="275.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Establishing Trust</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M520.5,-60C520.5,-60 396.5,-60 396.5,-60 390.5,-60 384.5,-54 384.5,-48 384.5,-48 384.5,-12 384.5,-12 384.5,-6 390.5,0 396.5,0 396.5,0 520.5,0 520.5,0 526.5,0 532.5,-6 532.5,-12 532.5,-12 532.5,-48 532.5,-48 532.5,-54 526.5,-60 520.5,-60" />
+<text text-anchor="middle" x="458.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+<text text-anchor="middle" x="458.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Perspectives</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467pt" height="386pt" viewBox="0.00 0.00 467.00 386.00" role="img" aria-labelledby="title description">
+<title id="title">Types of Exercise and Their Brain Benefits</title><desc id="description">Aerobic Exercise leads to Mood Improvement. Aerobic Exercise leads to Cognitive Enhancement. Strength Training leads to Improved Focus. Strength Training leads to Increased Energy. Flexibility Exercise leads to Stress Reduction. Flexibility Exercise leads to Improved Balance.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 368)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-368 449,-368 449,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.27,-61.84C186.99,-63.97 203.66,-66.22 219.95,-68.42" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="219.64,-70.85 226.9,-69.36 220.29,-65.99 219.64,-70.85" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M171.27,-40.16C182.08,-38.7 193.34,-37.18 204.62,-35.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="205.03,-38.07 211.64,-34.7 204.37,-33.21 205.03,-38.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.15,-186.37C194.75,-189.01 215.63,-191.83 235.28,-194.49" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="235.19,-196.95 242.45,-195.46 235.84,-192.09 235.19,-196.95" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175.15,-163.63C193,-161.22 211.91,-158.67 229.98,-156.23" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="230.51,-158.63 237.12,-155.26 229.86,-153.77 230.51,-158.63" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.06,-311.03C197.26,-313.35 215.27,-315.79 232.43,-318.1" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="232.47,-320.58 239.74,-319.09 233.13,-315.73 232.47,-320.58" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M180.06,-286.97C195.36,-284.9 211.3,-282.75 226.71,-280.67" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.14,-283.08 233.75,-279.72 226.49,-278.23 227.14,-283.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M159,-71C159,-71 21,-71 21,-71 15,-71 9,-65 9,-59 9,-59 9,-43 9,-43 9,-37 15,-31 21,-31 21,-31 159,-31 159,-31 165,-31 171,-37 171,-43 171,-43 171,-59 171,-59 171,-65 165,-71 159,-71" />
+<text text-anchor="middle" x="90" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Aerobic Exercise</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M404,-102C404,-102 239,-102 239,-102 233,-102 227,-96 227,-90 227,-90 227,-74 227,-74 227,-68 233,-62 239,-62 239,-62 404,-62 404,-62 410,-62 416,-68 416,-74 416,-74 416,-90 416,-90 416,-96 410,-102 404,-102" />
+<text text-anchor="middle" x="321.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mood Improvement</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M419,-40C419,-40 224,-40 224,-40 218,-40 212,-34 212,-28 212,-28 212,-12 212,-12 212,-6 218,0 224,0 224,0 419,0 419,0 425,0 431,-6 431,-12 431,-12 431,-28 431,-28 431,-34 425,-40 419,-40" />
+<text text-anchor="middle" x="321.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Enhancement</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M163,-195C163,-195 17,-195 17,-195 11,-195 5,-189 5,-183 5,-183 5,-167 5,-167 5,-161 11,-155 17,-155 17,-155 163,-155 163,-155 169,-155 175,-161 175,-167 175,-167 175,-183 175,-183 175,-189 169,-195 163,-195" />
+<text text-anchor="middle" x="90" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Strength Training</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M388.5,-226C388.5,-226 254.5,-226 254.5,-226 248.5,-226 242.5,-220 242.5,-214 242.5,-214 242.5,-198 242.5,-198 242.5,-192 248.5,-186 254.5,-186 254.5,-186 388.5,-186 388.5,-186 394.5,-186 400.5,-192 400.5,-198 400.5,-198 400.5,-214 400.5,-214 400.5,-220 394.5,-226 388.5,-226" />
+<text text-anchor="middle" x="321.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Focus</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M393.5,-164C393.5,-164 249.5,-164 249.5,-164 243.5,-164 237.5,-158 237.5,-152 237.5,-152 237.5,-136 237.5,-136 237.5,-130 243.5,-124 249.5,-124 249.5,-124 393.5,-124 393.5,-124 399.5,-124 405.5,-130 405.5,-136 405.5,-136 405.5,-152 405.5,-152 405.5,-158 399.5,-164 393.5,-164" />
+<text text-anchor="middle" x="321.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Energy</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M168,-319C168,-319 12,-319 12,-319 6,-319 0,-313 0,-307 0,-307 0,-291 0,-291 0,-285 6,-279 12,-279 12,-279 168,-279 168,-279 174,-279 180,-285 180,-291 180,-291 180,-307 180,-307 180,-313 174,-319 168,-319" />
+<text text-anchor="middle" x="90" y="-294.6" font-family="Georgia" font-size="18.00" fill="#243d36">Flexibility Exercise</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M391,-350C391,-350 252,-350 252,-350 246,-350 240,-344 240,-338 240,-338 240,-322 240,-322 240,-316 246,-310 252,-310 252,-310 391,-310 391,-310 397,-310 403,-316 403,-322 403,-322 403,-338 403,-338 403,-344 397,-350 391,-350" />
+<text text-anchor="middle" x="321.5" y="-325.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stress Reduction</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M397,-288C397,-288 246,-288 246,-288 240,-288 234,-282 234,-276 234,-276 234,-260 234,-260 234,-254 240,-248 246,-248 246,-248 397,-248 397,-248 403,-248 409,-254 409,-260 409,-260 409,-276 409,-276 409,-282 403,-288 397,-288" />
+<text text-anchor="middle" x="321.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved Balance</text>
+</g>
+</g>
+</svg>

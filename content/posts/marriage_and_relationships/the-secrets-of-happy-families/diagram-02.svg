@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="544pt" height="292pt" viewBox="0.00 0.00 544.00 292.00" role="img" aria-labelledby="title description">
+<title id="title">Open Communication:  The Heart of a Strong Family</title><desc id="description">Open Communication leads to Active Listening. Open Communication leads to Empathy. Open Communication leads to Respectful Expression. Active Listening leads to Trust. Empathy leads to Trust. Respectful Expression leads to Trust. Trust leads to Stronger Bonds.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 274)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-274 526,-274 526,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M187.74,-215.87C168.51,-206.96 145.53,-196.31 125.58,-187.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="126.59,-184.83 119.21,-184.1 124.53,-189.27 126.59,-184.83" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229,-215.87C229,-208.31 229,-199.49 229,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="231.45,-191.1 229,-184.1 226.55,-191.1 231.45,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M277.09,-215.87C299.79,-206.84 326.99,-196.03 350.45,-186.7" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="351.37,-188.97 356.97,-184.1 349.56,-184.42 351.37,-188.97" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M119.26,-143.87C140.31,-134.11 165.87,-122.27 187.02,-112.46" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="188.11,-114.66 193.43,-109.49 186.05,-110.21 188.11,-114.66" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229,-143.87C229,-136.31 229,-127.49 229,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="231.45,-119.1 229,-112.1 226.55,-119.1 231.45,-119.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M356.91,-143.87C330.19,-133.24 297.24,-120.14 271.47,-109.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="272.16,-107.53 264.75,-107.22 270.35,-112.08 272.16,-107.53" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M229,-71.87C229,-64.31 229,-55.49 229,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="231.45,-47.1 229,-40.1 226.55,-47.1 231.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M319,-256C319,-256 139,-256 139,-256 133,-256 127,-250 127,-244 127,-244 127,-228 127,-228 127,-222 133,-216 139,-216 139,-216 319,-216 319,-216 325,-216 331,-222 331,-228 331,-228 331,-244 331,-244 331,-250 325,-256 319,-256" />
+<text text-anchor="middle" x="229" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Open Communication</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M144,-184C144,-184 12,-184 12,-184 6,-184 0,-178 0,-172 0,-172 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 144,-144 144,-144 150,-144 156,-150 156,-156 156,-156 156,-172 156,-172 156,-178 150,-184 144,-184" />
+<text text-anchor="middle" x="78" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M267.5,-184C267.5,-184 190.5,-184 190.5,-184 184.5,-184 178.5,-178 178.5,-172 178.5,-172 178.5,-156 178.5,-156 178.5,-150 184.5,-144 190.5,-144 190.5,-144 267.5,-144 267.5,-144 273.5,-144 279.5,-150 279.5,-156 279.5,-156 279.5,-172 279.5,-172 279.5,-178 273.5,-184 267.5,-184" />
+<text text-anchor="middle" x="229" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M496,-184C496,-184 314,-184 314,-184 308,-184 302,-178 302,-172 302,-172 302,-156 302,-156 302,-150 308,-144 314,-144 314,-144 496,-144 496,-144 502,-144 508,-150 508,-156 508,-156 508,-172 508,-172 508,-178 502,-184 496,-184" />
+<text text-anchor="middle" x="405" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Respectful Expression</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M252.5,-112C252.5,-112 205.5,-112 205.5,-112 199.5,-112 193.5,-106 193.5,-100 193.5,-100 193.5,-84 193.5,-84 193.5,-78 199.5,-72 205.5,-72 205.5,-72 252.5,-72 252.5,-72 258.5,-72 264.5,-78 264.5,-84 264.5,-84 264.5,-100 264.5,-100 264.5,-106 258.5,-112 252.5,-112" />
+<text text-anchor="middle" x="229" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Trust</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M293,-40C293,-40 165,-40 165,-40 159,-40 153,-34 153,-28 153,-28 153,-12 153,-12 153,-6 159,0 165,0 165,0 293,0 293,0 299,0 305,-6 305,-12 305,-12 305,-28 305,-28 305,-34 299,-40 293,-40" />
+<text text-anchor="middle" x="229" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Stronger Bonds</text>
+</g>
+</g>
+</svg>

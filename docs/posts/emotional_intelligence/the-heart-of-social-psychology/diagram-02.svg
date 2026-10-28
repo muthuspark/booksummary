@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="609pt" height="320pt" viewBox="0.00 0.00 609.00 320.00" role="img" aria-labelledby="title description">
+<title id="title">Group Dynamics and Social Influence</title><desc id="description">Individual leads to Group Pressure. Group Pressure leads to Conformity. Group Pressure leads to Obedience. Group Pressure leads to Groupthink.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 302)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-302 591,-302 591,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.06,-142C119.06,-142 127.44,-142 135.85,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.92,-144.45 142.92,-142 135.92,-139.55 135.92,-144.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.35,-162.03C282.39,-171.6 306.85,-183.11 329,-193 348.82,-201.85 370.64,-211.18 390.23,-219.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="389.38,-221.7 396.78,-222.14 391.27,-217.18 389.38,-221.7" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M297.25,-142C308.03,-142 319.31,-142 330.66,-142" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="330.73,-144.45 337.73,-142 330.73,-139.55 330.73,-144.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M262.35,-121.97C282.39,-112.4 306.85,-100.89 329,-91 348.64,-82.23 370.23,-73 389.68,-64.84" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="390.67,-67.08 396.18,-62.11 388.78,-62.56 390.67,-67.08" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M99,-162C99,-162 12,-162 12,-162 6,-162 0,-156 0,-150 0,-150 0,-134 0,-134 0,-128 6,-122 12,-122 12,-122 99,-122 99,-122 105,-122 111,-128 111,-134 111,-134 111,-150 111,-150 111,-156 105,-162 99,-162" />
+<text text-anchor="middle" x="55.5" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M285,-162C285,-162 155,-162 155,-162 149,-162 143,-156 143,-150 143,-150 143,-134 143,-134 143,-128 149,-122 155,-122 155,-122 285,-122 285,-122 291,-122 297,-128 297,-134 297,-134 297,-150 297,-150 297,-156 291,-162 285,-162" />
+<text text-anchor="middle" x="220" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Group Pressure</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="451,-284 332,-244 451,-204 570,-244 451,-284" />
+<text text-anchor="middle" x="451" y="-239.6" font-family="Georgia" font-size="18.00" fill="#243d36">Conformity</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="451,-182 338,-142 451,-102 564,-142 451,-182" />
+<text text-anchor="middle" x="451" y="-137.6" font-family="Georgia" font-size="18.00" fill="#243d36">Obedience</text>
+</g>
+
+<g id="node5" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="451,-80 329,-40 451,0 573,-40 451,-80" />
+<text text-anchor="middle" x="451" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Groupthink</text>
+</g>
+</g>
+</svg>

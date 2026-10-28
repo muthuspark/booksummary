@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="451pt" height="200pt" viewBox="0.00 0.00 451.00 200.00" role="img" aria-labelledby="title description">
+<title id="title">Problem Solving and Innovation</title><desc id="description">Problem leads to Storytelling. Problem leads to Role-playing. Problem leads to SWOT Analysis. Storytelling leads to Solutions. Role-playing leads to Solutions. SWOT Analysis leads to Solutions.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 182)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-182 433,-182 433,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.38,-101.28C113.07,-107.59 130.64,-114.67 146.9,-121.21" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="146.38,-123.64 153.78,-123.98 148.21,-119.1 146.38,-123.64" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.38,-82C108.28,-82 120.08,-82 131.73,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="131.95,-84.45 138.95,-82 131.95,-79.55 131.95,-84.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.38,-62.72C113.07,-56.41 130.64,-49.33 146.9,-42.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="148.21,-44.9 153.78,-40.02 146.38,-40.36 148.21,-44.9" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M256.47,-123.87C271.99,-117.74 289.14,-110.97 305.05,-104.69" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="306.17,-106.88 311.78,-102.03 304.37,-102.32 306.17,-106.88" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.26,-82C281.63,-82 293.39,-82 304.55,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="304.79,-84.45 311.79,-82 304.79,-79.55 304.79,-84.45" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M256.47,-40.13C271.99,-46.26 289.14,-53.03 305.05,-59.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="304.37,-61.68 311.78,-61.97 306.17,-57.12 304.37,-61.68" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M85,-102C85,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 85,-62 85,-62 91,-62 97,-68 97,-74 97,-74 97,-90 97,-90 97,-96 91,-102 85,-102" />
+<text text-anchor="middle" x="48.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M253,-164C253,-164 156,-164 156,-164 150,-164 144,-158 144,-152 144,-152 144,-136 144,-136 144,-130 150,-124 156,-124 156,-124 253,-124 253,-124 259,-124 265,-130 265,-136 265,-136 265,-152 265,-152 265,-158 259,-164 253,-164" />
+<text text-anchor="middle" x="204.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Storytelling</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M258,-102C258,-102 151,-102 151,-102 145,-102 139,-96 139,-90 139,-90 139,-74 139,-74 139,-68 145,-62 151,-62 151,-62 258,-62 258,-62 264,-62 270,-68 270,-74 270,-74 270,-90 270,-90 270,-96 264,-102 258,-102" />
+<text text-anchor="middle" x="204.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Role-playing</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M268,-40C268,-40 141,-40 141,-40 135,-40 129,-34 129,-28 129,-28 129,-12 129,-12 129,-6 135,0 141,0 141,0 268,0 268,0 274,0 280,-6 280,-12 280,-12 280,-28 280,-28 280,-34 274,-40 268,-40" />
+<text text-anchor="middle" x="204.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">SWOT Analysis</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M403,-102C403,-102 324,-102 324,-102 318,-102 312,-96 312,-90 312,-90 312,-74 312,-74 312,-68 318,-62 324,-62 324,-62 403,-62 403,-62 409,-62 415,-68 415,-74 415,-74 415,-90 415,-90 415,-96 409,-102 403,-102" />
+<text text-anchor="middle" x="363.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solutions</text>
+</g>
+</g>
+</svg>

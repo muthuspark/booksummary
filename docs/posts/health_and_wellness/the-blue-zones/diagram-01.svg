@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="415pt" height="262pt" viewBox="0.00 0.00 415.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Power of Plants: Diet in Blue Zones</title><desc id="description">Plant-Based Diet leads to Beans &amp; Legumes. Plant-Based Diet leads to Whole Grains. Plant-Based Diet leads to Fruits &amp; Vegetables. Plant-Based Diet leads to Sparingly Meat.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 397,-244 397,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.35,-133.28C138.45,-146.22 168.37,-162.79 196,-175 202.49,-177.87 209.34,-180.64 216.25,-183.28" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.74,-185.7 223.16,-185.86 217.46,-181.11 215.74,-185.7" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.01,-125.34C179.78,-127.74 196.23,-130.25 211.78,-132.62" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="211.57,-135.06 218.86,-133.7 212.31,-130.22 211.57,-135.06" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M164.01,-100.66C172.15,-99.42 180.48,-98.15 188.77,-96.89" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="189.17,-99.31 195.72,-95.83 188.43,-94.46 189.17,-99.31" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.35,-92.72C138.45,-79.78 168.37,-63.21 196,-51 202.49,-48.13 209.34,-45.36 216.25,-42.72" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="217.46,-44.89 223.16,-40.14 215.74,-40.3 217.46,-44.89" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M152,-133C152,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 152,-93 152,-93 158,-93 164,-99 164,-105 164,-105 164,-121 164,-121 164,-127 158,-133 152,-133" />
+<text text-anchor="middle" x="82" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Plant-Based Diet</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M360.5,-226C360.5,-226 214.5,-226 214.5,-226 208.5,-226 202.5,-220 202.5,-214 202.5,-214 202.5,-198 202.5,-198 202.5,-192 208.5,-186 214.5,-186 214.5,-186 360.5,-186 360.5,-186 366.5,-186 372.5,-192 372.5,-198 372.5,-198 372.5,-214 372.5,-214 372.5,-220 366.5,-226 360.5,-226" />
+<text text-anchor="middle" x="287.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Beans &amp; Legumes</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M344,-164C344,-164 231,-164 231,-164 225,-164 219,-158 219,-152 219,-152 219,-136 219,-136 219,-130 225,-124 231,-124 231,-124 344,-124 344,-124 350,-124 356,-130 356,-136 356,-136 356,-152 356,-152 356,-158 350,-164 344,-164" />
+<text text-anchor="middle" x="287.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Whole Grains</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M367,-102C367,-102 208,-102 208,-102 202,-102 196,-96 196,-90 196,-90 196,-74 196,-74 196,-68 202,-62 208,-62 208,-62 367,-62 367,-62 373,-62 379,-68 379,-74 379,-74 379,-90 379,-90 379,-96 373,-102 367,-102" />
+<text text-anchor="middle" x="287.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fruits &amp; Vegetables</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M350,-40C350,-40 225,-40 225,-40 219,-40 213,-34 213,-28 213,-28 213,-12 213,-12 213,-6 219,0 225,0 225,0 350,0 350,0 356,0 362,-6 362,-12 362,-12 362,-28 362,-28 362,-34 356,-40 350,-40" />
+<text text-anchor="middle" x="287.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Sparingly Meat</text>
+</g>
+</g>
+</svg>

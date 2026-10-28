@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438pt" height="262pt" viewBox="0.00 0.00 438.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">The Brain's Emotional Systems</title><desc id="description">Amygdala leads to Emotional Response. Prefrontal Cortex leads to Emotional Response. Prefrontal Cortex leads to Emotional Regulation. Amygdala leads to Fear Processing. Prefrontal Cortex leads to Cognitive Appraisal.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 420,-244 420,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M137.65,-167.34C155.63,-164.74 176.38,-161.75 196.88,-158.8" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="197.24,-161.22 203.82,-157.8 196.54,-156.37 197.24,-161.22" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M137.65,-182.66C161.16,-186.05 189.38,-190.12 215.63,-193.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="215.34,-196.34 222.62,-194.91 216.04,-191.49 215.34,-196.34" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.01,-102.04C176.02,-108.39 200.48,-115.44 222.96,-121.93" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="222.46,-124.33 229.86,-123.92 223.82,-119.63 222.46,-124.33" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.01,-82C175.15,-82 183.49,-82 191.84,-82" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="191.85,-84.45 198.85,-82 191.85,-79.55 191.85,-84.45" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M154.01,-61.96C176.02,-55.61 200.48,-48.56 222.96,-42.07" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.82,-44.37 229.86,-40.08 222.46,-39.67 223.82,-44.37" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M125.5,-195C125.5,-195 41.5,-195 41.5,-195 35.5,-195 29.5,-189 29.5,-183 29.5,-183 29.5,-167 29.5,-167 29.5,-161 35.5,-155 41.5,-155 41.5,-155 125.5,-155 125.5,-155 131.5,-155 137.5,-161 137.5,-167 137.5,-167 137.5,-183 137.5,-183 137.5,-189 131.5,-195 125.5,-195" />
+<text text-anchor="middle" x="83.5" y="-170.6" font-family="Georgia" font-size="18.00" fill="#243d36">Amygdala</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M385,-164C385,-164 216,-164 216,-164 210,-164 204,-158 204,-152 204,-152 204,-136 204,-136 204,-130 210,-124 216,-124 216,-124 385,-124 385,-124 391,-124 397,-130 397,-136 397,-136 397,-152 397,-152 397,-158 391,-164 385,-164" />
+<text text-anchor="middle" x="300.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Response</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M155,-102C155,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 155,-62 155,-62 161,-62 167,-68 167,-74 167,-74 167,-90 167,-90 167,-96 161,-102 155,-102" />
+<text text-anchor="middle" x="83.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Prefrontal Cortex</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M390,-102C390,-102 211,-102 211,-102 205,-102 199,-96 199,-90 199,-90 199,-74 199,-74 199,-68 205,-62 211,-62 211,-62 390,-62 390,-62 396,-62 402,-68 402,-74 402,-74 402,-90 402,-90 402,-96 396,-102 390,-102" />
+<text text-anchor="middle" x="300.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Emotional Regulation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M366,-226C366,-226 235,-226 235,-226 229,-226 223,-220 223,-214 223,-214 223,-198 223,-198 223,-192 229,-186 235,-186 235,-186 366,-186 366,-186 372,-186 378,-192 378,-198 378,-198 378,-214 378,-214 378,-220 372,-226 366,-226" />
+<text text-anchor="middle" x="300.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fear Processing</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M381,-40C381,-40 220,-40 220,-40 214,-40 208,-34 208,-28 208,-28 208,-12 208,-12 208,-6 214,0 220,0 220,0 381,0 381,0 387,0 393,-6 393,-12 393,-12 393,-28 393,-28 393,-34 387,-40 381,-40" />
+<text text-anchor="middle" x="300.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cognitive Appraisal</text>
+</g>
+</g>
+</svg>

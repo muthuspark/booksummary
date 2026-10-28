@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="478pt" height="324pt" viewBox="0.00 0.00 478.00 324.00" role="img" aria-labelledby="title description">
+<title id="title">Choice Architecture: Designing for Better Decisions</title><desc id="description">Choice Architecture leads to Defaults. Choice Architecture leads to Simplification. Choice Architecture leads to Incentives. Choice Architecture leads to Information &amp; Feedback. Choice Architecture leads to Salience.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 306)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-306 460,-306 460,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.23,-164.21C139.86,-185.18 179.55,-217.57 219,-237 236.67,-245.7 257.18,-252.31 275.69,-257.14" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="275.56,-259.63 282.95,-258.97 276.76,-254.88 275.56,-259.63" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.47,-164.04C196.94,-171.03 226.63,-178.86 253.13,-185.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="252.76,-188.29 260.15,-187.7 254.01,-183.55 252.76,-188.29" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M187.04,-144C214.28,-144 243.39,-144 268.16,-144" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="268.36,-146.45 275.36,-144 268.36,-141.55 268.36,-146.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.47,-123.96C194.74,-117.55 221.73,-110.43 246.47,-103.91" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="247.24,-106.24 253.39,-102.08 245.99,-101.5 247.24,-106.24" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M116.23,-123.79C139.86,-102.82 179.55,-70.43 219,-51 236.67,-42.3 257.18,-35.69 275.69,-30.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="276.76,-33.12 282.95,-29.03 275.56,-28.37 276.76,-33.12" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M175,-164C175,-164 12,-164 12,-164 6,-164 0,-158 0,-152 0,-152 0,-136 0,-136 0,-130 6,-124 12,-124 12,-124 175,-124 175,-124 181,-124 187,-130 187,-136 187,-136 187,-152 187,-152 187,-158 181,-164 175,-164" />
+<text text-anchor="middle" x="93.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choice Architecture</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M366,-288C366,-288 295,-288 295,-288 289,-288 283,-282 283,-276 283,-276 283,-260 283,-260 283,-254 289,-248 295,-248 295,-248 366,-248 366,-248 372,-248 378,-254 378,-260 378,-260 378,-276 378,-276 378,-282 372,-288 366,-288" />
+<text text-anchor="middle" x="330.5" y="-263.6" font-family="Georgia" font-size="18.00" fill="#243d36">Defaults</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M388.5,-226C388.5,-226 272.5,-226 272.5,-226 266.5,-226 260.5,-220 260.5,-214 260.5,-214 260.5,-198 260.5,-198 260.5,-192 266.5,-186 272.5,-186 272.5,-186 388.5,-186 388.5,-186 394.5,-186 400.5,-192 400.5,-198 400.5,-198 400.5,-214 400.5,-214 400.5,-220 394.5,-226 388.5,-226" />
+<text text-anchor="middle" x="330.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Simplification</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M373.5,-164C373.5,-164 287.5,-164 287.5,-164 281.5,-164 275.5,-158 275.5,-152 275.5,-152 275.5,-136 275.5,-136 275.5,-130 281.5,-124 287.5,-124 287.5,-124 373.5,-124 373.5,-124 379.5,-124 385.5,-130 385.5,-136 385.5,-136 385.5,-152 385.5,-152 385.5,-158 379.5,-164 373.5,-164" />
+<text text-anchor="middle" x="330.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Incentives</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M430,-102C430,-102 231,-102 231,-102 225,-102 219,-96 219,-90 219,-90 219,-74 219,-74 219,-68 225,-62 231,-62 231,-62 430,-62 430,-62 436,-62 442,-68 442,-74 442,-74 442,-90 442,-90 442,-96 436,-102 430,-102" />
+<text text-anchor="middle" x="330.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Information &amp; Feedback</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M366,-40C366,-40 295,-40 295,-40 289,-40 283,-34 283,-28 283,-28 283,-12 283,-12 283,-6 289,0 295,0 295,0 366,0 366,0 372,0 378,-6 378,-12 378,-12 378,-28 378,-28 378,-34 372,-40 366,-40" />
+<text text-anchor="middle" x="330.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Salience</text>
+</g>
+</g>
+</svg>

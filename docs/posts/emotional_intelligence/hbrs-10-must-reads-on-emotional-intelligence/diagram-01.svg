@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594pt" height="240pt" viewBox="0.00 0.00 593.50 240.00" role="img" aria-labelledby="title description">
+<title id="title">Self-Awareness: Knowing Yourself</title><desc id="description">Self-Reflection leads to Honest Self-Assessment. Feedback from Others leads to Honest Self-Assessment. Body Awareness leads to Honest Self-Assessment. Honest Self-Assessment leads to Improved Self-Understanding.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 222)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-222 575.5,-222 575.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M127.61,-163.96C153.61,-154.82 184.86,-143.83 211.68,-134.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="212.61,-136.67 218.4,-132.03 210.98,-132.04 212.61,-136.67" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M272.5,-91.63C272.5,-84.34 272.5,-75.78 272.5,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="274.95,-67.19 272.5,-60.19 270.05,-67.19 274.95,-67.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M272.5,-163.87C272.5,-156.31 272.5,-147.49 272.5,-139.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="274.95,-139.1 272.5,-132.1 270.05,-139.1 274.95,-139.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M421.75,-163.96C394.97,-154.82 362.78,-143.83 335.15,-134.39" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="335.65,-131.98 328.24,-132.03 334.07,-136.61 335.65,-131.98" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135,-204C135,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-176 0,-176 0,-170 6,-164 12,-164 12,-164 135,-164 135,-164 141,-164 147,-170 147,-176 147,-176 147,-192 147,-192 147,-198 141,-204 135,-204" />
+<text text-anchor="middle" x="73.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Reflection</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M370.5,-132C370.5,-132 174.5,-132 174.5,-132 168.5,-132 162.5,-126 162.5,-120 162.5,-120 162.5,-104 162.5,-104 162.5,-98 168.5,-92 174.5,-92 174.5,-92 370.5,-92 370.5,-92 376.5,-92 382.5,-98 382.5,-104 382.5,-104 382.5,-120 382.5,-120 382.5,-126 376.5,-132 370.5,-132" />
+<text text-anchor="middle" x="272.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Honest Self-Assessment</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363.5,-204C363.5,-204 181.5,-204 181.5,-204 175.5,-204 169.5,-198 169.5,-192 169.5,-192 169.5,-176 169.5,-176 169.5,-170 175.5,-164 181.5,-164 181.5,-164 363.5,-164 363.5,-164 369.5,-164 375.5,-170 375.5,-176 375.5,-176 375.5,-192 375.5,-192 375.5,-198 369.5,-204 363.5,-204" />
+<text text-anchor="middle" x="272.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback from Others</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M545.5,-204C545.5,-204 409.5,-204 409.5,-204 403.5,-204 397.5,-198 397.5,-192 397.5,-192 397.5,-176 397.5,-176 397.5,-170 403.5,-164 409.5,-164 409.5,-164 545.5,-164 545.5,-164 551.5,-164 557.5,-170 557.5,-176 557.5,-176 557.5,-192 557.5,-192 557.5,-198 551.5,-204 545.5,-204" />
+<text text-anchor="middle" x="477.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Body Awareness</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M353,-60C353,-60 192,-60 192,-60 186,-60 180,-54 180,-48 180,-48 180,-12 180,-12 180,-6 186,0 192,0 192,0 353,0 353,0 359,0 365,-6 365,-12 365,-12 365,-48 365,-48 365,-54 359,-60 353,-60" />
+<text text-anchor="middle" x="272.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved</text>
+<text text-anchor="middle" x="272.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self-Understanding</text>
+</g>
+</g>
+</svg>

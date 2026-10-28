@@ -14,14 +14,7 @@ The Emotional Intelligence Quick Book by Travis Bradberry and Jean Greaves disti
 
 Self-awareness is the cornerstone of high EQ.  It involves understanding your emotions, strengths, weaknesses, values, and how you impact others.  The book encourages introspection through journaling, self-reflection, and seeking feedback.  Honest self-assessment, even about uncomfortable aspects, is vital.  Understanding your emotional triggers allows you to proactively manage your responses.
 
-```mermaid
-graph LR
-A[Self-Reflection] --> B(Journaling);
-A --> C(Seeking Feedback);
-B --> D{Understanding Triggers};
-C --> D;
-D --> E[Improved Self-Awareness];
-```
+![Self-Awareness: Knowing Yourself. Self-Reflection; Journaling; Seeking Feedback; Understanding Triggers; Improved Self-Awareness.](diagram-01.svg)
 
 # Self-Regulation: Managing Your Emotions
 
@@ -40,15 +33,7 @@ Empathy is the ability to understand and share the feelings of others.  It invol
 
 Social skills are important for navigating social situations and building strong relationships. The book details strategies for effective communication, including active listening, clear articulation, and assertive communication. It stresses the importance of building trust, resolving conflicts constructively, and managing difficult conversations.
 
-```mermaid
-graph LR
-A[Active Listening] --> B(Empathy);
-B --> C(Understanding Needs);
-C --> D[Effective Communication];
-A --> E(Non-Verbal Cues);
-E --> D;
-D --> F(Building Relationships);
-```
+![Social Skills: Building Relationships. Active Listening; Empathy; Understanding Needs; Effective Communication; Non-Verbal Cues; Building Relationships.](diagram-02.svg)
 
 
 # Putting it all Together: Actionable Steps

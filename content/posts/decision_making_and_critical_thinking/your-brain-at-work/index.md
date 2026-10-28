@@ -22,21 +22,7 @@ A central pillar of the book is the SCARF model, which outlines five key domains
 
 When these domains are threatened, our brain perceives it as a threat, triggering a stress response that diverts resources away from higher-level cognitive functions and towards survival mechanisms. This leads to impaired decision-making, reduced creativity, and decreased overall effectiveness.
 
-```mermaid
-graph LR
-    A[Threat] --> B(Stress Response);
-    B --> C{Resource Diversion};
-    C --> D[Impaired Cognition];
-    D --> E[Reduced Performance];
-    subgraph SCARF
-        Status
-        Certainty
-        Autonomy
-        Relatedness
-        Fairness
-    end
-    A -.-> SCARF
-```
+![The SCARF Model: Navigating Social Environments. Threat; Stress Response; Resource Diversion; Impaired Cognition; Reduced Performance; Status; Certainty; Autonomy; Relatedness; Fairness.](diagram-01.svg)
 
 # Enhancing Status, Certainty, Autonomy, Relatedness, and Fairness
 

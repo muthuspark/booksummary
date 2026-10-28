@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516pt" height="364pt" viewBox="0.00 0.00 516.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Iterative Goal Setting: Breaking Down the Mountain</title><desc id="description">Large Goal leads to Smaller Task 1. Large Goal leads to Smaller Task 2. Large Goal leads to Smaller Task 3. Smaller Task 1 leads to Feedback &amp; Adjustment. Smaller Task 2 leads to Feedback &amp; Adjustment. Smaller Task 3 leads to Feedback &amp; Adjustment. Feedback &amp; Adjustment leads to Revised Plan. Revised Plan leads to Next Iteration.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 498,-346 498,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193.37,-287.87C171.92,-278.88 146.24,-268.12 124.04,-258.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="124.98,-256.55 117.58,-256.1 123.09,-261.07 124.98,-256.55" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239,-287.87C239,-280.31 239,-271.49 239,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-263.1 239,-256.1 236.55,-263.1 241.45,-263.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M284.91,-287.87C306.48,-278.88 332.31,-268.12 354.64,-258.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="355.63,-261.06 361.15,-256.1 353.74,-256.54 355.63,-261.06" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M117.63,-215.87C139.08,-206.88 164.76,-196.12 186.96,-186.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.91,-189.07 193.42,-184.1 186.02,-184.55 187.91,-189.07" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239,-215.87C239,-208.31 239,-199.49 239,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-191.1 239,-184.1 236.55,-191.1 241.45,-191.1" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M361.09,-215.87C339.52,-206.88 313.69,-196.12 291.36,-186.81" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="292.26,-184.54 284.85,-184.1 290.37,-189.06 292.26,-184.54" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239,-143.87C239,-136.31 239,-127.49 239,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-119.1 239,-112.1 236.55,-119.1 241.45,-119.1" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M239,-71.87C239,-64.31 239,-55.49 239,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="241.45,-47.1 239,-40.1 236.55,-47.1 241.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M284.5,-328C284.5,-328 193.5,-328 193.5,-328 187.5,-328 181.5,-322 181.5,-316 181.5,-316 181.5,-300 181.5,-300 181.5,-294 187.5,-288 193.5,-288 193.5,-288 284.5,-288 284.5,-288 290.5,-288 296.5,-294 296.5,-300 296.5,-300 296.5,-316 296.5,-316 296.5,-322 290.5,-328 284.5,-328" />
+<text text-anchor="middle" x="239" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Large Goal</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M132,-256C132,-256 12,-256 12,-256 6,-256 0,-250 0,-244 0,-244 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 132,-216 132,-216 138,-216 144,-222 144,-228 144,-228 144,-244 144,-244 144,-250 138,-256 132,-256" />
+<text text-anchor="middle" x="72" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Task 1</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M300,-256C300,-256 178,-256 178,-256 172,-256 166,-250 166,-244 166,-244 166,-228 166,-228 166,-222 172,-216 178,-216 178,-216 300,-216 300,-216 306,-216 312,-222 312,-228 312,-228 312,-244 312,-244 312,-250 306,-256 300,-256" />
+<text text-anchor="middle" x="239" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Task 2</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M468,-256C468,-256 346,-256 346,-256 340,-256 334,-250 334,-244 334,-244 334,-228 334,-228 334,-222 340,-216 346,-216 346,-216 468,-216 468,-216 474,-216 480,-222 480,-228 480,-228 480,-244 480,-244 480,-250 474,-256 468,-256" />
+<text text-anchor="middle" x="407" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Smaller Task 3</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M336.5,-184C336.5,-184 141.5,-184 141.5,-184 135.5,-184 129.5,-178 129.5,-172 129.5,-172 129.5,-156 129.5,-156 129.5,-150 135.5,-144 141.5,-144 141.5,-144 336.5,-144 336.5,-144 342.5,-144 348.5,-150 348.5,-156 348.5,-156 348.5,-172 348.5,-172 348.5,-178 342.5,-184 336.5,-184" />
+<text text-anchor="middle" x="239" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback &amp; Adjustment</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M293,-112C293,-112 185,-112 185,-112 179,-112 173,-106 173,-100 173,-100 173,-84 173,-84 173,-78 179,-72 185,-72 185,-72 293,-72 293,-72 299,-72 305,-78 305,-84 305,-84 305,-100 305,-100 305,-106 299,-112 293,-112" />
+<text text-anchor="middle" x="239" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Revised Plan</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M297,-40C297,-40 181,-40 181,-40 175,-40 169,-34 169,-28 169,-28 169,-12 169,-12 169,-6 175,0 181,0 181,0 297,0 297,0 303,0 309,-6 309,-12 309,-12 309,-28 309,-28 309,-34 303,-40 297,-40" />
+<text text-anchor="middle" x="239" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Next Iteration</text>
+</g>
+</g>
+</svg>

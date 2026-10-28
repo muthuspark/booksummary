@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326pt" height="400pt" viewBox="0.00 0.00 325.50 400.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Interbeing: Recognizing Interconnectedness</title><desc id="description">Me leads to Others (Interbeing). Others leads to Environment (Interbeing). Environment leads to Me (Interbeing). Me leads to Actions. Actions leads to Consequences. Consequences leads to Others. Consequences leads to Environment.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 382)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-382 307.5,-382 307.5,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M78.6,-323.79C68.19,-314.75 56.64,-303.26 48.5,-291 33.8,-268.85 34.57,-260.62 27.5,-235 18.84,-203.62 15.56,-194.01 21.5,-162 23.13,-153.23 26.18,-144.04 29.41,-135.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="31.73,-136.66 32.15,-129.26 27.2,-134.79 31.73,-136.66" />
+<text text-anchor="middle" x="63" y="-223" font-family="Georgia" font-size="15.00" fill="#405b50">Interbeing</text>
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.5,-323.97C103.5,-316.09 103.5,-306.82 103.5,-298.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-298.08 103.5,-291.08 101.05,-298.08 105.95,-298.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M36.6,-88.92C35.01,-78.36 35.06,-65.49 41.5,-56 45.45,-50.18 50.53,-45.33 56.26,-41.29" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="57.6,-43.34 62.18,-37.51 54.96,-39.21 57.6,-43.34" />
+<text text-anchor="middle" x="77" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Interbeing</text>
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M168.28,-40.09C192.26,-54.9 218.5,-77.97 218.5,-108 218.5,-272 218.5,-272 218.5,-272 218.5,-310.33 171.66,-328.66 137.77,-336.9" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="137.03,-334.55 130.75,-338.51 138.12,-339.33 137.03,-334.55" />
+<text text-anchor="middle" x="254" y="-178.5" font-family="Georgia" font-size="15.00" fill="#405b50">Interbeing</text>
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M103.5,-250.69C103.5,-238.53 103.5,-222.66 103.5,-209.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="105.95,-209.25 103.5,-202.25 101.05,-209.25 105.95,-209.25" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M86.89,-161.97C79.52,-153.54 70.76,-143.51 62.91,-134.52" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="64.61,-132.74 58.16,-129.08 60.92,-135.96 64.61,-132.74" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.64,-161.7C111.26,-133.23 119.93,-79.88 125.16,-47.68" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="127.65,-47.67 126.35,-40.37 122.81,-46.88 127.65,-47.67" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M118.5,-364C118.5,-364 88.5,-364 88.5,-364 82.5,-364 76.5,-358 76.5,-352 76.5,-352 76.5,-336 76.5,-336 76.5,-330 82.5,-324 88.5,-324 88.5,-324 118.5,-324 118.5,-324 124.5,-324 130.5,-330 130.5,-336 130.5,-336 130.5,-352 130.5,-352 130.5,-358 124.5,-364 118.5,-364" />
+<text text-anchor="middle" x="103.5" y="-339.6" font-family="Georgia" font-size="18.00" fill="#243d36">Me</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M71,-129C71,-129 12,-129 12,-129 6,-129 0,-123 0,-117 0,-117 0,-101 0,-101 0,-95 6,-89 12,-89 12,-89 71,-89 71,-89 77,-89 83,-95 83,-101 83,-101 83,-117 83,-117 83,-123 77,-129 71,-129" />
+<text text-anchor="middle" x="41.5" y="-104.6" font-family="Georgia" font-size="18.00" fill="#243d36">Others</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M184.5,-40C184.5,-40 74.5,-40 74.5,-40 68.5,-40 62.5,-34 62.5,-28 62.5,-28 62.5,-12 62.5,-12 62.5,-6 68.5,0 74.5,0 74.5,0 184.5,0 184.5,0 190.5,0 196.5,-6 196.5,-12 196.5,-12 196.5,-28 196.5,-28 196.5,-34 190.5,-40 184.5,-40" />
+<text text-anchor="middle" x="129.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Environment</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M135.5,-291C135.5,-291 71.5,-291 71.5,-291 65.5,-291 59.5,-285 59.5,-279 59.5,-279 59.5,-263 59.5,-263 59.5,-257 65.5,-251 71.5,-251 71.5,-251 135.5,-251 135.5,-251 141.5,-251 147.5,-257 147.5,-263 147.5,-263 147.5,-279 147.5,-279 147.5,-285 141.5,-291 135.5,-291" />
+<text text-anchor="middle" x="103.5" y="-266.6" font-family="Georgia" font-size="18.00" fill="#243d36">Actions</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162,-202C162,-202 45,-202 45,-202 39,-202 33,-196 33,-190 33,-190 33,-174 33,-174 33,-168 39,-162 45,-162 45,-162 162,-162 162,-162 168,-162 174,-168 174,-174 174,-174 174,-190 174,-190 174,-196 168,-202 162,-202" />
+<text text-anchor="middle" x="103.5" y="-177.6" font-family="Georgia" font-size="18.00" fill="#243d36">Consequences</text>
+</g>
+</g>
+</svg>

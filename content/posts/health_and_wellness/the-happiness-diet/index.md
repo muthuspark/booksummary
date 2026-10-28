@@ -14,16 +14,7 @@ The Happiness Diet, by Tyler Graham and Drew Ramsey, isn't about restricting cal
 
 A central theme throughout the book is the gut-brain axis. This bidirectional communication system highlights how the health of your gut directly impacts your brain function and mental state. The authors detail how gut bacteria influence neurotransmitter production, inflammation levels, and even your emotional responses. An unhealthy gut, with dysbiosis (an imbalance of gut bacteria), can contribute to anxiety, depression, and other mood disorders.
 
-```mermaid
-graph LR
-    A[Gut Microbiome] --> B(Neurotransmitter Production);
-    A --> C(Inflammation Levels);
-    A --> D(Emotional Responses);
-    B --> E[Brain Function];
-    C --> E;
-    D --> E;
-    E --> F(Mental Well-being);
-```
+![The Gut-Brain Connection: A Foundation of Happiness. Gut Microbiome; Neurotransmitter Production; Inflammation Levels; Emotional Responses; Brain Function; Mental Well-being.](diagram-01.svg)
 
 The book emphasizes that restoring gut health is a cornerstone of the "Happiness Diet." This involves strategies like consuming plenty of fiber-rich foods to feed beneficial bacteria and avoiding processed foods, sugar, and artificial sweeteners that can disrupt the gut microbiome.
 

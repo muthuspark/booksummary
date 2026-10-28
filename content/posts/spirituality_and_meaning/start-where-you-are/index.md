@@ -14,14 +14,7 @@ Pema Chödrön's "Start Where You Are" is a guide to navigating life's challenge
 
 The book emphasizes the Buddhist principles of *anicca* (impermanence) and *dukkha* (unsatisfactoriness). Nothing is permanent; everything is in constant flux. Similarly, clinging to things and situations creates suffering. Recognizing this fundamental truth is important for cultivating inner peace. By understanding that discomfort and difficulty are parts of life, we can lessen their power over us.
 
-```mermaid
-graph LR
-    A["Impermanence (Anicca)"] --> B(Change is Constant);
-    A --> C(Nothing Lasts Forever);
-    B --> D{Acceptance};
-    C --> D;
-    D --> E[Inner Peace];
-```
+![The Nature of Reality: Impermanence and Unsatisfactoriness. Impermanence (Anicca); Change is Constant; Nothing Lasts Forever; Acceptance; Inner Peace.](diagram-01.svg)
 
 ## Working with Difficult Emotions
 
@@ -70,15 +63,7 @@ Chödrön encourages readers to view everyday life as a spiritual practice. This
 * **Engaging with Challenges:**  View challenges as opportunities for growth and learning, embracing discomfort and uncertainty.
 
 
-```mermaid
-graph LR
-    A[Mindful Breathing] --> B(Present Moment Awareness);
-    C[Body Scan Meditation] --> B;
-    D[Loving-Kindness Meditation] --> E(Compassion & Connection);
-    F[Accepting Difficult Emotions] --> G(Emotional Regulation);
-    H[Letting Go of Control] --> I(Reduced Anxiety);
-    J[Engaging with Challenges] --> K(Resilience & Growth);
-```
+![Actionable Strategies:. Mindful Breathing; Present Moment Awareness; Body Scan Meditation; Loving-Kindness Meditation; Compassion & Connection; Accepting Difficult Emotions; Emotional Regulation; Letting Go of Control; Reduced Anxiety; Engaging with Challenges; Resilience & Growth.](diagram-02.svg)
 
 
 

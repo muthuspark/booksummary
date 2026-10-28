@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="636pt" height="404pt" viewBox="0.00 0.00 636.03 404.00" role="img" aria-labelledby="title description">
+<title id="title">Insulin Resistance: The Core Problem</title><desc id="description">Food Intake leads to Increased Insulin. Increased Insulin leads to Insulin Resistance. Insulin Resistance leads to Glucose Accumulation. Glucose Accumulation leads to More Insulin. More Insulin leads to Insulin Resistance. Insulin Resistance leads to Fat Storage. Insulin Resistance leads to Fat Burning Inhibition.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 618.03,-386 618.03,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M381.5,-327.87C381.5,-320.31 381.5,-311.49 381.5,-303.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="383.95,-303.1 381.5,-296.1 379.05,-303.1 383.95,-303.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M381.5,-255.91C381.5,-248.58 381.5,-239.86 381.5,-231.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="383.95,-231.07 381.5,-224.07 379.05,-231.07 383.95,-231.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M310.99,-160.17C267.32,-146.04 211.63,-128 168.94,-114.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="169.61,-111.83 162.2,-112 168.11,-116.49 169.61,-111.83" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M348.71,-151.27C337.12,-140.05 324.27,-127.62 313.44,-117.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="315.03,-115.26 308.29,-112.15 311.62,-118.78 315.03,-115.26" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M414.29,-151.27C425.88,-140.05 438.73,-127.62 449.56,-117.13" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="451.38,-118.78 454.71,-112.15 447.97,-115.26 451.38,-118.78" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M172.57,-71.96C207.14,-62.44 248.99,-50.9 284.14,-41.22" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="284.97,-43.53 291.07,-39.31 283.67,-38.8 284.97,-43.53" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M423.62,-26.44C484.7,-33.01 568.99,-46.49 589.5,-72 626.7,-118.26 555,-147.73 485.85,-164.59" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="484.98,-162.27 478.74,-166.28 486.12,-167.04 484.98,-162.27" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M432,-368C432,-368 331,-368 331,-368 325,-368 319,-362 319,-356 319,-356 319,-340 319,-340 319,-334 325,-328 331,-328 331,-328 432,-328 432,-328 438,-328 444,-334 444,-340 444,-340 444,-356 444,-356 444,-362 438,-368 432,-368" />
+<text text-anchor="middle" x="381.5" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Food Intake</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M453,-296C453,-296 310,-296 310,-296 304,-296 298,-290 298,-284 298,-284 298,-268 298,-268 298,-262 304,-256 310,-256 310,-256 453,-256 453,-256 459,-256 465,-262 465,-268 465,-268 465,-284 465,-284 465,-290 459,-296 453,-296" />
+<text text-anchor="middle" x="381.5" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Increased Insulin</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="381.5,-224 207.5,-184 381.5,-144 555.5,-184 381.5,-224" />
+<text text-anchor="middle" x="381.5" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Insulin Resistance</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M195,-112C195,-112 12,-112 12,-112 6,-112 0,-106 0,-100 0,-100 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 195,-72 195,-72 201,-72 207,-78 207,-84 207,-84 207,-100 207,-100 207,-106 201,-112 195,-112" />
+<text text-anchor="middle" x="103.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Glucose Accumulation</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M411.5,-40C411.5,-40 303.5,-40 303.5,-40 297.5,-40 291.5,-34 291.5,-28 291.5,-28 291.5,-12 291.5,-12 291.5,-6 297.5,0 303.5,0 303.5,0 411.5,0 411.5,0 417.5,0 423.5,-6 423.5,-12 423.5,-12 423.5,-28 423.5,-28 423.5,-34 417.5,-40 411.5,-40" />
+<text text-anchor="middle" x="357.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">More Insulin</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M336,-112C336,-112 241,-112 241,-112 235,-112 229,-106 229,-100 229,-100 229,-84 229,-84 229,-78 235,-72 241,-72 241,-72 336,-72 336,-72 342,-72 348,-78 348,-84 348,-84 348,-100 348,-100 348,-106 342,-112 336,-112" />
+<text text-anchor="middle" x="288.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fat Storage</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M566.5,-112C566.5,-112 382.5,-112 382.5,-112 376.5,-112 370.5,-106 370.5,-100 370.5,-100 370.5,-84 370.5,-84 370.5,-78 376.5,-72 382.5,-72 382.5,-72 566.5,-72 566.5,-72 572.5,-72 578.5,-78 578.5,-84 578.5,-84 578.5,-100 578.5,-100 578.5,-106 572.5,-112 566.5,-112" />
+<text text-anchor="middle" x="474.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fat Burning Inhibition</text>
+</g>
+</g>
+</svg>

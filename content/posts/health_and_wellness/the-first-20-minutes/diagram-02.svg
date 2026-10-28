@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218pt" height="588pt" viewBox="0.00 0.00 218.00 588.00" role="img" aria-labelledby="title description">
+<title id="title">HIIT Workout Examples</title><desc id="description">Warm-up (5 min) leads to High-Intensity   Interval 1 (30 sec. High-Intensity   Interval 1 (30 sec leads to Low-Intensity   Recovery (60 sec. Low-Intensity   Recovery (60 sec leads to High-Intensity   Interval 2 (30 sec. High-Intensity   Interval 2 (30 sec leads to Low-Intensity   Recovery (60 sec. Low-Intensity   Recovery (60 sec leads to Repeat   6-8 times. Repeat   6-8 times leads to Cool-down   (5 min.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 570)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-570 200,-570 200,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-511.63C91,-504.34 91,-495.78 91,-487.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-487.19 91,-480.19 88.55,-487.19 93.45,-487.19" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-419.53C91,-411.84 91,-403.45 91,-395.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-395.23 91,-388.23 88.55,-395.23 93.45,-395.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-327.53C91,-319.84 91,-311.45 91,-303.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-303.23 91,-296.23 88.55,-303.23 93.45,-303.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-235.53C91,-227.84 91,-219.45 91,-211.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-211.23 91,-204.23 88.55,-211.23 93.45,-211.23" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-143.67C91,-135.77 91,-127.28 91,-119.55" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-119.12 91,-112.12 88.55,-119.12 93.45,-119.12" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91,-71.87C91,-64.31 91,-55.49 91,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="93.45,-47.1 91,-40.1 88.55,-47.1 93.45,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M164,-552C164,-552 18,-552 18,-552 12,-552 6,-546 6,-540 6,-540 6,-524 6,-524 6,-518 12,-512 18,-512 18,-512 164,-512 164,-512 170,-512 176,-518 176,-524 176,-524 176,-540 176,-540 176,-546 170,-552 164,-552" />
+<text text-anchor="middle" x="91" y="-527.6" font-family="Georgia" font-size="18.00" fill="#243d36">Warm-up (5 min)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161.5,-480C161.5,-480 20.5,-480 20.5,-480 14.5,-480 8.5,-474 8.5,-468 8.5,-468 8.5,-432 8.5,-432 8.5,-426 14.5,-420 20.5,-420 20.5,-420 161.5,-420 161.5,-420 167.5,-420 173.5,-426 173.5,-432 173.5,-432 173.5,-468 173.5,-468 173.5,-474 167.5,-480 161.5,-480" />
+<text text-anchor="middle" x="91" y="-455.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Intensity</text>
+<text text-anchor="middle" x="91" y="-435.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interval 1 (30 sec</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161.5,-388C161.5,-388 20.5,-388 20.5,-388 14.5,-388 8.5,-382 8.5,-376 8.5,-376 8.5,-340 8.5,-340 8.5,-334 14.5,-328 20.5,-328 20.5,-328 161.5,-328 161.5,-328 167.5,-328 173.5,-334 173.5,-340 173.5,-340 173.5,-376 173.5,-376 173.5,-382 167.5,-388 161.5,-388" />
+<text text-anchor="middle" x="91" y="-363.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low-Intensity</text>
+<text text-anchor="middle" x="91" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recovery (60 sec</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M162.5,-296C162.5,-296 19.5,-296 19.5,-296 13.5,-296 7.5,-290 7.5,-284 7.5,-284 7.5,-248 7.5,-248 7.5,-242 13.5,-236 19.5,-236 19.5,-236 162.5,-236 162.5,-236 168.5,-236 174.5,-242 174.5,-248 174.5,-248 174.5,-284 174.5,-284 174.5,-290 168.5,-296 162.5,-296" />
+<text text-anchor="middle" x="91" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">High-Intensity</text>
+<text text-anchor="middle" x="91" y="-251.6" font-family="Georgia" font-size="18.00" fill="#243d36">Interval 2 (30 sec</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161.5,-204C161.5,-204 20.5,-204 20.5,-204 14.5,-204 8.5,-198 8.5,-192 8.5,-192 8.5,-156 8.5,-156 8.5,-150 14.5,-144 20.5,-144 20.5,-144 161.5,-144 161.5,-144 167.5,-144 173.5,-150 173.5,-156 173.5,-156 173.5,-192 173.5,-192 173.5,-198 167.5,-204 161.5,-204" />
+<text text-anchor="middle" x="91" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Low-Intensity</text>
+<text text-anchor="middle" x="91" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Recovery (60 sec</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M166,-112C166,-112 16,-112 16,-112 10,-112 4,-106 4,-100 4,-100 4,-84 4,-84 4,-78 10,-72 16,-72 16,-72 166,-72 166,-72 172,-72 178,-78 178,-84 178,-84 178,-100 178,-100 178,-106 172,-112 166,-112" />
+<text text-anchor="middle" x="91" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Repeat   6-8 times</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M170,-40C170,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 170,0 170,0 176,0 182,-6 182,-12 182,-12 182,-28 182,-28 182,-34 176,-40 170,-40" />
+<text text-anchor="middle" x="91" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cool-down   (5 min</text>
+</g>
+</g>
+</svg>

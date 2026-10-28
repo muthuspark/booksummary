@@ -18,24 +18,13 @@ The Gita unfolds on a battlefield, but this battlefield is primarily internal. A
 
 Dharma, often translated as "duty" or "righteousness," is central to Easwaran's interpretation.  It's not merely following societal rules, but discovering and fulfilling your unique purpose in life. This involves understanding your talents and acting in accordance with your inner truth.  It's about finding your place within the cosmic order and contributing meaningfully to the world.  Identifying your dharma is a process of self-discovery and requires introspection and careful consideration of your capabilities and the needs around you.
 
-```mermaid
-graph LR
-    A[Self-Reflection] --> B(Understanding Talents & Abilities);
-    B --> C{Identifying Needs Around You};
-    C --> D["Discovering Your <br> Unique Purpose (Dharma)"];
-    D --> E(Acting in Accordance <br> with Dharma);
-```
+![Understanding Dharma: Your Purpose in Life. Self-Reflection; Understanding Talents & Abilities; Identifying Needs Around You; Discovering Your   Unique Purpose (Dharma); Acting in Accordance   with Dharma.](diagram-01.svg)
 
 ### Karma Yoga: The Path of Selfless Action
 
 Easwaran emphasizes Karma Yoga as a highly practical path.  This isn't about accumulating good deeds for reward, but acting selflessly, without attachment to results.  The focus is on the action itself, performing your duty with dedication and without concern for personal gain or loss.  This fosters inner peace and helps you transcend ego-driven motivations.
 
-```mermaid
-graph LR
-    A[Action] --> B(Without Attachment to Results);
-    B --> C(Dedicated Effort);
-    C --> D(Inner Peace & Self-Realization);
-```
+![Karma Yoga: The Path of Selfless Action. Action; Without Attachment to Results; Dedicated Effort; Inner Peace & Self-Realization.](diagram-02.svg)
 
 ### Jnana Yoga: The Path of Knowledge & Self-Inquiry
 

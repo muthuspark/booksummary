@@ -15,14 +15,7 @@ Michael Pantalon's "Instant Influence" delves into the psychology of persuasion,
 
 Building rapport is presented as the foundational element of successful influence. This involves creating a sense of trust and connection with the individual you wish to influence. Pantalon stresses that this isn't about flattery or manipulation, but rather genuine empathy and understanding. Active listening, mirroring body language (subtly), and finding common ground are key strategies highlighted. These techniques create a sense of safety and openness, making the other person more receptive to your ideas and requests.
 
-```mermaid
-graph LR
-A[You] --> B(Active Listening);
-B --> C{Common Ground};
-C --> D[Rapport];
-D --> E(Receptiveness);
-E --> F[Influence];
-```
+![The Power of Rapport and Connection. You; Active Listening; Common Ground; Rapport; Receptiveness; Influence.](diagram-01.svg)
 
 
 # Mirroring and Matching: Subtleties in Communication

@@ -29,16 +29,7 @@ The acronym CAN SLIM represents seven key criteria O'Neil uses to screen for pro
 * **M - Market Direction:**  The overall market environment influences stock performance. The system suggests focusing on stocks during strong bull markets when the overall market is trending upwards.
 
 
-```mermaid
-graph LR
-    A[Current Quarterly Earnings] --> B(CAN SLIM);
-    B --> C[Annual Earnings Increase];
-    B --> D[New Products/Management/Highs];
-    B --> E[Supply and Demand];
-    B --> F[Leader or Laggard];
-    B --> G[Institutional Sponsorship];
-    B --> H[Market Direction];
-```
+![The Seven Key CAN SLIM Criteria. Current Quarterly Earnings; CAN SLIM; Annual Earnings Increase; New Products/Management/Highs; Supply and Demand; Leader or Laggard; Institutional Sponsorship; Market Direction.](diagram-01.svg)
 
 ##  Analyzing Charts: The Importance of Technical Analysis
 

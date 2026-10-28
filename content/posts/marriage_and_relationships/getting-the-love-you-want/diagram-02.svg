@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224pt" height="464pt" viewBox="0.00 0.00 224.00 464.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Dialogue</title><desc id="description">Partner 1 Expresses Feelings/Needs leads to Partner 2 Listens &amp; Mirrors. Partner 2 Listens &amp; Mirrors leads to Partner 2 Expresses Feelings/Needs. Partner 2 Expresses Feelings/Needs leads to Partner 1 Listens &amp; Mirrors. Partner 1 Listens &amp; Mirrors leads to Cycle Repeats, Fostering Empathy.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 446)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-446 206,-446 206,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94,-367.53C94,-359.84 94,-351.45 94,-343.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.45,-343.23 94,-336.23 91.55,-343.23 96.45,-343.23" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94,-275.53C94,-267.84 94,-259.45 94,-251.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.45,-251.23 94,-244.23 91.55,-251.23 96.45,-251.23" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94,-183.53C94,-175.84 94,-167.45 94,-159.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.45,-159.23 94,-152.23 91.55,-159.23 96.45,-159.23" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94,-91.53C94,-83.84 94,-75.45 94,-67.45" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.45,-67.23 94,-60.23 91.55,-67.23 96.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M174.5,-428C174.5,-428 13.5,-428 13.5,-428 7.5,-428 1.5,-422 1.5,-416 1.5,-416 1.5,-380 1.5,-380 1.5,-374 7.5,-368 13.5,-368 13.5,-368 174.5,-368 174.5,-368 180.5,-368 186.5,-374 186.5,-380 186.5,-380 186.5,-416 186.5,-416 186.5,-422 180.5,-428 174.5,-428" />
+<text text-anchor="middle" x="94" y="-403.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner 1 Expresses</text>
+<text text-anchor="middle" x="94" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feelings/Needs</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M173,-336C173,-336 15,-336 15,-336 9,-336 3,-330 3,-324 3,-324 3,-288 3,-288 3,-282 9,-276 15,-276 15,-276 173,-276 173,-276 179,-276 185,-282 185,-288 185,-288 185,-324 185,-324 185,-330 179,-336 173,-336" />
+<text text-anchor="middle" x="94" y="-311.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner 2 Listens &amp;</text>
+<text text-anchor="middle" x="94" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mirrors</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M176,-244C176,-244 12,-244 12,-244 6,-244 0,-238 0,-232 0,-232 0,-196 0,-196 0,-190 6,-184 12,-184 12,-184 176,-184 176,-184 182,-184 188,-190 188,-196 188,-196 188,-232 188,-232 188,-238 182,-244 176,-244" />
+<text text-anchor="middle" x="94" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner 2 Expresses</text>
+<text text-anchor="middle" x="94" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feelings/Needs</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M171.5,-152C171.5,-152 16.5,-152 16.5,-152 10.5,-152 4.5,-146 4.5,-140 4.5,-140 4.5,-104 4.5,-104 4.5,-98 10.5,-92 16.5,-92 16.5,-92 171.5,-92 171.5,-92 177.5,-92 183.5,-98 183.5,-104 183.5,-104 183.5,-140 183.5,-140 183.5,-146 177.5,-152 171.5,-152" />
+<text text-anchor="middle" x="94" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner 1 Listens &amp;</text>
+<text text-anchor="middle" x="94" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Mirrors</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M172.5,-60C172.5,-60 15.5,-60 15.5,-60 9.5,-60 3.5,-54 3.5,-48 3.5,-48 3.5,-12 3.5,-12 3.5,-6 9.5,0 15.5,0 15.5,0 172.5,0 172.5,0 178.5,0 184.5,-6 184.5,-12 184.5,-12 184.5,-48 184.5,-48 184.5,-54 178.5,-60 172.5,-60" />
+<text text-anchor="middle" x="94" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Cycle Repeats,</text>
+<text text-anchor="middle" x="94" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fostering Empathy</text>
+</g>
+</g>
+</svg>

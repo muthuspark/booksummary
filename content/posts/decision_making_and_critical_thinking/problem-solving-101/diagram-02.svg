@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420pt" height="404pt" viewBox="0.00 0.00 420.00 404.00" role="img" aria-labelledby="title description">
+<title id="title">Brainstorming Solutions</title><desc id="description">Brainstorming Solutions leads to Option 1: Upgrade Hardware. Brainstorming Solutions leads to Option 2: Software Optimization. Brainstorming Solutions leads to Option 3: Process Re-engineering. Brainstorming Solutions leads to Option 4: Outsourcing. Brainstorming Solutions leads to Option 5: Staff Training.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 386)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-386 402,-386 402,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M91.93,-204.25C110.44,-231.69 140.91,-271.62 176,-297 179.58,-299.59 183.35,-302.05 187.24,-304.37" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="186.16,-306.57 193.45,-307.92 188.59,-302.32 186.16,-306.57" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.18,-202.33C161.12,-209.08 179.34,-216.33 196.73,-223.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="196.19,-225.68 203.6,-225.99 198.01,-221.12 196.19,-225.68" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.18,-174C158.17,-174 173.03,-174 187.58,-174" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="187.69,-176.45 194.69,-174 187.69,-171.55 187.69,-176.45" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M144.18,-144.74C154.79,-140.65 165.64,-136.61 176,-133 184.57,-130.01 193.6,-127.04 202.61,-124.19" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="203.53,-126.46 209.48,-122.03 202.07,-121.79 203.53,-126.46" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M97.43,-143.6C116.79,-121.11 145.58,-91.02 176,-71 183.56,-66.02 191.81,-61.49 200.26,-57.41" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.44,-59.56 206.74,-54.38 199.36,-55.13 201.44,-59.56" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M132,-204C132,-204 12,-204 12,-204 6,-204 0,-198 0,-192 0,-192 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 132,-144 132,-144 138,-144 144,-150 144,-156 144,-156 144,-192 144,-192 144,-198 138,-204 132,-204" />
+<text text-anchor="middle" x="72" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Brainstorming</text>
+<text text-anchor="middle" x="72" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Solutions</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M356,-368C356,-368 204,-368 204,-368 198,-368 192,-362 192,-356 192,-356 192,-320 192,-320 192,-314 198,-308 204,-308 204,-308 356,-308 356,-308 362,-308 368,-314 368,-320 368,-320 368,-356 368,-356 368,-362 362,-368 356,-368" />
+<text text-anchor="middle" x="280" y="-343.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 1: Upgrade</text>
+<text text-anchor="middle" x="280" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Hardware</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M357.5,-286C357.5,-286 202.5,-286 202.5,-286 196.5,-286 190.5,-280 190.5,-274 190.5,-274 190.5,-238 190.5,-238 190.5,-232 196.5,-226 202.5,-226 202.5,-226 357.5,-226 357.5,-226 363.5,-226 369.5,-232 369.5,-238 369.5,-238 369.5,-274 369.5,-274 369.5,-280 363.5,-286 357.5,-286" />
+<text text-anchor="middle" x="280" y="-261.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 2: Software</text>
+<text text-anchor="middle" x="280" y="-241.6" font-family="Georgia" font-size="18.00" fill="#243d36">Optimization</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M353,-204C353,-204 207,-204 207,-204 201,-204 195,-198 195,-192 195,-192 195,-156 195,-156 195,-150 201,-144 207,-144 207,-144 353,-144 353,-144 359,-144 365,-150 365,-156 365,-156 365,-192 365,-192 365,-198 359,-204 353,-204" />
+<text text-anchor="middle" x="280" y="-179.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 3: Process</text>
+<text text-anchor="middle" x="280" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Re-engineering</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M372,-122C372,-122 188,-122 188,-122 182,-122 176,-116 176,-110 176,-110 176,-94 176,-94 176,-88 182,-82 188,-82 188,-82 372,-82 372,-82 378,-82 384,-88 384,-94 384,-94 384,-110 384,-110 384,-116 378,-122 372,-122" />
+<text text-anchor="middle" x="280" y="-97.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 4: Outsourcing</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M341,-60C341,-60 219,-60 219,-60 213,-60 207,-54 207,-48 207,-48 207,-12 207,-12 207,-6 213,0 219,0 219,0 341,0 341,0 347,0 353,-6 353,-12 353,-12 353,-48 353,-48 353,-54 347,-60 341,-60" />
+<text text-anchor="middle" x="280" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Option 5: Staff</text>
+<text text-anchor="middle" x="280" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Training</text>
+</g>
+</g>
+</svg>

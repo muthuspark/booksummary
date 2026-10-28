@@ -20,14 +20,7 @@ Robbins outlines many key pillars for building unshakeable wealth.  These are no
 
 Diversification is key to mitigating risk. Don't put all your eggs in one basket. Robbins advocates for a diversified portfolio spanning different asset classes, including stocks, bonds, real estate, and precious metals. This approach helps protect against losses in any single area.
 
-```mermaid
-graph LR
-    A[Stocks] --> B(Portfolio);
-    C[Bonds] --> B;
-    D[Real Estate] --> B;
-    E[Precious Metals] --> B;
-    B --> F[Reduced Risk];
-```
+![Diversification: Reducing Risk. Stocks; Portfolio; Bonds; Real Estate; Precious Metals; Reduced Risk.](diagram-01.svg)
 
 ### Long-Term Perspective: Patience is Key
 

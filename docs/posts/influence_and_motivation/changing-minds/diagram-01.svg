@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="585pt" height="148pt" viewBox="0.00 0.00 585.00 148.00" role="img" aria-labelledby="title description">
+<title id="title">Disciplined Thinking: The ability to approach problems methodically, considering different perspectives, and resisting impulsive judgments.  This involves employing techniques like:</title><desc id="description">Disciplined Thinking leads to Critical Thinking. Disciplined Thinking leads to Systems Thinking. Disciplined Thinking leads to Creative Thinking.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 130)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-130 567,-130 567,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M218.85,-71.87C194.37,-62.81 165.03,-51.94 139.75,-42.58" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="140.5,-40.24 133.08,-40.1 138.8,-44.83 140.5,-40.24" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M270.5,-71.87C270.5,-64.31 270.5,-55.49 270.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="272.95,-47.1 270.5,-40.1 268.05,-47.1 272.95,-47.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M322.98,-71.96C348.09,-62.86 378.25,-51.92 404.18,-42.51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="405.28,-44.72 411.03,-40.03 403.61,-40.12 405.28,-44.72" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M356.5,-112C356.5,-112 184.5,-112 184.5,-112 178.5,-112 172.5,-106 172.5,-100 172.5,-100 172.5,-84 172.5,-84 172.5,-78 178.5,-72 184.5,-72 184.5,-72 356.5,-72 356.5,-72 362.5,-72 368.5,-78 368.5,-84 368.5,-84 368.5,-100 368.5,-100 368.5,-106 362.5,-112 356.5,-112" />
+<text text-anchor="middle" x="270.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Disciplined Thinking</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M151,-40C151,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 151,0 151,0 157,0 163,-6 163,-12 163,-12 163,-28 163,-28 163,-34 157,-40 151,-40" />
+<text text-anchor="middle" x="81.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Critical Thinking</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M343.5,-40C343.5,-40 197.5,-40 197.5,-40 191.5,-40 185.5,-34 185.5,-28 185.5,-28 185.5,-12 185.5,-12 185.5,-6 191.5,0 197.5,0 197.5,0 343.5,0 343.5,0 349.5,0 355.5,-6 355.5,-12 355.5,-12 355.5,-28 355.5,-28 355.5,-34 349.5,-40 343.5,-40" />
+<text text-anchor="middle" x="270.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Systems Thinking</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M537,-40C537,-40 390,-40 390,-40 384,-40 378,-34 378,-28 378,-28 378,-12 378,-12 378,-6 384,0 390,0 390,0 537,0 537,0 543,0 549,-6 549,-12 549,-12 549,-28 549,-28 549,-34 543,-40 537,-40" />
+<text text-anchor="middle" x="463.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Creative Thinking</text>
+</g>
+</g>
+</svg>

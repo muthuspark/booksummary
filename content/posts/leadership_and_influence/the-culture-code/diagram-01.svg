@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428pt" height="352pt" viewBox="0.00 0.00 428.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Building Safety: The Foundation of a Thriving Culture</title><desc id="description">Leader Models Vulnerability leads to Open Communication. Active Listening leads to Open Communication. Open Communication leads to Constructive Conflict. Constructive Conflict leads to Psychological Safety.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 410,-334 410,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M140.9,-255.67C150.47,-246.87 160.84,-237.33 169.98,-228.92" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="171.71,-230.66 175.21,-224.12 168.4,-227.06 171.71,-230.66" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-183.91C196,-176.58 196,-167.86 196,-159.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-159.07 196,-152.07 193.55,-159.07 198.45,-159.07" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M261.94,-265.63C249.97,-254.63 234.88,-240.75 222.16,-229.05" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="223.68,-227.12 216.87,-224.19 220.36,-230.73 223.68,-227.12" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-71.79C196,-63.54 196,-55.04 196,-47.4" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-47.09 196,-40.09 193.55,-47.09 198.45,-47.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M170.5,-316C170.5,-316 47.5,-316 47.5,-316 41.5,-316 35.5,-310 35.5,-304 35.5,-304 35.5,-268 35.5,-268 35.5,-262 41.5,-256 47.5,-256 47.5,-256 170.5,-256 170.5,-256 176.5,-256 182.5,-262 182.5,-268 182.5,-268 182.5,-304 182.5,-304 182.5,-310 176.5,-316 170.5,-316" />
+<text text-anchor="middle" x="109" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leader Models</text>
+<text text-anchor="middle" x="109" y="-271.6" font-family="Georgia" font-size="18.00" fill="#243d36">Vulnerability</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M286,-224C286,-224 106,-224 106,-224 100,-224 94,-218 94,-212 94,-212 94,-196 94,-196 94,-190 100,-184 106,-184 106,-184 286,-184 286,-184 292,-184 298,-190 298,-196 298,-196 298,-212 298,-212 298,-218 292,-224 286,-224" />
+<text text-anchor="middle" x="196" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Open Communication</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M349,-306C349,-306 217,-306 217,-306 211,-306 205,-300 205,-294 205,-294 205,-278 205,-278 205,-272 211,-266 217,-266 217,-266 349,-266 349,-266 355,-266 361,-272 361,-278 361,-278 361,-294 361,-294 361,-300 355,-306 349,-306" />
+<text text-anchor="middle" x="283" y="-281.6" font-family="Georgia" font-size="18.00" fill="#243d36">Active Listening</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="196,-152 0,-112 196,-72 392,-112 196,-152" />
+<text text-anchor="middle" x="196" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Constructive Conflict</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M279,-40C279,-40 113,-40 113,-40 107,-40 101,-34 101,-28 101,-28 101,-12 101,-12 101,-6 107,0 113,0 113,0 279,0 279,0 285,0 291,-6 291,-12 291,-12 291,-28 291,-28 291,-34 285,-40 279,-40" />
+<text text-anchor="middle" x="196" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Psychological Safety</text>
+</g>
+</g>
+</svg>

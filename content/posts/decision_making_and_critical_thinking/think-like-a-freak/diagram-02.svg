@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422pt" height="683pt" viewBox="0.00 0.00 422.00 683.00" role="img" aria-labelledby="title description">
+<title id="title">The Role of Data and Evidence-Based Decision Making</title><desc id="description">Problem leads to Gather Data. Gather Data leads to Analyze Data. Analyze Data leads to Identify Patterns. Identify Patterns leads to Formulate Hypothesis. Formulate Hypothesis leads to Test Hypothesis. Test Hypothesis leads to Successful?. Successful? leads to Implement Solution (Yes). Successful? leads to Refine Hypothesis (No).</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 665)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-665 404,-665 404,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-606.97C196,-599.09 196,-589.82 196,-581.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-581.08 196,-574.08 193.55,-581.08 198.45,-581.08" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-533.97C196,-526.09 196,-516.82 196,-508.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-508.08 196,-501.08 193.55,-508.08 198.45,-508.08" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-460.7C196,-453.21 196,-444.28 196,-435.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-435.13 196,-428.13 193.55,-435.13 198.45,-435.13" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-347.88C196,-339.18 196,-330.15 196,-322.12" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-322.06 196,-315.06 193.55,-322.06 198.45,-322.06" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-274.97C196,-267.09 196,-257.82 196,-249.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-249.08 196,-242.08 193.55,-249.08 198.45,-249.08" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M196,-201.7C196,-194.21 196,-185.28 196,-176.31" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="198.45,-176.13 196,-169.13 193.55,-176.13 198.45,-176.13" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M167.59,-98.19C151.7,-81.53 132.15,-61.02 117.19,-45.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="118.91,-43.58 112.31,-40.2 115.36,-46.96 118.91,-43.58" />
+<text text-anchor="middle" x="154" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">Yes</text>
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M224.41,-98.19C240.3,-81.53 259.85,-61.02 274.81,-45.33" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="276.64,-46.96 279.69,-40.2 273.09,-43.58 276.64,-46.96" />
+<text text-anchor="middle" x="272" y="-61" font-family="Georgia" font-size="15.00" fill="#405b50">No</text>
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M232.5,-647C232.5,-647 159.5,-647 159.5,-647 153.5,-647 147.5,-641 147.5,-635 147.5,-635 147.5,-619 147.5,-619 147.5,-613 153.5,-607 159.5,-607 159.5,-607 232.5,-607 232.5,-607 238.5,-607 244.5,-613 244.5,-619 244.5,-619 244.5,-635 244.5,-635 244.5,-641 238.5,-647 232.5,-647" />
+<text text-anchor="middle" x="196" y="-622.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M246.5,-574C246.5,-574 145.5,-574 145.5,-574 139.5,-574 133.5,-568 133.5,-562 133.5,-562 133.5,-546 133.5,-546 133.5,-540 139.5,-534 145.5,-534 145.5,-534 246.5,-534 246.5,-534 252.5,-534 258.5,-540 258.5,-546 258.5,-546 258.5,-562 258.5,-562 258.5,-568 252.5,-574 246.5,-574" />
+<text text-anchor="middle" x="196" y="-549.6" font-family="Georgia" font-size="18.00" fill="#243d36">Gather Data</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M251,-501C251,-501 141,-501 141,-501 135,-501 129,-495 129,-489 129,-489 129,-473 129,-473 129,-467 135,-461 141,-461 141,-461 251,-461 251,-461 257,-461 263,-467 263,-473 263,-473 263,-489 263,-489 263,-495 257,-501 251,-501" />
+<text text-anchor="middle" x="196" y="-476.6" font-family="Georgia" font-size="18.00" fill="#243d36">Analyze Data</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="196,-428 33,-388 196,-348 359,-388 196,-428" />
+<text text-anchor="middle" x="196" y="-383.6" font-family="Georgia" font-size="18.00" fill="#243d36">Identify Patterns</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M287,-315C287,-315 105,-315 105,-315 99,-315 93,-309 93,-303 93,-303 93,-287 93,-287 93,-281 99,-275 105,-275 105,-275 287,-275 287,-275 293,-275 299,-281 299,-287 299,-287 299,-303 299,-303 299,-309 293,-315 287,-315" />
+<text text-anchor="middle" x="196" y="-290.6" font-family="Georgia" font-size="18.00" fill="#243d36">Formulate Hypothesis</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M262.5,-242C262.5,-242 129.5,-242 129.5,-242 123.5,-242 117.5,-236 117.5,-230 117.5,-230 117.5,-214 117.5,-214 117.5,-208 123.5,-202 129.5,-202 129.5,-202 262.5,-202 262.5,-202 268.5,-202 274.5,-208 274.5,-214 274.5,-214 274.5,-230 274.5,-230 274.5,-236 268.5,-242 262.5,-242" />
+<text text-anchor="middle" x="196" y="-217.6" font-family="Georgia" font-size="18.00" fill="#243d36">Test Hypothesis</text>
+</g>
+
+<g id="node7" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="196,-169 77,-129 196,-89 315,-129 196,-169" />
+<text text-anchor="middle" x="196" y="-124.6" font-family="Georgia" font-size="18.00" fill="#243d36">Successful?</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M176,-40C176,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 176,0 176,0 182,0 188,-6 188,-12 188,-12 188,-28 188,-28 188,-34 182,-40 176,-40" />
+<text text-anchor="middle" x="94" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implement Solution</text>
+</g>
+
+<g id="node9" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M374,-40C374,-40 222,-40 222,-40 216,-40 210,-34 210,-28 210,-28 210,-12 210,-12 210,-6 216,0 222,0 222,0 374,0 374,0 380,0 386,-6 386,-12 386,-12 386,-28 386,-28 386,-34 380,-40 374,-40" />
+<text text-anchor="middle" x="298" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Refine Hypothesis</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357pt" height="262pt" viewBox="0.00 0.00 357.00 262.00" role="img" aria-labelledby="title description">
+<title id="title">Pride:  A Sense of Accomplishment</title><desc id="description">Pride leads to Achievement. Pride leads to Overcoming Challenges. Pride leads to Confidence Building. Pride leads to Self Esteem.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 244)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-244 339,-244 339,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M54.17,-133.23C66.71,-146.83 84.81,-164.17 104,-175 114.85,-181.12 127.01,-186.12 139.14,-190.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="138.45,-192.53 145.87,-192.33 139.95,-187.86 138.45,-192.53" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72.31,-119.27C79.78,-120.6 88.04,-122.07 96.71,-123.61" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.42,-126.04 103.74,-124.86 97.27,-121.22 96.42,-126.04" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M72.31,-106.73C83.42,-104.75 96.3,-102.47 109.64,-100.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="110.19,-102.49 116.66,-98.85 109.34,-97.66 110.19,-102.49" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M54.17,-92.77C66.71,-79.17 84.81,-61.83 104,-51 116.5,-43.95 130.75,-38.38 144.68,-34.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="145.49,-36.35 151.49,-32 144.08,-31.66 145.49,-36.35" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M60,-133C60,-133 12,-133 12,-133 6,-133 0,-127 0,-121 0,-121 0,-105 0,-105 0,-99 6,-93 12,-93 12,-93 60,-93 60,-93 66,-93 72,-99 72,-105 72,-105 72,-121 72,-121 72,-127 66,-133 60,-133" />
+<text text-anchor="middle" x="36" y="-108.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pride</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M267,-226C267,-226 158,-226 158,-226 152,-226 146,-220 146,-214 146,-214 146,-198 146,-198 146,-192 152,-186 158,-186 158,-186 267,-186 267,-186 273,-186 279,-192 279,-198 279,-198 279,-214 279,-214 279,-220 273,-226 267,-226" />
+<text text-anchor="middle" x="212.5" y="-201.6" font-family="Georgia" font-size="18.00" fill="#243d36">Achievement</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M309,-164C309,-164 116,-164 116,-164 110,-164 104,-158 104,-152 104,-152 104,-136 104,-136 104,-130 110,-124 116,-124 116,-124 309,-124 309,-124 315,-124 321,-130 321,-136 321,-136 321,-152 321,-152 321,-158 315,-164 309,-164" />
+<text text-anchor="middle" x="212.5" y="-139.6" font-family="Georgia" font-size="18.00" fill="#243d36">Overcoming Challenges</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M296,-102C296,-102 129,-102 129,-102 123,-102 117,-96 117,-90 117,-90 117,-74 117,-74 117,-68 123,-62 129,-62 129,-62 296,-62 296,-62 302,-62 308,-68 308,-74 308,-74 308,-90 308,-90 308,-96 302,-102 296,-102" />
+<text text-anchor="middle" x="212.5" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Confidence Building</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M261.5,-40C261.5,-40 163.5,-40 163.5,-40 157.5,-40 151.5,-34 151.5,-28 151.5,-28 151.5,-12 151.5,-12 151.5,-6 157.5,0 163.5,0 163.5,0 261.5,0 261.5,0 267.5,0 273.5,-6 273.5,-12 273.5,-12 273.5,-28 273.5,-28 273.5,-34 267.5,-40 261.5,-40" />
+<text text-anchor="middle" x="212.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Self Esteem</text>
+</g>
+</g>
+</svg>

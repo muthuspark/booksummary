@@ -14,12 +14,7 @@ author: "Hal Edward Runkel"
 
 Before addressing conflicts, Runkel emphasizes the critical importance of self-awareness. He encourages couples to identify their underlying needs – emotional, physical, or spiritual – that are often masked by superficial desires or complaints.  This process necessitates introspection and honest self-assessment.  Common unmet needs might include the need for connection, respect, validation, autonomy, and security.  Ignoring these needs often leads to reactive behavior, including yelling, withdrawing, or engaging in passive-aggressive actions.
 
-```mermaid
-graph LR
-    A[Unmet Needs] --> B(Reactive Behaviors);
-    B --> C[Conflict/Screaming];
-    C --> D[Damaged Relationship];
-```
+![Identifying Your Needs: The Foundation of Change. Unmet Needs; Reactive Behaviors; Conflict/Screaming; Damaged Relationship.](diagram-01.svg)
 
 # Taking Responsibility for Your Reactions: The Shift
 
@@ -29,13 +24,7 @@ A fundamental shift in perspective is required. Instead of blaming your spouse f
 
 The "pause" is a cornerstone of the ScreamFree methodology.  When feeling overwhelmed, triggered, or on the verge of an argument, taking a break is essential.  This pause isn't about avoidance; it's about creating space for emotional regulation and gaining perspective.  This can involve removing yourself physically from the situation to calm down, engage in mindfulness practices, or simply take deep breaths.
 
-```mermaid
-graph LR
-    A[Triggered/Overwhelmed] --> B{Pause};
-    B -- Calm Down --> C[Reflective Thinking];
-    B -- Mindfulness --> C;
-    C --> D[Constructive Response];
-```
+![The Power of the Pause: Creating Space for Reflection. Triggered/Overwhelmed; Pause; Reflective Thinking; Constructive Response.](diagram-02.svg)
 
 # Understanding Your Spouse's Needs: Empathy and Connection
 

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="426pt" height="620pt" viewBox="0.00 0.00 426.00 620.00" role="img" aria-labelledby="title description">
+<title id="title">Developing a Decision-Making Framework</title><desc id="description">Problem Definition leads to Information Gathering. Information Gathering leads to Alternative Generation. Alternative Generation leads to Risk Assessment. Risk Assessment leads to Pre-Mortem Analysis. Pre-Mortem Analysis leads to Decision Making. Decision Making leads to Implementation. Implementation leads to Feedback &amp; Reflection. Feedback &amp; Reflection leads to Problem Definition.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 602)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-602 408,-602 408,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M267.15,-543.87C259.08,-535.69 249.57,-526.05 241.02,-517.36" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="242.49,-515.37 235.83,-512.1 239,-518.81 242.49,-515.37" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M209.35,-471.87C206.26,-464.16 202.65,-455.13 199.34,-446.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="201.52,-445.69 196.64,-440.1 196.97,-447.51 201.52,-445.69" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M183.06,-399.91C180.53,-391.78 177.47,-381.93 174.44,-372.2" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="176.77,-371.46 172.36,-365.5 172.1,-372.91 176.77,-371.46" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M173.43,-290.91C176.67,-281.5 180.1,-271.54 183.12,-262.78" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="185.48,-263.46 185.44,-256.04 180.84,-261.86 185.48,-263.46" />
+</g>
+
+<g id="edge5" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M198.83,-215.87C201.59,-208.16 204.81,-199.13 207.77,-190.85" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="210.13,-191.52 210.18,-184.1 205.52,-189.87 210.13,-191.52" />
+</g>
+
+<g id="edge6" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M220.55,-143.87C221.96,-136.31 223.59,-127.49 225.11,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="227.58,-119.43 226.45,-112.1 222.76,-118.54 227.58,-119.43" />
+</g>
+
+<g id="edge7" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M245.3,-71.87C251.72,-63.85 259.27,-54.41 266.11,-45.86" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="268.26,-47.1 270.72,-40.1 264.43,-44.04 268.26,-47.1" />
+</g>
+
+<g id="edge8" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M302.59,-40.21C323.29,-66.21 356,-114.9 356,-163 356,-421 356,-421 356,-421 356,-462.83 351.9,-475.21 332,-512 326.84,-521.54 319.53,-530.75 312.26,-538.65" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="310.31,-537.14 307.26,-543.89 313.86,-540.52 310.31,-537.14" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M365,-584C365,-584 207,-584 207,-584 201,-584 195,-578 195,-572 195,-572 195,-556 195,-556 195,-550 201,-544 207,-544 207,-544 365,-544 365,-544 371,-544 377,-550 377,-556 377,-556 377,-572 377,-572 377,-578 371,-584 365,-584" />
+<text text-anchor="middle" x="286" y="-559.6" font-family="Georgia" font-size="18.00" fill="#243d36">Problem Definition</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M309.5,-512C309.5,-512 124.5,-512 124.5,-512 118.5,-512 112.5,-506 112.5,-500 112.5,-500 112.5,-484 112.5,-484 112.5,-478 118.5,-472 124.5,-472 124.5,-472 309.5,-472 309.5,-472 315.5,-472 321.5,-478 321.5,-484 321.5,-484 321.5,-500 321.5,-500 321.5,-506 315.5,-512 309.5,-512" />
+<text text-anchor="middle" x="217" y="-487.6" font-family="Georgia" font-size="18.00" fill="#243d36">Information Gathering</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M282.5,-440C282.5,-440 95.5,-440 95.5,-440 89.5,-440 83.5,-434 83.5,-428 83.5,-428 83.5,-412 83.5,-412 83.5,-406 89.5,-400 95.5,-400 95.5,-400 282.5,-400 282.5,-400 288.5,-400 294.5,-406 294.5,-412 294.5,-412 294.5,-428 294.5,-428 294.5,-434 288.5,-440 282.5,-440" />
+<text text-anchor="middle" x="189" y="-415.6" font-family="Georgia" font-size="18.00" fill="#243d36">Alternative Generation</text>
+</g>
+
+<g id="node4" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="161,-368 0,-328 161,-288 322,-328 161,-368" />
+<text text-anchor="middle" x="161" y="-323.6" font-family="Georgia" font-size="18.00" fill="#243d36">Risk Assessment</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M279,-256C279,-256 105,-256 105,-256 99,-256 93,-250 93,-244 93,-244 93,-228 93,-228 93,-222 99,-216 105,-216 105,-216 279,-216 279,-216 285,-216 291,-222 291,-228 291,-228 291,-244 291,-244 291,-250 285,-256 279,-256" />
+<text text-anchor="middle" x="192" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">Pre-Mortem Analysis</text>
+</g>
+
+<g id="node6" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M286,-184C286,-184 148,-184 148,-184 142,-184 136,-178 136,-172 136,-172 136,-156 136,-156 136,-150 142,-144 148,-144 148,-144 286,-144 286,-144 292,-144 298,-150 298,-156 298,-156 298,-172 298,-172 298,-178 292,-184 286,-184" />
+<text text-anchor="middle" x="217" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Making</text>
+</g>
+
+<g id="node7" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M297,-112C297,-112 163,-112 163,-112 157,-112 151,-106 151,-100 151,-100 151,-84 151,-84 151,-78 157,-72 163,-72 163,-72 297,-72 297,-72 303,-72 309,-78 309,-84 309,-84 309,-100 309,-100 309,-106 303,-112 297,-112" />
+<text text-anchor="middle" x="230" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Implementation</text>
+</g>
+
+<g id="node8" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M378,-40C378,-40 194,-40 194,-40 188,-40 182,-34 182,-28 182,-28 182,-12 182,-12 182,-6 188,0 194,0 194,0 378,0 378,0 384,0 390,-6 390,-12 390,-12 390,-28 390,-28 390,-34 384,-40 378,-40" />
+<text text-anchor="middle" x="286" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Feedback &amp; Reflection</text>
+</g>
+</g>
+</svg>

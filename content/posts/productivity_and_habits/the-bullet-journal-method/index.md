@@ -19,16 +19,7 @@ The Bullet Journal hinges on three fundamental components:
 * **Events:** These use an "O" and represent appointments, meetings, or scheduled occurrences.
 
 
-```mermaid
-graph LR
-    A["Tasks (•)"] --> B(Record things to do);
-    C["Notes (-)"] --> D(Capture information & ideas);
-    E["Events (O)"] --> F(Schedule appointments & meetings);
-    B --> G(Migration);
-    D --> G;
-    F --> G;
-    G[Collection];
-```
+![The Building Blocks: The Three Core Components. Tasks (•); Record things to do; Notes (-); Capture information & ideas; Events (O); Schedule appointments & meetings; Collection.](diagram-01.svg)
 
 This simple yet powerful foundation allows for the creation of a flexible and adaptable system that evolves with the user's needs.
 

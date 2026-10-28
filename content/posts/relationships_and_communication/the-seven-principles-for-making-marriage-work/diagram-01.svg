@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516pt" height="138pt" viewBox="0.00 0.00 516.00 138.00" role="img" aria-labelledby="title description">
+<title id="title">Let Your Partner Influence You: Sharing Power and Responsibility</title><desc id="description">Partner A leads to Dominates. Partner B leads to Dominates. Dominates leads to Resentment/Conflict.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 120)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-120 498,-120 498,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.32,-70.46C114.36,-68.68 122.74,-66.83 131,-65.01" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="131.59,-67.39 137.9,-63.49 130.53,-62.6 131.59,-67.39" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M253.01,-51C260.9,-51 269.2,-51 277.63,-51" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="277.73,-53.45 284.73,-51 277.73,-48.55 277.73,-53.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M106.32,-31.54C114.36,-33.32 122.74,-35.17 131,-36.99" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="130.53,-39.4 137.9,-38.51 131.59,-34.61 130.53,-39.4" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M94,-102C94,-102 12,-102 12,-102 6,-102 0,-96 0,-90 0,-90 0,-74 0,-74 0,-68 6,-62 12,-62 12,-62 94,-62 94,-62 100,-62 106,-68 106,-74 106,-74 106,-90 106,-90 106,-96 100,-102 94,-102" />
+<text text-anchor="middle" x="53" y="-77.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner A</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M241,-71C241,-71 150,-71 150,-71 144,-71 138,-65 138,-59 138,-59 138,-43 138,-43 138,-37 144,-31 150,-31 150,-31 241,-31 241,-31 247,-31 253,-37 253,-43 253,-43 253,-59 253,-59 253,-65 247,-71 241,-71" />
+<text text-anchor="middle" x="195.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dominates</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M94,-40C94,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 94,0 94,0 100,0 106,-6 106,-12 106,-12 106,-28 106,-28 106,-34 100,-40 94,-40" />
+<text text-anchor="middle" x="53" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Partner B</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M468,-71C468,-71 297,-71 297,-71 291,-71 285,-65 285,-59 285,-59 285,-43 285,-43 285,-37 291,-31 297,-31 297,-31 468,-31 468,-31 474,-31 480,-37 480,-43 480,-43 480,-59 480,-59 480,-65 474,-71 468,-71" />
+<text text-anchor="middle" x="382.5" y="-46.6" font-family="Georgia" font-size="18.00" fill="#243d36">Resentment/Conflict</text>
+</g>
+</g>
+</svg>

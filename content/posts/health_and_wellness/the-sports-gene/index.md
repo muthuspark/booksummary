@@ -26,18 +26,7 @@ This focused, targeted approach, far more than raw talent, consistently emerges 
 
 The book explores the genetic component of athleticism, dispelling myths surrounding single "sports genes." Epstein demonstrates that athletic ability is polygenic, influenced by hundreds or even thousands of genes interacting in complex ways. He explains how genetic predispositions influence factors like muscle fiber type, VO2 max, and bone structure, yet these are only predispositions, not destinies.
 
-```mermaid
-graph LR
-    A[Genetics] --> B(Muscle Fiber Type);
-    A --> C(VO2 Max);
-    A --> D(Bone Structure);
-    B --> E(Power);
-    C --> F(Endurance);
-    D --> G(Strength);
-    E --> H(Athletic Performance);
-    F --> H;
-    G --> H;
-```
+![Genetics: A Complex Landscape. Genetics; Muscle Fiber Type; VO2 Max; Bone Structure; Power; Endurance; Strength; Athletic Performance.](diagram-01.svg)
 
 This diagram showcases how multiple genetic factors contribute to athletic performance.  It's not a simple linear relationship but a complex interplay of various genetic influences.
 

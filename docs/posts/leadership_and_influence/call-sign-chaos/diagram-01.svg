@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422pt" height="352pt" viewBox="0.00 0.00 422.00 352.00" role="img" aria-labelledby="title description">
+<title id="title">Understanding the Human Element</title><desc id="description">Empathy leads to Understanding. Understanding leads to Effective Leadership. Effective Leadership leads to Improved Decision-Making.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 334)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-334 404,-334 404,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193,-275.87C193,-268.31 193,-259.49 193,-251.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.45,-251.1 193,-244.1 190.55,-251.1 195.45,-251.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193,-203.91C193,-196.58 193,-187.86 193,-179.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.45,-179.07 193,-172.07 190.55,-179.07 195.45,-179.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M193,-91.76C193,-83.72 193,-75.29 193,-67.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="195.45,-67.23 193,-60.23 190.55,-67.23 195.45,-67.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M231.5,-316C231.5,-316 154.5,-316 154.5,-316 148.5,-316 142.5,-310 142.5,-304 142.5,-304 142.5,-288 142.5,-288 142.5,-282 148.5,-276 154.5,-276 154.5,-276 231.5,-276 231.5,-276 237.5,-276 243.5,-282 243.5,-288 243.5,-288 243.5,-304 243.5,-304 243.5,-310 237.5,-316 231.5,-316" />
+<text text-anchor="middle" x="193" y="-291.6" font-family="Georgia" font-size="18.00" fill="#243d36">Empathy</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M255,-244C255,-244 131,-244 131,-244 125,-244 119,-238 119,-232 119,-232 119,-216 119,-216 119,-210 125,-204 131,-204 131,-204 255,-204 255,-204 261,-204 267,-210 267,-216 267,-216 267,-232 267,-232 267,-238 261,-244 255,-244" />
+<text text-anchor="middle" x="193" y="-219.6" font-family="Georgia" font-size="18.00" fill="#243d36">Understanding</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="193,-172 0,-132 193,-92 386,-132 193,-172" />
+<text text-anchor="middle" x="193" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Effective Leadership</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M263,-60C263,-60 123,-60 123,-60 117,-60 111,-54 111,-48 111,-48 111,-12 111,-12 111,-6 117,0 123,0 123,0 263,0 263,0 269,0 275,-6 275,-12 275,-12 275,-48 275,-48 275,-54 269,-60 263,-60" />
+<text text-anchor="middle" x="193" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Improved</text>
+<text text-anchor="middle" x="193" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision-Making</text>
+</g>
+</g>
+</svg>

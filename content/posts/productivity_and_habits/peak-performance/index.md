@@ -19,13 +19,7 @@ The book dedicates significant attention to understanding and maximizing your po
 * **Understanding your weaknesses:** Acknowledging areas needing improvement, without dwelling on them negatively, is vital. Strategic delegation or improvement plans can address these.
 * **Developing Deliberate Practice:** This is not simply repetition, but focused practice with specific goals and feedback mechanisms.  It requires pushing your limits in a structured manner.
 
-```mermaid
-graph LR
-A[Identify Strengths] --> B{Self-Awareness};
-C[Identify Weaknesses] --> B;
-B --> D[Develop Deliberate Practice];
-D --> E[Maximize Potential];
-```
+![Potential: Unlocking Your Innate Abilities. Identify Strengths; Self-Awareness; Identify Weaknesses; Develop Deliberate Practice; Maximize Potential.](diagram-01.svg)
 
 
 # Interference: Identifying and Removing Obstacles
@@ -49,12 +43,7 @@ Recovery is not merely the absence of activity, but active strategies for restor
 * **Stress Management:**  Implementing techniques to manage daily stressors.
 * **Mindfulness and Meditation:**  Cultivating mental clarity and emotional regulation.
 
-```mermaid
-graph LR
-A[High Intensity] --> B(Variability);
-C[Rest & Recovery] --> B;
-B --> D[Adaptation & Peak Performance];
-```
+![The Power of Variability and Recovery. High Intensity; Variability; Rest & Recovery; Adaptation & Peak Performance.](diagram-02.svg)
 
 
 #  Cultivating a Growth Mindset

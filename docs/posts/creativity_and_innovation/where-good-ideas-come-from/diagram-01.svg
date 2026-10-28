@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="636pt" height="76pt" viewBox="0.00 0.00 636.00 76.00" role="img" aria-labelledby="title description">
+<title id="title">1. The Importance of Networks</title><desc id="description">Individual leads to Network of Ideas. Network of Ideas leads to New Ideas. New Ideas leads to Innovation.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 58)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-58 618,-58 618,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M111.04,-20C118.98,-20 127.31,-20 135.71,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="135.78,-22.45 142.78,-20 135.78,-17.55 135.78,-22.45" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M308.28,-20C316.5,-20 324.75,-20 332.71,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="332.94,-22.45 339.94,-20 332.94,-17.55 332.94,-22.45" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M452.26,-20C460.16,-20 468.33,-20 476.39,-20" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="476.74,-22.45 483.74,-20 476.74,-17.55 476.74,-22.45" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M99,-40C99,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 99,0 99,0 105,0 111,-6 111,-12 111,-12 111,-28 111,-28 111,-34 105,-40 99,-40" />
+<text text-anchor="middle" x="55.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Individual</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M296,-40C296,-40 155,-40 155,-40 149,-40 143,-34 143,-28 143,-28 143,-12 143,-12 143,-6 149,0 155,0 155,0 296,0 296,0 302,0 308,-6 308,-12 308,-12 308,-28 308,-28 308,-34 302,-40 296,-40" />
+<text text-anchor="middle" x="225.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Network of Ideas</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M440,-40C440,-40 352,-40 352,-40 346,-40 340,-34 340,-28 340,-28 340,-12 340,-12 340,-6 346,0 352,0 352,0 440,0 440,0 446,0 452,-6 452,-12 452,-12 452,-28 452,-28 452,-34 446,-40 440,-40" />
+<text text-anchor="middle" x="396" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">New Ideas</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M588,-40C588,-40 496,-40 496,-40 490,-40 484,-34 484,-28 484,-28 484,-12 484,-12 484,-6 490,0 496,0 496,0 588,0 588,0 594,0 600,-6 600,-12 600,-12 600,-28 600,-28 600,-34 594,-40 588,-40" />
+<text text-anchor="middle" x="542" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Innovation</text>
+</g>
+</g>
+</svg>

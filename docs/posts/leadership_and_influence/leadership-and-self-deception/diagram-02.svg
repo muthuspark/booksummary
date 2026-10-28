@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630pt" height="128pt" viewBox="0.00 0.00 630.00 128.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of Leadership</title><desc id="description">Leader in the Box leads to Blame, Mistrust, Dysfunction. Blame, Mistrust, Dysfunction leads to Reinforces the Box in Others. Reinforces the Box in Others leads to Leader in the Box.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 110)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-110 612,-110 612,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M170.11,-43.8C178.16,-45.12 186.34,-46.47 194.41,-47.79" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="194.48,-50.29 201.79,-49 195.28,-45.45 194.48,-50.29" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M362.09,-49.95C370.18,-48.72 378.48,-47.45 386.79,-46.18" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="387.22,-48.6 393.77,-45.12 386.48,-43.75 387.22,-48.6" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M393.97,-22.47C383.19,-21.87 372.37,-21.36 362,-21 290.93,-18.56 273.06,-18.25 202,-21 193.96,-21.31 185.61,-21.74 177.24,-22.25" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.05,-19.81 170.22,-22.7 177.36,-24.7 177.05,-19.81" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158,-50C158,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 158,-10 158,-10 164,-10 170,-16 170,-22 170,-22 170,-38 170,-38 170,-44 164,-50 158,-50" />
+<text text-anchor="middle" x="85" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Leader in the Box</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M350,-92C350,-92 214,-92 214,-92 208,-92 202,-86 202,-80 202,-80 202,-44 202,-44 202,-38 208,-32 214,-32 214,-32 350,-32 350,-32 356,-32 362,-38 362,-44 362,-44 362,-80 362,-80 362,-86 356,-92 350,-92" />
+<text text-anchor="middle" x="282" y="-67.6" font-family="Georgia" font-size="18.00" fill="#243d36">Blame, Mistrust,</text>
+<text text-anchor="middle" x="282" y="-47.6" font-family="Georgia" font-size="18.00" fill="#243d36">Dysfunction</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M582,-60C582,-60 406,-60 406,-60 400,-60 394,-54 394,-48 394,-48 394,-12 394,-12 394,-6 400,0 406,0 406,0 582,0 582,0 588,0 594,-6 594,-12 594,-12 594,-48 594,-48 594,-54 588,-60 582,-60" />
+<text text-anchor="middle" x="494" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Reinforces the Box in</text>
+<text text-anchor="middle" x="494" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Others</text>
+</g>
+</g>
+</svg>

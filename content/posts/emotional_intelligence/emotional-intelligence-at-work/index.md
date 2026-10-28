@@ -62,19 +62,7 @@ The book provides numerous actionable strategies for implementing emotional inte
 
 ##  A Visual Representation of EQ at Work:
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Self-Regulation);
-    A --> C(Motivation);
-    B --> D(Empathy);
-    C --> D;
-    D --> E(Social Skills);
-    E --> F{Success & Strong Relationships};
-    A --> F;
-    B --> F;
-    C --> F;
-    D --> F;
-```
+![A Visual Representation of EQ at Work:. Self-Awareness; Self-Regulation; Motivation; Empathy; Social Skills; Success & Strong Relationships.](diagram-01.svg)
 
 This diagram shows the interconnected nature of the five components of EQ, demonstrating how they work together to contribute to overall success and strong relationships in the workplace.
 

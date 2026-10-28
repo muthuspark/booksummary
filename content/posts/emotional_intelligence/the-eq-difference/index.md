@@ -67,18 +67,7 @@ The book provides various practical exercises and strategies to help readers imp
 
 #  The EQ Development Process: A Visual Representation
 
-```mermaid
-graph LR
-    A[Self-Awareness] --> B(Emotional Regulation);
-    B --> C{Understanding Others};
-    C --> D[Motivation];
-    D --> E(Relationship Building);
-    E --> F[Improved Life Quality];
-    A --> F;
-    B --> F;
-    C --> F;
-    D --> F;
-```
+![The EQ Development Process: A Visual Representation. Self-Awareness; Emotional Regulation; Understanding Others; Motivation; Relationship Building; Improved Life Quality.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of the key elements of EQ and how their development contributes to an improved quality of life.  Each element builds upon the others, creating a synergistic effect.
 

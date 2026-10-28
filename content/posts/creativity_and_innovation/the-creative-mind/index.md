@@ -19,14 +19,7 @@ Boden challenges the common misconception that creativity is solely about sudden
 * **Combination:**  Connecting seemingly unrelated ideas and concepts in novel ways.  This requires a broad knowledge base and the ability to see connections others miss.
 * **Transformation:**  Modifying existing ideas and concepts to create something new. This involves challenging assumptions and being willing to experiment.
 
-```mermaid
-graph LR
-    A[Exploration] --> B(Combination);
-    B --> C{Transformation};
-    C --> D[Creative Output];
-    D --> E[Iteration and Refinement];
-    E --> B;
-```
+![Understanding Creativity: Beyond the "Eureka!" Moment. Exploration; Combination; Transformation; Creative Output; Iteration and Refinement.](diagram-01.svg)
 
 
 ###  The Role of Knowledge and Expertise

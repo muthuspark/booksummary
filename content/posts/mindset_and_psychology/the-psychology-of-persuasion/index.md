@@ -16,11 +16,7 @@ The principle of reciprocity suggests that we feel obligated to return a favor, 
 
 **Actionable Insight:** Offer something of value first, even something small.  This could be information, a small gift, or a helpful service. The act of giving can make the recipient more receptive to your future requests.
 
-```mermaid
-graph LR
-A["Offer Value (Small Gift, Information)"] --> B("Recipient Feels Obligated");
-B --> C["Increased Receptiveness to Future Requests"];
-```
+![Reciprocity: The Old "You Scratch My Back..." Principle. Offer Value (Small Gift, Information); Recipient Feels Obligated; Increased Receptiveness to Future Requests.](diagram-01.svg)
 
 ### Commitment and Consistency:  Walking the Talk
 
@@ -29,11 +25,7 @@ People strive for consistency between their beliefs, words, and actions. Once co
 **Actionable Insight:** Secure a small initial commitment.  This could be a verbal agreement, a signed form, or a small deposit.  Once committed, people are more likely to agree to larger requests later. This technique is highly effective in sales and fundraising.
 
 
-```mermaid
-graph LR
-A[Small Initial Commitment] --> B(Desire for Consistency);
-B --> C[Agreement to Larger Requests];
-```
+![Commitment and Consistency:  Walking the Talk. Small Initial Commitment; Desire for Consistency; Agreement to Larger Requests.](diagram-02.svg)
 
 ### Social Proof: Following the Crowd
 
@@ -41,11 +33,7 @@ We look to others, especially those we perceive as similar to ourselves, for gui
 
 **Actionable Insight:** Use testimonials, reviews, and social media endorsements to show others' positive experiences. Highlight the product or service's popularity. Demonstrating positive choices by many increases the likelihood of others following suit.
 
-```mermaid
-graph LR
-A[Positive Testimonials & Reviews] --> B(Perceived Social Acceptance);
-B --> C[Increased Likelihood of Adoption/Purchase];
-```
+![Social Proof: Following the Crowd. Positive Testimonials & Reviews; Perceived Social Acceptance; Increased Likelihood of Adoption/Purchase.](diagram-03.svg)
 
 ### Authority: The Power of Credibility
 
@@ -54,11 +42,7 @@ People are more likely to comply with requests from those they perceive as autho
 **Actionable Insight:** Showcase your credentials, expertise, and experience.  Cite credible sources and utilize the power of symbols of authority (carefully and ethically).  Demonstrating competence builds trust and persuasiveness.
 
 
-```mermaid
-graph LR
-A[Demonstrated Expertise & Credentials] --> B(Perceived Authority);
-B --> C[Increased Compliance with Requests];
-```
+![Authority: The Power of Credibility. Demonstrated Expertise & Credentials; Perceived Authority; Increased Compliance with Requests.](diagram-04.svg)
 
 ### Liking:  The Magnetism of Connection
 
@@ -66,11 +50,7 @@ We are more likely to say "yes" to people we like. Liking is influenced by vario
 
 **Actionable Insight:** Build rapport by finding common ground and genuinely connecting with people.  Give sincere compliments, express genuine interest in their perspectives, and share goals or experiences.
 
-```mermaid
-graph LR
-A[Building Rapport & Genuine Connection] --> B(Increased Liking);
-B --> C[Greater Persuasive Influence];
-```
+![Liking:  The Magnetism of Connection. Building Rapport & Genuine Connection; Increased Liking; Greater Persuasive Influence.](diagram-05.svg)
 
 ### Scarcity:  The Power of "Limited Time Only"
 
@@ -78,11 +58,7 @@ Things that are scarce or in short supply are often perceived as more valuable. 
 
 **Actionable Insight:** Highlight limited availability, deadlines, or exclusive opportunities.  This creates a sense of urgency and increases the perceived value of the product or service.  However, always be ethical and avoid deceptive scarcity tactics.
 
-```mermaid
-graph LR
-A[Highlight Limited Availability/Deadlines] --> B(Perceived Scarcity);
-B --> C[Increased Desire & Urgency];
-```
+![Scarcity:  The Power of "Limited Time Only. Highlight Limited Availability/Deadlines; Perceived Scarcity; Increased Desire & Urgency.](diagram-06.svg)
 
 ### Integrating the Principles for Ethical Influence
 

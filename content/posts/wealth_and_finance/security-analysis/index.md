@@ -15,17 +15,7 @@ author: "Benjamin Graham and David Dodd"
 
 The crux of Graham and Dodd's approach is the concept of intrinsic value, the true worth of a company independent of market sentiment or short-term fluctuations.  It's determined by analyzing a company's financial statements, business model, competitive position, and future prospects. Estimating intrinsic value requires careful scrutiny of assets, liabilities, earnings, and dividends. They prefer to underestimate a company's value rather than overestimate it.
 
-```mermaid
-graph LR
-    A[Financial Statements] --> B(Assets);
-    A --> C(Liabilities);
-    A --> D(Earnings);
-    A --> E(Dividends);
-    B --> F{Intrinsic Value};
-    C --> F;
-    D --> F;
-    E --> F;
-```
+![Understanding Intrinsic Value: The Heart of Security Analysis. Financial Statements; Assets; Liabilities; Earnings; Dividends; Intrinsic Value.](diagram-01.svg)
 
 # Defensive vs. Enterprising Investing: Choosing Your Approach
 

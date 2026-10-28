@@ -60,20 +60,7 @@ Gundry offers many actionable steps for readers:
 
 ##  Visual Representation of the Plant Paradox's Core Concepts
 
-```mermaid
-graph LR
-    A[High Lectin Foods] --> B(Leaky Gut);
-    B --> C{Inflammation};
-    C --> D[Autoimmune Diseases];
-    C --> E[Heart Disease];
-    C --> F[Alzheimer's];
-    C --> G[Weight Gain];
-    H[Low Lectin Diet] --> I(Healthy Gut);
-    I --> J{Reduced Inflammation};
-    J --> K[Improved Health];
-    A --> L[Soaking, Sprouting, Fermenting];
-    L --> I;
-```
+![Visual Representation of the Plant Paradox's Core Concepts. High Lectin Foods; Leaky Gut; Inflammation; Autoimmune Diseases; Heart Disease; Alzheimer's; Weight Gain; Low Lectin Diet; Healthy Gut; Reduced Inflammation; Improved Health; Soaking, Sprouting, Fermenting.](diagram-01.svg)
 
 This diagram illustrates the central idea: high lectin foods contribute to leaky gut, leading to inflammation and various health problems.  Conversely, a low-lectin diet promotes a healthy gut, reducing inflammation and improving overall health.
 

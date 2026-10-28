@@ -25,16 +25,7 @@ Deliberate practice isn't about passively repeating tasks.  It involves:
 * **Pushing beyond your comfort zone:**  Consistent challenges are vital for growth.
 * **Mentorship and coaching:** Expert guidance is essential for identifying effective strategies and overcoming plateaus.
 
-```mermaid
-graph LR
-    A[Self-Assessment] --> B(Goal Setting);
-    B --> C{Deliberate Practice};
-    C --> D[Immediate Feedback];
-    C --> E[Challenging Tasks];
-    C --> F[Expert Guidance];
-    D --> G(Refinement);
-    G --> C;
-```
+![The Structure of Deliberate Practice. Self-Assessment; Goal Setting; Deliberate Practice; Immediate Feedback; Challenging Tasks; Expert Guidance; Refinement.](diagram-01.svg)
 
 
 # The Role of Feedback and Mentorship

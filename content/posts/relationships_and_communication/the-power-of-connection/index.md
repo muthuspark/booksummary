@@ -54,23 +54,7 @@ The book is rich with practical exercises and strategies designed to help reader
 
 ## Visualizing the Connection Process
 
-```mermaid
-graph LR
-    A[Authentic Self-Expression] --> B(Empathy & Active Listening);
-    B --> C{Overcoming Barriers};
-    C --> D[Healthy Boundaries];
-    D --> E(Meaningful Connections);
-    E --> F[Forgiveness & Healing];
-    F --> G(Vulnerability & Trust);
-    G --> H[Positive Ripple Effect];
-    H --> I(Improved Well-being);
-    I --> J(Stronger Relationships);
-    A --> J;
-    B --> J;
-    D --> J;
-    F --> J;
-    G --> J;
-```
+![Visualizing the Connection Process. Authentic Self-Expression; Empathy & Active Listening; Overcoming Barriers; Healthy Boundaries; Meaningful Connections; Forgiveness & Healing; Vulnerability & Trust; Positive Ripple Effect; Improved Well-being; Stronger Relationships.](diagram-01.svg)
 
 
 ## Keywords Summary

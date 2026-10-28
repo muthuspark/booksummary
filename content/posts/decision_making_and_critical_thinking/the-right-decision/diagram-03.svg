@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221pt" height="364pt" viewBox="0.00 0.00 221.00 364.00" role="img" aria-labelledby="title description">
+<title id="title">Decision-Making Frameworks</title><desc id="description">Decision Matrix leads to List Options. List Options leads to List Criteria. List Criteria leads to Score Each Option. Score Each Option leads to Choose Best Option.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 346)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-346 203,-346 203,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-287.87C92.5,-280.31 92.5,-271.49 92.5,-263.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-263.1 92.5,-256.1 90.05,-263.1 94.95,-263.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-215.87C92.5,-208.31 92.5,-199.49 92.5,-191.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-191.1 92.5,-184.1 90.05,-191.1 94.95,-191.1" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-143.87C92.5,-136.31 92.5,-127.49 92.5,-119.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-119.1 92.5,-112.1 90.05,-119.1 94.95,-119.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M92.5,-71.87C92.5,-64.31 92.5,-55.49 92.5,-47.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="94.95,-47.1 92.5,-40.1 90.05,-47.1 94.95,-47.1" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M158,-328C158,-328 27,-328 27,-328 21,-328 15,-322 15,-316 15,-316 15,-300 15,-300 15,-294 21,-288 27,-288 27,-288 158,-288 158,-288 164,-288 170,-294 170,-300 170,-300 170,-316 170,-316 170,-322 164,-328 158,-328" />
+<text text-anchor="middle" x="92.5" y="-303.6" font-family="Georgia" font-size="18.00" fill="#243d36">Decision Matrix</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M143,-256C143,-256 42,-256 42,-256 36,-256 30,-250 30,-244 30,-244 30,-228 30,-228 30,-222 36,-216 42,-216 42,-216 143,-216 143,-216 149,-216 155,-222 155,-228 155,-228 155,-244 155,-244 155,-250 149,-256 143,-256" />
+<text text-anchor="middle" x="92.5" y="-231.6" font-family="Georgia" font-size="18.00" fill="#243d36">List Options</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M142,-184C142,-184 43,-184 43,-184 37,-184 31,-178 31,-172 31,-172 31,-156 31,-156 31,-150 37,-144 43,-144 43,-144 142,-144 142,-144 148,-144 154,-150 154,-156 154,-156 154,-172 154,-172 154,-178 148,-184 142,-184" />
+<text text-anchor="middle" x="92.5" y="-159.6" font-family="Georgia" font-size="18.00" fill="#243d36">List Criteria</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M169,-112C169,-112 16,-112 16,-112 10,-112 4,-106 4,-100 4,-100 4,-84 4,-84 4,-78 10,-72 16,-72 16,-72 169,-72 169,-72 175,-72 181,-78 181,-84 181,-84 181,-100 181,-100 181,-106 175,-112 169,-112" />
+<text text-anchor="middle" x="92.5" y="-87.6" font-family="Georgia" font-size="18.00" fill="#243d36">Score Each Option</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M173,-40C173,-40 12,-40 12,-40 6,-40 0,-34 0,-28 0,-28 0,-12 0,-12 0,-6 6,0 12,0 12,0 173,0 173,0 179,0 185,-6 185,-12 185,-12 185,-28 185,-28 185,-34 179,-40 173,-40" />
+<text text-anchor="middle" x="92.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Choose Best Option</text>
+</g>
+</g>
+</svg>

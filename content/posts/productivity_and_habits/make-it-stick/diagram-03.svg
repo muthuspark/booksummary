@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="449pt" height="208pt" viewBox="0.00 0.00 449.00 208.00" role="img" aria-labelledby="title description">
+<title id="title">Spacing Effect: Timed Repetition</title><desc id="description">Massed Practice (Cramming) leads to Initial High Performance, Rapid Forgetting. Spaced Practice (Distributed Learning) leads to Slower Initial Learning, Long-term Retention.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 190)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-190 431,-190 431,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M94.5,-111.81C94.5,-104.06 94.5,-95.5 94.5,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="96.95,-87.09 94.5,-80.09 92.05,-87.09 96.95,-87.09" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M308.5,-111.81C308.5,-104.06 308.5,-95.5 308.5,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="310.95,-87.09 308.5,-80.09 306.05,-87.09 310.95,-87.09" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M161.5,-172C161.5,-172 27.5,-172 27.5,-172 21.5,-172 15.5,-166 15.5,-160 15.5,-160 15.5,-124 15.5,-124 15.5,-118 21.5,-112 27.5,-112 27.5,-112 161.5,-112 161.5,-112 167.5,-112 173.5,-118 173.5,-124 173.5,-124 173.5,-160 173.5,-160 173.5,-166 167.5,-172 161.5,-172" />
+<text text-anchor="middle" x="94.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Massed Practice</text>
+<text text-anchor="middle" x="94.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Cramming)</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M177,-80C177,-80 12,-80 12,-80 6,-80 0,-74 0,-68 0,-68 0,-12 0,-12 0,-6 6,0 12,0 12,0 177,0 177,0 183,0 189,-6 189,-12 189,-12 189,-68 189,-68 189,-74 183,-80 177,-80" />
+<text text-anchor="middle" x="94.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Initial High</text>
+<text text-anchor="middle" x="94.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Performance, Rapid</text>
+<text text-anchor="middle" x="94.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Forgetting</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M401,-172C401,-172 216,-172 216,-172 210,-172 204,-166 204,-160 204,-160 204,-124 204,-124 204,-118 210,-112 216,-112 216,-112 401,-112 401,-112 407,-112 413,-118 413,-124 413,-124 413,-160 413,-160 413,-166 407,-172 401,-172" />
+<text text-anchor="middle" x="308.5" y="-147.6" font-family="Georgia" font-size="18.00" fill="#243d36">Spaced Practice</text>
+<text text-anchor="middle" x="308.5" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">(Distributed Learning)</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M393.5,-80C393.5,-80 223.5,-80 223.5,-80 217.5,-80 211.5,-74 211.5,-68 211.5,-68 211.5,-12 211.5,-12 211.5,-6 217.5,0 223.5,0 223.5,0 393.5,0 393.5,0 399.5,0 405.5,-6 405.5,-12 405.5,-12 405.5,-68 405.5,-68 405.5,-74 399.5,-80 393.5,-80" />
+<text text-anchor="middle" x="308.5" y="-55.6" font-family="Georgia" font-size="18.00" fill="#243d36">Slower Initial</text>
+<text text-anchor="middle" x="308.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Learning, Long-term</text>
+<text text-anchor="middle" x="308.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Retention</text>
+</g>
+</g>
+</svg>

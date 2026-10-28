@@ -14,16 +14,7 @@ Don Norman's "The Design of Everyday Things" isn't just about design; it's about
 
 Norman introduces the seven stages of action, a framework for analyzing user interaction. This cycle explains the mental and physical processes involved in achieving a goal. Understanding these stages is critical to designing effective systems.
 
-```mermaid
-graph LR
-A[Goal] --> B(Plan);
-B --> C{Specify};
-C --> D(Perform);
-D --> E(Perceive);
-E --> F(Interpret);
-F --> G[Evaluate];
-G --> A;
-```
+![The Seven Stages of Action:  A Framework for Understanding User Interaction. Goal; Plan; Specify; Perform; Perceive; Interpret; Evaluate.](diagram-01.svg)
 
 These stages are:
 

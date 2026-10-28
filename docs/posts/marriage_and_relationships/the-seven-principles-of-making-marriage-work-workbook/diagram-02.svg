@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="545pt" height="168pt" viewBox="0.00 0.00 545.00 168.00" role="img" aria-labelledby="title description">
+<title id="title">Share Fondness and Admiration: Nurturing Positive Connection</title><desc id="description">Fondness &amp; Admiration leads to Express Gratitude. Fondness &amp; Admiration leads to Share Positive Memories. Fondness &amp; Admiration leads to Show Affection.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 150)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-150 527,-150 527,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M223.39,-91.84C197,-80.11 163.16,-65.07 135.73,-52.88" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="136.65,-50.61 129.26,-50.01 134.66,-55.09 136.65,-50.61" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M266.5,-91.63C266.5,-84.34 266.5,-75.78 266.5,-67.43" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="268.95,-67.19 266.5,-60.19 264.05,-67.19 268.95,-67.19" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M306.74,-91.84C331.26,-80.16 362.68,-65.2 388.23,-53.03" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="389.32,-55.23 394.59,-50.01 387.21,-50.8 389.32,-55.23" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M363.5,-132C363.5,-132 169.5,-132 169.5,-132 163.5,-132 157.5,-126 157.5,-120 157.5,-120 157.5,-104 157.5,-104 157.5,-98 163.5,-92 169.5,-92 169.5,-92 363.5,-92 363.5,-92 369.5,-92 375.5,-98 375.5,-104 375.5,-104 375.5,-120 375.5,-120 375.5,-126 369.5,-132 363.5,-132" />
+<text text-anchor="middle" x="266.5" y="-107.6" font-family="Georgia" font-size="18.00" fill="#243d36">Fondness &amp; Admiration</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M161,-50C161,-50 12,-50 12,-50 6,-50 0,-44 0,-38 0,-38 0,-22 0,-22 0,-16 6,-10 12,-10 12,-10 161,-10 161,-10 167,-10 173,-16 173,-22 173,-22 173,-38 173,-38 173,-44 167,-50 161,-50" />
+<text text-anchor="middle" x="86.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Express Gratitude</text>
+</g>
+
+<g id="node3" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M325.5,-60C325.5,-60 207.5,-60 207.5,-60 201.5,-60 195.5,-54 195.5,-48 195.5,-48 195.5,-12 195.5,-12 195.5,-6 201.5,0 207.5,0 207.5,0 325.5,0 325.5,0 331.5,0 337.5,-6 337.5,-12 337.5,-12 337.5,-48 337.5,-48 337.5,-54 331.5,-60 325.5,-60" />
+<text text-anchor="middle" x="266.5" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Share Positive</text>
+<text text-anchor="middle" x="266.5" y="-15.6" font-family="Georgia" font-size="18.00" fill="#243d36">Memories</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#dcebe3" stroke="#527969" stroke-width="1.6" d="M497,-50C497,-50 372,-50 372,-50 366,-50 360,-44 360,-38 360,-38 360,-22 360,-22 360,-16 366,-10 372,-10 372,-10 497,-10 497,-10 503,-10 509,-16 509,-22 509,-22 509,-38 509,-38 509,-44 503,-50 497,-50" />
+<text text-anchor="middle" x="434.5" y="-25.6" font-family="Georgia" font-size="18.00" fill="#243d36">Show Affection</text>
+</g>
+</g>
+</svg>

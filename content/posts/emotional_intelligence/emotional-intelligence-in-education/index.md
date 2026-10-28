@@ -37,13 +37,7 @@ Self-regulation involves controlling impulses and managing emotions constructive
 * **Conflict resolution techniques:**  Providing opportunities to practice conflict resolution skills helps students navigate disagreements peacefully.
 
 
-```mermaid
-graph LR
-    A[Challenge] --> B{Identify Emotions};
-    B --> C[Develop Coping Strategies];
-    C --> D[Implement Strategies];
-    D --> E[Evaluate Outcomes];
-```
+![Developing Self-Regulation Skills. Challenge; Identify Emotions; Develop Coping Strategies; Implement Strategies; Evaluate Outcomes.](diagram-01.svg)
 
 ### Fostering Social Awareness
 

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="658pt" height="260pt" viewBox="0.00 0.00 658.00 260.00" role="img" aria-labelledby="title description">
+<title id="title">The Importance of  Early and Consistent Saving</title><desc id="description">Early Saving leads to Compounding. Compounding leads to Significant Wealth. Late Saving leads to Less Compounding. Less Compounding leads to Less Wealth.</desc><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 242)">
+<polygon fill="#fcfcfa" stroke="transparent" points="-18,18 -18,-242 640,-242 640,18 -18,18" />
+
+<g id="edge1" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175,-183.87C175,-176.31 175,-167.49 175,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.45,-159.1 175,-152.1 172.55,-159.1 177.45,-159.1" />
+</g>
+
+<g id="edge2" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M175,-111.91C175,-104.58 175,-95.86 175,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="177.45,-87.07 175,-80.07 172.55,-87.07 177.45,-87.07" />
+</g>
+
+<g id="edge3" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M497,-183.87C497,-176.31 497,-167.49 497,-159.35" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="499.45,-159.1 497,-152.1 494.55,-159.1 499.45,-159.1" />
+</g>
+
+<g id="edge4" class="edge">
+<path fill="none" stroke="#59786d" stroke-width="1.3" d="M497,-111.91C497,-104.58 497,-95.86 497,-87.09" />
+<polygon fill="#59786d" stroke="#59786d" stroke-width="1.3" points="499.45,-87.07 497,-80.07 494.55,-87.07 499.45,-87.07" />
+</g>
+
+<g id="node1" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M227,-224C227,-224 123,-224 123,-224 117,-224 111,-218 111,-212 111,-212 111,-196 111,-196 111,-190 117,-184 123,-184 123,-184 227,-184 227,-184 233,-184 239,-190 239,-196 239,-196 239,-212 239,-212 239,-218 233,-224 227,-224" />
+<text text-anchor="middle" x="175" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Early Saving</text>
+</g>
+
+<g id="node2" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M234,-152C234,-152 116,-152 116,-152 110,-152 104,-146 104,-140 104,-140 104,-124 104,-124 104,-118 110,-112 116,-112 116,-112 234,-112 234,-112 240,-112 246,-118 246,-124 246,-124 246,-140 246,-140 246,-146 240,-152 234,-152" />
+<text text-anchor="middle" x="175" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Compounding</text>
+</g>
+
+<g id="node3" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="175,-80 0,-40 175,0 350,-40 175,-80" />
+<text text-anchor="middle" x="175" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Significant Wealth</text>
+</g>
+
+<g id="node4" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M545,-224C545,-224 449,-224 449,-224 443,-224 437,-218 437,-212 437,-212 437,-196 437,-196 437,-190 443,-184 449,-184 449,-184 545,-184 545,-184 551,-184 557,-190 557,-196 557,-196 557,-212 557,-212 557,-218 551,-224 545,-224" />
+<text text-anchor="middle" x="497" y="-199.6" font-family="Georgia" font-size="18.00" fill="#243d36">Late Saving</text>
+</g>
+
+<g id="node5" class="node">
+<path fill="#edf2ef" stroke="#8ba49b" stroke-width="1.2" d="M575.5,-152C575.5,-152 418.5,-152 418.5,-152 412.5,-152 406.5,-146 406.5,-140 406.5,-140 406.5,-124 406.5,-124 406.5,-118 412.5,-112 418.5,-112 418.5,-112 575.5,-112 575.5,-112 581.5,-112 587.5,-118 587.5,-124 587.5,-124 587.5,-140 587.5,-140 587.5,-146 581.5,-152 575.5,-152" />
+<text text-anchor="middle" x="497" y="-127.6" font-family="Georgia" font-size="18.00" fill="#243d36">Less Compounding</text>
+</g>
+
+<g id="node6" class="node">
+<polygon fill="#f5eddc" stroke="#ae9766" stroke-width="1.2" points="497,-80 372,-40 497,0 622,-40 497,-80" />
+<text text-anchor="middle" x="497" y="-35.6" font-family="Georgia" font-size="18.00" fill="#243d36">Less Wealth</text>
+</g>
+</g>
+</svg>

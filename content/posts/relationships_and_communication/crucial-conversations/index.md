@@ -24,13 +24,7 @@ The book introduces two detrimental responses to conversations: silence and viol
 **Violence:**  This refers to controlling behaviors used to dominate a conversation.  It includes controlling, labeling, and making others feel threatened. Violence shuts down dialogue and escalates conflict.
 
 
-```mermaid
-graph LR
-    A[Crucial Conversation] --> B(Silence);
-    A --> C(Violence);
-    B --> D{Damaged Relationships};
-    C --> D;
-```
+![The Danger of Silence and Violence. Crucial Conversation; Silence; Violence; Damaged Relationships.](diagram-01.svg)
 
 ## The Path to Mastering Conversations
 
@@ -76,17 +70,7 @@ The book addresses common challenges in conversations, offering specific strateg
 * **Overcoming communication barriers:**  Clearly articulate your message, paying close attention to tone and body language.
 
 
-```mermaid
-graph LR
-    A[Challenge] --> B(Defensiveness);
-    A --> C(Accusations);
-    A --> D(Difficult Personalities);
-    A --> E(Communication Barriers);
-    B --> F{Acknowledge Feelings};
-    C --> G{Respond Calmly};
-    D --> H{Focus on Issues};
-    E --> I{Articulate Clearly};
-```
+![Addressing Specific Challenges. Challenge; Defensiveness; Accusations; Difficult Personalities; Communication Barriers; Acknowledge Feelings; Respond Calmly; Focus on Issues; Articulate Clearly.](diagram-02.svg)
 
 ##  The Importance of Practice and Reflection
 

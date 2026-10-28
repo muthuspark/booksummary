@@ -90,22 +90,7 @@ The key is to integrate faith and practical strategies for a detailed approach t
 
 Becoming emotionally whole is not a destination but a lifelong journey.  It requires consistent effort, self-awareness, and reliance on God's grace.  The book encourages readers to approach this process with patience and perseverance, trusting in God's transformative power.
 
-```mermaid
-graph LR
-    A[Spiritual Disciplines] --> B(Self-Awareness);
-    B --> C(Healthy Relationships);
-    C --> D{Emotional Maturity};
-    D --> E[Emotional Wholeness];
-    A --> F(Forgiveness);
-    F --> D;
-    A --> G(Prayer);
-    G --> D;
-    A --> H(Bible Study);
-    H --> D;
-    C --> I(Accountability);
-    I --> D;
-    D --> J(Professional Help - if needed);
-```
+![The Journey to Wholeness: A Continuous Process. Spiritual Disciplines; Self-Awareness; Healthy Relationships; Emotional Maturity; Emotional Wholeness; Forgiveness; Prayer; Bible Study; Accountability; Professional Help - if needed.](diagram-01.svg)
 
 This diagram illustrates the interconnectedness of various elements contributing to emotional wholeness as described in the book.
 
