@@ -1,0 +1,8 @@
+{{- $urls := slice -}}
+{{- range (where site.RegularPages "Section" "posts").ByTitle -}}
+  {{- $urls = $urls | append .RelPermalink -}}
+{{- end -}}
+{{- with $urls -}}
+  {{- $script := resources.Get "js/random.js" | resources.ExecuteAsTemplate "js/random.js" . | minify | fingerprint -}}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{- end -}}

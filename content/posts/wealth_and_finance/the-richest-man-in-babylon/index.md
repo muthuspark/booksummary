@@ -14,12 +14,7 @@ author: "George S. Clason"
 
 This fundamental principle emphasizes saving a portion of your earnings *before* paying other expenses.  Arkad advises saving at least 10% of your income.  This seemingly small percentage, consistently saved, compounds over time, creating significant wealth.  Delaying gratification and prioritizing savings lays the foundation for financial security.
 
-```mermaid
-graph LR
-A[Income] --> B{Savings (10%)}
-A --> C[Expenses]
-B --> D[Wealth Building]
-```
+![For every 100 coins earned, set aside at least 10 for savings before budgeting the remaining 90.](pay-yourself-first.svg)
 
 It's not just about saving; it's about *paying yourself first*.  This means automatically transferring a predetermined percentage of your income into a savings or investment account before covering other expenses. This ensures your savings are prioritized, preventing you from rationalizing spending it.
 
@@ -27,15 +22,7 @@ It's not just about saving; it's about *paying yourself first*.  This means auto
 
 While saving is crucial, mindless spending negates those efforts. Clason emphasizes the need for disciplined spending, advising against unnecessary expenses and impulsive purchases.  Understanding the difference between needs and wants is key to maintaining financial stability.
 
-```mermaid
-graph LR
-A[Income] --> B[Needs]
-A --> C[Wants]
-B --> D[Essential Spending]
-C --> E{Careful Evaluation}
-E -- Necessary --> D
-E -- Unnecessary --> F[Wasteful Spending]
-```
+![After saving first, cover essentials and evaluate whether wants fit the remaining budget; postpone purchases that do not fit.](spending-filter.svg)
 
 
 This conscious approach requires regular budgeting and tracking of expenses to identify areas for improvement. Cutting down on unnecessary spending frees up more resources to channel into savings and investments.
@@ -45,13 +32,7 @@ This conscious approach requires regular budgeting and tracking of expenses to i
 
 The magic of compounding is central to Arkad's teachings.  The book highlights how small, consistent savings, earning interest, grow exponentially over time.  The longer the money is invested, the more significant the compounding effect becomes.  This principle emphasizes the importance of long-term investing strategies.
 
-```mermaid
-graph LR
-A[Initial Investment] --> B[Year 1: Interest Earned]
-B --> C[Year 2: Interest on Initial + Year 1 Interest]
-C --> D[Year 3: Interest on Initial + Year 1 + Year 2 Interest]
-D --> E[Exponential Growth]
-```
+![Illustrative growth of 100 coins at 5% annually: 127.63 after five years and 162.89 after ten, with interest reinvested and no added deposits, fees or taxes. Actual returns vary.](compound-interest.svg)
 
 Understanding and utilizing compound interest transforms savings into a powerful wealth-building engine.  It's the "eighth wonder of the world," as Einstein famously called it.
 
@@ -61,12 +42,7 @@ Understanding and utilizing compound interest transforms savings into a powerful
 The stories in the book highlight the value of seeking advice from experienced and knowledgeable individuals. Arkad stresses learning from those who have already achieved financial success. This proactive approach helps avoid common financial pitfalls and accelerates the learning curve.
 
 
-```mermaid
-graph LR
-A[Individual] -- Seeks Advice --> B[Experienced Financial Advisor]
-B --> C[Guidance and Knowledge]
-C --> D[Improved Financial Decisions]
-```
+![Define your question, find someone with relevant experience, and check their reasoning and the risks before deciding.](seek-expertise.svg)
 
 Mentorship provides guidance, shaping smarter financial choices and accelerating wealth accumulation. It's about leveraging the experience of others to avoid costly mistakes.
 
@@ -76,14 +52,7 @@ Mentorship provides guidance, shaping smarter financial choices and accelerating
 Arkad doesn't just advocate for saving; he stresses the importance of investing wisely.  He discourages risky ventures and encourages diversification, suggesting multiple streams of income and spreading investments across different assets to minimize risk.
 
 
-```mermaid
-graph LR
-A[Savings] --> B{Investment Options}
-B -- Real Estate --> C[Diversification]
-B -- Business Ventures --> C
-B -- Lending --> C
-C --> D[Reduced Risk]
-```
+![Before investing, understand how it earns money, examine potential losses, and seek informed advice. Diversification does not eliminate loss.](protect-capital.svg)
 
 The core principle is protecting one's capital while seeking reasonable returns.  It involves understanding investment options, conducting due diligence, and managing risk effectively.  Impulsive investment decisions are strongly discouraged.
 
@@ -98,12 +67,7 @@ The book subtly advocates for homeownership, portraying it as a safe and appreci
 Arkad stresses the dangers of uncontrolled debt, particularly unnecessary debt.  He highlights the importance of prioritizing debt repayment and building a solid financial foundation before incurring new liabilities.  This emphasizes responsible financial management.
 
 
-```mermaid
-graph LR
-A[Debt] --> B[Interest Payments]
-B --> C[Reduced Savings]
-C --> D[Slower Wealth Building]
-```
+![Interest payments leave less income available to save and invest, slowing wealth building.](debt-and-savings.svg)
 
 High-interest debts can quickly consume your earnings, impeding your financial progress.  Controlling debt is fundamental to attaining financial security and building wealth.
 
