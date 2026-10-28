@@ -117,6 +117,50 @@ adjust the list/feed sort if chronological publishing is needed later.
 - `static/`: domain file, robots.txt, logos, browser scripts, and other shared assets.
 - `docs/`: generated production site, tracked for GitHub Pages.
 
+## Write a random planned summary
+
+`scripts/write_random_summary.sh` picks one unchecked book from `progress.md` and
+uses [Codex noninteractive mode](https://learn.chatgpt.com/docs/non-interactive-mode)
+to research and write its summary with a suitable hero image and SVG diagrams when
+useful. It follows the category heading, creates a new leaf bundle, and skips
+existing bundles, including partial work from an earlier run.
+
+```sh
+# Preview a random selection and its full prompt without running Codex:
+./scripts/write_random_summary.sh --dry-run
+
+# Write and publish one randomly selected summary:
+./scripts/write_random_summary.sh
+
+# Optionally use a configured model or profile:
+./scripts/write_random_summary.sh --model YOUR_MODEL --profile YOUR_PROFILE
+```
+
+Install and authenticate Codex (`codex login`) first. The script also requires
+Bash, Python 3.11+, Git, `flock`, and Hugo on `PATH`. It uses your configured Codex
+model, tools, and skills, enables web search and workspace network access, and
+runs with the workspace-write sandbox. Image generation must be available to the
+Codex session; a relevant licensed image with attribution is an allowed fallback.
+The image must be saved as a real `image.png` of at least 512px in each dimension,
+with provenance in `image-source.md`. Graphviz is needed if new flow diagrams
+are rendered through the existing diagram generator.
+
+The script independently checks the article and image, builds and verifies the
+site, confirms the published metadata matches the selected book, then checks off
+its progress entry and updates the totals. Only one run can execute at a time.
+Writing or validation failures keep the book unchecked and preserve partial files
+for review; finish or remove that partial bundle before expecting it to be selected
+again. After a successful run, the script calls `./render_publish.sh`, which rebuilds,
+stages all repository changes, commits, and pushes. Dry runs and runs with no eligible
+books do not publish. A publishing failure returns a nonzero status and leaves the
+completed summary checked off; fix the publishing issue and rerun `./render_publish.sh`.
+
+Run the isolated automation tests without calling Codex:
+
+```sh
+python3 scripts/test_write_random_summary.py
+```
+
 ## Categories and diagrams
 
 Browse summaries using the category links and page navigation. Search controls
