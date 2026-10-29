@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **833**.
+Total books summarized: **834**.
 
-Books planned: **97**. Total tracked: **930**.
+Books planned: **96**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (97)
+## Books to Summarize (96)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -943,7 +943,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 
 ### Artificial Intelligence and Technology Ethics (5)
 
-- [ ] Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell
+- [x] [Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell](content/posts/artificial_intelligence_and_technology_ethics/artificial-intelligence-a-guide-for-thinking-humans/index.md)
 - [ ] Atlas of AI by Kate Crawford
 - [ ] Human Compatible by Stuart Russell
 - [ ] The Alignment Problem by Brian Christian
