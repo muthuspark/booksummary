@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **837**.
+Total books summarized: **838**.
 
-Books planned: **93**. Total tracked: **930**.
+Books planned: **92**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (93)
+## Books to Summarize (92)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -899,7 +899,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 - [ ] Six Easy Pieces by Richard P. Feynman
 - [ ] Stuff Matters by Mark Miodownik
 - [ ] The Disappearing Spoon by Sam Kean
-- [ ] The Elegant Universe by Brian Greene
+- [x] [The Elegant Universe by Brian Greene](content/posts/physics_and_chemistry/the-elegant-universe/index.md)
 
 ### Biology and Evolution (5)
 
