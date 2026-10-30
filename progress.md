@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **836**.
+Total books summarized: **837**.
 
-Books planned: **94**. Total tracked: **930**.
+Books planned: **93**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (94)
+## Books to Summarize (93)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -1015,7 +1015,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 
 ### Music and Sound (5)
 
-- [ ] How Music Works by David Byrne
+- [x] [How Music Works by David Byrne](content/posts/music_and_sound/how-music-works/index.md)
 - [ ] Musicophilia by Oliver Sacks
 - [ ] The Music Instinct by Philip Ball
 - [ ] The Rest Is Noise by Alex Ross
