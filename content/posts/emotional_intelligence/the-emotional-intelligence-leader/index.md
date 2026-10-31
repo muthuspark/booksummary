@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Leading with emotional intelligence in the workplace"
 image: 'image.png'
 author: "Patrick Lencioni"
+authors: ["Patrick Lencioni"]
 ---
 
 ## The Emotional Intelligence Leader: A Summary

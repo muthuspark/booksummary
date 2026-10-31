@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The definitive book on value investing"
 image: 'image.png'
 author: "Benjamin Graham"
+authors: ["Benjamin Graham"]
 ---
 
 ## The Intelligent Investor: A Summary for Improved Financial Well-being

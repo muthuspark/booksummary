@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "An innovator's guide to productive thinking"
 image: 'image.png'
 author: "Tim Hurson"
+authors: ["Tim Hurson"]
 ---
 
 ## Thinking Better: A Summary of Tim Hurson's Guide to Enhanced Cognition

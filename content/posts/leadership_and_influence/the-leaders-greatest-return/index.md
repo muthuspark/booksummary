@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Attracting, developing, and multiplying leaders"
 image: 'image.png'
 author: "John C. Maxwell"
+authors: ["John C. Maxwell"]
 ---
 
 ## The Leader's Greatest Return: A Summary

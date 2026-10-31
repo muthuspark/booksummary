@@ -3,6 +3,7 @@ title: "The Waves by Virginia Woolf"
 categories: [ "Greatest Novels" ]
 description: "The intertwined lives of six friends told through soliloquies."
 author: "Virginia Woolf"
+authors: ["Virginia Woolf"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "Beatrix Potter: A Life in Nature by Linda Lear"
 categories: [ "Biographies" ]
 description: "Biography revealing Potter as a pioneering naturalist and conservationist"
 author: "Linda Lear"
+authors: ["Linda Lear"]
 image: "image.png"
 image_alt: "Beatrix Potter in a historical photograph."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Simple tools for making better choices based on decision science"
 image: 'image.png'
 author: "Annie Duke"
+authors: ["Annie Duke"]
 ---
 
 # Understanding the Decision-Making Landscape

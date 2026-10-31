@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Lasting happiness in a changing world"
 image: 'image.png'
 author: "Dalai Lama and Desmond Tutu"
+authors: ["Dalai Lama", "Desmond Tutu"]
 ---
 
 # Finding Joy: A Foundation of Resilience

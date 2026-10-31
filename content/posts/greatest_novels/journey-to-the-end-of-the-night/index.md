@@ -3,6 +3,7 @@ title: "Journey to the End of the Night by Louis-Ferdinand Céline"
 categories: [ "Greatest Novels" ]
 description: "A cynical doctor's experiences through war, colonialism, and America."
 author: "Louis-Ferdinand Céline"
+authors: ["Louis-Ferdinand Céline"]
 image: "image.png"
 ---
 

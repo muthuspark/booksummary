@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Personal finance in your twenties and thirties"
 image: 'image.png'
 author: "Beth Kobliner"
+authors: ["Beth Kobliner"]
 ---
 
 # Getting Started: Assessing Your Financial Situation

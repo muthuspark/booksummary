@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A guide to spiritual enlightenment through present moment awareness"
 image: 'image.png'
 author: "Eckhart Tolle"
+authors: ["Eckhart Tolle"]
 ---
 
 # The Illusion of the Ego and the Power of Now

@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The hidden power of what you say and what you don't"
 image: 'image.png'
 author: "L. David Marquet"
+authors: ["L. David Marquet"]
 ---
 
 ## Leadership Is Language: A Summary

@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Exploring the nature of self and consciousness"
 image: 'image.png'
 author: "Alan Watts"
+authors: ["Alan Watts"]
 ---
 
 ## The Illusion of the Separate Self

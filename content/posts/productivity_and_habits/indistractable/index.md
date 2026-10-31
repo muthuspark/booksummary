@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How to control your attention and choose your life"
 image: 'image.png'
 author: "Nir Eyal"
+authors: ["Nir Eyal"]
 ---
 
 # Understanding Distraction

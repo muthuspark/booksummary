@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Why so many leaders abdicate their most important responsibilities"
 image: 'image.png'
 author: "Patrick Lencioni"
+authors: ["Patrick Lencioni"]
 ---
 
 ## The Core Problem: Lack of Trust

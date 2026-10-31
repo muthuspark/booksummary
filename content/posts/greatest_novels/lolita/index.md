@@ -3,6 +3,7 @@ title: "Lolita by Vladimir Nabokov"
 categories: [ "Greatest Novels" ]
 description: "The controversial story of Humbert Humbert's obsession with young Dolores Haze, told in brilliant prose."
 author: "Vladimir Nabokov"
+authors: ["Vladimir Nabokov"]
 image: "image.png"
 ---
 

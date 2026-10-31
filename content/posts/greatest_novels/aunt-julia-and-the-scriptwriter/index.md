@@ -3,6 +3,7 @@ title: "Aunt Julia and the Scriptwriter by Mario Vargas Llosa"
 categories: [ "Greatest Novels" ]
 description: "A young writer's romance with his aunt and friendship with a soap opera writer."
 author: "Mario Vargas Llosa"
+authors: ["Mario Vargas Llosa"]
 image: "image.png"
 ---
 

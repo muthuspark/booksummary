@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Why personal finance doesn't have to be complicated"
 image: 'image.png'
 author: "Helaine Olen and Harold Pollack"
+authors: ["Helaine Olen", "Harold Pollack"]
 ---
 
 # The Index Card: Simplifying a Complex World

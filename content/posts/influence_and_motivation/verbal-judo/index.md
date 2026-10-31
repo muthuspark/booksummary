@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The gentle art of persuasion and redirecting behavior"
 image: 'image.png'
 author: "George J. Thompson"
+authors: ["George J. Thompson"]
 ---
 
 ## Verbal Judo: The Art of Self-Defense with Words

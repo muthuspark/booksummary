@@ -3,6 +3,7 @@ title: "The Divine Comedy by Dante Alighieri"
 categories: [ "Greatest Novels" ]
 description: "An epic poem following Dante's journey through Hell, Purgatory, and Paradise."
 author: "Dante Alighieri"
+authors: ["Dante Alighieri"]
 image: "image.png"
 ---
 

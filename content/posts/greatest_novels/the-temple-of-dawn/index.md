@@ -3,6 +3,7 @@ title: "The Temple of Dawn by Yukio Mishima"
 categories: [ "Greatest Novels" ]
 description: "Part of the Sea of Fertility tetralogy exploring reincarnation."
 author: "Yukio Mishima"
+authors: ["Yukio Mishima"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Rethinking infidelity and exploring modern relationships"
 image: 'image.png'
 author: "Esther Perel"
+authors: ["Esther Perel"]
 ---
 
 # Understanding Desire and Infidelity

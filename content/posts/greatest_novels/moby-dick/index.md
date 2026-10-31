@@ -3,6 +3,7 @@ title: "Moby-Dick by Herman Melville"
 categories: [ "Greatest Novels" ]
 description: "The epic tale of Captain Ahab's obsessive quest for revenge against the white whale that bit off his leg."
 author: "Herman Melville"
+authors: ["Herman Melville"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "The Tenant of Wildfell Hall by Anne Brontë"
 categories: [ "Greatest Novels" ]
 description: "A woman's escape from an abusive marriage."
 author: "Anne Brontë"
+authors: ["Anne Brontë"]
 image: "image.png"
 ---
 

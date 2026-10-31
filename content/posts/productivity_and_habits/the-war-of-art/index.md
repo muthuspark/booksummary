@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Break through blocks and win your inner creative battles"
 image: 'image.png'
 author: "Steven Pressfield"
+authors: ["Steven Pressfield"]
 ---
 
 # The War of Art: A Summary and Actionable Insights

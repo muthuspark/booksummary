@@ -140,8 +140,13 @@ Research and writing:
   invent quotations, chapter details, sources, or numerical claims. Paraphrase rather
   than reproducing long passages. Include a short Sources section with working links.
 - Create the selected destination as a Hugo leaf bundle. Use YAML front matter with
-  title (the full selected label), author, categories (the selected category), a useful
+  title (the full selected label), author (the existing display credit), authors,
+  categories (the selected category), a useful
   description, and image: image.png. Do not set draft: true. No invented publication date.
+- authors must be a one-line JSON array of individually verified, canonical names,
+  for example authors: ["John Gottman", "Nan Silver"]. Include every credited coauthor,
+  expand shared surnames, and reuse existing spelling from other summaries. Do not
+  split names mechanically or use a combined credit as one author.
 - Start the body with an informative heading. Use clear sections and readable prose.
 
 Hero image (required):
@@ -205,6 +210,12 @@ article = Path(selection['destination'])
 if not article.is_file():
     raise SystemExit('Codex did not create the selected summary; progress left unchecked.')
 text = article.read_text()
+sys.path.insert(0, 'scripts')
+from author_pages import author_names
+try:
+    author_names(text, article)
+except ValueError as error:
+    raise SystemExit(str(error))
 front_matter = re.match(r'\A---\s*\n(.*?)\n---\s*\n', text, re.S)
 if not front_matter:
     raise SystemExit('Missing YAML front matter; progress left unchecked.')

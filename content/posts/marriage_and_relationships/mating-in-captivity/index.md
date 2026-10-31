@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Exploring desire, intimacy, and sexuality in long-term relationships"
 image: 'image.png'
 author: "Esther Perel"
+authors: ["Esther Perel"]
 ---
 
 # The Illusion of Romantic Love and the Reality of Long-Term Relationships

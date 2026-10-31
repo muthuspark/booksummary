@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Change the way you work forever"
 image: 'image.png'
 author: "Jason Fried and David Heinemeier Hansson"
+authors: ["Jason Fried", "David Heinemeier Hansson"]
 ---
 
 ##  Rework: A Summary of Key Advice and Strategies

@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Modern strategies for lasting love and intimacy"
 image: 'image.png'
 author: "Terrence Real"
+authors: ["Terrence Real"]
 ---
 
 ## The New Rules of Marriage: A Summary

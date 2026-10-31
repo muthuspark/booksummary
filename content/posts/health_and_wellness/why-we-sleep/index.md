@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Unlocking the power of sleep and dreams for better health"
 image: 'image.png'
 author: "Matthew Walker"
+authors: ["Matthew Walker"]
 ---
 
 ## The Role of Sleep in Health and Well-being

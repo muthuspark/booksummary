@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "When to say yes, how to say no to take control of your life"
 image: 'image.png'
 author: "Henry Cloud and John Townsend"
+authors: ["Henry Cloud", "John Townsend"]
 ---
 
 ## Understanding Boundaries: A Foundation for Healthy Living

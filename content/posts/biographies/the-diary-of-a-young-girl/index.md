@@ -3,6 +3,7 @@ title: "The Diary of a Young Girl by Anne Frank"
 categories: [ "Biographies" ]
 description: "Personal account of a Jewish teenager hiding from Nazi persecution during World War II"
 author: "Anne Frank"
+authors: ["Anne Frank"]
 image: "image.png"
 image_alt: "Anne Frank."
 image_caption: >-

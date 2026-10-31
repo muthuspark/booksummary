@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Living the wisdom of the Tao"
 image: 'image.png'
 author: "Wayne W. Dyer"
+authors: ["Wayne W. Dyer"]
 ---
 
 # Transcending the Limitations of the Ego

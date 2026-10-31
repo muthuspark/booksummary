@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How to crush fear, make dreams happen, and live without regret"
 image: 'image.png'
 author: "Richie Norton"
+authors: ["Richie Norton"]
 ---
 
 # Embracing the "Stupid"

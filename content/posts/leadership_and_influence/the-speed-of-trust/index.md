@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The one thing that changes everything in leadership"
 image: 'image.png'
 author: "Stephen M.R. Covey"
+authors: ["Stephen M.R. Covey"]
 ---
 
 # The Core Principle: Trust as the Foundation of High Performance

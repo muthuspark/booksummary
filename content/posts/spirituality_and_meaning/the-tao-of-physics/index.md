@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Exploring parallels between modern physics and Eastern mysticism"
 image: 'image.png'
 author: "Fritjof Capra"
+authors: ["Fritjof Capra"]
 ---
 
 ## The Tao of Physics: A Synthesis for Life

@@ -3,6 +3,7 @@ title: "If on a winter's night a traveler by Italo Calvino"
 categories: [ "Greatest Novels" ]
 description: "A postmodern novel about reading novels."
 author: "Italo Calvino"
+authors: ["Italo Calvino"]
 image: "image.png"
 ---
 

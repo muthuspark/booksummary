@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Expert solutions to everyday challenges"
 image: 'image.png'
 author: "Harvard Business Review"
+authors: ["Harvard Business Review"]
 ---
 
 ## Understanding Motivation: The Core Principles

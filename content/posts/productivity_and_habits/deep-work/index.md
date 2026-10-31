@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Rules for focused success in a distracted world and achieving peak productivity"
 image: 'image.png'
 author: "Cal Newport"
+authors: ["Cal Newport"]
 ---
 
 # Deep Work: Rules for Focused Success in a Distracted World - A Summary

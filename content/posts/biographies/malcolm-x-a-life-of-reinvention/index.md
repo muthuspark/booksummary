@@ -3,6 +3,7 @@ title: "Malcolm X: A Life of Reinvention by Manning Marable"
 categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning reexamination of the civil rights leader's life and legacy"
 author: "Manning Marable"
+authors: ["Manning Marable"]
 image: "image.png"
 image_alt: "Malcolm X."
 image_caption: >-

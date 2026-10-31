@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "How to change your mind and your life through positive psychology"
 image: 'image.png'
 author: "Martin E.P. Seligman"
+authors: ["Martin E.P. Seligman"]
 ---
 
 # Learned Optimism: A Summary

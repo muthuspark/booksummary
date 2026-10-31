@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "How the heart grows wise on the spiritual path"
 image: 'image.png'
 author: "Jack Kornfield"
+authors: ["Jack Kornfield"]
 ---
 
 ## Embracing the Messy Middle: Finding Wholeness in Daily Life

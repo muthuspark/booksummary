@@ -3,6 +3,7 @@ title: "Young Stalin by Simon Sebag Montefiore"
 categories: [ "Biographies" ]
 description: "Biography focusing on Stalin's early years and transformation into a revolutionary"
 author: "Simon Sebag Montefiore"
+authors: ["Simon Sebag Montefiore"]
 image: "image.png"
 image_alt: "Joseph Stalin."
 image_caption: >-

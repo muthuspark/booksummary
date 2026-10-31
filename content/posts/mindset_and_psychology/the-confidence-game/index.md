@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding why we fall for deception"
 image: 'image.png'
 author: "Maria Konnikova"
+authors: ["Maria Konnikova"]
 ---
 
 # Understanding the Confidence Game: A Framework for Life

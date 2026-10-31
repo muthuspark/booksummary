@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Brain, mind, and body in the healing of trauma"
 image: 'image.png'
 author: "Bessel van der Kolk"
+authors: ["Bessel van der Kolk"]
 ---
 
 ## The Body Keeps the Score: A Summary & Actionable Insights

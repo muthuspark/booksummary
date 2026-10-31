@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How to build habit-forming products"
 image: 'image.png'
 author: "Nir Eyal"
+authors: ["Nir Eyal"]
 ---
 
 ## Hooked: How to Build Habit-Forming Products

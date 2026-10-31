@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Addressing common misconceptions about marriage"
 image: 'image.png'
 author: "Christopher Kaczor"
+authors: ["Christopher Kaczor"]
 ---
 
 # Debunking the Myths: A Summary of "The Seven Big Myths about Marriage"

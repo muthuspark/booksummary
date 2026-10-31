@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Focusing on the single most important task for extraordinary results"
 image: 'image.png'
 author: "Gary Keller"
+authors: ["Gary Keller"]
 ---
 
 ## The One Thing: Focusing on the Few

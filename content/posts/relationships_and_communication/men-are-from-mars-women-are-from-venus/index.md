@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Understanding gender differences in communication and relationships"
 image: 'image.png'
 author: "John Gray"
+authors: ["John Gray"]
 ---
 
 ## Understanding the Martian and Venusian Worlds

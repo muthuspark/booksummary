@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Say less, ask more & change the way you lead forever"
 image: 'image.png'
 author: "Michael Bungay Stanier"
+authors: ["Michael Bungay Stanier"]
 ---
 
 # The Core Principle:  A Shift in Mindset

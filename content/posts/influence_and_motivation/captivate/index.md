@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The science of succeeding with people"
 image: 'image.png'
 author: "Vanessa Van Edwards"
+authors: ["Vanessa Van Edwards"]
 ---
 
 ## Captivate: The Science of Succeeding with People

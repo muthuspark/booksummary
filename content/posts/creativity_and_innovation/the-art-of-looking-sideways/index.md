@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The ultimate guide to visual awareness"
 image: 'image.png'
 author: "Alan Fletcher"
+authors: ["Alan Fletcher"]
 ---
 
 ## The Power of Observation: Seeing the Unseen

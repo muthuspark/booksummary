@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Navigating emotions in a technology-driven world"
 image: 'image.png'
 author: "James Bradford"
+authors: ["James Bradford"]
 ---
 
 There is no known book titled "Emotional Intelligence in the Digital Age" authored by James Bradford.  It's possible the title or author is slightly inaccurate, or the book hasn't been widely published.  This response will therefore provide a general overview of emotional intelligence (EQ) in the context of the digital age, drawing on established research and principles.  This will offer key advice and strategies for improving life in our digitally-driven world.

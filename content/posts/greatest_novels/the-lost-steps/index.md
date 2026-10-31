@@ -3,6 +3,7 @@ title: "The Lost Steps by Alejo Carpentier"
 categories: [ "Greatest Novels" ]
 description: "A composer's journey into the South American jungle."
 author: "Alejo Carpentier"
+authors: ["Alejo Carpentier"]
 image: "image.png"
 ---
 

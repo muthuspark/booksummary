@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Behavioral decision theory and managerial applications"
 image: 'image.png'
 author: "Max H. Bazerman"
+authors: ["Max Bazerman"]
 ---
 
 ## Judgment in Managerial Decision Making: A Summary & Actionable Insights

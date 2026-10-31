@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Brave work, tough conversations, whole hearts"
 image: 'image.png'
 author: "Brene Brown"
+authors: ["Brene Brown"]
 ---
 
 # Dare to Lead: A Summary

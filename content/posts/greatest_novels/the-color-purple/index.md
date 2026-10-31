@@ -3,6 +3,7 @@ title: "The Color Purple by Alice Walker"
 categories: [ "Greatest Novels" ]
 description: "The story of Celie, an African American woman in the South, told through her letters to God."
 author: "Alice Walker"
+authors: ["Alice Walker"]
 image: "image.png"
 ---
 

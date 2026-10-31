@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Understanding the science of motivation"
 image: 'image.png'
 author: "Lambert Deckers"
+authors: ["Lambert Deckers"]
 ---
 
 ## Understanding Motivation: A Framework

@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Living younger, healthier, longer"
 image: 'image.png'
 author: "Elizabeth Blackburn and Elissa Epel"
+authors: ["Elizabeth Blackburn", "Elissa Epel"]
 ---
 
 # Understanding Telomeres and Their Impact

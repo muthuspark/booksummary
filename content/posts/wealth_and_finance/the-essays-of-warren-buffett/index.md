@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Lessons for corporate America from the greatest investor"
 image: 'image.png'
 author: "Warren Buffett and Lawrence A. Cunningham"
+authors: ["Warren Buffett", "Lawrence A. Cunningham"]
 ---
 
 # The Enduring Wisdom of Warren Buffett: Key Takeaways from "The Essays of Warren Buffett"

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Track the past, order the present, design the future"
 image: 'image.png'
 author: "Ryder Carroll"
+authors: ["Ryder Carroll"]
 ---
 
 # The Core Philosophy: Intention, Reflection, and Action

@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Ancient wisdom on strategy and leadership"
 image: 'image.png'
 author: "Sun Tzu"
+authors: ["Sun Tzu"]
 ---
 
 ## Understanding the Battlefield: Self-Awareness and Strategic Planning

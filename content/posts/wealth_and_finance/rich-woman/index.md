@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A guide to financial independence for women"
 image: 'image.png'
 author: "Kim Kiyosaki"
+authors: ["Kim Kiyosaki"]
 ---
 
 ## Understanding the Rich Woman Mindset

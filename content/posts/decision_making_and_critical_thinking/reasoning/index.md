@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "An introduction to critical thinking and logic"
 image: 'image.png'
 author: "Alec Fisher"
+authors: ["Alec Fisher"]
 ---
 
 ## Understanding Reasoning's Core Argument

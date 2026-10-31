@@ -3,6 +3,7 @@ title: "Should I Get Married? by M. Blaine Smith"
 categories: [ "Marriage And Relationships" ]
 description: "Making the decision about marriage and choosing the right partner"
 author: "M. Blaine Smith"
+authors: ["M. Blaine Smith"]
 image: "image.png"
 ---
 

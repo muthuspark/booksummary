@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A scientific program for sustaining and strengthening marital health"
 image: 'image.png'
 author: "James V. Cordova"
+authors: ["James V. Cordova"]
 ---
 
 ## Understanding Your Marriage's Health

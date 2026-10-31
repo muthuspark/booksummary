@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How to make change inevitable"
 image: 'image.png'
 author: "Kerry Patterson"
+authors: ["Kerry Patterson"]
 ---
 
 # Understanding the Power of Influence

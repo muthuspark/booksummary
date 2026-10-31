@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The hidden forces that shape behavior"
 image: 'image.png'
 author: "Jonah Berger"
+authors: ["Jonah Berger"]
 ---
 
 # Understanding Invisible Influence: A Summary of Jonah Berger's Work

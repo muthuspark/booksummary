@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Better thinking through cognitive science"
 image: 'image.png'
 author: "Rolf Dobelli"
+authors: ["Rolf Dobelli"]
 ---
 
 ## The Art of Thinking Clearly: A Summary

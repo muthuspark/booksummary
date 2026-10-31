@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The dark side of the American meal"
 image: 'image.png'
 author: "Eric Schlosser"
+authors: ["Eric Schlosser"]
 ---
 
 ## The Human Cost of Cheap Food

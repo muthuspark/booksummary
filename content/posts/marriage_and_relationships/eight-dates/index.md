@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Essential conversations for a lifetime of love"
 image: 'image.png'
 author: "John Gottman and Julie Schwartz Gottman"
+authors: ["John Gottman", "Julie Schwartz Gottman"]
 ---
 
 ## Understanding the Foundation:  Building a Lasting Relationship

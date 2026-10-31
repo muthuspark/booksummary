@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The secret to love that lasts through understanding different expressions of love"
 image: 'image.png'
 author: "Gary Chapman"
+authors: ["Gary Chapman"]
 ---
 
 # Understanding the 5 Love Languages

@@ -3,6 +3,7 @@ title: "The Man of Feeling by Javier Marías"
 categories: [ "Greatest Novels" ]
 description: "An opera singer reflects on a past love affair."
 author: "Javier Marías"
+authors: ["Javier Marías"]
 image: "image.png"
 ---
 

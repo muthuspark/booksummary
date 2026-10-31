@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Mastering the habits of our everyday lives"
 image: 'image.png'
 author: "Gretchen Rubin"
+authors: ["Gretchen Rubin"]
 ---
 
 # Understanding Your Tendencies: The Four Tendencies Framework

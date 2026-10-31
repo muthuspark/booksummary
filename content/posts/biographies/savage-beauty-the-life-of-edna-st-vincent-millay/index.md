@@ -3,6 +3,7 @@ title: "Savage Beauty: The Life of Edna St. Vincent Millay by Nancy Milford"
 categories: [ "Biographies" ]
 description: "Biography of the passionate poet who captivated the Jazz Age"
 author: "Nancy Milford"
+authors: ["Nancy Milford"]
 image: "image.png"
 image_alt: "Edna St. Vincent Millay."
 image_caption: >-

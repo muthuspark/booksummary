@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The science of decision making and the brain's two systems"
 image: 'image.png'
 author: "Jonah Lehrer"
+authors: ["Jonah Lehrer"]
 ---
 
 ## The Emotional Brain:  Understanding Our Intuition

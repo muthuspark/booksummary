@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Unlocking the power of emotions to help ourselves and our children thrive"
 image: 'image.png'
 author: "Marc Brackett"
+authors: ["Marc Brackett"]
 ---
 
 # Understanding Your Emotions: The Foundation of RULER

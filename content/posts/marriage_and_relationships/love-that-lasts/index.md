@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Building a marriage that will go the distance"
 image: 'image.png'
 author: "Jefferson and Alyssa Bethke"
+authors: ["Jefferson Bethke", "Alyssa Bethke"]
 ---
 
 ## Love That Lasts: A Summary and Actionable Insights

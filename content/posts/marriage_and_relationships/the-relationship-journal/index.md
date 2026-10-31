@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A couples therapy workbook for communication and connection"
 image: 'image.png'
 author: "Catherine Greer"
+authors: ["Catherine Greer"]
 ---
 
 ## Understanding Your Relationships

@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Your financial freedom playbook"
 image: 'image.png'
 author: "Tony Robbins"
+authors: ["Tony Robbins"]
 ---
 
 Tony Robbins' "Unshakeable" isn't just a book about investing; it's a detailed guide to building unshakeable wealth and achieving financial freedom.  It blends investment strategies with psychological principles, empowering readers to take control of their financial futures and live with confidence.  The core message revolves around eliminating fear, building a solid foundation, and developing a long-term perspective.

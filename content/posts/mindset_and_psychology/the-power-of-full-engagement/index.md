@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Managing energy, not time, is the key to performance"
 image: 'image.png'
 author: "Jim Loehr and Tony Schwartz"
+authors: ["Jim Loehr", "Tony Schwartz"]
 ---
 
 # The Power of Full Engagement: A Summary

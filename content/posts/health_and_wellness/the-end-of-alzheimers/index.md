@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The first program to prevent and reverse cognitive decline"
 image: 'image.png'
 author: "Dale Bredesen"
+authors: ["Dale Bredesen"]
 ---
 
 # The End of Alzheimer's: A Detailed Overview

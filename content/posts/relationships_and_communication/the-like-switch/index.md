@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "An ex-FBI agent's guide to influencing and attracting others"
 image: 'image.png'
 author: "Jack Schafer"
+authors: ["Jack Schafer"]
 ---
 
 ## Understanding the Primal Brain

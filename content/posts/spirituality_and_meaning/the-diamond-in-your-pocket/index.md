@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Discovering your true radiance"
 image: 'image.png'
 author: "Gangaji"
+authors: ["Gangaji"]
 ---
 
 ## Understanding the Illusion of Self

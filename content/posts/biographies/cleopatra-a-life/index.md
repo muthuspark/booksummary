@@ -3,6 +3,7 @@ title: "Cleopatra: A Life by Stacy Schiff"
 categories: [ "Biographies" ]
 description: "Fresh perspective on the Egyptian queen, separating fact from centuries of fiction"
 author: "Stacy Schiff"
+authors: ["Stacy Schiff"]
 image: "image.png"
 image_alt: "Ancient marble bust of Cleopatra VII, Altes Museum, Berlin."
 image_caption: >-

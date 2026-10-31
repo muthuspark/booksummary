@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How to solve big problems and test new ideas in just five days"
 image: 'image.png'
 author: "Jake Knapp"
+authors: ["Jake Knapp"]
 ---
 
 # Understanding the Sprint Methodology

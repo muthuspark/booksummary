@@ -3,6 +3,7 @@ title: "Season of Migration to the North by Tayeb Salih"
 categories: [ "Greatest Novels" ]
 description: "A Sudanese man's experiences between his village and London."
 author: "Tayeb Salih"
+authors: ["Tayeb Salih"]
 image: "image.png"
 ---
 

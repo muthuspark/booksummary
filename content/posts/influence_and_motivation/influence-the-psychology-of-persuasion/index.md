@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The classic book on the six universal principles of influence"
 image: 'image.png'
 author: "Robert Cialdini"
+authors: ["Robert Cialdini"]
 ---
 
 # Influence: Mastering the Art of Persuasion

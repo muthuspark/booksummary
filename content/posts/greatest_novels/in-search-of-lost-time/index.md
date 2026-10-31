@@ -3,6 +3,7 @@ title: "In Search of Lost Time by Marcel Proust"
 categories: [ "Greatest Novels" ]
 description: "A seven-volume masterpiece exploring memory, time, and social life in late 19th-century French high society."
 author: "Marcel Proust"
+authors: ["Marcel Proust"]
 image: "image.png"
 ---
 

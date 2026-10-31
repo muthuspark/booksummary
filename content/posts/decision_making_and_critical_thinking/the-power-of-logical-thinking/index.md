@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Easy lessons in dealing with problems and odds of everyday life"
 image: 'image.png'
 author: "Marilyn vos Savant"
+authors: ["Marilyn vos Savant"]
 ---
 
 # Introduction: Embracing the Power of Logic

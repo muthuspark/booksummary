@@ -3,6 +3,7 @@ title: "Sinclair Lewis: Rebel from Main Street by Richard Lingeman"
 categories: [ "Biographies" ]
 description: "Biography of America's first Nobel Prize winner in literature"
 author: "Richard Lingeman"
+authors: ["Richard Lingeman"]
 image: "image.png"
 image_alt: "Sinclair Lewis."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How to change things when change is hard"
 image: 'image.png'
 author: "Chip Heath and Dan Heath"
+authors: ["Chip Heath", "Dan Heath"]
 ---
 
 # Understanding the Rider and the Elephant

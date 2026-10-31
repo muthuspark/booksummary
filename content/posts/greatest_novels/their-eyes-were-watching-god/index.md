@@ -3,6 +3,7 @@ title: "Their Eyes Were Watching God by Zora Neale Hurston"
 categories: [ "Greatest Novels" ]
 description: "Janie Crawford's quest for identity and love in the American South."
 author: "Zora Neale Hurston"
+authors: ["Zora Neale Hurston"]
 image: "image.png"
 ---
 

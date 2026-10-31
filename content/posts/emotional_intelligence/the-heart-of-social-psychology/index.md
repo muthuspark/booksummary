@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A backstage view of a passionate science"
 image: 'image.png'
 author: "John G. Holmes"
+authors: ["John G. Holmes"]
 ---
 
 ## Understanding the Social Self

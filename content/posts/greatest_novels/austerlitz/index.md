@@ -3,6 +3,7 @@ title: "Austerlitz by W.G. Sebald"
 categories: [ "Greatest Novels" ]
 description: "A meditation on memory and loss through the story of a man discovering his Jewish heritage."
 author: "W.G. Sebald"
+authors: ["W.G. Sebald"]
 image: "image.png"
 ---
 

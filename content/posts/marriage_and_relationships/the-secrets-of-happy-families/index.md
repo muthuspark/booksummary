@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Strategies for creating stronger family bonds and relationships"
 image: 'image.png'
 author: "Bruce Feiler"
+authors: ["Bruce Feiler"]
 ---
 
 ## The Foundation:  Defining a "Happy Family"

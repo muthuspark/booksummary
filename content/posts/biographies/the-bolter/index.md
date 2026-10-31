@@ -3,6 +3,7 @@ title: "The Bolter by Frances Osborne"
 categories: [ "Biographies" ]
 description: "Biography of the scandalous aristocrat who inspired Nancy Mitford's The Pursuit of Love"
 author: "Frances Osborne"
+authors: ["Frances Osborne"]
 image: "image.png"
 image_alt: "Portrait of Idina Sackville (then Idina Wallace) by William Orpen."
 image_caption: >-

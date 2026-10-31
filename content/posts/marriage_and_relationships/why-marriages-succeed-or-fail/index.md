@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Predicting the success or failure of marriages based on interaction patterns"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 # The Sound Relationship House: A Foundation for Lasting Love

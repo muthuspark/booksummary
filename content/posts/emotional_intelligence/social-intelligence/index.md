@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The revolutionary new science of human relationships"
 image: 'image.png'
 author: "Daniel Goleman"
+authors: ["Daniel Goleman"]
 ---
 
 ## Understanding Social Intelligence: A Summary of Goleman's Work

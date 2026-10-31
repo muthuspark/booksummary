@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "How design thinking transforms organizations and inspires innovation"
 image: 'image.png'
 author: "Tim Brown"
+authors: ["Tim Brown"]
 ---
 
 ## Think Like a Designer: A Summary

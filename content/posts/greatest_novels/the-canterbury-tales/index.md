@@ -3,6 +3,7 @@ title: "The Canterbury Tales by Geoffrey Chaucer"
 categories: [ "Greatest Novels" ]
 description: "A collection of stories told by pilgrims traveling to Canterbury."
 author: "Geoffrey Chaucer"
+authors: ["Geoffrey Chaucer"]
 image: "image.png"
 ---
 

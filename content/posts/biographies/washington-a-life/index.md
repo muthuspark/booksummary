@@ -3,6 +3,7 @@ title: "Washington: A Life by Ron Chernow"
 categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography offering a fresh portrait of America's first president"
 author: "Ron Chernow"
+authors: ["Ron Chernow"]
 image: "image.png"
 image_alt: "George Washington."
 image_caption: >-

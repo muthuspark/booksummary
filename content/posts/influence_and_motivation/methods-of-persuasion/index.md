@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How to use psychology to influence human behavior"
 image: 'image.png'
 author: "Nick Kolenda"
+authors: ["Nick Kolenda"]
 ---
 
 # Understanding Persuasion: A Foundation

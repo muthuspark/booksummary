@@ -3,6 +3,7 @@ title: "The Odyssey by Homer"
 categories: [ "Greatest Novels" ]
 description: "The epic journey of Odysseus returning home after the Trojan War."
 author: "Homer"
+authors: ["Homer"]
 image: "image.png"
 ---
 

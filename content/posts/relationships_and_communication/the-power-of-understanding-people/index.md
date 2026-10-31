@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The key to strengthening relationships at work and home"
 image: 'image.png'
 author: "Dave Mitchell"
+authors: ["Dave Mitchell"]
 ---
 
 ## Understanding the Fundamentals of Human Behavior

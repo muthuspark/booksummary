@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Little things that can change your life and maybe the world"
 image: 'image.png'
 author: "William H. McRaven"
+authors: ["William H. McRaven"]
 ---
 
 # The Power of Small Wins: Starting with Your Bed

@@ -3,6 +3,7 @@ title: "A Passage to India by E.M. Forster"
 categories: [ "Greatest Novels" ]
 description: "The relationship between Indians and British colonials in the 1920s."
 author: "E.M. Forster"
+authors: ["E.M. Forster"]
 image: "image.png"
 ---
 

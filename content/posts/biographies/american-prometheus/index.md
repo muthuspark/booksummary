@@ -3,6 +3,7 @@ title: "American Prometheus by Kai Bird and Martin J. Sherwin"
 categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography of J. Robert Oppenheimer, father of the atomic bomb"
 author: "Kai Bird and Martin J. Sherwin"
+authors: ["Kai Bird", "Martin J. Sherwin"]
 image: "image.png"
 image_alt: "J. Robert Oppenheimer."
 image_caption: >-

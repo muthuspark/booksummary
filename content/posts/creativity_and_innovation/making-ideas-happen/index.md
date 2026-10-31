@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Overcoming the obstacles between vision and reality"
 image: 'image.png'
 author: "Scott Belsky"
+authors: ["Scott Belsky"]
 ---
 
 ## Making Ideas Happen: A Summary

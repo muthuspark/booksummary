@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why generalists triumph in a specialized world"
 image: 'image.png'
 author: "David Epstein"
+authors: ["David Epstein"]
 ---
 
 ## Range: Why Generalists Triumph in a Specialized World - Key Takeaways

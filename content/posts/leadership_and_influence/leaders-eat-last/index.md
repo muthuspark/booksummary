@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Why some teams pull together and others don't"
 image: 'image.png'
 author: "Simon Sinek"
+authors: ["Simon Sinek"]
 ---
 
 ## The Circle of Safety: The Foundation of Leadership

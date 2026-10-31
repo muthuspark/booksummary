@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "And what does: the new science of leading, energizing, and engaging"
 image: 'image.png'
 author: "Susan Fowler"
+authors: ["Susan Fowler"]
 ---
 
 It seems there's a misunderstanding.  There is no known book titled "Why Motivating People Doesn't Work" by an author named Susan Fowler.  Susan Fowler is known for her experiences at Uber and her subsequent book "Whistleblower," which details her experiences with sexism and harassment in the tech industry.  This book doesn't focus on motivation strategies.

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "How EQ is transforming organizations and leadership"
 image: 'image.png'
 author: "Cary Cherniss"
+authors: ["Cary Cherniss"]
 ---
 
 ## The Emotional Intelligence Revolution: A Summary

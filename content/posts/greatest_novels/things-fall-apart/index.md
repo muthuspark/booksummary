@@ -3,6 +3,7 @@ title: "Things Fall Apart by Chinua Achebe"
 categories: [ "Greatest Novels" ]
 description: "The story of Okonkwo and the impact of British colonialism on Nigerian Igbo society."
 author: "Chinua Achebe"
+authors: ["Chinua Achebe"]
 image: "image.png"
 ---
 

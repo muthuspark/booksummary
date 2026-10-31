@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "An exploration of finding meaning in all circumstances"
 image: 'image.png'
 author: "Viktor E. Frankl"
+authors: ["Viktor E. Frankl"]
 ---
 
 # Finding Meaning in Suffering: A Summary of Man's Search for Meaning

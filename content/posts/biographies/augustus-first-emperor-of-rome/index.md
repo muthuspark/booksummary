@@ -3,6 +3,7 @@ title: "Augustus: First Emperor of Rome by Adrian Goldsworthy"
 categories: [ "Biographies" ]
 description: "Biography of Rome's first emperor and his transformation of the Republic into an Empire"
 author: "Adrian Goldsworthy"
+authors: ["Adrian Goldsworthy"]
 image: "image.png"
 image_alt: "Detail of Augustus of Prima Porta, an ancient marble statue."
 image_caption: >-

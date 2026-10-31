@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Stop struggling, reconcile differences, and strengthen your relationship"
 image: 'image.png'
 author: "Russ Harris"
+authors: ["Russ Harris"]
 ---
 
 ## Acceptance and Commitment Therapy (ACT): A Foundation

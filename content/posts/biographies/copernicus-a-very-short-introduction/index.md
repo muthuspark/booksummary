@@ -3,6 +3,7 @@ title: "Copernicus: A Very Short Introduction by Owen Gingerich"
 categories: [ "Biographies" ]
 description: "Concise biography of the astronomer who placed the sun at the center of the universe"
 author: "Owen Gingerich"
+authors: ["Owen Gingerich"]
 image: "image.png"
 image_alt: "Nicolaus Copernicus."
 image_caption: >-

@@ -3,6 +3,7 @@ title: "The Rise of Theodore Roosevelt by Edmund Morris"
 categories: [ "Biographies" ]
 description: "First volume of the definitive trilogy about Roosevelt's early life and career"
 author: "Edmund Morris"
+authors: ["Edmund Morris"]
 image: "image.png"
 image_alt: "Theodore Roosevelt."
 image_caption: >-

@@ -3,6 +3,7 @@ title: "American Pastoral by Philip Roth"
 categories: [ "Greatest Novels" ]
 description: "The story of a successful businessman whose life is ruined by his daughter's political terrorism."
 author: "Philip Roth"
+authors: ["Philip Roth"]
 image: "image.png"
 ---
 

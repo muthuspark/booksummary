@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Your blueprint to financial independence"
 image: 'image.png'
 author: "Chris Mamula, Brad Barrett, and Jonathan Mendonsa"
+authors: ["Chris Mamula", "Brad Barrett", "Jonathan Mendonsa"]
 ---
 
 # Choose FI: A Summary

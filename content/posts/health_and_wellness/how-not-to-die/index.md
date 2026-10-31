@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Discover foods scientifically proven to prevent and reverse disease"
 image: 'image.png'
 author: "Michael Greger"
+authors: ["Michael Greger"]
 ---
 
 ## How Not to Die: A Summary

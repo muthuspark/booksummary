@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Why habits exist and how they can be changed, backed by scientific discoveries"
 image: 'image.png'
 author: "Charles Duhigg"
+authors: ["Charles Duhigg"]
 ---
 
 # The Habit Loop: Understanding the Mechanics of Habit

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Techniques to build inner strength in children"
 image: 'image.png'
 author: "Linda Lantieri"
+authors: ["Linda Lantieri"]
 ---
 
 ## Building Emotional Intelligence: A Summary

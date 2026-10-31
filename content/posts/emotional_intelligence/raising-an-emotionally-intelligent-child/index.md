@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The heart of parenting"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 # Understanding Emotional Intelligence in Children

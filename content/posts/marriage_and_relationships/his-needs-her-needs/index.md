@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Building an affair-proof marriage by meeting emotional needs"
 image: 'image.png'
 author: "Willard F. Harley Jr."
+authors: ["Willard F. Harley Jr."]
 ---
 
 # Understanding the Core Principles:  His Needs, Her Needs

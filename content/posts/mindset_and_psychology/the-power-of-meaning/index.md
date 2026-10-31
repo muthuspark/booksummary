@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Finding fulfillment in a world obsessed with happiness"
 image: 'image.png'
 author: "Emily Esfahani Smith"
+authors: ["Emily Esfahani Smith"]
 ---
 
 ## The Power of Meaning: A Summary & Actionable Insights

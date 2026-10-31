@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Proven techniques for saving and improving your marriage"
 image: 'image.png'
 author: "Michele Weiner Davis"
+authors: ["Michele Weiner Davis"]
 ---
 
 ## Understanding the Problem: Recognizing the Patterns of Unhappy Marriages

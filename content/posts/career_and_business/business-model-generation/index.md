@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "A handbook for visionaries, game changers, and challengers"
 image: 'image.png'
 author: "Alexander Osterwalder"
+authors: ["Alexander Osterwalder"]
 ---
 
 ## Business Model Generation: An Approach to Success

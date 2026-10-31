@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "An interpretation of the great mystics, East and West"
 image: 'image.png'
 author: "Aldous Huxley"
+authors: ["Aldous Huxley"]
 ---
 
 ## The Perennial Philosophy: A Path to Meaning and Fulfillment

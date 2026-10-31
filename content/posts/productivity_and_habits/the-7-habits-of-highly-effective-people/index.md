@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Powerful lessons in personal change and effectiveness"
 image: 'image.png'
 author: "Stephen Covey"
+authors: ["Stephen Covey"]
 ---
 
 ## Shift: From Dependence to Independence

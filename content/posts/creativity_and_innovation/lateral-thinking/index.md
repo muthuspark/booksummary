@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Creativity step by step"
 image: 'image.png'
 author: "Edward de Bono"
+authors: ["Edward de Bono"]
 ---
 
 ## Lateral Thinking: Unleashing Creative Potential

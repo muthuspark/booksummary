@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How to lead with an infinite mindset"
 image: 'image.png'
 author: "Simon Sinek"
+authors: ["Simon Sinek"]
 ---
 
 # The Infinite Game: Key Concepts

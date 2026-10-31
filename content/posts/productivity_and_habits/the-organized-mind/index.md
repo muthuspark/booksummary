@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Thinking straight in the age of information overload"
 image: 'image.png'
 author: "Daniel J. Levitin"
+authors: ["Daniel J. Levitin"]
 ---
 
 # The Organized Mind: A Summary

@@ -3,6 +3,7 @@ title: "The Portrait of a Lady by Henry James"
 categories: [ "Greatest Novels" ]
 description: "Isabel Archer's journey from America to Europe and her fateful marriage to Gilbert Osmond."
 author: "Henry James"
+authors: ["Henry James"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "Napoleon: A Life by Andrew Roberts"
 categories: [ "Biographies" ]
 description: "Comprehensive biography drawing on Napoleon's newly published personal letters"
 author: "Andrew Roberts"
+authors: ["Andrew Roberts"]
 image: "image.png"
 image_alt: "Napoleon."
 image_caption: >-

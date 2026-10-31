@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The plant-based gut health program for weight loss"
 image: 'image.png'
 author: "Will Bulsiewicz"
+authors: ["Will Bulsiewicz"]
 ---
 
 ## Fiber Fueled: A Summary

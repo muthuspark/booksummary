@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Research-based techniques for increasing your influence"
 image: 'image.png'
 author: "Noah J. Goldstein"
+authors: ["Noah Goldstein"]
 ---
 
 # Understanding the Science of Persuasion

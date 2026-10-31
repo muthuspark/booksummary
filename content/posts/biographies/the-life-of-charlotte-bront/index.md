@@ -3,6 +3,7 @@ title: "The Life of Charlotte Brontë by Elizabeth Gaskell"
 categories: [ "Biographies" ]
 description: "First biography of the Jane Eyre author, written by her friend and fellow novelist"
 author: "Elizabeth Gaskell"
+authors: ["Elizabeth Gaskell"]
 image: "image.png"
 image_alt: "Charlotte Brontë."
 image_caption: >-

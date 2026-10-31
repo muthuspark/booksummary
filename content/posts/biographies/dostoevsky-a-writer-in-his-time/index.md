@@ -3,6 +3,7 @@ title: "Dostoevsky: A Writer in His Time by Joseph Frank"
 categories: [ "Biographies" ]
 description: "Definitive biography of the Russian literary master"
 author: "Joseph Frank"
+authors: ["Joseph Frank"]
 image: "image.png"
 image_alt: "Fyodor Dostoevsky."
 image_caption: >-

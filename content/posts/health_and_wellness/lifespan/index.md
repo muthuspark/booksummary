@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Why we age and why we don't have to"
 image: 'image.png'
 author: "David A. Sinclair"
+authors: ["David A. Sinclair"]
 ---
 
 ## Lifespan: Key Takeaways and Actionable Insights

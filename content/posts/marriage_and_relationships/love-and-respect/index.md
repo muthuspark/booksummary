@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Understanding the different emotional needs of men and women"
 image: 'image.png'
 author: "Emerson Eggerichs"
+authors: ["Emerson Eggerichs"]
 ---
 
 ## Love and Respect: A Summary

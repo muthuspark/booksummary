@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How to solve problems before they happen using systems thinking"
 image: 'image.png'
 author: "Dan Heath"
+authors: ["Dan Heath"]
 ---
 
 ## Upstream: Solving Problems Before They Happen

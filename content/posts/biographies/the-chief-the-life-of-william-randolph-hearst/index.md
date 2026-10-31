@@ -3,6 +3,7 @@ title: "The Chief: The Life of William Randolph Hearst by David Nasaw"
 categories: [ "Biographies" ]
 description: "Biography of the controversial newspaper tycoon who built a media empire"
 author: "David Nasaw"
+authors: ["David Nasaw"]
 image: "image.png"
 image_alt: "William Randolph Hearst."
 image_caption: >-

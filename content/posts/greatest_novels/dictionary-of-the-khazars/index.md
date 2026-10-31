@@ -3,6 +3,7 @@ title: "Dictionary of the Khazars by Milorad Pavić"
 categories: [ "Greatest Novels" ]
 description: "A lexicon novel about the conversion of the Khazar people."
 author: "Milorad Pavić"
+authors: ["Milorad Pavić"]
 image: "image.png"
 ---
 

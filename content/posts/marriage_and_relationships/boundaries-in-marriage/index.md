@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Understanding and establishing healthy boundaries in marriage"
 image: 'image.png'
 author: "Henry Cloud and John Townsend"
+authors: ["Henry Cloud", "John Townsend"]
 ---
 
 ## Understanding Boundaries: The Foundation of a Healthy Marriage

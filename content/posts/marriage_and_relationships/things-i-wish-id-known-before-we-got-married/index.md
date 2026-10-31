@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Preparing for marriage and avoiding common pitfalls"
 image: 'image.png'
 author: "Gary Chapman"
+authors: ["Gary Chapman"]
 ---
 
 ## Understanding Your Love Language

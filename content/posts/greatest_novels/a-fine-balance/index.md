@@ -3,6 +3,7 @@ title: "A Fine Balance by Rohinton Mistry"
 categories: [ "Greatest Novels" ]
 description: "Four characters navigate life during India's Emergency period."
 author: "Rohinton Mistry"
+authors: ["Rohinton Mistry"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "Crime and Punishment by Fyodor Dostoevsky"
 categories: [ "Greatest Novels" ]
 description: "A psychological thriller about a poor student who commits murder and grapples with guilt, morality, and redemption."
 author: "Fyodor Dostoevsky"
+authors: ["Fyodor Dostoevsky"]
 image: "image.png"
 ---
 

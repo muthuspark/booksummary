@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The secrets of highly successful groups"
 image: 'image.png'
 author: "Daniel Coyle"
+authors: ["Daniel Coyle"]
 ---
 
 # The Culture Code: Deciphering the Secrets of Highly Successful Groups

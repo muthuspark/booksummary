@@ -3,6 +3,7 @@ title: "Alan Turing: The Enigma by Andrew Hodges"
 categories: [ "Biographies" ]
 description: "Biography of the mathematical genius who helped crack the Nazi Enigma code"
 author: "Andrew Hodges"
+authors: ["Andrew Hodges"]
 image: "image.png"
 image_alt: "Alan Turing."
 image_caption: >-

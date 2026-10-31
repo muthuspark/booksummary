@@ -3,6 +3,7 @@ title: "The Life of Langston Hughes by Arnold Rampersad"
 categories: [ "Biographies" ]
 description: "Two-volume biography of the poet laureate of the Harlem Renaissance"
 author: "Arnold Rampersad"
+authors: ["Arnold Rampersad"]
 image: "image.png"
 image_alt: "Langston Hughes."
 image_caption: >-

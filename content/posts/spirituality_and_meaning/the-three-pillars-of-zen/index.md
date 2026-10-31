@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Teaching, practice, and enlightenment"
 image: 'image.png'
 author: "Philip Kapleau"
+authors: ["Philip Kapleau"]
 ---
 
 ## The Three Pillars of Zen: A Summary Focused on Practical Application

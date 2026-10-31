@@ -3,6 +3,7 @@ title: "The Many Lives of Marilyn Monroe by Sarah Churchwell"
 categories: [ "Biographies" ]
 description: "Cultural biography examining the myths and realities of the Hollywood icon"
 author: "Sarah Churchwell"
+authors: ["Sarah Churchwell"]
 image: "image.png"
 image_alt: "Marilyn Monroe."
 image_caption: >-

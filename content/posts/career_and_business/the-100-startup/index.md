@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Reinvent the way you make a living, do what you love"
 image: 'image.png'
 author: "Chris Guillebeau"
+authors: ["Chris Guillebeau"]
 ---
 
 # The $100 Startup: A Summary

@@ -3,6 +3,7 @@ title: "Frederick Douglass: Prophet of Freedom by David W. Blight"
 categories: [ "Biographies" ]
 description: "Comprehensive biography of the escaped slave who became a leading abolitionist"
 author: "David W. Blight"
+authors: ["David W. Blight"]
 image: "image.png"
 image_alt: "Frederick Douglass."
 image_caption: >-

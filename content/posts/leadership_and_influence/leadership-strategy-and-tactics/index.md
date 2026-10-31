@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Field manual for leadership"
 image: 'image.png'
 author: "Jocko Willink"
+authors: ["Jocko Willink"]
 ---
 
 ## The Good Order and Discipline of Leadership

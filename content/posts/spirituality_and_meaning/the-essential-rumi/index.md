@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Collection of spiritual poetry from the Sufi mystic"
 image: 'image.png'
 author: "Coleman Barks (Translator)"
+authors: ["Coleman Barks (Translator)"]
 ---
 
 ## Finding the Divine Within: Embracing the Self

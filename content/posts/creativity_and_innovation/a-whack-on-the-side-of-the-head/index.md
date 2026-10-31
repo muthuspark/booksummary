@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "How you can be more creative through mental locks"
 image: 'image.png'
 author: "Roger von Oech"
+authors: ["Roger von Oech"]
 ---
 
 # Unleashing Your Creative Whack: A Summary of "A Whack on the Side of the Head"

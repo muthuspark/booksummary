@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The only way to guarantee your fair share of stock market returns"
 image: 'image.png'
 author: "John C. Bogle"
+authors: ["John C. Bogle"]
 ---
 
 # The Little Book of Common Sense Investing: A Summary

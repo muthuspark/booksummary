@@ -3,6 +3,7 @@ title: "The Savage Detectives by Roberto Bolaño"
 categories: [ "Greatest Novels" ]
 description: "A group of young poets' quest across Mexico and Europe."
 author: "Roberto Bolaño"
+authors: ["Roberto Bolaño"]
 image: "image.png"
 ---
 

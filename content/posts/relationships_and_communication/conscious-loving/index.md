@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The journey to co-commitment"
 image: 'image.png'
 author: "Gay Hendricks and Kathlyn Hendricks"
+authors: ["Gay Hendricks", "Kathlyn Hendricks"]
 ---
 
 ## Understanding the "Conscious Loving" Framework

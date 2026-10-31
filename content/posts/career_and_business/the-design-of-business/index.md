@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Why design thinking is the next competitive advantage"
 image: 'image.png'
 author: "Roger Martin"
+authors: ["Roger Martin"]
 ---
 
 ## The Design Thinking Approach: Integrating Intuition and Analysis

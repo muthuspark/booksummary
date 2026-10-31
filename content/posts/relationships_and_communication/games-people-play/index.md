@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The psychology of human relationships"
 image: 'image.png'
 author: "Eric Berne"
+authors: ["Eric Berne"]
 ---
 
 # Understanding Transactional Analysis

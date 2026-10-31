@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How to get anyone to say 'yes' in 8 minutes or less"
 image: 'image.png'
 author: "Kevin Hogan"
+authors: ["Kevin Hogan"]
 ---
 
 ## The Science of Influence: A Summary

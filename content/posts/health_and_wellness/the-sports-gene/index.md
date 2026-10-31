@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Inside the science of extraordinary athletic performance"
 image: 'image.png'
 author: "David Epstein"
+authors: ["David Epstein"]
 ---
 
 ## The Myth of the "Natural"

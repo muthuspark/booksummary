@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How to create uncontested market space and make competition irrelevant"
 image: 'image.png'
 author: "W. Chan Kim and Renee Mauborgne"
+authors: ["W. Chan Kim", "Renee Mauborgne"]
 ---
 
 # Understanding the Red and Blue Oceans

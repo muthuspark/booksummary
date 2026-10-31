@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Crack the code to wealth and live rich for a lifetime"
 image: 'image.png'
 author: "M.J. DeMarco"
+authors: ["M.J. DeMarco"]
 ---
 
 ## The Millionaire Fastlane: A Summary

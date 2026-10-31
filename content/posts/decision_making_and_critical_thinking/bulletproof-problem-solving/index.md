@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The one skill that changes everything"
 image: 'image.png'
 author: "Charles Conn and Robert McLean"
+authors: ["Charles Conn", "Robert McLean"]
 ---
 
 ## Understanding the Problem: The Foundation of Effective Problem Solving

@@ -3,6 +3,7 @@ title: "On the Road by Jack Kerouac"
 categories: [ "Greatest Novels" ]
 description: "The adventures of Sal Paradise and Dean Moriarty across America."
 author: "Jack Kerouac"
+authors: ["Jack Kerouac"]
 image: "image.png"
 ---
 

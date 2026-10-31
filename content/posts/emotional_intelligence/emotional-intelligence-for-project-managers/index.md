@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The people skills you need to achieve outstanding results"
 image: 'image.png'
 author: "Anthony Mersino"
+authors: ["Anthony Mersino"]
 ---
 
 ## Understanding Emotional Intelligence in Project Management

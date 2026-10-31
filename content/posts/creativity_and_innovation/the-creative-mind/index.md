@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Myths and mechanisms in creative thinking"
 image: 'image.png'
 author: "Margaret A. Boden"
+authors: ["Margaret A. Boden"]
 ---
 
 ## The Creative Mind: A Summary and Actionable Insights

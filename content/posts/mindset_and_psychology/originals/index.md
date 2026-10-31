@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "How non-conformists move the world"
 image: 'image.png'
 author: "Adam Grant"
+authors: ["Adam Grant"]
 ---
 
 # Understanding Originality: Beyond the Myth of the Lone Genius

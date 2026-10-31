@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "A daily method for deep work in a distracted world"
 image: 'image.png'
 author: "Cal Newport"
+authors: ["Cal Newport"]
 ---
 
 ## Understanding the Deep Work Philosophy

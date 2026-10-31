@@ -3,6 +3,7 @@ title: "Pale Fire by Vladimir Nabokov"
 categories: [ "Greatest Novels" ]
 description: "A 999-line poem with a delusional commentary by an unreliable narrator."
 author: "Vladimir Nabokov"
+authors: ["Vladimir Nabokov"]
 image: "image.png"
 ---
 

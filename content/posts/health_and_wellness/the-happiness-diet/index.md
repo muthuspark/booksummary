@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "A nutritional prescription for a sharp brain, balanced mood, and lean body"
 image: 'image.png'
 author: "Tyler Graham and Drew Ramsey"
+authors: ["Tyler Graham", "Drew Ramsey"]
 ---
 
 # The Happiness Diet: A Summary

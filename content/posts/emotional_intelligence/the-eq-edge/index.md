@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Emotional intelligence and your success"
 image: 'image.png'
 author: "Steven J. Stein and Howard E. Book"
+authors: ["Steven J. Stein", "Howard E. Book"]
 ---
 
 # Understanding Emotional Intelligence (EQ)

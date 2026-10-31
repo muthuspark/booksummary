@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "What the most effective people do differently"
 image: 'image.png'
 author: "John C. Maxwell"
+authors: ["John C. Maxwell"]
 ---
 
 # Introduction: Bridging the Communication Gap

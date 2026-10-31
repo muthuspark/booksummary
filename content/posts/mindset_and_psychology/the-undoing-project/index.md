@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "A friendship that changed our minds"
 image: 'image.png'
 author: "Michael Lewis"
+authors: ["Michael Lewis"]
 ---
 
 # The Undoing Project: Key Lessons for a Better Life

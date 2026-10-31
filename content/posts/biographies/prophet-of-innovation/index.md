@@ -3,6 +3,7 @@ title: "Prophet of Innovation by Thomas K. McCraw"
 categories: [ "Biographies" ]
 description: "Biography of the economist who coined 'creative destruction'"
 author: "Thomas K. McCraw"
+authors: ["Thomas K. McCraw"]
 image: "image.png"
 image_alt: "Joseph Schumpeter."
 image_caption: >-

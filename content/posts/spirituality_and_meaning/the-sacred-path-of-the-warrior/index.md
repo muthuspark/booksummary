@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Ancient wisdom for living with authenticity and power"
 image: 'image.png'
 author: "Chogyam Trungpa"
+authors: ["Chogyam Trungpa"]
 ---
 
 ## The Sacred Path of the Warrior: A Summary

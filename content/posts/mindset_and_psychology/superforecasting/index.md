@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The art and science of prediction"
 image: 'image.png'
 author: "Philip E. Tetlock"
+authors: ["Philip E. Tetlock"]
 ---
 
 ## Superforecasting:  Unlocking the Secrets of Expert Prediction

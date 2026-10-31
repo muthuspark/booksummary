@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The surprising power of expectations"
 image: 'image.png'
 author: "Chris Berdik"
+authors: ["Chris Berdik"]
 ---
 
 ## Understanding the Power of the Subconscious Mind

@@ -3,6 +3,7 @@ title: "Zeno's Conscience by Italo Svevo"
 categories: [ "Greatest Novels" ]
 description: "A man's self-deceptive attempts to quit smoking and understand his life."
 author: "Italo Svevo"
+authors: ["Italo Svevo"]
 image: "image.png"
 ---
 

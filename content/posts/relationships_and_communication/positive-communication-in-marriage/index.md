@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Practical tips for building a strong relationship"
 image: 'image.png'
 author: "Marcus Warner"
+authors: ["Marcus Warner"]
 ---
 
 It appears there is no known book titled "Positive Communication in Marriage" authored by Marcus Warner.  Therefore, I cannot provide a 2000-word summary based on that specific book.

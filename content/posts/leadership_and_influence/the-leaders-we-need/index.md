@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "And what makes us follow"
 image: 'image.png'
 author: "Michael Maccoby"
+authors: ["Michael Maccoby"]
 ---
 
 ## The Leaders We Need: A Summary

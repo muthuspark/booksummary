@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Building a leadership culture"
 image: 'image.png'
 author: "Mark Miller"
+authors: ["Mark Miller"]
 ---
 
 ## Leaders Made Here: A Summary

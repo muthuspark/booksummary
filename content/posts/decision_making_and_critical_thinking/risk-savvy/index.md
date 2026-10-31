@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How to make good decisions in an uncertain world"
 image: 'image.png'
 author: "Gerd Gigerenzer"
+authors: ["Gerd Gigerenzer"]
 ---
 
 # Understanding Risk: Beyond Numbers

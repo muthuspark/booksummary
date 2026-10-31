@@ -3,6 +3,7 @@ title: "The Dead Father by Donald Barthelme"
 categories: [ "Greatest Novels" ]
 description: "A surreal journey dragging a giant father figure across a landscape."
 author: "Donald Barthelme"
+authors: ["Donald Barthelme"]
 image: "image.png"
 ---
 

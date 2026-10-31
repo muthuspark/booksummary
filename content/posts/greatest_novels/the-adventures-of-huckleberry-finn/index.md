@@ -3,6 +3,7 @@ title: "The Adventures of Huckleberry Finn by Mark Twain"
 categories: [ "Greatest Novels" ]
 description: "The journey of young Huck Finn and runaway slave Jim down the Mississippi River."
 author: "Mark Twain"
+authors: ["Mark Twain"]
 image: "image.png"
 ---
 

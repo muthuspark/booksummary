@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The ultrahealthy program for losing weight, preventing disease"
 image: 'image.png'
 author: "Mark Hyman"
+authors: ["Mark Hyman"]
 ---
 
 # Understanding the Blood Sugar Rollercoaster

@@ -3,6 +3,7 @@ title: "Middlemarch by George Eliot"
 categories: [ "Greatest Novels" ]
 description: "A study of provincial life following many characters in the fictional town of Middlemarch."
 author: "George Eliot"
+authors: ["George Eliot"]
 image: "image.png"
 ---
 

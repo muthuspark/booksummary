@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "An introduction to creative problem solving"
 image: 'image.png'
 author: "V. Anton Spraul"
+authors: ["V. Anton Spraul"]
 ---
 
 #  Embracing the Programmer Mindset

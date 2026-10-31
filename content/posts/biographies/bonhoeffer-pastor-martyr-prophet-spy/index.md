@@ -3,6 +3,7 @@ title: "Bonhoeffer: Pastor, Martyr, Prophet, Spy by Eric Metaxas"
 categories: [ "Biographies" ]
 description: "Biography of the German theologian who resisted Hitler and joined the plot to kill him"
 author: "Eric Metaxas"
+authors: ["Eric Metaxas"]
 image: "image.png"
 image_alt: "Dietrich Bonhoeffer."
 image_caption: >-

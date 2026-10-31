@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Instilling passion, creating shared goals, and building meaningful organizations"
 image: 'image.png'
 author: "Steven J. Stein"
+authors: ["Steven J. Stein"]
 ---
 
 # Understanding Emotional Intelligence (EQ)

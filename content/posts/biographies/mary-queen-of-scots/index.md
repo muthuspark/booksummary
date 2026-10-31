@@ -3,6 +3,7 @@ title: "Mary Queen of Scots by Antonia Fraser"
 categories: [ "Biographies" ]
 description: "Classic biography of the tragic Scottish queen who challenged Elizabeth I"
 author: "Antonia Fraser"
+authors: ["Antonia Fraser"]
 image: "image.png"
 image_alt: "Mary, Queen of Scots."
 image_caption: >-

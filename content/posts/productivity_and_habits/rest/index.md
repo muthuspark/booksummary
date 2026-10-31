@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Why you get more done when you work less"
 image: 'image.png'
 author: "Alex Soojung-Kim Pang"
+authors: ["Alex Soojung-Kim Pang"]
 ---
 
 ## Rest: Why You Get More Done When You Do Less

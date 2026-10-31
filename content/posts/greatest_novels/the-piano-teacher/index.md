@@ -3,6 +3,7 @@ title: "The Piano Teacher by Elfriede Jelinek"
 categories: [ "Greatest Novels" ]
 description: "A disturbing exploration of power, sexuality, and violence in Vienna."
 author: "Elfriede Jelinek"
+authors: ["Elfriede Jelinek"]
 image: "image.png"
 ---
 

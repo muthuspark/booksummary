@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How great leaders inspire everyone to take action through purpose-driven leadership"
 image: 'image.png'
 author: "Simon Sinek"
+authors: ["Simon Sinek"]
 ---
 
 # The Golden Circle: Why, How, What

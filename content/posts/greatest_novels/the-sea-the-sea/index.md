@@ -3,6 +3,7 @@ title: "The Sea, The Sea by Iris Murdoch"
 categories: [ "Greatest Novels" ]
 description: "A retired theater director's obsessive love and self-deception."
 author: "Iris Murdoch"
+authors: ["Iris Murdoch"]
 image: "image.png"
 ---
 

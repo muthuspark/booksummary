@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A manual for the married and the coupled up"
 image: 'image.png'
 author: "Harriet Lerner"
+authors: ["Harriet Lerner"]
 ---
 
 # Understanding the Dance of Marriage: A Summary of "Marriage Rules"

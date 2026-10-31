@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How U.S. Navy SEALs lead and win"
 image: 'image.png'
 author: "Jocko Willink and Leif Babin"
+authors: ["Jocko Willink", "Leif Babin"]
 ---
 
 ## Extreme Ownership: Taking Control of Your Life

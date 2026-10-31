@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Tools for smart thinking and better decision making"
 image: 'image.png'
 author: "Richard E. Nisbett"
+authors: ["Richard E. Nisbett"]
 ---
 
 ## Understanding and Overcoming Cognitive Biases

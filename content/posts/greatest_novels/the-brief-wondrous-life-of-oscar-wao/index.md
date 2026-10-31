@@ -3,6 +3,7 @@ title: "The Brief Wondrous Life of Oscar Wao by Junot Díaz"
 categories: [ "Greatest Novels" ]
 description: "A Dominican-American nerd's quest for love and the family curse."
 author: "Junot Díaz"
+authors: ["Junot Díaz"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How anyone can master the art and science of personal magnetism"
 image: 'image.png'
 author: "Olivia Fox Cabane"
+authors: ["Olivia Fox Cabane"]
 ---
 
 # The Charisma Myth: Decoding the Enigma

@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding the two systems that drive the way we think"
 image: 'image.png'
 author: "Daniel Kahneman"
+authors: ["Daniel Kahneman"]
 ---
 
 # Understanding Your Two Systems

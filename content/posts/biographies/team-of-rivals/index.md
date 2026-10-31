@@ -3,6 +3,7 @@ title: "Team of Rivals by Doris Kearns Goodwin"
 categories: [ "Biographies" ]
 description: "Political biography examining Lincoln's presidency through his relationships with his cabinet members"
 author: "Doris Kearns Goodwin"
+authors: ["Doris Kearns Goodwin"]
 image: "image.png"
 image_alt: "Abraham Lincoln."
 image_caption: >-

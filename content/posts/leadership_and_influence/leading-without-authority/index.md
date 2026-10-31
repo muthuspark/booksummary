@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How the new power of co-elevation can break down silos"
 image: 'image.png'
 author: "Keith Ferrazzi"
+authors: ["Keith Ferrazzi"]
 ---
 
 # Leading Without Authority: A Summary

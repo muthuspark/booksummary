@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Comprehensive guide to understanding corporate finance"
 image: 'image.png'
 author: "Richard A. Brealey and Stewart C. Myers"
+authors: ["Richard A. Brealey", "Stewart C. Myers"]
 ---
 
 ##  Understanding Value Creation: The Core Principle

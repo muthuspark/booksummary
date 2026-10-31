@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "A novel about IT, DevOps, and helping your business win"
 image: 'image.png'
 author: "Gene Kim"
+authors: ["Gene Kim"]
 ---
 
 ## The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Fly

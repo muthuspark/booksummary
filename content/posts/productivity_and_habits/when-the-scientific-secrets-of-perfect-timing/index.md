@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Scientific understanding of the best time to do everything"
 image: 'image.png'
 author: "Daniel H. Pink"
+authors: ["Daniel H. Pink"]
 ---
 
 # The Power of Timing: Understanding Our Circadian Rhythms

@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "A visionary new understanding of happiness and well-being"
 image: 'image.png'
 author: "Martin E.P. Seligman"
+authors: ["Martin E.P. Seligman"]
 ---
 
 # Flourish: A Summary of Seligman's Guide to a Better Life

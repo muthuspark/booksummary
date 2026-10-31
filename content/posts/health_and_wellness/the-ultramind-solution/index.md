@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Fix your broken brain by healing your body first"
 image: 'image.png'
 author: "Mark Hyman"
+authors: ["Mark Hyman"]
 ---
 
 ## The UltraMind Solution: A Summary

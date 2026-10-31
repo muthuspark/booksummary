@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "A leadership fable about building teams"
 image: 'image.png'
 author: "Patrick Lencioni"
+authors: ["Patrick Lencioni"]
 ---
 
 # The Five Dysfunctions of a Team: A Summary and Actionable Insights

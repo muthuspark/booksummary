@@ -3,6 +3,7 @@ title: "Sylvia Plath: A Biography by Linda Wagner-Martin"
 categories: [ "Biographies" ]
 description: "Comprehensive biography of the talented and troubled poet"
 author: "Linda Wagner-Martin"
+authors: ["Linda Wagner-Martin"]
 image: "image.png"
 image_alt: "Sylvia Plath in a newspaper photograph published in 1953."
 image_caption: >-

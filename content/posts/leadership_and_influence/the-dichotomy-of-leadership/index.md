@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Balancing the challenges of extreme ownership"
 image: 'image.png'
 author: "Jocko Willink and Leif Babin"
+authors: ["Jocko Willink", "Leif Babin"]
 ---
 
 # The Dichotomy of Leadership: A Summary

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Practical ways to make your relationships work"
 image: 'image.png'
 author: "Sarah Rozenthuler"
+authors: ["Sarah Rozenthuler"]
 ---
 
 There is no publicly available book titled "Better Relationships" by an author named Sarah Rozenthuler.  It's possible the title, author name, or both are slightly inaccurate.  Therefore, I cannot summarize a non-existent book.

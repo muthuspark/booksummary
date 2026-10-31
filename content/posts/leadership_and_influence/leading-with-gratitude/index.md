@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Eight leadership practices for extraordinary business results"
 image: 'image.png'
 author: "Adrian Gostick and Chester Elton"
+authors: ["Adrian Gostick", "Chester Elton"]
 ---
 
 # The Power of Gratitude: A Foundation for Leadership and Life

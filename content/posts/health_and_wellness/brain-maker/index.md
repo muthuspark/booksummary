@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The power of gut microbes to heal and protect your brain"
 image: 'image.png'
 author: "David Perlmutter"
+authors: ["David Perlmutter"]
 ---
 
 # Brain Maker: A Summary

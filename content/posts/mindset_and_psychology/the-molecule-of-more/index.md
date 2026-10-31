@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "How dopamine drives human behavior"
 image: 'image.png'
 author: "Daniel Z. Lieberman"
+authors: ["Daniel Z. Lieberman"]
 ---
 
 It seems there's a misunderstanding.  The book "The Molecule of More" is actually written by Daniel Z. Lieberman *and* Michael E. Long.  There is no book by Daniel Z. Lieberman solely titled "The Molecule of More."  This response will assume you're interested in the book co-authored by Lieberman and Long, focusing on dopamine and its impact on our lives.

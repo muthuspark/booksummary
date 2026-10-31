@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding what makes life worth living"
 image: 'image.png'
 author: "Tal Ben-Shahar"
+authors: ["Tal Ben-Shahar"]
 ---
 
 ## The Science of Well-Being: A Summary

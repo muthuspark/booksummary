@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Simple changes to achieve whole-body wellness"
 image: 'image.png'
 author: "Frank Lipman"
+authors: ["Frank Lipman"]
 ---
 
 # The New Health Rules: An Approach to Well-being

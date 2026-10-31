@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The art of Japanese business thinking and decision making"
 image: 'image.png'
 author: "Kenichi Ohmae"
+authors: ["Kenichi Ohmae"]
 ---
 
 ## The Strategic Mind: A Summary of Kenichi Ohmae's "The Mind of the Strategist"

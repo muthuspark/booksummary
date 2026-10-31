@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A new psychology of love, traditional values, and spiritual growth"
 image: 'image.png'
 author: "M. Scott Peck"
+authors: ["M. Scott Peck"]
 ---
 
 ## The Road Less Traveled: A Summary and Actionable Insights

@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Notes on startups, or how to build the future"
 image: 'image.png'
 author: "Peter Thiel"
+authors: ["Peter Thiel"]
 ---
 
 ## The Power of Creating Something New:  A Summary of Zero to One

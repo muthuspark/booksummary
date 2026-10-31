@@ -3,6 +3,7 @@ title: "The Woman in White by Wilkie Collins"
 categories: [ "Greatest Novels" ]
 description: "Switched identities and institutionalization."
 author: "Wilkie Collins"
+authors: ["Wilkie Collins"]
 image: "image.png"
 ---
 

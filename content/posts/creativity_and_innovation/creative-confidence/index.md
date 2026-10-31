@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Unleashing the creative potential within us all"
 image: 'image.png'
 author: "Tom Kelley and David Kelley"
+authors: ["Tom Kelley", "David Kelley"]
 ---
 
 # Embracing the Creative Spirit Within: A Summary of "Creative Confidence"

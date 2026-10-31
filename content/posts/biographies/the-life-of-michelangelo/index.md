@@ -3,6 +3,7 @@ title: "The Life of Michelangelo by Giorgio Vasari"
 categories: [ "Biographies" ]
 description: "Classic biography of the Renaissance master by his contemporary and fellow artist"
 author: "Giorgio Vasari"
+authors: ["Giorgio Vasari"]
 image: "image.png"
 image_alt: "Michelangelo."
 image_caption: >-

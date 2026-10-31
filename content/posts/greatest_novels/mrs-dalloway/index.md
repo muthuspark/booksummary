@@ -3,6 +3,7 @@ title: "Mrs. Dalloway by Virginia Woolf"
 categories: [ "Greatest Novels" ]
 description: "A day in the life of Clarissa Dalloway as she prepares for a party in post-WWI London."
 author: "Virginia Woolf"
+authors: ["Virginia Woolf"]
 image: "image.png"
 ---
 

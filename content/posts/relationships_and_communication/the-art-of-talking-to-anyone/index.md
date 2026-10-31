@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Essential people skills for success in any situation"
 image: 'image.png'
 author: "Rosalie Maggio"
+authors: ["Rosalie Maggio"]
 ---
 
 ## Understanding the Power of Conversation

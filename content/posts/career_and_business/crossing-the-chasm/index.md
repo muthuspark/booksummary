@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Marketing and selling disruptive products to mainstream customers"
 image: 'image.png'
 author: "Geoffrey A. Moore"
+authors: ["Geoffrey A. Moore"]
 ---
 
 ## Understanding the Chasm: A Market Segmentation Problem

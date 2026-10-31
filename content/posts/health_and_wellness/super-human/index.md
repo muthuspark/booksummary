@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The bulletproof plan to age backward and maybe even live forever"
 image: 'image.png'
 author: "Dave Asprey"
+authors: ["Dave Asprey"]
 ---
 
 # Super Human: A Summary of Dave Asprey's Guide to Upgrade Your Life

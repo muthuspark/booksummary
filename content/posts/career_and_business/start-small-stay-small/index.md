@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "A developer's guide to launching a startup"
 image: 'image.png'
 author: "Rob Walling"
+authors: ["Rob Walling"]
 ---
 
 # Start Small, Stay Small: A Summary

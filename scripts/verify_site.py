@@ -10,6 +10,8 @@ import sys
 import tomllib
 import xml.etree.ElementTree as ET
 
+from author_pages import verify_author_pages
+
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = Path(sys.argv[1] if len(sys.argv) > 1 else ROOT / 'docs').resolve()
 CONFIG = tomllib.loads((ROOT / 'hugo.toml').read_text())
@@ -186,6 +188,11 @@ require((OUTPUT / '404.html').is_file(), 'Missing 404 page')
 require((OUTPUT / 'CNAME').read_text().strip() == 'summaries.muthu.co', 'Custom domain missing')
 require(not (OUTPUT / 'ads.txt').exists(), 'Obsolete ads.txt still published')
 require('Sitemap: ' + BASE + '/sitemap.xml' in (OUTPUT / 'robots.txt').read_text(), 'Robots sitemap is incorrect')
+try:
+    errors.extend(verify_author_pages(ROOT, OUTPUT))
+except (ValueError, OSError) as error:
+    errors.append(str(error))
+
 if errors:
     print('\n'.join(errors[:40]), file=sys.stderr)
     sys.exit(f'{len(errors)} verification errors')

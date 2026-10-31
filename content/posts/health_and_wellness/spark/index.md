@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The revolutionary new science of exercise and the brain"
 image: 'image.png'
 author: "John J. Ratey"
+authors: ["John J. Ratey"]
 ---
 
 # Spark: The Revolutionary New Science of Exercise and the Brain

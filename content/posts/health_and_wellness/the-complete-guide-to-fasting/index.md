@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Heal your body through intermittent, alternate-day, and extended fasting"
 image: 'image.png'
 author: "Jason Fung"
+authors: ["Jason Fung"]
 ---
 
 ## Understanding the Metabolic Switch

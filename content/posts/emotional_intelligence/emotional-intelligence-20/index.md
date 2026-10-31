@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Strategies for increasing your emotional intelligence with the four core skills"
 image: 'image.png'
 author: "Travis Bradberry and Jean Greaves"
+authors: ["Travis Bradberry", "Jean Greaves"]
 ---
 
 # Understanding Emotional Intelligence (EQ)

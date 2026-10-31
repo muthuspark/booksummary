@@ -3,6 +3,7 @@ title: "The Opposing Shore by Julien Gracq"
 categories: [ "Greatest Novels" ]
 description: "A diplomat's wait for war in an imaginary Mediterranean country."
 author: "Julien Gracq"
+authors: ["Julien Gracq"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "Genghis Khan and the Making of the Modern World by Jack Weatherford"
 categories: [ "Biographies" ]
 description: "Revealing biography of the Mongol leader and his impact on world history"
 author: "Jack Weatherford"
+authors: ["Jack Weatherford"]
 image: "image.png"
 image_alt: "A later painted portrait of Genghis Khan."
 image_caption: >-

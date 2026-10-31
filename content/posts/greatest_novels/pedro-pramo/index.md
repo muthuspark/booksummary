@@ -3,6 +3,7 @@ title: "Pedro Páramo by Juan Rulfo"
 categories: [ "Greatest Novels" ]
 description: "A man's search for his father in a ghost town populated by spirits."
 author: "Juan Rulfo"
+authors: ["Juan Rulfo"]
 image: "image.png"
 ---
 

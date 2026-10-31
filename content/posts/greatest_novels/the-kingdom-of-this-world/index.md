@@ -3,6 +3,7 @@ title: "The Kingdom of This World by Alejo Carpentier"
 categories: [ "Greatest Novels" ]
 description: "The Haitian Revolution told through magical realism."
 author: "Alejo Carpentier"
+authors: ["Alejo Carpentier"]
 image: "image.png"
 ---
 

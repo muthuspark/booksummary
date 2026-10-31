@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A proven market-beating formula for growth investing"
 image: 'image.png'
 author: "Joel Greenblatt"
+authors: ["Joel Greenblatt"]
 ---
 
 # The Magic Formula: Unveiling Greenblatt's Approach

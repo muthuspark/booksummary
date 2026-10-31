@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Why most small businesses don't work and what to do about it"
 image: 'image.png'
 author: "Michael E. Gerber"
+authors: ["Michael E. Gerber"]
 ---
 
 ## The E-Myth Revisited: Building a Business and a Life

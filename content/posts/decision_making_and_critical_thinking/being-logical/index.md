@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "A guide to good thinking and reasoning skills"
 image: 'image.png'
 author: "D.Q. McInerny"
+authors: ["D.Q. McInerny"]
 ---
 
 # Understanding Logic's Power in Daily Life

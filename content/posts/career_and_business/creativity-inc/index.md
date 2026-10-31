@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Overcoming the unseen forces that stand in the way of true inspiration"
 image: 'image.png'
 author: "Ed Catmull"
+authors: ["Ed Catmull"]
 ---
 
 # The Pixar Story: A Blueprint for Creative Success

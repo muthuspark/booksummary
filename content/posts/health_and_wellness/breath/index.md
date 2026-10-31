@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The new science of a lost art of breathing"
 image: 'image.png'
 author: "James Nestor"
+authors: ["James Nestor"]
 ---
 
 # Breath: The New Science of a Lost Art - A Summary

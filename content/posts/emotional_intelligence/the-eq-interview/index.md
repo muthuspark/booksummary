@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Finding employees with high emotional intelligence"
 image: 'image.png'
 author: "Adele B. Lynn"
+authors: ["Adele B. Lynn"]
 ---
 
 ## Understanding Emotional Intelligence (EQ)

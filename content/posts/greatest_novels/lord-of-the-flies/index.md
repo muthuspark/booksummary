@@ -3,6 +3,7 @@ title: "Lord of the Flies by William Golding"
 categories: [ "Greatest Novels" ]
 description: "British schoolboys stranded on an island descend into savagery."
 author: "William Golding"
+authors: ["William Golding"]
 image: "image.png"
 ---
 

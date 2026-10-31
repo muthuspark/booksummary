@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Creating your own path to freedom"
 image: 'image.png'
 author: "Osho"
+authors: ["Osho"]
 ---
 
 ## Understanding the Mind: The First Step to Freedom

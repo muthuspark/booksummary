@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The communication skills book"
 image: 'image.png'
 author: "Matthew McKay"
+authors: ["Matthew McKay"]
 ---
 
 ## Understanding and Managing Your Inner Critic

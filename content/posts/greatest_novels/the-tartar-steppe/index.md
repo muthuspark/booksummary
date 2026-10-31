@@ -3,6 +3,7 @@ title: "The Tartar Steppe by Dino Buzzati"
 categories: [ "Greatest Novels" ]
 description: "A military officer wastes his life waiting for an enemy that never comes."
 author: "Dino Buzzati"
+authors: ["Dino Buzzati"]
 image: "image.png"
 ---
 

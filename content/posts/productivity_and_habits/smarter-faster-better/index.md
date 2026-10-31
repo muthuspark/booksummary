@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The secrets of being productive in life and business"
 image: 'image.png'
 author: "Charles Duhigg"
+authors: ["Charles Duhigg"]
 ---
 
 ## Smarter Faster Better: A Summary of Charles Duhigg's Guide to Productivity

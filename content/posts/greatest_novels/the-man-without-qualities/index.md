@@ -3,6 +3,7 @@ title: "The Man Without Qualities by Robert Musil"
 categories: [ "Greatest Novels" ]
 description: "A philosophical novel set in Vienna before World War I, exploring modern life's complexities."
 author: "Robert Musil"
+authors: ["Robert Musil"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How to succeed in every business and social encounter"
 image: 'image.png'
 author: "Tonya Reiman"
+authors: ["Tonya Reiman"]
 ---
 
 # Decoding the Silent Messages: Understanding Body Language

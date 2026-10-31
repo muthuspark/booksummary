@@ -3,6 +3,7 @@ title: "Steve Jobs by Walter Isaacson"
 categories: [ "Biographies" ]
 description: "Comprehensive biography of Apple's innovative co-founder, based on extensive interviews with Jobs and his circle"
 author: "Walter Isaacson"
+authors: ["Walter Isaacson"]
 image: "image.png"
 image_alt: "Steve Jobs."
 image_caption: >-

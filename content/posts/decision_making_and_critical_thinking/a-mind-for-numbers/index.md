@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How to excel at math and science by learning how to learn"
 image: 'image.png'
 author: "Barbara Oakley"
+authors: ["Barbara Oakley"]
 ---
 
 # A Mind for Numbers:  Unlocking the Secrets to Learning and Mastering STEM Subjects

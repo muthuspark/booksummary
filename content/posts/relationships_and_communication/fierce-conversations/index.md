@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Achieving success at work and in life one conversation at a time"
 image: 'image.png'
 author: "Susan Scott"
+authors: ["Susan Scott"]
 ---
 
 ##  The Core Principle: Facing the Truth

@@ -3,6 +3,7 @@ title: "Nero: The Man Behind the Myth by Richard Holland"
 categories: [ "Biographies" ]
 description: "Modern reassessment of the controversial Roman emperor's life and reign"
 author: "Richard Holland"
+authors: ["Richard Holland"]
 image: "image.png"
 image_alt: "Nero."
 image_caption: >-

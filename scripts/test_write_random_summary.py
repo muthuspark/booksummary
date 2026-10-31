@@ -21,8 +21,16 @@ if mode == 'codex-failure':
     raise SystemExit(7)
 p = Path(book['destination'])
 p.parent.mkdir(parents=True, exist_ok=True)
+authors = book['author'].split(' and ')
+author_field = '\nauthors: ' + json.dumps(authors)
+if mode == 'missing-authors':
+    author_field = ''
+elif mode == 'malformed-authors':
+    author_field = '\nauthors: ' + json.dumps(book['author'])
+elif mode == 'duplicate-authors':
+    author_field = '\nauthors: ' + json.dumps(authors + authors)
 p.write_text('---\ntitle: ' + json.dumps(book['label']) + '\nauthor: ' + json.dumps(book['author'])
-             + '\ncategories: [' + json.dumps(book['category']) + ']\ndescription: A useful summary\nimage: image.png\n---\n\n'
+             + author_field + '\ncategories: [' + json.dumps(book['category']) + ']\ndescription: A useful summary\nimage: image.png\n---\n\n'
              + '# Summary\n\n' + ('Thoughtful original explanation. ' * 250))
 if mode != 'missing-image':
     def chunk(tag, data):
@@ -54,6 +62,7 @@ class SummaryWriterTest(unittest.TestCase):
         (self.root / 'content/posts/existing/already-written').mkdir(parents=True)
         (self.root / 'content/posts/existing/already-written/index.md').write_text('---\ntitle: "Already Written by Existing Author"\n---\n')
         shutil.copy2(SCRIPT, self.root / 'scripts/write_random_summary.sh')
+        shutil.copy2(SCRIPT.with_name('author_pages.py'), self.root / 'scripts/author_pages.py')
         (self.root / 'progress.md').write_text(PROGRESS)
         self.executable('bin/codex', FAKE_CODEX)
         self.executable('bin/hugo', '#!/bin/sh\nexit 0\n')
@@ -119,13 +128,29 @@ if os.environ.get('FAKE_MODE') == 'publish-failure':
         self.assertFalse((self.root / 'publish-ran').exists())
 
     def test_failures_preserve_unchecked_progress(self):
-        for mode in ('codex-failure', 'missing-image', 'build-failure', 'wrong-book'):
+        for mode in ('codex-failure', 'missing-image', 'build-failure', 'wrong-book', 'missing-authors', 'malformed-authors', 'duplicate-authors'):
             with self.subTest(mode=mode):
                 result = self.run_writer(mode=mode, check=False)
                 self.assertNotEqual(result.returncode, 0)
                 self.assertEqual((self.root / 'progress.md').read_text(), PROGRESS)
                 self.assertFalse((self.root / 'publish-ran').exists())
                 shutil.rmtree(self.root / 'content/posts/science_and_nature', ignore_errors=True)
+
+    def test_coauthor_summary_keeps_individual_credits(self):
+        (self.root / 'progress.md').write_text('### Science (1)\n- [ ] A Book by First Author and Second Author\n')
+        self.run_writer()
+        selected = json.loads((self.root / 'selected.json').read_text())
+        text = (self.root / selected['destination']).read_text()
+        self.assertIn('authors: ["First Author", "Second Author"]', text)
+        self.assertTrue((self.root / 'publish-ran').exists())
+
+    def test_missing_authors_fails_before_build_or_publish(self):
+        result = self.run_writer(mode='missing-authors', check=False)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn('authors field', result.stderr)
+        self.assertFalse((self.root / 'build-ran').exists())
+        self.assertFalse((self.root / 'publish-ran').exists())
+        self.assertEqual((self.root / 'progress.md').read_text(), PROGRESS)
 
     def test_publish_failure_returns_error_but_keeps_completed_progress(self):
         result = self.run_writer(mode='publish-failure', check=False)

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A practical guide to creating intimacy, self-understanding, and lasting love"
 image: 'image.png'
 author: "Arthur P. Ciaramicoli"
+authors: ["Arthur P. Ciaramicoli"]
 ---
 
 # Understanding Empathy: A Foundation for Connection

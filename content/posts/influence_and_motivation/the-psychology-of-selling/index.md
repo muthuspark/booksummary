@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How to sell more, easier, and faster"
 image: 'image.png'
 author: "Brian Tracy"
+authors: ["Brian Tracy"]
 ---
 
 # Understanding the Sales Process

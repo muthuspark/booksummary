@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Own your morning, improve your life"
 image: 'image.png'
 author: "Robin Sharma"
+authors: ["Robin Sharma"]
 ---
 
 ## The 5 AM Club: A Summary

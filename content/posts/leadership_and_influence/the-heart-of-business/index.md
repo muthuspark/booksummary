@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Leadership principles for the next era of capitalism"
 image: 'image.png'
 author: "Hubert Joly"
+authors: ["Hubert Joly"]
 ---
 
 ## The Heart of Business: A Summary Focused on Personal Improvement

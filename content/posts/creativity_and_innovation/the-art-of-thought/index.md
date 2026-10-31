@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "A pioneering account of the creative process"
 image: 'image.png'
 author: "Graham Wallas"
+authors: ["Graham Wallas"]
 ---
 
 # The Art of Thought: A Summary and Practical Application

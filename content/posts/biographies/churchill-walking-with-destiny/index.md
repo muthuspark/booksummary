@@ -3,6 +3,7 @@ title: "Churchill: Walking with Destiny by Andrew Roberts"
 categories: [ "Biographies" ]
 description: "Definitive biography of Winston Churchill, drawing on extensive new materials"
 author: "Andrew Roberts"
+authors: ["Andrew Roberts"]
 image: "image.png"
 image_alt: "Winston Churchill."
 image_caption: >-

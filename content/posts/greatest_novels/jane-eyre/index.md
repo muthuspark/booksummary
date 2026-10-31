@@ -3,6 +3,7 @@ title: "Jane Eyre by Charlotte Brontë"
 categories: [ "Greatest Novels" ]
 description: "The story of an orphan girl's journey to adulthood and her complex relationship with Mr. Rochester."
 author: "Charlotte Brontë"
+authors: ["Charlotte Brontë"]
 image: "image.png"
 ---
 

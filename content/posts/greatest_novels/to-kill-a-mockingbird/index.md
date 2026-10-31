@@ -3,6 +3,7 @@ title: "To Kill a Mockingbird by Harper Lee"
 categories: [ "Greatest Novels" ]
 description: "A powerful examination of racial injustice in the American South through the eyes of young Scout Finch."
 author: "Harper Lee"
+authors: ["Harper Lee"]
 image: "image.png"
 ---
 

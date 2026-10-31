@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "A memoir by the creator of Nike"
 image: 'image.png'
 author: "Phil Knight"
+authors: ["Phil Knight"]
 ---
 
 ##  The Genesis of an Idea:  Finding Your Passion

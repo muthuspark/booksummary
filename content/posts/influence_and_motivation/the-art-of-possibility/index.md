@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Transforming professional and personal life"
 image: 'image.png'
 author: "Rosamund Stone Zander"
+authors: ["Rosamund Stone Zander"]
 ---
 
 ## The Art of Possibility: A Summary

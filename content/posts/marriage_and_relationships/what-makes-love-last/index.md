@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Building trust and avoiding betrayal in relationships"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 # Understanding the Sound Relationship House

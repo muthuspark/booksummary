@@ -3,6 +3,7 @@ title: "Hemingway's Boat by Paul Hendrickson"
 categories: [ "Biographies" ]
 description: "Biography focusing on Hemingway's life through the lens of his beloved boat Pilar"
 author: "Paul Hendrickson"
+authors: ["Paul Hendrickson"]
 image: "image.png"
 image_alt: "Ernest Hemingway."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A step-by-step guide to deciding whether to stay in or leave a relationship"
 image: 'image.png'
 author: "Mira Kirshenbaum"
+authors: ["Mira Kirshenbaum"]
 ---
 
 ## Understanding the Dilemma: Stuck in a Difficult Relationship

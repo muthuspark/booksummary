@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The 4 behaviors that transform ordinary people into world-class leaders"
 image: 'image.png'
 author: "Elena L. Botelho"
+authors: ["Elena L. Botelho"]
 ---
 
 ## The Myth of the Extraordinary CEO

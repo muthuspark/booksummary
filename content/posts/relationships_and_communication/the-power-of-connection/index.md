@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Building trust and authentic relationships"
 image: 'image.png'
 author: "Lyn Delmastro-Thomson"
+authors: ["Lyn Delmastro-Thomson"]
 ---
 
 ## Understanding the Power of Connection

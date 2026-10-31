@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A practice-oriented approach to couples counseling"
 image: 'image.png'
 author: "Linda Metcalf"
+authors: ["Linda Metcalf"]
 ---
 
 ## Understanding the Perspective

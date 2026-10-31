@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Practical exercises for implementing the seven principles"
 image: 'image.png'
 author: "John Gottman and Nan Silver"
+authors: ["John Gottman", "Nan Silver"]
 ---
 
 ## Understanding Your Marriage's Sound Relationship House

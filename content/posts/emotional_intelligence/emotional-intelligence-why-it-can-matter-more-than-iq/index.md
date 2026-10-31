@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The book that redefined intelligence and success"
 image: 'image.png'
 author: "Daniel Goleman"
+authors: ["Daniel Goleman"]
 ---
 
 ## Emotional Intelligence: A Summary and Actionable Insights

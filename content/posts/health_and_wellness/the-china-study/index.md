@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The most detailed study of nutrition ever conducted"
 image: 'image.png'
 author: "T. Colin Campbell"
+authors: ["T. Colin Campbell"]
 ---
 
 # The China Study: A Summary and Actionable Insights

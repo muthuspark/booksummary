@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How to assert yourself, listen to others, and resolve conflicts"
 image: 'image.png'
 author: "Robert Bolton"
+authors: ["Robert Bolton"]
 ---
 
 # Understanding People Skills: A Foundation

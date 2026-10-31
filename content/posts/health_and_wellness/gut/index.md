@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The inside story of our body's most underrated organ"
 image: 'image.png'
 author: "Giulia Enders"
+authors: ["Giulia Enders"]
 ---
 
 ## Understanding Your Gut: A Microbial Ecosystem

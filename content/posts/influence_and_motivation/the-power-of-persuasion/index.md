@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How we're bought and sold"
 image: 'image.png'
 author: "Robert Levine"
+authors: ["Robert Levine"]
 ---
 
 It appears there's no widely known book titled "The Power of Persuasion" by an author named Robert Levine.  There are many books on persuasion, and Robert Cialdini's "Influence: The Psychology of Persuasion" is a very prominent one.  It's possible there's a misunderstanding about the book's title or author.

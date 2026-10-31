@@ -3,6 +3,7 @@ title: "The Grapes of Wrath by John Steinbeck"
 categories: [ "Greatest Novels" ]
 description: "The Joad family's journey to California during the Great Depression."
 author: "John Steinbeck"
+authors: ["John Steinbeck"]
 image: "image.png"
 ---
 

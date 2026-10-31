@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Everything you need to know to put your EQ to work"
 image: 'image.png'
 author: "Travis Bradberry and Jean Greaves"
+authors: ["Travis Bradberry", "Jean Greaves"]
 ---
 
 # Understanding Emotional Intelligence (EQ)

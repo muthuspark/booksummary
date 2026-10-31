@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Lose weight, supercharge your energy, and sleep well every night"
 image: 'image.png'
 author: "Satchin Panda"
+authors: ["Satchin Panda"]
 ---
 
 ## Understanding Your Body Clock: The Core Principles

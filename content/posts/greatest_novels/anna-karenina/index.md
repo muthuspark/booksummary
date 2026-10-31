@@ -3,6 +3,7 @@ title: "Anna Karenina by Leo Tolstoy"
 categories: [ "Greatest Novels" ]
 description: "The tragic story of a married aristocrat and her affair with Count Vronsky, set against 19th-century Russian society."
 author: "Leo Tolstoy"
+authors: ["Leo Tolstoy"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "The Bell Jar by Sylvia Plath"
 categories: [ "Greatest Novels" ]
 description: "A semi-autobiographical novel about a young woman's descent into mental illness."
 author: "Sylvia Plath"
+authors: ["Sylvia Plath"]
 image: "image.png"
 ---
 

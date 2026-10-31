@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The science of adult attachment and how it can help you find and keep love"
 image: 'image.png'
 author: "Amir Levine and Rachel Heller"
+authors: ["Amir Levine", "Rachel Heller"]
 ---
 
 ## Understanding Attachment Styles: The Foundation of "Attached"

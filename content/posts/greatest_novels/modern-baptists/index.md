@@ -3,6 +3,7 @@ title: "Modern Baptists by James Wilcox"
 categories: [ "Greatest Novels" ]
 description: "A tragicomic novel about life in small-town Louisiana."
 author: "James Wilcox"
+authors: ["James Wilcox"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "Hopscotch by Julio Cortázar"
 categories: [ "Greatest Novels" ]
 description: "An experimental novel that can be read in multiple orders."
 author: "Julio Cortázar"
+authors: ["Julio Cortázar"]
 image: "image.png"
 ---
 

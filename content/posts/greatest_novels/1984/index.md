@@ -3,6 +3,7 @@ title: "1984 by George Orwell"
 categories: [ "Greatest Novels" ]
 description: "A dystopian novel about totalitarian surveillance society and one man's futile attempt to rebel against it."
 author: "George Orwell"
+authors: ["George Orwell"]
 image: "image.png"
 ---
 

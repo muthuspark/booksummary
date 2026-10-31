@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Revolutionary ways to influence and persuade through timing and context"
 image: 'image.png'
 author: "Robert Cialdini"
+authors: ["Robert Cialdini"]
 ---
 
 # Pre-Suasion: A Summary of Cialdini's Guide to Influence

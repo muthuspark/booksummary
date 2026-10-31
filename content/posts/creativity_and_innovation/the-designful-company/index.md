@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "How to build a culture of nonstop innovation"
 image: 'image.png'
 author: "Marty Neumeier"
+authors: ["Marty Neumeier"]
 ---
 
 ## The Designful Company: A Summary

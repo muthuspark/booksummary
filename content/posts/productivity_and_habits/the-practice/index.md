@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Shipping creative work and building productive habits"
 image: 'image.png'
 author: "Seth Godin"
+authors: ["Seth Godin"]
 ---
 
 ## The Practice: A Summary of Seth Godin's Guide to a Meaningful Life

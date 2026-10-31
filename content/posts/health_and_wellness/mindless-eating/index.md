@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Why we eat more than we think"
 image: 'image.png'
 author: "Brian Wansink"
+authors: ["Brian Wansink"]
 ---
 
 ## Mindless Eating: Summary and Actionable Insights

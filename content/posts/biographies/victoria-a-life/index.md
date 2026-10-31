@@ -3,6 +3,7 @@ title: "Victoria: A Life by A.N. Wilson"
 categories: [ "Biographies" ]
 description: "Biography of Queen Victoria, her long reign, and the age she defined"
 author: "A.N. Wilson"
+authors: ["A.N. Wilson"]
 image: "image.png"
 image_alt: "Queen Victoria."
 image_caption: >-

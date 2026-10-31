@@ -3,6 +3,7 @@ title: "As I Lay Dying by William Faulkner"
 categories: [ "Greatest Novels" ]
 description: "The Bundren family's journey to bury their mother Addie."
 author: "William Faulkner"
+authors: ["William Faulkner"]
 image: "image.png"
 ---
 

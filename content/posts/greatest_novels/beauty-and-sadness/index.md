@@ -3,6 +3,7 @@ title: "Beauty and Sadness by Yasunari Kawabata"
 categories: [ "Greatest Novels" ]
 description: "A writer's past affair haunts his present relationships."
 author: "Yasunari Kawabata"
+authors: ["Yasunari Kawabata"]
 image: "image.png"
 ---
 

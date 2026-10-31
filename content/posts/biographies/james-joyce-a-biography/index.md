@@ -3,6 +3,7 @@ title: "James Joyce: A Biography by Gordon Bowker"
 categories: [ "Biographies" ]
 description: "Comprehensive biography of the modernist literary pioneer"
 author: "Gordon Bowker"
+authors: ["Gordon Bowker"]
 image: "image.png"
 image_alt: "James Joyce."
 image_caption: >-

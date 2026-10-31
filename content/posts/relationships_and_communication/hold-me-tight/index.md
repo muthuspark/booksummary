@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Seven conversations for a lifetime of love"
 image: 'image.png'
 author: "Sue Johnson"
+authors: ["Sue Johnson"]
 ---
 
 ## Understanding the Emotional Dance

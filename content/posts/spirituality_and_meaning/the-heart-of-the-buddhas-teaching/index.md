@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Transforming suffering into peace, joy, and liberation"
 image: 'image.png'
 author: "Thich Nhat Hanh"
+authors: ["Thich Nhat Hanh"]
 ---
 
 # Understanding Suffering: The First Noble Truth

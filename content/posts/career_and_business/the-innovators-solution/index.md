@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Creating and sustaining successful growth"
 image: 'image.png'
 author: "Clayton M. Christensen"
+authors: ["Clayton M. Christensen"]
 ---
 
 # Understanding Disruptive Innovation

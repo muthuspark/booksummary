@@ -3,6 +3,7 @@ title: "The Wright Brothers by David McCullough"
 categories: [ "Biographies" ]
 description: "Story of the bicycle mechanics who launched the aviation age"
 author: "David McCullough"
+authors: ["David McCullough"]
 image: "image.png"
 image_alt: "Wilbur and Orville Wright."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The 9 public speaking secrets of the world's top minds"
 image: 'image.png'
 author: "Carmine Gallo"
+authors: ["Carmine Gallo"]
 ---
 
 ## Talk Like TED: Mastering the Art of Public Speaking

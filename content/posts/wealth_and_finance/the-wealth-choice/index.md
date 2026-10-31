@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Success secrets of black millionaires"
 image: 'image.png'
 author: "Dennis Kimbro"
+authors: ["Dennis Kimbro"]
 ---
 
 # The Wealth Choice: A Detailed Summary

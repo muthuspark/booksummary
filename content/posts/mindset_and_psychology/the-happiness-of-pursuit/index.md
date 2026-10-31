@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Finding the quest that will bring purpose to your life"
 image: 'image.png'
 author: "Chris Guillebeau"
+authors: ["Chris Guillebeau"]
 ---
 
 # The Happiness of Pursuit: A Summary

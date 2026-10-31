@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "What your feelings are trying to tell you"
 image: 'image.png'
 author: "Karla McLaren"
+authors: ["Karla McLaren"]
 ---
 
 ## Understanding Your Emotional Landscape

@@ -3,6 +3,7 @@ title: "The Emigrants by W.G. Sebald"
 categories: [ "Greatest Novels" ]
 description: "Four linked narratives about German-Jewish emigrants."
 author: "W.G. Sebald"
+authors: ["W.G. Sebald"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "How to create wealth and passive income through real estate"
 image: 'image.png'
 author: "Brandon Turner"
+authors: ["Brandon Turner"]
 ---
 
 ## Finding Your Niche and Analyzing Markets

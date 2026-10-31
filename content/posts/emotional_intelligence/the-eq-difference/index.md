@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A powerful plan for putting emotional intelligence to work"
 image: 'image.png'
 author: "Adele B. Lynn"
+authors: ["Adele B. Lynn"]
 ---
 
 # Understanding Emotional Intelligence (EQ)

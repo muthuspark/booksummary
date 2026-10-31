@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Upgrade your brain, optimize your body, and defy aging"
 image: 'image.png'
 author: "Ben Greenfield"
+authors: ["Ben Greenfield"]
 ---
 
 ## Boundless: A Summary of Ben Greenfield's Guide to a Limitless Life

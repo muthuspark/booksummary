@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding and developing a growth mindset for success"
 image: 'image.png'
 author: "Carol S. Dweck"
+authors: ["Carol S. Dweck"]
 ---
 
 ## Mindset: The New Psychology of Success - A Summary

@@ -3,6 +3,7 @@ title: "The Secret Life of Houdini by William Kalush and Larry Sloman"
 categories: [ "Biographies" ]
 description: "In-depth look at the legendary magician's life, career, and possible work as a spy"
 author: "William Kalush and Larry Sloman"
+authors: ["William Kalush", "Larry Sloman"]
 image: "image.png"
 image_alt: "Harry Houdini."
 image_caption: >-

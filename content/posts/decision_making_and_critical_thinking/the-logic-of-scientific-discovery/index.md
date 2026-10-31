@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Foundational work on critical thinking and scientific reasoning"
 image: 'image.png'
 author: "Karl Popper"
+authors: ["Karl Popper"]
 ---
 
 ## Falsificationism: The Cornerstone of Scientific Progress

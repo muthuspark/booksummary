@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Turning everyday struggles into everyday greatness"
 image: 'image.png'
 author: "Paul G. Stoltz and Erik Weihenmayer"
+authors: ["Paul G. Stoltz", "Erik Weihenmayer"]
 ---
 
 ## Overcoming Adversity: A Core Principle

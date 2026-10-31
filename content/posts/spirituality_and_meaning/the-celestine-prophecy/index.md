@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "An adventure exploring synchronicity and spiritual insights"
 image: 'image.png'
 author: "James Redfield"
+authors: ["James Redfield"]
 ---
 
 # The Celestine Prophecy: A Journey to Self-Discovery

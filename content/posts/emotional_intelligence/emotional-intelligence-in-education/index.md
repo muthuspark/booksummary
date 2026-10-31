@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Integrating research with practice"
 image: 'image.png'
 author: "Kateryna Keefer"
+authors: ["Kateryna Keefer"]
 ---
 
 It seems there's no widely known book titled "Emotional Intelligence in Education" by an author named Kateryna Keefer.  There are many books on emotional intelligence in education, and many authors who have written on this topic.  Therefore, I cannot summarize a specific book with that title and author.

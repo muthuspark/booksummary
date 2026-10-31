@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The untapped edge for success"
 image: 'image.png'
 author: "Hendrie Weisinger"
+authors: ["Hendrie Weisinger"]
 ---
 
 ## Understanding Emotional Intelligence at Work

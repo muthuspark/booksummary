@@ -3,6 +3,7 @@ title: "The Good Earth by Pearl S. Buck"
 categories: [ "Greatest Novels" ]
 description: "A Chinese farmer's rise from poverty to wealth."
 author: "Pearl S. Buck"
+authors: ["Pearl S. Buck"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Be a kick-ass boss without losing your humanity"
 image: 'image.png'
 author: "Kim Scott"
+authors: ["Kim Scott"]
 ---
 
 ## Radical Candor: A Summary

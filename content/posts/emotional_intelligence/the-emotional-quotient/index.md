@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Developing your emotional intelligence for success"
 image: 'image.png'
 author: "Robert Cooper"
+authors: ["Robert Cooper"]
 ---
 
 ## Understanding Emotional Intelligence

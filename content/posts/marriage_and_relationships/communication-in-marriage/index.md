@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Practical ways to improve communication in your marriage"
 image: 'image.png'
 author: "Marcus and Ashley Kusi"
+authors: ["Marcus Kusi", "Ashley Kusi"]
 ---
 
 ## Understanding the Foundation: Defining Healthy Communication

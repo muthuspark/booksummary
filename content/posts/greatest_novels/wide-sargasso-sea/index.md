@@ -3,6 +3,7 @@ title: "Wide Sargasso Sea by Jean Rhys"
 categories: [ "Greatest Novels" ]
 description: "The backstory of Rochester's mad wife from Jane Eyre."
 author: "Jean Rhys"
+authors: ["Jean Rhys"]
 image: "image.png"
 ---
 

@@ -3,6 +3,7 @@ title: "The Red Badge of Courage by Stephen Crane"
 categories: [ "Greatest Novels" ]
 description: "A young soldier's experience in the American Civil War."
 author: "Stephen Crane"
+authors: ["Stephen Crane"]
 image: "image.png"
 ---
 

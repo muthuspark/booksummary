@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "A little story about a powerful business idea"
 image: 'image.png'
 author: "Bob Burg and John David Mann"
+authors: ["Bob Burg", "John David Mann"]
 ---
 
 # The Go-Giver: A Summary of Key Principles and Actionable Insights

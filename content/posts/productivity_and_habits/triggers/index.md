@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Creating behavior that lasts, becoming the person you want to be"
 image: 'image.png'
 author: "Marshall Goldsmith"
+authors: ["Marshall Goldsmith"]
 ---
 
 # Understanding Triggers and Their Impact

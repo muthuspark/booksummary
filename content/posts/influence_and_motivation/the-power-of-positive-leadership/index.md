@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How and why positive leaders transform teams and organizations"
 image: 'image.png'
 author: "Jon Gordon"
+authors: ["Jon Gordon"]
 ---
 
 ## The Power of Positive Leadership: A Summary

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The 12 universal laws of power persuasion"
 image: 'image.png'
 author: "Kurt W. Mortensen"
+authors: ["Kurt W. Mortensen"]
 ---
 
 # Understanding Influence: The Core Principles

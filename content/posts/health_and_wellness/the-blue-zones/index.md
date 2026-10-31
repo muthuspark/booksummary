@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Lessons for living longer from people who've lived the longest"
 image: 'image.png'
 author: "Dan Buettner"
+authors: ["Dan Buettner"]
 ---
 
 # The Blue Zones: A Summary of Longevity Secrets

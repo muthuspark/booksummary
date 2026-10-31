@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "25 practices for couples to nurture closeness and grow a deeper connection"
 image: 'image.png'
 author: "S.J. Scott and Barrie Davenport"
+authors: ["S.J. Scott", "Barrie Davenport"]
 ---
 
 # Understanding the Mindful Relationship Framework

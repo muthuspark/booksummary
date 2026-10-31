@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Transformative applications of emotional intelligence in education"
 image: 'image.png'
 author: "C. Bobbi Hansen"
+authors: ["C. Bobbi Hansen"]
 ---
 
 ## The Heart and Science of Teaching: A Summary

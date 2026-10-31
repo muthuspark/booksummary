@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Unleashing the power of emotional intelligence in leadership"
 image: 'image.png'
 author: "Daniel Goleman"
+authors: ["Daniel Goleman"]
 ---
 
 # Primal Leadership: Unleashing the Power of Emotional Intelligence

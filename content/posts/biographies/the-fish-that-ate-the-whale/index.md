@@ -3,6 +3,7 @@ title: "The Fish That Ate the Whale by Rich Cohen"
 categories: [ "Biographies" ]
 description: "Sam Zemurray’s rise from immigrant fruit seller to United Fruit leader, and the costs of banana empire"
 author: "Rich Cohen"
+authors: ["Rich Cohen"]
 image: "image.png"
 image_alt: "Sam Zemurray."
 image_caption: >-

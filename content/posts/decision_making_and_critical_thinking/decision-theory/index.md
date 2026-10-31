@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "A formal approach to decision making under uncertainty"
 image: 'image.png'
 author: "Martin Peterson"
+authors: ["Martin Peterson"]
 ---
 
 There is no known book titled "Decision Theory" by an author named Martin Peterson.  Therefore, I cannot summarize a nonexistent book.  However, I can provide a summary of general decision theory principles and how they can be applied to improve one's life, structured as requested.  Please note that this will be a general overview, not a summary of a specific text.

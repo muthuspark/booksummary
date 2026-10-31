@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "New imperatives for the intelligent investor"
 image: 'image.png'
 author: "John C. Bogle"
+authors: ["John C. Bogle"]
 ---
 
 # Common Sense on Mutual Funds: A Summary

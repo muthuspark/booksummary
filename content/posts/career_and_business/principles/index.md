@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Life and work principles that shape successful careers"
 image: 'image.png'
 author: "Ray Dalio"
+authors: ["Ray Dalio"]
 ---
 
 # Understanding Your Life and Work

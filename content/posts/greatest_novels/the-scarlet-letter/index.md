@@ -3,6 +3,7 @@ title: "The Scarlet Letter by Nathaniel Hawthorne"
 categories: [ "Greatest Novels" ]
 description: "Hester Prynne's punishment for adultery in Puritan Boston."
 author: "Nathaniel Hawthorne"
+authors: ["Nathaniel Hawthorne"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How to get anyone to do anything fast"
 image: 'image.png'
 author: "Michael V. Pantalon"
+authors: ["Michael V. Pantalon"]
 ---
 
 # Understanding the Science of Influence

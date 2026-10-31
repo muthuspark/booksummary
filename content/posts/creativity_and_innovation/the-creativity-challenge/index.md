@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Design, experiment, test, innovate"
 image: 'image.png'
 author: "Tanner Christensen"
+authors: ["Tanner Christensen"]
 ---
 
 ## Understanding the Creativity Challenge

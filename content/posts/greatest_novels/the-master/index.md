@@ -3,6 +3,7 @@ title: "The Master by Colm Tóibín"
 categories: [ "Greatest Novels" ]
 description: "A fictional account of Henry James's life and artistic development."
 author: "Colm Tóibín"
+authors: ["Colm Tóibín"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Small changes that spark big influence"
 image: 'image.png'
 author: "Steve J. Martin, Noah Goldstein, and Robert Cialdini"
+authors: ["Steve J. Martin", "Noah Goldstein", "Robert Cialdini"]
 ---
 
 ## The Small Big: Unlocking the Power of Small Changes

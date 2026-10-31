@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Classic guide to building meaningful relationships and influencing others positively"
 image: 'image.png'
 author: "Dale Carnegie"
+authors: ["Dale Carnegie"]
 ---
 
 # Fundamental Techniques in Handling People

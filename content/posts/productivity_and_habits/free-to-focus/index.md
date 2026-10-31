@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "A total productivity system to achieve more by doing less"
 image: 'image.png'
 author: "Michael Hyatt"
+authors: ["Michael Hyatt"]
 ---
 
 ![](./image.png)

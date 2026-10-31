@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "A hidden tribe, superathletes, and the greatest race the world has never seen"
 image: 'image.png'
 author: "Christopher McDougall"
+authors: ["Christopher McDougall"]
 ---
 
 # The Tarahumara and the Quest for Natural Running

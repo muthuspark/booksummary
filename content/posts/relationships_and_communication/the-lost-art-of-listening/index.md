@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How learning to listen can improve relationships"
 image: 'image.png'
 author: "Michael P. Nichols"
+authors: ["Michael P. Nichols"]
 ---
 
 # The Lost Art of Listening: A Summary

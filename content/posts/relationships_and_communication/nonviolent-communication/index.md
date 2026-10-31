@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "A language of life for creating peaceful solutions"
 image: 'image.png'
 author: "Marshall B. Rosenberg"
+authors: ["Marshall B. Rosenberg"]
 ---
 
 # Nonviolent Communication: A Summary

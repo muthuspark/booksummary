@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The secret lives of the brain"
 image: 'image.png'
 author: "David Eagleman"
+authors: ["David Eagleman"]
 ---
 
 ## The Unconscious Brain:  Mastering Your Invisible Pilot

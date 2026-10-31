@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How to make extraordinary things happen in organizations"
 image: 'image.png'
 author: "James M. Kouzes and Barry Z. Posner"
+authors: ["James M. Kouzes", "Barry Z. Posner"]
 ---
 
 ## The Essence of Exemplary Leadership

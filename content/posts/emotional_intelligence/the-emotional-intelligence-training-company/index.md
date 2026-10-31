@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A guide to implementing EQ training in organizations"
 image: 'image.png'
 author: "Rachel Green"
+authors: ["Rachel Green"]
 ---
 
 Please note: There is no known book titled "The Emotional Intelligence Training Company" by an author named "Rachel Green."  This response will therefore provide a general overview of emotional intelligence (EQ) and strategies for improvement, structured according to the request, but will not be a summary of a specific nonexistent book.

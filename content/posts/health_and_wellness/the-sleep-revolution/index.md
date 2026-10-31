@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Transforming your life one night at a time"
 image: 'image.png'
 author: "Arianna Huffington"
+authors: ["Arianna Huffington"]
 ---
 
 ## The Sleep Revolution: Reclaiming Your Life, One Night at a Time

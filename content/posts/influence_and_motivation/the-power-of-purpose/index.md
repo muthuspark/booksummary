@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Find meaning, live longer, better"
 image: 'image.png'
 author: "Richard J. Leider"
+authors: ["Richard J. Leider"]
 ---
 
 # Discovering Your Purpose: The Foundation

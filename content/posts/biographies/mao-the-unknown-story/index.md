@@ -3,6 +3,7 @@ title: "Mao: The Unknown Story by Jung Chang and Jon Halliday"
 categories: [ "Biographies" ]
 description: "Controversial biography challenging traditional views of the Chinese leader"
 author: "Jung Chang and Jon Halliday"
+authors: ["Jung Chang", "Jon Halliday"]
 image: "image.png"
 image_alt: "Mao Zedong."
 image_caption: >-

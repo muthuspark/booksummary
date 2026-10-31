@@ -3,6 +3,7 @@ title: "Berlin Alexanderplatz by Alfred Döblin"
 categories: [ "Greatest Novels" ]
 description: "The story of an ex-convict struggling to survive in 1920s Berlin."
 author: "Alfred Döblin"
+authors: ["Alfred Döblin"]
 image: "image.png"
 ---
 

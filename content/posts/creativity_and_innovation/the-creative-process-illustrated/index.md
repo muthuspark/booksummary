@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "How advertising's big ideas are born"
 image: 'image.png'
 author: "W. Glenn Griffin"
+authors: ["W. Glenn Griffin"]
 ---
 
 ## Understanding the Creative Process

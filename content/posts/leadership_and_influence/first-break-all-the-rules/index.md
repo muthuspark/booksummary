@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "What the world's greatest managers do differently"
 image: 'image.png'
 author: "Marcus Buckingham"
+authors: ["Marcus Buckingham"]
 ---
 
 ## The Power of Strengths:  A Foundation for Success

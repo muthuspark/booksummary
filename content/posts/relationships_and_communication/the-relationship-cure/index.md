@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "A 5-step guide to strengthening your marriage, family, and friendships"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 # Understanding the Sound Relationship House

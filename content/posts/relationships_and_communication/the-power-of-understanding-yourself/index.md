@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The key to self-discovery and creating a life of fulfillment"
 image: 'image.png'
 author: "Dave Mitchell"
+authors: ["Dave Mitchell"]
 ---
 
 It appears there is no widely known or readily available book titled "The Power of Understanding Yourself" by an author named Dave Mitchell.  Therefore, I cannot summarize a book that doesn't exist.  

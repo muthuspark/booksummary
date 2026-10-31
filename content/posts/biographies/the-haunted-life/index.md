@@ -3,6 +3,7 @@ title: "The Haunted Life by James O'Connell"
 categories: [ "Biographies" ]
 description: "Title and author pairing awaiting verification; a confirmed edition or ISBN is needed."
 author: "James O'Connell"
+authors: ["James O'Connell"]
 image: "image.png"
 image_alt: "An open historic volume at the New York Public Library, used as context for this unverified entry."
 image_caption: >-

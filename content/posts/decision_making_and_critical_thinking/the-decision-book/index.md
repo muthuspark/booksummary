@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Fifty models for strategic thinking and decision making"
 image: 'image.png'
 author: "Mikael Krogerus and Roman Tschappeler"
+authors: ["Mikael Krogerus", "Roman Tschappeler"]
 ---
 
 # Understanding the Decision-Making Landscape

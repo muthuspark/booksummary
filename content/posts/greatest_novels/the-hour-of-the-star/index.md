@@ -3,6 +3,7 @@ title: "The Hour of the Star by Clarice Lispector"
 categories: [ "Greatest Novels" ]
 description: "A meditation on writing and the life of a poor Brazilian girl."
 author: "Clarice Lispector"
+authors: ["Clarice Lispector"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A guide to developing students' emotional intelligence"
 image: 'image.png'
 author: "Nancy Frey"
+authors: ["Nancy Frey"]
 ---
 
 ## Understanding Social and Emotional Learning (SEL)

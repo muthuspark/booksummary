@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Get unstuck, change, and thrive in work and life"
 image: 'image.png'
 author: "Susan David"
+authors: ["Susan David"]
 ---
 
 # Understanding Emotional Agility

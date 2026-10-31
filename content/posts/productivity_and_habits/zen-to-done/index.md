@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The ultimate simple productivity system"
 image: 'image.png'
 author: "Leo Babauta"
+authors: ["Leo Babauta"]
 ---
 
 ## The Core of Zen to Done: Simplicity and Intention

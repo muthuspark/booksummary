@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Practical strategies for treating failure, rejection, guilt, and other everyday psychological injuries"
 image: 'image.png'
 author: "Guy Winch"
+authors: ["Guy Winch"]
 ---
 
 # Understanding Emotional First Aid

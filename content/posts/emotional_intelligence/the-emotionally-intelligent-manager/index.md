@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "How to develop and use the four key emotional skills of leadership"
 image: 'image.png'
 author: "David R. Caruso and Peter Salovey"
+authors: ["David R. Caruso", "Peter Salovey"]
 ---
 
 # Understanding Emotional Intelligence in Management

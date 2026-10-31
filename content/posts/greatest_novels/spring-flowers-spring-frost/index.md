@@ -3,6 +3,7 @@ title: "Spring Flowers, Spring Frost by Ismail Kadare"
 categories: [ "Greatest Novels" ]
 description: "Love and myth in post-communist Albania."
 author: "Ismail Kadare"
+authors: ["Ismail Kadare"]
 image: "image.png"
 ---
 

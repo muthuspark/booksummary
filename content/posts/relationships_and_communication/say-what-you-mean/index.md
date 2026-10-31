@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "A mindful approach to nonviolent communication"
 image: 'image.png'
 author: "Oren Jay Sofer"
+authors: ["Oren Jay Sofer"]
 ---
 
 # Understanding the Power of Communication

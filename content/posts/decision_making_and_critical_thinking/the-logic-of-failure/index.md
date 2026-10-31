@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Recognizing and avoiding error in complex situations"
 image: 'image.png'
 author: "Dietrich Dorner"
+authors: ["Dietrich Dorner"]
 ---
 
 ## The Logic of Failure: Understanding and Avoiding Traps

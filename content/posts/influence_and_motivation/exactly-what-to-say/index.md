@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The magic words for influence and impact"
 image: 'image.png'
 author: "Phil M. Jones"
+authors: ["Phil M. Jones"]
 ---
 
 ## Understanding the Power of Language

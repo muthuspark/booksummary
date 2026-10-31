@@ -3,6 +3,7 @@ title: "Blood Meridian by Cormac McCarthy"
 categories: [ "Greatest Novels" ]
 description: "A violent western following the Kid through the American-Mexican borderlands."
 author: "Cormac McCarthy"
+authors: ["Cormac McCarthy"]
 image: "image.png"
 ---
 

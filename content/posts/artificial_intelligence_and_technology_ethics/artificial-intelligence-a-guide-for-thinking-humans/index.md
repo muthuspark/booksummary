@@ -1,6 +1,7 @@
 ---
 title: "Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell"
 author: "Melanie Mitchell"
+authors: ["Melanie Mitchell"]
 categories: ["Artificial Intelligence and Technology Ethics"]
 description: "Melanie Mitchell explains how AI learns, why impressive performance can conceal fragile understanding, and what that means for trust and responsible use."
 image: "image.png"

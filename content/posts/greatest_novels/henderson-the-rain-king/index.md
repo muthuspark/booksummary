@@ -3,6 +3,7 @@ title: "Henderson the Rain King by Saul Bellow"
 categories: [ "Greatest Novels" ]
 description: "A wealthy American's spiritual quest in Africa."
 author: "Saul Bellow"
+authors: ["Saul Bellow"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "A true story of turning followers into leaders"
 image: 'image.png'
 author: "L. David Marquet"
+authors: ["L. David Marquet"]
 ---
 
 # Taking Control: From Subordinate to Leader

@@ -3,6 +3,7 @@ title: "The Book of Disquiet by Fernando Pessoa"
 categories: [ "Greatest Novels" ]
 description: "A fragmentary masterpiece about the life of a Lisbon clerk."
 author: "Fernando Pessoa"
+authors: ["Fernando Pessoa"]
 image: "image.png"
 ---
 

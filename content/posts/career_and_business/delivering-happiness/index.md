@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "A path to profits, passion, and purpose"
 image: 'image.png'
 author: "Tony Hsieh"
+authors: ["Tony Hsieh"]
 ---
 
 ## Delivering Happiness: A Summary

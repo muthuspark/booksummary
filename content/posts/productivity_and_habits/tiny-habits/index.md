@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The small changes that change everything"
 image: 'image.png'
 author: "BJ Fogg"
+authors: ["BJ Fogg"]
 ---
 
 # Tiny Habits: The Revolutionary System to Achieve Massive Change in Your Life

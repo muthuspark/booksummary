@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A guide to developing children's EQ"
 image: 'image.png'
 author: "Lawrence E. Shapiro"
+authors: ["Lawrence E. Shapiro"]
 ---
 
 # Understanding Emotions: The Foundation of Emotional Intelligence

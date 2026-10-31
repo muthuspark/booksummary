@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The power of knowing what you don't know"
 image: 'image.png'
 author: "Adam Grant"
+authors: ["Adam Grant"]
 ---
 
 # Think Again: A Summary of Adam Grant's Guide to Rethinking

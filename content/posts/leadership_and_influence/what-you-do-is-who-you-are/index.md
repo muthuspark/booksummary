@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How to create your business culture"
 image: 'image.png'
 author: "Ben Horowitz"
+authors: ["Ben Horowitz"]
 ---
 
 ## What You Do Is Who You Are: A Summary & Actionable Insights

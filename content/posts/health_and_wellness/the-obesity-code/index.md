@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Unlocking the secrets of weight loss through insulin regulation"
 image: 'image.png'
 author: "Jason Fung"
+authors: ["Jason Fung"]
 ---
 
 # The Obesity Code: A Summary

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Change your thoughts to be happier and healthier"
 image: 'image.png'
 author: "Charles Stanley"
+authors: ["Charles Stanley"]
 ---
 
 ## Understanding Emotional Health: The Foundation

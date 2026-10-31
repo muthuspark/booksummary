@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "New rules of engagement for a complex world"
 image: 'image.png'
 author: "Stanley McChrystal"
+authors: ["Stanley McChrystal"]
 ---
 
 ## Overcoming the Hierarchy:  The Core Problem

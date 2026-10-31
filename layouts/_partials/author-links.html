@@ -1,0 +1,25 @@
+{{- /* Keep original separators when the canonical names occur in the display credit.
+     Shared-surname and corrected legacy credits use expanded individual names. */ -}}
+{{- $terms := .GetTerms "authors" -}}
+{{- $remaining := .Params.author -}}
+{{- $pieces := slice -}}
+{{- $preserve := true -}}
+{{- range $terms -}}
+  {{- if strings.Contains $remaining .LinkTitle -}}
+    {{- $parts := split $remaining .LinkTitle -}}
+    {{- $pieces = $pieces | append (dict "before" (index $parts 0) "term" .) -}}
+    {{- $remaining = delimit (after 1 $parts) .LinkTitle -}}
+  {{- else -}}
+    {{- $preserve = false -}}
+  {{- end -}}
+{{- end -}}
+<span class="author-links" data-summary="{{ .RelPermalink }}">
+{{- if $preserve -}}
+  {{- range $pieces -}}{{ .before }}<a href="{{ .term.RelPermalink }}">{{ .term.LinkTitle }}</a>{{- end -}}{{ $remaining }}
+{{- else -}}
+  {{- range $i, $term := $terms -}}
+    {{- if $i }}{{ if eq $i (sub (len $terms) 1) }} and {{ else }}, {{ end }}{{ end -}}
+    <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+  {{- end -}}
+{{- end -}}
+</span>

@@ -3,6 +3,7 @@ title: "The Picture of Dorian Gray by Oscar Wilde"
 categories: [ "Greatest Novels" ]
 description: "A man stays eternally young while his portrait ages and shows his corruption."
 author: "Oscar Wilde"
+authors: ["Oscar Wilde"]
 image: "image.png"
 ---
 

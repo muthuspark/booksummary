@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Secrets to a strong and loving marriage"
 image: 'image.png'
 author: "Susan Heitler"
+authors: ["Susan Heitler"]
 ---
 
 ## Understanding the Power of Two: A Summary of Susan Heitler's Work

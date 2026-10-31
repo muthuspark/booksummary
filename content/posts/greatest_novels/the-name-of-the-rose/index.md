@@ -3,6 +3,7 @@ title: "The Name of the Rose by Umberto Eco"
 categories: [ "Greatest Novels" ]
 description: "A medieval murder set in an Italian monastery."
 author: "Umberto Eco"
+authors: ["Umberto Eco"]
 image: "image.png"
 ---
 

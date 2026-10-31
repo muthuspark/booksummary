@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Examines how experts make decisions under pressure using recognition-primed decision making"
 image: 'image.png'
 author: "Gary Klein"
+authors: ["Gary Klein"]
 ---
 
 # Sources of Power: A Summary and Actionable Insights

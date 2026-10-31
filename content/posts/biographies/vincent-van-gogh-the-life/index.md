@@ -3,6 +3,7 @@ title: "Vincent van Gogh: The Life by Steven Naifeh and Gregory White Smith"
 categories: [ "Biographies" ]
 description: "Detailed biography of the post-impressionist painter based on newly accessed letters and documents"
 author: "Steven Naifeh and Gregory White Smith"
+authors: ["Steven Naifeh", "Gregory White Smith"]
 image: "image.png"
 image_alt: "Vincent van Gogh."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Your road map to financial independence and a rich, free life"
 image: 'image.png'
 author: "JL Collins"
+authors: ["JL Collins"]
 ---
 
 # The Simple Path to Wealth: A Detailed Summary

@@ -3,6 +3,7 @@ title: "The Time of the Hero by Mario Vargas Llosa"
 categories: [ "Greatest Novels" ]
 description: "Violence and corruption in a Peruvian military academy."
 author: "Mario Vargas Llosa"
+authors: ["Mario Vargas Llosa"]
 image: "image.png"
 ---
 

@@ -2,7 +2,7 @@
 <header class="post-header">
 <h1>{{ .Title }}</h1>
 {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }}
-<p class="text-muted">{{ .Params.author }} · {{ .ReadingTime }} min read</p>
+<p class="text-muted">{{ partial "author-links.html" . }} · {{ .ReadingTime }} min read</p>
 <p>{{ .Description }}</p>
 </header>
 <article class="article-body">

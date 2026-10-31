@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How to be more productive in a world of distraction"
 image: 'image.png'
 author: "Chris Bailey"
+authors: ["Chris Bailey"]
 ---
 
 # Understanding Hyperfocus: Beyond Myth and Misconception

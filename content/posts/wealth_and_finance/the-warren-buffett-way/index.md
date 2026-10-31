@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Investment strategies of the world's greatest investor"
 image: 'image.png'
 author: "Robert G. Hagstrom"
+authors: ["Robert G. Hagstrom"]
 ---
 
 ## Understanding the Intrinsic Value

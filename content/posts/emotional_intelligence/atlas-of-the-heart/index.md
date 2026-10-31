@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Mapping meaningful connections and the language of human experience"
 image: 'image.png'
 author: "Brene Brown"
+authors: ["Brene Brown"]
 ---
 
 # Understanding Our Emotions: The Foundation of Wholehearted Living

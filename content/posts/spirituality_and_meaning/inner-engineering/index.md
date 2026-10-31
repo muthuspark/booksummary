@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A yogi's guide to joy"
 image: 'image.png'
 author: "Sadhguru"
+authors: ["Sadhguru"]
 ---
 
 ## Inner Engineering: A Summary

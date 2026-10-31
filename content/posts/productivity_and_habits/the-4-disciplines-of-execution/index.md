@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Achieving your wildly important goals"
 image: 'image.png'
 author: "Chris McChesney, Sean Covey, and Jim Huling"
+authors: ["Chris McChesney", "Sean Covey", "Jim Huling"]
 ---
 
 # Understanding the 4 Disciplines

@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why passion and resilience are the secrets to success"
 image: 'image.png'
 author: "Angela Duckworth"
+authors: ["Angela Duckworth"]
 ---
 
 # Grit: Unveiling the Power Within

@@ -3,6 +3,7 @@ title: "Charles Darwin: A New Life by John Bowlby"
 categories: [ "Biographies" ]
 description: "Biography exploring Darwin's personal life alongside his scientific discoveries"
 author: "John Bowlby"
+authors: ["John Bowlby"]
 image: "image.png"
 image_alt: "Charles Darwin."
 image_caption: >-

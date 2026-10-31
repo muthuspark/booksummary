@@ -3,6 +3,7 @@ title: "The Great Gatsby by F. Scott Fitzgerald"
 categories: [ "Greatest Novels" ]
 description: "A portrait of the Jazz Age through the story of mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan."
 author: "F. Scott Fitzgerald"
+authors: ["F. Scott Fitzgerald"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "A guide to critical thinking and analysis"
 image: 'image.png'
 author: "M. Neil Browne and Stuart M. Keeley"
+authors: ["M. Neil Browne", "Stuart M. Keeley"]
 ---
 
 ## Asking the Right Questions: A Summary for Improved Critical Thinking

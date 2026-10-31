@@ -3,6 +3,7 @@ title: "The Stranger in the Woods by Michael Finkel"
 categories: [ "Biographies" ]
 description: "Story of the 'North Pond Hermit' who lived alone in the Maine woods for 27 years"
 author: "Michael Finkel"
+authors: ["Michael Finkel"]
 image: "image.png"
 image_alt: "Sunrise over the Belgrade Lakes region of Maine, shown as context for Christopher Knight’s story."
 image_caption: >-

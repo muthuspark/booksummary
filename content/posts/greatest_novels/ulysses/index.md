@@ -3,6 +3,7 @@ title: "Ulysses by James Joyce"
 categories: [ "Greatest Novels" ]
 description: "A modernist novel following Leopold Bloom through Dublin on June 16, 1904, paralleling Homer's Odyssey in structure and themes."
 author: "James Joyce"
+authors: ["James Joyce"]
 image: "image.png"
 ---
 

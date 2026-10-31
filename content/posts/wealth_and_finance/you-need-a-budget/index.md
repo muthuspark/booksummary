@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The proven system for breaking the paycheck-to-paycheck cycle"
 image: 'image.png'
 author: "Jesse Mecham"
+authors: ["Jesse Mecham"]
 ---
 
 # You Need a Budget (YNAB): A Detailed Summary

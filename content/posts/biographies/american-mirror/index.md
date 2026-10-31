@@ -3,6 +3,7 @@ title: "American Mirror: The Life and Art of Norman Rockwell by Deborah Solomon"
 categories: [ "Biographies" ]
 description: "Biography of Norman Rockwell, exploring his illustrations, private life, and vision of America"
 author: "Deborah Solomon"
+authors: ["Deborah Solomon"]
 image: "image.png"
 image_alt: "Norman Rockwell in a historical photograph."
 image_caption: >-

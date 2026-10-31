@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Anticipating and avoiding the pitfalls that can sink a startup"
 image: 'image.png'
 author: "Noam Wasserman"
+authors: ["Noam Wasserman"]
 ---
 
 ## The Founder's Dilemma: Key Takeaways for a Better Life

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "A 5-step plan for achieving your most important goals"
 image: 'image.png'
 author: "Michael Hyatt"
+authors: ["Michael Hyatt"]
 ---
 
 ## Understanding Your Best Year Ever

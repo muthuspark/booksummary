@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Master the art of business without the cost of business school"
 image: 'image.png'
 author: "Josh Kaufman"
+authors: ["Josh Kaufman"]
 ---
 
 # The Core Idea: Mastering Self-Directed Learning

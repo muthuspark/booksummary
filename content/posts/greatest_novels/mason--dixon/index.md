@@ -3,6 +3,7 @@ title: "Mason & Dixon by Thomas Pynchon"
 categories: [ "Greatest Novels" ]
 description: "The surveyors who drew the Mason-Dixon line in colonial America."
 author: "Thomas Pynchon"
+authors: ["Thomas Pynchon"]
 image: "image.png"
 ---
 

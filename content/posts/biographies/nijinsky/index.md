@@ -3,6 +3,7 @@ title: "Nijinsky by Richard Buckle"
 categories: [ "Biographies" ]
 description: "Biography of the legendary ballet dancer who revolutionized male dance"
 author: "Richard Buckle"
+authors: ["Richard Buckle"]
 image: "image.png"
 image_alt: "Vaslav Nijinsky."
 image_caption: >-

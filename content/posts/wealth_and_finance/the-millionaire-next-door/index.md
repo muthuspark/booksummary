@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The surprising secrets of America's wealthy"
 image: 'image.png'
 author: "Thomas J. Stanley"
+authors: ["Thomas J. Stanley"]
 ---
 
 # Unveiling the Millionaire Next Door: A Summary

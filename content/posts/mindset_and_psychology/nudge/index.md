@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Improving decisions about health, wealth, and happiness"
 image: 'image.png'
 author: "Richard H. Thaler"
+authors: ["Richard H. Thaler"]
 ---
 
 # Understanding Nudges: Libertarian Paternalism

@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "A guide to better ideas"
 image: 'image.png'
 author: "James L. Adams"
+authors: ["James L. Adams"]
 ---
 
 # Conceptual Blockbusting: A Summary

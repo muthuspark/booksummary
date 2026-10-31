@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "What the rich teach their kids about money that the poor and middle class do not"
 image: 'image.png'
 author: "Robert T. Kiyosaki"
+authors: ["Robert T. Kiyosaki"]
 ---
 
 # The Core Message: Redefining Wealth and Financial Literacy

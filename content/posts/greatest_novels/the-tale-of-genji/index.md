@@ -3,6 +3,7 @@ title: "The Tale of Genji by Murasaki Shikibu"
 categories: [ "Greatest Novels" ]
 description: "The world's first novel, following the romantic life of Prince Genji in imperial Japan."
 author: "Murasaki Shikibu"
+authors: ["Murasaki Shikibu"]
 image: "image.png"
 ---
 

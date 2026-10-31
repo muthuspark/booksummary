@@ -3,6 +3,7 @@ title: "The Immortal Life of Henrietta Lacks by Rebecca Skloot"
 categories: [ "Biographies" ]
 description: "Story of a woman whose cells revolutionized medical research, exploring issues of race, ethics, and scientific discovery"
 author: "Rebecca Skloot"
+authors: ["Rebecca Skloot"]
 image: "image.png"
 image_alt: "HeLa cells, the cell line derived from Henrietta Lacks."
 image_caption: >-

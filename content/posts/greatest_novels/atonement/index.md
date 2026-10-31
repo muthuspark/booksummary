@@ -3,6 +3,7 @@ title: "Atonement by Ian McEwan"
 categories: [ "Greatest Novels" ]
 description: "The consequences of a young girl's false accusation."
 author: "Ian McEwan"
+authors: ["Ian McEwan"]
 image: "image.png"
 ---
 

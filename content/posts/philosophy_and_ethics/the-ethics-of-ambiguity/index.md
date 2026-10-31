@@ -1,6 +1,7 @@
 ---
 title: "The Ethics of Ambiguity by Simone de Beauvoir"
 author: "Simone de Beauvoir"
+authors: ["Simone de Beauvoir"]
 categories: ["Philosophy and Ethics"]
 description: "Beauvoir's argument that freedom entails responsibility for others, and why resisting oppression still leaves difficult choices about violence and sacrifice."
 image: "image.png"

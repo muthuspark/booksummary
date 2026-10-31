@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A winning system in good times and bad"
 image: 'image.png'
 author: "William O'Neil"
+authors: ["William O'Neil"]
 ---
 
 ## Understanding the CAN SLIM Investing System

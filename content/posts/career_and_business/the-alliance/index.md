@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Managing talent in the networked age"
 image: 'image.png'
 author: "Reid Hoffman"
+authors: ["Reid Hoffman"]
 ---
 
 # The Core Idea: Building a Network of Allies

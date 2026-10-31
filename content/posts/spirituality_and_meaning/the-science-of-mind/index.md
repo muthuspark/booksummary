@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A philosophy for spiritual living"
 image: 'image.png'
 author: "Ernest Holmes"
+authors: ["Ernest Holmes"]
 ---
 
 ## The Science of Mind: A Summary of Ernest Holmes' Key Teachings

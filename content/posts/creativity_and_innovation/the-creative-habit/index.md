@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Learn it and use it for life"
 image: 'image.png'
 author: "Twyla Tharp"
+authors: ["Twyla Tharp"]
 ---
 
 # The Creative Habit: A Summary for Enhanced Living

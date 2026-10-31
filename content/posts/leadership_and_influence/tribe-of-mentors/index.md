@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Short life advice from the best in the world"
 image: 'image.png'
 author: "Timothy Ferriss"
+authors: ["Timothy Ferriss"]
 ---
 
 # Overarching Themes: A Wisdom

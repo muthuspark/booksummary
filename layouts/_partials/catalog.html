@@ -3,7 +3,7 @@
 {{ $paginator := .Paginate $pages }}
 <section id="library" class="catalog{{ if eq .Kind "term" }} category-catalog{{ end }}">
   {{ if ne .Kind "term" }}<h2 id="library-heading" tabindex="-1">{{ if .IsHome }}All Book Summaries{{ else }}Book Summaries{{ end }}</h2>{{ end }}
-  <p id="result-count" class="muted" role="status" aria-live="polite">{{ len $pages }} summaries{{ if gt $paginator.TotalPages 1 }} · Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}{{ end }}</p>
+  <p id="result-count" class="muted" role="status" aria-live="polite">{{ len $pages }} {{ if eq (len $pages) 1 }}summary{{ else }}summaries{{ end }}{{ if gt $paginator.TotalPages 1 }} · Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}{{ end }}</p>
   <div id="book-grid" class="book-grid">{{ range $paginator.Pages }}{{ partial "book-card.html" (dict "page" . "category" (eq $.Kind "term")) }}{{ end }}</div>
   <nav id="pagination" class="pagination" aria-label="Pagination">
     {{ if $paginator.HasPrev }}<a href="{{ $paginator.First.URL }}">First</a><a href="{{ $paginator.Prev.URL }}">← Previous</a>{{ end }}

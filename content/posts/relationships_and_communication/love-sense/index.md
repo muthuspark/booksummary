@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The revolutionary new science of romantic relationships"
 image: 'image.png'
 author: "Sue Johnson"
+authors: ["Sue Johnson"]
 ---
 
 ## Understanding the Emotionally Focused Therapy (EFT) Approach

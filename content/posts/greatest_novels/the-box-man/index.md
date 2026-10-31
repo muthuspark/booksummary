@@ -3,6 +3,7 @@ title: "The Box Man by Kōbō Abe"
 categories: [ "Greatest Novels" ]
 description: "A man who lives in a cardboard box observes society from the margins."
 author: "Kōbō Abe"
+authors: ["Kōbō Abe"]
 image: "image.png"
 ---
 

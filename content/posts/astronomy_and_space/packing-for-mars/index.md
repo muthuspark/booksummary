@@ -1,6 +1,7 @@
 ---
 title: "Packing for Mars by Mary Roach"
 author: "Mary Roach"
+authors: ["Mary Roach"]
 categories: ["Astronomy and Space"]
 description: "Mary Roach explores the bodily needs, psychological strains, and ingenious experiments behind the everyday work of keeping humans alive in space."
 image: "image.png"

@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How to create a winning organization's foundation"
 image: 'image.png'
 author: "John Wooden"
+authors: ["John Wooden"]
 ---
 
 # The Pyramid of Success: A Foundation for Life

@@ -3,6 +3,7 @@ title: "Diana: Her True Story by Andrew Morton"
 categories: [ "Biographies" ]
 description: "Groundbreaking biography based on Diana's personal recordings and interviews"
 author: "Andrew Morton"
+authors: ["Andrew Morton"]
 image: "image.png"
 image_alt: "Diana, Princess of Wales, in Washington, D.C., June 1997"
 image_caption: >-

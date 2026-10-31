@@ -3,6 +3,7 @@ title: "Titan: The Life of John D. Rockefeller Sr. by Ron Chernow"
 categories: [ "Biographies" ]
 description: "Portrait of America's first billionaire and the rise of Standard Oil"
 author: "Ron Chernow"
+authors: ["Ron Chernow"]
 image: "image.png"
 image_alt: "John D. Rockefeller."
 image_caption: >-

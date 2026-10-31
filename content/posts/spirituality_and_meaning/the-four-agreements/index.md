@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A practical guide to personal freedom through ancient Toltec wisdom"
 image: 'image.png'
 author: "Don Miguel Ruiz"
+authors: ["Don Miguel Ruiz"]
 ---
 
 # Introduction: A Path to Personal Freedom

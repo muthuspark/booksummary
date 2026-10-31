@@ -3,6 +3,7 @@ title: "Pride and Prejudice by Jane Austen"
 categories: [ "Greatest Novels" ]
 description: "A witty romance centering on Elizabeth Bennet and her prejudiced relationship with the proud Mr. Darcy."
 author: "Jane Austen"
+authors: ["Jane Austen"]
 image: "image.png"
 ---
 

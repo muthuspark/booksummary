@@ -3,6 +3,7 @@ title: "Long Walk to Freedom by Nelson Mandela"
 categories: [ "Biographies" ]
 description: "Autobiographical account of Mandela's journey from prisoner to president of South Africa"
 author: "Nelson Mandela"
+authors: ["Nelson Mandela"]
 image: "image.png"
 image_alt: "Nelson Mandela."
 image_caption: >-

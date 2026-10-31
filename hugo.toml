@@ -19,6 +19,7 @@ summaryLength = 35
 
 [taxonomies]
   category = 'categories'
+  author = 'authors'
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
@@ -52,6 +53,10 @@ summaryLength = 35
     name = 'Categories'
     pageRef = '/categories'
     weight = 20
+  [[menus.main]]
+    name = 'Authors'
+    pageRef = '/authors'
+    weight = 25
   [[menus.main]]
     name = 'RSS'
     url = '/index.xml'

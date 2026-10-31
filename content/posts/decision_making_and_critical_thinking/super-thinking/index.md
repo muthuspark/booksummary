@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The big book of mental models for better decision making"
 image: 'image.png'
 author: "Gabriel Weinberg and Lauren McCann"
+authors: ["Gabriel Weinberg", "Lauren McCann"]
 ---
 
 ## Super Thinking: Mastering the Art of Critical Thinking

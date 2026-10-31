@@ -1,6 +1,7 @@
 ---
 title: "How Music Works by David Byrne"
 author: "David Byrne"
+authors: ["David Byrne"]
 categories: ["Music and Sound"]
 description: "David Byrne explains how rooms, recording technology, collaboration, money, and communities shape the music we make and hear."
 image: image.png

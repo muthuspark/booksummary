@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Surprising science reveals how we can exercise better, train smarter"
 image: 'image.png'
 author: "Gretchen Reynolds"
+authors: ["Gretchen Reynolds"]
 ---
 
 ## The Power of Short, Intense Workouts

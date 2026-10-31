@@ -3,6 +3,7 @@ title: "Catherine the Great by Robert K. Massie"
 categories: [ "Biographies" ]
 description: "Portrait of the Russian empress who transformed her adopted country into a European powerhouse"
 author: "Robert K. Massie"
+authors: ["Robert K. Massie"]
 image: "image.png"
 image_alt: "Catherine the Great."
 image_caption: >-

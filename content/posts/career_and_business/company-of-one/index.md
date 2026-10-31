@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Why staying small is the next big thing for business"
 image: 'image.png'
 author: "Paul Jarvis"
+authors: ["Paul Jarvis"]
 ---
 
 # Understanding the Company of One Philosophy

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How to express your ideas and stand up for yourself"
 image: 'image.png'
 author: "Randy J. Paterson"
+authors: ["Randy J. Paterson"]
 ---
 
 # Understanding Assertiveness

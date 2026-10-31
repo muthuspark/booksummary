@@ -3,6 +3,7 @@ title: "The Metamorphosis by Franz Kafka"
 categories: [ "Greatest Novels" ]
 description: "Gregor Samsa wakes up one morning transformed into a giant insect."
 author: "Franz Kafka"
+authors: ["Franz Kafka"]
 image: "image.png"
 ---
 

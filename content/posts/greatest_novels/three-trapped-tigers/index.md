@@ -3,6 +3,7 @@ title: "Three Trapped Tigers by Guillermo Cabrera Infante"
 categories: [ "Greatest Novels" ]
 description: "A kaleidoscopic view of pre-revolutionary Havana nightlife."
 author: "Guillermo Cabrera Infante"
+authors: ["Guillermo Cabrera Infante"]
 image: "image.png"
 ---
 

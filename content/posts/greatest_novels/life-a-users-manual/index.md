@@ -3,6 +3,7 @@ title: "Life: A User's Manual by Georges Perec"
 categories: [ "Greatest Novels" ]
 description: "Interconnected stories about the inhabitants of a Parisian apartment building."
 author: "Georges Perec"
+authors: ["Georges Perec"]
 image: "image.png"
 ---
 

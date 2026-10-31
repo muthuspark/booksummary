@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "IDEO's strategies for beating the devil's advocate"
 image: 'image.png'
 author: "Tom Kelley"
+authors: ["Tom Kelley"]
 ---
 
 ## The Ten Faces of Innovation: A Summary

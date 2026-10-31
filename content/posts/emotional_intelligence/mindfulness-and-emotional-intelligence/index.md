@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The intersection of mindfulness and EQ"
 image: 'image.png'
 author: "Jon Kabat-Zinn"
+authors: ["Jon Kabat-Zinn"]
 ---
 
 It's important to clarify that Jon Kabat-Zinn did not author a book specifically titled "Mindfulness and Emotional Intelligence."  While he's a leading figure in mindfulness and its applications, his books typically focus more directly on mindfulness meditation and its impact on stress reduction and well-being.  Therefore, this response will synthesize his key teachings from books like *Full Catastrophe Living*, *Wherever You Go, There You Are*, and others, applying them to the framework of emotional intelligence to offer a response that addresses the prompt's spirit.

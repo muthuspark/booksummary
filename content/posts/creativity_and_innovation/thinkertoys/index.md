@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "A handbook of creative-thinking techniques"
 image: 'image.png'
 author: "Michael Michalko"
+authors: ["Michael Michalko"]
 ---
 
 # Thinkertoys: A Summary for Enhanced Creativity and Problem-Solving

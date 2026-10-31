@@ -3,6 +3,7 @@ title: "The Notebooks of Malte Laurids Brigge by Rainer Maria Rilke"
 categories: [ "Greatest Novels" ]
 description: "A young poet's observations and reflections in Paris."
 author: "Rainer Maria Rilke"
+authors: ["Rainer Maria Rilke"]
 image: "image.png"
 ---
 

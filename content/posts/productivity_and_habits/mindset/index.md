@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The new psychology of success through developing a growth mindset"
 image: 'image.png'
 author: "Carol S. Dweck"
+authors: ["Carol S. Dweck"]
 ---
 
 # Mindset: The Power of Believing You Can Improve

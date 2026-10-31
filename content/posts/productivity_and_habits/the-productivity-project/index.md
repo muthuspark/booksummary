@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Accomplishing more by managing your time, attention, and energy"
 image: 'image.png'
 author: "Chris Bailey"
+authors: ["Chris Bailey"]
 ---
 
 # The Productivity Project: Personalized Productivity

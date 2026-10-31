@@ -3,6 +3,7 @@ title: "Rembrandt's Eyes by Simon Schama"
 categories: [ "Biographies" ]
 description: "Biography exploring the Dutch master's life through his art and times"
 author: "Simon Schama"
+authors: ["Simon Schama"]
 image: "image.png"
 image_alt: "Rembrandt."
 image_caption: >-

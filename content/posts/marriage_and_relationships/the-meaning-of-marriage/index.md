@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Finding happiness in marriage through commitment and faith"
 image: 'image.png'
 author: "Timothy Keller"
+authors: ["Timothy Keller"]
 ---
 
 ## The Uniqueness of Marriage in Keller's Perspective

@@ -3,6 +3,7 @@ title: "Memoirs of Hadrian by Marguerite Yourcenar"
 categories: [ "Greatest Novels" ]
 description: "A fictional autobiography of the Roman Emperor Hadrian."
 author: "Marguerite Yourcenar"
+authors: ["Marguerite Yourcenar"]
 image: "image.png"
 ---
 

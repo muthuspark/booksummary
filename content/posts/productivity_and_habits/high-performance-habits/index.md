@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How extraordinary people become that way"
 image: 'image.png'
 author: "Brendon Burchard"
+authors: ["Brendon Burchard"]
 ---
 
 # High Performance Habits: A Deep Dive

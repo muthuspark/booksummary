@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How it determines success in life, love, learning, and more"
 image: 'image.png'
 author: "David DeSteno"
+authors: ["David DeSteno"]
 ---
 
 # The Power of Trust: Understanding its Biological Basis

@@ -1,6 +1,7 @@
 ---
 title: "Just Mercy by Bryan Stevenson"
 author: "Bryan Stevenson"
+authors: ["Bryan Stevenson"]
 categories: ["Law and Justice"]
 description: "Bryan Stevenson's account of wrongful conviction, excessive punishment, and the demanding work of making justice answer to human dignity."
 image: "image.png"

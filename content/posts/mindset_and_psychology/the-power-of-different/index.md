@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The link between disorder and genius"
 image: 'image.png'
 author: "Gail Saltz"
+authors: ["Gail Saltz"]
 ---
 
 ## Understanding and Embracing Your Unique Self

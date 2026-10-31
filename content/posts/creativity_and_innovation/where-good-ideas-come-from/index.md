@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The natural history of innovation"
 image: 'image.png'
 author: "Steven Johnson"
+authors: ["Steven Johnson"]
 ---
 
 ## The Power of the Adjacent Possible

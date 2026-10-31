@@ -3,6 +3,7 @@ title: "The Recognitions by William Gaddis"
 categories: [ "Greatest Novels" ]
 description: "An exploration of authenticity and forgery in art and life through multiple interconnected stories."
 author: "William Gaddis"
+authors: ["William Gaddis"]
 image: "image.png"
 ---
 

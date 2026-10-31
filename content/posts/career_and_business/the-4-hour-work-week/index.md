@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Escape 9-5, live anywhere, and join the new rich"
 image: 'image.png'
 author: "Timothy Ferriss"
+authors: ["Timothy Ferriss"]
 ---
 
 ## The Core Philosophy: Escape the Rat Race

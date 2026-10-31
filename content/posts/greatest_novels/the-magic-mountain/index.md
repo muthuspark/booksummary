@@ -3,6 +3,7 @@ title: "The Magic Mountain by Thomas Mann"
 categories: [ "Greatest Novels" ]
 description: "Hans Castorp's seven-year stay in a tuberculosis sanatorium before World War I."
 author: "Thomas Mann"
+authors: ["Thomas Mann"]
 image: "image.png"
 ---
 

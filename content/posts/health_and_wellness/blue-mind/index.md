@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The surprising science that shows how being near water makes us happier"
 image: 'image.png'
 author: "Wallace J. Nichols"
+authors: ["Wallace J. Nichols"]
 ---
 
 # The Power of Blue: Unveiling the Blue Mind Effect

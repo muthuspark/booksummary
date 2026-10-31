@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The 14 patterns for mastering the language of influence"
 image: 'image.png'
 author: "Shelle Rose Charvet"
+authors: ["Shelle Rose Charvet"]
 ---
 
 # Understanding the Power of Language

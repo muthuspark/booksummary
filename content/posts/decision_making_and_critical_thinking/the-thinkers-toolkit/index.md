@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "14 powerful techniques for problem solving and decision making"
 image: 'image.png'
 author: "Morgan D. Jones"
+authors: ["Morgan D. Jones"]
 ---
 
 # The Thinker's Toolkit: A Summary

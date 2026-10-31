@@ -3,6 +3,7 @@ title: "The Awakening by Kate Chopin"
 categories: [ "Greatest Novels" ]
 description: "A woman's sexual and spiritual awakening in Creole society."
 author: "Kate Chopin"
+authors: ["Kate Chopin"]
 image: "image.png"
 ---
 

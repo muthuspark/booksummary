@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Simple investing strategies based on Vanguard founder's principles"
 image: 'image.png'
 author: "Taylor Larimore, Mel Lindauer, and Michael LeBoeuf"
+authors: ["Taylor Larimore", "Mel Lindauer", "Michael LeBoeuf"]
 ---
 
 # The Boglehead Philosophy: Simplicity and Low-Cost Investing

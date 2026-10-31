@@ -3,6 +3,7 @@ title: "Gravity's Rainbow by Thomas Pynchon"
 categories: [ "Greatest Novels" ]
 description: "A complex novel about V-2 rockets and paranoia in World War II."
 author: "Thomas Pynchon"
+authors: ["Thomas Pynchon"]
 image: "image.png"
 ---
 

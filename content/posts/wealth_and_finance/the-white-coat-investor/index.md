@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A doctor's guide to personal finance and investing"
 image: 'image.png'
 author: "James M. Dahle"
+authors: ["James M. Dahle"]
 ---
 
 ## The White Coat Investor: A Physician's Guide to Investing – Key Takeaways

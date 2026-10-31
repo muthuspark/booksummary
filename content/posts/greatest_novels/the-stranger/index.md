@@ -3,6 +3,7 @@ title: "The Stranger by Albert Camus"
 categories: [ "Greatest Novels" ]
 description: "An exploration of existentialism through Meursault's indifference to his mother's death and subsequent murder."
 author: "Albert Camus"
+authors: ["Albert Camus"]
 image: "image.png"
 ---
 

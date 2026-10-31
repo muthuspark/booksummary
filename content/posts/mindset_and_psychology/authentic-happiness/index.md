@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Using positive psychology to realize your potential"
 image: 'image.png'
 author: "Martin E.P. Seligman"
+authors: ["Martin E.P. Seligman"]
 ---
 
 # Authentic Happiness: A Summary

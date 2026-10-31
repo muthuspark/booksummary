@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "How to lead yourself, your people, and your organization"
 image: 'image.png'
 author: "Rasmus Hougaard"
+authors: ["Rasmus Hougaard"]
 ---
 
 # The Mind of the Leader: A Summary

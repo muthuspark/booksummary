@@ -3,6 +3,7 @@ title: "The Last Lion: Visions of Glory, 1874–1932 by William Manchester"
 categories: [ "Biographies" ]
 description: "First volume of Manchester’s Churchill biography, covering his life from 1874 to 1932"
 author: "William Manchester"
+authors: ["William Manchester"]
 image: "image.png"
 image_alt: "Winston Churchill."
 image_caption: >-

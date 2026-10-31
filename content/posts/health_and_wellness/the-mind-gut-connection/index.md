@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "How the hidden conversation within our bodies impacts our health"
 image: 'image.png'
 author: "Emeran Mayer"
+authors: ["Emeran Mayer"]
 ---
 
 ## The Mind-Gut Connection: A Summary and Actionable Insights

@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How to build your future and make real change"
 image: 'image.png'
 author: "Stacey Abrams"
+authors: ["Stacey Abrams"]
 ---
 
 # Finding Your Outside

@@ -3,6 +3,7 @@ title: "The Leopard by Giuseppe Tomasi di Lampedusa"
 categories: [ "Greatest Novels" ]
 description: "A Sicilian prince witnessing the decline of his class during Italian unification."
 author: "Giuseppe Tomasi di Lampedusa"
+authors: ["Giuseppe Tomasi di Lampedusa"]
 image: "image.png"
 ---
 

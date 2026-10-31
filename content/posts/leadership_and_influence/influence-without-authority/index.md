@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How to lead when you're not in charge"
 image: 'image.png'
 author: "Allan R. Cohen"
+authors: ["Allan R. Cohen"]
 ---
 
 ## Understanding Influence: The Foundation

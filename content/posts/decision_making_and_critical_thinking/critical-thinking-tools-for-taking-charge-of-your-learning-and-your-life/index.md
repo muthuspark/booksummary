@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Comprehensive framework for developing critical thinking skills"
 image: 'image.png'
 author: "Richard Paul and Linda Elder"
+authors: ["Richard Paul", "Linda Elder"]
 ---
 
 ##  Understanding Critical Thinking: A Foundation for Life

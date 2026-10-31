@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How great athletes think, train, and thrive"
 image: 'image.png'
 author: "Jim Afremow"
+authors: ["Jim Afremow"]
 ---
 
 # The Champion's Mind: A Summary

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How to focus on what matters every day"
 image: 'image.png'
 author: "Jake Knapp and John Zeratsky"
+authors: ["Jake Knapp", "John Zeratsky"]
 ---
 
 ## Make Time: Reclaiming Your Attention

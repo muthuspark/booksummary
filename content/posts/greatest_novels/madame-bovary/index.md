@@ -3,6 +3,7 @@ title: "Madame Bovary by Gustave Flaubert"
 categories: [ "Greatest Novels" ]
 description: "The tragic story of Emma Bovary's attempts to escape her boring provincial life through romance and spending."
 author: "Gustave Flaubert"
+authors: ["Gustave Flaubert"]
 image: "image.png"
 ---
 

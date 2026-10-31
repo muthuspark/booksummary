@@ -3,6 +3,7 @@ title: "Mating by Norman Rush"
 categories: [ "Greatest Novels" ]
 description: "An anthropologist's pursuit of a utopian leader in Botswana."
 author: "Norman Rush"
+authors: ["Norman Rush"]
 image: "image.png"
 ---
 

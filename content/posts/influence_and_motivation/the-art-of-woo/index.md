@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Using strategic persuasion to sell your ideas"
 image: 'image.png'
 author: "G. Richard Shell and Mario Moussa"
+authors: ["G. Richard Shell", "Mario Moussa"]
 ---
 
 # The Art of Woo: Mastering the Art of Persuasion

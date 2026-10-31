@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Essential value investing strategies"
 image: 'image.png'
 author: "Christopher H. Browne"
+authors: ["Christopher H. Browne"]
 ---
 
 ## Understanding Value Investing: A Core Philosophy

@@ -3,6 +3,7 @@ title: "A Tale of Two Cities by Charles Dickens"
 categories: [ "Greatest Novels" ]
 description: "Love and sacrifice during the French Revolution."
 author: "Charles Dickens"
+authors: ["Charles Dickens"]
 image: "image.png"
 ---
 

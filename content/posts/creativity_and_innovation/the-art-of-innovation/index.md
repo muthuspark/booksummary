@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Lessons in creativity from IDEO, America's leading design firm"
 image: 'image.png'
 author: "Tom Kelley"
+authors: ["Tom Kelley"]
 ---
 
 # The Human-Centered Approach:  Empathy and Observation

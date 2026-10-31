@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "A doctor's 4-step program to treating autoimmune disease"
 image: 'image.png'
 author: "Susan Blum"
+authors: ["Susan Blum"]
 ---
 
 ## The Immune System Recovery Plan: A Summary

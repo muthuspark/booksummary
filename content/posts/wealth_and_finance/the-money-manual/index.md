@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A practical money guide to help you succeed on your financial journey"
 image: 'image.png'
 author: "Tonya B. Rapley"
+authors: ["Tonya B. Rapley"]
 ---
 
 # Understanding Your Financial Situation

@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "General thinking concepts for better reasoning and decision making"
 image: 'image.png'
 author: "Shane Parrish"
+authors: ["Shane Parrish"]
 ---
 
 ## The Great Mental Models: A Framework for Better Thinking

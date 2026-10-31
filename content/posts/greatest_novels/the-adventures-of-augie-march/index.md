@@ -3,6 +3,7 @@ title: "The Adventures of Augie March by Saul Bellow"
 categories: [ "Greatest Novels" ]
 description: "A picaresque novel about a young man's adventures in Depression-era Chicago."
 author: "Saul Bellow"
+authors: ["Saul Bellow"]
 image: "image.png"
 ---
 

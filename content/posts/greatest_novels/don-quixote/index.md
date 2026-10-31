@@ -3,6 +3,7 @@ title: "Don Quixote by Miguel de Cervantes"
 categories: [ "Greatest Novels" ]
 description: "A masterpiece of Spanish literature about an elderly gentleman who becomes so obsessed with chivalric romances that he loses his sanity and decides to become a knight-errant."
 author: "Miguel de Cervantes"
+authors: ["Miguel de Cervantes"]
 image: "image.png"
 ---
 

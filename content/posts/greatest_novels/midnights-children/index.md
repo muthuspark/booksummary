@@ -3,6 +3,7 @@ title: "Midnight's Children by Salman Rushdie"
 categories: [ "Greatest Novels" ]
 description: "Children born at India's independence with magical powers."
 author: "Salman Rushdie"
+authors: ["Salman Rushdie"]
 image: "image.png"
 ---
 

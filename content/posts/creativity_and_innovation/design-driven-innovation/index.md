@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Changing the rules of competition by radically innovating"
 image: 'image.png'
 author: "Roberto Verganti"
+authors: ["Roberto Verganti"]
 ---
 
 # Understanding the Design-Driven Innovation Framework

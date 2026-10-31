@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How the best leaders make everyone smarter"
 image: 'image.png'
 author: "Liz Wiseman"
+authors: ["Liz Wiseman"]
 ---
 
 ## Multipliers: How the Best Leaders Make Everyone Smarter

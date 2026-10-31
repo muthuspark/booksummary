@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Finding the essence of innovation in creative pairs"
 image: 'image.png'
 author: "Joshua Wolf Shenk"
+authors: ["Joshua Wolf Shenk"]
 ---
 
 ## The Power of Partnership: The Core of "Powers of Two"

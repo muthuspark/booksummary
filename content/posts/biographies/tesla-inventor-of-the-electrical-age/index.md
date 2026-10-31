@@ -3,6 +3,7 @@ title: "Tesla: Inventor of the Electrical Age by W. Bernard Carlson"
 categories: [ "Biographies" ]
 description: "Biography of the brilliant and eccentric inventor who pioneered modern electricity"
 author: "W. Bernard Carlson"
+authors: ["W. Bernard Carlson"]
 image: "image.png"
 image_alt: "Nikola Tesla."
 image_caption: >-

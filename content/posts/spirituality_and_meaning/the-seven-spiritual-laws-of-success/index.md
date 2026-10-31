@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A practical guide to fulfilling your dreams"
 image: 'image.png'
 author: "Deepak Chopra"
+authors: ["Deepak Chopra"]
 ---
 
 ## The Seven Spiritual Laws of Success: A Detailed Summary

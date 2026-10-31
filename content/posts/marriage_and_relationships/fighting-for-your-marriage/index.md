@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Positive steps for preventing divorce and preserving love"
 image: 'image.png'
 author: "Howard J. Markman"
+authors: ["Howard J. Markman"]
 ---
 
 # Understanding the Nature of Conflict

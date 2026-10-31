@@ -3,6 +3,7 @@ title: "The Empress Dowager Cixi by Jung Chang"
 categories: [ "Biographies" ]
 description: "Revisionist biography of the powerful Chinese ruler who modernized China"
 author: "Jung Chang"
+authors: ["Jung Chang"]
 image: "image.png"
 image_alt: "Empress Dowager Cixi."
 image_caption: >-

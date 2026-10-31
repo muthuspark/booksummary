@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Small, smart choices + consistency + time = significant results"
 image: 'image.png'
 author: "Darren Hardy"
+authors: ["Darren Hardy"]
 ---
 
 # The Compound Effect: Small Changes, Remarkable Results

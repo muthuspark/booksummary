@@ -3,6 +3,7 @@ title: "Never Let Me Go by Kazuo Ishiguro"
 categories: [ "Greatest Novels" ]
 description: "A dystopian love story about clones raised for organ donation."
 author: "Kazuo Ishiguro"
+authors: ["Kazuo Ishiguro"]
 image: "image.png"
 ---
 

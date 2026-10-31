@@ -3,6 +3,7 @@ title: "Invisible Man by Ralph Ellison"
 categories: [ "Greatest Novels" ]
 description: "A powerful exploration of race and identity through the journey of an unnamed African American narrator."
 author: "Ralph Ellison"
+authors: ["Ralph Ellison"]
 image: "image.png"
 ---
 

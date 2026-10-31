@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "A strategic program for overcoming procrastination"
 image: 'image.png'
 author: "Neil Fiore"
+authors: ["Neil Fiore"]
 ---
 
 ## Understanding Procrastination: The Root of the Problem

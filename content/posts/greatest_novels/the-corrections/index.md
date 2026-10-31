@@ -3,6 +3,7 @@ title: "The Corrections by Jonathan Franzen"
 categories: [ "Greatest Novels" ]
 description: "The story of the Lambert family's struggles in late 20th-century America."
 author: "Jonathan Franzen"
+authors: ["Jonathan Franzen"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The psychology of judgment and decision making"
 image: 'image.png'
 author: "Reid Hastie and Robyn M. Dawes"
+authors: ["Reid Hastie", "Robyn M. Dawes"]
 ---
 
 ## Understanding the Limits of Intuition

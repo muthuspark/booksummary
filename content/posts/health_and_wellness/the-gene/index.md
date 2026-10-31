@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "An intimate history of the science of heredity and health"
 image: 'image.png'
 author: "Siddhartha Mukherjee"
+authors: ["Siddhartha Mukherjee"]
 ---
 
 ## Understanding Our Genetic Inheritance: A Blueprint for Life

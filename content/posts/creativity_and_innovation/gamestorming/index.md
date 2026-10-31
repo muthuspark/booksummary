@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "A playbook for innovators, rulebreakers, and changemakers"
 image: 'image.png'
 author: "Dave Gray"
+authors: ["Dave Gray"]
 ---
 
 ## Gamestorming: Unleashing the Power of Play in Your Organization

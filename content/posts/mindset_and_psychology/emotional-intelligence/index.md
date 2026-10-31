@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why it can matter more than IQ"
 image: 'image.png'
 author: "Daniel Goleman"
+authors: ["Daniel Goleman"]
 ---
 
 # Emotional Intelligence: A Summary and Guide to Improvement

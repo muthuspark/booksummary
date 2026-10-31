@@ -3,6 +3,7 @@ title: "The Golden Notebook by Doris Lessing"
 categories: [ "Greatest Novels" ]
 description: "A writer's attempt to make sense of her life through multiple notebooks."
 author: "Doris Lessing"
+authors: ["Doris Lessing"]
 image: "image.png"
 ---
 

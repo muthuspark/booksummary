@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The psychology of innovative design"
 image: 'image.png'
 author: "Don Norman"
+authors: ["Don Norman"]
 ---
 
 ## The Psychology of Everyday Things: Understanding Human-Centered Design

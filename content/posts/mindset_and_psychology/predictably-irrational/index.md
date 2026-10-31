@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The hidden forces that shape our decisions"
 image: 'image.png'
 author: "Dan Ariely"
+authors: ["Dan Ariely"]
 ---
 
 ## Predictably Irrational: Key Ideas for a Better Life

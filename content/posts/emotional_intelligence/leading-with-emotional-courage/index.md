@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "How to have hard conversations, create accountability, and inspire action"
 image: 'image.png'
 author: "Peter Bregman"
+authors: ["Peter Bregman"]
 ---
 
 # Facing Fear and Uncertainty

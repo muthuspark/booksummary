@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "What gets between you and your greatness"
 image: 'image.png'
 author: "Lolly Daskal"
+authors: ["Lolly Daskal"]
 ---
 
 ## The Leadership Gap: Bridging the Chasm Between Potential and Performance

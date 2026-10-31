@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Framework for developing analytical thinking skills"
 image: 'image.png'
 author: "Lara Alcock"
+authors: ["Lara Alcock"]
 ---
 
 ## Understanding the Core Message

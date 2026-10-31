@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "An entrepreneur's vision of the future"
 image: 'image.png'
 author: "Steve Case"
+authors: ["Steve Case"]
 ---
 
 # The Third Wave: Understanding the Digital Revolution and Its Impact on Our Lives

@@ -3,6 +3,7 @@ title: "Coco Chanel: An Intimate Life by Lisa Chaney"
 categories: [ "Biographies" ]
 description: "Biography revealing the complex woman behind the fashion icon"
 author: "Lisa Chaney"
+authors: ["Lisa Chaney"]
 image: "image.png"
 image_alt: "Coco Chanel in Los Angeles, 1931."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A mystical story about following your dreams and finding your destiny"
 image: 'image.png'
 author: "Paulo Coelho"
+authors: ["Paulo Coelho"]
 ---
 
 ## The Alchemist: A Journey of Self-Discovery and Personal Growth

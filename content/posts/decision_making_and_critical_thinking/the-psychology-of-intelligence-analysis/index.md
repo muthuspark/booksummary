@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How to improve analytical thinking and decision making"
 image: 'image.png'
 author: "Richards J. Heuer Jr."
+authors: ["Richards J. Heuer Jr."]
 ---
 
 ## Understanding Cognitive Biases: The Root of Poor Judgment

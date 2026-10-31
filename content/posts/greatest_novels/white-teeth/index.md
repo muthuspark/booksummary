@@ -3,6 +3,7 @@ title: "White Teeth by Zadie Smith"
 categories: [ "Greatest Novels" ]
 description: "The intersecting lives of two families in multicultural London."
 author: "Zadie Smith"
+authors: ["Zadie Smith"]
 image: "image.png"
 ---
 

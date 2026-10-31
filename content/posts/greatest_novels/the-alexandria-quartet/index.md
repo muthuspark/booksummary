@@ -3,6 +3,7 @@ title: "The Alexandria Quartet by Lawrence Durrell"
 categories: [ "Greatest Novels" ]
 description: "Four interconnected novels set in Alexandria, exploring love and modern life."
 author: "Lawrence Durrell"
+authors: ["Lawrence Durrell"]
 image: "image.png"
 ---
 

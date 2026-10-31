@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding the psychology of influence"
 image: 'image.png'
 author: "Robert B. Cialdini"
+authors: ["Robert Cialdini"]
 ---
 
 ## The Psychology of Persuasion: A Summary

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The science and art of receiving feedback well"
 image: 'image.png'
 author: "Douglas Stone and Sheila Heen"
+authors: ["Douglas Stone", "Sheila Heen"]
 ---
 
 ## Understanding Feedback: The Core Problem

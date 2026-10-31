@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Exploring the boundaries of consciousness"
 image: 'image.png'
 author: "Aldous Huxley"
+authors: ["Aldous Huxley"]
 ---
 
 ## The Doors of Perception: A Summary and Guide to Enhanced Living

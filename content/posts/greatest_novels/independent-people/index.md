@@ -3,6 +3,7 @@ title: "Independent People by Halldór Laxness"
 categories: [ "Greatest Novels" ]
 description: "An Icelandic sheep farmer's stubborn quest for independence."
 author: "Halldór Laxness"
+authors: ["Halldór Laxness"]
 image: "image.png"
 ---
 

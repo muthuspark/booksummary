@@ -3,6 +3,7 @@ title: "The Day of the Locust by Nathanael West"
 categories: [ "Greatest Novels" ]
 description: "Hollywood's darker side during the Great Depression."
 author: "Nathanael West"
+authors: ["Nathanael West"]
 image: "image.png"
 ---
 

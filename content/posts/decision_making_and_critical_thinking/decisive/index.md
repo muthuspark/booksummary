@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How to make better choices in life and work using a four-step process"
 image: 'image.png'
 author: "Chip Heath and Dan Heath"
+authors: ["Chip Heath", "Dan Heath"]
 ---
 
 ##  Understanding the Four Villains of Decision Making

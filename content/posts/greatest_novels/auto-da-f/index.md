@@ -3,6 +3,7 @@ title: "Auto-da-Fé by Elias Canetti"
 categories: [ "Greatest Novels" ]
 description: "A reclusive scholar's descent into madness."
 author: "Elias Canetti"
+authors: ["Elias Canetti"]
 image: "image.png"
 ---
 

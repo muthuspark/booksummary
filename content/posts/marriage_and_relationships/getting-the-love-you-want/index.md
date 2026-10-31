@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A guide for couples to transform conflict into connection and intimacy"
 image: 'image.png'
 author: "Harville Hendrix"
+authors: ["Harville Hendrix"]
 ---
 
 # Getting the Love You Want: A Summary

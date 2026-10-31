@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A story about finding your path in life"
 image: 'image.png'
 author: "Dan Millman"
+authors: ["Dan Millman"]
 ---
 
 # The Core Message: Embracing the Present Moment

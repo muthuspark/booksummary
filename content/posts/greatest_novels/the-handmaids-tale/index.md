@@ -3,6 +3,7 @@ title: "The Handmaid's Tale by Margaret Atwood"
 categories: [ "Greatest Novels" ]
 description: "A dystopian novel about a woman forced into reproductive servitude in a theocratic America."
 author: "Margaret Atwood"
+authors: ["Margaret Atwood"]
 image: "image.png"
 ---
 

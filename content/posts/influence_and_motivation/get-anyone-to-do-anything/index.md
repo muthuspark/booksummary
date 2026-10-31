@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Never feel powerless again with psychological secrets"
 image: 'image.png'
 author: "David J. Lieberman"
+authors: ["David J. Lieberman"]
 ---
 
 ## Understanding Human Nature

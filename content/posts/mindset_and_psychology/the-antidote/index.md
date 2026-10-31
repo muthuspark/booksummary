@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Happiness for people who can't stand positive thinking"
 image: 'image.png'
 author: "Oliver Burkeman"
+authors: ["Oliver Burkeman"]
 ---
 
 ## Embracing the Anxiety of Imperfection

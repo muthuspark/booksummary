@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Healing the pain and rebuilding trust after infidelity"
 image: 'image.png'
 author: "Janis A. Spring"
+authors: ["Janis A. Spring"]
 ---
 
 # Understanding the Aftermath of Infidelity

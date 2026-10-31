@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "9 steps to achieving financial security"
 image: 'image.png'
 author: "David Bach"
+authors: ["David Bach"]
 ---
 
 # Smart Women Finish Rich: A Summary

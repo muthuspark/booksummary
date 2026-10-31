@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "How Google, Bono, and the Gates Foundation rock the world with OKRs"
 image: 'image.png'
 author: "John Doerr"
+authors: ["John Doerr"]
 ---
 
 # The Power of Objectives and Key Results (OKRs)

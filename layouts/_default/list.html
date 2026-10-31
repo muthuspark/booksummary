@@ -1,5 +1,6 @@
 {{ define "main" }}
 <h1{{ if eq .Kind "term" }} class="category-heading"{{ end }}>{{ .Title }}</h1>
+{{ if and (eq .Kind "term") (eq .Data.Plural "authors") }}<p class="muted">Book summaries by {{ .Title }}, including coauthored titles.</p>{{ end }}
 {{ .Content }}
 {{ partial "catalog.html" . }}
 {{ end }}

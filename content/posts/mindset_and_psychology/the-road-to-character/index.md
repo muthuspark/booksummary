@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Building rich inner lives marked by humility and moral depth"
 image: 'image.png'
 author: "David Brooks"
+authors: ["David Brooks"]
 ---
 
 ## The Road to Character: A Summary and Actionable Insights

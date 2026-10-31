@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The fallibility of human reason in everyday life"
 image: 'image.png'
 author: "Thomas Gilovich"
+authors: ["Thomas Gilovich"]
 ---
 
 ## How We Know What Isn't So: Key Takeaways for a More Accurate Life

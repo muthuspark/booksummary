@@ -3,6 +3,7 @@ title: "The Obscene Bird of Night by José Donoso"
 categories: [ "Greatest Novels" ]
 description: "A surreal Chilean novel about identity and transformation."
 author: "José Donoso"
+authors: ["José Donoso"]
 image: "image.png"
 ---
 

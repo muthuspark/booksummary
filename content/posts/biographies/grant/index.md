@@ -3,6 +3,7 @@ title: "Grant by Ron Chernow"
 categories: [ "Biographies" ]
 description: "Definitive biography rehabilitating the reputation of the Civil War general and president"
 author: "Ron Chernow"
+authors: ["Ron Chernow"]
 image: "image.png"
 image_alt: "Ulysses S. Grant."
 image_caption: >-

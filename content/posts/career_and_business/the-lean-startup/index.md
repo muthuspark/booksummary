@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How today's entrepreneurs use continuous innovation to create successful businesses"
 image: 'image.png'
 author: "Eric Ries"
+authors: ["Eric Ries"]
 ---
 
 ## The Lean Startup: Building Businesses with Minimum Viable Products

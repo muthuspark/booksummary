@@ -3,6 +3,7 @@ title: "War and Peace by Leo Tolstoy"
 categories: [ "Greatest Novels" ]
 description: "An epic tale following five aristocratic families through the French invasion of Russia, exploring themes of love, war, and human nature."
 author: "Leo Tolstoy"
+authors: ["Leo Tolstoy"]
 image: "image.png"
 ---
 

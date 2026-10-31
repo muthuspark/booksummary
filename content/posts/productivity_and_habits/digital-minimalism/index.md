@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Choosing a focused life in a noisy world"
 image: 'image.png'
 author: "Cal Newport"
+authors: ["Cal Newport"]
 ---
 
 # Digital Minimalism: Reclaiming Your Time and Attention

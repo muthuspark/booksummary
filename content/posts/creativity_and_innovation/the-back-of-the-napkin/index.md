@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Solving problems and selling ideas with pictures"
 image: 'image.png'
 author: "Dan Roam"
+authors: ["Dan Roam"]
 ---
 
 ## The Power of Visual Thinking

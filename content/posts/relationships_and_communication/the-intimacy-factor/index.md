@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Ground rules for overcoming barriers to connection"
 image: 'image.png'
 author: "Pia Mellody"
+authors: ["Pia Mellody"]
 ---
 
 ## Understanding the Intimacy Factor: A Summary of Pia Mellody's Work

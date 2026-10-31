@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Master the market with confidence, discipline, and a winning attitude"
 image: 'image.png'
 author: "Mark Douglas"
+authors: ["Mark Douglas"]
 ---
 
 # Understanding the Psychological Game

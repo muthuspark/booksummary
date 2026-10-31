@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "How your unconscious mind rules your behavior"
 image: 'image.png'
 author: "Leonard Mlodinow"
+authors: ["Leonard Mlodinow"]
 ---
 
 ## Subliminal: Understanding the Unconscious Mind and its Influence

@@ -3,6 +3,7 @@ title: "The Catcher in the Rye by J.D. Salinger"
 categories: [ "Greatest Novels" ]
 description: "The story of alienated teenager Holden Caulfield's three-day journey through New York City."
 author: "J.D. Salinger"
+authors: ["J.D. Salinger"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Discover the new science behind stem cell activation for a longer life"
 image: 'image.png'
 author: "Valter Longo"
+authors: ["Valter Longo"]
 ---
 
 # The Longevity Diet: A Summary

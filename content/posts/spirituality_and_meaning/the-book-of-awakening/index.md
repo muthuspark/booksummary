@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Having the life you want by being present to the life you have"
 image: 'image.png'
 author: "Mark Nepo"
+authors: ["Mark Nepo"]
 ---
 
 ## Embracing the Present Moment

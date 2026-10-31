@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Understanding the power of attraction and persuasion"
 image: 'image.png'
 author: "Robert Greene"
+authors: ["Robert Greene"]
 ---
 
 # Understanding Power Dynamics

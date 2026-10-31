@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "10 ways to share your creativity and get discovered"
 image: 'image.png'
 author: "Austin Kleon"
+authors: ["Austin Kleon"]
 ---
 
 ## Show Your Work!: A Summary of Austin Kleon's Guide to Self-Promotion and Creative Living

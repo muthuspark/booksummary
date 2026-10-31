@@ -3,6 +3,7 @@ title: "Jakob von Gunten by Robert Walser"
 categories: [ "Greatest Novels" ]
 description: "A young man's experiences at a school for servants."
 author: "Robert Walser"
+authors: ["Robert Walser"]
 image: "image.png"
 ---
 

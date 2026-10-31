@@ -3,6 +3,7 @@ title: "Closely Watched Trains by Bohumil Hrabal"
 categories: [ "Greatest Novels" ]
 description: "A young railway worker's coming of age during Nazi occupation."
 author: "Bohumil Hrabal"
+authors: ["Bohumil Hrabal"]
 image: "image.png"
 ---
 

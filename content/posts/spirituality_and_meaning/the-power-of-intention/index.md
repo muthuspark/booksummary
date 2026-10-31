@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Learning to co-create your world your way"
 image: 'image.png'
 author: "Wayne W. Dyer"
+authors: ["Wayne W. Dyer"]
 ---
 
 # Introduction:  Unleashing Your Inner Power

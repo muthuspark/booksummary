@@ -3,6 +3,7 @@ title: "The Good Soldier by Ford Madox Ford"
 categories: [ "Greatest Novels" ]
 description: "The tragic tale of two wealthy couples told by an unreliable narrator."
 author: "Ford Madox Ford"
+authors: ["Ford Madox Ford"]
 image: "image.png"
 ---
 

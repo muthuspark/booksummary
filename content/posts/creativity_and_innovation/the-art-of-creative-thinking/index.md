@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "89 ways to see things differently"
 image: 'image.png'
 author: "Rod Judkins"
+authors: ["Rod Judkins"]
 ---
 
 ## Unleashing Your Creative Potential: A Summary of "The Art of Creative Thinking"

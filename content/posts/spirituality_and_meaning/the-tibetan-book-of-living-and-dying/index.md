@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A detailed guide to life, death, and spiritual practice"
 image: 'image.png'
 author: "Sogyal Rinpoche"
+authors: ["Sogyal Rinpoche"]
 ---
 
 # Understanding the Nature of Reality

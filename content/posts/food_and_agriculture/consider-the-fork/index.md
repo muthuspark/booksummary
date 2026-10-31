@@ -1,6 +1,7 @@
 ---
 title: "Consider the Fork by Bee Wilson"
 author: "Bee Wilson"
+authors: ["Bee Wilson"]
 categories: ["Food and Agriculture"]
 description: "How pots, knives, forks, fire, and refrigeration shaped our meals, kitchen labor, and ideas about civilized eating."
 image: "image.png"

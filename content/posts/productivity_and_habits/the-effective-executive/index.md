@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The definitive guide to getting the right things done"
 image: 'image.png'
 author: "Peter F. Drucker"
+authors: ["Peter F. Drucker"]
 ---
 
 ##  The Effective Executive: A Summary

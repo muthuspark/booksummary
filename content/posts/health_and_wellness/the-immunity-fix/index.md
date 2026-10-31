@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Strengthen your immune system, fight off infections"
 image: 'image.png'
 author: "James DiNicolantonio and Siim Land"
+authors: ["James DiNicolantonio", "Siim Land"]
 ---
 
 ## The Immunity Fix: A Summary

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "The link between EQ and psychological well-being"
 image: 'image.png'
 author: "James Parker"
+authors: ["James Parker"]
 ---
 
 It appears there is no widely known or readily available book titled "Emotional Intelligence and Mental Health" by an author named James Parker.  Therefore, I cannot provide a 2000-word summary based on this specific book.  However, I can offer an overview of the intersection of emotional intelligence (EI) and mental health, incorporating key advice and strategies typically found in literature on the subject. This will cover the core principles you'd likely find in a book with that title.

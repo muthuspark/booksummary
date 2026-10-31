@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A spiritual path to higher creativity"
 image: 'image.png'
 author: "Julia Cameron"
+authors: ["Julia Cameron"]
 ---
 
 # Unleashing Your Creative Self: A Summary of "The Artist's Way"

@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "And 39 other keys to creativity"
 image: 'image.png'
 author: "Hugh MacLeod"
+authors: ["Hugh MacLeod"]
 ---
 
 # The Gospel of Authenticity: Ignoring the Noise

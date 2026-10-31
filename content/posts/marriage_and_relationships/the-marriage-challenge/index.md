@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A guide for strengthening your marriage based on personality types"
 image: 'image.png'
 author: "Art and Laraine Bennett"
+authors: ["Art Bennett", "Laraine Bennett"]
 ---
 
 ## Understanding the Marriage Challenge: A Foundation for Growth

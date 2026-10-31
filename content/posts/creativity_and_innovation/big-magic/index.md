@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Creative living beyond fear and embracing inspiration"
 image: 'image.png'
 author: "Elizabeth Gilbert"
+authors: ["Elizabeth Gilbert"]
 ---
 
 # Big Magic: Unleashing Your Creative Life

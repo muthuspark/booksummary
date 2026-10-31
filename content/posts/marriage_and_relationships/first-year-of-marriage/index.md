@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "The newlywed's guide to building a strong foundation"
 image: 'image.png'
 author: "Marcus and Ashley Willis"
+authors: ["Marcus Kusi", "Ashley Kusi"]
 ---
 
 ## First Year of Marriage: A Summary of Key Advice and Strategies

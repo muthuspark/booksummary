@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "A practical guide to improving your EQ"
 image: 'image.png'
 author: "Steven J. Stein"
+authors: ["Steven J. Stein"]
 ---
 
 # Understanding Emotional Intelligence (EQ)

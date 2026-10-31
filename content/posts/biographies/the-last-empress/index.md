@@ -3,6 +3,7 @@ title: "The Last Empress by Hannah Pakula"
 categories: [ "Biographies" ]
 description: "Biography of Soong Mei-ling, Madame Chiang Kai-shek, and her influence on modern China"
 author: "Hannah Pakula"
+authors: ["Hannah Pakula"]
 image: "image.png"
 image_alt: "Soong Mei-ling."
 image_caption: >-

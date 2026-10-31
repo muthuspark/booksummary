@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How empty pockets, a tight budget, and a hunger for success can become your greatest competitive advantage"
 image: 'image.png'
 author: "Daymond John"
+authors: ["Daymond John"]
 ---
 
 ##  Embracing the Power of Resourcefulness

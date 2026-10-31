@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Awakening to your life's purpose through consciousness"
 image: 'image.png'
 author: "Eckhart Tolle"
+authors: ["Eckhart Tolle"]
 ---
 
 # Understanding the Pain-Body

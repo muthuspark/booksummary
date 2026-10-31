@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Research-based principles to build lasting relationships"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 ## Building a Lasting Love:  The Foundation of Gottman's Seven Principles

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Work better, smarter, and less - here's how"
 image: 'image.png'
 author: "Alex Soojung-Kim Pang"
+authors: ["Alex Soojung-Kim Pang"]
 ---
 
 ## Shorter: The Surprising Power of Less

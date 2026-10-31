@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Understanding the brain and its emotional architecture"
 image: 'image.png'
 author: "Daniel Goleman and Richard Davidson"
+authors: ["Daniel Goleman", "Richard Davidson"]
 ---
 
 ## Understanding Emotional Intelligence: A Foundation

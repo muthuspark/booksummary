@@ -3,6 +3,7 @@ title: "The God of Small Things by Arundhati Roy"
 categories: [ "Greatest Novels" ]
 description: "Twins growing up in Kerala, India, amid political and social upheaval."
 author: "Arundhati Roy"
+authors: ["Arundhati Roy"]
 image: "image.png"
 ---
 

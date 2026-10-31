@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The classic guide to personal achievement and financial success"
 image: 'image.png'
 author: "Napoleon Hill"
+authors: ["Napoleon Hill"]
 ---
 
 ## The Power of Belief and Desire

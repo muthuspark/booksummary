@@ -3,6 +3,7 @@ title: "Che Guevara: A Revolutionary Life by Jon Lee Anderson"
 categories: [ "Biographies" ]
 description: "Comprehensive biography of the revolutionary icon based on previously unavailable materials"
 author: "Jon Lee Anderson"
+authors: ["Jon Lee Anderson"]
 image: "image.png"
 image_alt: "Che Guevara."
 image_caption: >-

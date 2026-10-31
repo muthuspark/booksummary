@@ -3,6 +3,7 @@ title: "Unbroken by Laura Hillenbrand"
 categories: [ "Biographies" ]
 description: "Story of Louis Zamperini's journey from Olympic runner to WWII survivor"
 author: "Laura Hillenbrand"
+authors: ["Laura Hillenbrand"]
 image: "image.png"
 image_alt: "Louis Zamperini."
 image_caption: >-

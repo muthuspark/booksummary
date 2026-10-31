@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "50 activities for promoting EQ at work"
 image: 'image.png'
 author: "Adele B. Lynn"
+authors: ["Adele B. Lynn"]
 ---
 
 ## Understanding Your Emotions: The Foundation of Emotional Intelligence

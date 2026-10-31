@@ -3,6 +3,7 @@ title: "Kafka: The Definitive Biography by Reiner Stach"
 categories: [ "Biographies" ]
 description: "Three-volume exploration of the enigmatic writer's life and work"
 author: "Reiner Stach"
+authors: ["Reiner Stach"]
 image: "image.png"
 image_alt: "Franz Kafka."
 image_caption: >-

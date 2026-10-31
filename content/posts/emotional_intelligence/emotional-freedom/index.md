@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Liberate yourself from negative emotions and transform your life"
 image: 'image.png'
 author: "Judith Orloff"
+authors: ["Judith Orloff"]
 ---
 
 # Understanding Your Emotional Landscape

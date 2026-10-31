@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Lessons from presidents Lincoln, Theodore Roosevelt, FDR, and LBJ"
 image: 'image.png'
 author: "Doris Kearns Goodwin"
+authors: ["Doris Kearns Goodwin"]
 ---
 
 ## Leadership in Turbulent Times:  Extracting Actionable Insights

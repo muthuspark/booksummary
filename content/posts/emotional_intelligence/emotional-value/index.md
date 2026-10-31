@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Creating strong bonds with your customers"
 image: 'image.png'
 author: "Janelle Barlow and Dianna Maul"
+authors: ["Janelle Barlow", "Dianna Maul"]
 ---
 
 ## Understanding Emotional Value: The Core Concept

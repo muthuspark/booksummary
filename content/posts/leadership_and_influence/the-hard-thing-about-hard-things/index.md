@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Building a business when there are no easy answers"
 image: 'image.png'
 author: "Ben Horowitz"
+authors: ["Ben Horowitz"]
 ---
 
 # The Hard Thing About Hard Things: A Summary

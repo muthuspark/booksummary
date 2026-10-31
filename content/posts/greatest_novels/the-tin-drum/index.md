@@ -3,6 +3,7 @@ title: "The Tin Drum by Günter Grass"
 categories: [ "Greatest Novels" ]
 description: "The story of Oskar, who decides to stop growing at age three, set against the rise of Nazism."
 author: "Günter Grass"
+authors: ["Günter Grass"]
 image: "image.png"
 ---
 

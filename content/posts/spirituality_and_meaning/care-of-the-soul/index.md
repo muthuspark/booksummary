@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A guide for cultivating depth and sacredness in everyday life"
 image: 'image.png'
 author: "Thomas Moore"
+authors: ["Thomas Moore"]
 ---
 
 # Rediscovering the Soul's Voice:  A Summary of Thomas Moore's "Care of the Soul"

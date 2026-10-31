@@ -3,6 +3,7 @@ title: "Leonardo da Vinci by Walter Isaacson"
 categories: [ "Biographies" ]
 description: "Biography exploring the connection between da Vinci's art and scientific pursuits"
 author: "Walter Isaacson"
+authors: ["Walter Isaacson"]
 image: "image.png"
 image_alt: "Portrait of Leonardo da Vinci attributed to Francesco Melzi."
 image_caption: >-

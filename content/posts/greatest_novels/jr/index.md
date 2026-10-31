@@ -3,6 +3,7 @@ title: "JR by William Gaddis"
 categories: [ "Greatest Novels" ]
 description: "An 11-year-old builds a financial empire through payphone calls."
 author: "William Gaddis"
+authors: ["William Gaddis"]
 image: "image.png"
 ---
 

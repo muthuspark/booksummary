@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why we're wired to look on the bright side"
 image: 'image.png'
 author: "Tali Sharot"
+authors: ["Tali Sharot"]
 ---
 
 # Understanding the Optimism Bias

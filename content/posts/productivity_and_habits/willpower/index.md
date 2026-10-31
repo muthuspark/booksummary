@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Rediscovering the greatest human strength"
 image: 'image.png'
 author: "Roy F. Baumeister and John Tierney"
+authors: ["Roy F. Baumeister", "John Tierney"]
 ---
 
 # The Depleting Resource: Understanding Willpower

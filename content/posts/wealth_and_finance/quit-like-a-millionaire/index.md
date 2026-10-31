@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "No luck required guide to financial independence"
 image: 'image.png'
 author: "Kristy Shen and Bryce Leung"
+authors: ["Kristy Shen", "Bryce Leung"]
 ---
 
 ## Quit Like a Millionaire: A Summary

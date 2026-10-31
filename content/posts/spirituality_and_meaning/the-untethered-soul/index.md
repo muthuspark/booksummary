@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "The journey beyond yourself to inner freedom"
 image: 'image.png'
 author: "Michael A. Singer"
+authors: ["Michael A. Singer"]
 ---
 
 ## Understanding the "Inner Voice" and Its Grip

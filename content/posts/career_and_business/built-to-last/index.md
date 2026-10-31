@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Successful habits of visionary companies"
 image: 'image.png'
 author: "Jim Collins and Jerry I. Porras"
+authors: ["Jim Collins", "Jerry I. Porras"]
 ---
 
 ## Built to Last: Key Principles for a Meaningful Life

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Simplifying your life to focus on what truly matters"
 image: 'image.png'
 author: "Leo Babauta"
+authors: ["Leo Babauta"]
 ---
 
 ## Understanding Minimalism: A Philosophy of Intention

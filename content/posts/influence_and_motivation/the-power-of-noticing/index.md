@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "What the best leaders see"
 image: 'image.png'
 author: "Max Bazerman"
+authors: ["Max Bazerman"]
 ---
 
 ## The Power of Noticing: A Summary

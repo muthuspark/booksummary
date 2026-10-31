@@ -3,6 +3,7 @@ title: "Frida: A Biography of Frida Kahlo by Hayden Herrera"
 categories: [ "Biographies" ]
 description: "Definitive biography of the Mexican artist, examining her art, politics, and tumultuous personal life"
 author: "Hayden Herrera"
+authors: ["Hayden Herrera"]
 image: "image.png"
 image_alt: "Frida Kahlo."
 image_caption: >-

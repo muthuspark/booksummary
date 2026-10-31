@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "A breakthrough program to treat the root cause of illness"
 image: 'image.png'
 author: "Ben Lynch"
+authors: ["Ben Lynch"]
 ---
 
 ## Dirty Genes: Understanding the Role of Genetics and Lifestyle

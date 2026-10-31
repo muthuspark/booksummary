@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Take control of your money and your life"
 image: 'image.png'
 author: "Gail Vaz-Oxlade"
+authors: ["Gail Vaz-Oxlade"]
 ---
 
 # Understanding Your Financial Situation

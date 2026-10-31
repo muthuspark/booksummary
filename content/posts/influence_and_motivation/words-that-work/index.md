@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "It's not what you say, it's what people hear"
 image: 'image.png'
 author: "Frank Luntz"
+authors: ["Frank Luntz"]
 ---
 
 ## The Power of Language: Framing Your Message

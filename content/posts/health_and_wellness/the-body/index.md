@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "A guide to what goes on inside your body and how to keep it running"
 image: 'image.png'
 author: "Bill Bryson"
+authors: ["Bill Bryson"]
 ---
 
 ## The Astonishing Complexity of "The Body":  A Guide to Self-Improvement

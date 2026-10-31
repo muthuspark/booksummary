@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How to create and manage effective organizations"
 image: 'image.png'
 author: "Andrew S. Grove"
+authors: ["Andrew S. Grove"]
 ---
 
 ## High Output Management: A Summary

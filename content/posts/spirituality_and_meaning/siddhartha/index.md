@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A novel about one man's spiritual journey to enlightenment"
 image: 'image.png'
 author: "Hermann Hesse"
+authors: ["Hermann Hesse"]
 ---
 
 # Siddhartha's Journey: A Quest for Self-Discovery

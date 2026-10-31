@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "How and why love lasts based on a landmark study"
 image: 'image.png'
 author: "Judith S. Wallerstein"
+authors: ["Judith S. Wallerstein"]
 ---
 
 ## Understanding the Good Marriage: A Foundation of Mutual Respect

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Discover the secret to getting through to absolutely anyone"
 image: 'image.png'
 author: "Mark Goulston"
+authors: ["Mark Goulston"]
 ---
 
 # Understanding the Listening Deficit

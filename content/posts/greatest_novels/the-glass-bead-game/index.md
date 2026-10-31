@@ -3,6 +3,7 @@ title: "The Glass Bead Game by Hermann Hesse"
 categories: [ "Greatest Novels" ]
 description: "A future intellectual society dedicated to mathematical and musical game."
 author: "Hermann Hesse"
+authors: ["Hermann Hesse"]
 image: "image.png"
 ---
 

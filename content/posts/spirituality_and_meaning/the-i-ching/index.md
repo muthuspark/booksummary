@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Ancient Chinese wisdom for decision-making"
 image: 'image.png'
 author: "Richard Wilhelm (Translator)"
+authors: ["Richard Wilhelm (Translator)"]
 ---
 
 ## Understanding the I Ching: A Guide to Self-Cultivation

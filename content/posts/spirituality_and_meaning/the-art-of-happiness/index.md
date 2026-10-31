@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A handbook for living through spiritual principles"
 image: 'image.png'
 author: "Dalai Lama and Howard C. Cutler"
+authors: ["Dalai Lama", "Howard C. Cutler"]
 ---
 
 ## The Foundation: Understanding Happiness

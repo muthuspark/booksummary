@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Finding unity between Buddhist and Christian spirituality"
 image: 'image.png'
 author: "Thich Nhat Hanh"
+authors: ["Thich Nhat Hanh"]
 ---
 
 ## Understanding Interbeing: The Core of Thich Nhat Hanh's Philosophy

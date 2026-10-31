@@ -3,6 +3,7 @@ title: "The Count of Monte Cristo by Alexandre Dumas"
 categories: [ "Greatest Novels" ]
 description: "An epic tale of revenge and redemption in Napoleonic France."
 author: "Alexandre Dumas"
+authors: ["Alexandre Dumas"]
 image: "image.png"
 ---
 

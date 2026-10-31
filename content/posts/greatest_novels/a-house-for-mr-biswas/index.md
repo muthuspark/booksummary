@@ -3,6 +3,7 @@ title: "A House for Mr. Biswas by V.S. Naipaul"
 categories: [ "Greatest Novels" ]
 description: "The struggle of a Trinidad-based Indian man to achieve independence and identity."
 author: "V.S. Naipaul"
+authors: ["V.S. Naipaul"]
 image: "image.png"
 ---
 

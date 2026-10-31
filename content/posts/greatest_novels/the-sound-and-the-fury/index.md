@@ -3,6 +3,7 @@ title: "The Sound and the Fury by William Faulkner"
 categories: [ "Greatest Novels" ]
 description: "The decline of the Compson family told through multiple narratives and stream of consciousness."
 author: "William Faulkner"
+authors: ["William Faulkner"]
 image: "image.png"
 ---
 

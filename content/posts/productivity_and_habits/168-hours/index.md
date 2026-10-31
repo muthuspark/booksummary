@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "You have more time than you think - how to make the most of it"
 image: 'image.png'
 author: "Laura Vanderkam"
+authors: ["Laura Vanderkam"]
 ---
 
 # Understanding Your Time

@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Creating breakthrough products through collaborative play"
 image: 'image.png'
 author: "Luke Hohmann"
+authors: ["Luke Hohmann"]
 ---
 
 ## Innovation Games: A Summary

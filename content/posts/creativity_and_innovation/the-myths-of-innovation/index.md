@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The truth about how innovation really happens"
 image: 'image.png'
 author: "Scott Berkun"
+authors: ["Scott Berkun"]
 ---
 
 ## The Myths of Innovation: Deconstructing Common Misconceptions

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Why some ideas survive and others die"
 image: 'image.png'
 author: "Chip Heath and Dan Heath"
+authors: ["Chip Heath", "Dan Heath"]
 ---
 
 # Made to Stick:  A Summary and Actionable Insights

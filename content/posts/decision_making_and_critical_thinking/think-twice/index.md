@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Harnessing the power of counterintuition in decision making"
 image: 'image.png'
 author: "Michael J. Mauboussin"
+authors: ["Michael J. Mauboussin"]
 ---
 
 ## Understanding Probabilities and Base Rates

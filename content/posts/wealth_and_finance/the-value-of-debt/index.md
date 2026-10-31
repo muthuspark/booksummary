@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "How to manage both sides of a balance sheet"
 image: 'image.png'
 author: "Thomas J. Anderson"
+authors: ["Thomas J. Anderson"]
 ---
 
 ## Understanding the Power of Strategic Debt

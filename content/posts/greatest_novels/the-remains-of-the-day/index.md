@@ -3,6 +3,7 @@ title: "The Remains of the Day by Kazuo Ishiguro"
 categories: [ "Greatest Novels" ]
 description: "A butler reflects on his life of service in post-war England."
 author: "Kazuo Ishiguro"
+authors: ["Kazuo Ishiguro"]
 image: "image.png"
 ---
 

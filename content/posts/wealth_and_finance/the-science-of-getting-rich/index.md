@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Classic guide to creating wealth through creative visualization"
 image: 'image.png'
 author: "Wallace D. Wattles"
+authors: ["Wallace D. Wattles"]
 ---
 
 # The Core Principle: Thinking in a Certain Way

@@ -3,6 +3,7 @@ title: "The Blind Assassin by Margaret Atwood"
 categories: [ "Greatest Novels" ]
 description: "A novel within a novel about love, betrayal, and family secrets."
 author: "Margaret Atwood"
+authors: ["Margaret Atwood"]
 image: "image.png"
 ---
 

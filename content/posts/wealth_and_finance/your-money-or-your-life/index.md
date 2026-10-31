@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "9 steps to transforming your relationship with money"
 image: 'image.png'
 author: "Vicki Robin and Joe Dominguez"
+authors: ["Vicki Robin", "Joe Dominguez"]
 ---
 
 "Your Money or Your Life" is a transformative guide to personal finance that goes beyond mere budgeting and investing. It advocates for a conscious and intentional relationship with money, urging readers to align their financial decisions with their values and life goals.  The book's core message revolves around gaining control of your finances to achieve true life fulfillment, not just accumulating wealth.

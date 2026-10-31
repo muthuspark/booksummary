@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why more is less in modern life"
 image: 'image.png'
 author: "Barry Schwartz"
+authors: ["Barry Schwartz"]
 ---
 
 ## The Paradox of Choice: A Summary and Actionable Insights

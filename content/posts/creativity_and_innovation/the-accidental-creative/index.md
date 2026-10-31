@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "How to be brilliant at a moment's notice"
 image: 'image.png'
 author: "Todd Henry"
+authors: ["Todd Henry"]
 ---
 
 # Embracing the Messy Reality of Creativity

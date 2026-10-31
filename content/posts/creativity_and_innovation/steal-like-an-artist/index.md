@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "10 things nobody told you about being creative"
 image: 'image.png'
 author: "Austin Kleon"
+authors: ["Austin Kleon"]
 ---
 
 # Steal Like an Artist: A Summary

@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The mysterious nature of emotional life"
 image: 'image.png'
 author: "Joseph LeDoux"
+authors: ["Joseph LeDoux"]
 ---
 
 ## The Emotional Brain:  A Summary and Actionable Insights

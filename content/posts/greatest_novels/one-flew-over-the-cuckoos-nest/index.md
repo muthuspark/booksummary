@@ -3,6 +3,7 @@ title: "One Flew Over the Cuckoo's Nest by Ken Kesey"
 categories: [ "Greatest Novels" ]
 description: "The struggle between Randle McMurphy and Nurse Ratched in a mental institution."
 author: "Ken Kesey"
+authors: ["Ken Kesey"]
 image: "image.png"
 ---
 

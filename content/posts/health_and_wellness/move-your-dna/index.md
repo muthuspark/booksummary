@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Restore your health through natural movement"
 image: 'image.png'
 author: "Katy Bowman"
+authors: ["Katy Bowman"]
 ---
 
 # Move Your DNA: A Summary

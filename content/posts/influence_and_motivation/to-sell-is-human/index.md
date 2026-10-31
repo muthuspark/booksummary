@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The surprising truth about moving others"
 image: 'image.png'
 author: "Daniel H. Pink"
+authors: ["Daniel H. Pink"]
 ---
 
 # Shifting Persuasion

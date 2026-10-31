@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Elevate your game, avoid burnout, and thrive with the new science of success"
 image: 'image.png'
 author: "Brad Stulberg and Steve Magness"
+authors: ["Brad Stulberg", "Steve Magness"]
 ---
 
 # Understanding the Performance Equation

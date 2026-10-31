@@ -3,6 +3,7 @@ title: "Absalom, Absalom! by William Faulkner"
 categories: [ "Greatest Novels" ]
 description: "The complex story of Thomas Sutpen's attempt to create a dynasty in the American South."
 author: "William Faulkner"
+authors: ["William Faulkner"]
 image: "image.png"
 ---
 

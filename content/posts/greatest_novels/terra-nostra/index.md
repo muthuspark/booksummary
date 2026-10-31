@@ -3,6 +3,7 @@ title: "Terra Nostra by Carlos Fuentes"
 categories: [ "Greatest Novels" ]
 description: "A complex novel spanning Mexican history and beyond."
 author: "Carlos Fuentes"
+authors: ["Carlos Fuentes"]
 image: "image.png"
 ---
 

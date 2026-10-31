@@ -3,6 +3,7 @@ title: "Heart of Darkness by Joseph Conrad"
 categories: [ "Greatest Novels" ]
 description: "Marlow's journey up the Congo River and his encounter with the mysterious Kurtz."
 author: "Joseph Conrad"
+authors: ["Joseph Conrad"]
 image: "image.png"
 ---
 

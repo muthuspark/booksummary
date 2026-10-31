@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Negotiating agreement without giving in"
 image: 'image.png'
 author: "Roger Fisher and William Ury"
+authors: ["Roger Fisher", "William Ury"]
 ---
 
 # Getting to Yes: A Summary

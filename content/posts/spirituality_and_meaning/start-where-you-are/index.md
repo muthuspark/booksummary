@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A guide to compassionate living"
 image: 'image.png'
 author: "Pema Chodron"
+authors: ["Pema Chodron"]
 ---
 
 ## Embracing Impermanence and Change

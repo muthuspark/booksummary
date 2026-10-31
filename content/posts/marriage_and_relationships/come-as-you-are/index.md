@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Understanding female sexuality and enhancing intimate relationships"
 image: 'image.png'
 author: "Emily Nagoski"
+authors: ["Emily Nagoski"]
 ---
 
 # Understanding the Female Orgasm: Dispelling Myths and Embracing Reality

@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "21 great ways to stop procrastinating and get more done in less time"
 image: 'image.png'
 author: "Brian Tracy"
+authors: ["Brian Tracy"]
 ---
 
 # Eat That Frog! - A Summary

@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "How to use what you already know to make money in the market"
 image: 'image.png'
 author: "Peter Lynch"
+authors: ["Peter Lynch"]
 ---
 
 # Understanding Your Own Investing Style

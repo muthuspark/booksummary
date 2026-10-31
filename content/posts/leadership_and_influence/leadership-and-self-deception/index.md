@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Getting out of the box of self-focused leadership"
 image: 'image.png'
 author: "The Arbinger Institute"
+authors: ["The Arbinger Institute"]
 ---
 
 # The Box: Understanding Self-Deception

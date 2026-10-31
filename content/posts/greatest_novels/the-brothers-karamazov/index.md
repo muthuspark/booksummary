@@ -3,6 +3,7 @@ title: "The Brothers Karamazov by Fyodor Dostoevsky"
 categories: [ "Greatest Novels" ]
 description: "A philosophical novel exploring faith, doubt, and morality through the story of four brothers."
 author: "Fyodor Dostoevsky"
+authors: ["Fyodor Dostoevsky"]
 image: "image.png"
 ---
 

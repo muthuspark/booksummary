@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Poetic essays on life's deepest questions"
 image: 'image.png'
 author: "Kahlil Gibran"
+authors: ["Kahlil Gibran"]
 ---
 
 ## On Love

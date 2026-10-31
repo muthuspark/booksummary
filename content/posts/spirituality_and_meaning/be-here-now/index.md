@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A guide to consciousness and spiritual practices"
 image: 'image.png'
 author: "Ram Dass"
+authors: ["Ram Dass"]
 ---
 
 ## Be Here Now: A Summary and Actionable Insights

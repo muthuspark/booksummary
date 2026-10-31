@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "7 simple steps to financial freedom"
 image: 'image.png'
 author: "Tony Robbins"
+authors: ["Tony Robbins"]
 ---
 
 #  Understanding Your Relationship with Money

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Play to your strengths and lead like a champion"
 image: 'image.png'
 author: "Daniel Goleman and Robert Kaplan"
+authors: ["Daniel Goleman", "Robert Kaplan"]
 ---
 
 ## Understanding the Neuroscience of Leadership

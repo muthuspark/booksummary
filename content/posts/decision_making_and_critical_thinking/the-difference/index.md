@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How diversity in thinking leads to better decisions and problem-solving"
 image: 'image.png'
 author: "Scott E. Page"
+authors: ["Scott E. Page"]
 ---
 
 ## The Power of Diversity:  A Core Message of "The Difference"

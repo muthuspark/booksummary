@@ -3,6 +3,7 @@ title: "Peter the Great: His Life and World by Robert K. Massie"
 categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography of the tsar who transformed Russia"
 author: "Robert K. Massie"
+authors: ["Robert K. Massie"]
 image: "image.png"
 image_alt: "Peter the Great."
 image_caption: >-

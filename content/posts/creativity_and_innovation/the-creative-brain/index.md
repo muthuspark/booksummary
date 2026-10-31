@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The science of creative thinking"
 image: 'image.png'
 author: "Ned Herrmann"
+authors: ["Ned Herrmann"]
 ---
 
 ## The Creative Brain: Unleashing Your Potential

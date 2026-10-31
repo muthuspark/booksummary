@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Explores how to make better predictions and decisions through systematic thinking"
 image: 'image.png'
 author: "Philip E. Tetlock"
+authors: ["Philip E. Tetlock"]
 ---
 
 # Superforecasting:  Unlocking the Secrets of Accurate Prediction

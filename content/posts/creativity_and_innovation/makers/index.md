@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The new industrial revolution through innovation"
 image: 'image.png'
 author: "Chris Anderson"
+authors: ["Chris Anderson"]
 ---
 
 # Makers: A Summary and Actionable Insights

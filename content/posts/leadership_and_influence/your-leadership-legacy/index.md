@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Why looking toward the future will make you a better leader today"
 image: 'image.png'
 author: "Robert M. Galford"
+authors: ["Robert M. Galford"]
 ---
 
 # Understanding Your Leadership Legacy

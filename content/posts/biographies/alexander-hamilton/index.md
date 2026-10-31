@@ -3,6 +3,7 @@ title: "Alexander Hamilton by Ron Chernow"
 categories: [ "Biographies" ]
 description: "Comprehensive biography of the founding father that inspired the hit musical"
 author: "Ron Chernow"
+authors: ["Ron Chernow"]
 image: "image.png"
 image_alt: "Alexander Hamilton."
 image_caption: >-

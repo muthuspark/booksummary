@@ -3,6 +3,7 @@ title: "2666 by Roberto Bolaño"
 categories: [ "Greatest Novels" ]
 description: "A sprawling novel centered around unsolved murders in a Mexican border town."
 author: "Roberto Bolaño"
+authors: ["Roberto Bolaño"]
 image: "image.png"
 ---
 

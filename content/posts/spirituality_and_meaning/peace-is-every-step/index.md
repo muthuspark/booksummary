@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "The path of mindfulness in everyday life"
 image: 'image.png'
 author: "Thich Nhat Hanh"
+authors: ["Thich Nhat Hanh"]
 ---
 
 ## Embracing the Present Moment: The Core of Peace

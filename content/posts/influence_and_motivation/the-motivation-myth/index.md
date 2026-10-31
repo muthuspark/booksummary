@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How high achievers really set themselves up to win"
 image: 'image.png'
 author: "Jeff Haden"
+authors: ["Jeff Haden"]
 ---
 
 ## The Motivation Myth: Debunking the Myth and Embracing Sustainable Performance

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The unexpected benefits of defying logic"
 image: 'image.png'
 author: "Dan Ariely"
+authors: ["Dan Ariely"]
 ---
 
 ## The Power of Placebos and the Importance of Rituals

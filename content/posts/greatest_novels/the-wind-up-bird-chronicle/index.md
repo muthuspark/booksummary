@@ -3,6 +3,7 @@ title: "The Wind-Up Bird Chronicle by Haruki Murakami"
 categories: [ "Greatest Novels" ]
 description: "A surreal story of a man searching for his missing wife in Tokyo."
 author: "Haruki Murakami"
+authors: ["Haruki Murakami"]
 image: "image.png"
 ---
 

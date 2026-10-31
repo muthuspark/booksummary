@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The hidden force that creates the world's greatest teams"
 image: 'image.png'
 author: "Sam Walker"
+authors: ["Sam Walker"]
 ---
 
 ## The Captain Class: Unlocking the Secrets of Great Leadership

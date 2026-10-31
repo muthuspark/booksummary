@@ -3,6 +3,7 @@ title: "Red: The Life and Times of an American Progressive by D.D. Guttenplan"
 categories: [ "Biographies" ]
 description: "Bibliographic details awaiting verification; no biographical subject has been confirmed."
 author: "D.D. Guttenplan"
+authors: ["D.D. Guttenplan"]
 image: "image.png"
 image_alt: "An open historic volume at the New York Public Library, used as context for this unverified entry."
 image_caption: >-

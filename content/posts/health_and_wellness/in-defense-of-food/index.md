@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "An eater's manifesto for healthy eating"
 image: 'image.png'
 author: "Michael Pollan"
+authors: ["Michael Pollan"]
 ---
 
 ## In Defense of Food: A Summary and Actionable Insights

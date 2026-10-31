@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Essential conversations for premarital couples"
 image: 'image.png'
 author: "H. Norman Wright"
+authors: ["H. Norman Wright"]
 ---
 
 ## Understanding Your Values and Goals

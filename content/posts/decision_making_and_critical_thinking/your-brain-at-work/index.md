@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Strategies for overcoming distraction, regaining focus, and working smarter"
 image: 'image.png'
 author: "David Rock"
+authors: ["David Rock"]
 ---
 
 # Understanding Your Brain's Resource Management

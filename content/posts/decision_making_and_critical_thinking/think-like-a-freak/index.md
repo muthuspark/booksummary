@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Unconventional approaches to solving problems and making decisions"
 image: 'image.png'
 author: "Steven D. Levitt and Stephen J. Dubner"
+authors: ["Steven D. Levitt", "Stephen J. Dubner"]
 ---
 
 # Thinking Like a Freak: A Summary of Actionable Insights

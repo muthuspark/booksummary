@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "How to die young at a ripe old age"
 image: 'image.png'
 author: "Steven R. Gundry"
+authors: ["Steven R. Gundry"]
 ---
 
 # The Longevity Paradox: A Summary

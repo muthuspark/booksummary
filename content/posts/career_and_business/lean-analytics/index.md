@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Use data to build a better startup faster"
 image: 'image.png'
 author: "Alistair Croll and Benjamin Yoskovitz"
+authors: ["Alistair Croll", "Benjamin Yoskovitz"]
 ---
 
 ## Lean Analytics:  A Summary Focused on Actionable Insights

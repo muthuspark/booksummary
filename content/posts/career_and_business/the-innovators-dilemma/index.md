@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "When new technologies cause great firms to fail"
 image: 'image.png'
 author: "Clayton M. Christensen"
+authors: ["Clayton M. Christensen"]
 ---
 
 ## The Innovator's Dilemma:  Sustaining vs. Disruptive Innovation

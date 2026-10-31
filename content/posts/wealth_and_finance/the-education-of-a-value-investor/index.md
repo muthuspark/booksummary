@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "My transformative quest for wealth, wisdom, and enlightenment"
 image: 'image.png'
 author: "Guy Spier"
+authors: ["Guy Spier"]
 ---
 
 # The Education of a Value Investor: A Summary

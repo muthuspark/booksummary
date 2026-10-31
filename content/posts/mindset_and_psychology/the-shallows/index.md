@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "What the Internet is doing to our brains"
 image: 'image.png'
 author: "Nicholas Carr"
+authors: ["Nicholas Carr"]
 ---
 
 ## The Shallows: What the Internet Is Doing to Our Brains - Actionable Insights

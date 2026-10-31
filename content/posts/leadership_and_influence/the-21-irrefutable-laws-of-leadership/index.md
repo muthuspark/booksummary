@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Follow them and people will follow you"
 image: 'image.png'
 author: "John C. Maxwell"
+authors: ["John C. Maxwell"]
 ---
 
 ## The Foundation:  Understanding Leadership

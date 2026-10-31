@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "From ambiguphobia to umpty - 154 words from around the world for how we feel"
 image: 'image.png'
 author: "Tiffany Watt Smith"
+authors: ["Tiffany Watt Smith"]
 ---
 
 ## Understanding Our Emotional Landscape

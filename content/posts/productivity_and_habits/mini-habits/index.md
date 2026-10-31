@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Smaller habits, bigger results"
 image: 'image.png'
 author: "Stephen Guise"
+authors: ["Stephen Guise"]
 ---
 
 # The Core Concept: Tiny Habits for Massive Change

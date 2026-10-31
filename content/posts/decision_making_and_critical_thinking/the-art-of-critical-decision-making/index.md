@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How great leaders approach tough choices"
 image: 'image.png'
 author: "Michael A. Roberto"
+authors: ["Michael A. Roberto"]
 ---
 
 # Understanding the Messiness of Decision Making

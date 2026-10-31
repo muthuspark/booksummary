@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The secret to achieving more with less"
 image: 'image.png'
 author: "Richard Koch"
+authors: ["Richard Koch"]
 ---
 
 ## The 80/20 Principle: Unlocking the Secret to Extraordinary Results

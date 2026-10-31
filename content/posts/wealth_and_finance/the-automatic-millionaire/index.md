@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A powerful one-step plan to live and finish rich"
 image: 'image.png'
 author: "David Bach"
+authors: ["David Bach"]
 ---
 
 # The Core Philosophy:  Pay Yourself First

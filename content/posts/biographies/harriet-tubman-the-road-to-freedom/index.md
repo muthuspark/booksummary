@@ -3,6 +3,7 @@ title: "Harriet Tubman: The Road to Freedom by Catherine Clinton"
 categories: [ "Biographies" ]
 description: "Biography of the Underground Railroad conductor who helped guide slaves to freedom"
 author: "Catherine Clinton"
+authors: ["Catherine Clinton"]
 image: "image.png"
 image_alt: "Harriet Tubman."
 image_caption: >-

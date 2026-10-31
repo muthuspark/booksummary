@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "New hope for marriages in crisis and protecting your marriage"
 image: 'image.png'
 author: "James Dobson"
+authors: ["James Dobson"]
 ---
 
 # Love Must Be Tough: A Summary

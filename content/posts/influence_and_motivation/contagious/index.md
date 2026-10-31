@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Why things catch on and how to make ideas spread"
 image: 'image.png'
 author: "Jonah Berger"
+authors: ["Jonah Berger"]
 ---
 
 # Contagious: Why Things Catch On - A Summary

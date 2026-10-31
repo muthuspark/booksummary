@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Flow and the psychology of discovery and invention"
 image: 'image.png'
 author: "Mihaly Csikszentmihalyi"
+authors: ["Mihaly Csikszentmihalyi"]
 ---
 
 # Understanding Creativity: A Synthesis of Csikszentmihalyi's Work

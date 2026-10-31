@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Exercises and techniques for developing communication skills"
 image: 'image.png'
 author: "David Olsen"
+authors: ["David Olsen"]
 ---
 
 ## Understanding Your Communication Style

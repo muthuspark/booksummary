@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Three essential keys to solve problems, innovate, and get things done"
 image: 'image.png'
 author: "Art Markman"
+authors: ["Art Markman"]
 ---
 
 ## Smart Thinking: Mastering the Art of Critical Thinking

@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Financial advice for young adults starting their careers"
 image: 'image.png'
 author: "Suze Orman"
+authors: ["Suze Orman"]
 ---
 
 # Understanding Your Financial Situation

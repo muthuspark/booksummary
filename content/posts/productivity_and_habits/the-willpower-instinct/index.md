@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How self-control works, why it matters, and what you can do to get more of it"
 image: 'image.png'
 author: "Kelly McGonigal"
+authors: ["Kelly McGonigal"]
 ---
 
 ## Understanding Willpower: It's Not a Limited Resource

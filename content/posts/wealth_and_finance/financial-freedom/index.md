@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A proven path to all the money you will ever need"
 image: 'image.png'
 author: "Grant Sabatier"
+authors: ["Grant Sabatier"]
 ---
 
 ## Financial Freedom: A Summary of Grant Sabatier's Guide to Early Retirement

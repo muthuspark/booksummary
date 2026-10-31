@@ -3,6 +3,7 @@ title: "The Rainbow by D.H. Lawrence"
 categories: [ "Greatest Novels" ]
 description: "Three generations of the Brangwen family and their sexual and emotional relationships."
 author: "D.H. Lawrence"
+authors: ["D.H. Lawrence"]
 image: "image.png"
 ---
 

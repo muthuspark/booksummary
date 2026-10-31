@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Making things right in your relationships through apology"
 image: 'image.png'
 author: "Gary Chapman and Jennifer Thomas"
+authors: ["Gary Chapman", "Jennifer Thomas"]
 ---
 
 ## Understanding the Hurtful Impact of Words and Actions

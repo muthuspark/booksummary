@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A journey to the frontiers where science and Buddhism meet"
 image: 'image.png'
 author: "Matthieu Ricard and Trinh Xuan Thuan"
+authors: ["Matthieu Ricard", "Trinh Xuan Thuan"]
 ---
 
 ## The Harmony of Science and Spirituality: A Summary of "The Quantum and the Lotus"

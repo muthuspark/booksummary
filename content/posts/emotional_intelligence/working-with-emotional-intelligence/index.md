@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Applying emotional intelligence principles to achieve success in the workplace"
 image: 'image.png'
 author: "Daniel Goleman"
+authors: ["Daniel Goleman"]
 ---
 
 ## Understanding Emotional Intelligence: A Foundation for Personal Growth

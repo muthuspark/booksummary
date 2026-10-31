@@ -3,6 +3,7 @@ title: "Gandhi: The Years That Changed the World by Ramachandra Guha"
 categories: [ "Biographies" ]
 description: "Comprehensive account of Gandhi's life from his return to India to his assassination"
 author: "Ramachandra Guha"
+authors: ["Ramachandra Guha"]
 image: "image.png"
 image_alt: "Mahatma Gandhi."
 image_caption: >-

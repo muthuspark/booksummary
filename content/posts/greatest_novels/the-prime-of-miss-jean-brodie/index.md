@@ -3,6 +3,7 @@ title: "The Prime of Miss Jean Brodie by Muriel Spark"
 categories: [ "Greatest Novels" ]
 description: "An unconventional teacher's influence on her students in 1930s Edinburgh."
 author: "Muriel Spark"
+authors: ["Muriel Spark"]
 image: "image.png"
 ---
 

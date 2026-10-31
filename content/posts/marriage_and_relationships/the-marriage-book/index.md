@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Starting and sustaining a great marriage"
 image: 'image.png'
 author: "Nicky and Sila Lee"
+authors: ["Nicky Lee", "Sila Lee"]
 ---
 
 # Understanding the Foundation: Love and Commitment

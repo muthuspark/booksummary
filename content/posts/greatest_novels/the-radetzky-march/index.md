@@ -3,6 +3,7 @@ title: "The Radetzky March by Joseph Roth"
 categories: [ "Greatest Novels" ]
 description: "The decline of the Austro-Hungarian Empire through three generations."
 author: "Joseph Roth"
+authors: ["Joseph Roth"]
 image: "image.png"
 ---
 

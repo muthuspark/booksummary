@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Critical success strategies for new leaders at all levels"
 image: 'image.png'
 author: "Michael D. Watkins"
+authors: ["Michael D. Watkins"]
 ---
 
 ## Mastering the Critical First 90 Days

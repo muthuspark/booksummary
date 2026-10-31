@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The hidden qualities that make us influential"
 image: 'image.png'
 author: "John Neffinger and Matthew Kohut"
+authors: ["John Neffinger", "Matthew Kohut"]
 ---
 
 # The Power of Presence:  Understanding the "Three-Part" Model

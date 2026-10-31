@@ -3,6 +3,7 @@ title: "Snow by Orhan Pamuk"
 categories: [ "Greatest Novels" ]
 description: "A poet investigates suicide among young women in a Turkish town."
 author: "Orhan Pamuk"
+authors: ["Orhan Pamuk"]
 image: "image.png"
 ---
 

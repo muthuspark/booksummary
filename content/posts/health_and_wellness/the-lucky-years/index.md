@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "How to thrive in the brave new world of health"
 image: 'image.png'
 author: "David B. Agus"
+authors: ["David B. Agus"]
 ---
 
 ## The Lucky Years: A Summary and Actionable Insights

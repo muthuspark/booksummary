@@ -3,6 +3,7 @@ title: "The Dead Are Arising by Les Payne and Tamara Payne"
 categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography of Malcolm X based on extensive new research"
 author: "Les Payne and Tamara Payne"
+authors: ["Les Payne", "Tamara Payne"]
 image: "image.png"
 image_alt: "Malcolm X."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "How to harness microbes for lifelong health"
 image: 'image.png'
 author: "B. Brett Finlay and Jessica M. Finlay"
+authors: ["B. Brett Finlay", "Jessica M. Finlay"]
 ---
 
 ## The Whole-Body Microbiome: A Summary and Actionable Insights

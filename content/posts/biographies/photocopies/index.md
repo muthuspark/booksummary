@@ -3,6 +3,7 @@ title: "Photocopies by John Berger"
 categories: [ "Biographies" ]
 description: "Short written portraits drawn from John Berger’s encounters with people and places"
 author: "John Berger"
+authors: ["John Berger"]
 image: "image.png"
 image_alt: "John Berger."
 image_caption: >-

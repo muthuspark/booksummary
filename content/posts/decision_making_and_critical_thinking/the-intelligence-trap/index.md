@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Why smart people make dumb decisions and how to avoid these pitfalls"
 image: 'image.png'
 author: "David Robson"
+authors: ["David Robson"]
 ---
 
 ## Overcoming the Intelligence Trap: A Summary of David Robson's Key Insights

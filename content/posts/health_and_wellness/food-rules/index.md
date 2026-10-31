@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "An eater's manual for healthy eating"
 image: 'image.png'
 author: "Michael Pollan"
+authors: ["Michael Pollan"]
 ---
 
 # Food Rules: A Summary and Actionable Insights

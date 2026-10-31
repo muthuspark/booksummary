@@ -3,6 +3,7 @@ title: "The Trial by Franz Kafka"
 categories: [ "Greatest Novels" ]
 description: "The surreal story of Josef K., prosecuted by a remote authority without knowing his crime."
 author: "Franz Kafka"
+authors: ["Franz Kafka"]
 image: "image.png"
 ---
 

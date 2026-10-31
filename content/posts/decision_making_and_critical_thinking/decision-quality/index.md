@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Value creation from better business decisions"
 image: 'image.png'
 author: "Carl Spetzler"
+authors: ["Carl Spetzler"]
 ---
 
 ## Understanding the Decision-Quality Framework

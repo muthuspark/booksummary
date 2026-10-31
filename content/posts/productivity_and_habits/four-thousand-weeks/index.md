@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Time management for mortals"
 image: 'image.png'
 author: "Oliver Burkeman"
+authors: ["Oliver Burkeman"]
 ---
 
 # Accepting the Reality of Limited Time

@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Finding modern truth in ancient wisdom"
 image: 'image.png'
 author: "Jonathan Haidt"
+authors: ["Jonathan Haidt"]
 ---
 
 # The Happiness Hypothesis: A Summary and Actionable Insights

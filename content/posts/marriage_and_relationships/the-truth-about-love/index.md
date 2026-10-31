@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "The science behind attraction, satisfaction, and lasting relationships"
 image: 'image.png'
 author: "Patricia Love"
+authors: ["Patricia Love"]
 ---
 
 ## Understanding Love's True Nature

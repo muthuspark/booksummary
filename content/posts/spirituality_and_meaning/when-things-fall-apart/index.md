@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Heart advice for difficult times"
 image: 'image.png'
 author: "Pema Chodrosn"
+authors: ["Pema Chodrosn"]
 ---
 
 # Understanding Suffering: The Foundation of Transformation

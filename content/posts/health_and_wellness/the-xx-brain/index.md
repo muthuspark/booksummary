@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The science empowering women to prevent dementia"
 image: 'image.png'
 author: "Lisa Mosconi"
+authors: ["Lisa Mosconi"]
 ---
 
 ## The XX Brain: Key to Women's Brain Health

@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "A practical guide to Peter Hollins' 30 mental models, with a chapter map, worked examples, visual guides, and a decision-making checklist."
 image: 'mental-models-hero.webp'
 author: "Peter Hollins"
+authors: ["Peter Hollins"]
 ---
 
 ## The central idea: improve the way you approach a problem

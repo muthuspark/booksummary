@@ -3,6 +3,7 @@ title: "Rebecca by Daphne du Maurier"
 categories: [ "Greatest Novels" ]
 description: "A young bride haunted by her husband's first wife at Manderley."
 author: "Daphne du Maurier"
+authors: ["Daphne du Maurier"]
 image: "image.png"
 ---
 

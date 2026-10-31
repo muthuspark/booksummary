@@ -3,6 +3,7 @@ title: "Catch-22 by Joseph Heller"
 categories: [ "Greatest Novels" ]
 description: "A satirical anti-war novel set during World War II, following bombardier John Yossarian."
 author: "Joseph Heller"
+authors: ["Joseph Heller"]
 image: "image.png"
 ---
 

@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Understanding Eastern philosophy and practice"
 image: 'image.png'
 author: "Alan W. Watts"
+authors: ["Alan Watts"]
 ---
 
 # Understanding the Illusion of Self

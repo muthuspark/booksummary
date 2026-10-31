@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Claiming the life you were meant to live"
 image: 'image.png'
 author: "Martha Beck"
+authors: ["Martha Beck"]
 ---
 
 # Understanding Your True Self

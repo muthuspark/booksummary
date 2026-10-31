@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The surprising truth about what motivates us"
 image: 'image.png'
 author: "Daniel H. Pink"
+authors: ["Daniel H. Pink"]
 ---
 
 # The Puzzle of Motivation: Beyond Carrots and Sticks

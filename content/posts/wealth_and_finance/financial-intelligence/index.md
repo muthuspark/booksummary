@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A manager's guide to knowing what the numbers really mean"
 image: 'image.png'
 author: "Karen Berman and Joe Knight"
+authors: ["Karen Berman", "Joe Knight"]
 ---
 
 # Understanding Your Financial Life

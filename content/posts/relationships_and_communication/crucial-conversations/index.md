@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Tools for talking when stakes are high"
 image: 'image.png'
 author: "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler"
+authors: ["Kerry Patterson", "Joseph Grenny", "Ron McMillan", "Al Switzler"]
 ---
 
 ## Conversations: A Summary

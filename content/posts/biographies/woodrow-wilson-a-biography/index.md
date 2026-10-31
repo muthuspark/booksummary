@@ -3,6 +3,7 @@ title: "Woodrow Wilson: A Biography by John Milton Cooper Jr."
 categories: [ "Biographies" ]
 description: "Comprehensive look at the academic who became a wartime president"
 author: "John Milton Cooper Jr."
+authors: ["John Milton Cooper Jr."]
 image: "image.png"
 image_alt: "Woodrow Wilson."
 image_caption: >-

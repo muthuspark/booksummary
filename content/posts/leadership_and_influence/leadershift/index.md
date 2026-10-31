@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The 11 essential changes every leader must embrace"
 image: 'image.png'
 author: "John C. Maxwell"
+authors: ["John C. Maxwell"]
 ---
 
 # Leadershift: A Summary of John C. Maxwell's Guide to Personal Transformation

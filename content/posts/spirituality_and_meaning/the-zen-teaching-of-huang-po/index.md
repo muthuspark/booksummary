@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "On the transmission of mind"
 image: 'image.png'
 author: "John Blofeld (Translator)"
+authors: ["John Blofeld (Translator)"]
 ---
 
 ##  The Essence of Huang Po's Teachings: A Path to Liberation

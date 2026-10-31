@@ -99,11 +99,34 @@ A new summary needs YAML front matter followed by Markdown:
 ---
 title: "Book Title by Author"
 author: "Author"
+authors: ["Author"]
 categories: ["Productivity And Habits"]
 description: "A concise description of the book."
 image: "image.png"
 ---
 ```
+
+The `author` field preserves the readable display credit used by titles and search.
+The `authors` field groups books under individual author pages. It is required and
+must be a **one-line JSON array** of nonblank, unique, double-quoted names (valid
+YAML). Other YAML list forms are not supported by the standard-library verifier.
+Reuse each author's existing canonical spelling, including initials and diacritics.
+For a coauthored book, include each person separately:
+
+```yaml
+author: "John Gottman and Nan Silver"
+authors: ["John Gottman", "Nan Silver"]
+```
+
+Expand shared surnames in the list, for example `authors: ["Nicky Lee", "Sila Lee"]`.
+Verify credits against the author or publisher rather than splitting display text
+mechanically. Known spelling variants and duplicate names fail verification.
+If two different people would share a name or route, resolve their distinct author
+term paths and verification expectations explicitly before publishing.
+
+Run `python3 scripts/author_pages.py` to validate source credits, or
+`python3 scripts/test_author_pages.py` for attribution and Hugo pagination fixtures.
+The full build checks every author directory entry, count, catalog, and credit link.
 
 Place its image beside `index.md`. Dates are optional; the migrated summaries did
 not have publication dates, so listings sort alphabetically and omit invented
@@ -163,7 +186,11 @@ python3 scripts/test_write_random_summary.py
 
 ## Categories and diagrams
 
-Browse summaries using the category links and page navigation. Search controls
+Browse summaries using the category links and page navigation. Author names in
+summary headers and book cards open catalogs of their solo and coauthored books
+across categories. The Authors navigation link opens an alphabetical directory
+with counts. Catalogs include summaries available on this site, not external
+bibliographies. Search controls
 are not displayed, and the browser search scripts are not loaded.
 
 Hugo creates 80px and 160px WebP thumbnails for listings and search results. Original

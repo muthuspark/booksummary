@@ -3,6 +3,7 @@ title: "Barracoon by Zora Neale Hurston"
 categories: [ "Biographies" ]
 description: "Cudjo Lewis’s oral history of capture, the Clotilda crossing, enslavement, and life in Africatown"
 author: "Zora Neale Hurston"
+authors: ["Zora Neale Hurston"]
 image: "image.png"
 image_alt: "Cudjo Lewis (Kossola), photographed by Emma Langdon Roche."
 image_caption: >-

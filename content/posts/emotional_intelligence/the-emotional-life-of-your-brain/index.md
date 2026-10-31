@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "How its unique patterns affect how you think, feel, and live"
 image: 'image.png'
 author: "Richard J. Davidson"
+authors: ["Richard Davidson"]
 ---
 
 # Understanding the Brain's Emotional Landscape

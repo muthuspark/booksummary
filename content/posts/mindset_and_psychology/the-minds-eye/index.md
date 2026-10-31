@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "How the brain processes visual information"
 image: 'image.png'
 author: "Oliver Sacks"
+authors: ["Oliver Sacks"]
 ---
 
 ## The Mind's Eye:  Navigating Visual Imagery and its Impact on Life

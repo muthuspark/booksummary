@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "TRIZ, systematic innovation and technical creativity"
 image: 'image.png'
 author: "Genrich Altshuller"
+authors: ["Genrich Altshuller"]
 ---
 
 ## Understanding Inventive Problem Solving (TRIZ)

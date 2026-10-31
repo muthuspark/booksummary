@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Simple guide to successful investing"
 image: 'image.png'
 author: "Daniel C. Goldie and Gordon S. Murray"
+authors: ["Daniel C. Goldie", "Gordon S. Murray"]
 ---
 
 # The Investment Answer: A Summary

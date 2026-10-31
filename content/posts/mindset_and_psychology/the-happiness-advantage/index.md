@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "The seven principles of positive psychology"
 image: 'image.png'
 author: "Shawn Achor"
+authors: ["Shawn Achor"]
 ---
 
 # The Happiness Advantage: A Summary

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Understanding what makes relationships work"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 # Understanding the Sound Relationship House

@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Emotional attunement for couples"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 ## The Science of Trust: Key to a Better Life

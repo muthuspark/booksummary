@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Understanding our spiritual evolution and life's deeper purpose"
 image: 'image.png'
 author: "Gary Zukav"
+authors: ["Gary Zukav"]
 ---
 
 # The Seat of the Soul: A Summary of Zukav's Guide to Purposeful Living

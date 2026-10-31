@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Why some people see things clearly and others don't"
 image: 'image.png'
 author: "Julia Galef"
+authors: ["Julia Galef"]
 ---
 
 ## The Scout Mindset: A Summary

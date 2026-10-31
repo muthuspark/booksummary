@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Ancient wisdom for modern life"
 image: 'image.png'
 author: "Eknath Easwaran (Translator)"
+authors: ["Eknath Easwaran (Translator)"]
 ---
 
 ## The Bhagavad Gita: A Guide to Self-Transformation (Easwaran's Interpretation)

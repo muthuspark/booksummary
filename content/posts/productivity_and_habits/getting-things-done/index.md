@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The art of stress-free productivity through effective organization and task management"
 image: 'image.png'
 author: "David Allen"
+authors: ["David Allen"]
 ---
 
 # The Core Principle: Stress-Free Productivity

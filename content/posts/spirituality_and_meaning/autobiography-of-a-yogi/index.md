@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A spiritual master's extraordinary journey"
 image: 'image.png'
 author: "Paramahansa Yogananda"
+authors: ["Paramahansa Yogananda"]
 ---
 
 # Embracing the Divine Within: A Summary of Autobiography of a Yogi

@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "The power of talk in a digital age"
 image: 'image.png'
 author: "Sherry Turkle"
+authors: ["Sherry Turkle"]
 ---
 
 ## Reclaiming Conversation: A Summary and Actionable Insights

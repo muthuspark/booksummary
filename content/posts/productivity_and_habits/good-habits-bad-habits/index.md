@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The science of making positive changes that stick"
 image: 'image.png'
 author: "Wendy Wood"
+authors: ["Wendy Wood"]
 ---
 
 ## Understanding Habit Formation: The Foundation of Change

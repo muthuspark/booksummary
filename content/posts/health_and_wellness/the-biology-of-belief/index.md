@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Unleashing the power of consciousness, matter, and miracles"
 image: 'image.png'
 author: "Bruce H. Lipton"
+authors: ["Bruce H. Lipton"]
 ---
 
 # The Biology of Belief: A Summary & Actionable Insights

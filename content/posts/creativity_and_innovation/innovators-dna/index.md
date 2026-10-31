@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Mastering the five skills of disruptive innovators"
 image: 'image.png'
 author: "Jeff Dyer"
+authors: ["Jeff Dyer"]
 ---
 
 # Discovering the Innovator's DNA: A Summary of Jeff Dyer's Work

@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Reflections on the principles of A Course in Miracles"
 image: 'image.png'
 author: "Marianne Williamson"
+authors: ["Marianne Williamson"]
 ---
 
 ## Return to Love: A Summary of Marianne Williamson's Guide to Spiritual Awakening

@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "How we gain and lose influence"
 image: 'image.png'
 author: "Dacher Keltner"
+authors: ["Dacher Keltner"]
 ---
 
 # The Power Paradox: Key Takeaways for a More Fulfilling Life

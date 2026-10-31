@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding how to achieve excellence through deliberate practice"
 image: 'image.png'
 author: "Anders Ericsson"
+authors: ["Anders Ericsson"]
 ---
 
 # Deliberate Practice: The Core of Peak Performance

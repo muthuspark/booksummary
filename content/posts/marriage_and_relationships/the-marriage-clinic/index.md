@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A scientifically based marital therapy approach"
 image: 'image.png'
 author: "John Gottman"
+authors: ["John Gottman"]
 ---
 
 ## Understanding the Sound Relationship House

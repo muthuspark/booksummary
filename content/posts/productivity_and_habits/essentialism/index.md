@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The disciplined pursuit of less but better, focusing on what truly matters"
 image: 'image.png'
 author: "Greg McKeown"
+authors: ["Greg McKeown"]
 ---
 
 # The Core of Essentialism: Choosing What Matters

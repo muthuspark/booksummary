@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "A guided journal for expressing love and appreciation"
 image: 'image.png'
 author: "Kate Marshall and David Marshall"
+authors: ["Kate Marshall", "David Marshall"]
 ---
 
 I do not have access to real-time information, including the contents of specific books like "What I Love About You" by Kate and David Marshall. Therefore, I cannot provide a 2000-word summary with specific advice and strategies from that book. My knowledge is based on the data I was trained on.

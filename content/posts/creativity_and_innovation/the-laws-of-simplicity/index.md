@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Design, technology, business, life"
 image: 'image.png'
 author: "John Maeda"
+authors: ["John Maeda"]
 ---
 
 ## The Essence of Simplicity: Maeda's "The Laws of Simplicity"

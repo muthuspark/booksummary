@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Learning to lead"
 image: 'image.png'
 author: "Jim Mattis"
+authors: ["Jim Mattis"]
 ---
 
 ## Call Sign Chaos: Key Takeaways for Life

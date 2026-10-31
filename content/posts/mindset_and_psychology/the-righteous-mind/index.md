@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why good people are divided by politics and religion"
 image: 'image.png'
 author: "Jonathan Haidt"
+authors: ["Jonathan Haidt"]
 ---
 
 # Understanding Moral Foundations Theory

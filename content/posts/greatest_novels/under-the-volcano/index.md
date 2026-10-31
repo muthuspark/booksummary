@@ -3,6 +3,7 @@ title: "Under the Volcano by Malcolm Lowry"
 categories: [ "Greatest Novels" ]
 description: "The last day in the life of an alcoholic British consul in Mexico."
 author: "Malcolm Lowry"
+authors: ["Malcolm Lowry"]
 image: "image.png"
 ---
 

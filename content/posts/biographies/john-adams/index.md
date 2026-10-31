@@ -3,6 +3,7 @@ title: "John Adams by David McCullough"
 categories: [ "Biographies" ]
 description: "Portrait of America's second president, chronicling his role in the American Revolution and early republic"
 author: "David McCullough"
+authors: ["David McCullough"]
 image: "image.png"
 image_alt: "John Adams."
 image_caption: >-

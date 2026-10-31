@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "An uncommon guide to rapid fat loss, incredible sex, and becoming superhuman"
 image: 'image.png'
 author: "Timothy Ferriss"
+authors: ["Timothy Ferriss"]
 ---
 
 ## The 4-Hour Body: A Summary

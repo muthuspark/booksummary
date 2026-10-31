@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Psychology and the secret to investing success"
 image: 'image.png'
 author: "Daniel Crosby"
+authors: ["Daniel Crosby"]
 ---
 
 ## Understanding Your Behavioral Biases

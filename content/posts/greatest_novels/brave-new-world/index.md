@@ -3,6 +3,7 @@ title: "Brave New World by Aldous Huxley"
 categories: [ "Greatest Novels" ]
 description: "A dystopian vision of a future society controlled through pleasure and conditioning."
 author: "Aldous Huxley"
+authors: ["Aldous Huxley"]
 image: "image.png"
 ---
 

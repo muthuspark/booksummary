@@ -3,6 +3,7 @@ title: "The Master and Margarita by Mikhail Bulgakov"
 categories: [ "Greatest Novels" ]
 description: "A satirical fantasy about the Devil's visit to atheistic Soviet Moscow."
 author: "Mikhail Bulgakov"
+authors: ["Mikhail Bulgakov"]
 image: "image.png"
 ---
 

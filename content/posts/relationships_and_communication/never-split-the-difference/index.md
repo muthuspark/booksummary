@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "A former FBI hostage negotiator's guide to high-stakes negotiations"
 image: 'image.png'
 author: "Chris Voss"
+authors: ["Chris Voss"]
 ---
 
 ## Never Split the Difference: Mastering the Art of Negotiation

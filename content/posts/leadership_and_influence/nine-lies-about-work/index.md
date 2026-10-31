@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "A freethinking leader's guide to the real world"
 image: 'image.png'
 author: "Marcus Buckingham and Ashley Goodall"
+authors: ["Marcus Buckingham", "Ashley Goodall"]
 ---
 
 # The Myth of the "Best" Team

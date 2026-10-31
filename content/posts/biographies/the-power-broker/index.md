@@ -3,6 +3,7 @@ title: "The Power Broker by Robert Caro"
 categories: [ "Biographies" ]
 description: "Monumental biography of Robert Moses and his impact on modern New York City"
 author: "Robert Caro"
+authors: ["Robert Caro"]
 image: "image.png"
 image_alt: "Robert Moses."
 image_caption: >-

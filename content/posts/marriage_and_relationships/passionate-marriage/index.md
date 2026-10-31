@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Keeping love and intimacy alive in committed relationships"
 image: 'image.png'
 author: "David Schnarch"
+authors: ["David Schnarch"]
 ---
 
 ## Passionate Marriage: A Summary

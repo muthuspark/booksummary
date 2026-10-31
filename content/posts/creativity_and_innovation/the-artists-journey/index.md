@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The wake of the hero's journey and the lifelong pursuit of meaning"
 image: 'image.png'
 author: "Steven Pressfield"
+authors: ["Steven Pressfield"]
 ---
 
 # Facing the Resistance

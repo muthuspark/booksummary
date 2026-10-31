@@ -3,6 +3,7 @@ title: "The Tunnel by William H. Gass"
 categories: [ "Greatest Novels" ]
 description: "A professor writing about Nazi Germany confronts his own prejudices and darkness."
 author: "William H. Gass"
+authors: ["William H. Gass"]
 image: "image.png"
 ---
 

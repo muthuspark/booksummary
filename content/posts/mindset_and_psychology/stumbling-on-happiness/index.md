@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why we're so bad at predicting what will make us happy"
 image: 'image.png'
 author: "Daniel Gilbert"
+authors: ["Daniel Gilbert"]
 ---
 
 # The Synthetic Happiness Engine: Our Brains' Amazing (and Flawed) Prediction System

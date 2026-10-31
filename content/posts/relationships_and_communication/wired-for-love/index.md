@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How understanding your partner's brain can help you defuse conflicts"
 image: 'image.png'
 author: "Stan Tatkin"
+authors: ["Stan Tatkin"]
 ---
 
 # Wired for Love: A Summary & Actionable Insights

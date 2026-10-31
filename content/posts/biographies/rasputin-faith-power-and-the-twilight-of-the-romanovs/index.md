@@ -3,6 +3,7 @@ title: "Rasputin: Faith, Power, and the Twilight of the Romanovs by Douglas Smit
 categories: [ "Biographies" ]
 description: "Comprehensive biography separating myth from reality about the infamous Russian mystic"
 author: "Douglas Smith"
+authors: ["Douglas Smith"]
 image: "image.png"
 image_alt: "Grigori Rasputin."
 image_caption: >-

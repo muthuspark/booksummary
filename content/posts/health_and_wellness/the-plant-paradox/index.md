@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Hidden dangers in 'healthy' foods that cause disease and weight gain"
 image: 'image.png'
 author: "Steven R. Gundry"
+authors: ["Steven R. Gundry"]
 ---
 
 # The Plant Paradox: A Summary

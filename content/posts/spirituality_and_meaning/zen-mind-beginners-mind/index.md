@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Informal talks on Zen meditation and practice"
 image: 'image.png'
 author: "Shunryu Suzuki"
+authors: ["Shunryu Suzuki"]
 ---
 
 ## Zen Mind, Beginner's Mind: A Summary

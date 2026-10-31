@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Weekly conversations for a lifetime of love"
 image: 'image.png'
 author: "Marcia Naomi Berger"
+authors: ["Marcia Naomi Berger"]
 ---
 
 # Understanding the Power of Marriage Meetings

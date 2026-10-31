@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Stop wishing, start doing, and take command of your life"
 image: 'image.png'
 author: "Bernard Roth"
+authors: ["Bernard Roth"]
 ---
 
 ## The Achievement Habit: Mastering the Seven Keys to Extraordinary Success

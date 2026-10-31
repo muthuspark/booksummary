@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Unlocking the secret of skill in sports, art, music, math, and more"
 image: 'image.png'
 author: "Daniel Coyle"
+authors: ["Daniel Coyle"]
 ---
 
 # The Talent Code: Unlocking the Secret of Skill Acquisition

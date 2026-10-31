@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The only money guide you'll ever need"
 image: 'image.png'
 author: "Scott Pape"
+authors: ["Scott Pape"]
 ---
 
 # The Barefoot Investor: A Summary

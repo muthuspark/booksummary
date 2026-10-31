@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The surprising truth about wheat, carbs, and sugar"
 image: 'image.png'
 author: "David Perlmutter"
+authors: ["David Perlmutter"]
 ---
 
 ## The Grain Brain: A Summary

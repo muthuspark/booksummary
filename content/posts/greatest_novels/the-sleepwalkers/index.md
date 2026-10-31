@@ -3,6 +3,7 @@ title: "The Sleepwalkers by Hermann Broch"
 categories: [ "Greatest Novels" ]
 description: "A trilogy about the disintegration of values in modern Europe."
 author: "Hermann Broch"
+authors: ["Hermann Broch"]
 image: "image.png"
 ---
 

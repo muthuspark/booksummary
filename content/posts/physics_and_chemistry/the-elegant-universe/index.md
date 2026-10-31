@@ -1,6 +1,7 @@
 ---
 title: "The Elegant Universe by Brian Greene"
 author: "Brian Greene"
+authors: ["Brian Greene"]
 categories: ["Physics and Chemistry"]
 description: "Brian Greene explains why gravity and quantum mechanics need reconciliation, and how vibrating strings, hidden dimensions, and M-theory might provide it."
 image: image.png

@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "A proven plan for financial fitness"
 image: 'image.png'
 author: "Dave Ramsey"
+authors: ["Dave Ramsey"]
 ---
 
 # The Total Money Makeover: A Detailed Summary

@@ -3,6 +3,7 @@ title: "The Life of Samuel Johnson by James Boswell"
 categories: [ "Biographies" ]
 description: "Classic biography of the English writer and lexicographer, considered one of the greatest biographies ever written"
 author: "James Boswell"
+authors: ["James Boswell"]
 image: "image.png"
 image_alt: "Samuel Johnson."
 image_caption: >-

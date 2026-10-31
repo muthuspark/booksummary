@@ -3,6 +3,7 @@ title: "Einstein: His Life and Universe by Walter Isaacson"
 categories: [ "Biographies" ]
 description: "Detailed exploration of Einstein's scientific breakthroughs, personal life, and complex personality"
 author: "Walter Isaacson"
+authors: ["Walter Isaacson"]
 image: "image.png"
 image_alt: "Albert Einstein."
 image_caption: >-

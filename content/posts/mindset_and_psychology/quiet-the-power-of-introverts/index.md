@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding and harnessing the strengths of introverts"
 image: 'image.png'
 author: "Susan Cain"
+authors: ["Susan Cain"]
 ---
 
 # Understanding Introversion and Extroversion

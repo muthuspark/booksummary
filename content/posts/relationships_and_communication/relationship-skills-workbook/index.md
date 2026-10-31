@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "Practical exercises for developing deep relationships"
 image: 'image.png'
 author: "Julia B. Colwell"
+authors: ["Julia B. Colwell"]
 ---
 
 ## Understanding Your Attachment Style

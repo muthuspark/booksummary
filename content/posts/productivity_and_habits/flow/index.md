@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The psychology of optimal experience and peak performance"
 image: 'image.png'
 author: "Mihaly Csikszentmihalyi"
+authors: ["Mihaly Csikszentmihalyi"]
 ---
 
 # Flow: The Psychology of Optimal Experience - A Summary

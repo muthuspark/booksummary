@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "Understanding life through universal mythological themes"
 image: 'image.png'
 author: "Joseph Campbell"
+authors: ["Joseph Campbell"]
 ---
 
 # The Hero's Journey: A Framework for Life

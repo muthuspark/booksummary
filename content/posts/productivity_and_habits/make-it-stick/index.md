@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The science of successful learning and habit formation"
 image: 'image.png'
 author: "Peter C. Brown"
+authors: ["Peter C. Brown"]
 ---
 
 # Understanding How Learning Really Works

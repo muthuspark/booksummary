@@ -3,6 +3,7 @@ title: "Beloved by Toni Morrison"
 categories: [ "Greatest Novels" ]
 description: "A powerful ghost story about slavery's impact, based on the true story of Margaret Garner."
 author: "Toni Morrison"
+authors: ["Toni Morrison"]
 image: "image.png"
 ---
 

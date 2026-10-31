@@ -3,6 +3,7 @@ title: "The Red and the Black by Stendhal"
 categories: [ "Greatest Novels" ]
 description: "The rise and fall of Julien Sorel in post-Napoleonic France."
 author: "Stendhal"
+authors: ["Stendhal"]
 image: "image.png"
 ---
 

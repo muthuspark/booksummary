@@ -3,6 +3,7 @@ title: "The Call of the Wild by Jack London"
 categories: [ "Greatest Novels" ]
 description: "A domesticated dog's journey to become a wild animal in the Yukon."
 author: "Jack London"
+authors: ["Jack London"]
 image: "image.png"
 ---
 

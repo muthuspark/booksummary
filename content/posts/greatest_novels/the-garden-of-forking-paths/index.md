@@ -3,6 +3,7 @@ title: "The Garden of Forking Paths by Jorge Luis Borges"
 categories: [ "Greatest Novels" ]
 description: "A collection of philosophical and metaphysical short stories."
 author: "Jorge Luis Borges"
+authors: ["Jorge Luis Borges"]
 image: "image.png"
 ---
 

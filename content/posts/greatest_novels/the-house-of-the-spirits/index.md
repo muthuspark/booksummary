@@ -3,6 +3,7 @@ title: "The House of the Spirits by Isabel Allende"
 categories: [ "Greatest Novels" ]
 description: "Three generations of the Trueba family in Chile."
 author: "Isabel Allende"
+authors: ["Isabel Allende"]
 image: "image.png"
 ---
 

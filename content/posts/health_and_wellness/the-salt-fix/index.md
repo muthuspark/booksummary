@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Why the experts got it all wrong about salt"
 image: 'image.png'
 author: "James DiNicolantonio"
+authors: ["James DiNicolantonio"]
 ---
 
 ## The Salt Fix: A Summary and Actionable Insights

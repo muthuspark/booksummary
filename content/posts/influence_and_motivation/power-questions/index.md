@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "Build relationships, win new business, and influence others"
 image: 'image.png'
 author: "Andrew Sobel and Jerold Panas"
+authors: ["Andrew Sobel", "Jerold Panas"]
 ---
 
 # Understanding the Power of Questions

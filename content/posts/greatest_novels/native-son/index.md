@@ -3,6 +3,7 @@ title: "Native Son by Richard Wright"
 categories: [ "Greatest Novels" ]
 description: "The tragic story of Bigger Thomas in racist 1930s Chicago."
 author: "Richard Wright"
+authors: ["Richard Wright"]
 image: "image.png"
 ---
 

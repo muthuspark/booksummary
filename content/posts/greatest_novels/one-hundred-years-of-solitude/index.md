@@ -3,6 +3,7 @@ title: "One Hundred Years of Solitude by Gabriel García Márquez"
 categories: [ "Greatest Novels" ]
 description: "The multi-generational saga of the Buendía family in the mythical town of Macondo, blending magical realism with Colombian history."
 author: "Gabriel García Márquez"
+authors: ["Gabriel García Márquez"]
 image: "image.png"
 ---
 

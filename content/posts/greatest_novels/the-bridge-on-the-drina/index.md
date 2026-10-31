@@ -3,6 +3,7 @@ title: "The Bridge on the Drina by Ivo Andrić"
 categories: [ "Greatest Novels" ]
 description: "Four centuries of Bosnian history centered around a bridge."
 author: "Ivo Andrić"
+authors: ["Ivo Andrić"]
 image: "image.png"
 ---
 

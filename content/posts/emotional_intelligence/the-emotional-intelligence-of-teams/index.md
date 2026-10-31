@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Understanding and developing the behaviors of successful teams"
 image: 'image.png'
 author: "Vanessa Urch Druskat"
+authors: ["Vanessa Urch Druskat"]
 ---
 
 # Understanding Emotional Intelligence in Teams

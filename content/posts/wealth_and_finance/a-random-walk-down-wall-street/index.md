@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "The time-tested strategy for successful investing"
 image: 'image.png'
 author: "Burton Malkiel"
+authors: ["Burton Malkiel"]
 ---
 
 # The Efficient Market Hypothesis and its Implications

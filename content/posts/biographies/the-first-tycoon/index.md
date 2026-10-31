@@ -3,6 +3,7 @@ title: "The First Tycoon by T.J. Stiles"
 categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography of the railroad magnate who helped create modern capitalism"
 author: "T.J. Stiles"
+authors: ["T.J. Stiles"]
 image: "image.png"
 image_alt: "Cornelius Vanderbilt."
 image_caption: >-

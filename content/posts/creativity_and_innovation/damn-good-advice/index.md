@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "For people with talent who want to succeed"
 image: 'image.png'
 author: "George Lois"
+authors: ["George Lois"]
 ---
 
 ## Damn Good Advice: A Summary

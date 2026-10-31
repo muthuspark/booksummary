@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "Comprehensive guide to building good habits and breaking bad ones through small changes"
 image: 'image.png'
 author: "James Clear"
+authors: ["James Clear"]
 ---
 
 # The Power of Small Habits: An Atomic Approach to Self-Improvement

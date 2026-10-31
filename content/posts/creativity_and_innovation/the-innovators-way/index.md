@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "Essential practices for successful innovation"
 image: 'image.png'
 author: "Peter J. Denning"
+authors: ["Peter J. Denning"]
 ---
 
 ## The Innovator's Way: A Summary

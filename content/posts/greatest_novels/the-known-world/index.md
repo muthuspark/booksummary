@@ -3,6 +3,7 @@ title: "The Known World by Edward P. Jones"
 categories: [ "Greatest Novels" ]
 description: "The story of a black slave owner in antebellum Virginia."
 author: "Edward P. Jones"
+authors: ["Edward P. Jones"]
 image: "image.png"
 ---
 

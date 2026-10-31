@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How to talk to someone when you're mad, hurt, scared, frustrated, insulted, betrayed, or desperate"
 image: 'image.png'
 author: "Harriet Lerner"
+authors: ["Harriet Lerner"]
 ---
 
 ## Understanding the Dance

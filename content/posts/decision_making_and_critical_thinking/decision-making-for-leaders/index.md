@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "The Analytic Hierarchy Process for decisions in a complex world"
 image: 'image.png'
 author: "Thomas L. Saaty"
+authors: ["Thomas L. Saaty"]
 ---
 
 ## Understanding the Analytic Hierarchy Process (AHP)

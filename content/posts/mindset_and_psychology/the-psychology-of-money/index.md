@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Timeless lessons on wealth, greed, and happiness"
 image: 'image.png'
 author: "Morgan Housel"
+authors: ["Morgan Housel"]
 ---
 
 # The Psychology of Money: A Summary

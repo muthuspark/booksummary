@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "A modern take on the classic management method"
 image: 'image.png'
 author: "Ken Blanchard and Spencer Johnson"
+authors: ["Ken Blanchard", "Spencer Johnson"]
 ---
 
 # The Core Principles: One Minute to Greatness

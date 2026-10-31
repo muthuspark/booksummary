@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding and achieving optimal experiences"
 image: 'image.png'
 author: "Mihaly Csikszentmihalyi"
+authors: ["Mihaly Csikszentmihalyi"]
 ---
 
 # Understanding Flow: The Sweet Spot of Engagement

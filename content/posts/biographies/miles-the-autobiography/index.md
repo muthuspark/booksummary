@@ -3,6 +3,7 @@ title: "Miles: The Autobiography by Miles Davis and Quincy Troupe"
 categories: [ "Biographies" ]
 description: "Raw and honest autobiography of the legendary jazz innovator"
 author: "Miles Davis and Quincy Troupe"
+authors: ["Miles Davis", "Quincy Troupe"]
 image: "image.png"
 image_alt: "Miles Davis."
 image_caption: >-

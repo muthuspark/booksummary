@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Everyday applications of neuroscience"
 image: 'image.png'
 author: "Pierce J. Howard"
+authors: ["Pierce J. Howard"]
 ---
 
 ## Understanding Your Brain's Architecture

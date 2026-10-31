@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Classic guide to intelligent stock market investment strategy"
 image: 'image.png'
 author: "Philip Fisher"
+authors: ["Philip Fisher"]
 ---
 
 #  Investing for the Long Haul: A Core Principle

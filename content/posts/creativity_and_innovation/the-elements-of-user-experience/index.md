@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "User-centered design for the web and beyond"
 image: 'image.png'
 author: "Jesse James Garrett"
+authors: ["Jesse James Garrett"]
 ---
 
 # The Five Planes of User Experience

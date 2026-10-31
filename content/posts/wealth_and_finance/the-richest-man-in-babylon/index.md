@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Classic parables about building wealth through saving and investing"
 image: 'image.png'
 author: "George S. Clason"
+authors: ["George S. Clason"]
 ---
 
 # The Richest Man in Babylon: A Summary and Actionable Insights

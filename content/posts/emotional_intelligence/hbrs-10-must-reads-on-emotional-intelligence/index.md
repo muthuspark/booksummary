@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Essential reading on emotional intelligence in business"
 image: 'image.png'
 author: "Harvard Business Review"
+authors: ["Harvard Business Review"]
 ---
 
 ## Understanding Emotional Intelligence: A Foundation

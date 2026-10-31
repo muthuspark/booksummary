@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "An innovative method for presenting, persuading, and winning"
 image: 'image.png'
 author: "Oren Klaff"
+authors: ["Oren Klaff"]
 ---
 
 # Understanding the "Pitch" in "Pitch Anything"

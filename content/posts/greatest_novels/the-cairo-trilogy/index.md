@@ -3,6 +3,7 @@ title: "The Cairo Trilogy by Naguib Mahfouz"
 categories: [ "Greatest Novels" ]
 description: "Three generations of a Cairo family through Egypt's modernization."
 author: "Naguib Mahfouz"
+authors: ["Naguib Mahfouz"]
 image: "image.png"
 ---
 

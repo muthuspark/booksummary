@@ -3,6 +3,7 @@ title: "The Life and Death of Colonel Blimp by A.L. Kennedy"
 categories: [ "Biographies" ]
 description: "A. L. Kennedy’s BFI Film Classics study of Powell and Pressburger’s film, honour, and national identity"
 author: "A.L. Kennedy"
+authors: ["A.L. Kennedy"]
 image: "image.png"
 image_alt: "A. L. Kennedy, author of the BFI Film Classics study."
 image_caption: >-

@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "A practical guide to making better decisions using a systematic approach"
 image: 'image.png'
 author: "John S. Hammond, Ralph L. Keeney, and Howard Raiffa"
+authors: ["John S. Hammond", "Ralph L. Keeney", "Howard Raiffa"]
 ---
 
 ## Smart Choices: A Summary

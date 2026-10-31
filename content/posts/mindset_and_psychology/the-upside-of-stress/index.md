@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Why stress is good for you"
 image: 'image.png'
 author: "Kelly McGonigal"
+authors: ["Kelly McGonigal"]
 ---
 
 # Reframing Stress: From Enemy to Ally

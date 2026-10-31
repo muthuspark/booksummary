@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Eat smart, feel strong, perform better"
 image: 'image.png'
 author: "James Collins"
+authors: ["James Collins"]
 ---
 
 There is no known book titled "The Energy Plan" by an author named James Collins.  James Collins is known for books like "Good to Great" and "Built to Last," which focus on business management and organizational success.  Therefore, a summary of a non-existent book cannot be provided.

@@ -1,6 +1,7 @@
 ---
 title: "A Pattern Language by Christopher Alexander, Sara Ishikawa, and Murray Silverstein"
 author: "Christopher Alexander, Sara Ishikawa, and Murray Silverstein"
+authors: ["Christopher Alexander", "Sara Ishikawa", "Murray Silverstein"]
 categories: ["Architecture and Urban Planning"]
 description: "How 253 connected design patterns help people shape livable neighborhoods, buildings, and rooms—and how to use them critically."
 image: "image.png"

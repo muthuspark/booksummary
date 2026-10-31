@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "Lose the wheat, lose the weight, and find your path back to health"
 image: 'image.png'
 author: "William Davis"
+authors: ["William Davis"]
 ---
 
 ## Wheat Belly: A Summary

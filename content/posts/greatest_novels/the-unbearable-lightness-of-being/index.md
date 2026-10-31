@@ -3,6 +3,7 @@ title: "The Unbearable Lightness of Being by Milan Kundera"
 categories: [ "Greatest Novels" ]
 description: "Love and politics in Prague during the Soviet invasion."
 author: "Milan Kundera"
+authors: ["Milan Kundera"]
 image: "image.png"
 ---
 

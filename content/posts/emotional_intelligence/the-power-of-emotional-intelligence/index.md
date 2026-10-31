@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "How to succeed in leadership with EQ"
 image: 'image.png'
 author: "Roger Reece"
+authors: ["Roger Reece"]
 ---
 
 There is no known book titled "The Power of Emotional Intelligence" authored by someone named "Roger Reece."  The most prominent and influential book on emotional intelligence is Daniel Goleman's "Emotional Intelligence."  Therefore, this response will summarize the key concepts and advice from Daniel Goleman's *Emotional Intelligence*, offering key advice, strategies, and actionable insights.  The structure will follow the request using markdown headers and diagrams where appropriate.

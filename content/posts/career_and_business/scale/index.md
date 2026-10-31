@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "The universal laws of growth, innovation, sustainability, and the pace of life"
 image: 'image.png'
 author: "Geoffrey West"
+authors: ["Geoffrey West"]
 ---
 
 ## Scale: Unveiling the Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life

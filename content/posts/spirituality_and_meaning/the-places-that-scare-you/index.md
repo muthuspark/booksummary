@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A guide to fearlessness in difficult times"
 image: 'image.png'
 author: "Pema Chodron"
+authors: ["Pema Chodron"]
 ---
 
 ## Embracing Fear: The Core Message of "The Places That Scare You"

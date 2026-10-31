@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "A personal results system for work and life"
 image: 'image.png'
 author: "J.D. Meier"
+authors: ["J.D. Meier"]
 ---
 
 ## Understanding Agile Principles for Personal Life

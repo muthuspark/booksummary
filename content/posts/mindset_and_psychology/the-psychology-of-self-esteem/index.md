@@ -4,6 +4,7 @@ categories: [ "Mindset And Psychology" ]
 description: "Understanding and developing healthy self-esteem"
 image: 'image.png'
 author: "Nathaniel Branden"
+authors: ["Nathaniel Branden"]
 ---
 
 ## The Psychology of Self-Esteem: A Summary and Actionable Insights

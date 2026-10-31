@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "How we look without seeing, forget things in seconds, and are all pretty sure we are way above average"
 image: 'image.png'
 author: "Joseph T. Hallinan"
+authors: ["Joseph T. Hallinan"]
 ---
 
 # Understanding the Nature of Mistakes

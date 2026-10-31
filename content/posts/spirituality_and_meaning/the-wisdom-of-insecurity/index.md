@@ -4,6 +4,7 @@ categories: [ "Spirituality And Meaning" ]
 description: "A message for an age of anxiety"
 image: 'image.png'
 author: "Alan Watts"
+authors: ["Alan Watts"]
 ---
 
 ## Transcending the Illusion of Self

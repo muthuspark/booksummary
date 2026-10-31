@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "How one man wiped out his debts and achieved the life of his dreams"
 image: 'image.png'
 author: "Trent A. Hamm"
+authors: ["Trent A. Hamm"]
 ---
 
 # Understanding Your Finances: The Foundation

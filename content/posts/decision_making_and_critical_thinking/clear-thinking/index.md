@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "Turning ordinary moments into extraordinary outcomes"
 image: 'image.png'
 author: "Jared Horvath"
+authors: ["Jared Horvath"]
 ---
 
 ## Clear Thinking: A Summary

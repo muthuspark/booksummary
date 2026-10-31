@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "How to release your trapped emotions for abundant health"
 image: 'image.png'
 author: "Dr. Bradley Nelson"
+authors: ["Dr. Bradley Nelson"]
 ---
 
 ## The Emotion Code: A Summary

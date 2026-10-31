@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "The fine print to becoming an accountable leader"
 image: 'image.png'
 author: "Vince Molinaro"
+authors: ["Vince Molinaro"]
 ---
 
 # Understanding the Leadership Contract

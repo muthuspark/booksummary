@@ -165,3 +165,9 @@ pre, code, kbd, samp { font-family: var(--font-family-code); }
   text-decoration-color: oklch(64% .008 65);
 }
 .article-body .photo-figure figcaption a:hover { text-decoration-color: currentColor; }
+
+/* Author credits are discoverable links within the existing quiet metadata. */
+.author-links a { text-decoration: underline; text-decoration-thickness: .06em; text-underline-offset: .18em; overflow-wrap: anywhere; }
+.author-links a:focus-visible, .author-directory a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+.author-directory .term-name { overflow-wrap: anywhere; }
+.author-directory .muted { flex-shrink: 0; }

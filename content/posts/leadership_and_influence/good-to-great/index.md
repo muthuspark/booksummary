@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Why some companies make the leap and others don't"
 image: 'image.png'
 author: "Jim Collins"
+authors: ["Jim Collins"]
 ---
 
 ## Good to Great: A Summary and Actionable Insights

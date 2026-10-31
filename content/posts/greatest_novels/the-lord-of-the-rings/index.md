@@ -3,6 +3,7 @@ title: "The Lord of the Rings by J.R.R. Tolkien"
 categories: [ "Greatest Novels" ]
 description: "An epic fantasy trilogy about the quest to destroy the One Ring and defeat the Dark Lord Sauron."
 author: "J.R.R. Tolkien"
+authors: ["J.R.R. Tolkien"]
 image: "image.png"
 ---
 

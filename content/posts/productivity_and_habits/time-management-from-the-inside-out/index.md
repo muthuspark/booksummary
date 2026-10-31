@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "The foolproof system for taking control of your schedule"
 image: 'image.png'
 author: "Julie Morgenstern"
+authors: ["Julie Morgenstern"]
 ---
 
 # Understanding Your Time Personality

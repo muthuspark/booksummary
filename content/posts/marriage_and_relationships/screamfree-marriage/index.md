@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Calming down, growing up, and getting closer in relationships"
 image: 'image.png'
 author: "Hal Edward Runkel"
+authors: ["Hal Edward Runkel"]
 ---
 
 # Understanding the ScreamFree Approach

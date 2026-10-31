@@ -4,6 +4,7 @@ categories: [ "Marriage And Relationships" ]
 description: "Creating true oneness to transform your marriage"
 image: 'image.png'
 author: "Larry Crabb"
+authors: ["Larry Crabb"]
 ---
 
 ## Understanding the Brokenness Within

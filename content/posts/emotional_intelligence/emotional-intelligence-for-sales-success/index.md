@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Connect with customers and get results"
 image: 'image.png'
 author: "Colleen Stanley"
+authors: ["Colleen Stanley"]
 ---
 
 # Understanding Emotional Intelligence in Sales

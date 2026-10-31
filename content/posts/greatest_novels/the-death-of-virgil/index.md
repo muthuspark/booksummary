@@ -3,6 +3,7 @@ title: "The Death of Virgil by Hermann Broch"
 categories: [ "Greatest Novels" ]
 description: "The last hours of the Roman poet Virgil's life."
 author: "Hermann Broch"
+authors: ["Hermann Broch"]
 image: "image.png"
 ---
 

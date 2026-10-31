@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Proven advice for smart investing"
 image: 'image.png'
 author: "Andrew Tobias"
+authors: ["Andrew Tobias"]
 ---
 
 ## Understanding Your Financial Situation

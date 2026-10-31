@@ -3,6 +3,7 @@ title: "The Age of Innocence by Edith Wharton"
 categories: [ "Greatest Novels" ]
 description: "A portrait of desire and betrayal in Gilded Age New York society."
 author: "Edith Wharton"
+authors: ["Edith Wharton"]
 image: "image.png"
 ---
 

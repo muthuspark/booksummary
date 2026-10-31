@@ -4,6 +4,7 @@ categories: [ "Emotional Intelligence" ]
 description: "Participant workbook"
 image: 'image.png'
 author: "Steven J. Stein"
+authors: ["Steven J. Stein"]
 ---
 
 ## Understanding Emotional Intelligence

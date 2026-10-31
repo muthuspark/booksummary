@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "Principles and techniques of value investing"
 image: 'image.png'
 author: "Benjamin Graham and David Dodd"
+authors: ["Benjamin Graham", "David Dodd"]
 ---
 
 # Introduction: The Foundation of Value Investing

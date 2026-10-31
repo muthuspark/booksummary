@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "How to discuss what matters most"
 image: 'image.png'
 author: "Douglas Stone, Bruce Patton, Sheila Heen"
+authors: ["Douglas Stone", "Bruce Patton", "Sheila Heen"]
 ---
 
 # Understanding the Problem:  The Three Conversations

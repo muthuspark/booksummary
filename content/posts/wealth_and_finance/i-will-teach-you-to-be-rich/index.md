@@ -4,6 +4,7 @@ categories: [ "Wealth And Finance" ]
 description: "No guilt. No excuses. No BS. Just a 6-week program that works"
 image: 'image.png'
 author: "Ramit Sethi"
+authors: ["Ramit Sethi"]
 ---
 
 # Introduction: A Six-Week Program to Financial Freedom

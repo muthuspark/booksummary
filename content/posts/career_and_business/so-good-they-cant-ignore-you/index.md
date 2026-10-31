@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "Why skills trump passion in the quest for work you love"
 image: 'image.png'
 author: "Cal Newport"
+authors: ["Cal Newport"]
 ---
 
 # The Myth of Passion: Finding Your Calling Through Deliberate Practice

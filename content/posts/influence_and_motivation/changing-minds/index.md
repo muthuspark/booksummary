@@ -4,6 +4,7 @@ categories: [ "Influence And Motivation" ]
 description: "The art and science of changing our own and other people's minds"
 image: 'image.png'
 author: "Howard Gardner"
+authors: ["Howard Gardner"]
 ---
 
 ## Understanding Disciplines of Mind

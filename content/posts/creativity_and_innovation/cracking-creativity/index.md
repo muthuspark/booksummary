@@ -4,6 +4,7 @@ categories: [ "Creativity And Innovation" ]
 description: "The secrets of creative genius"
 image: 'image.png'
 author: "Michael Michalko"
+authors: ["Michael Michalko"]
 ---
 
 # Unleashing Your Creative Potential: A Summary of "Cracking Creativity"

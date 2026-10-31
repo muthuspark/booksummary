@@ -3,6 +3,7 @@ title: "Marie Curie: A Life by Susan Quinn"
 categories: [ "Biographies" ]
 description: "Marie Curie’s research into radioactivity, discovery of polonium and radium, and life as a scientist"
 author: "Susan Quinn"
+authors: ["Susan Quinn"]
 image: "image.png"
 image_alt: "Marie Curie."
 image_caption: >-

@@ -3,6 +3,7 @@ title: "The Three Emperors by Miranda Carter"
 categories: [ "Biographies" ]
 description: "George V, Wilhelm II, and Nicholas II: royal cousins and Europe’s road to the First World War"
 author: "Miranda Carter"
+authors: ["Miranda Carter"]
 image: "image.png"
 image_alt: "George V, one of the three royal cousins in Miranda Carter’s joint biography."
 image_caption: >-

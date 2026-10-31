@@ -4,6 +4,7 @@ categories: [ "Leadership And Influence" ]
 description: "Why certain experiences have extraordinary impact"
 image: 'image.png'
 author: "Chip Heath and Dan Heath"
+authors: ["Chip Heath", "Dan Heath"]
 ---
 
 ## Defining Peak Moments

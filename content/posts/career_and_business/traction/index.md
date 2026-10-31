@@ -4,6 +4,7 @@ categories: [ "Career And Business" ]
 description: "How any startup can achieve explosive customer growth"
 image: 'image.png'
 author: "Gabriel Weinberg and Justin Mares"
+authors: ["Gabriel Weinberg", "Justin Mares"]
 ---
 
 # Traction: The Key to Startup Success

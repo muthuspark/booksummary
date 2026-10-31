@@ -4,6 +4,7 @@ categories: [ "Relationships And Communication" ]
 description: "An ex-FBI agent's guide to speed-reading people"
 image: 'image.png'
 author: "Joe Navarro"
+authors: ["Joe Navarro"]
 ---
 
 # Understanding Nonverbal Communication: The Core of "What Every Body Is Saying"

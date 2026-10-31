@@ -4,6 +4,7 @@ categories: [ "Health And Wellness" ]
 description: "The bulletproof plan to activate untapped brain energy"
 image: 'image.png'
 author: "Dave Asprey"
+authors: ["Dave Asprey"]
 ---
 
 # Head Strong: A Summary of Dave Asprey's Guide to Optimize Your Brain and Body

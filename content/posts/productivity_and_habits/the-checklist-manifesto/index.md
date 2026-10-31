@@ -4,6 +4,7 @@ categories: [ "Productivity And Habits" ]
 description: "How to get things right using the power of checklists"
 image: 'image.png'
 author: "Atul Gawande"
+authors: ["Atul Gawande"]
 ---
 
 ## The Power of Checklists: A Summary of "The Checklist Manifesto"

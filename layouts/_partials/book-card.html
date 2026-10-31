@@ -6,6 +6,6 @@
   <div class="book-details">
     {{ if .category }}<h2 class="book-title"><a href="{{ $book.RelPermalink }}">{{ $title }}</a></h2>{{ else }}<h3 class="book-title"><a href="{{ $book.RelPermalink }}">{{ $title }}</a></h3>{{ end }}
     <p class="book-description">{{ $book.Description }}</p>
-    <p class="muted book-meta">{{ $book.Params.author }} · <span class="reading-time">{{ $book.ReadingTime }} min read</span></p>
+    <p class="muted book-meta">{{ partial "author-links.html" $book }} · <span class="reading-time">{{ $book.ReadingTime }} min read</span></p>
   </div>
 </article>

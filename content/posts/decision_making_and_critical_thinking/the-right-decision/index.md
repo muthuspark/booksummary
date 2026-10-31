@@ -4,6 +4,7 @@ categories: [ "Decision Making And Critical Thinking" ]
 description: "A mathematician reveals how the secrets of decision theory"
 image: 'image.png'
 author: "James Stein"
+authors: ["James Stein"]
 ---
 
 There is no known book titled "The Right Decision" by an author named James Stein.  It's possible there's a misspelling in the title or author's name, or the book is very obscure.  Therefore, I cannot provide a summary based on this specific book.
