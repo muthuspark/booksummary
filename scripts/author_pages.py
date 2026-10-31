@@ -152,9 +152,22 @@ def verify_author_pages(root, output):
     if not directory_file.is_file():
         return ['Missing Authors directory: ' + str(directory_file)]
     directory = read_page(directory_file)
-    lists = directory.find('ul', 'author-directory')
+    lists = directory.find('div', 'author-directory')
     if len(lists) != 1:
-        return ['Expected one author-directory list in ' + str(directory_file)]
+        return ['Expected one author-directory container in ' + str(directory_file)]
+    groups = lists[0].find('section', 'author-group')
+    jumps = directory.find('nav', 'author-alphabet')
+    heading_ids = [h.attrs.get('id') for group in groups for h in group.find('h2')]
+    require(bool(groups) and len(heading_ids) == len(groups), 'Missing author letter headings')
+    require(len(heading_ids) == len(set(heading_ids)), 'Duplicate author letter heading IDs')
+    require(len(jumps) == 1 and [a.attrs.get('href') for a in jumps[0].find('a')] == ['#' + value for value in heading_ids], 'Author letter navigation does not match sections')
+    for group in groups:
+        headings = group.find('h2')
+        names = group.find('span', 'term-name')
+        require(bool(headings) and all(name.text[0].upper() == headings[0].text for name in names), 'Author in the wrong letter section')
+    searches = directory.find('input', id='author-query')
+    require(len(searches) == 1 and searches[0].attrs.get('type') == 'search', 'Missing author search input')
+    require(bool(directory.find('label', **{'for': 'author-query'})), 'Missing author search label')
     author_routes = {}
     route_names = {}
     order = []

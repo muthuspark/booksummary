@@ -103,6 +103,8 @@ flowchart LR
 6. Update writing automation, its fixtures, and README author examples. Check: valid solo/coauthored additions pass; missing or malformed authors fail before progress/publishing.
 7. Run the focused tests, existing automation tests, and complete production build/verifier; inspect keyboard/mobile/desktop/no-JavaScript examples and review the generated diff. Check: all acceptance criteria have evidence and only intended changes remain; record deviations without publishing.
 
+8. Improve the author directory with name filtering, static letter landmarks/jumps, compact responsive rows, and polished links/title. Verify all search states, Back restoration, keyboard use, enlarged text and no-JavaScript fallback against AC-009.
+
 ## Verification Steps
 
 <!-- Format: Use ordered or bulleted checks. Reference spec acceptance IDs where applicable. -->
@@ -170,3 +172,11 @@ Evidence: T14: Eleven isolated writer tests passed; new solo/coauthored fixture 
 Evidence: T15: 390px/1280px and enlarged-text browser checks passed with JavaScript disabled, visible keyboard focus and working links.
 
 Evidence: T17 (reconciled from original T16 after updating the verification wording): msdd review passed, git diff --check passed, and all implementation/acceptance evidence is recorded.
+
+10. AC-009: Check partial/case/accent-insensitive first and last name filtering, result announcements, clear/no-results behavior, Back query restoration, keyboard letter jumps, compact 44px rows at 320/390/768/1280px, 200% text, and full static access with JavaScript disabled.
+
+Evidence: Follow-up direction: the user requested every critique issue fixed. Added layouts/_partials/author-directory.html with labelled, progressively enhanced search, static letter sections/jump links, live result counts and clear/no-results states. assets/js/authors.js filters existing DOM rows by case/accent-insensitive partial name; no requests or dependencies. A dedicated compact author-list replaces inherited category spacing, preserves 44px targets and brings counts closer. Directory title capitalization, native link affordance, and minimum RSS navigation width were polished. Category directories retain their existing layout. Source verifier and static fixture now check headings, letter membership, navigation targets, and labelled search; browser verification covers AC-009.
+
+Evidence: Follow-up AC-009 / T16 / T18: seven focused author tests pass. Final generated-site verification passes for 839 summaries and 2,516 HTML pages. Playwright Chromium passes at 320/390/768/1280px: partial and surname lookup, case/accent matching, result counts, clear and no-results states, safe special-character queries, visible keyboard focus and letter heading jumps, Back-restored query/results, 200% text sizing and no horizontal overflow. JavaScript-disabled browsing retains all 779 authors and native letter jumps. No browser errors observed. Mobile author links are 44px tall (previously 88px); 390px document height is 36,488px (previously 81,513px). Final desktop/mobile screenshots were inspected at /tmp/authors-improved-*.png.
+
+Evidence: A browser check caught lost search on Back; assets/js/authors.js now stores the query in the current history entry and restores on pageshow. During final checks a concurrent regeneration invalidated an in-flight verifier's file list; verification was rerun after generation completed and passed. msdd review and git diff --check pass. No publish/commit/push operation was run.

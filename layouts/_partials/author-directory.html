@@ -1,0 +1,39 @@
+{{- $terms := .Data.Terms.Alphabetical -}}
+{{- $groups := dict -}}
+{{- $letters := slice -}}
+{{- range $terms -}}
+  {{- $letter := upper (substr .Page.Title 0 1) -}}
+  {{- if not (isset $groups $letter) }}{{ $letters = $letters | append $letter }}{{ end -}}
+  {{- $group := index $groups $letter | default slice -}}
+  {{- $groups = merge $groups (dict $letter ($group | append .)) -}}
+{{- end -}}
+<div class="author-index" data-author-index>
+  <p class="muted author-index-intro">Solo and coauthored books summarized on this site.</p>
+  <form class="author-search" role="search" aria-label="Find an author" hidden>
+    <label for="author-query">Find an author</label>
+    <div class="author-search-controls">
+      <input id="author-query" type="search" placeholder="First or last name" autocomplete="off" aria-controls="author-directory" aria-describedby="author-results">
+      <button type="button" data-clear-authors disabled>Clear</button>
+    </div>
+  </form>
+  <p id="author-results" class="muted author-results" role="status" aria-live="polite" aria-atomic="true" data-total="{{ len $terms }}">{{ len $terms }} authors · A–Z by displayed name</p>
+  <nav class="author-alphabet" aria-label="Jump to letter">
+    {{ range $letters }}<a href="#authors-{{ . | anchorize }}">{{ . }}</a>{{ end }}
+  </nav>
+  <p class="author-empty" hidden>No authors found. Try part of a first or last name, or clear your search.</p>
+  <div id="author-directory" class="author-directory">
+    {{ range $letters }}
+      {{ $letter := . }}
+      <section class="author-group" aria-labelledby="authors-{{ $letter | anchorize }}">
+        <h2 id="authors-{{ $letter | anchorize }}" tabindex="-1">{{ $letter }}</h2>
+        <ul class="author-list">
+          {{ range index $groups $letter }}
+          <li><a href="{{ .Page.RelPermalink }}"><span class="term-name">{{ .Page.Title }}</span><span class="muted">{{ .Count }} {{ if eq .Count 1 }}summary{{ else }}summaries{{ end }}</span></a></li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </div>
+</div>
+{{ $script := resources.Get "js/authors.js" | minify | fingerprint }}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" crossorigin="anonymous" defer></script>

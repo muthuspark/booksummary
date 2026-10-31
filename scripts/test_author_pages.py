@@ -7,7 +7,7 @@ import subprocess
 import tempfile
 import unittest
 
-from author_pages import author_names, source_credits, verify_author_pages
+from author_pages import author_names, source_credits, verify_author_pages, read_page
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -83,6 +83,18 @@ class HugoAuthorTest(unittest.TestCase):
         self.assertIn('>Art Bennett</a> and ', first)
         special = (self.output / 'posts/topic-1/book-01/index.html').read_text()
         self.assertIn('A &amp; B &lt;C&gt;', special)
+
+    def test_directory_has_static_letter_sections_and_progressive_search(self):
+        page = read_page(self.output / 'authors/index.html')
+        groups = page.find('section', 'author-group')
+        headings = [g.find('h2')[0] for g in groups]
+        jumps = page.find('nav', 'author-alphabet')[0].find('a')
+        self.assertEqual([h.text for h in headings], ['A', 'J', 'L', 'M'])
+        self.assertEqual([a.attrs['href'] for a in jumps], ['#' + h.attrs['id'] for h in headings])
+        self.assertTrue(all('hidden' not in g.attrs for g in groups))
+        self.assertIn('hidden', page.find('form', 'author-search')[0].attrs)
+        self.assertEqual(page.find('title')[0].text, 'Authors | Book Summaries')
+        self.assertEqual(page.find('input', id='author-query')[0].attrs['type'], 'search')
 
     def test_wrong_membership_count_and_links_are_detected(self):
         path = self.output / 'authors/main-author/index.html'

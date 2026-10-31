@@ -169,5 +169,29 @@ pre, code, kbd, samp { font-family: var(--font-family-code); }
 /* Author credits are discoverable links within the existing quiet metadata. */
 .author-links a { text-decoration: underline; text-decoration-thickness: .06em; text-underline-offset: .18em; overflow-wrap: anywhere; }
 .author-links a:focus-visible, .author-directory a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
-.author-directory .term-name { overflow-wrap: anywhere; }
-.author-directory .muted { flex-shrink: 0; }
+
+/* An author index needs compact rows and landmarks, unlike article prose. */
+.author-index { max-width: 34rem; }
+.author-index-intro { margin: 0 0 1.5rem; }
+.author-search { margin: 0 0 .75rem; }
+.author-search label { display: block; margin-bottom: .375rem; }
+.author-search-controls { display: flex; gap: .5rem; }
+.author-search input { min-width: 0; width: 100%; flex: 1; font-size: 1rem; }
+.author-search button { flex-shrink: 0; }
+.author-search button:disabled { color: var(--color-text-muted); cursor: default; }
+.author-results { margin: .75rem 0; font-size: 1rem; }
+.author-alphabet { display: flex; flex-wrap: wrap; gap: 0; margin: 0 0 1.5rem; }
+.author-alphabet a { display: inline-flex; align-items: center; justify-content: center; width: var(--target-size); min-height: var(--target-size); margin: 0; padding: .25rem; }
+.author-alphabet a:hover { background: var(--color-bg-secondary); }
+.author-alphabet a:focus-visible, .author-search :focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+.author-group { margin: 0 0 1.5rem; }
+.author-group h2 { margin: 0 0 .5rem; font-size: var(--heading-small); scroll-margin-top: 1rem; }
+.author-group h2:focus { outline: 2px solid currentColor; outline-offset: 3px; }
+.author-list { list-style: none; margin: 0; padding: 0; }
+.author-list li, .author-list li + li { margin: 0; }
+.author-list a { display: flex; align-items: baseline; justify-content: space-between; gap: .75rem; min-height: var(--target-size); width: 100%; margin: 0; padding: .625rem 0; line-height: 1.5; }
+.author-list .term-name { min-width: 0; overflow-wrap: anywhere; text-decoration: underline; text-decoration-thickness: .06em; text-underline-offset: .18em; }
+.author-list .muted { flex-shrink: 0; font-size: .9375rem; white-space: nowrap; }
+.site-menu a { min-width: var(--target-size); justify-content: center; }
+
+@media (max-width: 600px) { .site-menu { column-gap: .5rem; } }

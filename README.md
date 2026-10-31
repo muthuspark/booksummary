@@ -189,9 +189,12 @@ python3 scripts/test_write_random_summary.py
 Browse summaries using the category links and page navigation. Author names in
 summary headers and book cards open catalogs of their solo and coauthored books
 across categories. The Authors navigation link opens an alphabetical directory
-with counts. Catalogs include summaries available on this site, not external
-bibliographies. Search controls
-are not displayed, and the browser search scripts are not loaded.
+with counts, letter sections, and A–Z jump links. The directory also provides a
+name filter when JavaScript is available; it matches any part of a name without
+requiring matching case or accents. All entries and letter jumps remain available
+without JavaScript. Catalogs include summaries available on this site, not external
+bibliographies. Book-catalog search controls
+are not displayed, and the book search scripts are not loaded.
 
 Hugo creates 80px and 160px WebP thumbnails for listings and search results. Original
 images remain available in each article bundle. Homepage counts are derived from

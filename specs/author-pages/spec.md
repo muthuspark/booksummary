@@ -39,6 +39,7 @@ Author names currently appear as plain text, so a reader who enjoys a book canno
 - REQ-005: /authors/ lists authors alphabetically with accurate summary counts. Site navigation includes Authors.
 - REQ-006: New summaries participate without manually maintaining author directory pages.
 - REQ-007: Author pages remain usable without client-side JavaScript and fit the existing responsive site presentation.
+- REQ-008: The author directory provides a labelled name filter with live result counts, clear and no-results states, plus letter headings and jump links. Matching ignores case and accents and accepts any part of a name. All authors and letter navigation remain available without JavaScript. Rows remain compact, readable, and keyboard accessible across screen sizes.
 
 ## User/System Flows
 
@@ -92,6 +93,7 @@ Author names currently appear as plain text, so a reader who enjoys a book canno
 - AC-006: Initials, punctuation, diacritics, shared-surname coauthors, duplicate credits, malformed attribution, and slug collisions are covered by migration review or focused verification. Invalid data fails verification with an actionable source reference.
 - AC-007: New solo and coauthored summaries created through the documented and automated writing paths supply valid author attribution and appear under every credited author; verify automation tests and build fixtures.
 - AC-008: Author links, directory, and catalogs work without JavaScript; keyboard focus remains visible and layouts are readable on mobile and desktop; verify representative pages.
+- AC-009: Verify author-name filtering by first/last/partial name, case and accents, clearing, no results, letter heading jumps, compact touch targets, enlarged text, and full directory access without JavaScript.
 
 ## Explanation and Output Artifacts
 

@@ -1,5 +1,8 @@
 {{ define "main" }}
 <h1>Browse by {{ if eq .Data.Plural "authors" }}author{{ else }}category{{ end }}</h1>
-{{ if eq .Data.Plural "authors" }}<p class="muted">Find books by author, including coauthored titles. Counts include summaries available on this site.</p>{{ end }}
-<ul class="category-directory{{ if eq .Data.Plural "authors" }} author-directory{{ end }}">{{ range .Data.Terms.Alphabetical }}<li><a href="{{ .Page.RelPermalink }}"><span class="term-name">{{ .Page.Title }}</span> <span class="muted">{{ .Count }} {{ if eq .Count 1 }}summary{{ else }}summaries{{ end }}</span></a></li>{{ end }}</ul>
+{{ if eq .Data.Plural "authors" }}
+  {{ partial "author-directory.html" . }}
+{{ else }}
+  <ul class="category-directory">{{ range .Data.Terms.Alphabetical }}<li><a href="{{ .Page.RelPermalink }}"><span class="term-name">{{ .Page.Title }}</span> <span class="muted">{{ .Count }} {{ if eq .Count 1 }}summary{{ else }}summaries{{ end }}</span></a></li>{{ end }}</ul>
+{{ end }}
 {{ end }}

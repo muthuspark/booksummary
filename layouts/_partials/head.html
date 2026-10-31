@@ -8,6 +8,7 @@
 {{ if and (eq .Kind "term") (eq .Data.Plural "authors") }}
   {{ $description = printf "Explore %d book summaries by %s, including coauthored titles available on this site." (len .RegularPages) .Title }}
 {{ else if and (eq .Kind "taxonomy") (eq .Data.Plural "authors") }}
+  {{ $title = printf "Authors | %s" site.Title }}
   {{ $description = "Browse book summaries by author. Find solo and coauthored titles with summary counts for every author." }}
 {{ end }}
 {{ $image := "logo.png" | absURL }}
