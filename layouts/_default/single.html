@@ -6,7 +6,13 @@
 <p>{{ .Description }}</p>
 </header>
 <article class="article-body">
-{{ if not (strings.Contains .RawContent "![](./image.png)") }}{{ with .Resources.GetMatch (.Params.image | default "image.png") }}<img class="heroimage" src="{{ .RelPermalink }}" alt="Illustration for {{ $.Title }}" width="{{ .Width }}" height="{{ .Height }}" fetchpriority="high" decoding="async">{{ end }}{{ end }}
+{{ if not (strings.Contains .RawContent "![](./image.png)") }}
+{{ with .Resources.GetMatch (.Params.image | default "image.png") }}
+{{ with $.Params.image_caption }}<figure class="photo-figure hero-figure">{{ end }}
+<img class="heroimage" src="{{ .RelPermalink }}" alt="{{ $.Params.image_alt | default (printf "Illustration for %s" $.Title) }}" width="{{ .Width }}" height="{{ .Height }}" fetchpriority="high" decoding="async">
+{{ with $.Params.image_caption }}<figcaption>{{ . | safeHTML }}</figcaption></figure>{{ end }}
+{{ end }}
+{{ end }}
 {{ .Content }}
 </article>
 {{ with .GetTerms "categories" }}

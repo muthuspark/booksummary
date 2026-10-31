@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **838**.
+Total books summarized: **839**.
 
-Books planned: **92**. Total tracked: **930**.
+Books planned: **91**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (92)
+## Books to Summarize (91)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -994,7 +994,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 - [ ] Because Internet by Gretchen McCulloch
 - [ ] The Language Instinct by Steven Pinker
 - [ ] The Power of Babel by John H. McWhorter
-- [ ] The Unfolding of Language by Guy Deutscher
+- [x] [The Unfolding of Language by Guy Deutscher](content/posts/language_and_linguistics/the-unfolding-of-language/index.md)
 - [ ] Through the Language Glass by Guy Deutscher
 
 ### Education and Learning (5)

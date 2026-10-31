@@ -146,3 +146,22 @@ pre, code, kbd, samp { font-family: var(--font-family-code); }
 .article-body .diagram-preview { display: block; }
 .article-body .diagram-image img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
 .diagram-image figcaption { margin-top: .5rem; text-align: right; }
+
+/* Photo credits stay attached to their image and subordinate to the reading text. */
+.article-body .photo-figure { margin: 1.75em 0; }
+.article-body .photo-figure img { display: block; margin: 0; }
+.article-body .photo-figure figcaption {
+  margin-top: .65rem;
+  color: oklch(46% .008 65);
+  font-size: var(--text-secondary);
+  font-weight: 400;
+  line-height: 1.45;
+  text-align: left;
+  text-wrap: pretty;
+  overflow-wrap: anywhere;
+}
+.article-body .photo-figure figcaption a {
+  color: inherit;
+  text-decoration-color: oklch(64% .008 65);
+}
+.article-body .photo-figure figcaption a:hover { text-decoration-color: currentColor; }

@@ -1,7 +1,7 @@
 ---
 title: "Marie Curie: A Life by Susan Quinn"
 categories: [ "Biographies" ]
-description: "Biography of the pioneering scientist who discovered radioactivity and became the first woman to win a Nobel Prize"
+description: "Biography of the pioneering scientist who pioneered research into radioactivity and became the first woman to win a Nobel Prize"
 author: "Susan Quinn"
 image: "image.png"
 ---
