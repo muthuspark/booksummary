@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Two-volume biography of the poet laureate of the Harlem Renaissance"
 author: "Arnold Rampersad"
 image: "image.png"
+image_alt: "Langston Hughes."
+image_caption: >-
+  Langston Hughes. <a href="https://commons.wikimedia.org/wiki/File:Langston_Hughes_by_Carl_Van_Vechten_Trim.jpg">Carl Van Vechten, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Arnold Rampersad's monumental biography, "The Life of Langston Hughes," offers a richly detailed and nuanced portrait of one of the most significant figures in 20th-century American literature.  More than a simple chronological account, Rampersad’s work delves deep into Hughes's complex personality, his creative evolution, and the profound impact he had on American culture, especially regarding the representation of Black life and experience.  The biography paints a vivid picture of a man whose life, though marked by both triumphs and struggles, was consistently driven by a fierce commitment to his art and a deep-seated belief in the power of literature to effect social change.

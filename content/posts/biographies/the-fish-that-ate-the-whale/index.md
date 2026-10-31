@@ -4,11 +4,14 @@ categories: [ "Biographies" ]
 description: "Sam Zemurray’s rise from immigrant fruit seller to United Fruit leader, and the costs of banana empire"
 author: "Rich Cohen"
 image: "image.png"
+image_alt: "Sam Zemurray."
+image_caption: >-
+  Sam Zemurray. <a href="https://commons.wikimedia.org/wiki/File:Sam_Zemurray,_1934.jpg">Los Angeles Times, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Cropped and resized.
 ---
 
 ## Sam Zemurray and the banana business
 
-Rich Cohen's *The Fish That Ate the Whale: The Life and Times of America's Banana King* tells the story of Sam Zemurray, an immigrant entrepreneur who rose from selling fruit to controlling United Fruit. Its subject is Zemurray, rather than a media executive named Teddy Klein.
+Rich Cohen's *The Fish That Ate the Whale: The Life and Times of America's Banana King* tells the story of Sam Zemurray, an immigrant entrepreneur who rose from selling fruit to controlling United Fruit.
 
 The biography follows a business built around a perishable product. Zemurray's early work as a peddler and banana hauler gave him practical knowledge of the trade. He expanded into plantations and became a challenger to the much larger United Fruit Company before taking a leading role in it.
 

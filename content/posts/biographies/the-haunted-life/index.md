@@ -1,42 +1,18 @@
 ---
 title: "The Haunted Life by James O'Connell"
 categories: [ "Biographies" ]
-description: "Biography of the legendary singer and civil rights activist"
+description: "Title and author pairing awaiting verification; a confirmed edition or ISBN is needed."
 author: "James O'Connell"
 image: "image.png"
+image_alt: "An open historic volume at the New York Public Library, used as context for this unverified entry."
+image_caption: >-
+  An open historic volume at the New York Public Library, used as context for this unverified entry. <a href="https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg">NYC Wanderer (Kevin Eng), Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>. Cropped and resized. Adaptation: CC BY-SA 2.0.
 ---
 
-I do not have access to real-time information, including the contents of books.  Therefore, I cannot summarize James O'Connell's "The Haunted Life."  To provide you with a 2000-word summary, I would need access to the book's text.
+## Bibliographic note
 
-However, I can offer you a framework for summarizing a biography, which you can then apply to "The Haunted Life" once you have access to the book:
+The pairing of *The Haunted Life* with James O'Connell needs a confirmed edition or ISBN. A biographical subject cannot be assigned reliably from the existing title and author information.
 
-**Framework for a 2000-word Biography Summary:**
+Penguin publishes a book titled *The Haunted Life* by Jack Kerouac. That work is a coming-of-age novella about Peter Martin, with themes of friendship, intellectual independence, and the approach of war. It is not a biography of a singer or civil rights activist, and it should not be silently substituted for a different book.
 
-**I. Early Life and Influences (approx. 400 words):**
-
-* **Childhood and Family:** Describe the subject's upbringing, family dynamics, socioeconomic background, and significant early influences (e.g., parents, siblings, mentors, cultural environment).  Highlight any formative experiences that shaped their personality and future trajectory.  Were there significant hardships, privileges, or unique circumstances that shaped their worldview?
-* **Education:** Detail their educational journey, including schools attended, academic achievements, key teachers or professors who influenced them, and any significant academic milestones or struggles. Did they exhibit any early signs of talent or interest in their future field?
-* **Early Aspirations and Challenges:** Discuss the subject's early ambitions, dreams, and challenges. What were their goals, and what obstacles did they face in pursuing them?
-
-**II. Career and Major Contributions (approx. 800 words):**
-
-* **Career Trajectory:**  Trace the subject's career path chronologically, highlighting key positions held, significant projects undertaken, and collaborations with other individuals or organizations.
-* **Major Achievements and Innovations:** Detail their most significant accomplishments and contributions to their field. What problems did they solve? What new ideas or technologies did they develop?  What impact did their work have on society or their profession? Use specific examples to illustrate their impact.
-* **Methodology and Approach:** Describe their working style, approach to problem-solving, and their unique contributions to their methodology. What made their work stand out?  Did they have a particular philosophy or approach that shaped their success?
-* **Recognition and Awards:** Note any significant awards, recognitions, or honors they received, showcasing the professional acclaim they garnered.
-
-**III. Personal Life and Relationships (approx. 400 words):**
-
-* **Personal Relationships:** Explore the subject's personal relationships, including family, friends, romantic partners, and collaborators.  How did these relationships influence their work and life?  Were there any significant personal conflicts or challenges?
-* **Personality and Character:** Analyze their personality traits, strengths, weaknesses, and defining characteristics.  What made them unique as a person?
-* **Challenges and Controversies:** Address any controversies or challenges they faced throughout their life, both personal and professional. How did they handle adversity? Did they face any criticism or opposition to their work?
-
-**IV. Legacy and Lasting Influence (approx. 400 words):**
-
-* **Impact on their Field:** Assess the long-term impact of their work on their field. How has their contribution changed the landscape of their profession or area of expertise? What are their enduring legacies?
-* **Historical Significance:** Analyze their place in history and their significance to society as a whole.  How did their life and work shape the world?
-* **Contemporary Relevance:** Explore the contemporary relevance of their work and life.  Are their ideas and contributions still pertinent today?  How is their legacy being remembered and celebrated?
-
-
-Remember to use direct quotes from the book where appropriate to support your points and add depth to your summary.  By following this framework and filling in the details from "The Haunted Life," you can create a comprehensive and engaging 2000-word summary.
-
+Reference: [Penguin's edition of *The Haunted Life* by Jack Kerouac](https://www.penguin.co.uk/books/253273/the-haunted-life-by-kerouac-jack/9780141394091).

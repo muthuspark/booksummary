@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography revealing the complex woman behind the fashion icon"
 author: "Lisa Chaney"
 image: "image.png"
+image_alt: "Coco Chanel in Los Angeles, 1931."
+image_caption: >-
+  Coco Chanel in Los Angeles, 1931. <a href="https://commons.wikimedia.org/wiki/File:Coco_Chanel_in_Los_Angeles,_1931.jpg">Los Angeles Times, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Cropped and resized.
 ---
 
 Lisa Chaney's "Coco Chanel: An Intimate Life" paints a vivid and complex portrait of Gabrielle "Coco" Chanel, far beyond the iconic image of the little black dress and No. 5 perfume.  The biography delves deep into Chanel's personal journey, revealing a woman of fierce ambition, unwavering self-belief, and undeniable talent, whose life was marked by both extraordinary success and considerable moral ambiguity.  Chaney's intimate portrayal, based on extensive research and meticulous detail, illuminates the factors that shaped Chanel's revolutionary impact on fashion and her lasting legacy.

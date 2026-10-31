@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Portrait of the Russian empress who transformed her adopted country into a European powerhouse"
 author: "Robert K. Massie"
 image: "image.png"
+image_alt: "Catherine the Great."
+image_caption: >-
+  Catherine the Great. <a href="https://commons.wikimedia.org/wiki/File:Catherine_II_after_Roslin,_Rokotov_(1780s,_Kunsthistorisches_Museum).jpg">After Alexander Roslin, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Robert K. Massie's "Catherine the Great" is a monumental biography that delves into the extraordinary life of one of history's most compelling and controversial figures.  Far from a simple recounting of events, Massie's work paints a vibrant portrait of Catherine II, Empress of Russia, exploring her complex personality, her ambitious political maneuvering, and her lasting impact on Russia and the world.  The book transcends a mere chronicle of dates and battles, offering a nuanced understanding of Catherine's motivations, her relationships, and the historical context that shaped her reign.

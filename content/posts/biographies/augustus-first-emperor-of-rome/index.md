@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography of Rome's first emperor and his transformation of the Republic into an Empire"
 author: "Adrian Goldsworthy"
 image: "image.png"
+image_alt: "Detail of Augustus of Prima Porta, an ancient marble statue."
+image_caption: >-
+  Detail of Augustus of Prima Porta, an ancient marble statue. <a href="https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta.jpg">Justin Benttinen, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped and resized. Adaptation: CC BY-SA 4.0.
 ---
 
 Adrian Goldsworthy's "Augustus: First Emperor of Rome" offers a compelling and detailed portrait of Gaius Octavius, the man who transformed the Roman Republic into the Roman Empire and established the Pax Romana, an era of relative peace and prosperity that lasted for two centuries.  The biography meticulously traces Octavian's extraordinary journey, from his relatively humble beginnings to his unprecedented reign as the first Roman emperor, highlighting his remarkable political acumen, strategic brilliance, and ruthless pragmatism.

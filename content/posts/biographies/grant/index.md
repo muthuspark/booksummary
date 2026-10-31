@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Definitive biography rehabilitating the reputation of the Civil War general and president"
 author: "Ron Chernow"
 image: "image.png"
+image_alt: "Ulysses S. Grant."
+image_caption: >-
+  Ulysses S. Grant. <a href="https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880_(cropped).jpg">Brady-Handy Photograph Collection, Library of Congress, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Ron Chernow's "Grant" is a monumental biography of Ulysses S. Grant, offering a nuanced and deeply researched portrait of the enigmatic general and 18th President of the United States.  Chernow masterfully dismantles the simplistic, almost mythical portrayals of Grant that have persisted throughout history, revealing a complex, flawed, yet ultimately compelling figure whose life profoundly shaped the course of American history.  The biography isn't merely a chronological recounting of events; it's a deep dive into Grant's psyche, exploring his inner conflicts, vulnerabilities, and the surprising evolution of his character.

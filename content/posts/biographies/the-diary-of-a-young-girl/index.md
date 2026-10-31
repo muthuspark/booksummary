@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Personal account of a Jewish teenager hiding from Nazi persecution during World War II"
 author: "Anne Frank"
 image: "image.png"
+image_alt: "Anne Frank."
+image_caption: >-
+  Anne Frank. <a href="https://commons.wikimedia.org/wiki/File:Anne_Frank_passport_photo,_May_1942_(cropped).jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## The Diary of a Young Girl: A Chronicle of Resilience and Humanity

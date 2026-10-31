@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "First volume of the definitive trilogy about Roosevelt's early life and career"
 author: "Edmund Morris"
 image: "image.png"
+image_alt: "Theodore Roosevelt."
+image_caption: >-
+  Theodore Roosevelt. <a href="https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(3).jpg">Adam Cuerden, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Edmund Morris's "The Rise of Theodore Roosevelt" is not merely a biography; it's a deep dive into the complex personality and tumultuous life of one of America's most charismatic and influential presidents.  The book meticulously traces Roosevelt's journey from a sickly, privileged youth to the "bully pulpit" of the presidency, showcasing his relentless drive, unwavering ambition, and profound impact on American politics and society.  Morris masterfully weaves together meticulously researched historical details with insightful psychological analysis, offering a multifaceted portrait of a man defined by both extraordinary accomplishments and significant flaws.

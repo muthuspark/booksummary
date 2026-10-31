@@ -1,9 +1,12 @@
 ---
 title: "Marie Curie: A Life by Susan Quinn"
 categories: [ "Biographies" ]
-description: "Biography of the pioneering scientist who pioneered research into radioactivity and became the first woman to win a Nobel Prize"
+description: "Marie Curie’s research into radioactivity, discovery of polonium and radium, and life as a scientist"
 author: "Susan Quinn"
 image: "image.png"
+image_alt: "Marie Curie."
+image_caption: >-
+  Marie Curie. <a href="https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg">Henri Manuel, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Susan Quinn's "Marie Curie: A Life" offers a richly detailed and nuanced portrait of the pioneering scientist, moving beyond the simplified narratives often presented.  The biography meticulously traces Curie's journey, from her humble beginnings in Russian-occupied Poland to her groundbreaking achievements in physics and chemistry, highlighting the complexities of her personality, her unwavering dedication to science, and the profound impact she had on the scientific community and the world at large.
@@ -28,3 +31,5 @@ The latter part of Curie's life saw her continued dedication to scientific resea
 
 Quinn's "Marie Curie: A Life" is not merely a chronological account; it is a compelling narrative that delves into the complexities of Curie's character, showcasing her intellectual brilliance, unwavering determination, and her personal struggles.  The biography effectively balances the scientific achievements with the personal challenges, offering a comprehensive portrait of a woman who defied societal expectations, broke down barriers, and left an indelible mark on the world.  Through meticulous research and insightful analysis, Quinn presents a compelling account of a truly extraordinary life, highlighting not only Curie's scientific contributions but also her lasting influence as a role model for generations of women in science and beyond.  The book provides a nuanced perspective on the complexities of Curie's personal and professional life, showcasing her resilience, her unwavering pursuit of knowledge, and the profound impact she had on both the scientific community and the world.
 
+
+Scientific context: [Nobel Prize history of the Curies’ research](https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium-/).

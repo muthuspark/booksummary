@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Monumental biography of Robert Moses and his impact on modern New York City"
 author: "Robert Caro"
 image: "image.png"
+image_alt: "Robert Moses."
+image_caption: >-
+  Robert Moses. <a href="https://commons.wikimedia.org/wiki/File:Robert_Moses_with_Battery_Bridge_model_(cropped).jpg">C.M. Stieglitz,  World Telegram staff photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Robert Caro's monumental biography, *The Power Broker: Robert Moses and the Fall of New York*, is not simply a life story; it's a deep dive into the wielding of power, the shaping of a city, and the complex interplay between ambition, vision, and the ethical compromises inherent in achieving immense influence.  The book chronicles the life of Robert Moses, a master builder who reshaped the landscape of 20th-century New York, leaving an undeniable, yet often controversial, legacy.  Caro meticulously unravels Moses's character, motivations, and methods, revealing a man of extraordinary talent and ruthless efficiency.

@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Definitive biography of the Mexican artist, examining her art, politics, and tumultuous personal life"
 author: "Hayden Herrera"
 image: "image.png"
+image_alt: "Frida Kahlo."
+image_caption: >-
+  Frida Kahlo. <a href="https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg">Guillermo Kahlo, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Hayden Herrera's "Frida: A Biography of Frida Kahlo" offers a comprehensive and insightful portrait of the iconic Mexican painter, delving deep into her tumultuous life and artistic evolution.  The biography meticulously reconstructs Kahlo's experiences, revealing a complex individual whose art became a potent expression of her physical and emotional suffering, political convictions, and passionate relationships.

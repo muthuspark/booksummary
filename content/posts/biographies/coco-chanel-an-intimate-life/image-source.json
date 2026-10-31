@@ -1,0 +1,26 @@
+{
+  "slug": "coco-chanel-an-intimate-life",
+  "subject": "Coco Chanel",
+  "source": "https://commons.wikimedia.org/wiki/File:Coco_Chanel_in_Los_Angeles,_1931.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coco_Chanel_in_Los_Angeles%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coco_Chanel_in_Los_Angeles%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "artist": "Los Angeles Times",
+  "attribution": "",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "description": "Coco Chanel sitting at a desk during a visit to Los Angeles",
+  "date": "1931-03-18",
+  "local_file": "image.png",
+  "dimensions": [
+    1600,
+    1600
+  ],
+  "changes": "Square crop, resized without upscaling, PNG source; responsive WebP delivery.",
+  "adaptation_license": "CC BY 4.0",
+  "crop_box_normalized": [
+    0.14,
+    0.1,
+    0.55,
+    0.7
+  ]
+}

@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Comprehensive biography drawing on Napoleon's newly published personal letters"
 author: "Andrew Roberts"
 image: "image.png"
+image_alt: "Napoleon."
+image_caption: >-
+  Napoleon. <a href="https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg">Jacques-Louis David, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Andrew Roberts' "Napoleon: A Life" presents a comprehensive and nuanced portrait of Napoleon Bonaparte, moving beyond simplistic heroic or villainous portrayals to offer a complex understanding of one of history's most significant figures.  The biography meticulously traces Napoleon's journey from Corsican obscurity to emperor of France, highlighting his remarkable ambition, military genius, and ultimately, his catastrophic flaws.

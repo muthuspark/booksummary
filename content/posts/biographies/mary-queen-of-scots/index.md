@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Classic biography of the tragic Scottish queen who challenged Elizabeth I"
 author: "Antonia Fraser"
 image: "image.png"
+image_alt: "Mary, Queen of Scots."
+image_caption: >-
+  Mary, Queen of Scots. <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Clouet_-_Mary,_Queen_of_Scots_(1542-87)_-_Google_Art_Project.jpg">François Clouet, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Antonia Fraser's "Mary Queen of Scots" is not just a biography; it's a meticulously researched and vividly written narrative that breathes life into one of history's most captivating and controversial figures.  Fraser expertly weaves together the political machinations, personal tragedies, and religious turmoil of 16th-century Europe, using primary sources and insightful analysis to paint a complex portrait of Mary Stuart, Queen of Scotland.  Far from a simple villain or victim, Fraser reveals a woman of remarkable strength, intelligence, and ambition, whose life was tragically shaped by circumstance, ambition, and the relentless forces of power.

@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Revisionist biography of the powerful Chinese ruler who modernized China"
 author: "Jung Chang"
 image: "image.png"
+image_alt: "Empress Dowager Cixi."
+image_caption: >-
+  Empress Dowager Cixi. <a href="https://commons.wikimedia.org/wiki/File:The_Ci-Xi_Imperial_Dowager_Empress_(9.2).PNG">John Yu Shuinling, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Jung Chang's "The Empress Dowager Cixi: The Last Empress of China" offers a compelling and nuanced portrait of a woman who dominated late 19th-century China, wielding immense power for nearly half a century.  Far from the stereotypical image of a cruel, manipulative regent, Chang's biography unveils a complex figure whose life, shaped by ambition, political acumen, and a deeply ingrained sense of survival, profoundly impacted China's trajectory and left an enduring legacy, both positive and negative.

@@ -8,9 +8,25 @@
 <article class="article-body">
 {{ if not (strings.Contains .RawContent "![](./image.png)") }}
 {{ with .Resources.GetMatch (.Params.image | default "image.png") }}
-{{ with $.Params.image_caption }}<figure class="photo-figure hero-figure">{{ end }}
-<img class="heroimage" src="{{ .RelPermalink }}" alt="{{ $.Params.image_alt | default (printf "Illustration for %s" $.Title) }}" width="{{ .Width }}" height="{{ .Height }}" fetchpriority="high" decoding="async">
-{{ with $.Params.image_caption }}<figcaption>{{ . | safeHTML }}</figcaption></figure>{{ end }}
+{{ $image := . }}
+{{ if $.Params.image_caption }}
+  {{ $width := math.Min .Width 1600 | int }}
+  {{ $hero := .Resize (printf "%dx webp q85" $width) }}
+  {{ $sources := slice }}
+  {{ range slice 480 800 1200 }}
+    {{ if lt . $width }}
+      {{ $variant := $image.Resize (printf "%dx webp q85" .) }}
+      {{ $sources = $sources | append (printf "%s %dw" $variant.RelPermalink .) }}
+    {{ end }}
+  {{ end }}
+  {{ $sources = $sources | append (printf "%s %dw" $hero.RelPermalink $width) }}
+  <figure class="photo-figure hero-figure">
+    <img class="heroimage" src="{{ $hero.RelPermalink }}" srcset="{{ delimit $sources ", " }}" sizes="(min-width: 1800px) 72ch, (min-width: 1400px) 60ch, (min-width: 1024px) 50ch, (max-width: 600px) calc(100vw - 2.5rem), 64ch" alt="{{ $.Params.image_alt | default (printf "Illustration for %s" $.Title) }}" width="{{ $hero.Width }}" height="{{ $hero.Height }}" fetchpriority="high" decoding="async">
+    <figcaption>{{ $.Params.image_caption | safeHTML }}</figcaption>
+  </figure>
+{{ else }}
+  <img class="heroimage" src="{{ .RelPermalink }}" alt="{{ $.Params.image_alt | default (printf "Illustration for %s" $.Title) }}" width="{{ .Width }}" height="{{ .Height }}" fetchpriority="high" decoding="async">
+{{ end }}
 {{ end }}
 {{ end }}
 {{ .Content }}

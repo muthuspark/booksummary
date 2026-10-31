@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography of the mathematical genius who helped crack the Nazi Enigma code"
 author: "Andrew Hodges"
 image: "image.png"
+image_alt: "Alan Turing."
+image_caption: >-
+  Alan Turing. <a href="https://commons.wikimedia.org/wiki/File:Alan_turing_header.jpg">Elliott &amp; Fry, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Andrew Hodges' "Alan Turing: The Enigma" is a comprehensive and deeply moving biography of the brilliant mathematician and computer scientist, Alan Turing, whose life was tragically cut short but whose contributions continue to shape our world.  The book goes beyond a simple recounting of facts, delving into Turing's personality, motivations, and the societal context that both fueled and stifled his genius.  It paints a vivid portrait of a complex individual grappling with his sexuality in a hostile environment, while simultaneously revolutionizing multiple fields of study.

@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Comprehensive biography of the revolutionary icon based on previously unavailable materials"
 author: "Jon Lee Anderson"
 image: "image.png"
+image_alt: "Che Guevara."
+image_caption: >-
+  Che Guevara. <a href="https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg">Alberto Korda, restored by Adam Cuerden, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Jon Lee Anderson's "Che Guevara: A Revolutionary Life" is a monumental biography meticulously piecing together the complex and often contradictory life of Ernesto "Che" Guevara, a figure who transcended the label of revolutionary to become a global icon, simultaneously revered and reviled.  Anderson's work, drawing on extensive archival research, interviews, and previously unseen documents, offers a nuanced and comprehensive portrayal, avoiding hagiography and acknowledging the brutal realities of Guevara's actions and ideology.

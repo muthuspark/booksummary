@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Definitive biography of the Russian literary master"
 author: "Joseph Frank"
 image: "image.png"
+image_alt: "Fyodor Dostoevsky."
+image_caption: >-
+  Fyodor Dostoevsky. <a href="https://commons.wikimedia.org/wiki/File:Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg">Vasily Perov, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Joseph Frank's "Dostoevsky: A Writer in His Time," a single-volume abridgment of his five-volume biography, edited by Mary Petrusewicz, is not merely a life story but a profound exploration of the intellectual and cultural landscape of 19th-century Russia as seen through the prism of Fyodor Dostoevsky's extraordinary existence.  Frank meticulously reconstructs Dostoevsky's life, weaving together personal details, literary analysis, and historical context to create a rich and compelling portrait of a complex and deeply troubled genius.

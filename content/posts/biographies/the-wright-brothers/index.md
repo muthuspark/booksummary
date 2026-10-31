@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Story of the bicycle mechanics who launched the aviation age"
 author: "David McCullough"
 image: "image.png"
+image_alt: "Wilbur and Orville Wright."
+image_caption: >-
+  Wilbur and Orville Wright. <a href="https://commons.wikimedia.org/wiki/File:Wright_Brothers_at_home,_1909.jpg">Unattributed; Smithsonian National Air and Space Museum, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 David McCullough's "The Wright Brothers" isn't just a biography; it's a testament to the power of perseverance, meticulous observation, and unwavering dedication to a seemingly impossible dream.  The book meticulously chronicles the lives of Wilbur and Orville Wright, not as isolated geniuses, but as deeply connected brothers whose individual strengths complemented each other, forging a partnership that revolutionized human flight.  McCullough paints a vivid portrait of these two men, emphasizing their character, their unique upbringing, and the painstaking process that led to their groundbreaking achievement.

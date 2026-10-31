@@ -4,11 +4,14 @@ categories: [ "Biographies" ]
 description: "Biography of Norman Rockwell, exploring his illustrations, private life, and vision of America"
 author: "Deborah Solomon"
 image: "image.png"
+image_alt: "Norman Rockwell in a historical photograph."
+image_caption: >-
+  Norman Rockwell in a historical photograph. <a href="https://commons.wikimedia.org/wiki/File:Rockwell-Norman-LOC.jpg">Underwood &amp; Underwood, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## The illustrator and the private man
 
-Deborah Solomon's *American Mirror: The Life and Art of Norman Rockwell* examines the distance between Rockwell's reassuring public imagery and his unsettled private life. Its subject is Norman Rockwell, the painter and magazine illustrator, rather than the photographer Edward Steichen.
+Deborah Solomon's *American Mirror: The Life and Art of Norman Rockwell* examines the distance between Rockwell's reassuring public imagery and his unsettled private life.
 
 Rockwell's work for *The Saturday Evening Post* turned ordinary encounters into carefully staged stories. Solomon considers the craft behind those pictures and the way they expressed an American ideal of belonging. The familiar scenes were constructed visions of community, rather than a complete record of American society.
 

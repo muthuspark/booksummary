@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography of the Underground Railroad conductor who helped guide slaves to freedom"
 author: "Catherine Clinton"
 image: "image.png"
+image_alt: "Harriet Tubman."
+image_caption: >-
+  Harriet Tubman. <a href="https://commons.wikimedia.org/wiki/File:Carte-de-visite_portrait_of_Harriet_Tubman_(cropped).jpg">Benjamin F. Powelson, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Catherine Clinton’s “Harriet Tubman: The Road to Freedom” offers a comprehensive and nuanced portrayal of the iconic abolitionist and spy, moving beyond simplistic hagiography to reveal a complex and deeply human figure.  The book meticulously traces Tubman’s journey from enslaved child to a symbol of unwavering courage and determination, highlighting the pivotal moments that shaped her life and solidified her legacy as one of the most significant figures in American history.

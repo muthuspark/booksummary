@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Comprehensive look at the academic who became a wartime president"
 author: "John Milton Cooper Jr."
 image: "image.png"
+image_alt: "Woodrow Wilson."
+image_caption: >-
+  Woodrow Wilson. <a href="https://commons.wikimedia.org/wiki/File:President_Woodrow_Wilson_Harris_%26_Ewing_(3x4_cropped_b).jpg">Harris &amp; Ewing, photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## Woodrow Wilson: A Life of Paradox and Power – A Summary of John Milton Cooper Jr.'s Biography

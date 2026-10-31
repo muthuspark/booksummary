@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography of the railroad magnate who helped create modern capitalism"
 author: "T.J. Stiles"
 image: "image.png"
+image_alt: "Cornelius Vanderbilt."
+image_caption: >-
+  Cornelius Vanderbilt. <a href="https://commons.wikimedia.org/wiki/File:Cornelius_Vanderbilt_Daguerrotype2_(cropped)(b).jpg">Produced by Mathew Brady &#x27;s studio, restored by Michel Vuijlsteke, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 T.J. Stiles’s “The First Tycoon: The Epic Life of Cornelius Vanderbilt” is a masterful biography chronicling the extraordinary life of Cornelius Vanderbilt (1794-1877), a self-made man who rose from humble beginnings to become one of the wealthiest and most influential figures in 19th-century America.  The book paints a vivid portrait of a man driven by an insatiable ambition, an almost ruthless pragmatism, and an unwavering dedication to building his own empire, leaving an indelible mark on American transportation and finance.  His journey, far from being a fairy tale, was fraught with hardship, cunning maneuvering, and moral ambiguities, offering a compelling case study of ambition, entrepreneurship, and the shaping of modern America.

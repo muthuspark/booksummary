@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Comprehensive biography separating myth from reality about the infamous Russian mystic"
 author: "Douglas Smith"
 image: "image.png"
+image_alt: "Grigori Rasputin."
+image_caption: >-
+  Grigori Rasputin. <a href="https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg">Unknown author, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## Rasputin: Faith, Power, and the Twilight of the Romanovs: A Summary

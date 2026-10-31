@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Story of a woman whose cells revolutionized medical research, exploring issues of race, ethics, and scientific discovery"
 author: "Rebecca Skloot"
 image: "image.png"
+image_alt: "HeLa cells, the cell line derived from Henrietta Lacks."
+image_caption: >-
+  HeLa cells, the cell line derived from Henrietta Lacks. <a href="https://commons.wikimedia.org/wiki/File:HeLa-IV.jpg">National Institutes of Health (NIH), Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Rebecca Skloot's "The Immortal Life of Henrietta Lacks" is not a traditional biography in the sense that it doesn't chronicle a life lived to its natural end.  Instead, it's the story of Henrietta Lacks, a poor, African American tobacco farmer whose cells, unknowingly taken without her consent, became one of the most important tools in medical research, revolutionizing the field of medicine while raising profound ethical questions about race, class, and medical exploitation.  The book intricately weaves together Henrietta's life story with the scientific legacy of HeLa cells, her immortal cell line, creating a compelling narrative that explores the complexities of medical progress and social justice.

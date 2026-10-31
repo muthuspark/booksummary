@@ -4,11 +4,14 @@ categories: [ "Biographies" ]
 description: "Modern reassessment of the controversial Roman emperor's life and reign"
 author: "Richard Holland"
 image: "image.png"
+image_alt: "Nero."
+image_caption: >-
+  Nero. <a href="https://commons.wikimedia.org/wiki/File:Nero_Glyptothek_Munich_321.jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## Reconsidering Nero's reputation
 
-Richard Holland's *Nero: The Man Behind the Myth* reassesses one of Rome's most notorious emperors. The book is by Richard Holland, rather than Anthony Barrett. It asks how the familiar image of a monster relates to the person behind that reputation.
+Richard Holland's *Nero: The Man Behind the Myth* reassesses one of Rome's most notorious emperors. It asks how the familiar image of a monster relates to the person behind that reputation.
 
 Holland follows Nero from his upbringing in the imperial family through his accession, artistic interests, political conflicts, and eventual collapse. His mother, Agrippina the Younger, married the emperor Claudius; Nero later married Claudius's daughter Octavia. Nero became emperor in AD 54 at sixteen.
 

@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Classic biography of the Renaissance master by his contemporary and fellow artist"
 author: "Giorgio Vasari"
 image: "image.png"
+image_alt: "Michelangelo."
+image_caption: >-
+  Michelangelo. <a href="https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_(dettaglio).jpg">Attributed to Daniele da Volterra, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## The Life of Michelangelo: A Vasarian Perspective

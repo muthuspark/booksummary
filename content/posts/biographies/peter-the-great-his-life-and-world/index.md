@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Pulitzer Prize-winning biography of the tsar who transformed Russia"
 author: "Robert K. Massie"
 image: "image.png"
+image_alt: "Peter the Great."
+image_caption: >-
+  Peter the Great. <a href="https://commons.wikimedia.org/wiki/File:Inconnu_d%27apr%C3%A8s_J.-M._Nattier,_Portrait_de_Pierre_Ier_(mus%C3%A9e_de_l%E2%80%99Ermitage).jpg">Attributed to Jean-Marc Nattier, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Robert K. Massie's "Peter the Great: His Life and World" is a sweeping biography that delves into the life and times of one of history's most transformative rulers.  More than just a recounting of events, Massie paints a vivid portrait of Peter I, Tsar of Russia, revealing a complex and contradictory individual whose ambition and ruthlessness reshaped a nation and left an enduring mark on the world.  The book meticulously weaves together Peter's personal journey with the broader historical context of 17th-century Russia, illuminating the intricate interplay between individual agency and societal forces that shaped his reign.

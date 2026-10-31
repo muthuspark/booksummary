@@ -1,0 +1,15 @@
+{
+  "local_file": "image.png",
+  "subject": "Diana, Princess of Wales",
+  "source": "https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2)_(3).jpg",
+  "artist": "John Mathew Smith & www.celebrity-photos.com",
+  "source_enhancement": "Joelphotofix",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "adaptation_license": "CC BY-SA 2.0",
+  "dimensions": [
+    1600,
+    1600
+  ],
+  "changes": "Square crop, resized to 1600 pixels, converted to PNG; responsive WebP delivery."
+}

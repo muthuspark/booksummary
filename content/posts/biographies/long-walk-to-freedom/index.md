@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Autobiographical account of Mandela's journey from prisoner to president of South Africa"
 author: "Nelson Mandela"
 image: "image.png"
+image_alt: "Nelson Mandela."
+image_caption: >-
+  Nelson Mandela. <a href="https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg">Kingkongphoto &amp; www.celebrity-photos.com from Laurel, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>. Cropped and resized. Adaptation: CC BY-SA 2.0.
 ---
 
 Nelson Mandela's autobiography, "Long Walk to Freedom," is more than just a personal memoir; it's a chronicle of the struggle against apartheid in South Africa and a tribute to the enduring power of hope and perseverance. The book charts Mandela's extraordinary life, from his humble beginnings in a rural Xhosa village to his global icon status as an anti-apartheid revolutionary and statesman. It’s a journey marked by personal growth, unwavering commitment to justice, and triumphs and tribulations.

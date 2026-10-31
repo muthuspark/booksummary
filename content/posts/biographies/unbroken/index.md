@@ -4,9 +4,12 @@ categories: [ "Biographies" ]
 description: "Story of Louis Zamperini's journey from Olympic runner to WWII survivor"
 author: "Laura Hillenbrand"
 image: "image.png"
+image_alt: "Louis Zamperini."
+image_caption: >-
+  Louis Zamperini. <a href="https://commons.wikimedia.org/wiki/File:Louis_Zamperini_at_USC,_1938.jpg">Los Angeles Times, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Cropped and resized.
 ---
 
-Laura Hillenbrand's "Unbroken" is not a biography in the traditional sense; it's a gripping narrative of Louis Zamperini's extraordinary life.  It doesn't focus on a specific field of contribution in the way a scientific or political biography might, but instead chronicles Zamperini's incredible resilience and his journey of survival, faith, and redemption against seemingly insurmountable odds.  His "major contribution," if one can call it that, lies in his inspirational story itself, which has resonated deeply with readers and continues to offer a powerful testament to the human spirit.
+Laura Hillenbrand's *Unbroken* follows Louis Zamperini from his early life and Olympic running career through his service in the Second World War, survival at sea, and imprisonment in Japan. The biography connects his wartime endurance with the difficult process of rebuilding his life afterward.
 
 Zamperini's life begins in an Italian-American community in Olean, New York, marked by a turbulent childhood. A mischievous and rebellious youth, he frequently found himself in trouble, fueled by a thirst for adventure and a lack of direction.  His early years are characterized by delinquency and a strained relationship with his family, particularly his father.  Running, however, becomes a solace and a channel for his boundless energy.  Initially a means of escape, running blossoms into a significant talent, propelling him towards athletic success, transforming him from a troublesome child to a promising young athlete.
 

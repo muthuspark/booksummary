@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography of the German theologian who resisted Hitler and joined the plot to kill him"
 author: "Eric Metaxas"
 image: "image.png"
+image_alt: "Dietrich Bonhoeffer."
+image_caption: >-
+  Dietrich Bonhoeffer. <a href="https://commons.wikimedia.org/wiki/File:Dietrich_Bonhoeffer_(um_1938).jpg">Wissen911, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Cropped and resized. Adaptation: CC BY-SA 3.0.
 ---
 
 ## Bonhoeffer: A Life of Faith, Resistance, and Martyrdom

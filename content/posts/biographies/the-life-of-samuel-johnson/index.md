@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Classic biography of the English writer and lexicographer, considered one of the greatest biographies ever written"
 author: "James Boswell"
 image: "image.png"
+image_alt: "Samuel Johnson."
+image_caption: >-
+  Samuel Johnson. <a href="https://commons.wikimedia.org/wiki/File:Samuel_Johnson_by_Joshua_Reynolds.jpg">Joshua Reynolds, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## The Life of Samuel Johnson: A Summary of Boswell's Masterpiece

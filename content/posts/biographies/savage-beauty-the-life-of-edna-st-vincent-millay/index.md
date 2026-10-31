@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography of the passionate poet who captivated the Jazz Age"
 author: "Nancy Milford"
 image: "image.png"
+image_alt: "Edna St. Vincent Millay."
+image_caption: >-
+  Edna St. Vincent Millay. <a href="https://commons.wikimedia.org/wiki/File:Edna_St._Vincent_Millay_1933_by_Carl_van_Vechten_Retouched.jpg">Carl Van Vechten, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## Savage Beauty: Edna St. Vincent Millay – A Life of Passion and Poetry

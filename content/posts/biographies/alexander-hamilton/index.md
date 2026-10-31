@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Comprehensive biography of the founding father that inspired the hit musical"
 author: "Ron Chernow"
 image: "image.png"
+image_alt: "Alexander Hamilton."
+image_caption: >-
+  Alexander Hamilton. <a href="https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_(NPG).jpg">John Trumbull / Giuseppe Ceracchi, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Ron Chernow's monumental biography, "Alexander Hamilton," offers a richly detailed portrait of one of America's Founding Fathers, a man whose life was as dramatic and complex as the nation he helped to forge.  Far from a simple historical figure, Hamilton emerges as a flawed yet brilliant individual whose ambition, intellect, and tireless energy shaped the nascent United States in profound ways. Chernow's work masterfully weaves together Hamilton's personal struggles, political triumphs, and enduring legacy, offering a compelling narrative that transcends the confines of a typical historical biography.

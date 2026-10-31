@@ -4,11 +4,14 @@ categories: [ "Biographies" ]
 description: "George V, Wilhelm II, and Nicholas II: royal cousins and Europe’s road to the First World War"
 author: "Miranda Carter"
 image: "image.png"
+image_alt: "George V, one of the three royal cousins in Miranda Carter’s joint biography."
+image_caption: >-
+  George V, one of the three royal cousins in Miranda Carter’s joint biography. <a href="https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg">Bassano Ltd, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 ## Three cousins before the First World War
 
-Miranda Carter's *The Three Emperors: Three Cousins, Three Empires and the Road to World War One* follows George V of Britain, Wilhelm II of Germany, and Nicholas II of Russia. Its subjects are these three royal cousins, rather than Nicholas I, Alexander II, and Alexander III.
+Miranda Carter's *The Three Emperors: Three Cousins, Three Empires and the Road to World War One* follows George V of Britain, Wilhelm II of Germany, and Nicholas II of Russia.
 
 Carter connects their family relationships with the diplomatic world in which they ruled. Kinship did not guarantee cooperation. Rivalries, insecurities, and conflicting national interests repeatedly undermined the idea that Europe's ruling families could keep international tensions under control.
 

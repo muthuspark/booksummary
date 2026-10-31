@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Fresh perspective on the Egyptian queen, separating fact from centuries of fiction"
 author: "Stacy Schiff"
 image: "image.png"
+image_alt: "Ancient marble bust of Cleopatra VII, Altes Museum, Berlin."
+image_caption: >-
+  Ancient marble bust of Cleopatra VII, Altes Museum, Berlin. <a href="https://commons.wikimedia.org/wiki/File:Kleopatra-VII.-Altes-Museum-Berlin1.jpg">Louis le Grand, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Stacy Schiff's "Cleopatra: A Life" isn't simply a biography; it's a meticulously researched and vividly written portrait of a woman who remains one of history's most captivating and controversial figures. Schiff dismantles the romanticized image of Cleopatra often perpetuated in popular culture, revealing a complex individual whose ambition, intelligence, and political acumen shaped not only her own destiny but the course of history.  This summary will explore Cleopatra's life through the lens of Schiff's insightful narrative, focusing on her personal journey, political achievements, and lasting legacy.

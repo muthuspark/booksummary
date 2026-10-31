@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography revealing Potter as a pioneering naturalist and conservationist"
 author: "Linda Lear"
 image: "image.png"
+image_alt: "Beatrix Potter in a historical photograph."
+image_caption: >-
+  Beatrix Potter in a historical photograph. <a href="https://commons.wikimedia.org/wiki/File:Beatrix_Potter_by_King_cropped.jpg">Charles G.Y. King (1854-1937), Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Linda Lear's "Beatrix Potter: A Life in Nature" offers a meticulously researched and deeply insightful portrait of the celebrated children's author, moving beyond the saccharine image often associated with her iconic rabbit tales to reveal a complex and fascinating woman whose life was profoundly shaped by her keen observation of nature and her unwavering commitment to scientific pursuits.  The biography paints a vivid picture of Potter's intellectual curiosity, her passionate dedication to mycology, and her surprisingly contentious personality, all woven into a narrative that underscores the intricate connection between her life experiences and her literary achievements.

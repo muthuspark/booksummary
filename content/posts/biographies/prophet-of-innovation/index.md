@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Biography of the economist who coined 'creative destruction'"
 author: "Thomas K. McCraw"
 image: "image.png"
+image_alt: "Joseph Schumpeter."
+image_caption: >-
+  Joseph Schumpeter. <a href="https://commons.wikimedia.org/wiki/File:Joseph_Schumpeter_1945_Bachrach_portrait.png">Louis Fabian Bachrach, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Thomas K. McCraw's "Prophet of Innovation: Joseph Schumpeter and Creative Destruction" is not a straightforward biography in the traditional sense.  Instead, it's a deeply insightful exploration of the life and thought of Joseph Alois Schumpeter, the Austrian-American economist whose concept of "creative destruction" remains a cornerstone of modern economic understanding. McCraw meticulously weaves together Schumpeter's personal life, his intellectual evolution, and the historical context in which his ideas flourished and, at times, clashed with prevailing economic doctrines.  The book doesn't shy away from the complexities of Schumpeter's personality, revealing a man of immense intellectual brilliance, unwavering ambition, and sometimes erratic personal conduct.

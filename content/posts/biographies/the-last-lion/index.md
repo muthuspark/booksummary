@@ -1,9 +1,12 @@
 ---
-title: "The Last Lion by William Manchester"
+title: "The Last Lion: Visions of Glory, 1874–1932 by William Manchester"
 categories: [ "Biographies" ]
-description: "Three-volume masterwork chronicling Winston Churchill's life from childhood through World War II"
+description: "First volume of Manchester’s Churchill biography, covering his life from 1874 to 1932"
 author: "William Manchester"
 image: "image.png"
+image_alt: "Winston Churchill."
+image_caption: >-
+  Winston Churchill. <a href="https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 William Manchester's monumental biography, "The Last Lion: Winston Spencer Churchill – Visions of Glory, 1874-1932," the first volume of a planned trilogy, chronicles the first fifty-eight years of Winston Churchill's life, a period laying the groundwork for his later iconic status.  It's not simply a chronological account; it’s a deep dive into the making of a man, revealing the complex interplay of ambition, insecurity, genius, and sheer stubbornness that shaped one of history's most compelling figures.  The book meticulously details Churchill's tumultuous journey, from a privileged but somewhat neglected childhood to the cusp of his political prime, highlighting his personal growth, his early career struggles, and the formation of his unwavering convictions.
@@ -24,3 +27,5 @@ The narrative leading up to 1932 shows Churchill’s growing recognition as a gi
 
 In essence, Manchester's "The Last Lion: Visions of Glory" is not just a biography of Winston Churchill; it's a compelling character study. It meticulously traces the formation of a formidable personality, highlighting the crucial moments, both public and private, that shaped his unique worldview.  It is a narrative that demonstrates the power of resilience, the importance of unwavering conviction, and the remarkable capacity of an individual to overcome adversity and achieve lasting influence. While focusing on the first stage of Churchill’s life, it sets the stage perfectly for the subsequent volumes, promising a complete and nuanced understanding of one of history's most enigmatic and influential figures.  The meticulous research, engaging prose, and insightful analysis make it a truly exceptional work of historical biography, providing a captivating and profound exploration of the life of Winston Churchill.
 
+
+Edition reference: [Hachette’s description of Volume 1](https://www.hachettebookgroup.com/titles/william-manchester/the-last-lion-volume-1/9780316545037/).

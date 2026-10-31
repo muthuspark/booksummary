@@ -4,11 +4,14 @@ categories: [ "Biographies" ]
 description: "Short written portraits drawn from John Berger’s encounters with people and places"
 author: "John Berger"
 image: "image.png"
+image_alt: "John Berger."
+image_caption: >-
+  John Berger. <a href="https://commons.wikimedia.org/wiki/File:John_Berger-2009_(6).jpg">Ji-Elle, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Cropped and resized. Adaptation: CC BY-SA 3.0.
 ---
 
 ## Lives caught in brief encounters
 
-John Berger's *Photocopies* is a collection of short written portraits. It is neither a biography of a photographer nor a conventional autobiography. Berger builds the book from encounters with people in different places, letting particular gestures and situations carry the portrait.
+John Berger's *Photocopies* is a collection of short written portraits. The collection approaches lives through brief encounters rather than a continuous life story. Berger builds the book from encounters with people in different places, letting particular gestures and situations carry the portrait.
 
 The people include a shepherd, a farmer, artists, and people encountered while travelling. The settings range across cities and rural landscapes. Their variety matters: the book moves between lives without turning them into a single story of professional achievement.
 

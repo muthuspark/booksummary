@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Portrait of America's first billionaire and the rise of Standard Oil"
 author: "Ron Chernow"
 image: "image.png"
+image_alt: "John D. Rockefeller."
+image_caption: >-
+  John D. Rockefeller. <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_J._D._Rockefeller.jpg">Published by Scientific American Compiling Dep&#x27;t, New York. 1907., Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 Ron Chernow's "Titan: The Life of John D. Rockefeller Sr." is a monumental biography delving into the life and times of one of history's most influential and controversial figures.  The book paints a complex portrait of a man driven by an almost obsessive pursuit of efficiency, wealth, and religious piety, showcasing both his remarkable achievements and the ethically dubious methods he employed to achieve them.  Chernow avoids hagiography, presenting a balanced account that acknowledges Rockefeller's genius while also exposing the ruthlessness that underpinned his success.

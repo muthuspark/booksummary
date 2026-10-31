@@ -4,6 +4,9 @@ categories: [ "Biographies" ]
 description: "Comprehensive biography of the escaped slave who became a leading abolitionist"
 author: "David W. Blight"
 image: "image.png"
+image_alt: "Frederick Douglass."
+image_caption: >-
+  Frederick Douglass. <a href="https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879)_(cropped).jpg">George Kendall Warren, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
 ---
 
 David W. Blight's "Frederick Douglass: Prophet of Freedom" offers a meticulously researched and richly detailed portrait of one of America's most consequential figures.  Blight's biography transcends a simple chronological recounting of Douglass's life; it delves into the complexities of his character, the evolution of his thought, and the profound impact he had on the abolitionist movement, the Civil War, and the ongoing struggle for racial justice.  The book presents Douglass not merely as a historical figure but as a vibrant, multifaceted individual whose journey was inextricably intertwined with the turbulent history of 19th-century America.
