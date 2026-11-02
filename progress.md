@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **843**.
+Total books summarized: **844**.
 
-Books planned: **87**. Total tracked: **930**.
+Books planned: **86**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (87)
+## Books to Summarize (86)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -971,7 +971,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 - [ ] Seeing Like a State by James C. Scott
 - [ ] The Dictator's Handbook by Bruce Bueno de Mesquita and Alastair Smith
 - [ ] The Narrow Corridor by Daron Acemoglu and James A. Robinson
-- [ ] The Origins of Political Order by Francis Fukuyama
+- [x] [The Origins of Political Order by Francis Fukuyama](content/posts/politics_and_governance/the-origins-of-political-order/index.md)
 
 ### Sociology and Anthropology (5)
 
