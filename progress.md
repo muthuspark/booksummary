@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **847**.
+Total books summarized: **848**.
 
-Books planned: **83**. Total tracked: **930**.
+Books planned: **82**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (83)
+## Books to Summarize (82)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -963,7 +963,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 - [ ] Poor Economics by Abhijit V. Banerjee and Esther Duflo
 - [ ] The Undercover Economist by Tim Harford
 - [x] [The Worldly Philosophers by Robert L. Heilbroner](content/posts/economics_and_development/the-worldly-philosophers/index.md)
-- [ ] Why Nations Fail by Daron Acemoglu and James A. Robinson
+- [x] [Why Nations Fail by Daron Acemoglu and James A. Robinson](content/posts/economics_and_development/why-nations-fail/index.md)
 
 ### Politics and Governance (5)
 
