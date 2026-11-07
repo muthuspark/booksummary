@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **852**.
+Total books summarized: **853**.
 
-Books planned: **78**. Total tracked: **930**.
+Books planned: **77**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (78)
+## Books to Summarize (77)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -936,7 +936,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 ### Computing and Software Engineering (5)
 
 - [ ] Code by Charles Petzold
-- [ ] Designing Data-Intensive Applications by Martin Kleppmann
+- [x] [Designing Data-Intensive Applications by Martin Kleppmann](content/posts/computing_and_software_engineering/designing-data-intensive-applications/index.md)
 - [ ] The Mythical Man-Month by Frederick P. Brooks Jr.
 - [ ] The Pragmatic Programmer by David Thomas and Andrew Hunt
 - [ ] The Soul of a New Machine by Tracy Kidder
