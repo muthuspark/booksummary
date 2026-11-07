@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **853**.
+Total books summarized: **854**.
 
-Books planned: **77**. Total tracked: **930**.
+Books planned: **76**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (77)
+## Books to Summarize (76)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -906,7 +906,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 - [ ] I Contain Multitudes by Ed Yong
 - [ ] The Selfish Gene by Richard Dawkins
 - [ ] The Song of the Cell by Siddhartha Mukherjee
-- [ ] The Tangled Tree by David Quammen
+- [x] [The Tangled Tree by David Quammen](content/posts/biology_and_evolution/the-tangled-tree/index.md)
 - [ ] Your Inner Fish by Neil Shubin
 
 ### Earth Science and Geography (5)
