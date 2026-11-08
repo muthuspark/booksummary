@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **854**.
+Total books summarized: **855**.
 
-Books planned: **76**. Total tracked: **930**.
+Books planned: **75**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (76)
+## Books to Summarize (75)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
@@ -912,7 +912,7 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 ### Earth Science and Geography (5)
 
 - [ ] Annals of the Former World by John McPhee
-- [ ] Prisoners of Geography by Tim Marshall
+- [x] [Prisoners of Geography by Tim Marshall](content/posts/earth_science_and_geography/prisoners-of-geography/index.md)
 - [ ] The Invention of Nature by Andrea Wulf
 - [x] [The Map That Changed the World by Simon Winchester](content/posts/earth_science_and_geography/the-map-that-changed-the-world/index.md)
 - [x] [The Story of Earth by Robert M. Hazen](content/posts/earth_science_and_geography/the-story-of-earth/index.md)
