@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **855**.
+Total books summarized: **856**.
 
-Books planned: **75**. Total tracked: **930**.
+Books planned: **74**. Total tracked: **930**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,13 +881,13 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (75)
+## Books to Summarize (74)
 
 Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
 
 ### Astronomy and Space (5)
 
-- [ ] A Brief History of Time by Stephen Hawking
+- [x] [A Brief History of Time by Stephen Hawking](content/posts/astronomy_and_space/a-brief-history-of-time/index.md)
 - [ ] Cosmos by Carl Sagan
 - [x] [Packing for Mars by Mary Roach](content/posts/astronomy_and_space/packing-for-mars/index.md)
 - [ ] The End of Everything (Astrophysically Speaking) by Katie Mack
