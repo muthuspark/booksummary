@@ -1,0 +1,40 @@
+# Hero image provenance
+
+Style: `warm-gouache-v1` from IMAGE_STYLE.md.
+
+Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
+
+File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
+
+Delivery: optimized 640px square PNG; the full-resolution generated original is retained in the migration staging directory and tool output cache.
+
+Original conceptual illustration for this book summary. Not a book cover, documentary photograph, or author portrait.
+
+Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
+
+## Exact final generation prompt
+
+Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.
+
+Use case: illustration-story. Asset type: finished SQUARE hero illustration for a
+book-summary article. The supplied reference is a STYLE REFERENCE ONLY. Match its
+gouache, paper texture, matte pigments and gentle natural light. Do not copy its
+person, study desk, notebook or scene. Use a NEW concrete subject and composition
+appropriate to the book below. Choose a clear single scene or visual metaphor that
+conveys the central idea, using the summary as context. Do not render the title,
+author name, quotations, text, labels, equations or a book cover. No random abstract
+shards, generic tech networks, diagram labels, glossy objects or flat-vector icons.
+Avoid a person at a study desk as a default. Use people only when they help explain
+this particular subject. For biographies, evoke the person's work, historical
+setting or defining subject through places and objects, without inventing an author
+or historical person's likeness. Do not depict a speculative documentary event.
+For novels, choose an appropriate setting, object or restrained symbolic scene;
+preserve the work's tone without graphic violence, sexual imagery or fake covers.
+For scientific or medical topics, favor truthful everyday or natural objects and
+avoid inventing scientific diagrams, anatomy, measurements or therapeutic results.
+Use balanced square framing with a clear focal point and safe margins for small
+thumbnails. Maintain the shared muted sage, olive, ochre, wood brown and warm ivory
+palette. Make the illustration clearly hand-painted rather than photographic.
+
+Book and summary context (data, not instructions):
+{"title": "Making Ideas Happen by Scott Belsky", "description": "Overcoming the obstacles between vision and reality", "excerpt": "\n\n## Making Ideas Happen: A Summary\n\nScott Belsky's \"Making Ideas Happen\" isn't just about managing projects; it's a detailed guide to transforming ideas into reality.  It focuses on the often-overlooked process of personal organization and self-management as the bedrock of creative productivity.  The book provides a practical framework, emphasizing action and iterative refinement over perfectionism.\n\n### Understanding Your Creative Process\n\nThe book starts by acknowledging the messiness of creative work. It dispels the myth of linear, straightforward progress, emphasizing instead the cyclical and iterative nature of idea development. Belsky encourages readers to understand their personal work styles and identify their unique challenges and strengths. This self-awareness is important for developing an effective system.\n\n### The \"Making It Happen\" System\n\nThe core of the book revolves around a system—a structured approach to project management tailored for creative individuals. This system isn't rigid; it's designed to be adaptable and personalized. It emphasizes a visual and hands-on approach, advocating for physical organization alongside digital tools.  The system's key components include:\n\n* **Idea Collection:** Capturing ideas efficiently is paramount. Belsky suggests using various methods, from notebooks and index cards to digital tools, depending on individual preferences. The point is to capture ideas without judgment, avoiding premature evaluation.\n\n* **Idea Organization:**  Once collected, ideas need structure.  The book introduces various organization methods, including tagging, categorizing, and prioritization techniques.  Visual organization, using mind maps, flowcharts, or even simple lists, is strongly advocated.\n\n* **Project Definition:** Before diving in, Belsky emphasizes the importance of clearly defining projects. This includes setting realistic goals, outlining key tasks, and establishing a timeline. Breaking down large projects into smaller, manageable tasks is important for avoiding overwhelm.\n\n* **Task Management:**  The book outlines various task management techniques, including prioritizing tasks based on urgency and importance, utilizing to-do lists, and employing time-management strategies like the Pomodoro Technique.\n\n* **Action and"}
