@@ -10,6 +10,8 @@ Original conceptual illustration for this book summary. Not a book cover, docume
 
 Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
 
+Delivery: optimized 640px square PNG; the full-resolution generated original is retained in the migration staging directory and tool output cache.
+
 ## Exact final generation prompt
 
 Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.
