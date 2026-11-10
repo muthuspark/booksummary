@@ -13024,130 +13024,6 @@
     "groups": []
   },
   {
-    "file": "content/posts/decision_making_and_critical_thinking/the-mind-of-the-strategist/diagram-01.svg",
-    "title": "Strategic Vision: Seeing the Big Picture",
-    "nodes": [
-      {
-        "id": "A",
-        "label": "Self-Assessment",
-        "shape": "box"
-      },
-      {
-        "id": "B",
-        "label": "Strengths & Weaknesses",
-        "shape": "rounded"
-      },
-      {
-        "id": "C",
-        "label": "Environmental Analysis",
-        "shape": "box"
-      },
-      {
-        "id": "D",
-        "label": "Opportunities & Threats",
-        "shape": "rounded"
-      },
-      {
-        "id": "E",
-        "label": "Unique Value Proposition",
-        "shape": "box"
-      },
-      {
-        "id": "F",
-        "label": "Strategic Vision",
-        "shape": "rounded"
-      }
-    ],
-    "edges": [
-      {
-        "from": "A",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "C",
-        "to": "D",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "E",
-        "to": "F",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "B",
-        "to": "F",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "D",
-        "to": "F",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      }
-    ],
-    "groups": []
-  },
-  {
-    "file": "content/posts/decision_making_and_critical_thinking/the-mind-of-the-strategist/diagram-02.svg",
-    "title": "The Strategic Triangle: A Framework for Analysis",
-    "nodes": [
-      {
-        "id": "A",
-        "label": "Company",
-        "shape": "box"
-      },
-      {
-        "id": "B",
-        "label": "Strategic Triangle",
-        "shape": "rounded"
-      },
-      {
-        "id": "C",
-        "label": "Customer",
-        "shape": "box"
-      },
-      {
-        "id": "D",
-        "label": "Competitor",
-        "shape": "box"
-      }
-    ],
-    "edges": [
-      {
-        "from": "A",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "C",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "D",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      }
-    ],
-    "groups": []
-  },
-  {
     "file": "content/posts/decision_making_and_critical_thinking/the-power-of-logical-thinking/diagram-01.svg",
     "title": "Understanding the Fundamentals of Logic",
     "nodes": [
@@ -40819,49 +40695,30 @@
   },
   {
     "file": "content/posts/marriage_and_relationships/passionate-marriage/diagram-01.svg",
-    "title": "Differentiation of Self: The Foundation of a Passionate Marriage",
+    "title": "Differentiation: Self and Connection",
     "nodes": [
       {
         "id": "A",
-        "label": "Individual Identity",
-        "shape": "box"
+        "label": "Clear Sense of Self",
+        "shape": "rounded"
       },
       {
         "id": "B",
-        "label": "Self-Esteem",
+        "label": "Manage Your Reactions",
         "shape": "rounded"
       },
       {
         "id": "C",
-        "label": "Emotional Regulation",
+        "label": "Stay Connected",
         "shape": "rounded"
       },
       {
         "id": "D",
-        "label": "Clear Values & Needs",
+        "label": "Differentiation",
         "shape": "rounded"
-      },
-      {
-        "id": "E",
-        "label": "Healthy Relationship",
-        "shape": "decision"
       }
     ],
     "edges": [
-      {
-        "from": "A",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "A",
-        "to": "C",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
       {
         "from": "A",
         "to": "D",
@@ -40871,21 +40728,14 @@
       },
       {
         "from": "B",
-        "to": "E",
+        "to": "D",
         "label": "",
         "dashed": false,
         "arrow": true
       },
       {
         "from": "C",
-        "to": "E",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "D",
-        "to": "E",
+        "to": "D",
         "label": "",
         "dashed": false,
         "arrow": true
@@ -40895,26 +40745,26 @@
   },
   {
     "file": "content/posts/marriage_and_relationships/passionate-marriage/diagram-02.svg",
-    "title": "The Stages of Intimacy",
+    "title": "Illustrative Reflection Process",
     "nodes": [
       {
         "id": "A",
-        "label": "Romance/Fusion",
-        "shape": "box"
+        "label": "Notice Your Reaction",
+        "shape": "rounded"
       },
       {
         "id": "B",
-        "label": "Conflict & Differentiation",
+        "label": "Examine Your Part",
         "shape": "rounded"
       },
       {
         "id": "C",
-        "label": "Adult-to-Adult Communication",
+        "label": "Choose an Honest Response",
         "shape": "rounded"
       },
       {
         "id": "D",
-        "label": "Mature Intimacy",
+        "label": "Listen and Reconsider",
         "shape": "rounded"
       }
     ],

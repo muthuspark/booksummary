@@ -184,6 +184,85 @@ Run the isolated automation tests without calling Codex:
 python3 scripts/test_write_random_summary.py
 ```
 
+## Improve summaries gaining search traction
+
+`scripts/improve_trending_summaries.sh` fetches Google Search Console data from
+`sc-domain:summaries.muthu.co` and selects up to two existing articles for review.
+It compares two adjacent 28-day windows, ending three days before today in
+Search Console's Pacific timezone, and requests finalized web-search data.
+It paginates page results and fetches up to 20 current search queries per selected
+page URL. Search Console returns top rows and omits some queries for privacy;
+this report is evidence for review, not a complete traffic census.
+
+A candidate needs at least 50 current impressions and either 3 additional clicks
+with at least 20% click growth, or 50 additional impressions with at least 20%
+impression growth and no loss of clicks. Ranking uses `10 × added clicks +
+0.1 × added impressions`, counting only positive gains. These are selection
+heuristics, not predictions of SEO impact. Articles absent from an otherwise
+populated comparison period use zero as their baseline. If either entire period
+has no data, or nothing qualifies, the script exits without editing or publishing.
+
+Install the live-data dependencies, enable the Google Search Console API in your
+Google Cloud project, and give your service account access to the GSC property.
+Keep its JSON key outside the checkout:
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r scripts/requirements-gsc.txt
+export GOOGLE_APPLICATION_CREDENTIALS=/absolute/path/to/service_account.json
+
+# Fetch analytics and preview selections and the full editing prompt:
+./scripts/improve_trending_summaries.sh --dry-run
+
+# Improve up to two articles, then build and verify locally:
+./scripts/improve_trending_summaries.sh
+
+# Improve one article and publish after validation:
+./scripts/improve_trending_summaries.sh --count 1 --publish
+
+# Override the property if your account uses a domain property:
+./scripts/improve_trending_summaries.sh --property sc-domain:muthu.co --dry-run
+```
+
+The helper also reads `GOOGLE_APPLICATION_CREDENTIALS` from the project's ignored
+`.env` file. Use `GOOGLE_APPLICATION_CREDENTIALS=/absolute/path/to/service_account.json`
+there to avoid exporting it for each session. An exported environment value takes
+precedence over `.env`; `--credentials FILE` overrides both. The file is read as
+configuration, without executing shell commands or expanding variables.
+The shell script uses `.venv/bin/python3` automatically when it exists; otherwise
+it uses `python3` from `PATH`.
+`--model` and `--profile`
+work as in the random writer. File arguments are resolved from the repository root;
+absolute paths are recommended. The default GSC property must exist in the account;
+the script does not guess a different property after an API error. It also supports
+`https://summaries.muthu.co/` and `sc-domain:muthu.co`, with page data filtered to
+this site's articles. Authentication, permission and API errors stop the run.
+
+The Codex prompt follows the random writer's research, source verification,
+simplified writing, image provenance and SVG diagram instructions. It asks for
+targeted improvements based on actual reader queries. Good content and visuals can
+remain unchanged. New hero images need a real PNG of at least 512×512 and
+`image-source.md`. The caller checks identity metadata, author credits, new hero
+images and unchanged progress tracking, then independently builds and verifies the
+whole site. Runs share the random writer's lock. Failures preserve partial edits
+for review and do not publish.
+
+Each run prints its private report directory under `.git/gsc-improver/`, containing
+`analytics.json`, `selection.json`, and, when articles qualify, `prompt.txt`.
+Editing runs also save the final Codex response as `result.txt`. Credentials are
+used only by the analytics helper and are not included in the prompt. Reports are
+outside tracked site content. To replay a saved report without Google access:
+
+```sh
+./scripts/improve_trending_summaries.sh --analytics-json /absolute/path/to/analytics.json --dry-run
+python3 scripts/test_gsc_summary_candidates.py
+```
+
+Dry runs save reports but do not run Codex, build, or publish. Normal runs leave
+verified changes for review. `--publish` requires a clean checkout before editing
+because `render_publish.sh` stages all changes, commits and pushes. A run that
+leaves no changes after the build does not publish. No run changes `progress.md`.
+
 ## Categories and diagrams
 
 Browse summaries using the category links and page navigation. Author names in
@@ -199,6 +278,15 @@ are not displayed, and the book search scripts are not loaded.
 Hugo creates 80px and 160px WebP thumbnails for listings and search results. Original
 images remain available in each article bundle. Homepage counts are derived from
 published content, and category navigation remains above the catalog.
+
+All newly generated hero and inline illustrations follow [IMAGE_STYLE.md](IMAGE_STYLE.md):
+warm gouache, restrained pencil detail, subtle ivory paper, muted sage and ochre,
+and soft natural light. Both content-generation scripts embed this shared guide
+in their prompts. It includes approved reference images, a reusable prompt prefix,
+and review and provenance requirements. Update this one guide to change the visual
+direction for future generations. SVG diagrams use a matching palette with crisp
+text. Existing assets are updated when requested or when an article review finds
+a reason to replace them.
 
 Diagrams are standalone SVG images beside each summary, referenced with standard
 Markdown image syntax. They display without JavaScript, include accessible text,

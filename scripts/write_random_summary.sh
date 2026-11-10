@@ -150,11 +150,16 @@ Research and writing:
 - Start the body with an informative heading. Use clear sections and readable prose.
 
 Hero image (required):
+- Follow IMAGE_STYLE.md for every generated hero and inline illustration. Its shared
+  style guide is included below. Use its complete reusable prefix in each tool prompt,
+  inspect the approved style references, and record the full final prompt and style
+  identifier in the provenance. Use the same medium and palette across the article.
 - Create a relevant, finished illustration using an available image-generation tool
   and its skill. Save the actual image in the new bundle as image.png, at least 512px
   square. Do not leave it in a tool cache or merely save an image prompt.
 - If generation is unavailable, obtain a genuinely relevant public-domain or suitably
-  licensed image, download it, and convert it to a real PNG. Verify the license and
+  licensed illustration matching the shared style, download it, and convert it to a
+  real PNG. Verify the license and
   give any required visible attribution in the article. Do not invent source URLs.
 - Save image-source.md beside the image, documenting the generation prompt/tool or
   the original image URL, creator, license, and attribution. Keep the image appropriate
@@ -165,15 +170,39 @@ Hero image (required):
   the task incomplete. Do not pretend a prompt or missing file is a finished image.
 
 Diagrams (only when they improve understanding):
-- Use available diagram/design skills and create standalone, readable SVG images;
-  never add Mermaid blocks or a JavaScript diagram runtime. Do not force a diagram
-  into a book that is better explained in prose.
-- For flows, decisions, or concept maps, append definitions for ONLY this new bundle
-  to scripts/diagrams.json and run scripts/render_diagrams.py --only with this bundle's
-  path. Follow the existing schema and use diagram-01.svg, diagram-02.svg, etc.
-- Preserve the meaning of relationships and distinguish illustrative numbers from
-  the book's evidence. Use concise labels and sensible layouts for a narrow article.
-  Reference each SVG once with descriptive Markdown alt text. Inspect every visual.
+- Design for general readers with no technical background. Use available design skills
+  and make simple explanatory infographics the default. Choose the visual structure
+  to match the idea: a triangle for three related perspectives, a cycle for repetition,
+  a comparison for alternatives, a sequence for ordered steps, or a spectrum for a range.
+  A real triangle should look like a triangle, not three boxes feeding a fourth box.
+- Use short, everyday labels that explain the idea, not just name it. For example,
+  pair Customer with "What do people need?", Company with "What can we do well?",
+  and Competitor with "What other choices do people have?". Add one brief takeaway
+  or a concrete example when useful. Explain book terminology without losing accuracy.
+- Match the site's calm light style and Crimson Text typography, with a readable
+  serif fallback when that font is unavailable. Use a restrained
+  palette, generous spacing, few outlines, and clear visual hierarchy. Avoid dense
+  box-and-arrow networks, technical symbols, unnecessary legends, and decorative clutter.
+  Use arrows only for genuine direction, sequence, or causation. Equal perspectives
+  need equal visual weight; do not imply that one causes another.
+- Author standalone SVG infographics as infographic-01.svg, infographic-02.svg, etc.
+  Keep these custom assets outside scripts/diagrams.json so Graphviz regeneration
+  cannot overwrite their layouts. Include a responsive viewBox, role="img",
+  aria-labelledby="title description", and meaningful title and desc elements with
+  matching IDs. No scripts, external fonts/images, foreignObject, Mermaid, or runtime.
+- Reserve Graphviz for an actual process or decision tree that benefits from arrows.
+  For those diagrams only, append definitions for this new bundle to scripts/diagrams.json
+  and run scripts/render_diagrams.py --only with the bundle path. Follow its schema
+  and use diagram-01.svg, diagram-02.svg, etc. Do not use it for every conceptual model.
+- Use an illustrated example or a restrained sketch only when it explains more than
+  a simple infographic. Keep essential labels as SVG text. Apply the hero-image source
+  and licensing rules to any generated or downloaded illustration assets.
+- Distinguish illustrative examples and numbers from the book's evidence. Reference
+  each visual once with descriptive Markdown alt text and a short explanatory caption
+  when needed. Inspect at desktop and 360px article width: labels should remain at
+  least 14px on screen, with no clipping, overlaps, or meaning conveyed by color alone.
+  Simplify or stack the layout rather than shrinking text. Omit visuals that merely
+  repeat nearby prose without helping the reader understand it.
 
 Completion:
 - Ensure every referenced local image exists, and the summary and visuals are ready
@@ -182,7 +211,8 @@ Completion:
   site, then update the checkbox and counts. Summarize what you created, any diagrams,
   research sources, image provenance, and validation. If anything is incomplete,
   clearly report it; do not claim success.
-''')
+''' + '\nShared image style guide (apply to every generated image):\n'
+    + (root / 'IMAGE_STYLE.md').read_text())
 PY
 [[ ! -e "$run_dir/empty" ]] || exit 0
 if "$dry_run"; then

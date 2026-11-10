@@ -5,6 +5,10 @@
 .hugo_cache/
 __pycache__/
 
+# Local environment configuration
+/.env
+/.venv/
+
 # Legacy Quarto cache (safe to delete locally)
 /.quarto/
 **/*.quarto_ipynb

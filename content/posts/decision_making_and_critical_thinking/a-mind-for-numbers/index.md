@@ -15,7 +15,7 @@ Barbara Oakley's "A Mind for Numbers" is not just a guide to conquering STEM sub
 
 The core message revolves around understanding how the brain functions differently in focused and diffused modes of thinking. Focused mode is ideal for tackling specific problems, memorizing facts, and engaging in concentrated effort. Diffused mode, however, is important for making connections, gaining insights, and solving complex problems. It's during periods of rest and relaxation that the brain works in the background, creating those 'aha!' moments.
 
-![Diagram illustrating the concepts in this summary](diagram-1.svg)
+![Focused thinking means working carefully on one problem. Diffuse thinking means stepping away to give ideas room to connect. Try a problem, take a break, then return and try again.](infographic-01.svg)
 
 Oakley emphasizes the importance of cycling between these modes for optimal learning.  Cramming solely relies on focused mode, leading to short-term gains and a lack of deep understanding.  Instead, she advocates for a balanced approach that incorporates periods of focused study interspersed with breaks and activities that encourage diffused thinking.
 
@@ -27,9 +27,13 @@ Interleaving is another key strategy. Instead of focusing on one topic at a time
 
 Active recall, or testing yourself frequently, is crucial.  Passive rereading is ineffective; the brain needs to actively retrieve information to solidify its understanding. This can be done through self-testing, flashcards, or teaching the material to someone else.
 
+{{< figure src="spaced-review.webp" alt="Three illustrated study sessions: a learner reads a geometry example, attempts it with the notebook closed, and later opens the notebook to check the work." caption="An example study routine: learn, recall on a later day, then check your work." width="1536" height="1024" class="photo-figure" >}}
+
 ##  Overcoming Procrastination and Building Habits
 
 Procrastination is a significant barrier to effective learning. Oakley tackles this by exploring its underlying psychological mechanisms. She emphasizes the importance of understanding your own procrastination triggers and developing strategies to mitigate them.  This includes breaking down large tasks into smaller, manageable steps, rewarding oneself for progress, and utilizing techniques like the Pomodoro Technique.
+
+{{< figure src="starting-small.webp" alt="A learner begins one geometry exercise with a pencil and a small timer. A phone rests face down on a shelf away from the desk." caption="Start with one manageable task. Set aside distractions and focus on the next step." width="1536" height="1024" class="photo-figure" >}}
 
 Building good study habits is a gradual process that requires persistence.  The book emphasizes the power of small, consistent actions over sporadic bursts of intense effort.  It encourages readers to establish a regular study schedule, create a conducive study environment, and prioritize sleep and physical activity.
 

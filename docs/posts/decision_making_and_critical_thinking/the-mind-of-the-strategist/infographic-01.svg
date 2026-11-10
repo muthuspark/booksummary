@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="510" viewBox="0 0 640 510" role="img" aria-labelledby="title description">
+  <title id="title">The strategic triangle: find the fit between three perspectives</title>
+  <desc id="description">Customer: What do people need? Company: What can we do well? Competitor: What other choices do people have? The three corners have equal importance. A useful strategic choice connects all three; these are perspectives, not sequential steps.</desc>
+  <style>
+    text { font-family: "Crimson Text", Georgia, serif; fill: #293e36; text-anchor: middle; }
+    .question { font-size: 28px; fill: #475b52; }
+    .label { font-size: 34px; font-weight: 600; }
+  </style>
+  <path d="M320 172 L140 350 L500 350 Z" fill="#edf3ee" stroke="#91aa98" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#57785f" stroke="#fcfcfa" stroke-width="5">
+    <circle cx="320" cy="172" r="9"/>
+    <circle cx="140" cy="350" r="9"/>
+    <circle cx="500" cy="350" r="9"/>
+  </g>
+  <text x="320" y="47" font-size="32">A strategy connects three views</text>
+  <text x="320" y="104" class="label">Customer</text>
+  <text x="320" y="142" class="question">What do people need?</text>
+  <text x="320" y="268" class="label">Find the fit</text>
+  <text x="320" y="307" class="question">Connect all three</text>
+  <text x="140" y="406" class="label">Company</text>
+  <text x="140" y="447" class="question"><tspan x="140">What can we</tspan><tspan x="140" dy="35">do well?</tspan></text>
+  <text x="500" y="406" class="label">Competitor</text>
+  <text x="500" y="447" class="question"><tspan x="500">What other choices</tspan><tspan x="500" dy="35">do people have?</tspan></text>
+</svg>

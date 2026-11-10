@@ -1,5 +1,5 @@
 {{ $image := .Page.Resources.GetMatch .Destination }}
-{{ if and $image (strings.HasPrefix (path.Base .Destination) "diagram-") }}
+{{ if and $image (or (strings.HasPrefix (path.Base .Destination) "diagram-") (strings.HasPrefix (path.Base .Destination) "infographic-")) }}
   {{ $viewBox := index (findRE `viewBox="[^"]+"` $image.Content 1) 0 }}
   {{ $dimensions := split (strings.TrimPrefix `viewBox="` (strings.TrimSuffix `"` $viewBox)) " " }}
   {{ $width := index $dimensions 2 | float | math.Ceil | int }}

@@ -9,3 +9,11 @@ Write in a style inspired by ASD-STE100 Simplified Technical English, following 
 Use short, direct sentences. Express one main idea per sentence. Prefer common words over complex vocabulary. Use active voice. Keep terminology consistent. Explain technical concepts through concrete examples. Introduce complex ideas progressively. Remove filler, repetition, and unnecessary transitions.
 
 Preserve technical accuracy and important nuance. Do not oversimplify the underlying concepts. Optimize for comprehension, not merely brevity.
+
+## Image style for all articles
+
+Follow `IMAGE_STYLE.md` for every newly generated or replaced hero image, inline
+illustration, and illustrated example. Include its reusable style prefix in every
+image-generation prompt, inspect the approved references, and record the full final
+prompt and style identifier in the image provenance. Keep SVG diagrams consistent
+with the guide's palette and readability rules.
