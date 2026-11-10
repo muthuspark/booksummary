@@ -5,9 +5,8 @@ description: "A. L. Kennedy’s BFI Film Classics study of Powell and Pressburge
 author: "A.L. Kennedy"
 authors: ["A.L. Kennedy"]
 image: "image.png"
-image_alt: "A. L. Kennedy, author of the BFI Film Classics study."
-image_caption: >-
-  A. L. Kennedy, author of the BFI Film Classics study. <a href="https://commons.wikimedia.org/wiki/File:A._L._Kennedy_(3).jpg">Heinrich-Böll-Stiftung, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>. Cropped and resized. Adaptation: CC BY-SA 2.0.
+image_alt: "A film reel, military cap, books and papers in a quiet room."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## A study of a film and its national ideals

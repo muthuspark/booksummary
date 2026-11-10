@@ -5,9 +5,8 @@ description: "Comprehensive biography of Apple's innovative co-founder, based on
 author: "Walter Isaacson"
 authors: ["Walter Isaacson"]
 image: "image.png"
-image_alt: "Steve Jobs."
-image_caption: >-
-  Steve Jobs. <a href="https://commons.wikimedia.org/wiki/File:Steve_Jobs_Headshot_2010_(cropped_6).jpg">Matthew Yohe, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Cropped and resized. Adaptation: CC BY-SA 3.0.
+image_alt: "An unbranded desktop computer, portable music player, circuit board and sketchbook."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Walter Isaacson's biography, "Steve Jobs," paints a complex portrait of the Apple co-founder, exploring his personal life, professional triumphs, and impact on the technology industry. The book isn't a hagiography; it portrays Jobs as a brilliant, driven, and often ruthless individual, whose genius was inextricably linked to his flaws. Isaacson's access to Jobs himself, along with countless interviews with family, friends, colleagues, and rivals, provides an intimate and revealing account of his life.

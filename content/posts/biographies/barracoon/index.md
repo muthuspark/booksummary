@@ -5,9 +5,8 @@ description: "Cudjo Lewis’s oral history of capture, the Clotilda crossing, en
 author: "Zora Neale Hurston"
 authors: ["Zora Neale Hurston"]
 image: "image.png"
-image_alt: "Cudjo Lewis (Kossola), photographed by Emma Langdon Roche."
-image_caption: >-
-  Cudjo Lewis (Kossola), photographed by Emma Langdon Roche. <a href="https://commons.wikimedia.org/wiki/File:Cudjoe_Lewis_photo_(cropped).jpg">Emma Langdon Roche, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A woven basket, cotton, shells and bowls beside a rural wooden home."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Kossola's life in his own words

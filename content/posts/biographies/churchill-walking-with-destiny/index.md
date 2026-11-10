@@ -5,9 +5,8 @@ description: "Definitive biography of Winston Churchill, drawing on extensive ne
 author: "Andrew Roberts"
 authors: ["Andrew Roberts"]
 image: "image.png"
-image_alt: "Winston Churchill."
-image_caption: >-
-  Winston Churchill. <a href="https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A bowler hat, cigar, books and map beside a window overlooking London."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Andrew Roberts' "Churchill: Walking with Destiny" is a monumental biography of Winston Churchill, a figure whose life and career are inextricably interwoven with the tumultuous 20th century.  Roberts' work, lauded for its meticulous research and insightful analysis, paints a comprehensive portrait of a man of immense contradictions – brilliant and flawed, courageous and reckless, loved and hated. It moves beyond the iconic image of the wartime leader, exploring the multifaceted nature of Churchill's personality and the complexities of his journey.

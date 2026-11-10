@@ -5,9 +5,8 @@ description: "Biography of Norman Rockwell, exploring his illustrations, private
 author: "Deborah Solomon"
 authors: ["Deborah Solomon"]
 image: "image.png"
-image_alt: "Norman Rockwell in a historical photograph."
-image_caption: >-
-  Norman Rockwell in a historical photograph. <a href="https://commons.wikimedia.org/wiki/File:Rockwell-Norman-LOC.jpg">Underwood &amp; Underwood, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "An easel, brushes and palette beside a painting of an American town."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The illustrator and the private man

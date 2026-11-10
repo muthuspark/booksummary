@@ -1,11 +1,17 @@
 # Hero image provenance
 
-Tool: OpenAI image_gen built-in image generation, 2026-11-10.
+Style: `warm-gouache-v1` from IMAGE_STYLE.md.
 
-Creator: OpenAI image generation, prompted by Codex for this summary.
+Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
 
-Original generated illustration; no external photograph or stock asset was used. No third-party attribution is required. This is a conceptual illustration, not a book cover or a scene from a book case study.
+File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
 
-Prompt:
+Delivery: optimized 640px square PNG; full-resolution originals are retained in the migration staging directory and tool output cache.
 
-Use case: illustration-story. Asset type: hero illustration for a summary of Kenichi Ohmae's The Mind of the Strategist. Primary request: a calm editorial illustration of business strategy as understanding customers, company capabilities and competition. Scene: overhead view of a wooden worktable with a hand arranging three distinct groups of small unbranded wooden pieces: people figures representing customers, workshop blocks representing company capabilities, and two distinct small storefront models representing competing businesses. A notebook with abstract sketches and no readable writing. Warm natural light, muted forest green, cream and warm wood, thoughtful restrained composition, square format at least 1024 by 1024. No text, no lettering, no book cover, no portrait, no fantasy imagery, no logos or watermarks.
+Original conceptual illustration for this book summary. It is not a book cover, documentary photograph, or author portrait.
+
+Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
+
+## Generation record
+
+The exact final prompt, style reference, original generated filename, delivery details and any superseded provenance are recorded in [image-generation.json](image-generation.json). Prompts are stored as data so source markup cannot execute as Hugo shortcodes.

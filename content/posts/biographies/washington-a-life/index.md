@@ -5,9 +5,8 @@ description: "Pulitzer Prize-winning biography offering a fresh portrait of Amer
 author: "Ron Chernow"
 authors: ["Ron Chernow"]
 image: "image.png"
-image_alt: "George Washington."
-image_caption: >-
-  George Washington. <a href="https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg">Gilbert Stuart, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A colonial hat, compass, surveying tools and map overlooking a river estate."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Ron Chernow's "Washington: A Life" is a monumental biography that delves deep into the multifaceted life of George Washington, offering a nuanced portrait that transcends the often-sanitized image of the first American president.  Chernow meticulously reconstructs Washington's journey, revealing a complex man grappling with personal insecurities, profound ambition, and the immense weight of leading a nascent nation through perilous times. The biography moves beyond the iconic symbol to portray a human being, flawed yet ultimately transformative, whose life shaped the course of American history.

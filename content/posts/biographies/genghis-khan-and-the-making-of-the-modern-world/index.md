@@ -5,9 +5,8 @@ description: "Revealing biography of the Mongol leader and his impact on world h
 author: "Jack Weatherford"
 authors: ["Jack Weatherford"]
 image: "image.png"
-image_alt: "A later painted portrait of Genghis Khan."
-image_caption: >-
-  A later painted portrait of Genghis Khan. <a href="https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg">Unknown artist, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A riding helmet, bow and map overlooking a broad grassland."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Genghis Khan and the Making of the Modern World: A Summary

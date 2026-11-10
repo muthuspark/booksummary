@@ -5,9 +5,8 @@ description: "Cultural biography examining the myths and realities of the Hollyw
 author: "Sarah Churchwell"
 authors: ["Sarah Churchwell"]
 image: "image.png"
-image_alt: "Marilyn Monroe."
-image_caption: >-
-  Marilyn Monroe. <a href="https://commons.wikimedia.org/wiki/File:Monroecirca1953.jpg">Bert Parry, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A clapperboard, gloves, perfume and compact beside a dressing-room mirror."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The Many Lives of Marilyn Monroe: A Summary

@@ -5,9 +5,8 @@ description: "Biography of America's first Nobel Prize winner in literature"
 author: "Richard Lingeman"
 authors: ["Richard Lingeman"]
 image: "image.png"
-image_alt: "Sinclair Lewis."
-image_caption: >-
-  Sinclair Lewis. <a href="https://commons.wikimedia.org/wiki/File:Lewis-Sinclair-LOC.jpg">Arnold Genthe, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A typewriter, newspapers and books overlooking the main street of a small town."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Sinclair Lewis: A Rebel's Journey from Main Street to Literary Immortality

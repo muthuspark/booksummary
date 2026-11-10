@@ -5,9 +5,8 @@ description: "Comprehensive account of Gandhi's life from his return to India to
 author: "Ramachandra Guha"
 authors: ["Ramachandra Guha"]
 image: "image.png"
-image_alt: "Mahatma Gandhi."
-image_caption: >-
-  Mahatma Gandhi. <a href="https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg">Elliott &amp; Fry, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A spinning wheel, cotton cloth and glasses in a quiet garden."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Ramachandra Guha's "Gandhi: The Years That Changed the World" isn't a full-scale biography encompassing Gandhi's entire life. Instead, it focuses intensely on the period between 1915 and 1948 – the years Guha argues truly defined Gandhi's impact and shaped modern India.  Therefore, this summary will reflect that temporal focus, offering a glimpse into Gandhi's earlier life as necessary context, but prioritizing the pivotal events and transformations within this crucial period.

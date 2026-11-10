@@ -5,9 +5,8 @@ description: "Biography exploring the Dutch master's life through his art and ti
 author: "Simon Schama"
 authors: ["Simon Schama"]
 image: "image.png"
-image_alt: "Rembrandt."
-image_caption: >-
-  Rembrandt. <a href="https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg">Rembrandt, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Brushes, a palette and an easel beside a window overlooking an old town."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Simon Schama's "Rembrandt's Eyes" is not a traditional biography in the chronological sense; it's a deeply immersive exploration of Rembrandt van Rijn's life and art, interwoven with the cultural and social fabric of 17th-century Holland. Schama doesn't simply recount the facts of Rembrandt's life; he uses Rembrandt's art as a lens through which to understand the artist's complex personality, his turbulent times, and the profound impact he had on the history of painting.  The book is less about a linear timeline and more about a thematic exploration of Rembrandt's genius and humanity.

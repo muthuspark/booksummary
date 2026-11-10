@@ -5,9 +5,8 @@ description: "Story of the 'North Pond Hermit' who lived alone in the Maine wood
 author: "Michael Finkel"
 authors: ["Michael Finkel"]
 image: "image.png"
-image_alt: "Sunrise over the Belgrade Lakes region of Maine, shown as context for Christopher Knight’s story."
-image_caption: >-
-  Sunrise over the Belgrade Lakes region of Maine, shown as context for Christopher Knight’s story. <a href="https://commons.wikimedia.org/wiki/File:Belgrade_sunrise.jpg">Peachoftree, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Cropped and resized. Adaptation: CC BY-SA 3.0.
+image_alt: "A tent, supplies, lantern and books in a quiet woodland camp."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Twenty-seven years in the Maine woods

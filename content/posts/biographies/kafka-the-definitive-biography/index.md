@@ -5,9 +5,8 @@ description: "Three-volume exploration of the enigmatic writer's life and work"
 author: "Reiner Stach"
 authors: ["Reiner Stach"]
 image: "image.png"
-image_alt: "Franz Kafka."
-image_caption: >-
-  Franz Kafka. <a href="https://commons.wikimedia.org/wiki/File:Franz_Kafka,_1923.jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A pen, papers, books and wooden filing drawers overlooking an old city."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Reiner Stach's "Kafka: The Definitive Biography" offers a meticulously researched and deeply insightful portrait of Franz Kafka, moving beyond the mythologized figure often presented and delving into the complexities of his life and work.  Stach's biography meticulously reconstructs Kafka's existence, revealing a man tormented by self-doubt, burdened by a fraught family dynamic, and profoundly shaped by the socio-political realities of Prague at the turn of the 20th century.  This summary will explore key aspects of Kafka's life, highlighting his personal journey, literary contributions, and enduring legacy.

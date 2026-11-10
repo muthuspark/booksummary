@@ -5,9 +5,8 @@ description: "Portrait of America's second president, chronicling his role in th
 author: "David McCullough"
 authors: ["David McCullough"]
 image: "image.png"
-image_alt: "John Adams."
-image_caption: >-
-  John Adams. <a href="https://commons.wikimedia.org/wiki/File:Gilbert_Stuart,_John_Adams,_c._1800-1815,_NGA_42933.jpg">Gilbert Stuart, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Cropped and resized.
+image_alt: "A quill, papers, books and flag beside a window overlooking an old harbor."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 David McCullough’s Pulitzer Prize-winning biography, "John Adams," offers a richly detailed and deeply empathetic portrait of the second President of the United States, a man often overshadowed by his more charismatic contemporaries but undeniably important to the founding and shaping of the nation.  McCullough’s work transcends a simple recounting of historical events; it crafts a narrative that reveals the complexities of Adams’ character, his unwavering commitment to principle, and the impact he had on American history, despite facing opposition and personal setbacks throughout his life.

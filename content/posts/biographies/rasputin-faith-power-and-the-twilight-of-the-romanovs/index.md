@@ -5,9 +5,8 @@ description: "Comprehensive biography separating myth from reality about the inf
 author: "Douglas Smith"
 authors: ["Douglas Smith"]
 image: "image.png"
-image_alt: "Grigori Rasputin."
-image_caption: >-
-  Grigori Rasputin. <a href="https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg">Unknown author, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "An oil lamp, cross, beads and book overlooking a snowy village."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Rasputin: Faith, Power, and the Twilight of the Romanovs: A Summary

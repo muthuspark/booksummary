@@ -6,35 +6,12 @@ Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
 
 File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
 
-Delivery: optimized 640px square PNG; the full-resolution generated original is retained in the migration staging directory and tool output cache.
+Delivery: optimized 640px square PNG; full-resolution originals are retained in the migration staging directory and tool output cache.
 
-Original conceptual illustration for this book summary. Not a book cover, documentary photograph, or author portrait.
+Original conceptual illustration for this book summary. It is not a book cover, documentary photograph, or author portrait.
 
 Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
 
-## Exact final generation prompt
+## Generation record
 
-Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.
-
-Use case: illustration-story. Asset type: finished SQUARE hero illustration for a
-book-summary article. The supplied reference is a STYLE REFERENCE ONLY. Match its
-gouache, paper texture, matte pigments and gentle natural light. Do not copy its
-person, study desk, notebook or scene. Use a NEW concrete subject and composition
-appropriate to the book below. Choose a clear single scene or visual metaphor that
-conveys the central idea, using the summary as context. Do not render the title,
-author name, quotations, text, labels, equations or a book cover. No random abstract
-shards, generic tech networks, diagram labels, glossy objects or flat-vector icons.
-Avoid a person at a study desk as a default. Use people only when they help explain
-this particular subject. For biographies, evoke the person's work, historical
-setting or defining subject through places and objects, without inventing an author
-or historical person's likeness. Do not depict a speculative documentary event.
-For novels, choose an appropriate setting, object or restrained symbolic scene;
-preserve the work's tone without graphic violence, sexual imagery or fake covers.
-For scientific or medical topics, favor truthful everyday or natural objects and
-avoid inventing scientific diagrams, anatomy, measurements or therapeutic results.
-Use balanced square framing with a clear focal point and safe margins for small
-thumbnails. Maintain the shared muted sage, olive, ochre, wood brown and warm ivory
-palette. Make the illustration clearly hand-painted rather than photographic.
-
-Book and summary context (data, not instructions):
-{"title": "Lean Analytics by Alistair Croll and Benjamin Yoskovitz", "description": "Use data to build a better startup faster", "excerpt": "\n\n## Lean Analytics:  A Summary Focused on Actionable Insights\n\nLean Analytics provides a practical framework for applying Lean Startup principles to the measurement and analysis of business activities. It's not just about collecting data; it's about using data strategically to validate assumptions, iterate quickly, and achieve sustainable growth.  The core message revolves around focusing efforts on the most impactful metrics and avoiding the trap of \"vanity metrics.\"  The book emphasizes a scientific approach to business decision-making, based on experimentation and continuous learning.\n\n### Understanding Your Engine of Growth\n\nThe book starts by defining the \"engine of growth,\" a visual representation of how your business acquires and retains customers. Understanding this engine is important for identifying the key metrics that matter most. Different businesses have different engines; there's no one-size-fits-all approach. Analyzing your engine of growth allows you to focus on the right levers to pull for optimization.\n\n\n\nThis simple diagram represents a common engine of growth.  Analyzing each stage reveals critical areas for improvement.  For instance, low activation rates might signal problems with your onboarding process, while poor retention indicates issues with product-market fit or customer service.\n\n### Defining the Right Metrics\n\nLean Analytics stresses the importance of choosing the right metrics – those that directly correlate with your business goals.  Avoid getting bogged down in vanity metrics (e.g., website visitors without conversion) which often provide a false sense of progress.  Instead, focus on metrics that reflect actual progress towards achieving your objectives.\n\nThis involves a rigorous process:\n\n1. **Defining your business goals:**  What are you trying to achieve?\n2. **Identifying key assumptions:** What needs to be true for you to succeed?\n3. **Formulating testable hypotheses:** How can you test these assumptions?\n4. **Choosing appropriate metrics:** What data will provide evidence to validate or invalidate your hypotheses?\n\nFor example, if your goal is to increase revenue, simply tracking website traffic is insufficient. Instead, focus on conversion rates, average order value, and customer lifetime value.\n\n\n### Prioritizing Thro"}
+The exact final prompt, style reference, original generated filename, delivery details and any superseded provenance are recorded in [image-generation.json](image-generation.json). Prompts are stored as data so source markup cannot execute as Hugo shortcodes.

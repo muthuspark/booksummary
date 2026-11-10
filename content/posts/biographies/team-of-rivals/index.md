@@ -5,9 +5,8 @@ description: "Political biography examining Lincoln's presidency through his rel
 author: "Doris Kearns Goodwin"
 authors: ["Doris Kearns Goodwin"]
 image: "image.png"
-image_alt: "Abraham Lincoln."
-image_caption: >-
-  Abraham Lincoln. <a href="https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg">Alexander Gardner, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Maps, books and a quill arranged around a table in a quiet historical room."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Doris Kearns Goodwin's "Team of Rivals: The Political Genius of Abraham Lincoln" isn't a biography of Lincoln alone, but a masterful exploration of the extraordinary group of men who served in his cabinet: William Seward, Salmon P. Chase, Edward Bates, and Montgomery Blair. Goodwin masterfully weaves their individual narratives with Lincoln's, revealing how their ambition, rivalries, and ultimately their collaboration, shaped the outcome of the Civil War and the nation's future. Instead of focusing on a single life, the book provides a rich interwoven biographies, emphasizing the dynamics of leadership and the surprising power of harnessing opposing forces.

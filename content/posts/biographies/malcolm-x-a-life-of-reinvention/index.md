@@ -5,9 +5,8 @@ description: "Pulitzer Prize-winning reexamination of the civil rights leader's 
 author: "Manning Marable"
 authors: ["Manning Marable"]
 image: "image.png"
-image_alt: "Malcolm X."
-image_caption: >-
-  Malcolm X. <a href="https://commons.wikimedia.org/wiki/File:Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg">Eddie Adams, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Books, glasses, a cap and a fountain pen beside a city window."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Malcolm X: A Life of Reinvention – A Summary

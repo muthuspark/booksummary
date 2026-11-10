@@ -5,9 +5,8 @@ description: "Controversial biography challenging traditional views of the Chine
 author: "Jung Chang and Jon Halliday"
 authors: ["Jung Chang", "Jon Halliday"]
 image: "image.png"
-image_alt: "Mao Zedong."
-image_caption: >-
-  Mao Zedong. <a href="https://commons.wikimedia.org/wiki/File:Mao_Zedong_1950_Portrait_(3x4_cropped)(2).jpg">Chen Zhengqing (1917–1966), Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A cap with a red star, a book and map overlooking mountains."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Jung Chang and Jon Halliday's "Mao: The Unknown Story" presents a highly critical biography of Mao Zedong, challenging the widely accepted, officially sanctioned narrative of the Chinese Communist leader.  The book, meticulously researched and drawing on numerous previously inaccessible sources, paints a portrait of Mao as a ruthless, power-hungry individual whose revolutionary ideology masked a profound cruelty and incompetence that resulted in the deaths of tens of millions of Chinese citizens.  The authors aim to expose the “unknown story” – the hidden realities of Mao's life and the devastating consequences of his rule.

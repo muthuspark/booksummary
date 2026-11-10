@@ -5,9 +5,8 @@ description: "Sam Zemurray’s rise from immigrant fruit seller to United Fruit 
 author: "Rich Cohen"
 authors: ["Rich Cohen"]
 image: "image.png"
-image_alt: "Sam Zemurray."
-image_caption: >-
-  Sam Zemurray. <a href="https://commons.wikimedia.org/wiki/File:Sam_Zemurray,_1934.jpg">Los Angeles Times, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Cropped and resized.
+image_alt: "A crate of bananas beside a tropical harbor and industrial shipping buildings."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Sam Zemurray and the banana business

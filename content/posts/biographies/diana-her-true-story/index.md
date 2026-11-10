@@ -5,9 +5,8 @@ description: "Groundbreaking biography based on Diana's personal recordings and 
 author: "Andrew Morton"
 authors: ["Andrew Morton"]
 image: "image.png"
-image_alt: "Diana, Princess of Wales, in Washington, D.C., June 1997"
-image_caption: >-
-  Diana in Washington, D.C., June 1997. <a href="https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2)_(3).jpg">John Mathew Smith &amp; www.celebrity-photos.com, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>. Enhanced version by Joelphotofix; cropped and resized. Adaptation: CC BY-SA 2.0.
+image_alt: "A tiara, lilies and letters overlooking a palace garden."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Andrew Morton's "Diana: Her True Story," published in 1992, remains a controversial yet influential biography of Diana, Princess of Wales.  It offered a candid and, at the time, unprecedented glimpse into the private life of a member of the British Royal Family, shattering the carefully constructed image of regal perfection and revealing a woman grappling with immense pressure, emotional turmoil, and a profound sense of isolation. While the book’s accuracy has been debated, its impact on public perception of the monarchy and Diana herself was undeniable.  This summary will explore Diana's life as portrayed by Morton, focusing on her personal journey, key relationships, and lasting legacy.

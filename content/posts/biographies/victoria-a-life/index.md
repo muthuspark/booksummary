@@ -5,9 +5,8 @@ description: "Biography of Queen Victoria, her long reign, and the age she defin
 author: "A.N. Wilson"
 authors: ["A.N. Wilson"]
 image: "image.png"
-image_alt: "Queen Victoria."
-image_caption: >-
-  Queen Victoria. <a href="https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg">Alexander Bassano, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A crown, globe, books and sealed letter beside a window overlooking London."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 A.N. Wilson's "Victoria: A Life" offers a richly detailed and often critical portrait of Queen Victoria, moving beyond the simplistic image of a stoic, long-reigning monarch to reveal a complex woman shaped by both extraordinary circumstances and deeply personal struggles.  The biography, while not entirely hagiographic, acknowledges Victoria's significant contributions while simultaneously exposing the vulnerabilities and flaws that underscored her public persona.

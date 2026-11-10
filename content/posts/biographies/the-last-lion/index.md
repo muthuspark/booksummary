@@ -5,9 +5,8 @@ description: "First volume of Manchester’s Churchill biography, covering his l
 author: "William Manchester"
 authors: ["William Manchester"]
 image: "image.png"
-image_alt: "Winston Churchill."
-image_caption: >-
-  Winston Churchill. <a href="https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A military cap, globe, binoculars and open journal beside a London window."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 William Manchester's monumental biography, "The Last Lion: Winston Spencer Churchill – Visions of Glory, 1874-1932," the first volume of a planned trilogy, chronicles the first fifty-eight years of Winston Churchill's life, a period laying the groundwork for his later iconic status.  It's not simply a chronological account; it’s a deep dive into the making of a man, revealing the complex interplay of ambition, insecurity, genius, and sheer stubbornness that shaped one of history's most compelling figures.  The book meticulously details Churchill's tumultuous journey, from a privileged but somewhat neglected childhood to the cusp of his political prime, highlighting his personal growth, his early career struggles, and the formation of his unwavering convictions.

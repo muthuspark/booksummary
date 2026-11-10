@@ -5,9 +5,8 @@ description: "Biography of Soong Mei-ling, Madame Chiang Kai-shek, and her influ
 author: "Hannah Pakula"
 authors: ["Hannah Pakula"]
 image: "image.png"
-image_alt: "Soong Mei-ling."
-image_caption: >-
-  Soong Mei-ling. <a href="https://commons.wikimedia.org/wiki/File:Madame_Chiang_Kai-shek,_seated_portrait_(cropped).jpg">Los Angeles Times, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Cropped and resized.
+image_alt: "An embroidered robe, globe, books and sealed letter in an East Asian-style room."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Madame Chiang Kai-shek and modern China

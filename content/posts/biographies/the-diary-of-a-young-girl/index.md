@@ -5,9 +5,8 @@ description: "Personal account of a Jewish teenager hiding from Nazi persecution
 author: "Anne Frank"
 authors: ["Anne Frank"]
 image: "image.png"
-image_alt: "Anne Frank."
-image_caption: >-
-  Anne Frank. <a href="https://commons.wikimedia.org/wiki/File:Anne_Frank_passport_photo,_May_1942_(cropped).jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A closed diary and pencil beside a small attic window overlooking Amsterdam."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The Diary of a Young Girl: A Chronicle of Resilience and Humanity

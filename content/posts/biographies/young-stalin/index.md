@@ -5,9 +5,8 @@ description: "Biography focusing on Stalin's early years and transformation into
 author: "Simon Sebag Montefiore"
 authors: ["Simon Sebag Montefiore"]
 image: "image.png"
-image_alt: "Joseph Stalin."
-image_caption: >-
-  Joseph Stalin. <a href="https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg">Franklin D. Roosevelt Library Public Domain Photographs, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A lantern, papers and cap beside a window overlooking a mountain town."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Young Stalin: A Summary of Simon Sebag Montefiore's Biography

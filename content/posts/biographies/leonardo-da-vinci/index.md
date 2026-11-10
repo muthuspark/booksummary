@@ -5,9 +5,8 @@ description: "Biography exploring the connection between da Vinci's art and scie
 author: "Walter Isaacson"
 authors: ["Walter Isaacson"]
 image: "image.png"
-image_alt: "Portrait of Leonardo da Vinci attributed to Francesco Melzi."
-image_caption: >-
-  Portrait of Leonardo da Vinci attributed to Francesco Melzi. <a href="https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png">Attributed to Francesco Melzi, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Wing studies, brushes, a palette and an armillary sphere in a Renaissance-style workshop."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Leonardo da Vinci: A Life Unfolding (A Summary of Walter Isaacson's Biography)

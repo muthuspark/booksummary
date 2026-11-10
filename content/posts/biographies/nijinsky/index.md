@@ -5,9 +5,8 @@ description: "Biography of the legendary ballet dancer who revolutionized male d
 author: "Richard Buckle"
 authors: ["Richard Buckle"]
 image: "image.png"
-image_alt: "Vaslav Nijinsky."
-image_caption: >-
-  Vaslav Nijinsky. <a href="https://commons.wikimedia.org/wiki/File:Talisman_-Vayou_-Vaslav_Nijinsky_-1909.JPG">Unknown photographer of the photography department of the Imperial Mariinsky Theatre. St. Petersburg, Russian Empire., Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Ballet slippers and a green cloth near a chair and mirrors in a dance studio."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Richard Buckle’s biography, "Nijinsky," offers a meticulously researched and richly detailed account of the life and career of Vaslav Nijinsky, arguably the greatest male dancer of the 20th century.  Buckle’s work delves deep into Nijinsky's multifaceted persona, exploring his artistic genius, his tempestuous personal life, and his tragic descent into mental illness.  The book transcends a simple chronological narrative, instead offering a nuanced portrait of a complex individual whose life was as dramatic and captivating as his performances.

@@ -5,9 +5,8 @@ description: "Comprehensive biography of the modernist literary pioneer"
 author: "Gordon Bowker"
 authors: ["Gordon Bowker"]
 image: "image.png"
-image_alt: "James Joyce."
-image_caption: >-
-  James Joyce. <a href="https://commons.wikimedia.org/wiki/File:Revolutionary_Joyce_Better_Contrast.jpg">Camille Ruf, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A notebook, books, cap and cup beside a window overlooking a river and city."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## James Joyce: A Life Unfolding – A Summary of Gordon Bowker's Biography

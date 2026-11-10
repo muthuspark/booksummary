@@ -5,9 +5,8 @@ description: "In-depth look at the legendary magician's life, career, and possib
 author: "William Kalush and Larry Sloman"
 authors: ["William Kalush", "Larry Sloman"]
 image: "image.png"
-image_alt: "Harry Houdini."
-image_caption: >-
-  Harry Houdini. <a href="https://commons.wikimedia.org/wiki/File:Harry_Handcuff_Houdini_Crop.jpg">Campbell-Gray, Ltd., Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Handcuffs, rope, cards and a top hat beside a warmly lit theater stage."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The Secret Life of Houdini: A Summary

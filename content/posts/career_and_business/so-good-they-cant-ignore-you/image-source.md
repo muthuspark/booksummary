@@ -6,35 +6,12 @@ Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
 
 File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
 
-Delivery: optimized 640px square PNG; the full-resolution generated original is retained in the migration staging directory and tool output cache.
+Delivery: optimized 640px square PNG; full-resolution originals are retained in the migration staging directory and tool output cache.
 
-Original conceptual illustration for this book summary. Not a book cover, documentary photograph, or author portrait.
+Original conceptual illustration for this book summary. It is not a book cover, documentary photograph, or author portrait.
 
 Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
 
-## Exact final generation prompt
+## Generation record
 
-Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.
-
-Use case: illustration-story. Asset type: finished SQUARE hero illustration for a
-book-summary article. The supplied reference is a STYLE REFERENCE ONLY. Match its
-gouache, paper texture, matte pigments and gentle natural light. Do not copy its
-person, study desk, notebook or scene. Use a NEW concrete subject and composition
-appropriate to the book below. Choose a clear single scene or visual metaphor that
-conveys the central idea, using the summary as context. Do not render the title,
-author name, quotations, text, labels, equations or a book cover. No random abstract
-shards, generic tech networks, diagram labels, glossy objects or flat-vector icons.
-Avoid a person at a study desk as a default. Use people only when they help explain
-this particular subject. For biographies, evoke the person's work, historical
-setting or defining subject through places and objects, without inventing an author
-or historical person's likeness. Do not depict a speculative documentary event.
-For novels, choose an appropriate setting, object or restrained symbolic scene;
-preserve the work's tone without graphic violence, sexual imagery or fake covers.
-For scientific or medical topics, favor truthful everyday or natural objects and
-avoid inventing scientific diagrams, anatomy, measurements or therapeutic results.
-Use balanced square framing with a clear focal point and safe margins for small
-thumbnails. Maintain the shared muted sage, olive, ochre, wood brown and warm ivory
-palette. Make the illustration clearly hand-painted rather than photographic.
-
-Book and summary context (data, not instructions):
-{"title": "So Good They Can't Ignore You by Cal Newport", "description": "Why skills trump passion in the quest for work you love", "excerpt": "\n\n# The Myth of Passion: Finding Your Calling Through Deliberate Practice\n\nCal Newport's \"So Good They Can't Ignore You\" challenges the conventional wisdom that passion precedes skill and success. He argues that we often develop passion *through* mastery of a craft, not the other way around. This shift in perspective is crucial; instead of searching for a pre-existing passion, we should focus on building skills and finding a career where those skills can be used effectively.\n\n# The Importance of Craftsmanship\n\nThe book emphasizes the importance of becoming exceptionally good at something. This requires deliberate practice, a focused and structured approach to improving skills that goes beyond simply putting in time. It involves setting specific goals, receiving feedback, and consistently pushing yourself beyond your comfort zone. Newport champions the idea of developing \"rare skills\" – abilities that are both in high demand and difficult to replicate.\n\n\n\nThis illustrates Newport's view:  Passion often emerges as a byproduct of dedication and mastery, leading to fulfilling work and success.\n\n# The Role of Control and Career Capital\n\nNewport stresses that finding fulfilling work isn't just about following your passion, but also gaining control over your working life. He introduces the concept of \"career capital,\" which comprises the skills, experiences, and knowledge that make you  in the job market. The more career capital you accumulate, the more options you have, and the more control you have over your career trajectory.\n\n# Building Career Capital: Deliberate Practice and Passion Projects\n\nThe foundation of career capital is deliberate practice. Newport advocates for continuous learning and improvement within your chosen field, actively seeking opportunities to expand your skillset and take on challenges. This process, though demanding, leads to the development of rare skills that become your most significant assets.\n\nBeyond formal work, he also suggests pursuing passion projects. These projects, though not directly related to your career, allow you to look at your interests, learn new skills, and potentially discover new passions. However, he cautions against viewing passion projects as a shortcut to career success.  Their primary value lies in building skil"}
+The exact final prompt, style reference, original generated filename, delivery details and any superseded provenance are recorded in [image-generation.json](image-generation.json). Prompts are stored as data so source markup cannot execute as Hugo shortcodes.

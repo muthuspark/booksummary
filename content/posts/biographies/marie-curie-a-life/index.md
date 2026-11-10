@@ -5,9 +5,8 @@ description: "Marie Curie’s research into radioactivity, discovery of polonium
 author: "Susan Quinn"
 authors: ["Susan Quinn"]
 image: "image.png"
-image_alt: "Marie Curie."
-image_caption: >-
-  Marie Curie. <a href="https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg">Henri Manuel, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Laboratory glassware, a balance, mortar and books in a sunlit laboratory."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Susan Quinn's "Marie Curie: A Life" offers a richly detailed and nuanced portrait of the pioneering scientist, moving beyond the simplified narratives often presented.  The biography meticulously traces Curie's journey, from her humble beginnings in Russian-occupied Poland to her groundbreaking achievements in physics and chemistry, highlighting the complexities of her personality, her unwavering dedication to science, and the profound impact she had on the scientific community and the world at large.

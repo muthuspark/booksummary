@@ -5,9 +5,8 @@ description: "Detailed biography of the post-impressionist painter based on newl
 author: "Steven Naifeh and Gregory White Smith"
 authors: ["Steven Naifeh", "Gregory White Smith"]
 image: "image.png"
-image_alt: "Vincent van Gogh."
-image_caption: >-
-  Vincent van Gogh. <a href="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg">Vincent van Gogh, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A paint box, brushes and sunflower canvas beside a field and distant village."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Vincent van Gogh: A Life of Passion, Struggle, and Artistic Revolution (Summary of Naifeh and Smith's Biography)

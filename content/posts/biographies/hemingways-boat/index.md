@@ -5,9 +5,8 @@ description: "Biography focusing on Hemingway's life through the lens of his bel
 author: "Paul Hendrickson"
 authors: ["Paul Hendrickson"]
 image: "image.png"
-image_alt: "Ernest Hemingway."
-image_caption: >-
-  Ernest Hemingway. <a href="https://commons.wikimedia.org/wiki/File:ErnestHemingway.jpg">Lloyd Arnold, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Fishing equipment and a notebook beside a wooden boat in a harbor."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Hemingway's Boat: A Summary of Paul Hendrickson's Biography

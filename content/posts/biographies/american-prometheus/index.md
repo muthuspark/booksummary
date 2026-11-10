@@ -5,9 +5,8 @@ description: "Pulitzer Prize-winning biography of J. Robert Oppenheimer, father 
 author: "Kai Bird and Martin J. Sherwin"
 authors: ["Kai Bird", "Martin J. Sherwin"]
 image: "image.png"
-image_alt: "J. Robert Oppenheimer."
-image_caption: >-
-  J. Robert Oppenheimer. <a href="https://commons.wikimedia.org/wiki/File:Oppenheimer_(cropped).jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Scientific notebooks, a molecular model and radio equipment in a sunlit room."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## American Prometheus: A Summary of J. Robert Oppenheimer's Life

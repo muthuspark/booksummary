@@ -5,9 +5,8 @@ description: "Modern reassessment of the controversial Roman emperor's life and 
 author: "Richard Holland"
 authors: ["Richard Holland"]
 image: "image.png"
-image_alt: "Nero."
-image_caption: >-
-  Nero. <a href="https://commons.wikimedia.org/wiki/File:Nero_Glyptothek_Munich_321.jpg">Unknown photographer, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A classical lyre, scrolls and an oil lamp on a sunlit stone surface."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Reconsidering Nero's reputation

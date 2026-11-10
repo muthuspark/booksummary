@@ -1,11 +1,17 @@
 # Hero image provenance
 
-- File: `image.png`
-- Tool: OpenAI built-in `image_gen.imagegen` image-generation tool.
-- Created for this summary; no source photograph or book cover was supplied.
-- Subject: an imaginative deep-time landscape combining volcanic basalt, ocean, stromatolites, red rock layers, mineral crystals, and land vegetation. The montage does not depict a single historical moment.
-- No external image attribution is required.
+Style: `warm-gouache-v1` from IMAGE_STYLE.md.
 
-## Generation prompt
+Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
 
-Use case: illustration-story. Asset type: finished square hero illustration for a book summary of The Story of Earth by Robert M. Hazen. Create an elegant natural-history editorial painting showing the coevolution of geology and life as a continuous imaginative landscape: dark volcanic basalt and subtle glowing lava in the distance, blue ocean around a rocky coastline, ancient layered stromatolite mounds in shallow water in the middle distance, red iron-rich rock layers in an exposed foreground cliff, and a lush green forest on the upper coastal land. A few mineral crystals embedded naturally in the foreground rocks. Evocative deep-time montage rather than a literal single historical moment. Detailed mineral and rock textures, restrained earth colors with deep ocean blue and living green, soft atmospheric light, polished hand-painted scientific-book illustration, coherent composition readable at small size. No people, no dinosaurs, no labels, no lettering, no book cover, no portrait, no watermarks. At least 1024 by 1024 pixels.
+File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
+
+Delivery: optimized 640px square PNG; full-resolution originals are retained in the migration staging directory and tool output cache.
+
+Original conceptual illustration for this book summary. It is not a book cover, documentary photograph, or author portrait.
+
+Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
+
+## Generation record
+
+The exact final prompt, style reference, original generated filename, delivery details and any superseded provenance are recorded in [image-generation.json](image-generation.json). Prompts are stored as data so source markup cannot execute as Hugo shortcodes.

@@ -5,9 +5,8 @@ description: "Biography of the controversial newspaper tycoon who built a media 
 author: "David Nasaw"
 authors: ["David Nasaw"]
 image: "image.png"
-image_alt: "William Randolph Hearst."
-image_caption: >-
-  William Randolph Hearst. <a href="https://commons.wikimedia.org/wiki/File:HearstAbout1910.jpg">Anonymous, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A printing press, newspapers and a typewriter in a sunlit workshop."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The Chief: A Life of William Randolph Hearst – A Summary

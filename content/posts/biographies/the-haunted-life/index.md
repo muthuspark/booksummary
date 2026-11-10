@@ -5,9 +5,8 @@ description: "Title and author pairing awaiting verification; a confirmed editio
 author: "James O'Connell"
 authors: ["James O'Connell"]
 image: "image.png"
-image_alt: "An open historic volume at the New York Public Library, used as context for this unverified entry."
-image_caption: >-
-  An open historic volume at the New York Public Library, used as context for this unverified entry. <a href="https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg">NYC Wanderer (Kevin Eng), Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>. Cropped and resized. Adaptation: CC BY-SA 2.0.
+image_alt: "A travel bag, notebook and map beside a window overlooking countryside."
+image_caption: "Illustration for this entry. Its book details remain unverified."
 ---
 
 ## Bibliographic note

@@ -5,9 +5,8 @@ description: "Story of Louis Zamperini's journey from Olympic runner to WWII sur
 author: "Laura Hillenbrand"
 authors: ["Laura Hillenbrand"]
 image: "image.png"
-image_alt: "Louis Zamperini."
-image_caption: >-
-  Louis Zamperini. <a href="https://commons.wikimedia.org/wiki/File:Louis_Zamperini_at_USC,_1938.jpg">Los Angeles Times, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Cropped and resized.
+image_alt: "Worn leather running spikes, a leather flying helmet, goggles and rope beside the sea."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Laura Hillenbrand's *Unbroken* follows Louis Zamperini from his early life and Olympic running career through his service in the Second World War, survival at sea, and imprisonment in Japan. The biography connects his wartime endurance with the difficult process of rebuilding his life afterward.

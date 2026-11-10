@@ -5,9 +5,8 @@ description: "Biography of the scandalous aristocrat who inspired Nancy Mitford'
 author: "Frances Osborne"
 authors: ["Frances Osborne"]
 image: "image.png"
-image_alt: "Portrait of Idina Sackville (then Idina Wallace) by William Orpen."
-image_caption: >-
-  Portrait of Idina Sackville (then Idina Wallace) by William Orpen. <a href="https://commons.wikimedia.org/wiki/File:Idina_Wallace,_by_William_Orpen.jpg">William Orpen, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A travel trunk, straw hat, binoculars and notebook overlooking a savannah."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The woman behind the family story

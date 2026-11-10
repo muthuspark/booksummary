@@ -5,9 +5,8 @@ description: "First biography of the Jane Eyre author, written by her friend and
 author: "Elizabeth Gaskell"
 authors: ["Elizabeth Gaskell"]
 image: "image.png"
-image_alt: "Charlotte Brontë."
-image_caption: >-
-  Charlotte Brontë. <a href="https://commons.wikimedia.org/wiki/File:Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg">Branwell Brontë, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "An open notebook, quill and heather beside a window overlooking moorland."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Elizabeth Gaskell's "The Life of Charlotte Brontë," published in 1857, is not merely a biography; it's a poignant portrait of a remarkable woman grappling with adversity and achieving literary immortality against daunting odds.  Gaskell, a friend and fellow writer, crafted a sensitive and insightful narrative that reveals the complexities of Charlotte Brontë's life, highlighting her personal struggles, creative genius, and enduring legacy.  The book remains a cornerstone of Brontë scholarship, offering a deeply personal and historically significant account of the author's life.

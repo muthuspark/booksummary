@@ -5,9 +5,8 @@ description: "George V, Wilhelm II, and Nicholas II: royal cousins and Europe’
 author: "Miranda Carter"
 authors: ["Miranda Carter"]
 image: "image.png"
-image_alt: "George V, one of the three royal cousins in Miranda Carter’s joint biography."
-image_caption: >-
-  George V, one of the three royal cousins in Miranda Carter’s joint biography. <a href="https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg">Bassano Ltd, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Three crowns, a map and sealed letters in a historical room."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Three cousins before the First World War

@@ -5,9 +5,8 @@ description: "Concise biography of the astronomer who placed the sun at the cent
 author: "Owen Gingerich"
 authors: ["Owen Gingerich"]
 image: "image.png"
-image_alt: "Nicolaus Copernicus."
-image_caption: >-
-  Nicolaus Copernicus. <a href="https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg">Unknown artist, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "An armillary sphere, a wooden astronomical quadrant, scrolls and an unlettered book."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Copernicus: A Revolution in the Heavens – A Summary of Owen Gingerich's "Copernicus: A Very Short Introduction"

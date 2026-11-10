@@ -5,9 +5,8 @@ description: "Detailed exploration of Einstein's scientific breakthroughs, perso
 author: "Walter Isaacson"
 authors: ["Walter Isaacson"]
 image: "image.png"
-image_alt: "Albert Einstein."
-image_caption: >-
-  Albert Einstein. <a href="https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg">Oren Jack Turner, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Scientific notebooks, an armillary sphere, books and radio equipment in a study."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Walter Isaacson's "Einstein: His Life and Universe" is a detailed biography that delves into the life of Albert Einstein, revealing the man behind the iconic image and the revolutionary ideas that reshaped our understanding of the universe. The book transcends a mere recounting of scientific achievements, offering a rich portrait of Einstein's personality, his struggles, his triumphs, and his enduring impact on science, philosophy, and culture.

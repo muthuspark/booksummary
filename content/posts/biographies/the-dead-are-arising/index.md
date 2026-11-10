@@ -5,9 +5,8 @@ description: "Pulitzer Prize-winning biography of Malcolm X based on extensive n
 author: "Les Payne and Tamara Payne"
 authors: ["Les Payne", "Tamara Payne"]
 image: "image.png"
-image_alt: "Malcolm X."
-image_caption: >-
-  Malcolm X. <a href="https://commons.wikimedia.org/wiki/File:Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg">Eddie Adams, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A tape recorder, interview notes and books beside a city window."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Reconstructing Malcolm X's life

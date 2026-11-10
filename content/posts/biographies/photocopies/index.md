@@ -5,9 +5,8 @@ description: "Short written portraits drawn from John Berger’s encounters with
 author: "John Berger"
 authors: ["John Berger"]
 image: "image.png"
-image_alt: "John Berger."
-image_caption: >-
-  John Berger. <a href="https://commons.wikimedia.org/wiki/File:John_Berger-2009_(6).jpg">Ji-Elle, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Cropped and resized. Adaptation: CC BY-SA 3.0.
+image_alt: "A camera, notebook and cup on a terrace overlooking a town and hills."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Lives caught in brief encounters

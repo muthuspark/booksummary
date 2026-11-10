@@ -5,9 +5,8 @@ description: "Comprehensive biography of the talented and troubled poet"
 author: "Linda Wagner-Martin"
 authors: ["Linda Wagner-Martin"]
 image: "image.png"
-image_alt: "Sylvia Plath in a newspaper photograph published in 1953."
-image_caption: >-
-  Sylvia Plath in a newspaper photograph published in 1953. <a href="https://commons.wikimedia.org/wiki/File:Sylvia_Plath_-_The_Boston_Globe_(1953)_(cropped).png">Distributed by Associated Press, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "A typewriter, loose papers, books and daisies beside a garden window."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Sylvia Plath: A Life Unfurled - A Summary of Linda Wagner-Martin's Biography

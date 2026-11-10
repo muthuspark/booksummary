@@ -5,9 +5,8 @@ description: "Raw and honest autobiography of the legendary jazz innovator"
 author: "Miles Davis and Quincy Troupe"
 authors: ["Miles Davis", "Quincy Troupe"]
 image: "image.png"
-image_alt: "Miles Davis."
-image_caption: >-
-  Miles Davis. <a href="https://commons.wikimedia.org/wiki/File:Miles_Davis_by_Palumbo_cropped.jpg">Tom Palumbo from New York City, USA, Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>. Cropped and resized. Adaptation: CC BY-SA 2.0.
+image_alt: "A trumpet, notebook and glass in a warmly lit music room."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 Miles Davis's autobiography, "Miles: The Autobiography," co-written with Quincy Troupe, is not just a chronicle of a musical genius's life but a raw, unflinching exploration of a complex and often contradictory personality. It offers a glimpse into the mind of a revolutionary artist who constantly challenged conventions, both musically and personally. The book, though undeniably filtered through Davis's perspective and possibly embellished in parts, provides invaluable insight into the creation of a musical legend and the tumultuous journey that shaped him.

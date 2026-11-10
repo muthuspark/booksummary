@@ -61,6 +61,10 @@ consistent. Representation can vary across books without changing the art style.
   identifier, any reference image used, and asset filenames in `image-source.md`
   for the hero or `illustration-sources.md` for inline images. Preserve earlier
   provenance when adding new images.
+- Store long prompts or prompts containing source markup as JSON data in
+  `image-generation.json`, linked from `image-source.md` or `illustration-sources.md`.
+  Keep exact prompt text and previous provenance in that record. Do not paste raw
+  template markup into Markdown provenance, where Hugo can execute it as a shortcode.
 - Inspect every result before use. Regenerate if the medium, palette, lighting,
   texture, or complexity drifts from the references. Check the subject is clear at
   mobile width and the image contains no misleading details or broken anatomy.

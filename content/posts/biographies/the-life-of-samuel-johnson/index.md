@@ -5,9 +5,8 @@ description: "Classic biography of the English writer and lexicographer, conside
 author: "James Boswell"
 authors: ["James Boswell"]
 image: "image.png"
-image_alt: "Samuel Johnson."
-image_caption: >-
-  Samuel Johnson. <a href="https://commons.wikimedia.org/wiki/File:Samuel_Johnson_by_Joshua_Reynolds.jpg">Joshua Reynolds, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "An open book, quill and cup in a library overlooking London."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## The Life of Samuel Johnson: A Summary of Boswell's Masterpiece

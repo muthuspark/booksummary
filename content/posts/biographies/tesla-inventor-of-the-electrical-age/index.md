@@ -5,9 +5,8 @@ description: "Biography of the brilliant and eccentric inventor who pioneered mo
 author: "W. Bernard Carlson"
 authors: ["W. Bernard Carlson"]
 image: "image.png"
-image_alt: "Nikola Tesla."
-image_caption: >-
-  Nikola Tesla. <a href="https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg">Napoleon Sarony, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "An early electric motor, copper coil, light bulb and technical notebook on a workbench."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Tesla: A Life Electrified – A Summary of W. Bernard Carlson's Biography

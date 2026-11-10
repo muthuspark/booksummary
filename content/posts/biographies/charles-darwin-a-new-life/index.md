@@ -5,9 +5,8 @@ description: "Biography exploring Darwin's personal life alongside his scientifi
 author: "John Bowlby"
 authors: ["John Bowlby"]
 image: "image.png"
-image_alt: "Charles Darwin."
-image_caption: >-
-  Charles Darwin. <a href="https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg">Henry Maull and John Fox; crop by Bea o, Wikimedia Commons</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/">Public domain</a>. Cropped and resized.
+image_alt: "Shells, fossils, plants and a naturalist notebook on a wooden worktable."
+image_caption: "Illustration inspired by the book’s subject."
 ---
 
 ## Charles Darwin: A New Life - A Summary
