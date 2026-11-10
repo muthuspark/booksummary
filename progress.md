@@ -2,7 +2,7 @@
 
 Total books summarized: **859**.
 
-Books planned: **71**. Total tracked: **930**.
+Books planned: **87**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,9 +881,9 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (71)
+## Books to Summarize (87)
 
-Planned summaries across 20 additional fields. Leave each book unchecked until its summary is complete.
+Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
 ### Astronomy and Space (5)
 
@@ -1044,3 +1044,22 @@ Planned summaries across 20 additional fields. Leave each book unchecked until i
 - [ ] The New Jim Crow by Michelle Alexander
 - [ ] The Nine by Jeffrey Toobin
 - [x] [The Rule of Law by Tom Bingham](content/posts/law_and_justice/the-rule-of-law/index.md)
+
+### Additional Requested Books (16)
+
+- [ ] Benjamin Franklin: An American Life by Walter Isaacson
+- [ ] Letters from a Stoic by Seneca
+- [ ] Meditations by Marcus Aurelius
+- [ ] Poor Charlie's Almanack by Charles T. Munger (edited by Peter D. Kaufman)
+- [ ] The Almanack of Naval Ravikant by Eric Jorgenson
+- [ ] The Art of Worldly Wisdom by Baltasar Gracián
+- [ ] The Bed of Procrustes by Nassim Nicholas Taleb
+- [ ] The Beginning of Infinity by David Deutsch
+- [ ] The Denial of Death by Ernest Becker
+- [ ] The Essays of Montaigne by Michel de Montaigne
+- [ ] The Lessons of History by Will and Ariel Durant
+- [ ] The Most Important Thing by Howard Marks
+- [ ] The Nicomachean Ethics by Aristotle
+- [ ] The Republic by Plato
+- [ ] The Sovereign Individual by James Dale Davidson and William Rees-Mogg
+- [ ] The Tao Te Ching by Lao Tzu

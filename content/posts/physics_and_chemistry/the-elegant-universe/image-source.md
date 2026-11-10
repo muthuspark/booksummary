@@ -1,13 +1,17 @@
 # Hero image provenance
 
-- Tool: OpenAI built-in `image_gen` (`image_gen.imagegen`), using the imagegen skill.
-- Created: 2026-10-30.
-- File: `image.png`, an original generated editorial illustration.
-- Creator: OpenAI image generation, directed by Codex for this summary.
-- Source: generated for this article; no external source image was supplied.
-- License/attribution: AI-generated asset, not a third-party licensed photograph; no external attribution required. No claim of public-domain status is made.
-- Meaning: artistic analogy of hypothetical vibrating strings, compact spatial geometry, and curved spacetime. The objects are not to scale, and the folded surface is not an exact Calabi–Yau model. This is not an observational image or a book cover.
+Style: `warm-gouache-v1` from IMAGE_STYLE.md.
 
-## Generation prompt
+Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
 
-Use case: scientific-educational. Asset type: finished square editorial hero illustration for a book summary of The Elegant Universe by Brian Greene, 1024x1024 or larger. Primary request: a thoughtful conceptual visualization of string theory, showing several luminous fine closed loops with distinct vibration patterns suspended above a softly curving spacetime mesh, with one intricate folded geometric form evoking compact extra spatial dimensions. Style: refined scientific editorial illustration, precise flowing linework and subtle volumetric depth, deep midnight blue background, restrained teal and amber light, generous breathing room, calm and clear rather than explosive. Composition: one coherent scene with the vibrating loops as focal point and the folded geometry offset behind them, readable at thumbnail size. Constraints: this is an artistic analogy of hypothetical microscopic structures, not a literal observational photograph or an exact mathematical diagram; no labels, no equations, no text, no book cover, no portrait, no watermark.
+File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
+
+Delivery: optimized 640px square PNG; full-resolution originals are retained in the migration staging directory and tool output cache.
+
+Original conceptual illustration for this book summary. It is not a book cover, documentary photograph, or author portrait.
+
+Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
+
+## Generation record
+
+The exact final prompt, style reference, original generated filename, delivery details and any superseded provenance are recorded in [image-generation.json](image-generation.json). Prompts are stored as data so source markup cannot execute as Hugo shortcodes.

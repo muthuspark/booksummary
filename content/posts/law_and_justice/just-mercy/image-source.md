@@ -1,13 +1,17 @@
 # Hero image provenance
 
-- File: `image.png`
-- Method: original AI-generated illustration using OpenAI's built-in `image_gen.imagegen` tool, with the imagegen skill.
-- Generated: 2026-10-29.
-- Source output: `exec-c3433b4b-a587-486e-8620-409a33ffdf98.png`, copied into this bundle as an actual PNG.
-- Depiction: fictional anonymous lawyer and client during a prison legal visit; symbolic editorial art, not a documentary image, author portrait, film still, or book cover.
-- External source/creator/license: no external image used; generated with OpenAI image generation. No third-party attribution required. No public-domain status is claimed.
-- Inspection: reviewed for respectful depiction, finished composition, absence of text, and relevance to the book's emphasis on proximity and dignity.
+Style: `warm-gouache-v1` from IMAGE_STYLE.md.
 
-## Generation prompt
+Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
 
-Use case: illustration-story. Asset type: finished square editorial hero illustration for a thoughtful book summary of Just Mercy by Bryan Stevenson. Primary request: depict the dignity of being listened to during a legal visit in an austere American prison visiting room: two adult Black men, one a lawyer with a modest folder and one an incarcerated client in plain neutral clothing, seated at the same simple wooden table, speaking attentively as equals. These are fictional anonymous figures, not portraits of Bryan Stevenson or Walter McMillian, and not a recreation of any film scene. Style: restrained hand-painted editorial illustration with gouache and subtle paper texture, mature and humane. Composition: medium-wide square view, both figures fully legible, a high window casting soft daylight across the table, quiet architectural shadows suggesting confinement without sensationalism. Palette: muted charcoal blue, warm earth and cream. Mood: grave, compassionate, a small sense of hope. Constraints: no lettering, no book cover, no logos, no watermark, no scales or gavels, no dramatic violence, no caricature. Produce a polished image at least 1024 by 1024 pixels.
+File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
+
+Delivery: optimized 640px square PNG; full-resolution originals are retained in the migration staging directory and tool output cache.
+
+Original conceptual illustration for this book summary. It is not a book cover, documentary photograph, or author portrait.
+
+Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
+
+## Generation record
+
+The exact final prompt, style reference, original generated filename, delivery details and any superseded provenance are recorded in [image-generation.json](image-generation.json). Prompts are stored as data so source markup cannot execute as Hugo shortcodes.
