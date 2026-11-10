@@ -9253,44 +9253,6 @@
     "groups": []
   },
   {
-    "file": "content/posts/decision_making_and_critical_thinking/being-logical/diagram-01.svg",
-    "title": "Strengthening Arguments: The Art of Sound Reasoning",
-    "nodes": [
-      {
-        "id": "A",
-        "label": "Premise 1",
-        "shape": "box"
-      },
-      {
-        "id": "B",
-        "label": "Conclusion",
-        "shape": "rounded"
-      },
-      {
-        "id": "C",
-        "label": "Premise 2",
-        "shape": "box"
-      }
-    ],
-    "edges": [
-      {
-        "from": "A",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "C",
-        "to": "B",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      }
-    ],
-    "groups": []
-  },
-  {
     "file": "content/posts/decision_making_and_critical_thinking/bulletproof-problem-solving/diagram-01.svg",
     "title": "Defining the Problem: Clarity is Key",
     "nodes": [

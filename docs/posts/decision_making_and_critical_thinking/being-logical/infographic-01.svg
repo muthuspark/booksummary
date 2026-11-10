@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" viewBox="0 0 640 720" role="img" aria-labelledby="title description">
+  <title id="title">A simple deductive argument: a square has four sides</title>
+  <desc id="description">First premise: every square has four sides. Second premise: this shape is a square. Conclusion: this shape has four sides. The conclusion follows from the two premises. A sound deductive argument needs both true premises and a valid logical connection. This example illustrates the summary and is not a quotation from the book.</desc>
+  <style>
+    text { font-family: "Crimson Text", Georgia, serif; fill: #293e36; }
+    .heading { font-size: 34px; font-weight: 600; }
+    .statement { font-size: 30px; }
+    .explanation { font-size: 28px; fill: #475b52; }
+  </style>
+  <text x="32" y="47" font-size="34">From reasons to a conclusion</text>
+
+  <g aria-hidden="true" fill="#edf3ee" stroke="#91aa98" stroke-width="2">
+    <rect x="47" y="131" width="29" height="29"/>
+    <rect x="89" y="131" width="29" height="29"/>
+    <rect x="47" y="173" width="29" height="29"/>
+    <rect x="89" y="173" width="29" height="29"/>
+  </g>
+  <text x="157" y="120" class="heading">Start with a rule</text>
+  <text x="157" y="165" class="statement">Every square has four sides.</text>
+  <text x="157" y="207" class="explanation">First premise</text>
+
+  <path d="M320 231 V263 M313 255 L320 263 L327 255" fill="none" stroke="#91aa98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"/>
+
+  <rect x="47" y="318" width="71" height="71" fill="#f5efe5" stroke="#ad916a" stroke-width="2" aria-hidden="true"/>
+  <text x="157" y="307" class="heading">Identify this shape</text>
+  <text x="157" y="352" class="statement">This shape is a square.</text>
+  <text x="157" y="394" class="explanation">Second premise</text>
+
+  <path d="M320 418 V450 M313 442 L320 450 L327 442" fill="none" stroke="#91aa98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"/>
+
+  <rect x="32" y="475" width="576" height="145" rx="12" fill="#edf3ee"/>
+  <text x="64" y="529" class="heading">The conclusion follows</text>
+  <text x="64" y="579" class="statement">This shape has four sides.</text>
+
+  <text x="320" y="671" class="explanation" text-anchor="middle"><tspan x="320">True premises + a valid connection</tspan><tspan x="320" dy="36">make a sound argument.</tspan></text>
+</svg>

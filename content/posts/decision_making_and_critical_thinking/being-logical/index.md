@@ -26,14 +26,16 @@ Some key fallacies highlighted include:
 
 By learning to identify these fallacies, readers are better equipped to evaluate information critically and avoid being misled.
 
+{{< figure src="checking-evidence.webp" alt="Two adults examine a leaf beside a reference drawing, looking at the evidence together." caption="An everyday illustration: examine the evidence instead of judging the person making a claim." width="1536" height="1024" class="photo-figure" >}}
+
 
 # Strengthening Arguments: The Art of Sound Reasoning
 
 The book emphasizes the importance of constructing sound and persuasive arguments.  This involves understanding the structure of arguments, identifying premises and conclusions, and ensuring that the premises support the conclusion logically.  McInerny stresses the importance of clarity and precision in language, as ambiguous wording can lead to misunderstandings and flawed arguments.
 
-![Strengthening Arguments: The Art of Sound Reasoning. Premise 1; Conclusion; Premise 2.](diagram-01.svg)
+![Every square has four sides. This shape is a square. Therefore, this shape has four sides. Both starting statements support the conclusion.](infographic-01.svg)
 
-This simple diagram illustrates a basic deductive argument.  The book goes beyond this simple example, exploring various argument structures and demonstrating how to analyze the strength and validity of different arguments.
+This example illustrates a deductive argument. It is not a quotation from the book. The premises are the starting statements. A sound argument needs true premises and a conclusion that follows from them. The book explores other argument structures and ways to assess them.
 
 
 # Improving Communication: Logic and Effective Discourse

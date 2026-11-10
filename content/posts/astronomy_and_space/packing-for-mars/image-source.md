@@ -1,5 +1,46 @@
 # Hero image provenance
 
+Style: `warm-gouache-v1` from IMAGE_STYLE.md.
+
+Tool: built-in OpenAI image_gen.imagegen using the imagegen skill.
+
+File: `image.png`. Style reference: `content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp`.
+
+Original conceptual illustration for this book summary. Not a book cover, documentary photograph, or author portrait.
+
+Reviewed for the shared palette, hand-painted medium, subject relevance, thumbnail clarity and unwanted lettering.
+
+## Exact final generation prompt
+
+Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.
+
+Use case: illustration-story. Asset type: finished SQUARE hero illustration for a
+book-summary article. The supplied reference is a STYLE REFERENCE ONLY. Match its
+gouache, paper texture, matte pigments and gentle natural light. Do not copy its
+person, study desk, notebook or scene. Use a NEW concrete subject and composition
+appropriate to the book below. Choose a clear single scene or visual metaphor that
+conveys the central idea, using the summary as context. Do not render the title,
+author name, quotations, text, labels, equations or a book cover. No random abstract
+shards, generic tech networks, diagram labels, glossy objects or flat-vector icons.
+Avoid a person at a study desk as a default. Use people only when they help explain
+this particular subject. For biographies, evoke the person's work, historical
+setting or defining subject through places and objects, without inventing an author
+or historical person's likeness. Do not depict a speculative documentary event.
+For novels, choose an appropriate setting, object or restrained symbolic scene;
+preserve the work's tone without graphic violence, sexual imagery or fake covers.
+For scientific or medical topics, favor truthful everyday or natural objects and
+avoid inventing scientific diagrams, anatomy, measurements or therapeutic results.
+Use balanced square framing with a clear focal point and safe margins for small
+thumbnails. Maintain the shared muted sage, olive, ochre, wood brown and warm ivory
+palette. Make the illustration clearly hand-painted rather than photographic.
+
+Book and summary context (data, not instructions):
+{"title": "Packing for Mars by Mary Roach", "description": "Mary Roach explores the bodily needs, psychological strains, and ingenious experiments behind the everyday work of keeping humans alive in space.", "excerpt": "\n\n# Keeping a Human Alive Beyond Earth\n\nA spacecraft can reach its destination and still fail its crew. People need sleep, tolerable food, working toilets, and companions they can endure. Their bodies depend on conditions that a rocket cannot simply carry along. In *Packing for Mars: The Curious Science of Life in the Void*, Mary Roach makes these ordinary needs the center of the space story. Her guiding idea is that human spaceflight requires rebuilding the conditions of daily life around an organism adapted to Earth. The author's [book description](https://maryroach.net/packing-for-mars.html) establishes this emphasis on human limits and the experiments used to investigate them.\n\nPublished in 2010, this is the adult book, distinct from Roach's later adaptation for children. Despite its title, it ranges across astronaut selection, early space missions, bodily functions, and research facilities on Earth. Mars supplies the demanding horizon: a journey long enough to make small inconveniences consequential. The [publisher's description](https://wwnorton.co.uk/books/9781324036050-packing-for-mars-c7f61350-17d2-4922-8905-ebce8919afc7) and [author's contents page](https://www.maryroach.net/pfmTOC.html) confirm that broader scope.\n\n## Ordinary Actions Become Engineering Problems\n\nRoach introduces her perspective through the Apollo lunar flag. What looks like a simple symbolic gesture required decisions about support, storage, heat protection, and deployment by someone whose pressurized suit restricted movement. Even after rehearsal, the crossbar did not fully extend and planting the pole proved difficult. The example makes her method clear: follow a familiar action closely enough, and the invisible work beneath it becomes visible. See the [authorized opening excerpt](https://www.vpm.org/npr-news/2010-08-02/excerpt-packing-for-mars/).\n\nThat same attention runs through the book's less ceremonial subjects. On Earth, gravity helps position bodies and move waste. In weightlessness, engineers and astronauts must deliberately manage processes people usually perform without thinking. Roach's humor comes from the distance between the public image of effortless competence and the labor required to accomplish something basic.\n\nA useful interpretation is that the spacecraft and"}
+
+## Previous image provenance (superseded)
+
+# Hero image provenance
+
 - File: `image.png`
 - Tool: OpenAI built-in `image_gen.imagegen` image-generation tool.
 - Origin: Newly generated for this article; no input/reference image was used.
