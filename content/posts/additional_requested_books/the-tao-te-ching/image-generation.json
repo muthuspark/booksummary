@@ -1,0 +1,15 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "use_case": "stylized-concept",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: stylized-concept. Asset type: square hero illustration for The Tao Te Ching by Lao Tzu. Input image 1 is a STYLE REFERENCE ONLY: match its gouache pigment, warm ivory paper, restrained sage and ochre colors, soft daylight, and visual density. Do not reproduce its person, room, desk, or objects. Create a new outdoor scene: a quiet stream in a low green valley curves gently around one large rounded ochre-brown rock in the foreground, continuing into the distance. Supple reeds bend beside the water; a few smooth stones and softly layered sage hills complete the scene. The stream adapting around the rock is the clear central visual metaphor for yielding strength and action without forcing. Render water in pale warm ivory with muted sage reflections and restrained pencil ripples. Balanced square composition, generous breathing room, important stream and rock comfortably within the edges, clearly recognizable at thumbnail size. No people, buildings, calligraphy, yin-yang symbols, invented historical events, or decorative borders. Finished painted illustration, at least 1024 by 1024 pixels.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "Style reference only; inspected before generation"
+    }
+  ],
+  "output": "image.png",
+  "original_generated_file": "/home/leopard/.codex/generated_images/01a1ca5f-e06d-7331-b79a-42885fb041b4/exec-555410fd-409a-4940-8e1c-817f3aa68d00.png"
+}

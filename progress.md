@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **860**.
+Total books summarized: **861**.
 
-Books planned: **86**. Total tracked: **946**.
+Books planned: **85**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (86)
+## Books to Summarize (85)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1062,4 +1062,4 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 - [ ] The Nicomachean Ethics by Aristotle
 - [ ] The Republic by Plato
 - [ ] The Sovereign Individual by James Dale Davidson and William Rees-Mogg
-- [ ] The Tao Te Ching by Lao Tzu
+- [x] [The Tao Te Ching by Lao Tzu](content/posts/additional_requested_books/the-tao-te-ching/index.md)
