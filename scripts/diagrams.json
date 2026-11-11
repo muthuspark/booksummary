@@ -40656,56 +40656,6 @@
     "groups": []
   },
   {
-    "file": "content/posts/marriage_and_relationships/passionate-marriage/diagram-01.svg",
-    "title": "Differentiation: Self and Connection",
-    "nodes": [
-      {
-        "id": "A",
-        "label": "Clear Sense of Self",
-        "shape": "rounded"
-      },
-      {
-        "id": "B",
-        "label": "Manage Your Reactions",
-        "shape": "rounded"
-      },
-      {
-        "id": "C",
-        "label": "Stay Connected",
-        "shape": "rounded"
-      },
-      {
-        "id": "D",
-        "label": "Differentiation",
-        "shape": "rounded"
-      }
-    ],
-    "edges": [
-      {
-        "from": "A",
-        "to": "D",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "B",
-        "to": "D",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      },
-      {
-        "from": "C",
-        "to": "D",
-        "label": "",
-        "dashed": false,
-        "arrow": true
-      }
-    ],
-    "groups": []
-  },
-  {
     "file": "content/posts/marriage_and_relationships/passionate-marriage/diagram-02.svg",
     "title": "Illustrative Reflection Process",
     "nodes": [

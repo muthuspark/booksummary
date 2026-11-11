@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="430" viewBox="0 0 360 430" role="img" aria-labelledby="title description">
+  <title id="title">Differentiation: stay yourself while staying close</title>
+  <desc id="description">Three capacities work together: know your own wishes and values, manage your reactions, and stay open to your partner. These are related capacities, not steps in a process.</desc>
+  <style>
+    text { font-family: "Crimson Text", Georgia, serif; fill: #3d4035; }
+    .heading { font-size: 24px; font-weight: 600; }
+    .explanation { font-size: 19px; }
+  </style>
+  <rect width="360" height="430" rx="8" fill="#faf7ef"/>
+  <text x="24" y="42" font-size="25" font-weight="600">Stay yourself. Stay close.</text>
+  <text x="24" y="73" class="explanation">Differentiation holds both together.</text>
+
+  <circle cx="33" cy="119" r="7" fill="#7c8d70"/>
+  <text x="52" y="126" class="heading">Know yourself</text>
+  <text x="52" y="157" class="explanation">Be clear about your wishes</text>
+  <text x="52" y="182" class="explanation">and values.</text>
+  <path d="M24 204 H336" stroke="#d9dccc"/>
+
+  <circle cx="33" cy="238" r="7" fill="#b39457"/>
+  <text x="52" y="245" class="heading">Manage your reactions</text>
+  <text x="52" y="276" class="explanation">Notice your anxiety and</text>
+  <text x="52" y="301" class="explanation">practice settling yourself.</text>
+  <path d="M24 323 H336" stroke="#d9dccc"/>
+
+  <circle cx="33" cy="357" r="7" fill="#7c8d70"/>
+  <text x="52" y="364" class="heading">Stay connected</text>
+  <text x="52" y="395" class="explanation">Listen, even when you disagree.</text>
+</svg>

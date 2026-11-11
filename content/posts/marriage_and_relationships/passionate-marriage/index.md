@@ -1,7 +1,7 @@
 ---
 title: "Passionate Marriage by David Schnarch"
 categories: [ "Marriage And Relationships" ]
-description: "Keeping love and intimacy alive in committed relationships"
+description: "David Schnarch’s ideas on differentiation, self-validation, and lasting emotional and sexual intimacy in committed relationships."
 image: 'image.png'
 author: "David Schnarch"
 authors: ["David Schnarch"]
@@ -19,7 +19,9 @@ Differentiation combines two capacities that can seem opposed. You can care abou
 
 Emotional *fusion* describes the opposite pattern. Your sense of worth depends heavily on your partner's response. Disagreement then feels like a threat to who you are. Physical distance may reduce immediate tension, but distance alone does not change that dependence.
 
-![Differentiation combines a clear sense of self, managing your reactions, and staying emotionally connected.](diagram-01.svg)
+![Differentiation means knowing your own wishes and values, managing your reactions, and staying open to your partner. These capacities work together.](infographic-01.svg)
+
+Managing your reactions means noticing anxiety without making your partner responsible for removing it. You can pause to settle yourself, then return to the discussion.
 
 Consider an illustrative disagreement about a job offer. One partner wants to move. The other wants to stay near family. Giving up the offer without discussion may hide resentment. Dismissing family ties may protect one person's wishes at the cost of the relationship. A different response is to state both concerns clearly and remain available for a difficult discussion. There may still be no easy answer. The aim is to face the choice without erasing either person.
 

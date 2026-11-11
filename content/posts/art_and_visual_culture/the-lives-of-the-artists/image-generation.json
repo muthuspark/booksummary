@@ -1,0 +1,14 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen (built-in)",
+  "use_case": "historical-scene",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: historical-scene. Asset type: square hero illustration for The Lives of the Artists by Giorgio Vasari. Input image: starting-small.webp is a STYLE REFERENCE ONLY; match its gouache medium, warm paper, muted palette and soft daylight, but create a completely different subject and composition. Show a quiet, unoccupied Italian Renaissance workshop as an interpretive still life, not a documented event. A large sheet with a charcoal study of a human hand is the clear central focus on a sloping wooden drawing board. Nearby, a small unfinished pale stone classical head on a low plinth represents sculpture; a wooden architectural model of a simple round arch represents architecture; an unlettered painted panel leaning behind shows a restrained landscape in sage and ochre. A few period brushes and a charcoal stick, no modern equipment. These three arts share the act of drawing and design. Keep the arrangement spacious and coherent in a single room, not separate panels. Soft side-window light, warm ivory plaster, natural wood, tactile matte pigment. No people or portraits. Balanced square composition, important objects inset from edges, readable at thumbnail size. Deliver at least 1024 by 1024 pixels.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "style reference only"
+    }
+  ],
+  "output": "image.png",
+  "description": "Interpretive Renaissance workshop still life; not a documented event or an artist portrait."
+}
