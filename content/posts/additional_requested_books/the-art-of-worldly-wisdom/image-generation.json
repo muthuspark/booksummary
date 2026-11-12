@@ -1,0 +1,12 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "style reference only"
+    }
+  ],
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration, 1024 by 1024 pixels. Input image 1 is a STYLE REFERENCE ONLY: match its gouache medium, warm ivory paper, muted greens and ochre, soft lighting and restrained detail. Create an entirely new scene for The Art of Worldly Wisdom: in a quiet Mediterranean courtyard with a plain warm stone arch and an olive tree, three ordinary adults in simple contemporary clothing are discussing a folded blank paper. One listens attentively before responding while the other two speak calmly. Show thoughtful social judgment, tact and restraint through posture and expression. Medium-distance view, balanced square composition, uncluttered setting, generous breathing room, natural hands and faces. This is a modern illustrative scene, not a historical event or an author portrait. No desks, no students, no books, no lettering.",
+  "output": "image.png"
+}

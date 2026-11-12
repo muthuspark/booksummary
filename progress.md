@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **862**.
+Total books summarized: **863**.
 
-Books planned: **84**. Total tracked: **946**.
+Books planned: **83**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (84)
+## Books to Summarize (83)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1052,7 +1052,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 - [ ] Meditations by Marcus Aurelius
 - [ ] Poor Charlie's Almanack by Charles T. Munger (edited by Peter D. Kaufman)
 - [ ] The Almanack of Naval Ravikant by Eric Jorgenson
-- [ ] The Art of Worldly Wisdom by Baltasar Gracián
+- [x] [The Art of Worldly Wisdom by Baltasar Gracián](content/posts/additional_requested_books/the-art-of-worldly-wisdom/index.md)
 - [ ] The Bed of Procrustes by Nassim Nicholas Taleb
 - [ ] The Beginning of Infinity by David Deutsch
 - [ ] The Denial of Death by Ernest Becker
