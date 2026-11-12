@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **861**.
+Total books summarized: **862**.
 
-Books planned: **85**. Total tracked: **946**.
+Books planned: **84**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (85)
+## Books to Summarize (84)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1032,7 +1032,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 ### Architecture and Urban Planning (5)
 
 - [x] [A Pattern Language by Christopher Alexander, Sara Ishikawa, and Murray Silverstein](content/posts/architecture_and_urban_planning/a-pattern-language/index.md)
-- [ ] Happy City by Charles Montgomery
+- [x] [Happy City by Charles Montgomery](content/posts/architecture_and_urban_planning/happy-city/index.md)
 - [ ] The Death and Life of Great American Cities by Jane Jacobs
 - [x] [The Image of the City by Kevin Lynch](content/posts/architecture_and_urban_planning/the-image-of-the-city/index.md)
 - [ ] Walkable City by Jeff Speck
