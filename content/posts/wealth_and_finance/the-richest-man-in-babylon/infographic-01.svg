@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="650" viewBox="0 0 540 650" role="img" aria-labelledby="title description">
+<title id="title">Two plans for the same 100 coins</title>
+<desc id="description">Arkad's rule keeps at least 10 coins, leaving at most 90 for other uses. Dabasir's debt plan keeps 10, uses 70 for living, and puts 20 toward debts. Dabasir makes room for repayment within the remaining income. These are the book's examples, not universal budgets.</desc>
+<rect width="540" height="650" rx="8" fill="#faf6ed"/>
+<g font-family="'Crimson Text', Georgia, serif" fill="#3d362e">
+<text x="28" y="48" font-size="32" font-weight="bold">Two plans for 100 coins</text>
+<text x="28" y="89" font-size="26">How the book divides income</text>
+<text x="28" y="151" font-size="30" font-weight="bold">Arkad: build a reserve</text>
+<rect x="28" y="173" width="48" height="36" fill="#708065"/>
+<rect x="78" y="173" width="434" height="36" fill="#e1d6c3"/>
+<text x="28" y="250" font-size="27">Keep at least 10 coins.</text>
+<text x="28" y="287" font-size="27">Use no more than 90 for the rest.</text>
+<path d="M28 320 H512" stroke="#d8cfbf"/>
+<text x="28" y="373" font-size="30" font-weight="bold">Dabasir: repay debt too</text>
+<rect x="28" y="396" width="48" height="36" fill="#708065"/>
+<rect x="78" y="396" width="337" height="36" fill="#e1d6c3"/>
+<rect x="417" y="396" width="95" height="36" fill="#b48c4d"/>
+<text x="28" y="473" font-size="27">Keep 10 coins.</text>
+<text x="28" y="510" font-size="27">Live on 70 coins.</text>
+<text x="28" y="547" font-size="27">Repay debts with 20 coins.</text>
+<text x="28" y="608" font-size="26" font-style="italic">Save and repay from the same income.</text>
+</g>
+</svg>

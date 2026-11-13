@@ -1,0 +1,17 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "historical-scene",
+  "asset": "image.png",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: historical-scene. Asset type: square hero illustration, 1024 by 1024 pixels, for The Silk Roads by Peter Frankopan. Input image 1 is a STYLE REFERENCE ONLY: match its matte gouache, muted earth colors, warm paper and restrained pencil detail; do not copy its people, desk or multi-panel composition. Create a new single scene: an imagined medieval Central Asian caravan stopping outside a simple ochre mud-brick caravanserai near an oasis, with distant low dry mountains. Focal point: two clearly recognizable two-humped Bactrian camels carrying modest cloth-wrapped bundles, accompanied by two adult merchants in plain historically plausible long robes and soft caps, seen at a comfortable medium distance. A small folded sage-green textile and simple ceramic jar at the gateway suggest goods changing hands. Calm human encounter, one merchant greeting the other, hands relaxed, no dramatic gesture. Balanced square with generous ivory sky, sage oasis trees and muted ochre ground. Keep people and camels away from edges and forms readable as a thumbnail. This is a conceptual historical illustration, not a depiction of a documented event or named person. No map, no modern flags, no modern objects, no fantasy architecture, no lettering.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "Style reference only; inspected before generation and supplied to the tool."
+    }
+  ],
+  "output_dimensions": [
+    1254,
+    1254
+  ]
+}
