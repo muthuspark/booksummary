@@ -1,0 +1,15 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "stylized-concept",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: stylized-concept. Asset type: square hero illustration, 1024 x 1024, for The Bed of Procrustes by Nassim Nicholas Taleb. Input image 1 is a STYLE REFERENCE ONLY: match its gouache pigment, warm ivory paper, sage/ochre palette and soft light; do not reuse its learner, desk, triptych or setting. Create a new single conceptual still life viewed at a gentle three-quarter angle: a small rigid wooden bed frame with a warm ivory mattress sits on a quiet ivory floor. A living olive tree grows through the space of the bed; its naturally irregular trunk and branching canopy visibly extend beyond the narrow rectangular boundaries. One loose wooden measuring stick with NO markings rests harmlessly on the floor alongside the bed. The contrast is between the living organic form and the rigid standardized frame, a symbolic example of reality exceeding a model. No people, no injury, no cutting tools, no violent myth reenactment. Keep the bed recognizable, the tree modestly sized, the canopy airy and forms simple. Balanced square composition, main subjects comfortably inside the edges, generous negative space, restrained detail, clearly readable as a thumbnail. This is an original visual metaphor, not a historical scene.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "Style reference only; not an edit target"
+    }
+  ],
+  "assets": [
+    "image.png"
+  ]
+}
