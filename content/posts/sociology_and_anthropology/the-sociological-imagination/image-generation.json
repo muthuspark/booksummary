@@ -1,0 +1,14 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen (built-in)",
+  "asset": "image.png",
+  "use_case": "illustration-story",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration for The Sociological Imagination by C. Wright Mills. Input image 1 is a STYLE REFERENCE ONLY: match its matte gouache, pencil details, warm paper, restrained palette and visual density. Create an entirely new subject and setting, not a desk or student. Scene: a thoughtful adult worker in an ordinary olive jacket stands in the foreground of a quiet town street, holding a plain closed lunch tin at their side. Behind them the street gently opens toward modest homes on one side and a closed factory gate with a simple brick factory on the other. Two small adult neighbors stand nearby in the middle distance. A subtle continuous street and shared architectural perspective visually connect the individual's life with the larger town and its workplace. This is an illustrative metaphor for personal unemployment and social structure, not a documented event or a portrait of Mills. Balanced square composition, one coherent scene, uncluttered forms, generous ivory sky, clear central figure; important subjects comfortably inside the edges. Respectful, reflective mood without melodrama. No signage, no lettering, no graphs, no arrows, no numbers. At least 1024 by 1024 pixels.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "Style reference only; not an edit target"
+    }
+  ],
+  "generated_file": "/home/leopard/.codex/generated_images/01a1d9d2-f44b-7e20-bcd7-19e50e5047f8/exec-5f3143a3-92d4-4738-afff-399e0892767d.png"
+}
