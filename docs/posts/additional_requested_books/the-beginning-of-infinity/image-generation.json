@@ -1,0 +1,20 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "OpenAI image_gen.imagegen (built-in)",
+  "prompt": "Create a finished illustration for a public book-summary library for adult\nreaders. Use a calm, contemporary illustrated-book style: hand-painted gouache,\nsoft matte pigment, restrained pencil details, and a subtle warm ivory paper\ntexture. Use a consistent palette of muted sage and olive green, warm ochre,\nnatural wood brown, and warm ivory, with dark brown or charcoal details. Keep\nsaturation restrained and lighting soft and natural. Give the scene generous\nbreathing room, a clear focal point, and simple, recognizable forms that remain\nreadable on a phone. When people are relevant, depict believable adults with\nnatural proportions, respectful expressions, and ordinary clothing. Use the same\nmedium, palette, texture, and level of detail across the illustration. Avoid\nphotorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines,\nchildish clipart, ornamental clutter, and a different art style in each panel.\nNo readable text, captions, logos, watermarks, fake book covers, or invented\nauthor portraits. Keep all explanations and essential labels outside the\ngenerated image.\n\nUse case: illustration-story.\nAsset type: square hero illustration for The Beginning of Infinity by David Deutsch, 1024 by 1024 or larger.\nInput image 1 is a STYLE REFERENCE ONLY: match its gouache medium, warm paper, sage and ochre palette, soft natural light, and restrained detail. Create a completely new composition and subject.\nSubject: a small, open hilltop observatory with a simple brass-and-wood telescope aimed through its broad opening toward an expansive pale evening sky. Two ordinary adult observers, one standing at the telescope and one beside it holding an open unlettered notebook, embody collaborative inquiry. A few small stars emerge above distant rolling sage hills; the warm ivory sky occupies the upper half, conveying an open horizon of discovery. Telescope has a recognizable eyepiece and a stable tripod. People are small within the scene, naturally proportioned, seen mostly from behind, with uncomplicated poses.\nComposition: balanced square, one clear focal group, generous negative space, essential elements inside the central 80 percent for thumbnail crops. No desks, no infinity symbol, no diagrams, no readable markings. This is an illustrative metaphor for knowledge and unbounded inquiry, not a real event or a portrait of the author.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "style reference only"
+    }
+  ],
+  "asset": "image.png",
+  "generated_dimensions": [
+    1254,
+    1254
+  ],
+  "delivered_dimensions": [
+    1024,
+    1024
+  ]
+}
