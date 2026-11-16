@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 410" role="img" aria-labelledby="title description">
+  <title id="title">Truth, love, and grace belong together</title>
+  <desc id="description">A triangle links three equal practices in the Kellers' account of marriage. Truth: name what needs to change. Love: show care in ways your spouse can receive. Grace: admit wrong, forgive, and seek repair. Use all three together, not as a fixed sequence.</desc>
+  <rect width="360" height="410" rx="8" fill="#faf6ed"/>
+  <g font-family="'Crimson Text', Georgia, serif" text-anchor="middle" fill="#3d382f">
+    <text x="180" y="38" font-size="24">Three ways to care</text>
+    <text x="180" y="91" font-size="25" font-weight="bold">Truth</text>
+    <text x="180" y="119" font-size="19">Name what</text>
+    <text x="180" y="143" font-size="19">needs to change.</text>
+    <path d="M180 164 L87 265 L273 265 Z" fill="#e8ecdf" stroke="#7e8d72" stroke-width="1.5"/>
+    <g fill="#ae8749">
+      <circle cx="180" cy="164" r="5"/>
+      <circle cx="87" cy="265" r="5"/>
+      <circle cx="273" cy="265" r="5"/>
+    </g>
+    <text x="180" y="226" font-size="18">Use all three</text>
+    <text x="180" y="249" font-size="18">together</text>
+    <text x="87" y="306" font-size="25" font-weight="bold">Love</text>
+    <text x="87" y="334" font-size="19">Show care in</text>
+    <text x="87" y="358" font-size="19">ways your spouse</text>
+    <text x="87" y="382" font-size="19">can receive.</text>
+    <text x="273" y="306" font-size="25" font-weight="bold">Grace</text>
+    <text x="273" y="334" font-size="19">Admit wrong.</text>
+    <text x="273" y="358" font-size="19">Forgive and</text>
+    <text x="273" y="382" font-size="19">seek repair.</text>
+  </g>
+</svg>
