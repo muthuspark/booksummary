@@ -1,0 +1,13 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen (built-in)",
+  "use_case": "illustration-story",
+  "asset": "image.png",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration for On Food and Cooking by Harold McGee. Input image 1 is a STYLE REFERENCE ONLY: match its gouache medium, muted palette, warm paper texture, soft lighting, and visual density; do not reuse its people, study desks, or composition. Create a new quiet kitchen still life viewed obliquely from above. The focal point is a dark shallow pan holding a single golden-brown slice of bread, with a subtle wisp of steam. Beside it on a natural wood worktop are a small ivory bowl of whisked egg with a simple whisk resting inside, two intact eggs, a small glass jug of milk, and a modest sprig of sage. These ordinary foods evoke the chemistry of browning, proteins, and emulsions without any molecular symbols or scientific apparatus. Clear recognizable forms, balanced square composition, important objects comfortably inside the edges, generous warm ivory space, restrained detail. No people, no lettering, no fake cover, no panels. Deliver a finished square illustration at least 1024 by 1024.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "Style reference only; inspected before generation"
+    }
+  ]
+}

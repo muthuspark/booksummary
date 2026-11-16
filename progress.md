@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **870**.
+Total books summarized: **871**.
 
-Books planned: **76**. Total tracked: **946**.
+Books planned: **75**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (76)
+## Books to Summarize (75)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1024,7 +1024,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 ### Food and Agriculture (5)
 
 - [x] [Consider the Fork by Bee Wilson](content/posts/food_and_agriculture/consider-the-fork/index.md)
-- [ ] On Food and Cooking by Harold McGee
+- [x] [On Food and Cooking by Harold McGee](content/posts/food_and_agriculture/on-food-and-cooking/index.md)
 - [ ] Salt: A World History by Mark Kurlansky
 - [ ] The Botany of Desire by Michael Pollan
 - [ ] The Omnivore's Dilemma by Michael Pollan
