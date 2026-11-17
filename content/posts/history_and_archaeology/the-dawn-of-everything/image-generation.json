@@ -1,0 +1,17 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen (built-in)",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: historical-scene. Asset type: square hero image for The Dawn of Everything by David Graeber and David Wengrow. Input image 1 is a STYLE REFERENCE ONLY: match its painted medium, muted palette, soft light, paper texture and restrained detail; do not copy its person, desk or modern setting. Create a new balanced square composition showing an imagined ancient community courtyard: five adult residents in simple unadorned woven tunics sit on low stools in a loose circle discussing shared affairs, all at equal height, with natural relaxed gestures. Simple low earth-plastered houses and an open doorway surround the courtyard; a modest garden and grain basket suggest a settled community. View from slightly above, with the circle as the clear focal point and generous ivory sky and wall space. This is a conceptual illustration of collective decision-making, not a reconstruction of a named archaeological site or documented meeting. No crowns, thrones, weapons, classical columns, modern objects, stereotyped ceremonial dress, charts, arrows, lettering or book cover. Keep hands simple and plausible and important elements away from edges. Deliver a finished 1024 by 1024 square illustration.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "Style reference only; inspected before generation"
+    }
+  ],
+  "asset": "image.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "illustrative_status": "Imagined ancient community discussion; not a reconstruction of a named site or event"
+}
