@@ -1,0 +1,14 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen (built-in)",
+  "use_case": "illustration-story",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration, 1024 by 1024 pixels, for The Signal and the Noise by Nate Silver. Input image 1 is a STYLE REFERENCE ONLY: match its matte gouache, warm paper, soft light and visual density; do not copy its person, desk, panels, or setting. Create a new single-scene visual metaphor for finding a useful pattern amid random variation: a gently curving ochre ribbon runs from the lower left toward the upper right through a spacious field of scattered charcoal and sage pencil dots on warm ivory paper. A large natural wood-rimmed magnifying glass rests diagonally across the ribbon near the center; beneath its lens the same ribbon and a few nearby dots are larger and clearer, while scattered dots remain scattered, not magically removed. The ribbon should be recognizable as a smooth trend within a loose cloud of marks, not a road or electrical cable. The glass has a physically coherent circular rim, subtle clear lens, and short wooden handle toward the lower right. This is an abstract editorial metaphor, not real measured data. No axes, graph grids, numerals, equations or lettering. Balanced square composition with ample ivory margins and one clear focal point. Keep all important objects away from edges.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "style reference only; inspected before generation"
+    }
+  ],
+  "output": "image.png",
+  "generated_source": "/home/leopard/.codex/generated_images/01a1ee6c-6468-7660-b2d0-108bf1379296/exec-b8342f59-f66c-48b9-8c66-252a1438cdbf.png"
+}
