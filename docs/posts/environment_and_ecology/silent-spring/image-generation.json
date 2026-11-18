@@ -1,0 +1,20 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "illustration-story",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration for Silent Spring by Rachel Carson, 1024 by 1024 or larger.\nInput image: the supplied spaced-review.webp is a STYLE REFERENCE ONLY. Match its matte gouache brushwork, muted olive and ochre palette, soft light, warm paper texture, and visual density. Do not copy its people, desk, triptych, or setting.\nScene and composition: one quiet spring orchard beside a small pond, one clear foreground focal point: a recognizable American robin with a muted rusty ochre breast perched on a low elm branch above fallen leaves. Beneath the branch, a modest exposed edge of soil shows a single earthworm among roots; a few simple pond reeds and distant orchard trees connect the landscape. Far in the background, a small unoccupied agricultural spray rig sits beside the orchard, with no spray plume and no lettering. The scene should convey the connected lives of birds, soil, and water, with a slightly watchful quiet mood, without depicting a specific historical incident. Balanced square composition, generous warm ivory breathing room, bird and branch comfortably inside the edges. No dead animals, no skulls, no chemical molecules, no charts, no arrows, no labels. This is an ecological visual metaphor, not a scientific measurement or a historical reconstruction.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "Style reference only; inspected before generation and supplied to the tool."
+    }
+  ],
+  "assets": [
+    {
+      "filename": "image.png",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "review": "Inspected generated result: matte gouache texture, muted olive and ochre palette, recognizable robin and connected orchard, pond, and soil. The flowering branch is illustrative rather than a botanical depiction of an elm. No text or historical-event claim."
+}

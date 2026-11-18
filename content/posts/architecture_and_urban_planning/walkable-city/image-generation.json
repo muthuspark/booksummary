@@ -1,0 +1,15 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "illustration-story",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square book-summary hero, 1024 x 1024 or larger. Input image 1 is a STYLE REFERENCE ONLY: match its gouache medium, matte paper texture, restrained sage/ochre/ivory palette, natural light, and believable adult proportions. Do not copy its person, desk, or interior composition. Subject: an imagined compact American downtown street corner that makes everyday walking inviting, inspired by Jeff Speck's Walkable City. View from pedestrian eye level, slightly elevated enough to see the short crossing. A continuous row of modest three-story warm ivory and ochre buildings frames a broad clear sidewalk; small shop windows and residential windows above; two leafy sage street trees provide shade without blocking the walking path. Focal point: two ordinary adults walking together on the shaded sidewalk toward a nearby corner shop with produce crates and no signage. Across a narrow calm street, one other adult walks; a single small parked car sits at midblock well away from the corner. Show a short zebra crossing with clear curb ramps and no steps across the pedestrian route. Keep building shapes simple and the street scene uncluttered. This is an illustrative place, not a documented city or a claim of engineering compliance. Balanced square composition with central details safely within the crop, generous sky and paper breathing room, soft daylight, no readable lettering or traffic-sign text.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "style reference only; inspected before generation"
+    }
+  ],
+  "assets": [
+    "image.png"
+  ]
+}

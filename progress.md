@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **872**.
+Total books summarized: **874**.
 
-Books planned: **74**. Total tracked: **946**.
+Books planned: **72**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (74)
+## Books to Summarize (72)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -920,7 +920,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 ### Environment and Ecology (5)
 
 - [ ] Braiding Sweetgrass by Robin Wall Kimmerer
-- [ ] Silent Spring by Rachel Carson
+- [x] [Silent Spring by Rachel Carson](content/posts/environment_and_ecology/silent-spring/index.md)
 - [ ] The Hidden Life of Trees by Peter Wohlleben
 - [ ] The Sixth Extinction by Elizabeth Kolbert
 - [ ] Under a White Sky by Elizabeth Kolbert
@@ -1035,7 +1035,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 - [x] [Happy City by Charles Montgomery](content/posts/architecture_and_urban_planning/happy-city/index.md)
 - [ ] The Death and Life of Great American Cities by Jane Jacobs
 - [x] [The Image of the City by Kevin Lynch](content/posts/architecture_and_urban_planning/the-image-of-the-city/index.md)
-- [ ] Walkable City by Jeff Speck
+- [x] [Walkable City by Jeff Speck](content/posts/architecture_and_urban_planning/walkable-city/index.md)
 
 ### Law and Justice (5)
 
