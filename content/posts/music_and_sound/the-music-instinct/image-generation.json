@@ -1,0 +1,14 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "OpenAI image_gen.imagegen (built-in)",
+  "use_case": "illustration-story",
+  "asset": "image.png",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "Style reference only"
+    }
+  ],
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration for The Music Instinct by Philip Ball. Input image: the supplied starting-small.webp is a style reference only; match its gouache pigment, warm paper, palette, soft lighting and visual density, not its student, desk or setting. Create a new balanced square scene in a quiet living room: an ordinary adult man in an ochre shirt sits listening attentively beside a natural wood record player on a low cabinet. A black record spins, and his relaxed hand rests on his knee as one foot subtly marks the pulse. Show the listener in three-quarter profile with a thoughtful, engaged expression, not a portrait of a real person. In the generous ivory space above the record player, a restrained flowing ribbon of sage and ochre brush dabs repeats a simple pattern with one small variation, a visual metaphor for the mind finding pattern in sound, not scientific data or musical notation. Keep the record player, listener and pattern clear with few background details. No brain anatomy, no equations, no written music, no text. Keep important subjects inside safe thumbnail margins. Finished image at least 1024 by 1024 pixels.",
+  "generated_file": "/home/leopard/.codex/generated_images/01a1f1db-4c30-7f22-a361-3f462d85c611/exec-d2bc6c72-b94b-40e1-a2f1-7ae282c3f591.png"
+}
