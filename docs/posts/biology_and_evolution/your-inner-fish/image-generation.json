@@ -1,0 +1,15 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "scientific-educational",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: scientific-educational. Asset type: square hero illustration for Your Inner Fish by Neil Shubin. Input image 1 is a STYLE REFERENCE ONLY: match its matte gouache, soft light, warm ivory paper and restrained sage/ochre palette; do not reuse its people, furniture or composition. New scene: a single Tiktaalik-like late Devonian lobe-finned fish resting in a shallow stream over a pale ochre silt bed, viewed from slightly above at three-quarter angle. Its broad flattened head with eyes on top, short mobile neck, elongated scaly olive body and two broad fleshy pectoral fins are clear. Keep fin rays rather than fingers: no human hands, no feet or toes. Body tapers naturally to a fish tail, fully visible. Only subtle ripples and a few simple stones, distant low vegetation, no flowers or grass or modern objects. Balanced square composition, one clear animal focal point, ample ivory breathing room around edges. An interpretive natural-history reconstruction, not a photograph or exact fossil measurement. No inset diagrams or lettering.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "Style reference only"
+    }
+  ],
+  "assets": [
+    "image.png"
+  ]
+}
