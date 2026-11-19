@@ -46,6 +46,8 @@ At the Casa, Humberto appears as Mudito. His reduced social role contrasts with 
 
 The building contains nuns, elderly former servants, orphan girls, and stored possessions. It survives through old ties between the Azcoitía family and the Church. Inés tries to secure recognition of a supposedly saintly family ancestor. Family prestige and religious authority remain closely linked.
 
+The [authorized excerpt](https://lithub.com/the-obscene-bird-of-night/) makes this connection concrete. The Casa's founding arrangement leaves the family heir with the legal power to sell or demolish it. The family lets the Church use the house while retaining those rights. This helps explain why the Casa is more than a Gothic setting. The residents' shelter depends on inherited power, even when the family takes little interest in them.
+
 Donoso makes confinement concrete. Mudito boards up windows and closes unsafe sections of the Casa. The building's history includes the confinement of Don Clemente, an elderly Azcoitía cleric. These details appear in the [authorized excerpt published by Literary Hub](https://lithub.com/the-obscene-bird-of-night/). The house can be read as an outward form of the fear that drives its inhabitants: each barrier promises safety while reducing contact with life outside.
 
 Another thread centers on Iris Mateluna, an orphan girl whose supposed pregnancy becomes the focus of the old women's hopes. Sexual experience, miracle stories, and fantasies of a new child overlap. The narration increasingly merges Mudito with a helpless infant. A single orderly timeline cannot account for all these versions.
