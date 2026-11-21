@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **880**.
+Total books summarized: **881**.
 
-Books planned: **66**. Total tracked: **946**.
+Books planned: **65**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (66)
+## Books to Summarize (65)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1048,7 +1048,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 ### Additional Requested Books (16)
 
 - [ ] Benjamin Franklin: An American Life by Walter Isaacson
-- [ ] Letters from a Stoic by Seneca
+- [x] [Letters from a Stoic by Seneca](content/posts/additional_requested_books/letters-from-a-stoic/index.md)
 - [ ] Meditations by Marcus Aurelius
 - [ ] Poor Charlie's Almanack by Charles T. Munger (edited by Peter D. Kaufman)
 - [x] [The Almanack of Naval Ravikant by Eric Jorgenson](content/posts/additional_requested_books/the-almanack-of-naval-ravikant/index.md)
