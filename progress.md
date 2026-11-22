@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **881**.
+Total books summarized: **882**.
 
-Books planned: **65**. Total tracked: **946**.
+Books planned: **64**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (65)
+## Books to Summarize (64)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1042,7 +1042,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 - [x] [Just Mercy by Bryan Stevenson](content/posts/law_and_justice/just-mercy/index.md)
 - [ ] The Color of Law by Richard Rothstein
 - [ ] The New Jim Crow by Michelle Alexander
-- [ ] The Nine by Jeffrey Toobin
+- [x] [The Nine by Jeffrey Toobin](content/posts/law_and_justice/the-nine/index.md)
 - [x] [The Rule of Law by Tom Bingham](content/posts/law_and_justice/the-rule-of-law/index.md)
 
 ### Additional Requested Books (16)
