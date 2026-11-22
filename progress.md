@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **882**.
+Total books summarized: **883**.
 
-Books planned: **64**. Total tracked: **946**.
+Books planned: **63**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (64)
+## Books to Summarize (63)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -939,7 +939,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 - [x] [Designing Data-Intensive Applications by Martin Kleppmann](content/posts/computing_and_software_engineering/designing-data-intensive-applications/index.md)
 - [x] [The Mythical Man-Month by Frederick P. Brooks Jr.](content/posts/computing_and_software_engineering/the-mythical-man-month/index.md)
 - [ ] The Pragmatic Programmer by David Thomas and Andrew Hunt
-- [ ] The Soul of a New Machine by Tracy Kidder
+- [x] [The Soul of a New Machine by Tracy Kidder](content/posts/computing_and_software_engineering/the-soul-of-a-new-machine/index.md)
 
 ### Artificial Intelligence and Technology Ethics (5)
 
