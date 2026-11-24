@@ -1,0 +1,14 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square hero illustration for Pedagogy of the Oppressed by Paulo Freire. Input image: the supplied spaced-review.webp is a STYLE REFERENCE ONLY; match its gouache medium, warm muted palette, soft light, paper texture, and visual density, but create an entirely new setting and people. Scene: a modest community meeting room opening onto a sunlit courtyard. Four believable adult learners of varied ages and skin tones, women and men in ordinary work clothes, sit in a loose circle on simple wooden chairs, at equal height. One participant holds a large sheet with a simple unlettered drawing of local houses, a path, and a water well; another gestures thoughtfully toward it, and the others listen attentively. Make the shared drawing and respectful exchange the focal point. No teacher on a platform, no classroom rows. This is an imagined example of collective inquiry, not a historical event or portrait of Freire. Balanced square composition, generous warm ivory breathing room, hands simple and anatomically plausible, important people and sheet away from edges. No lettering anywhere.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "style reference only"
+    }
+  ],
+  "asset": "image.png",
+  "generated_source": "/home/leopard/.codex/generated_images/01a20d52-8c2a-75f3-8feb-1305b06331d1/exec-236a7a63-61da-4a4f-aba8-428c3f7636ec.png"
+}
