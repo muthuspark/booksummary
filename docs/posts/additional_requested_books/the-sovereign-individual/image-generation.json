@@ -1,0 +1,13 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "stylized-concept",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: stylized-concept. Asset type: square book-summary hero, 1024 by 1024 pixels. Input image: the supplied spaced-review.webp is a STYLE REFERENCE ONLY for gouache medium, pigment, paper, palette, and soft light; do not copy its people, desk, room, or panels. Subject: a quiet visual metaphor for The Sovereign Individual, contrasting fixed territorial institutions with portable digital work. One small open olive-green laptop and a simple brown traveling satchel sit on a broad stone harbor parapet in the foreground. Beyond them, a calm waterway separates three modest coastal towns, each with a distinct civic building and ordinary houses; one has a restrained old stone tower. Thin, subtle ochre connecting arcs travel above the water between the towns, suggesting information crossing borders. A tiny blank charcoal screen with no lettering. No people. Balanced single square scene, generous ivory sky, clear central laptop-and-satchel focal point, legible at thumbnail size. The towns remain grounded in real land and infrastructure, not floating futuristic cities. No flags, coin symbols, cryptocurrency logos, locks, fake maps, or financial charts. This is a conceptual illustration, not a documented event.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "Style reference only"
+    }
+  ],
+  "output": "image.png"
+}

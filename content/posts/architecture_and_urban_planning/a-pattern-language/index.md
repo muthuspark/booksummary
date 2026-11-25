@@ -7,11 +7,13 @@ description: "How 253 connected design patterns help people shape livable neighb
 image: "image.png"
 ---
 
-# A shared language for making places people can inhabit
+# A Pattern Language: Summary and Key Ideas
 
 *A Pattern Language: Towns, Buildings, Construction* argues that the people who inhabit places should have a central role in shaping them. Published in 1977, it turns architectural knowledge into a vocabulary that residents, builders, and designers can discuss together. Christopher Alexander, Sara Ishikawa, and Murray Silverstein wrote the book with Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel. Its ambition reaches from regional planning to the arrangement of a comfortable seat.
 
-The central proposal is that recurring problems in the built environment have recognizable solutions, yet those solutions can take different physical forms. Naming them makes practical knowledge easier to remember, debate, and combine. Instead of beginning with an impressive exterior and fitting life inside it, the authors ask how buildings and settlements can support ordinary human activities. The [publisher's description](https://www.oup.com.au/books/general-interest/art-technology/9780195019193) makes clear that this is both a design handbook and a proposal to redistribute design authority.
+A **pattern language** is a set of connected solutions to recurring design problems. Each pattern describes a useful relationship, such as a gradual transition from street to home. The language lets people combine these relationships into a design suited to their place. It does not require every building to look the same. The authors explain this distinction in [A Just So Story](https://www.patternlanguage.com/patterns/justsostory.html).
+
+Naming these relationships makes practical knowledge easier to remember, discuss, and combine. Instead of beginning with an impressive exterior and fitting life inside it, the authors ask how buildings and settlements can support ordinary human activities. The [publisher's description](https://www.oup.com.au/books/general-interest/art-technology/9780195019193) makes clear that this is both a design handbook and a proposal to give residents a larger role in design.
 
 ## What makes a pattern different from a design tip
 
