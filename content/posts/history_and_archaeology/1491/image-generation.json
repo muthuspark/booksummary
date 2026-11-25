@@ -1,0 +1,15 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: historical-scene. Asset type: square hero illustration for 1491 by Charles C. Mann. Input image: the supplied starting-small.webp is a STYLE REFERENCE ONLY for matte gouache, warm paper texture, restrained palette and soft lighting; do not reuse its person, desk, or modern setting. Create a new balanced square composition, at least 1024 by 1024 pixels, showing a conceptual reconstruction of an Indigenous managed landscape in the pre-Columbian Bolivian Amazon: a gently elevated viewpoint across several broad raised cultivation beds separated by calm shallow water channels, an earthen causeway leading toward a small distant cluster of simple thatched dwellings on slightly higher ground, and modest groves of useful trees at the forest edge. The cultivated beds, water and forest form one coherent landscape and are the focal point. Keep fields and channels clear and readable at thumbnail size, foliage simple, and distant houses understated. This is an interpretive landscape, not a documented reconstruction of a named settlement. No pyramids, stone palaces, European objects, modern machinery, livestock, flags, writing, or maps. No people are needed. Preserve breathing room, natural irregularity and restrained visual density; do not make geometric patterns look like modern industrial agriculture.",
+  "referenced_image_paths": [
+    "/home/leopard/development/blogs/booksummary/content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp"
+  ],
+  "reference_role": "style only",
+  "transparent_background": false,
+  "asset": "image.png",
+  "dimensions": [
+    1254,
+    1254
+  ]
+}

@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **888**.
+Total books summarized: **890**.
 
-Books planned: **58**. Total tracked: **946**.
+Books planned: **56**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (58)
+## Books to Summarize (56)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -951,7 +951,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 
 ### History and Archaeology (5)
 
-- [ ] 1491 by Charles C. Mann
+- [x] [1491 by Charles C. Mann](content/posts/history_and_archaeology/1491/index.md)
 - [ ] SPQR by Mary Beard
 - [ ] The Anarchy by William Dalrymple
 - [x] [The Dawn of Everything by David Graeber and David Wengrow](content/posts/history_and_archaeology/the-dawn-of-everything/index.md)
@@ -976,7 +976,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 ### Sociology and Anthropology (5)
 
 - [ ] Debt: The First 5,000 Years by David Graeber
-- [ ] Evicted by Matthew Desmond
+- [x] [Evicted by Matthew Desmond](content/posts/sociology_and_anthropology/evicted/index.md)
 - [x] [The Presentation of Self in Everyday Life by Erving Goffman](content/posts/sociology_and_anthropology/the-presentation-of-self-in-everyday-life/index.md)
 - [x] [The Sociological Imagination by C. Wright Mills](content/posts/sociology_and_anthropology/the-sociological-imagination/index.md)
 - [ ] The WEIRDest People in the World by Joseph Henrich
