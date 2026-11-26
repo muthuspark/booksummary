@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **890**.
+Total books summarized: **891**.
 
-Books planned: **56**. Total tracked: **946**.
+Books planned: **55**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (56)
+## Books to Summarize (55)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -1055,7 +1055,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 - [x] [The Art of Worldly Wisdom by Baltasar Gracián](content/posts/additional_requested_books/the-art-of-worldly-wisdom/index.md)
 - [x] [The Bed of Procrustes by Nassim Nicholas Taleb](content/posts/additional_requested_books/the-bed-of-procrustes/index.md)
 - [x] [The Beginning of Infinity by David Deutsch](content/posts/additional_requested_books/the-beginning-of-infinity/index.md)
-- [ ] The Denial of Death by Ernest Becker
+- [x] [The Denial of Death by Ernest Becker](content/posts/additional_requested_books/the-denial-of-death/index.md)
 - [ ] The Essays of Montaigne by Michel de Montaigne
 - [ ] The Lessons of History by Will and Ariel Durant
 - [ ] The Most Important Thing by Howard Marks
