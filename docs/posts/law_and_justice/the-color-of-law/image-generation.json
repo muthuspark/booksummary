@@ -1,0 +1,13 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen (built-in)",
+  "use_case": "illustration-story",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: illustration-story. Asset type: square book-summary hero, 1024 by 1024. Input image 1 is a style reference only: match its warm paper, matte gouache, restrained detail and soft light; do not repeat its people, desk, or composition. Create a new conceptual illustration about government shaping residential segregation in the United States. A gently elevated view of a small mid-century American neighborhood model resting on an unfolded, unlettered municipal street plan. Modest detached houses and a cluster of brick apartments occupy separate parts of the same continuous street grid. In the foreground, a large natural-wood rubber stamp and a small stack of unlettered ivory policy papers overlap the plan, showing administrative decisions shaping the neighborhood. All homes should look dignified and believable; no ruined slums, racial caricatures, literal walls, people, flags, maps with readable text, or fake official seals. The stamp lies on its side and has no lettering. Clear central focal point on the plan and homes, quiet generous margins. This is a visual metaphor, not a reconstruction of a documented location.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/spaced-review.webp",
+      "role": "style reference only"
+    }
+  ],
+  "asset": "image.png"
+}

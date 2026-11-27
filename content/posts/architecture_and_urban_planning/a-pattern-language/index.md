@@ -31,6 +31,12 @@ The sequence moves through three scales: towns, buildings, and construction. Rea
 
 The authors present this as one possible language, open to revision. Their [introductory discussion](https://www.patternlanguageindex.com/understanding-a-pattern-language) describes patterns as hypotheses and encourages readers to construct a language suited to their own project. The method asks for coherent relationships across scales, while leaving room for local judgment.
 
+### A concrete example: designing a porch
+
+The introduction describes a porch built by one of the authors using ten patterns. A sunny location helps determine where to put it. An existing roof overhang and a tree help make part of it feel like an outdoor room. The platform leaves space for people to sit together. Its corner is cut away to preserve the route to the front door. Existing roof columns stay in place, and the platform fits around them. See the [book's porch example](https://www.patternlanguageindex.com/understanding-a-pattern-language).
+
+These choices shape the same place together. Sunlight matters less if nobody can sit comfortably; a pleasant sitting area still needs to respect the entrance route. This is how the language works: several patterns guide one design, and the actual site shapes how each pattern is used.
+
 ## Towns: bring daily life within reach
 
 At the urban scale, the book treats planning as the organization of everyday relationships. **Scattered Work**, pattern 9, challenges the separation of employment from residential life. The authors propose distributing workplaces among neighborhoods rather than concentrating work and housing into disconnected districts. They include several possibilities, from larger industrial areas to small workshops near homes.
