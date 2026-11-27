@@ -1,0 +1,15 @@
+{
+  "style_identifier": "warm-gouache-v1",
+  "tool": "image_gen.imagegen",
+  "use_case": "historical-scene",
+  "prompt": "Create a finished illustration for a public book-summary library for adult readers. Use a calm, contemporary illustrated-book style: hand-painted gouache, soft matte pigment, restrained pencil details, and a subtle warm ivory paper texture. Use a consistent palette of muted sage and olive green, warm ochre, natural wood brown, and warm ivory, with dark brown or charcoal details. Keep saturation restrained and lighting soft and natural. Give the scene generous breathing room, a clear focal point, and simple, recognizable forms that remain readable on a phone. When people are relevant, depict believable adults with natural proportions, respectful expressions, and ordinary clothing. Use the same medium, palette, texture, and level of detail across the illustration. Avoid photorealism, glossy 3D, neon colors, cinematic effects, heavy black outlines, childish clipart, ornamental clutter, and a different art style in each panel. No readable text, captions, logos, watermarks, fake book covers, or invented author portraits. Keep all explanations and essential labels outside the generated image.\n\nUse case: historical-scene. Asset type: balanced square hero illustration for The Anarchy by William Dalrymple. Input image: the supplied starting-small.webp is a STYLE REFERENCE ONLY for gouache medium, muted palette, paper texture, light and visual density; do not copy its person, desk or setting. Primary request: an evocative still life of commerce becoming conquest in late eighteenth-century Bengal. In the foreground, a low merchant's wooden platform holds folded ivory cotton cloth, a closed plain account ledger without lettering, a few silver coins, and a simple brass balance scale. Behind them, one period field cannon rests on wooden wheels beside a quiet river warehouse with simple arches; a small river cargo boat is visible beyond. No people needed. Treat this as a symbolic historical illustration, not a reconstruction of a named event. The cloth and scale are the focal point; cannon is clearly recognizable but subordinate. Generous ivory sky and room around objects, muted sage foliage and river, warm ochre masonry and brown wood. No modern objects, national flags, maps, lettering or extravagant palaces. Square 1024 by 1024 composition.",
+  "reference_images": [
+    {
+      "path": "content/posts/decision_making_and_critical_thinking/a-mind-for-numbers/starting-small.webp",
+      "role": "Style reference only; inspected before generation"
+    }
+  ],
+  "assets": [
+    "image.png"
+  ]
+}

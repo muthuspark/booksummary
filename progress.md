@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **893**.
+Total books summarized: **894**.
 
-Books planned: **53**. Total tracked: **946**.
+Books planned: **52**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (53)
+## Books to Summarize (52)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -953,7 +953,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 
 - [x] [1491 by Charles C. Mann](content/posts/history_and_archaeology/1491/index.md)
 - [ ] SPQR by Mary Beard
-- [ ] The Anarchy by William Dalrymple
+- [x] [The Anarchy by William Dalrymple](content/posts/history_and_archaeology/the-anarchy/index.md)
 - [x] [The Dawn of Everything by David Graeber and David Wengrow](content/posts/history_and_archaeology/the-dawn-of-everything/index.md)
 - [x] [The Silk Roads by Peter Frankopan](content/posts/history_and_archaeology/the-silk-roads/index.md)
 
