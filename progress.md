@@ -1,8 +1,8 @@
 # Summary Progress
 
-Total books summarized: **894**.
+Total books summarized: **895**.
 
-Books planned: **52**. Total tracked: **946**.
+Books planned: **51**. Total tracked: **946**.
 
 Completed summaries in `content/posts/`, grouped by category and sorted alphabetically. Each title links to its summary.
 
@@ -881,7 +881,7 @@ Completed summaries in `content/posts/`, grouped by category and sorted alphabet
 - [x] [You Need a Budget by Jesse Mecham](content/posts/wealth_and_finance/you-need-a-budget/index.md)
 - [x] [Your Money or Your Life by Vicki Robin and Joe Dominguez](content/posts/wealth_and_finance/your-money-or-your-life/index.md)
 
-## Books to Summarize (52)
+## Books to Summarize (51)
 
 Planned summaries across 20 additional fields, plus additional requested books. Leave each book unchecked until its summary is complete.
 
@@ -895,7 +895,7 @@ Planned summaries across 20 additional fields, plus additional requested books. 
 
 ### Physics and Chemistry (5)
 
-- [ ] Seven Brief Lessons on Physics by Carlo Rovelli
+- [x] [Seven Brief Lessons on Physics by Carlo Rovelli](content/posts/physics_and_chemistry/seven-brief-lessons-on-physics/index.md)
 - [x] [Six Easy Pieces by Richard P. Feynman](content/posts/physics_and_chemistry/six-easy-pieces/index.md)
 - [x] [Stuff Matters by Mark Miodownik](content/posts/physics_and_chemistry/stuff-matters/index.md)
 - [ ] The Disappearing Spoon by Sam Kean

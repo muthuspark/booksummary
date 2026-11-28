@@ -62,6 +62,8 @@ This ending offers no recovery of an intact self. One reading is that the search
 
 ## How to understand the shifting narration
 
+**A note on English editions:** The 2024 New Directions edition uses the translation by Hardie St. Martin and Leonard Mades, revised and updated by Megan McDowell. It restores material omitted from the earlier English edition. Readers comparing copies may therefore find passages missing from an older translation. The [publisher describes the restored edition](https://www.ndbooks.com/book/the-obscene-bird-of-night/).
+
 Humberto is more than an unreliable witness who occasionally gets facts wrong. The voice itself changes position. It moves among identities, repeats events in altered forms, and claims knowledge beyond one person's experience. The reader cannot always separate memory, invention, desire, and nightmare.
 
 A useful approach is to ask three questions: Who seems to be speaking? Which house are we in? What does this version allow someone to hide or control? These questions preserve the uncertainty without making every passage meaningless.

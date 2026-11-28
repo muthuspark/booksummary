@@ -31,6 +31,17 @@ The sequence moves through three scales: towns, buildings, and construction. Rea
 
 The authors present this as one possible language, open to revision. Their [introductory discussion](https://www.patternlanguageindex.com/understanding-a-pattern-language) describes patterns as hypotheses and encourages readers to construct a language suited to their own project. The method asks for coherent relationships across scales, while leaving room for local judgment.
 
+### How to choose patterns for a project
+
+The authors give a practical method for making a smaller language from the book:
+
+1. Choose a starting pattern that matches the overall scope of your project.
+2. Read its links to larger and smaller patterns. Include larger ones when you can help create them. Follow smaller ones that can complete your design.
+3. Repeat this process with the patterns you select. Keep the list manageable; leave out doubtful choices.
+4. Add missing ideas and adapt patterns to your needs. Put additions near patterns of a similar scale.
+
+This gives readers a way to start without trying to apply all 253 patterns. See the introduction's [steps for choosing a project language](https://www.patternlanguageindex.com/understanding-a-pattern-language#steps-for-your-own-project).
+
 ### A concrete example: designing a porch
 
 The introduction describes a porch built by one of the authors using ten patterns. A sunny location helps determine where to put it. An existing roof overhang and a tree help make part of it feel like an outdoor room. The platform leaves space for people to sit together. Its corner is cut away to preserve the route to the front door. Existing roof columns stay in place, and the platform fits around them. See the [book's porch example](https://www.patternlanguageindex.com/understanding-a-pattern-language).
